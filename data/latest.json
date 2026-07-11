@@ -1,20 +1,70 @@
 {
-  "generated_at": "2026-07-12T03:07:00+08:00",
+  "generated_at": "2026-07-12T04:07:41+08:00",
   "headline": {
-    "title": "超級颱風巴威登陸浙江　台灣擦邊而過菲律賓釀15死",
-    "dek": "巴威以逾350公里的巨大暴風圈掠過台灣北部後於浙江登陸，中國疏散逾170萬人，菲律賓土石流已釀15人死亡。",
+    "title": "巴威颱風登陸浙江 台灣風雨肆虐逾百傷",
+    "dek": "今年最強颱風重創華東，菲律賓豪雨釀17死，台灣嚴防強風豪雨",
     "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
   },
   "items": [
-    { "rank": 1, "title": "巴威登陸浙江　觸發大規模疏散", "dek": "據The Watchers報導，巴威以144公里風速登陸浙江玉環，暴雨續襲內陸。", "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/" },
-    { "rank": 2, "title": "近200萬人撤離　巴威登陸台州", "dek": "美國新聞與世界報導指出，浙江台州周邊疏散逾170萬人，福建另撤逾10萬人。", "url": "https://www.usnews.com/news/world/articles/2026-07-11/china-evacuates-over-one-million-as-typhoon-bavi-nears" },
-    { "rank": 3, "title": "中國逾百萬人疏散迎戰巴威", "dek": "半島電視台報導，此為年度最大規模颱前疏散，上海亦撤離約3萬4000人。", "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china" },
-    { "rank": 4, "title": "PBS：巴威掠台後登陸中國東部", "dek": "公共電視網證實巴威先掠過台灣北部海域，並增強菲律賓西南季風。", "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated" },
-    { "rank": 5, "title": "菲律賓土石流釀15死　巴威威脅未解", "dek": "半島電視台報導，薩蘭加尼與蘭佬蘇丹省土石流共造成15人罹難。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
-    { "rank": 6, "title": "巴威漸遠離　台灣估明晨解除警報", "dek": "TVBS報導，中央氣象署指陸警最快12日凌晨解除，海警晨間跟進。", "url": "https://news.tvbs.com.tw/life/3246431" },
-    { "rank": 7, "title": "巴威襲台周邊　36人受傷逾20縣市停班課", "dek": "星島日報報導，台灣逾15萬戶一度停電，巴威預計12日凌晨登陸浙閩沿海。", "url": "https://www.singtaousa.com/2026/07/11/news/china/typhoon-bavi-landfall-zhejiang-fujian/" },
-    { "rank": 8, "title": "PAGASA：巴威已移出菲律賓責任區", "dek": "官方第12號警報指出，巴威位於東海海域，正減弱為強烈熱帶風暴。", "url": "https://pubfiles.pagasa.dost.gov.ph/tamss/weather/bulletin_inday.pdf" },
-    { "rank": 9, "title": "巴威肆虐　12日全台停班停課一覽", "dek": "中央社彙整最新停班停課名單，並持續統計各地災損情況。", "url": "https://www.cna.com.tw/news/ahel/202607115003.aspx" },
-    { "rank": 10, "title": "中國南方水患釀39死　早於巴威來襲", "dek": "CBS新聞報導，颱風麥德姆豪雨致26人因水庫潰壩罹難，加劇後續洪患風險。", "url": "https://www.cbsnews.com/news/southern-china-flooding-maysak-typhoon-bavi/" }
+    {
+      "rank": 1,
+      "title": "巴威衝上五級 今年第三個超級颱風",
+      "dek": "耶魯氣候連線報導，巴威掠過北馬里亞納群島時重創關島、羅塔島與塞班島。",
+      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
+    },
+    {
+      "rank": 2,
+      "title": "超級颱風「英達」進入菲律賓責任區",
+      "dek": "菲律賓星報報導，PAGASA對呂宋部分地區釋出一號風球警報。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/07/2540709/signal-no-1-raised-super-typhoon-inday-enters-par"
+    },
+    {
+      "rank": 3,
+      "title": "英達減弱遠離 西南季風帶來強降雨",
+      "dek": "Rappler報導，巴威增強的季風效應已在呂宋南部釀成淹水與山崩死傷。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-10-2026-5am/"
+    },
+    {
+      "rank": 4,
+      "title": "台灣釋出颱風警報 多項活動取消",
+      "dek": "台北時報報導，氣象署警告巴威暴風圈恐為1995年以來影響台灣最大者。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
+    },
+    {
+      "rank": 5,
+      "title": "台灣嚴防「破壞性」強風豪雨",
+      "dek": "Phys.org報導，北部山區累積雨量預估達600至900毫米。",
+      "url": "https://phys.org/news/2026-07-taiwan-destructive-typhoon-nears.html"
+    },
+    {
+      "rank": 6,
+      "title": "氣象署更新警報 巴威暴風圈掠東部海域",
+      "dek": "Newtalk新聞報導，警戒範圍縮至九縣市，含新北、基隆、台北與馬祖。",
+      "url": "https://newtalk.tw/news/view/2026-07-11/1046467"
+    },
+    {
+      "rank": 7,
+      "title": "中國東南沿海數十萬人緊急撤離",
+      "dek": "半島電視台報導，浙江、福建沿海鐵路停駛、航班與港口全面停擺。",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+    },
+    {
+      "rank": 8,
+      "title": "巴威登陸華東 逾百萬人撤離",
+      "dek": "美國公共廣播公司報導，颱風北掠台灣後登陸浙江，菲律賓洪災已致17人死亡。",
+      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
+    },
+    {
+      "rank": 9,
+      "title": "巴威登陸浙江台州 近兩百萬人撤離",
+      "dek": "美國新聞與世界報導指出，中國發布今年首個暴雨紅色預警。",
+      "url": "https://www.usnews.com/news/world/articles/2026-07-11/china-evacuates-over-one-million-as-typhoon-bavi-nears"
+    },
+    {
+      "rank": 10,
+      "title": "巴威登陸浙江玉環 風場創紀錄",
+      "dek": "The Watchers報導，颱風風力半徑逾1000公里，登陸時風速達每小時144公里。",
+      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
+    }
   ]
 }
