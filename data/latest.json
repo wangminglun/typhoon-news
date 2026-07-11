@@ -1,70 +1,20 @@
 {
-  "generated_at": "2026-07-11T14:05:00+08:00",
+  "generated_at": "2026-07-11T15:05:00+08:00",
   "headline": {
-    "title": "巴威颱風掠過北台灣 中央氣象署首發「怪浪」警報 全台逾一萬四千人疏散",
-    "dek": "這場三十餘年來侵台範圍最大的颱風，今天以三百八十公里強風半徑通過台灣北部與東部海域，氣象署預估北部山區累積雨量恐達九百毫米。",
-    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
+    "title": "超級颱風巴威逼近中國東南沿海 台灣北部及東半部嚴陣以待",
+    "dek": "這場曾在關島掀起五級強風的超級颱風巴威已為菲律賓南部帶來致命土石流，如今持續北上，預計週六深夜至週日凌晨在浙閩沿海登陸，中國已疏散逾一萬七千人並將應變層級提升至第三級。",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/typhoon-bavi-tracks-toward-china-with-heavy-widespread-rains"
   },
   "items": [
-    {
-      "rank": 1,
-      "title": "巴威颱風主要威脅今日來襲",
-      "dek": "氣象署預估暴風圈今日中午到傍晚最接近台灣，北部與中部山區恐有豪雨到超大豪雨，北部山區累積雨量上看九百毫米。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
-    },
-    {
-      "rank": 2,
-      "title": "台灣發布海陸颱風警報 全台大規模停班停課",
-      "dek": "隨著巴威颱風逼近，台灣發布海上與陸上颱風警報，並宣布全國大範圍停班停課。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
-    },
-    {
-      "rank": 3,
-      "title": "氣象署：巴威暴風圈週六清晨觸及北台灣",
-      "dek": "氣象署預報員表示，巴威颱風中心較可能從台灣北方掠過而非直接登陸，但其三百八十公里強風半徑使其成為三十餘年來侵台最大颱風。",
-      "url": "https://focustaiwan.tw/society/202607100011"
-    },
-    {
-      "rank": 4,
-      "title": "台灣疏散數百人 迎接數十年來最大颱風",
-      "dek": "因應這場數十年來侵襲台灣最龐大的暴風圈，台灣多地展開疏散作業。",
-      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
-    },
-    {
-      "rank": 5,
-      "title": "巴威颱風來襲 台灣全境停擺 逾萬人疏散",
-      "dek": "台灣政府已疏散逾一萬四千人，主要來自花蓮山區兩座受監控堰塞壩周邊，全國因應這場中等強度但範圍異常龐大的颱風而停班停課。",
-      "url": "https://www.usnews.com/news/world/articles/2026-07-10/thousands-evacuated-as-taiwan-shuts-down-for-typhoon-bavi"
-    },
-    {
-      "rank": 6,
-      "title": "中國加強防颱應變 巴威來襲航班列車紛紛取消",
-      "dek": "中國浙江、福建等沿海省份已啟動第四級應急響應，取消航班與列車服務，浙江省疏散逾一萬七千人並派出十七萬救援人員待命。",
-      "url": "https://www.scmp.com/news/china/politics/article/3360201/typhoon-bavi-flights-and-trains-cancelled-china-steps-emergency-preparations"
-    },
-    {
-      "rank": 7,
-      "title": "巴威颱風眼結構瓦解 暴風範圍持續擴大",
-      "dek": "巴威颱風眼在逼近中國沿岸過程中趨於瓦解，但整體暴風圈規模持續擴大，導致區域內航班大規模受擾。",
-      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
-    },
-    {
-      "rank": 8,
-      "title": "颱風英黛飛出菲律賓責任區 仍增強西南季風",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，颱風英黛已於今晨飛出責任區，曾以每小時一百九十五公里風速達超級颱風等級，巴丹群島仍在強風警戒中。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-11-2026-11am/"
-    },
-    {
-      "rank": 9,
-      "title": "超級颱風巴威成為今年第三個五級颱風",
-      "dek": "分析指出，巴威颱風已達到相當於五級颶風的超級颱風強度，是今年西太平洋颱風季第三個達此等級的系統。",
-      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
-    },
-    {
-      "rank": 10,
-      "title": "颱風摩羯洪災重創中國南方 釀三十九人死亡",
-      "dek": "熱帶氣旋摩羯引發的洪災在中國南方造成三十九人死亡，其中多人死於堤壩潰堤導致南寧淹水，約十三萬人被迫疏散。",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
-    }
+    { "rank": 1, "title": "巴威逼近溫州外海 預計今晚登陸中國東部", "dek": "彭博社報導，截至11日上午9時巴威中心距溫州外海約489公里，風速仍達14級，預計數小時內掠過琉球群島並於午夜前在浙閩交界登陸。", "url": "https://www.bloomberg.com/news/articles/2026-07-11/typhoon-bavi-tracks-toward-china-with-heavy-widespread-rains" },
+    { "rank": 2, "title": "巴威增強西南季風 菲律賓南部土石流釀15死", "dek": "半島電視台報導，巴威增強的西南季風在南哥打巴托省馬拉巴塔鎮引發土石流掩埋兩戶家庭，造成至少15人死亡。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
+    { "rank": 3, "title": "颱風巴威逼近 北北基桃宜11日宣布停班停課", "dek": "中央社報導，隨巴威暴風圈預計於深夜進入北部及東北部海域，基隆、台北、新北、桃園與宜蘭宣布7月11日全日停班停課。", "url": "https://www.cna.com.tw/news/ahel/202607105003.aspx" },
+    { "rank": 4, "title": "氣象署發布陸海颱風警報 客輪航班全面取消", "dek": "《台北時報》報導，中央氣象署已針對巴威發布陸上及海上颱風警報，多家客輪停駛，北部與東部地區將迎豪雨到大豪雨。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507" },
+    { "rank": 5, "title": "中國東部省份提升颱風應變至第三級", "dek": "新華社報導，中國已將全國防汛防颱應變層級提升至第三級，浙江省疏散逾1萬7千人，並動員17萬餘名救援人員待命。", "url": "https://english.news.cn/20260710/b891c6b0365945c78aaa255a56d70ca7/c.html" },
+    { "rank": 6, "title": "從關島五級狂風到直撲台海 巴威路徑一路北上", "dek": "《華盛頓郵報》回顧指出，巴威曾以五級颱風重創關島與北馬里亞納群島，如今減弱後仍持續逼近台灣並轉向中國浙江沿岸。", "url": "https://www.washingtonpost.com/weather/2026/07/10/typhoon-bavi-heading-toward-taiwan-china/" },
+    { "rank": 7, "title": "菲律賓西南季風致災死亡人數升至17人", "dek": "Rappler報導，巴威增強的西南季風在菲律賓南部造成的死亡人數已升至至少17人，多因溺水與土石流，馬拉巴塔鎮災區遺體搜救已完成。", "url": "https://www.rappler.com/philippines/mindanao/southwest-monsoon-death-toll-updates-july-11-2026/" },
+    { "rank": 8, "title": "暴風圈近25年最大 五縣市遭直接侵襲機率逾九成", "dek": "風傳媒整理指出，巴威暴風半徑達350公里、中心氣壓895百帕，基隆、宜蘭、台北、新北、桃園受暴風圈直接侵襲機率一度超過九成，預計清晨於溫嶺至霞浦一帶登陸中國。", "url": "https://www.storm.mg/lifestyle/11147751" },
+    { "rank": 9, "title": "嘉義縣跟進宣布11日停班停課", "dek": "聯合新聞網報導，隨巴威持續逼近，嘉義縣加入宣布7月11日全日停止上班上課的縣市行列。", "url": "https://udn.com/news/story/124945/9620288" },
+    { "rank": 10, "title": "巴威路徑北移 登陸中國東部機率升高", "dek": "越南媒體VietNamNet報導，預報顯示巴威路徑北移，直接侵襲越南的可能性降低，進一步確認風暴將掠過台灣外圍後於浙閩沿海登陸。", "url": "https://vietnamnet.vn/en/typhoon-bavi-shifts-north-likely-to-make-landfall-in-eastern-china-2534513.html" }
   ]
 }
