@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-11T12:11:00+08:00",
+  "generated_at": "2026-07-11T13:06:00+08:00",
   "headline": {
-    "title": "強颱巴威掠過北台灣　今夜料登陸中國閩浙沿海",
-    "dek": "這場暴風半徑創31年紀錄的超級颱風已在菲律賓釀成17死10失蹤，並延續中國南方逾五十人罹難的致命水患，如今台灣近乎全境停班停課、嚴陣以待。",
+    "title": "超級颱風巴威掠過台灣東北　全台幾乎停班停課　北部山區恐降雨900毫米",
+    "dek": "中央災害應變中心統計，全台已有8972人預防性疏散、13人受傷，巴威預計12日凌晨在中國溫州、福清一帶登陸。",
     "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
   },
   "items": [
-    { "rank": 1, "title": "北台今午強風雨最猛　東岸浪高逼近9公尺", "dek": "中央氣象署預警，台北盆地及北海岸週五午後至夜間將迎最強風雨，除台東、金門外，全台各縣市宣布停班停課。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564" },
-    { "rank": 2, "title": "巴威直撲中國　台北宣布停課因應", "dek": "美聯社報導，巴威預計週六夜間在上海以南、閩浙交界登陸，浙江已疏散逾1.7萬人，17萬救援人力待命。", "url": "https://abcnews.com/International/wireStory/china-braces-powerful-typhoon-after-week-deadly-storms-134641294" },
-    { "rank": 3, "title": "台灣暫停股市交易　學校停課迎戰巴威", "dek": "彭博社報導，巴威風速逼近時速200公里、暴風圈寬達千公里，恐為1987年以來侵台最大規模颱風。", "url": "https://www.bloomberg.com/news/articles/2026-07-10/taiwan-suspends-stock-trading-and-shuts-schools-as-typhoon-nears" },
-    { "rank": 4, "title": "巴威逼近　華航長榮取消台港數十航班", "dek": "據AeroTime報導，華航與長榮航空自週五晚間6時至週日凌晨4時全面停飛，往返日本、中國大陸等地航班亦大量取消。", "url": "https://www.aerotime.aero/articles/airlines-cancel-dozens-of-taiwan-and-hong-kong-flights-as-typhoon-bavi-nears" },
-    { "rank": 5, "title": "巴威掃過沖繩先島群島　強陣風恐掀翻房屋", "dek": "Eastern Herald報導，巴威風雨橫掃宮古、八重山群島，最大陣風估達時速216公里，日本航空取消48班航班。", "url": "https://easternherald.com/2026/07/10/typhoon-bavi-japan-sakishima-okinawa/" },
-    { "rank": 6, "title": "颱風英黛襲菲　土石流釀17死10失蹤", "dek": "《馬尼拉時報》報導，颱風英黛（巴威）與強化西南季風豪雨引發土石流，造成至少17人死亡、10人失蹤，近5萬人受災。", "url": "https://www.manilatimes.net/2026/07/10/news/national/10-dead-nearly-50k-affected-as-inday-monsoon-rains-batter-parts-of-ph/2382214" },
-    { "rank": 7, "title": "氣象署發布巴威陸上警報　北部山區估降雨900毫米", "dek": "中央氣象署表示，北部山區累積雨量恐達900毫米，國軍已派出約2.9萬兵力、24架直升機及大批救災車輛待命。", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537" },
-    { "rank": 8, "title": "巴威直撲台灣與中國　暴風半徑創25年之最", "dek": "《華盛頓郵報》報導，巴威暴風圈寬逾350公里，是西北太平洋近25年來規模數一數二的颱風。", "url": "https://www.washingtonpost.com/weather/2026/07/10/typhoon-bavi-heading-toward-taiwan-china/" },
-    { "rank": 9, "title": "又大又強　巴威暴風半徑創31年紀錄", "dek": "中央氣象署證實，巴威暴風半徑約380公里，為31年來侵台颱風之最，基隆、宜蘭、台北、新北、桃園強風機率逾九成。", "url": "https://udn.com/news/story/124945/9616229" },
-    { "rank": 10, "title": "熱帶風暴美莎克釀華南水患　39人罹難", "dek": "半島電視台報導，美莎克7月3日登陸海南、隔日在越南廣寧省再登陸，其後北上廣西、江蘇、山東，造成中國南方39人死於水患。", "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china" }
+    { "rank": 1, "title": "「暴風核心今日來襲」全台同步停班停課因應巴威", "dek": "除台東縣與金門縣外全台停班停課，中央氣象署預測北部山區累積雨量恐達900毫米，沿海浪高上看10公尺。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564" },
+    { "rank": 2, "title": "陸海颱風警報齊發　台灣預佈2.9萬兵力戒備巴威", "dek": "隨著巴威來勢洶洶，台灣發布海上及陸上颱風警報，並預先部署約2.9萬名軍人、24架直升機、3355輛救援車艇及2664台抽水機。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507" },
+    { "rank": 3, "title": "巴威逼近北北基桃宜　11日停班停課情況一覽", "dek": "中央災害應變中心統計，全台已有8972人預防性疏散、13人受傷，僅金門維持正常上班上課。", "url": "https://www.cna.com.tw/news/ahel/202607105003.aspx" },
+    { "rank": 4, "title": "《華盛頓郵報》：巴威路徑北掠台灣　直撲中國沿海", "dek": "該報報導指出，巴威在轉向中國東部沿海登陸前，已促使台灣、日本、中國多國同步加強防颱整備。", "url": "https://www.washingtonpost.com/weather/2026/07/10/typhoon-bavi-heading-toward-taiwan-china/" },
+    { "rank": 5, "title": "中國東南沿海嚴陣以待　巴威週六恐登陸閩浙交界", "dek": "央視旗下CGTN報導，中國國家防汛抗旱總指揮部已將浙江、福建防汛應急響應由三級提升至二級，因應近中心風力達17級的巴威。", "url": "https://news.cgtn.com/news/2026-07-09/Super-Typhoon-Bavi-to-make-landfall-along-China-s-east-coast-Saturday-1ODNEOyAQRq/p.html" },
+    { "rank": 6, "title": "《日本時報》：巴威重創日本南方離島　台灣緊急疏散逾萬人", "dek": "巴威以最大持續風速每小時144公里、陣風198公里侵襲琉球先島群島後轉向台灣，當局已從山區疏散逾1.4萬人，下一站直指人口逾千萬的溫州。", "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/" },
+    { "rank": 7, "title": "《南華早報》：巴威逼近　香港往返台灣航班大量取消", "dek": "多班往返台灣、中國大陸及日本的港澳航班取消，香港西九龍往返上海的高鐵班次亦同步停駛。", "url": "https://www.scmp.com/news/hong-kong/transport/article/3359975/super-typhoon-bavi-dozens-hong-kong-flights-cancelled-storm-nears-taiwan" },
+    { "rank": 8, "title": "菲律賓南部土石流奪15命　巴威威脅仍在延燒", "dek": "半島電視台報導，民答那峨島兩起土石流已知造成15人死亡、6人失蹤，其中蘭加尼省馬拉帕坦鎮10人罹難。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
+    { "rank": 9, "title": "巴威躍升今年全球第3個五級颱風　巔峰風速一度達每小時270公里", "dek": "美國聯合颱風警報中心估計，巴威7月4日左右一分鐘持續風速一度達165英里，成為2026年全球第三個五級強度熱帶氣旋。", "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/" },
+    { "rank": 10, "title": "新華社：日本氣象廳警告巴威恐致沖繩土石流與淹水", "dek": "石垣島往返航班與渡輪大量停駛，日本航空與全日空合計取消逾260個航班，影響數萬名旅客。", "url": "https://english.news.cn/20260711/f7f4fca09def4ba69e16135d336ea1db/c.html" }
   ]
 }
