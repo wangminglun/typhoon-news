@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-12T00:06:00+08:00",
+  "generated_at": "2026-07-12T01:05:00+08:00",
   "headline": {
-    "title": "強颱巴威掠境北台灣　19縣市停班停課　軍方近3萬人待命救災",
-    "dek": "中央氣象署預測暴風圈將於12日上午脫離台灣本島，這場被形容為近25年來最強颱風之一的巴威已在菲律賓造成15人罹難，並迫使中國大陸疏散逾180萬人。",
-    "url": "https://www.cna.com.tw/news/ahel/202607110029.aspx"
+    "title": "颱風巴威襲台　逾萬人撤離　週日登陸中國東南沿海",
+    "dek": "中央氣象署發布首次「巨浪特報」，全台除台東、金門外一致停班停課，中國浙江、福建已疏散逾百萬人因應巴威來襲。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
   },
   "items": [
-    { "rank": 1, "title": "颱風巴威暴風圈籠罩台中以北　白天降雨最劇烈", "dek": "中央社報導，中央氣象署表示11日白天為本波降雨最劇烈時段，台中以北山區恐降下逼近900毫米雨量。", "url": "https://www.cna.com.tw/news/ahel/202607110029.aspx" },
-    { "rank": 2, "title": "颱風巴威暴風範圍縮小　警報估12日清晨至上午解除", "dek": "中央社報導，中央氣象署指出巴威暴風圈持續縮小，陸上颱風警報預計於12日清晨至上午間全面解除。", "url": "https://www.cna.com.tw/news/ahel/202607110170.aspx" },
-    { "rank": 3, "title": "巴威重創日本南方離島　台灣同步展開疏散", "dek": "《日本時報》報導，巴威過境沖繩先島群島時陣風達每小時198公里，逾2萬4000戶停電，台灣則已展開數千人疏散作業。", "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/" },
-    { "rank": 4, "title": "菲律賓土石流釀15死　颱風巴威威脅擴及全區", "dek": "半島電視台報導，巴威（當地稱英黛）引發土石流已造成至少15人罹難，其中10人死於單一坍方事故。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
-    { "rank": 5, "title": "中國大陸疏散逾180萬人　嚴陣以待巴威登陸", "dek": "路透社報導，隨著巴威風速逼近每小時200公里並朝溫州逼近，中國大陸已疏散逾180萬居民。", "url": "https://www.investing.com/news/world-news/china-evacuates-over-one-million-as-typhoon-bavi-nears-4787223" },
-    { "rank": 6, "title": "台灣發布陸海颱風警報　航班與活動大規模取消", "dek": "《台北時報》報導，中央氣象署已對巴威發布陸上及海上颱風警報，預估北部山區雨量恐達900毫米，多項航班與公眾活動取消。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507" },
-    { "rank": 7, "title": "巴威路徑直指台灣與中國　未登陸仍恐釀強降雨", "dek": "《華盛頓郵報》報導，巴威預計掠過台灣北部後於中國福建、浙江沿岸登陸，台灣部分地區雨量恐逼近1000毫米。", "url": "https://www.washingtonpost.com/weather/2026/07/10/typhoon-bavi-heading-toward-taiwan-china/" },
-    { "rank": 8, "title": "7/11停班停課「19縣市」達標　巴威風雨影響擴及台中以南", "dek": "NOWnews報導，全台19縣市11日宣布停班停課，範圍已擴大至台中以南地區。", "url": "https://www.nownews.com/amp/news/6855152" },
-    { "rank": 9, "title": "中央氣象署颱風警報即時發布平台", "dek": "中央氣象署提供巴威最新位置、強度與警戒區域的官方即時公告，為台灣民眾防颱資訊的權威來源。", "url": "https://www.cwa.gov.tw/V8/E/P/Typhoon/TY_NEWS.html" },
-    { "rank": 10, "title": "摩羯與巴威接連來襲　亞洲進入高度警戒", "dek": "《民族報》報導，繼熱帶風暴摩羯重創中國廣西與越南北部後，威力更強的颱風巴威接續逼近台灣、日本與中國，凸顯今年西太平洋颱風季異常活躍。", "url": "https://www.nationthailand.com/news/general/40068233" }
+    { "rank": 1, "title": "巴威暴風核心今襲台　豪雨強風達到高峰", "dek": "中央氣象署對14縣市發布陸上警報，疏散人數截至週六下午已突破2050人。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564" },
+    { "rank": 2, "title": "巴威重創日本南方離島　台灣同步疏散逾萬人", "dek": "石垣島等先島群島全日班機與渡輪停駛，台灣疏散人數突破1萬4000人。", "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/" },
+    { "rank": 3, "title": "巴威逼近中國　浙江福建疏散逾百萬人", "dek": "北京氣象部門發布橙色颱風預警，溫州附近預計週日凌晨登陸。", "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china" },
+    { "rank": 4, "title": "颱風巴威陸上警報發布　14縣市首當其衝", "dek": "中央氣象署警告北部山區恐降雨900毫米，並示警沿海危險浪況。", "url": "https://focustaiwan.tw/society/202607100002" },
+    { "rank": 5, "title": "英代移出菲律賓責任區　西南季風持續增強", "dek": "菲律賓大氣地球物理天文局指出，巴丹群島仍處一級風力警戒，呂宋等地恐持續強陣風與降雨。", "url": "https://www.rappler.com/philippines/weather/typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-11-2026-11am/" },
+    { "rank": 6, "title": "巴威及西南季風重創菲律賓　17死逾51萬人受影響", "dek": "菲律賓國家災害風險管理委員會指出，颱風雖未直接登陸，豪雨與土石流仍造成廣泛災情。", "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/17-dead-514700-affected-by-typhoon-bavi-southwest-monsoon-in-philippines" },
+    { "rank": 7, "title": "花蓮堰塞湖水位升至近七成　當局密切監控", "dek": "萬里溪流域堰塞湖容量約510萬立方公尺，新設浮標感測器每10分鐘回傳水位資料。", "url": "https://www.taiwannews.com.tw/news/6398128" },
+    { "rank": 8, "title": "颱風逼近　台灣香港數十班機取消", "dek": "長榮、立榮、華信及馬來西亞航空等業者取消航班，台灣國際門戶幾近全面停擺。", "url": "https://www.aerotime.aero/articles/airlines-cancel-dozens-of-taiwan-and-hong-kong-flights-as-typhoon-bavi-nears" },
+    { "rank": 9, "title": "中央氣象署：巴威恐帶來900毫米雨量、6公尺巨浪", "dek": "台東外海與蘭嶼已測得最高7公尺浪高，氣象署首度發布「巨浪特報」。", "url": "https://focustaiwan.tw/society/202607090024" },
+    { "rank": 10, "title": "中國台灣嚴陣以待　巴威恐為近年最強颱風", "dek": "報導指出，中國仍在復原颱風美莎克於廣西造成至少39人死亡的災情之際，再度面臨巴威威脅。", "url": "https://www.usnews.com/news/world/articles/2026-07-08/typhoon-bavi-churns-towards-taiwan-as-china-braces-for-landfall" }
   ]
 }
