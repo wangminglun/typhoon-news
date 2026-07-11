@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-11T21:05:00+08:00",
+  "generated_at": "2026-07-11T22:06:00+08:00",
   "headline": {
-    "title": "颱風巴威重創台灣逾百人受傷　隨後直撲中國東部沿海",
-    "dek": "這場今年太平洋颱風季最強風暴之一，先是重創台灣全境，如今挾狂風暴雨逼近中國浙江，兩岸與菲律賓、日本均傳出人員傷亡與大規模疏散。",
-    "url": "https://focustaiwan.tw/society/202607110016"
+    "title": "巴維颱風掠過台灣東北外海　全台停班停課、逾萬人疏散",
+    "dek": "這個風場寬達三、四百公里、為近三十年來最龐大的颱風之一，已在菲律賓造成至少15人死亡，如今持續減弱並轉向中國東南沿海，浙江、福建緊急撤離逾60萬人。",
+    "url": "https://focustaiwan.tw/society/202607100012"
   },
   "items": [
-    { "rank": 1, "title": "巴威重創台灣　傷者增至八十七人、逾萬人撤離", "dek": "中央社報導，多數傷者因強風中騎乘機車或腳踏車跌倒受傷，全台無人罹難。", "url": "https://focustaiwan.tw/society/202607110016" },
-    { "rank": 2, "title": "停電戶數逾十七萬　台灣災情通報破千件", "dek": "《台灣英文新聞》指出，新北與台中災情最為集中，倒樹與設施損壞通報達一千四百五十六件。", "url": "https://www.taiwannews.com.tw/news/6399307" },
-    { "rank": 3, "title": "巴威主力風雨週六襲台　各地嚴陣以待", "dek": "《台北時報》頭版報導，中央氣象署陸上警報生效後，暴風威力於週六達到高峰。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564" },
-    { "rank": 4, "title": "全台除台東金門外停班停課　因應巴威來襲", "dek": "《台北時報》報導，中央氣象署警告強風豪雨將至，各縣市陸續宣布停班停課。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507" },
-    { "rank": 5, "title": "氣象署發布陸上警報　北部山區估降雨逾九百毫米", "dek": "《台北時報》報導，巴威近中心最大風速估達每小時一百八十四公里，陣風上看二百二十七公里。", "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537" },
-    { "rank": 6, "title": "巴威掃過日本先島群島　台灣同步展開大規模撤離", "dek": "《日本時報》報導，風暴同時衝擊日本西南離島與台灣，並持續朝中國方向移動。", "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/" },
-    { "rank": 7, "title": "巴威逼近浙江　彭博社：預計午夜前登陸溫州一帶", "dek": "彭博社報導，風暴登陸前風力達十四級，將帶來大範圍強降雨。", "url": "https://www.bloomberg.com/news/articles/2026-07-11/typhoon-bavi-tracks-toward-china-with-heavy-widespread-rains" },
-    { "rank": 8, "title": "中國浙閩兩省疏散逾六十萬人　發布橙色颱風預警", "dek": "半島電視台報導，當局已取消多班航班與火車，嚴陣以待巴威登陸。", "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china" },
-    { "rank": 9, "title": "中國洪災已釀三十九死　廣西水庫部分潰堤釀重大傷亡", "dek": "《商業標準報》報導，在巴威正式登陸前，強降雨已在多地造成嚴重人員傷亡。", "url": "https://www.business-standard.com/world-news/flooding-from-heavy-rain-leaves-39-dead-in-china-as-typhoon-bavi-approaches-126070900729_1.html" },
-    { "rank": 10, "title": "「英代」離開菲律賓責任區　仍持續增強西南季風", "dek": "《拉普勒》報導，菲律賓氣象局指出，先前走山災情已造成十人罹難、近五萬人受災。", "url": "https://www.rappler.com/philippines/weather/typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-11-2026-11am/" }
+    { "rank": 1, "title": "台灣通報5人受傷、逾2000人疏散　巴維颱風持續逼近", "dek": "中央災害應變中心指出，隨颱風巴維接近，全台已有5人受傷、逾2000人撤離，其中多數來自花蓮山區，當局並密切監控堰塞湖溢流風險。", "url": "https://focustaiwan.tw/society/202607100012" },
+    { "rank": 2, "title": "暴風核心今日籠罩　台北盆地午後至夜間風雨最強", "dek": "《台北時報》報導，總統賴清德呼籲高風險地區居民保持警戒，強調巴維雖已減弱為中度颱風，但異常寬廣的暴風圈仍可能帶來破壞性強風豪雨。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564" },
+    { "rank": 3, "title": "氣象署：巴維暴風圈周六凌晨籠罩北台灣", "dek": "中央氣象署預測，巴維暴風圈將於星期六凌晨進入北台灣，山區累積雨量恐達1公尺，當局警告淹水與土石流風險升高。", "url": "https://focustaiwan.tw/society/202607100011" },
+    { "rank": 4, "title": "巴維肆虐日本西南離島　台灣同步展開大規模疏散", "dek": "巴維以最大風速每小時144公里、陣風達198公里橫掃日本先島群島，石垣島等地班機渡輪全面停駛，風暴隨後持續朝台灣與中國方向移動。", "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/" },
+    { "rank": 5, "title": "巴維逼近中國　浙江、福建逾60萬人緊急撤離", "dek": "半島電視台報導，中國浙江撤離逾50萬人、福建撤離約10萬人，並發布橙色颱風預警，因應巴維預計於當晚登陸。", "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china" },
+    { "rank": 6, "title": "巴維持續朝中國逼近　恐帶來大範圍強降雨", "dek": "彭博社報導，巴維上午9時位於溫州外海約489公里處，以每小時30至35公里速度向西北移動，預計於蒼南至三門一帶登陸，為浙閩兩省帶來強降雨。", "url": "https://www.bloomberg.com/news/articles/2026-07-11/typhoon-bavi-tracks-toward-china-with-heavy-widespread-rains" },
+    { "rank": 7, "title": "菲律賓走山釀15死　巴維威脅全區蔓延", "dek": "半島電視台報導，巴維（當地稱英黛）引發的兩起走山在民答那峨造成至少15人死亡、6人失蹤，暴風尾流也為馬尼拉等地帶來淹水風險。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
+    { "rank": 8, "title": "中國加強應變措施　巴維來襲前航班列車大量取消", "dek": "《南華早報》報導，中國沿海省份為因應巴維來襲，加強緊急應變措施，取消大量航班並縮減鐵路班次。", "url": "https://www.scmp.com/news/china/politics/article/3360201/typhoon-bavi-flights-and-trains-cancelled-china-steps-emergency-preparations" },
+    { "rank": 9, "title": "巴維逼近　台灣周五多縣市停班停課、航班大量取消", "dek": "中央廣播電台報導，台灣多個縣市宣布周五停班停課，華航、長榮、星宇及台灣虎航等航空公司當日取消逾150班航班，周六再取消約760班。", "url": "https://www.rti.org.tw/en/news?uid=3&pid=219493" },
+    { "rank": 10, "title": "超強颱風巴維來襲　中國強化防洪應變措施", "dek": "《環球時報》報導，中國當局在巴維逼近東部沿海之際加強防洪與應變措施，警告多省將面臨大範圍風雨衝擊，適逢區域近期多起致命風災之後。", "url": "https://www.globaltimes.cn/page/202607/1365576.shtml" }
   ]
 }
