@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-11T16:06:00+08:00",
+  "generated_at": "2026-07-11T17:06:00+08:00",
   "headline": {
-    "title": "超級颱風巴威逼近 北台灣周六晨入暴風圈",
-    "dek": "中央氣象署警告恐降900毫米豪雨並首發「巨浪特報」，全台已疏散逾萬四千人、取消近1200航班。",
-    "url": "https://focustaiwan.tw/society/202607100011"
+    "title": "強颱巴威襲台北東 中央氣象署示警風雨未歇 中國東南沿海嚴陣以待",
+    "dek": "中央氣象署表示，巴威最猛烈風雨將持續至週六，福建、浙江已疏散逾六十萬人因應颱風登陸威脅。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
   },
   "items": [
-    { "rank": 1, "title": "巴威暴風圈周六晨籠罩北台灣", "dek": "中央氣象署預估週五夜至周六白天風雨最劇烈。", "url": "https://focustaiwan.tw/society/202607100011" },
-    { "rank": 2, "title": "巴威恐降900毫米雨創巨浪特報", "dek": "氣象署首發巨浪警報，警戒北部海域恐現逾6公尺大浪。", "url": "https://focustaiwan.tw/society/202607090024" },
-    { "rank": 3, "title": "陸警發布 12縣市列警戒", "dek": "氣象署示警多地9級強風，屏東陣風恐達14級以上。", "url": "https://focustaiwan.tw/society/202607100002" },
-    { "rank": 4, "title": "台灣示警破壞性強風逼近", "dek": "全台疏散逾萬四千人，國內外航班大量取消。", "url": "https://english.aawsat.com/world/5293964-taiwan-warns-%E2%80%98destructive%E2%80%99-winds-typhoon-nears" },
-    { "rank": 5, "title": "巴威來襲 台灣全面停擺", "dek": "學校、機關、大眾運輸停班停課因應風雨威脅。", "url": "https://www.usnews.com/news/world/articles/2026-07-10/thousands-evacuated-as-taiwan-shuts-down-for-typhoon-bavi" },
-    { "rank": 6, "title": "菲律賓土石流釀15死", "dek": "半島雨帶引發土石流，另有6人下落不明。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
-    { "rank": 7, "title": "英黛離菲責任區 季風仍增強", "dek": "菲律賓氣象署示警西南季風持續為呂宋帶來強風雨。", "url": "https://www.rappler.com/philippines/weather/typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-11-2026-11am/" },
-    { "rank": 8, "title": "巴威襲日本先島群島", "dek": "強風恐吹倒房屋，日航與全日空取消大量航班。", "url": "https://www.nippon.com/en/news/yjj2026070600281/" },
-    { "rank": 9, "title": "巴威週六將登陸中國東岸", "dek": "中國提升防汛應急至二級，福建浙江嚴陣以待。", "url": "https://news.cgtn.com/news/2026-07-09/Super-Typhoon-Bavi-to-make-landfall-along-China-s-east-coast-Saturday-1ODNEOyAQRq/p.html" },
-    { "rank": 10, "title": "巴威威力稍減仍具威脅", "dek": "颱風曾重創關島、羅塔與塞班，現轉向台日中沿海。", "url": "https://watchers.news/2026/07/08/super-typhoon-bavi-weakens-slightly-as-taiwan-yaeyama-islands-and-eastern-china-brace-for-impacts/" }
+    { "rank": 1, "title": "氣象署：週六風雨最劇烈 北部山區恐現破紀錄豪雨", "dek": "中央氣象署警告，巴威侵襲期間北部山區雨勢猛烈，已對台北、新北、宜蘭、花蓮及馬祖發布陸上警戒。", "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564" },
+    { "rank": 2, "title": "巴威直撲中國之際 台北宣布停班停課", "dek": "台北與全台多數地方政府停止上班上課，證券交易一度暫停，巴威減弱後仍持續為台灣帶來強風豪雨。", "url": "https://www.manilatimes.net/2026/07/11/world/asia-oceania/typhoon-bavi-takes-aim-at-china-as-taiwans-capital-shuts-schools/2382625" },
+    { "rank": 3, "title": "巴威橫掃日本南方離島 台灣同步展開疏散", "dek": "巴威重創沖繩先島群島後持續北上侵台，台灣多地同步展開疏散作業因應外圍環流影響。", "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/" },
+    { "rank": 4, "title": "日本、台灣合計取消近一千二百航班", "dek": "台灣單獨取消逾四百架次航班，星宇航空與台灣虎航宣布週六全面停飛。", "url": "https://e.vnexpress.net/news/news/environment/nearly-1-200-flights-cancelled-as-typhoon-bavi-lashes-japan-s-southern-islands-taiwan-evacuates-thousands-5096174.html" },
+    { "rank": 5, "title": "菲律賓土石流奪十五命 巴威外圍雨勢加劇災情", "dek": "民答那峨島兩起土石流造成至少十五死六失蹤，六月強震鬆動的土壤加劇了巴威帶來的風險。", "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region" },
+    { "rank": 6, "title": "巴威逼近中國 逾六十萬人撤離浙江、福建", "dek": "巴威預計週六夜間於福清至溫嶺一帶登陸，浙江疏散逾六十萬人，福建也疏散逾十萬人。", "url": "https://cyprus-mail.com/2026/07/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china" },
+    { "rank": 7, "title": "華東多省提升颱風應變等級迎戰巴威", "dek": "浙江部署逾九千三百名地質勘測與救援人員，福建將颱風警戒提升至二級並下令高風險區居民撤離。", "url": "https://english.news.cn/20260710/98db8cba6ab94dfcbb6134be6d9682af/c.html" },
+    { "rank": 8, "title": "沖繩先島群島進入最高警戒 學校機場全面關閉", "dek": "日本氣象廳警告陣風恐達每小時二百一十六公里，宮古、八重山地區醫院、學校、機場與渡輪全面停擺。", "url": "https://www.japantimes.co.jp/news/2026/07/10/japan/typhoon-bavi-approaches-japan-remote-islands/" },
+    { "rank": 9, "title": "回顧：五級強颱巴威重創關島與羅塔島", "dek": "巴威七月初以每小時二百九十公里風速橫掃北馬里亞納群島，關島兩日累積逾三百九十八毫米雨量，未傳出死亡案例。", "url": "https://weather.com/2026/07/10/storms/hurricane/super-typhoon-bavi-northern-marianas-guam-recap" },
+    { "rank": 10, "title": "巴威即時路徑追蹤：預估登陸溫州至台州一帶", "dek": "即時追蹤資料顯示巴威正以每小時三十七公里速度向西北移動，登陸後預料將快速減弱消散。", "url": "https://zoom.earth/storms/bavi-2026/" }
   ]
 }
