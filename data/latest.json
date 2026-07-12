@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-13T04:06:00+08:00",
+  "generated_at": "2026-07-13T05:06:00+08:00",
   "headline": {
-    "title": "颱風巴威登陸中國後持續減弱 台灣已解除所有颱風警報",
-    "dek": "中央氣象署已解除巴威在台灣的所有陸海警報，這個一度侵襲日本先島群島與台灣外島的強烈風暴，目前於中國東部持續減弱，預計兩天內於黃海轉化為溫帶氣旋。",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
+    "title": "巴威減弱轉熱帶風暴 華東仍豪雨成災 台灣暫無新威脅",
+    "dek": "超級颱風巴威登陸浙江後迅速減弱，但華東沿海豪雨、淹水與大規模疏散仍在持續，而台灣本島已脫離暴風圈，目前未面臨新的颱風威脅。",
+    "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彭博社：颱風巴威減弱 中國東部豪雨持續擴散",
-      "dek": "巴威登陸浙江後數小時內減弱為強烈熱帶風暴，預計約兩天內轉向東北並於黃海消散。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
+      "title": "半島電視台：巴威登陸浙江後減弱為熱帶風暴",
+      "dek": "巴威週日清晨於玉環登陸後降級，隨後在溫州樂清二次登陸，浙江等地已疏散近220萬人。",
+      "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
     },
     {
       "rank": 2,
-      "title": "華盛頓時報：巴威雖減弱 仍為中國帶來強風豪雨",
-      "dek": "浙江樂清一地逾一千三百棵樹遭吹倒，當地交通亦受到干擾。",
-      "url": "https://www.washingtontimes.com/news/2026/jul/12/weakening-typhoon-bavi-still-brings-strong-winds-rain-china/"
+      "title": "彭博社：巴威減弱 華東豪雨持續擴大",
+      "dek": "颱風巴威登陸浙江後降級為熱帶風暴，但強降雨持續衝擊中國東部並癱瘓交通網絡。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
     },
     {
       "rank": 3,
-      "title": "半島電視台：巴威登陸中國東部後降級為熱帶風暴",
-      "dek": "洪澇風險持續，當局在區域內展開疏散並應對交通中斷。",
-      "url": "https://www.aljazeera.com/amp/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
+      "title": "CBS新聞：昔日超級颱風巴威減弱仍猛烈侵襲中國",
+      "dek": "儘管強度已降級，巴威殘餘環流仍為浙江、上海及福建帶來強風豪雨，逾200萬人已撤離。",
+      "url": "https://www.cbsnews.com/news/former-super-typhoon-bavi-weakens-lashes-china-powerful-winds-rain/"
     },
     {
       "rank": 4,
-      "title": "巴基斯坦《國家報》：巴威侵襲台日離島後 中國近兩百萬人逃離",
-      "dek": "綜合外電報導，巴威在先前掠過台灣外島與日本離島後，於中國引發大規模疏散。",
-      "url": "https://www.nation.com.pk/12-Jul-2026/nearly-2-million-people-flee-china-typhoon-lashes-taiwan-japan-islands"
+      "title": "新海峽時報：巴威登陸中國浙江玉環",
+      "dek": "巴威以每秒40公尺風速首次登陸玉環，隨後在溫州樂清二次登陸，浙江疏散逾170萬人。",
+      "url": "https://www.nst.com.my/amp/world/world/2026/07/1486757/typhoon-bavi-makes-landfall-east-chinas-zhejiang"
     },
     {
       "rank": 5,
-      "title": "日本時報：巴威侵襲日本南方離島 中國同步疏散六十萬人",
-      "dek": "沖繩先島群島（含石垣島）航班與渡輪一度暫停，風暴隨後轉向中國。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/"
+      "title": "中央社：巴威侵襲台灣釀87傷 逾1.4萬人疏散",
+      "dek": "巴威週六掠過台灣東北外海，造成87人受傷、14476人疏散及逾17萬戶停電。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 6,
-      "title": "南華早報：超級颱風巴威逼近沖繩 航班取消、物資搶購一空",
-      "dek": "巴威一度以超級颱風強度襲擊沖繩外島，陣風達每小時一百九十八公里。",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3360093/super-typhoon-bavi-nears-japans-okinawa-flights-axed-and-noodle-shelves-emptied"
+      "title": "中央社：氣象署首發巨浪警特報 估雨量達900毫米",
+      "dek": "中央氣象署預測北部山區雨量上看900毫米，並首度發布浪高逾6公尺的巨浪警特報。",
+      "url": "https://focustaiwan.tw/society/202607090024"
     },
     {
       "rank": 7,
-      "title": "菲律賓星報：颱風Inday（巴威）離開菲律賓責任區",
-      "dek": "PAGASA證實風暴離境時仍維持每小時一百四十公里風力，西南季風並在菲國其他地區釀成洪災。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/11/2541438/typhoon-inday-exits-par-maintains-strength-it-moves-away"
-    },
-    {
-      "rank": 8,
-      "title": "台北時報：巴威來襲 台灣發布警報並取消多項活動",
-      "dek": "中央氣象署發布陸海警報後，受影響縣市宣布停班停課及航班船班取消。",
+      "title": "台北時報：多縣市因應巴威發布停班停課與海陸警報",
+      "dek": "隨著巴威外圍環流接近，台灣多地宣布停班停課並提前部署防颱措施。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
     },
     {
+      "rank": 8,
+      "title": "NPR：超級颱風巴威重創關島與北馬里亞納群島",
+      "dek": "巴威以近時速290公里風速正面侵襲羅塔島，為當地史上最強風暴，惟未傳出死亡案例。",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
+    },
+    {
       "rank": 9,
-      "title": "中央社（Focus Taiwan）：中央氣象署發布巴威陸上警報",
-      "dek": "當時巴威中心位於鵝鑾鼻東方約七百公里，新北、宜蘭、苗栗、新竹等地預期有豪雨。",
-      "url": "https://focustaiwan.tw/society/202607100002"
+      "title": "半島電視台：菲律賓山崩釀15死 巴威威脅擴大",
+      "dek": "巴威帶來的豪雨在菲律賓南部引發山崩，造成至少15人罹難，風暴隨後北上直逼台灣。",
+      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
     },
     {
       "rank": 10,
-      "title": "The Watchers：巴威登陸浙江 中國展開大規模疏散",
-      "dek": "登陸時最大持續風速每小時一百四十四公里，杭州火車暫停、航班取消，東部中國疏散逾一百七十萬人。",
-      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
+      "title": "耶魯氣候連線：巴威成為2026年第三個五級颱風",
+      "dek": "分析指出巴威六小時內風速大幅暴增，凸顯今年太平洋颱風季異常劇烈的強度趨勢。",
+      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
     }
   ]
 }
