@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-12T13:05:00+08:00",
+  "generated_at": "2026-07-12T14:07:00+08:00",
   "headline": {
-    "title": "颱風巴威減弱北上 陸警解除 全台逾2150件災情、113人受傷無人罹難",
-    "dek": "中央氣象署12日清晨解除陸上颱風警報，一度登上今年第三個「超級颱風」的巴威持續減弱遠離台灣，但新竹、苗栗雨量雙雙突破700毫米，全台累計逾2150件災情。",
-    "url": "https://www.cna.com.tw/news/ahel/202607125001.aspx"
+    "title": "颱風巴威掠境 台灣113人傷警報解除",
+    "dek": "中央氣象署解除陸海警報，巴威稍晚在中國浙江台州登陸",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
   },
   "items": [
     {
       "rank": 1,
-      "title": "陸警解除！新竹苗栗雨量破700毫米 全台113人受傷無人罹難",
-      "dek": "中央社報導，中央氣象署12日清晨解除陸上颱風警報，新竹、苗栗雨量雙雙突破700毫米，全台113人受傷但無死亡案例。",
-      "url": "https://www.cna.com.tw/news/ahel/202607125001.aspx"
+      "title": "巴威釀113傷 全台逾23萬戶停電",
+      "dek": "台北時報報導，停電尖峰達23萬戶，路樹倒塌逾2100件",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 2,
-      "title": "巴威持續減弱縮小 台灣本島脫離暴風圈",
-      "dek": "中央社報導，颱風巴威持續減弱縮小，台灣本島已於11日晚間脫離暴風圈，氣象署準備解除陸警。",
-      "url": "https://www.cna.com.tw/news/ahel/202607120002.aspx"
+      "title": "巴威警報解除 12日停班課大減",
+      "dek": "中央社報導，暴風圈縮小，僅少數山區維持停班停課",
+      "url": "https://www.cna.com.tw/news/ahel/202607115003.aspx"
     },
     {
       "rank": 3,
-      "title": "巴威釀2156件災情 45條土石流紅色警戒線發布",
-      "dek": "中央社報導，巴威造成全台逾1400件路樹倒塌及民生設施災情，中央災害應變中心統計總災情達2156件，另有45條土石流紅色警戒線。",
-      "url": "https://www.cna.com.tw/news/ahel/202607110144.aspx"
+      "title": "巴威登陸浙江台州 中國疏散近200萬人",
+      "dek": "路透社報導，巴威登陸時已減弱至一級颱風強度",
+      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
     },
     {
       "rank": 4,
-      "title": "巴威登陸中國浙江台州 逾170萬人疏散",
-      "dek": "《半島電視台》報導，巴威11日晚間在中國浙江台州附近登陸，登陸前中國當局已疏散逾170萬人，其中多數在浙江。",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "中國一週內二度遭颱風登陸",
+      "dek": "PBS報導，巴威登陸前中國已疏散逾百萬人",
+      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
     },
     {
       "rank": 5,
-      "title": "巴威恐為近年最強颱風 暴風圈寬如法國國土",
-      "dek": "《日經亞洲》報導，巴威暴風圈寬度約1000公里，可能是台灣自2024年康芮颱風以來最強、自1987年以來範圍最廣的颱風。",
-      "url": "https://asia.nikkei.com/economy/natural-disasters/china-taiwan-brace-for-typhoon-bavi-possibly-most-powerful-storm-in-years"
+      "title": "巴威掠台侵日後轉進中國沿岸",
+      "dek": "CBC報導，巴威先重創沖繩，再迫使中國大規模撤離",
+      "url": "https://www.cbc.ca/news/world/typhoon-bavi-evacuations-china-9.7266891"
     },
     {
       "rank": 6,
-      "title": "巴威躍居今年第三個超級颱風 颱風季創1976年來最活躍紀錄",
-      "dek": "耶魯氣候連線報導，巴威成為2026年太平洋颱風季第三個五級超級颱風，巔峰風速約每小時285公里，今年颱風季為1976年以來開季最活躍一年。",
-      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
+      "title": "巴威外圍環流襲台 87人受傷",
+      "dek": "中央氣象署初步統計，逾1.4萬人一度撤離避災",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 7,
-      "title": "氣象署曾警告巴威恐帶來900毫米豪雨、6公尺巨浪",
-      "dek": "《Focus Taiwan》報導，氣象署曾預警北部山區雨量恐達900毫米、浪高逾6公尺，並首度發布巨浪警報，出動近2萬9000名國軍待命。",
-      "url": "https://focustaiwan.tw/society/202607090024"
+      "title": "颱風9號逼近沖繩 暴風圈恐及本島",
+      "dek": "日本TBC報導，巴威以935百帕強度接近先島群島",
+      "url": "https://news.yahoo.co.jp/articles/b7fe889028701773ba2354986963e6613637bfdc"
     },
     {
       "rank": 8,
-      "title": "巴威暴風圈預估11日清晨籠罩北台灣",
-      "dek": "《Focus Taiwan》報導，氣象署預測巴威暴風圈將於11日凌晨抵達新北東北角至宜蘭、花蓮一帶，北台灣將迎來最強風雨。",
-      "url": "https://focustaiwan.tw/society/202607100011"
+      "title": "巴威暴風圈擴大 區域航班受擾",
+      "dek": "南華早報報導，巴威減弱同時暴風範圍反而擴大",
+      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
     },
     {
       "rank": 9,
-      "title": "巴威引發菲律賓土石流 民答那峨島15死6失蹤",
-      "dek": "《半島電視台》報導，巴威強降雨在菲律賓民答那峨島引發土石流，造成至少15人死亡、6人失蹤，當地地質因先前強震更加脆弱。",
-      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
+      "title": "巴威增強為今年第3個五級颱風",
+      "dek": "耶魯氣候連線指出，巴威巔峰風速估達每小時285公里",
+      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴瑪莎克釀南寧潰壩 中國南方洪災39死",
-      "dek": "《半島電視台》報導，熱帶風暴瑪莎克在中國南方引發洪災，造成39人死亡，其中26人死於南寧一處潰壩事故。",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
+      "title": "氣象署估雨量900毫米 首發巨浪警報",
+      "dek": "中央氣象署曾警告北部山區豪雨、浪高恐超過6公尺",
+      "url": "https://focustaiwan.tw/society/202607090024"
     }
   ]
 }
