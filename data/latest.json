@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-13T01:07:00+08:00",
+  "generated_at": "2026-07-13T02:07:00+08:00",
   "headline": {
-    "title": "巴威減弱登陸中國東部 台灣威脅解除",
-    "dek": "強烈颱風巴威掠過台灣東北部後轉向中國大陸，已在浙江減弱登陸，造成台灣135人受傷、逾1.5萬人一度撤離，目前交通水電已大致恢復正常。",
-    "url": "https://focustaiwan.tw/society/202607120009"
+    "title": "巴威減弱為熱帶低壓 深入中國內陸 台灣陸海警齊解除",
+    "dek": "中央氣象署於七月十二日上午解除巴威颱風陸上及海上警報，這場今年編號第九號、也是台灣自一九九五年有紀錄以來暴風半徑最大的颱風已減弱為熱帶低壓深入安徽，太平洋洋面目前並無其他颱風對台構成威脅。",
+    "url": "https://www.cna.com.tw/news/ahel/202607125001.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴威致135人受傷 堰塞湖警戒降級",
-      "dek": "中央社報導，全台累計3163件災情多為路樹倒塌，花蓮堰塞湖警戒由紅轉黃，尚有762人在避難所。",
-      "url": "https://focustaiwan.tw/society/202607120009"
+      "title": "陸警清晨解除 新竹苗栗雨量破700毫米 幸無重大傷亡",
+      "dek": "中央氣象署七月十二日凌晨五時三十分解除巴威陸上颱風警報，儘管新竹、苗栗雨量雙雙突破700毫米、全台災情頻傳，所幸未傳出重大人員傷亡。",
+      "url": "https://www.cna.com.tw/news/ahel/202607125001.aspx"
     },
     {
       "rank": 2,
-      "title": "巴威遠離 全台交通電力大致恢復",
-      "dek": "中央社報導，鐵公路與空運週日下午恢復正常，24.7萬戶停電中僅剩3273戶未復電。",
-      "url": "https://focustaiwan.tw/society/202607120004"
+      "title": "巴威遠離台灣本島 氣象署：警報最快今晨全面解除",
+      "dek": "隨著巴威中心朝浙江、上海方向移動，中央氣象署證實台灣本島已脫離警戒範圍，並預告警報將於當天上午解除，但西南季風仍將維持全台降雨機率。",
+      "url": "https://www.ettoday.net/news/20260712/3199454.htm"
     },
     {
       "rank": 3,
-      "title": "巴威登陸浙江 減弱為熱帶風暴",
-      "dek": "半島電視台報導，巴威登陸前中國已撤離近兩百萬人，預計週一在上海附近轉為溫帶氣旋。",
-      "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
+      "title": "竹苗雨量寫新高 未來一週悶熱、南部降雨未歇",
+      "dek": "中央社追蹤指出，巴威外圍環流為新竹、苗栗帶來逾700毫米雨量、台中亦超過600毫米，預報單位提醒接下來一週天氣悶熱，南部局部降雨仍將持續。",
+      "url": "https://www.cna.com.tw/news/ahel/202607120022.aspx"
     },
     {
       "rank": 4,
-      "title": "曾為五級強颱 巴威登陸後仍強降雨",
-      "dek": "CBS新聞報導，巴威登陸中國前曾掠過台灣與日本八重山群島，巔峰時達五級超級颱風強度。",
-      "url": "https://www.cbsnews.com/news/former-super-typhoon-bavi-weakens-lashes-china-powerful-winds-rain/"
+      "title": "巴威減弱後深入安徽 暴風雨勢遠及中國東北、內蒙",
+      "dek": "減弱為熱帶風暴的巴威殘餘環流持續北移進入安徽，中國氣象部門警告七月十二日晚間至十三日，北京、天津、河北、遼寧與吉林將有淹水風險。",
+      "url": "https://www.cna.com.tw/news/acn/202607120173.aspx"
     },
     {
       "rank": 5,
-      "title": "彭博：巴威減弱 中國多省仍豪雨不斷",
-      "dek": "彭博社報導，巴威登陸浙江後持續減弱，但豪雨仍擴及中國多個省份並造成交通等干擾。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
+      "title": "巴威侵襲沖繩釀12人受傷 九州恐迎近40度高溫",
+      "dek": "巴威外圍環流重創沖繩先島諸島，久米島機場測得每秒45.3公尺強陣風並造成12人受傷，氣象單位預估暴風過後九州地區氣溫將逼近攝氏40度。",
+      "url": "https://www.cna.com.tw/news/aopl/202607120101.aspx"
     },
     {
       "rank": 6,
-      "title": "氣象署對巴威發布陸上警報",
-      "dek": "台北時報報導，巴威7月10日晨掠基隆、宜蘭等地，北部山區雨量估逾350毫米。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
+      "title": "巴威衝擊最猛烈的一天 中央氣象署示警破壞性強風豪雨",
+      "dek": "台北時報報導，巴威在七月十一日對台灣中北部帶來最猛烈衝擊，中央氣象署警告破壞性強風、驚人豪雨及超過6公尺的危險海浪，陸上警報範圍涵蓋彰化以北14縣市，包含宜蘭、花蓮與馬祖。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
     },
     {
       "rank": 7,
-      "title": "巴威來襲前 全台5傷逾2000人撤離",
-      "dek": "中央社報導，巴威逼近之際多縣市停班停課，班機與船班相繼取消。",
-      "url": "https://focustaiwan.tw/society/202607100012"
+      "title": "巴威登陸浙江 逾221萬人疏散 強降雨波及逾十省份",
+      "dek": "聯合報報導，巴威在浙江玉環登陸後，中國當局疏散逾221萬人，中央氣象台罕見發布暴雨紅色預警，錢塘江、曹娥江等流域水位顯著上升。",
+      "url": "https://udn.com/news/story/7332/9622461"
     },
     {
       "rank": 8,
-      "title": "巴威威力略減 仍威脅台日中三地",
-      "dek": "The Watchers報導，巴威自五級顛峰略為減弱，持續朝台灣、八重山群島及中國東部逼近。",
-      "url": "https://watchers.news/2026/07/08/super-typhoon-bavi-weakens-slightly-as-taiwan-yaeyama-islands-and-eastern-china-brace-for-impacts/"
+      "title": "登陸中國東部前 巴威預告為台灣帶來極端豪雨",
+      "dek": "國際氣象網站The Watchers在巴威登陸前的預報分析指出，暴風將沿台灣東岸北上、隨後於中國東部登陸，中央氣象署當時警告北部山區雨量恐達900毫米。",
+      "url": "https://watchers.news/2026/07/09/typhoon-bavi-to-bring-extreme-rain-to-taiwan-before-landfall-in-eastern-china/"
     },
     {
       "rank": 9,
-      "title": "五級巴威重創美屬北馬里亞納群島",
-      "dek": "耶魯氣候關聯報導，巴威風眼直掃羅塔島，塞班島機場測得逾160公里時速陣風。",
-      "url": "https://yaleclimateconnections.org/2026/07/cat-5-super-typhoon-bavi-pounds-the-u-s-northern-mariana-islands-and-guam/"
+      "title": "美國在台協會發布天氣示警 籲民眾留意巴威動態",
+      "dek": "美國在台協會（AIT）發布官方警示，提醒在台美籍公民自七月十日起留意巴威帶來的強風豪雨，並密切關注中央氣象署最新資訊、預作準備。",
+      "url": "https://www.ait.org.tw/weather-alert-taiwan-july-09-2026/"
     },
     {
       "rank": 10,
-      "title": "另一風暴美莎克釀洪災 中國50死",
-      "dek": "半島電視台報導，熱帶風暴美莎克引發廣西南寧潰壩洪災，加上湖北罕見龍捲風，全國至少50人罹難。",
-      "url": "https://www.aljazeera.com/amp/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
+      "title": "澄清「Invest 97W」網路傳言 專家：發展機率低、應優先關注災後復原",
+      "dek": "KANDIT News Group報導，關於新颱風胚胎「Invest 97W」即將成形的網路傳言遭誇大，美國國家氣象局指出馬紹爾群島附近該擾動發展潛力偏低，籲民眾應把重心放在巴威災後復原上。",
+      "url": "https://kanditnews.com/addressing-the-viral-share-of-a-possible-invest-97w/"
     }
   ]
 }
