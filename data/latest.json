@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-12T20:05:00+08:00",
+  "generated_at": "2026-07-12T21:07:00+08:00",
   "headline": {
-    "title": "巴威減弱登陸中國 台灣解除颱風警報",
-    "dek": "強颱橫掃關島、菲律賓與台灣後登陸浙江，中國緊急疏散逾170萬人",
-    "url": "https://focustaiwan.tw/society/202607120001"
+    "title": "巴威減弱步入尾聲 台警報解除中國撤逾百萬人",
+    "dek": "強颱巴威橫掃台灣、登陸中國並釀菲律賓18死14失蹤，西太平洋醞釀新一波風暴",
+    "url": "https://focustaiwan.tw/society/202607120009"
   },
   "items": [
     {
       "rank": 1,
-      "title": "台灣陸警、海警相繼解除",
-      "dek": "中央氣象署宣布陸上警報清晨解除，海上警報隨後跟進，全台無人罹難。",
-      "url": "https://focustaiwan.tw/society/202607120001"
+      "title": "巴威離台135人受傷 堰塞湖降級",
+      "dek": "全台通報3163件災情，阿里山林鐵仍因坍方停駛。",
+      "url": "https://focustaiwan.tw/society/202607120009"
     },
     {
       "rank": 2,
-      "title": "巴威陸警5時30分解除 海警8時30分跟進",
-      "dek": "氣象署證實警報依序解除，苗栗、新竹累積雨量逾700毫米。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5502285"
+      "title": "巴威警報今晨全數解除",
+      "dek": "苗栗新竹山區雨量逾700毫米，各地停班停課一次看。",
+      "url": "https://www.ettoday.net/news/20260712/3199463.htm"
     },
     {
       "rank": 3,
-      "title": "巴威登陸中國 菲律賓死亡人數增至18人",
-      "dek": "風暴登陸浙江並轉弱，中國多地展開大規模疏散。",
-      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
-    },
-    {
-      "rank": 4,
-      "title": "暴風圈縮小 氣象署估12日晨間解除警報",
-      "dek": "巴威持續北移接近中國之際，暴風範圍明顯縮小。",
+      "title": "暴風圈縮小 巴威估今解除警報",
+      "dek": "氣象署預估12日晨間至上午解除，僅馬祖仍列警戒。",
       "url": "https://www.cna.com.tw/news/ahel/202607110170.aspx"
     },
     {
+      "rank": 4,
+      "title": "巴威登陸中國 菲國死亡增至18人",
+      "dek": "浙江登陸風速達每小時144公里，菲律賓山崩災情持續擴大。",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
+    },
+    {
       "rank": 5,
-      "title": "巴威登陸浙江 疏散逾170萬人",
-      "dek": "風暴以每小時144公里風速登陸，上海、福建及密雲水庫周邊緊急撤離。",
-      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
+      "title": "中國撤離逾百萬人迎戰巴威",
+      "dek": "浙江疏散170萬人，為近年侵襲華東最強颱風之一。",
+      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
     },
     {
       "rank": 6,
-      "title": "巴威登陸中國東部 逾百萬人撤離",
-      "dek": "風暴在上海西南方登陸，此前梅莎克豪雨已在中國南方釀成多人死亡。",
-      "url": "https://www.washingtontimes.com/news/2026/jul/11/typhoon-bavi-makes-landfall-eastern-china-1-million-evacuated/"
+      "title": "巴威登陸浙江 數小時內急速減弱",
+      "dek": "中國展開大規模撤離行動，登陸後強度迅速下滑。",
+      "url": "https://www.rte.ie/news/world/2026/0711/1582867-typhoon-bavi/"
     },
     {
       "rank": 7,
-      "title": "菲律賓土石流釀15死 巴威威脅擴大",
-      "dek": "外圍雨帶引發土石流，薩蘭加尼省單一村鎮即10人喪生。",
-      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
+      "title": "菲律賓風災 逾12萬戶受影響",
+      "dek": "民防署統計18人罹難，西南季風增強使雨勢加劇。",
+      "url": "https://www.manilatimes.net/2026/07/12/news/death-toll-from-typhoon-inday-enhanced-monsoon-rises-to-18-over-123000-families-affected-ocd/2382855"
     },
     {
       "rank": 8,
-      "title": "巴威逼近沖繩 航班取消、民生物資搶購一空",
-      "dek": "日航、全日空取消逾260航班，約4萬旅客受影響。",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3360093/super-typhoon-bavi-nears-japans-okinawa-flights-axed-and-noodle-shelves-emptied"
+      "title": "民答那峨山崩 18死14失蹤",
+      "dek": "沙蘭加尼、蘭佬省等地土石流掩埋民宅，軍方直升機投入搜救。",
+      "url": "https://newsinfo.inquirer.net/2261943/typhoon-inday-death-toll-in-mindanao-hits-18-14-persons-missing"
     },
     {
       "rank": 9,
-      "title": "關島、北馬里亞納群島港口陸續重啟",
-      "dek": "巴威以當地史上最強風速襲擊羅塔島，美國聯邦救災人員進駐關島。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-08/bavi-rota-guam-us-coast-guard-marianas-22208983.html"
+      "title": "因迪離開菲責任區 季風雨勢未歇",
+      "dek": "氣象署改監測低壓區，呂宋、維薩亞斯仍有坍方風險。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-lpa-update-pagasa-forecast-july-12-2026-11am/"
     },
     {
       "rank": 10,
-      "title": "中國豪雨釀39死 巴威接踵而至",
-      "dek": "熱帶風暴梅莎克引發的暴雨已致水庫潰堤、河流氾濫，災情未歇。",
-      "url": "https://www.business-standard.com/world-news/flooding-from-heavy-rain-leaves-39-dead-in-china-as-typhoon-bavi-approaches-126070900729_1.html"
+      "title": "西太平洋醞釀新颱風 11、12號待命",
+      "dek": "中國氣象媒體稱兩胚胎恐接連成形，交互作用效應待觀察。",
+      "url": "https://k.sina.cn/article_7880068208_1d5b04c7006801pxm8.html"
     }
   ]
 }
