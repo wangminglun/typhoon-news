@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-12T14:07:00+08:00",
+  "generated_at": "2026-07-12T19:01:00+08:00",
   "headline": {
-    "title": "颱風巴威掠境 台灣113人傷警報解除",
-    "dek": "中央氣象署解除陸海警報，巴威稍晚在中國浙江台州登陸",
-    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+    "title": "颱風巴威登陸內陸後減弱消散 全球暫無活躍颱風",
+    "dek": "這場今年第三個達到五級强度、曾是三十餘年來威脅台灣最大範圍的颱風，在中國浙江完成第二次登陸後迅速減弱為內陸低壓，而氣象學家警告，在聖嬰現象持續增強之下，今年西北太平洋颱風季仍可能迎來更多風暴。",
+    "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴威釀113傷 全台逾23萬戶停電",
-      "dek": "台北時報報導，停電尖峰達23萬戶，路樹倒塌逾2100件",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+      "title": "逾百萬人撤離 颱風巴威登陸中國東部",
+      "dek": "美國公共電視網報導，巴威在侵襲台灣與日本南部島嶼後轉向中國沿岸，當局關閉學校並暫停交通運輸",
+      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
     },
     {
       "rank": 2,
-      "title": "巴威警報解除 12日停班課大減",
-      "dek": "中央社報導，暴風圈縮小，僅少數山區維持停班停課",
-      "url": "https://www.cna.com.tw/news/ahel/202607115003.aspx"
+      "title": "逾170萬人疏散 巴威登陸中國浙江",
+      "dek": "半島電視台報導，浙江省疏散逾170萬人，福建、北京與上海也同步展開撤離",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 3,
-      "title": "巴威登陸浙江台州 中國疏散近200萬人",
-      "dek": "路透社報導，巴威登陸時已減弱至一級颱風強度",
+      "title": "近兩百萬人撤離後 巴威登陸浙江台州",
+      "dek": "CNBC報導，巴威登陸台州玉環一帶，是一週內第二個登陸中國的颱風",
       "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
     },
     {
       "rank": 4,
-      "title": "中國一週內二度遭颱風登陸",
-      "dek": "PBS報導，巴威登陸前中國已疏散逾百萬人",
-      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
+      "title": "巴威致台灣113人受傷 數百戶仍停電",
+      "dek": "台北時報報導，颱風巴威造成全台113人受傷、逾23萬戶停電，幸無人罹難",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 5,
-      "title": "巴威掠台侵日後轉進中國沿岸",
-      "dek": "CBC報導，巴威先重創沖繩，再迫使中國大規模撤離",
-      "url": "https://www.cbc.ca/news/world/typhoon-bavi-evacuations-china-9.7266891"
-    },
-    {
-      "rank": 6,
-      "title": "巴威外圍環流襲台 87人受傷",
-      "dek": "中央氣象署初步統計，逾1.4萬人一度撤離避災",
+      "title": "颱風巴威橫掃台灣 87人受傷逾萬人疏散",
+      "dek": "中央社英文網報導，巴威外圍環流為台灣帶來強風豪雨，逾2000起路樹倒塌與財損案件",
       "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
+      "rank": 6,
+      "title": "超級颱風巴威逼近前 中國水災與潰壩已釀17死",
+      "dek": "馬來郵報引述法新社報導，巴威抵達前中國已因洪災與水壩潰決造成17人喪生",
+      "url": "https://www.malaymail.com/news/world/2026/07/09/in-china-deadly-floods-and-dam-collapse-kill-17-as-super-typhoon-bavi-looms/226924"
+    },
+    {
       "rank": 7,
-      "title": "颱風9號逼近沖繩 暴風圈恐及本島",
-      "dek": "日本TBC報導，巴威以935百帕強度接近先島群島",
-      "url": "https://news.yahoo.co.jp/articles/b7fe889028701773ba2354986963e6613637bfdc"
+      "title": "日本西南島嶼戒備減弱後仍具威脅的巴威",
+      "dek": "星條旗報報導，巴威掠過先島群島與沖繩，日本氣象廳對嘉手納基地周邊發布強風、土石流與暴潮警戒",
+      "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-09/typhoon-bavi-ishigaki-okinawa-kadena-japan-22218525.html"
     },
     {
       "rank": 8,
-      "title": "巴威暴風圈擴大 區域航班受擾",
-      "dek": "南華早報報導，巴威減弱同時暴風範圍反而擴大",
-      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
-    },
-    {
-      "rank": 9,
-      "title": "巴威增強為今年第3個五級颱風",
-      "dek": "耶魯氣候連線指出，巴威巔峰風速估達每小時285公里",
+      "title": "超級颱風巴威成為2026年第三個五級颱風",
+      "dek": "耶魯氣候連線報導，巴威正面侵襲羅塔島，36小時內風速暴增近100英里",
       "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
     },
     {
+      "rank": 9,
+      "title": "颱風麥德姆登陸中國海南 交通一度中斷",
+      "dek": "新華社報導，麥德姆是中國2026年首個登陸颱風，於海南陵水登陸",
+      "url": "https://english.news.cn/20260703/5950483b89c34501b6498588b4a3968e/c.html"
+    },
+    {
       "rank": 10,
-      "title": "氣象署估雨量900毫米 首發巨浪警報",
-      "dek": "中央氣象署曾警告北部山區豪雨、浪高恐超過6公尺",
-      "url": "https://focustaiwan.tw/society/202607090024"
+      "title": "西北太平洋颱風季恐創十年來最活躍紀錄",
+      "dek": "保險期刊報導，受聖嬰現象增強影響，今年恐產生多達18個颱風",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/13/869630.htm"
     }
   ]
 }
