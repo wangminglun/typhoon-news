@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-12T09:05:00+08:00",
+  "generated_at": "2026-07-12T10:07:00+08:00",
   "headline": {
-    "title": "颱風巴威登陸中國東部並減弱　華東撤離逾170萬人　台灣持續清點災損",
-    "dek": "掠過台灣北部帶來豪雨強風的超大颱風巴威，已在浙江外海二度登陸並逐漸減弱，中國當局撤離超過170萬居民，台灣方面則仍在評估這場30多年來最大颱風留下的災損。",
-    "url": "https://www.manilatimes.net/2026/07/12/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1m-are-evacuated/2382827"
+    "title": "台灣風雨警報最快週日解除　巴威颱風減弱西行　菲律賓死亡人數增至17人",
+    "dek": "在中國浙江登陸後持續減弱的颱風巴威，已在台灣造成113人受傷、逾23萬戶停電，海上陸上警報預期陸續解除，而菲律賓因風暴增強的西南季風死亡人數已攀升至17人，目前尚無後續熱帶氣旋形成的跡象。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
   },
   "items": [
     {
       "rank": 1,
-      "title": "美聯社：巴威登陸中國東部　逾百萬人撤離",
-      "dek": "美聯社報導，中國浙江、福建沿海撤離超過百萬居民，交通停擺、學校停課，巴威此前已侵襲台灣及日本離島。",
-      "url": "https://www.manilatimes.net/2026/07/12/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1m-are-evacuated/2382827"
+      "title": "台北時報：巴威颱風釀113傷，逾23萬戶停電",
+      "dek": "台北時報報導，巴威颱風在台灣造成113人受傷、14605人撤離、逾23萬4481戶停電，中央災害應變中心接獲2156件路樹倒塌與財損通報，無人員死亡。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 2,
-      "title": "新華社：巴威二度登陸浙江　中央撥款4000萬人民幣賑災",
-      "dek": "新華社報導，巴威7月11日深夜先在浙江台州玉環登陸，午夜後再於溫州樂清二度登陸，最大風速達每秒40公尺（中國風力等級13級），北京已撥款4000萬人民幣（約590萬美元）供浙閩兩省賑災。",
-      "url": "https://english.news.cn/20260712/388adccf21094937af9c0d6ecdd3ec73/c.html"
+      "title": "中央社：巴威海陸警報最快週日上午解除",
+      "dek": "中央社（Focus Taiwan）報導，中央氣象署表示，隨暴風圈遠離台灣本島，海上陸上警報最快可能於7月12日週日上午解除，但因警戒範圍仍涵蓋馬祖，全境解除恐延至週日稍晚。",
+      "url": "https://focustaiwan.tw/society/202607110013"
     },
     {
       "rank": 3,
-      "title": "PBS新聞時刻：巴威登陸中國東部　航班大量取消、鐵路減班",
-      "dek": "美聯社透過PBS NewsHour報導，巴威登陸浙江前已造成數百架次航班取消及鐵路服務縮減，此前該颱風已掠過台灣與日本琉球群島。",
-      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
-    },
-    {
-      "rank": 4,
-      "title": "半島電視台：逾170萬人撤離　巴威風場創紀錄之大",
-      "dek": "半島電視台報導，中國當局自浙江、福建撤離超過170萬居民以因應巴威來襲，其異常龐大的暴風圈此前已促使台灣發布陸上及海上颱風警報。",
+      "title": "半島電視台：逾170萬人撤離後，巴威登陸中國浙江",
+      "dek": "半島電視台報導，巴威以約每小時144公里風速在浙江登陸前，中國東部沿海已疏散逾170萬人，上海疏散約3萬4000人，福建另撤離逾10萬人並部署逾1萬7000名救援人員。",
       "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
+      "rank": 4,
+      "title": "馬尼拉時報：「英黛」死亡人數增至17人，逾11萬戶受災",
+      "dek": "馬尼拉時報報導，颱風英黛（巴威）及其增強的西南季風豪雨在菲律賓已造成17人死亡，死者集中於民答那峨島多省，全國逾11萬2000戶家庭受影響。",
+      "url": "https://www.manilatimes.net/2026/07/12/news/inday-death-toll-climbs-to-17-over-112000-families-affected/2382809"
+    },
+    {
       "rank": 5,
-      "title": "台北時報：中央氣象署發布海陸警報　巴威風速達每小時184公里",
-      "dek": "台北時報報導，中央氣象署因巴威自東南方接近而發布海上及陸上颱風警報，最大持續風速每小時184公里，離島渡輪全面停駛、觀光景點關閉，航空公司提供彈性改票。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
+      "title": "The Watchers：巴威登陸浙江後料持續減弱消散",
+      "dek": "氣象媒體The Watchers詳細報導巴威在浙江登陸的過程與沿海災損，並指出風暴後續路徑將持續深入內陸、逐步減弱，預計於上海以西消散。",
+      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
     },
     {
       "rank": 6,
-      "title": "香港自由新聞：巴威成30年來最大颱風　台灣數百人疏散",
-      "dek": "香港自由新聞報導，巴威暴風半徑達380公里，為30多年來侵台最大颱風，台灣多處停班停課並疏散數百名居民，北部與山區恐降下高達900公釐豪雨。",
-      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
+      "title": "日本時報：先島群島曾因巴威逼近進入高度戒備",
+      "dek": "日本時報報導，日本先島與八重山群島（含宮古島、石垣島）曾在巴威逼近前關閉機場、暫停渡輪、停課停診，日本氣象廳當時警告瞬間陣風恐達每秒70公尺，足以掀翻房屋。",
+      "url": "https://www.japantimes.co.jp/news/2026/07/10/japan/typhoon-bavi-approaches-japan-remote-islands/"
     },
     {
       "rank": 7,
-      "title": "台北時報：氣象署估巴威週五、週六衝擊最劇",
-      "dek": "台北時報報導，中央氣象署預測巴威衝擊將於7月10日至11日達到高峰，北部及離島恐出現12級陣風，山區降雨尤其猛烈。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/08/2003860413"
+      "title": "中央社：巴威風雨最強時，台灣曾錄得87人受傷",
+      "dek": "中央社（Focus Taiwan）較早報導指出，巴威風雨接近最強時，台灣曾統計87人受傷、約1萬4000人撤離，多為跌倒、擦傷等輕傷，當時未傳嚴重傷亡。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 8,
-      "title": "CBS新聞：華南水患釀39死　瑪莎與巴威接連釀災",
-      "dek": "CBS新聞報導，熱帶風暴瑪莎殘餘環流加上巴威來襲前的持續豪雨，已在中國華南造成至少39人死亡，並釀成大範圍道路與建物損害。",
-      "url": "https://www.cbsnews.com/news/southern-china-flooding-maysak-typhoon-bavi/"
+      "title": "Rappler：英黛離開菲律賓責任區後仍增強西南季風",
+      "dek": "菲律賓媒體Rappler報導，英黛（巴威）離開菲律賓責任區後，其外圍環流仍持續增強西南季風「哈巴加特」，為菲國部分地區帶來進一步降雨風險。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-11-2026-11am/"
     },
     {
       "rank": 9,
-      "title": "Asia Financial：台日中三地嚴陣以待　巨颱巴威風圈逾千公里",
-      "dek": "Asia Financial報導，美國聯合颱風警報中心指出巴威暴風圈超過1000公里，台灣、日本與中國同步戒備，三地合計逾180架次航班取消。",
-      "url": "https://www.asiafinancial.com/taiwan-japan-and-china-batten-down-for-mega-typhoon-bavi"
+      "title": "Philstar：PAGASA證實英黛離開責任區，強度未減",
+      "dek": "菲律賓媒體Philstar報導，PAGASA證實英黛已離開菲律賓責任區，但風暴在前往中國登陸途中仍維持颱風強度，菲國北部與東部持續受殘餘風雨影響。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/11/2541438/typhoon-inday-exits-par-maintains-strength-it-moves-away"
     },
     {
       "rank": 10,
-      "title": "Yale Climate Connections：北馬里亞納群島餘悸未消　再迎超級颱風威脅",
-      "dek": "Yale Climate Connections報導，北馬里亞納群島在4月颱風森拉克重創（造成12人死亡、4.3萬戶停電、約1300戶仍住帳篷）後尚未復原，即再面臨巴威以5級超級颱風強度來襲的威脅。",
-      "url": "https://yaleclimateconnections.org/2026/07/typhoon-battered-u-s-northern-mariana-islands-brace-for-a-potential-super-typhoon/"
+      "title": "半島電視台：巴威威脅逼近前，菲律賓土石流已釀15死",
+      "dek": "半島電視台較早報導，巴威外圍雨帶與西南季風共同為民答那峨島帶來豪雨，在沙蘭加尼省與蘭佬蘇丹古拉南省引發土石流，造成至少15人死亡，該數字其後升至17人。",
+      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
     }
   ]
 }
