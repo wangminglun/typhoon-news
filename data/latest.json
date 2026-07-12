@@ -1,70 +1,64 @@
 {
-  "generated_at": "2026-07-12T19:01:00+08:00",
+  "generated_at": "2026-07-12T19:31:00+08:00",
   "headline": {
-    "title": "颱風巴威登陸內陸後減弱消散 全球暫無活躍颱風",
-    "dek": "這場今年第三個達到五級强度、曾是三十餘年來威脅台灣最大範圍的颱風，在中國浙江完成第二次登陸後迅速減弱為內陸低壓，而氣象學家警告，在聖嬰現象持續增強之下，今年西北太平洋颱風季仍可能迎來更多風暴。",
-    "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
+    "title": "颱風巴威登陸中國後持續減弱，台灣陸海警報全數解除",
+    "dek": "巴威颱風登陸浙江後降為強烈熱帶風暴，中央氣象署已解除台灣陸上與海上警報，中國氣象單位預測其將在一天內轉化為溫帶氣旋。",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
   },
   "items": [
     {
       "rank": 1,
-      "title": "逾百萬人撤離 颱風巴威登陸中國東部",
-      "dek": "美國公共電視網報導，巴威在侵襲台灣與日本南部島嶼後轉向中國沿岸，當局關閉學校並暫停交通運輸",
-      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
+      "title": "彭博：颱風巴威減弱，豪雨持續籠罩中國",
+      "dek": "中國國家氣象中心表示，巴威登陸浙江後已減弱為強烈熱帶風暴，預測其13日轉向安徽，再進入黃海後轉化為溫帶氣旋",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
     },
     {
       "rank": 2,
-      "title": "逾170萬人疏散 巴威登陸中國浙江",
-      "dek": "半島電視台報導，浙江省疏散逾170萬人，福建、北京與上海也同步展開撤離",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "巴威減弱仍帶來強風豪雨，中國疏散逾200萬人",
+      "dek": "美聯社報導，中國在巴威登陸前疏散近兩百萬民眾，風暴持續為華東帶來強風豪雨，上海兩大機場班機大量取消",
+      "url": "https://www.bostonglobe.com/2026/07/12/world/typhoon-bavi-weakens-brings-strong-winds-rain-to-china/"
     },
     {
       "rank": 3,
-      "title": "近兩百萬人撤離後 巴威登陸浙江台州",
-      "dek": "CNBC報導，巴威登陸台州玉環一帶，是一週內第二個登陸中國的颱風",
-      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
+      "title": "巴威颱風登陸浙江，馬祖與北台灣外海仍受湧浪影響",
+      "dek": "Newtalk新聞報導，巴威已於12日凌晨在浙江沿岸登陸，其環流仍在馬祖東北方海域掀起湧浪",
+      "url": "https://newtalk.tw/news/view/2026-07-12/1046594"
     },
     {
       "rank": 4,
-      "title": "巴威致台灣113人受傷 數百戶仍停電",
-      "dek": "台北時報報導，颱風巴威造成全台113人受傷、逾23萬戶停電，幸無人罹難",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+      "title": "巴威減弱遠離，台灣本島脫離暴風圈，氣象署解除海上警報",
+      "dek": "中央氣象署表示，巴威減弱為中度颱風並北移至馬祖北方約330公里處，清晨已解除陸警，上午再解除海警",
+      "url": "https://tw.news.yahoo.com/live/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E6%B8%9B%E5%BC%B1%E9%81%A0%E9%9B%A2-%E6%9C%AC%E5%B3%B6%E5%B7%B2%E8%84%AB%E9%9B%A2%E6%9A%B4%E9%A2%A8%E5%9C%88-%E6%B8%85%E6%99%A8%E5%88%B0%E4%B8%8A%E5%8D%88%E9%A0%90%E8%A8%88%E8%A7%A3%E9%99%A4%E6%B5%B7%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E8%B7%AF%E5%BE%91%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-012056471.html"
     },
     {
       "rank": 5,
-      "title": "颱風巴威橫掃台灣 87人受傷逾萬人疏散",
-      "dek": "中央社英文網報導，巴威外圍環流為台灣帶來強風豪雨，逾2000起路樹倒塌與財損案件",
-      "url": "https://focustaiwan.tw/society/202607110016"
+      "title": "中國媒體證實：巴威已減弱為強熱帶風暴",
+      "dek": "中國21財經報導，巴威中心已移至浙江杭州桐廬縣境內，最大風速降至每秒約30公尺",
+      "url": "https://m.21jingji.com/article/20260712/herald/a1423cb458fe04ef91c9a6a79f002821.html"
     },
     {
       "rank": 6,
-      "title": "超級颱風巴威逼近前 中國水災與潰壩已釀17死",
-      "dek": "馬來郵報引述法新社報導，巴威抵達前中國已因洪災與水壩潰決造成17人喪生",
-      "url": "https://www.malaymail.com/news/world/2026/07/09/in-china-deadly-floods-and-dam-collapse-kill-17-as-super-typhoon-bavi-looms/226924"
+      "title": "半島電台：中國疏散逾170萬人因應巴威登陸",
+      "dek": "半島電台報導，中國當局在巴威沿福建、浙江海岸逼近之際疏散逾170萬人，形容其為數十年來侵襲當地最強風暴之一",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 7,
-      "title": "日本西南島嶼戒備減弱後仍具威脅的巴威",
-      "dek": "星條旗報報導，巴威掠過先島群島與沖繩，日本氣象廳對嘉手納基地周邊發布強風、土石流與暴潮警戒",
-      "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-09/typhoon-bavi-ishigaki-okinawa-kadena-japan-22218525.html"
+      "title": "菲律賓土石流奪15命，巴威颱風先前威脅該國",
+      "dek": "半島電台報導，巴威（菲律賓當地稱Inday）先前行經菲律賓海域時引發土石流，造成至少15人罹難",
+      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
     },
     {
       "rank": 8,
-      "title": "超級颱風巴威成為2026年第三個五級颱風",
-      "dek": "耶魯氣候連線報導，巴威正面侵襲羅塔島，36小時內風速暴增近100英里",
-      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
+      "title": "維基百科：巴威為本季第9號風暴、第3個颱風",
+      "dek": "條目顯示巴威是2026年太平洋颱風季第9個命名風暴、第3個颱風，曾以五級超級颱風強度侵襲關島、羅塔島與塞班島，風速達每小時290公里",
+      "url": "https://en.wikipedia.org/wiki/Typhoon_Bavi_(2026)"
     },
     {
       "rank": 9,
-      "title": "颱風麥德姆登陸中國海南 交通一度中斷",
-      "dek": "新華社報導，麥德姆是中國2026年首個登陸颱風，於海南陵水登陸",
-      "url": "https://english.news.cn/20260703/5950483b89c34501b6498588b4a3968e/c.html"
-    },
-    {
-      "rank": 10,
-      "title": "西北太平洋颱風季恐創十年來最活躍紀錄",
-      "dek": "保險期刊報導，受聖嬰現象增強影響，今年恐產生多達18個颱風",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/13/869630.htm"
+      "title": "回顧：颱風美莎克引發水庫潰壩，廣西6死11失蹤",
+      "dek": "The Watchers報導，本季第10號風暴美莎克稍早登陸海南與越南，在廣西引發水庫潰壩與致命洪災後消散",
+      "url": "https://watchers.news/2026/07/06/reservoir-breaches-after-extreme-rainfall-cause-severe-flooding-in-nanning-china/"
     }
   ]
 }
