@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-13T19:08:00+08:00",
+  "generated_at": "2026-07-13T20:07:00+08:00",
   "headline": {
-    "title": "颱風巴威減弱北移 中國多省爆發嚴重洪災",
-    "dek": "強颱巴威侵台後減弱北移，在中國北方釀成洪災，同時太平洋上已有低壓發展為今年第11號颱風海神，中央氣象署研判不會直接侵襲台灣。",
-    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+    "title": "巴威減弱北移 中國傳重災 「海神」接力生成",
+    "dek": "中央氣象署13日全面解除巴威陸海警報，風暴中心持續北移入侵中國引發嚴重淹水，同時今年第11號颱風「海神」在菲律賓以東生成，惟預測不會直接侵襲台灣。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴威侵台釀113人受傷 數十萬戶一度停電",
-      "dek": "《臺北時報》報導，颱風巴威造成全台113人受傷，多為騎乘機車與腳踏車時因強風豪雨摔倒，全台逾1.4萬人疏散，23萬4481戶一度停電。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+      "title": "氣象署解除巴威陸海警報",
+      "dek": "《臺北時報》報導，巴威減弱北移，中心已在馬祖以北約410公里，氣象署13日晨間全面解除警報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
     },
     {
       "rank": 2,
-      "title": "北部山區豪雨逼近900毫米 氣象署首發「巨浪特報」",
-      "dek": "中央社Focus Taiwan報導，巴威為台灣北部山區帶來近900毫米降雨，外海浪高超過6公尺，促使氣象署首度發布巨浪特報；警報已於12日上午解除。",
-      "url": "https://focustaiwan.tw/society/202607110016"
-    },
-    {
-      "rank": 3,
-      "title": "今年第11號颱風「海神」生成 氣象署：不致直接侵台",
-      "dek": "《自由時報》報導，中央氣象署13日上午8時宣布，菲律賓以東低壓系統已發展為今年第11號颱風海神，預測路徑偏北，不致直接影響台灣，且恐於16日左右迅速減弱為熱帶低氣壓。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5503243"
-    },
-    {
-      "rank": 4,
-      "title": "巴威減弱北移 中國大陸多省豪雨成災",
-      "dek": "據《日本時報》引述新華社報導，巴威二度登陸浙江後減弱為強烈熱帶風暴，持續北移為中國大陸帶來豪雨，並觸發多省洪水警報。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/13/asia-pacific/typhoon-bavi-rain-spreads-china/"
-    },
-    {
-      "rank": 5,
-      "title": "河北遼寧洪災擴大 全國46條河流超警戒",
-      "dek": "氣象觀測網站The Watchers報導，巴威殘餘環流北移導致河北、遼寧洪水災情擴大，中國水利部通報全國46條河流水位超過警戒線。",
+      "title": "巴威襲中國 河北遼寧傳重災",
+      "dek": "《觀察者》報導，巴威登陸後河北積水逾2公尺、遼寧1800人受困，全中國46條河川超警戒。",
       "url": "https://watchers.news/2026/07/13/severe-floods-widespread-damage-typhoon-bavi-double-landfall-china/"
     },
     {
+      "rank": 3,
+      "title": "今年第11號颱風「海神」生成",
+      "dek": "《聯合新聞網》報導，氣象署證實菲律賓以東低壓區已發展為颱風海神，預料不會直接侵台。",
+      "url": "https://udn.com/news/story/7266/9623878"
+    },
+    {
+      "rank": 4,
+      "title": "海神最快今晚進菲律賓責任區",
+      "dek": "《商業世界》引述菲律賓氣象署指出，熱帶低壓海神最快13日夜間進入責任區，屆時將命名「Josie」。",
+      "url": "https://bworldonline.com/the-nation/2026/07/13/762922/tropical-depression-haishen-to-enter-par-as-early-as-monday-evening-pagasa/"
+    },
+    {
+      "rank": 5,
+      "title": "南海另一低壓擾動醞釀成形",
+      "dek": "《聯合新聞網》報導，南海新低壓系統將朝華南移動，不直接侵台，但恐增台灣南部午後雷雨機率。",
+      "url": "https://udn.com/news/story/7266/9624437"
+    },
+    {
       "rank": 6,
-      "title": "河北寬城縣道路淹沒 1800村民受困車輛遭沖走",
-      "dek": "據路透社報導，河北省寬城縣部分路段積水超過兩公尺，約1800名村民受困，瀋陽逾30處鐵路路段受影響，東北多省學校停課。",
-      "url": "https://kelo.com/2026/07/13/heavy-floods-submerge-roads-vehicles-in-northern-china/"
+      "title": "巴威致台113人受傷 多處停電",
+      "dek": "《臺北時報》報導，巴威過境台灣造成至少113人受傷，數百戶停電，班機大量取消延誤。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 7,
-      "title": "巴威外圍環流引發土石流 菲律賓南部15人罹難",
-      "dek": "半島電視台報導，巴威外圍環流與增強的西南季風在菲律賓南部引發土石流，造成至少15人罹難，其中南阿蘭省一處土石流即奪走10條人命；中國大陸則在疏散約280萬人後未傳出死亡案例。",
-      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
+      "title": "氣象署12日曾預告解除巴威警報",
+      "dek": "《中央社》英文網報導，氣象署因巴威減弱遠離台灣，決定解除陸海警報。",
+      "url": "https://focustaiwan.tw/society/202607120001"
     },
     {
       "rank": 8,
-      "title": "菲律賓外海熱帶性低氣壓恐入責任區 將命名「Josie」",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，同一系統可能於13日晚間至14日短暫進入菲律賓責任區並獲當地命名「Josie」，但預料將貼近責任區東緣後於15日左右移出，對菲律賓影響有限。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/13/2541843/tropical-depression-forms-east-philippines-still-outside-par"
+      "title": "巴威重創中國東部 豪雨未歇",
+      "dek": "《CNBC》報導，巴威登陸中國東部後持續帶來數日強降雨威脅，多地交通受阻、展開疏散。",
+      "url": "https://www.cnbc.com/2026/07/12/typhoon-bavi-batters-eastern-china-threatens-days-of-heavy-rain.html"
     },
     {
       "rank": 9,
-      "title": "巴威侵台前夕 估將是1987年以來最大颱風",
-      "dek": "《臺北時報》報導，氣象單位曾預測巴威將是1987年以來侵襲台灣範圍最大的颱風，若強度不減恐為近年來最強風暴，各地陸續展開防颱準備。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/09/2003860479"
+      "title": "熱帶風暴楊柳釀華南39死",
+      "dek": "《半島電視台》報導，稍早的熱帶風暴楊柳（Maysak）在廣西引發洪災，衝破水庫大壩，造成39人死亡、13萬人疏散。",
+      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
     },
     {
       "rank": 10,
-      "title": "聖嬰現象壓抑大西洋颶風季 美國研究機構下修全年預測",
-      "dek": "美國科羅拉多州立大學氣象團隊指出，受強烈聖嬰現象與撒哈拉沙塵影響，大西洋海域目前無風暴活動，今年全年預測下修至僅9個命名風暴、4個颶風，低於歷史平均。",
-      "url": "https://weather.com/2026/07/08/storms/hurricane/2026-atlantic-hurricane-season-outlook-csu-july-el-nino"
+      "title": "巴威登陸浙江 逾百萬人疏散",
+      "dek": "《觀察者》報導，巴威7月11日晚間以144公里時速登陸浙江，當地疏散268萬人次，樹木倒塌逾千棵。",
+      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
     }
   ]
 }
