@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-13T10:06:00+08:00",
+  "generated_at": "2026-07-13T11:07:00+08:00",
   "headline": {
-    "title": "巴威減弱轉性黃海，台灣警報全解除，區域轉入復原與觀察階段",
-    "dek": "繼週末在中國浙江雙重登陸後，颱風巴威持續減弱北移，台灣中央氣象署已解除所有陸海警報，太平洋周邊多地則仍在清點災損、進行重建。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+    "title": "颱風巴威減弱掠過華東，預測明日轉化為溫帶氣旋",
+    "dek": "中國氣象單位證實巴威已降為強烈熱帶風暴並持續北移，台灣警報雖已解除多時，但菲律賓與中國的災損清點仍在進行中，西太平洋暫無新颱風生成跡象。",
+    "url": "https://www.manilatimes.net/2026/07/13/world/asia-oceania/typhoon-bavi-reduced-to-severe-tropical-storm/2382920"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴威減弱北移，中央氣象署解除全台陸海警報",
-      "dek": "中央氣象署宣布解除颱風巴威陸上及海上警報，全台已知134人受傷，苗栗、新竹部分地區降雨超過700毫米。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+      "title": "巴威外圍環流侵台 87人受傷、逾1.4萬人疏散",
+      "dek": "中央社報導，巴威外圍環流7月11日為台灣帶來強風豪雨，造成87人受傷、17.7萬餘戶停電。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 2,
-      "title": "中央氣象署證實：巴威警報全面解除",
-      "dek": "隨著巴威威力減弱並逐漸遠離台灣影響範圍，中央氣象署正式取消所有陸上及海上警報。",
-      "url": "https://focustaiwan.tw/society/202607120001"
+      "title": "傷者數上修至113人 台灣多處發布土石流紅色警戒",
+      "dek": "台北時報報導，巴威暴風圈離台後傷亡統計上修，新竹、桃園、苗栗等地共45處發布最高等級土石流警戒。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 3,
-      "title": "巴威眼牆瓦解、暴風圈暴增至香港1263倍大",
-      "dek": "南華早報報導，超級颱風巴威逼近中國沿岸時眼牆結構瓦解，但暴風圈範圍急遽擴大，導致多地班機受阻。",
-      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
+      "title": "巴威侵襲華東 台灣傷者總數上修至134人",
+      "dek": "商業標準報引述最新統計指出，台灣傷者人數持續上修，同時巴威已在中國浙江登陸，當地疏散近200萬人。",
+      "url": "https://www.tbsnews.net/worldbiz/china/typhoon-bavi-batters-east-china-taiwan-reports-134-injured-1485886"
     },
     {
       "rank": 4,
-      "title": "巴威登陸浙江後降級為熱帶風暴，豪雨橫掃中國內陸",
-      "dek": "彭博社報導，巴威減弱後強降雨持續向安徽等內陸地區擴散，預測將轉向東北並在黃海完成溫帶轉性。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
+      "title": "巴威降級為強烈熱帶風暴 預測明日進入黃海",
+      "dek": "馬尼拉時報報導，中國國家氣象中心證實巴威已減弱，未來將轉向東北並完成溫帶轉化。",
+      "url": "https://www.manilatimes.net/2026/07/13/world/asia-oceania/typhoon-bavi-reduced-to-severe-tropical-storm/2382920"
     },
     {
       "rank": 5,
-      "title": "逾170萬人疏散，巴威登陸中國浙江",
-      "dek": "半島電視台報導，中國在巴威來襲前於浙江、福建、上海及北京等地緊急疏散逾170萬人，登陸時最大陣風達每小時144公里。",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "巴威持續減弱 華東強降雨風險未解",
+      "dek": "彭博社報導，巴威登陸浙江後結構雖趨弱，但仍為中國東部帶來大範圍豪雨，構成主要洪災威脅。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴美莎克致廣西洪災，39人罹難後進入復原階段",
-      "dek": "半島電視台報導，美莎克引發的洪災在廣西造成39人死亡，當地已疏散約13萬人，逾6萬戶居民恢復供電。",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
+      "title": "巴威登陸浙江玉環 中國疏散逾170萬人",
+      "dek": "半島電視台報導，巴威以中度颱風強度登陸浙江，登陸前中國當局已緊急疏散逾170萬居民。",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 7,
-      "title": "關島與北馬里亞納群島持續搶修電力",
-      "dek": "KHON2報導，關島電力公司已恢復約66%配電迴路，當地正從巴威侵襲中緩步復原。",
-      "url": "https://www.khon2.com/local-news/super-typhoon-bavi-guam-impact/"
+      "title": "菲律賓土石流罹難人數上修至18人 巴威外圍季風釀災",
+      "dek": "半島電視台報導，巴威增強的西南季風在民答那峨島引發土石流，死亡人數持續攀升，仍有多人失蹤。",
+      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
     },
     {
       "rank": 8,
-      "title": "羅塔島「無一倖免」，超級颱風巴威重創北馬里亞納",
-      "dek": "星條旗報報導，人口約1900人的羅塔島遭巴威以近五級強度直接登陸，過半建築受損，市長估計全面修復恐需三個月。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-07/%E2%80%9Cevery-aspect%E2%80%9D-of-pacific-island-damaged-or-destroyed-by-super-typhoon-bavi-22198204.html"
+      "title": "巴威暴風圈擴大 區域航班大面積受擾",
+      "dek": "南華早報報導，巴威在逼近中國沿海前結構鬆散但暴風範圍擴大，各地基於防範考量大量取消航班。",
+      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
     },
     {
       "rank": 9,
-      "title": "巴威（菲律賓名英黛）引發南部山崩，至少17人罹難",
-      "dek": "Rappler報導，菲律賓氣象局追蹤的超級颱風英黛（即巴威）挾強勁西南季風雨勢，在菲律賓南部釀成致命山崩，之後才轉向台灣及中國。",
-      "url": "https://www.rappler.com/philippines/weather/super-typhoon-inday-southwest-monsoon-update-pagasa-forecast-july-8-2026-5am/"
+      "title": "羅塔島復原之際 氣象單位籲勿過度緊張看待熱帶擾動97W",
+      "dek": "馬里亞納變體報報導，北馬里亞納群島仍在從巴威巔峰強度侵襲中復原，新監測的熱帶擾動97W發展機率目前偏低。",
+      "url": "https://www.mvariety.com/news/local/as-rota-recovers-forecasters-urge-calm-over-invest-97w/article_70ee6626-c4bc-41c6-9ea1-26fe051434fb.html"
     },
     {
       "rank": 10,
-      "title": "美國國家氣象局澄清：熱帶擾動97W「並非颱風」",
-      "dek": "NMI新聞社報導，關島國家氣象局駁斥網路謠傳97W正增強為新颱風的說法，聯合颱風警報中心評估其發展機率偏低，鄰近馬紹爾群島的98W同樣不被看好。",
-      "url": "https://www.nminewsservice.com/97w-not-a-typhoon-nws-aydlett/"
+      "title": "巴威遠離後 西南季風「哈邦岸」為呂宋、維薩亞斯帶來降雨",
+      "dek": "GMA新聞網報導，菲律賓氣象署表示目前責任區內無新熱帶氣旋，但西南季風仍可能引發局部強降雨與土石流風險。",
+      "url": "https://www.gmanetwork.com/news/weather/content/994609/pagasa-weather-july-13-2026/story/"
     }
   ]
 }
