@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-13T15:07:00+08:00",
+  "generated_at": "2026-07-13T16:07:00+08:00",
   "headline": {
-    "title": "巴威除警報畫下句點 海神倉促生成卻恐短命 南海熱帶擾動才是台灣本週天氣真正變數",
-    "dek": "中央氣象署13日上午一口氣完成今年颱風季的階段性交棒：解除巴威所有警報，同時宣布第11號颱風海神生成，但氣象署與日本氣象廳都指出海神先天不良、恐難成氣候，真正牽動台灣本週天氣的，是另一波在南海醞釀的熱帶擾動。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5503243"
+    "title": "第11號颱風「海神」清晨生成 對台無直接威脅，西南氣流成午後對流主因",
+    "dek": "中央氣象署證實今晨新颱風生成同時，另一熱帶擾動與南海低壓也在醞釀，但真正牽動台灣近期天氣的，是持續帶來36度高溫與強對流雷雨的西南季風。",
+    "url": "https://udn.com/news/story/7266/9623878"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署解除巴威所有警報 苗栗新竹創下逾700毫米驚人雨量",
-      "dek": "中央氣象署12日上午解除颱風巴威陸上與海上警報，台北時報報導巴威已造成台灣134人受傷，苗栗、新竹山區分別測得770.5毫米與743毫米雨量。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
-    },
-    {
-      "rank": 2,
-      "title": "突然就出現了！氣象署宣布第11號颱風「海神」形成",
-      "dek": "中央氣象署13日上午8時公告，菲律賓東方海面低壓區增強為今年第11號颱風海神，中心氣壓1000百帕、近中心最大風速每秒18公尺。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5503243"
-    },
-    {
-      "rank": 3,
-      "title": "海神恐是短命颱風 氣象署同步示警南海熱帶擾動",
-      "dek": "氣象署預報人員指出海神生成環境不佳、恐難以持續增強，同一場簡報中也提到南海另有一波熱帶擾動正在發展。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5503391"
-    },
-    {
-      "rank": 4,
-      "title": "海神路徑出爐 最快16日減弱為熱帶性低氣壓",
-      "dek": "聯合新聞網引述氣象署預測，海神14日徘徊菲律賓東方海面，強度變化有限，最快16日上午即可能減弱，對台灣無直接影響。",
+      "title": "第11號颱風「海神」生成 對台無直接影響",
+      "dek": "中央氣象署證實，菲律賓東方低壓區已於13日上午8時發展為輕度颱風海神，中心氣壓約1000百帕，預估路徑先轉西北西再北北西，對台灣無直接威脅。",
       "url": "https://udn.com/news/story/7266/9623878"
     },
     {
-      "rank": 5,
-      "title": "不只海神！南海另一熱帶擾動牽動台灣本週午後雷雨",
-      "dek": "氣象署同步監測南海熱帶擾動，即便發展為熱帶性低氣壓，路徑預估北彎進入中國，但水氣恐加劇台灣本週午後對流與山區大雨。",
+      "rank": 2,
+      "title": "不只海神 另一熱帶擾動同步發展中",
+      "dek": "聯合新聞網報導，氣象署持續監測西太平洋另一處熱帶擾動，路徑與影響程度尚不明朗，暫列為觀察對象，非台灣立即威脅。",
       "url": "https://udn.com/news/story/7266/9624437"
     },
     {
+      "rank": 3,
+      "title": "三預警齊發 颱風巴威14日白天將經山東移入黃海",
+      "dek": "香港新浪新聞報導，巴威已減弱為熱帶風暴等級，中心位於安徽鳳陽，預估14日白天經山東進入黃海北部並於隔日完成溫帶轉化，周邊海域強風警報持續至14日。",
+      "url": "https://portal.sina.com.hk/news-china/sina/2026/07/13/1852473/"
+    },
+    {
+      "rank": 4,
+      "title": "氣象署：巴威北移遠離 台灣相關警報全數解除",
+      "dek": "台北時報報導，中央氣象署證實巴威相關陸上、海上警報已於12日全面解除，系統持續朝中國大陸內陸移動，台灣天氣焦點轉向殘留季風降雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+    },
+    {
+      "rank": 5,
+      "title": "午後雷雨彈升級「高溫飆36度」 南海低壓擾動醞釀中",
+      "dek": "ETtoday新聞雲報導，巴威遠離後，西南氣流與南海醞釀中的低壓區成為台灣天氣主因，南部、東南部及澎湖地區午後將出現36度高溫與強對流雷雨。",
+      "url": "https://www.ettoday.net/news/20260713/3200064.htm"
+    },
+    {
       "rank": 6,
-      "title": "海神生成 日本氣象廳路徑預測曝「大迴轉」北上",
-      "dek": "TVBS新聞網報導，日本氣象廳預測海神將在海面上大幅迴轉北上，路徑偏向外海，對台灣影響評估輕微。",
-      "url": "https://news.tvbs.com.tw/world/3255913"
+      "title": "梅莎颱風殘餘水氣釀洪災 中國南方39人喪生",
+      "dek": "半島電視台報導，颱風梅莎引發的洪災在中國南方造成39人死亡，其中南寧一處潰壩事故單獨奪走26條人命、9人失蹤，近13萬人緊急撤離。",
+      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
     },
     {
       "rank": 7,
-      "title": "海神可能成短命颱 專家：台灣本週天氣不穩主因是季風水氣",
-      "dek": "中時新聞網引述氣象專家分析，海神難以進一步組織發展，台灣本週午後雷陣雨與山區大雨主要仍受季風水氣影響，而非颱風環流直接作用。",
-      "url": "https://www.chinatimes.com/realtimenews/20260713001652-260405"
+      "title": "五級超級颱風巴威重創美屬北馬里亞納群島與關島",
+      "dek": "耶魯氣候聯結報導，巴威曾以最高強度五級颱風掃過羅塔島，暴風眼直接過境恐為當地史上首見，關島機場測得逾15吋雨量，災情疊加4月颱風山陀兒損害。",
+      "url": "https://yaleclimateconnections.org/2026/07/cat-5-super-typhoon-bavi-pounds-the-u-s-northern-mariana-islands-and-guam/"
     },
     {
       "rank": 8,
-      "title": "巴威失去風眼卻仍擴大 環流一度達香港面積1263倍",
-      "dek": "南華早報報導，巴威登陸中國後結構鬆散、風眼消失，但整體環流一度擴大至香港面積1263倍，中國東部航班持續受擾。",
-      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
+      "title": "巴威遠離 台灣災損最終盤點134人受傷",
+      "dek": "自由時報報導，巴威侵台期間造成134人受傷（含5名外籍人士）、逾24萬7000戶一度停電、約4000戶停水，無人罹難，一度撤離逾5200人。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5502396"
     },
     {
       "rank": 9,
-      "title": "巴威登陸中國 逾170萬人撤離",
-      "dek": "半島電視台報導，颱風巴威在浙江台州與福建福鼎之間登陸前，中國當局已疏散逾170萬人，登陸時風速一度達每秒45公尺。",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "菲律賓氣象局：西南季風持續影響呂宋、維薩亞斯群島",
+      "dek": "菲律賓GMA新聞網報導，當地氣象機構PAGASA指出，西南季風（habagat）將為呂宋與維薩亞斯群島帶來間歇性降雨，民答那峨局部雷雨，目前無颱風直接侵襲菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/994609/pagasa-weather-july-13-2026/story/"
     },
     {
       "rank": 10,
-      "title": "關島氣象單位澄清：網傳「Invest 97W」威脅遭誇大",
-      "dek": "馬里亞納周報報導，美國國家氣象局關島辦公室強調，社群媒體瘋傳的熱帶擾動Invest 97W結構鬆散、發展潛力低，呼籲民眾勿過度恐慌。",
-      "url": "https://www.mvariety.com/news/local/as-rota-recovers-forecasters-urge-calm-over-invest-97w/article_70ee6626-c4bc-41c6-9ea1-26fe051434fb.html"
+      "title": "2026年太平洋颱風季 活躍程度創1976年以來同期新高",
+      "dek": "維基百科資料顯示，2026年太平洋颱風季已生成十二個熱帶氣旋，是自1976年以來同期最活躍的一年，海神為繼巴威、梅莎之後今年第11個獲命名風暴，季內已出現三個五級颱風。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
