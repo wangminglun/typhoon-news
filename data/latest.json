@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-14T02:05:00+08:00",
+  "generated_at": "2026-07-14T03:06:00+08:00",
   "headline": {
-    "title": "巴比颱風減弱北竄釀華北水患 台灣進入善後階段 南海與菲律賓外海新系統伺機成形",
-    "dek": "中國氣象部門警告今年颱風季下半場恐異常活躍，香港與菲律賓氣象機構同時緊盯兩個新生低壓系統的動向。",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3360332/hong-kong-observatory-may-issue-t1-signal-between-monday-night-tuesday-morning"
+    "title": "巴威減弱轉進中國內陸 台灣解除警報菲律賓增至20死",
+    "dek": "颱風巴威及其外圍環流雖已遠離台灣，但傷亡數字持續攀升，菲律賓氣象單位同時緊盯下一個可能生成的熱帶系統。",
+    "url": "https://www.tbsnews.net/worldbiz/china/typhoon-bavi-batters-east-china-taiwan-reports-134-injured-1485886"
   },
   "items": [
     {
       "rank": 1,
-      "title": "低壓逼近廣東沿岸 香港天文台評估發出一號戒備信號",
-      "dek": "天文台表示，南海北部低壓區周二上午可能通過香港100公里範圍內，若系統增強為熱帶低氣壓，恐帶來大雨、雷暴及局部水患風險。",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3360332/hong-kong-observatory-may-issue-t1-signal-between-monday-night-tuesday-morning"
+      "title": "台灣受傷人數增至134人 巴威外圍風雨肆虐全台",
+      "dek": "中央災害應變中心表示，受傷者多因強風及濕滑路面騎乘機車、自行車摔倒所致，其中包含六名外籍人士，目前無死亡或重傷通報。",
+      "url": "https://www.tbsnews.net/worldbiz/china/typhoon-bavi-batters-east-china-taiwan-reports-134-injured-1485886"
     },
     {
       "rank": 2,
-      "title": "熱帶性低氣壓「海神」最快週一晚間進入菲律賓責任區 將命名為「喬西」",
-      "dek": "菲律賓大氣地球物理暨天文服務署指出，該系統目前風速每小時55公里，預料進入責任區後小幅增強，但不致登陸菲律賓。",
-      "url": "https://bworldonline.com/the-nation/2026/07/13/762922/tropical-depression-haishen-to-enter-par-as-early-as-monday-evening-pagasa/"
+      "title": "菲律賓死亡人數增至20人 巴威疊加西南季風釀重災",
+      "dek": "菲律賓國家災害風險消減管理委員會指出，全國約65萬4000人受影響，16人仍下落不明，傷亡數字仍在核實中。",
+      "url": "https://watchers.news/2026/07/13/20-reported-dead-16-missing-as-bavi-enhanced-monsoon-triggers-floods-and-landslides-philippines/"
     },
     {
       "rank": 3,
-      "title": "菲律賓氣象署：責任區外新生熱帶低氣壓 可能不會直接影響菲國",
-      "dek": "該署表示，即將命名為「喬西」的系統預測將朝北北東方向移動，最快於7月15、16日離開責任區，不致直接衝擊菲律賓天氣與海象。",
-      "url": "https://mb.com.ph/2026/07/13/new-tropical-depression-outside-par-may-not-directly-affect-the-country-pagasa"
+      "title": "巴威遠離 台灣中央氣象署解除颱風警報",
+      "dek": "《台北時報》報導，警報解除前北部及中部地區已連日遭外圍雨帶侵襲，出現強風豪雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
     },
     {
       "rank": 4,
-      "title": "米沙鄢群島以東低壓區增強為熱帶低氣壓",
-      "dek": "菲律賓氣象署指出，該系統最大持續風速達每小時55公里、陣風70公里，以時速10公里向西北移動，一旦進入責任區將命名為「喬西」。",
-      "url": "https://www.gmanetwork.com/news/weather/content/994657/lpa-east-of-visayas-develops-into-tropical-depression-pagasa/story/"
-    },
-    {
-      "rank": 5,
-      "title": "巴比減弱為熱帶風暴 中國北方多地爆發嚴重水患",
-      "dek": "據《日本時報》報導，巴比在浙江登陸後雖已減弱，豪雨仍持續肆虐河北、遼寧等省，河北寬城水位一度超過兩公尺，多輛汽車遭沖走。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/13/asia-pacific/typhoon-bavi-rain-spreads-china/"
-    },
-    {
-      "rank": 6,
-      "title": "巴比威力雖減 中國仍面臨強風豪雨",
-      "dek": "《馬尼拉時報》報導指出，巴比登陸浙江數小時後減弱為熱帶風暴，但持續向西北移入安徽，為中國東北部多省帶來豪大雨。",
-      "url": "https://www.manilatimes.net/2026/07/13/world/typhoon-bavi-weakens-but-still-brings-strong-winds-and-rain-to-china/2383065"
-    },
-    {
-      "rank": 7,
-      "title": "繼巴比之後 中國恐迎來異常活躍颱風季",
-      "dek": "彭博社報導，中國國家氣候中心預測今夏將再有多達六個熱帶氣旋侵襲中國沿海，數量高於平均，強度預估偏強，主要影響華南與華東沿海地區。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/china-to-see-unusually-active-typhoon-season-after-bavi-passes"
-    },
-    {
-      "rank": 8,
-      "title": "颱風巴比襲台 87人受傷逾1.4萬人撤離",
-      "dek": "中央社報導，巴比被形容為1995年以來侵襲台灣最強颱風，傷者人數其後上修至113人，逾14000名居民撤離，數十萬戶一度停電，多數傷者為騎士於強風中失控摔車。",
+      "title": "巴威外圍風雨侵台初期 87人受傷逾萬四千人疏散",
+      "dek": "《中央社》引述政府緊急應變資料指出，台北盆地及北台灣一度遭強風重創，數十萬戶一度停電。",
       "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
+      "rank": 5,
+      "title": "巴威登陸浙江後迅速減弱 持續為華東帶來強風豪雨",
+      "dek": "《馬尼拉時報》報導，巴威已轉向西北移入安徽省境內，勢力持續減弱但降雨影響未歇。",
+      "url": "https://www.manilatimes.net/2026/07/13/world/typhoon-bavi-weakens-but-still-brings-strong-winds-and-rain-to-china/2383065"
+    },
+    {
+      "rank": 6,
+      "title": "菲律賓外海熱帶性低氣壓增強 最快明日入境恐命名「Josie」",
+      "dek": "PAGASA表示，該系統目前位於東維薩亞斯以東約1205公里處，若於7月14日進入責任區將獲當地命名。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-southwest-monsoon-update-pagasa-forecast-july-13-2026-4pm/"
+    },
+    {
+      "rank": 7,
+      "title": "PAGASA預告西南季風持續影響呂宋 多地恐有強降雨",
+      "dek": "氣象單位警告，伊羅戈斯、邦板牙、三描禮士等地區易致災地帶仍有土石流及淹水風險。",
+      "url": "https://www.gmanetwork.com/news/weather/content/994609/pagasa-weather-july-13-2026/story/"
+    },
+    {
+      "rank": 8,
+      "title": "中國預告今夏恐迎更多颱風 國家氣候中心示警",
+      "dek": "彭博社報導，中國國家氣候中心預測今夏將再有多達六個熱帶氣旋侵襲，強度整體偏強，主要影響南部及東部沿海。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/china-to-see-unusually-active-typhoon-season-after-bavi-passes"
+    },
+    {
       "rank": 9,
-      "title": "巴比重創日本南方離島 中國同步撤離60萬人",
-      "dek": "《日本時報》報導，巴比挾強風豪雨侵襲沖繩縣先島群島，造成至少5人受傷、數千棟建物停電，日本航空取消數十架航班，沖繩外島渡輪服務也一度中斷。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/"
+      "title": "美國氣象單位澄清：97W僅為低組織度擾動 並非颱風",
+      "dek": "美國國家氣象局與聯合颱風警報中心表示，馬紹爾群島附近的熱帶擾動評級偏低，籲民眾勿信網路謠言。",
+      "url": "https://www.nminewsservice.com/97w-not-a-typhoon-nws-aydlett/"
     },
     {
       "rank": 10,
-      "title": "巴比外圍環流引發土石流 菲律賓15人罹難",
-      "dek": "半島電視台報導，巴比外圍雨帶增強的季風雨在菲律賓引發多起土石流，造成至少15人死亡、數人失蹤，儘管巴比主要路徑並未直撲菲律賓本島。",
-      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
+      "title": "聖嬰增強壓抑風暴生成 科羅拉多州大下修大西洋風季預測",
+      "dek": "科羅拉多州立大學熱帶氣象專案將全年命名風暴數下修至九個，可能是2014年以來最平靜的大西洋風季。",
+      "url": "https://weather.com/2026/07/08/storms/hurricane/2026-atlantic-hurricane-season-outlook-csu-july-el-nino"
     }
   ]
 }
