@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-14T21:07:53+08:00",
+  "generated_at": "2026-07-14T22:06:30+08:00",
   "headline": {
-    "title": "颱風威脅解除　台灣進入復原階段　南海新擾動牽動下一波觀察焦點",
-    "dek": "中央氣象署已對八縣市發布高溫特報，宣告巴威颱風影響正式落幕；同時南海生成新的熱帶擾動99W，氣象單位正密切觀察其是否波及香港與華南地區。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/14/2003860729"
+    "title": "巴威颱風肆虐後台灣進入復原期　西太平洋新系統暫不構成威脅",
+    "dek": "中央氣象署轄下目前無颱風直接威脅台灣，全台正從巴威颱風災情中逐步復原，而菲律賓外海一個熱帶風暴僅維持十餘小時便消散，另有低壓區正朝中國廣東移動。",
+    "url": "https://focustaiwan.tw/society/202607110016"
   },
   "items": [
     {
       "rank": 1,
-      "title": "台灣脫離巴威威脅　中央氣象署對八縣市發布高溫特報",
-      "dek": "天氣型態轉回夏季午後雷陣雨模式，西南氣流仍為中北部帶來局部強降雨風險。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/14/2003860729"
+      "title": "巴威颱風重創台灣　87人受傷、逾1.4萬人撤離",
+      "dek": "中央社報導，巴威颱風侵襲期間全台177485戶停電，並有45處山區劃設紅色警戒。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 2,
-      "title": "巴威颱風重創台灣　至少135人受傷、逾萬人疏散",
-      "dek": "全國通報逾三千起災情多為路樹倒塌，花蓮萬里溪堰塞湖警戒已降級。",
-      "url": "https://focustaiwan.tw/society/202607120009"
+      "title": "中央氣象署發布巴威颱風陸上警報",
+      "dek": "氣象署預測北部山區豪雨上看900毫米，沿海浪高恐超過6公尺。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
     },
     {
       "rank": 3,
-      "title": "巴威登陸中國浙江　觸發逾170萬人疏散與多地洪災",
-      "dek": "颱風以時速約144公里風速侵襲玉環，河北承德等地傳出車輛遭洪水沖走。",
-      "url": "https://www.scmp.com/video/china/3360330/typhoon-bavi-brings-heavy-rain-triggers-floods-northern-and-eastern-china"
+      "title": "巴威颱風登陸中國　逾170萬人緊急疏散",
+      "dek": "超強颱風巴威在浙江省登陸，導致數百班航班取消及鐵路渡輪停駛。",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 4,
-      "title": "華南連日豪雨釀39死　巴威來襲前災情已相當嚴峻",
-      "dek": "美莎克颱風殘留水氣接連引發洪災，逾13萬人疏散，救難人員出動近5700艘船隻。",
-      "url": "https://www.washingtonpost.com/world/2026/07/09/typhoon-maysak-bavi-china-taiwan-flooding/be60527c-7b53-11f1-b194-f872dd4ec5aa_story.html"
+      "title": "菲律賓山崩奪15命　巴威颱風威脅擴大",
+      "dek": "巴威颱風（當地名英黛）引發的山崩在南甘馬粦省與蘭佬南省造成多人死亡。",
+      "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region"
     },
     {
       "rank": 5,
-      "title": "南海生成新熱帶擾動99W　預測西移逼近香港與廣東",
-      "dek": "報導指出颱風海神影響力已近尾聲，氣象關注焦點轉向這股新系統。",
-      "url": "https://www.setn.com/news/1872016"
+      "title": "「英黛」颱風死亡人數升至20人",
+      "dek": "菲律賓國家減災委員會統計，逾65萬人受風災及強化西南季風影響。",
+      "url": "https://www.manilatimes.net/2026/07/13/news/inday-death-toll-rises-to-20-ndrrmc/2383099"
     },
     {
       "rank": 6,
-      "title": "低壓系統逼近　香港天文台示警一號戒備信號恐將發布",
-      "dek": "強烈季候風信號已生效，西南風力達每小時40公里以上並伴隨陣性強風。",
-      "url": "https://www.dimsumdaily.hk/standby-signal-no-1-possible-tonight-to-tomorrow-morning-as-low-pressure-nears-within-100km-of-hong-kong/"
+      "title": "熱帶風暴海神進入菲律賓責任區　命名喬西",
+      "dek": "菲律賓大氣局表示，該系統進入時中心風速為每小時65公里。",
+      "url": "https://www.gmanetwork.com/news/weather/content/994751/tropical-storm-haishen-enters-par-named-josie-pagasa/story/"
     },
     {
       "rank": 7,
-      "title": "熱帶低氣壓海神將離開菲律賓責任區　華南外海另生新低壓區",
-      "dek": "菲律賓大氣地球物理天文服務管理局指出，新系統位於呂宋島極北方約940公里處。",
-      "url": "https://bworldonline.com/the-nation/2026/07/14/763242/tropical-depression-haishen-to-exit-par-on-tuesday-new-lpa-develops-pagasa/"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶低氣壓喬西進入責任區13.5小時後即減弱為低壓區",
-      "dek": "風速由每小時65公里降至45公里，最後位置在呂宋島東南方約1125公里外海。",
+      "title": "熱帶低氣壓喬西迅速減弱為低壓帶",
+      "dek": "進入責任區僅13.5小時，喬西即減弱消散，未發布任何豪雨或強風警報。",
       "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-lpa-update-pagasa-forecast-july-14-2026-11am/"
     },
     {
+      "rank": 8,
+      "title": "海神颱風週二離開責任區　新低壓區朝廣東移動",
+      "dek": "菲律賓大氣局表示，新生成的熱帶低氣壓預料不會進入菲律賓責任區。",
+      "url": "https://bworldonline.com/the-nation/2026/07/14/763242/tropical-depression-haishen-to-exit-par-on-tuesday-new-lpa-develops-pagasa/"
+    },
+    {
       "rank": 9,
-      "title": "東太平洋熱帶低氣壓形成　可能發展為熱帶風暴艾米莉亞",
-      "dek": "美國國家颶風中心評估形成機率48小時內達80%、七日內達90%。",
-      "url": "https://www.techtimes.com/articles/320262/20260712/eastern-pacific-hurricane-season-surges-new-depression-forms-near-mexico.htm"
+      "title": "2026年太平洋颱風季活動遠高於往年",
+      "dek": "Weathernews預測全年恐生成27至29個編號颱風，較常年平均多出3至4個。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 10,
-      "title": "夏威夷南方廣泛低壓區受監測　美國國家颶風中心評估發展可能",
-      "dek": "該系統西南側已出現接近強風等級陣風，但環流尚未明確成形。",
-      "url": "https://www.nhc.noaa.gov/gtwo.php"
+      "title": "米克拉颱風6月掠過台灣東側　轉向沖繩日本本島",
+      "dek": "米克拉颱風距台灣東岸約400至500公里通過，僅為西半部及宜蘭帶來降雨機率增加。",
+      "url": "https://sea.weathernews.com/resources/202606/124"
     }
   ]
 }
