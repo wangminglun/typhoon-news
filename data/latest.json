@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-15T04:08:00+08:00",
+  "generated_at": "2026-07-15T05:07:00+08:00",
   "headline": {
-    "title": "巴威颱風消散於朝鮮半島外海 台灣暫無新颱風威脅",
-    "dek": "在重創台灣北部與東部後轉往中國大陸、如今已於韓國外海轉化為溫帶氣旋的颱風巴威，標誌著西太平洋近日連續風暴的尾聲；氣象單位指出，南海與菲律賓東方海域目前並無足以直接威脅台灣的熱帶氣旋。",
-    "url": "https://www.chinanews.com.cn/sh/2026/07-14/10658747.shtml"
+    "title": "目前無活躍颱風：百威颱風完全消散，西太平洋進入短暫平靜期",
+    "dek": "在肆虐菲律賓、關島與台灣長達兩週後，颱風「百威」已在中國大陸境內減弱消散，而國際氣象單位目前僅將關島外海一個尚未成形的擾動列入觀察名單。",
+    "url": "https://www.usnews.com/news/world/articles/2026-07-14/more-than-260-000-evacuated-as-typhoon-bavi-brings-severe-floods"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴「海神」減弱為低壓區 菲律賓氣象署：24小時內完全消散",
-      "dek": "曾短暫進入菲律賓責任區的熱帶風暴Josie（海神）已迅速減弱，PAGASA表示其發展環境不利，對台灣與菲律賓均無直接威脅",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+      "title": "遼寧逾26萬人疏散 百威殘餘水氣釀重大洪災",
+      "dek": "美聯社報導，颱風百威減弱後的殘留水氣在中國遼寧省引發嚴重洪水，當局已疏散逾二十六萬人，強降雨預計持續至週二",
+      "url": "https://www.usnews.com/news/world/articles/2026-07-14/more-than-260-000-evacuated-as-typhoon-bavi-brings-severe-floods"
     },
     {
       "rank": 2,
-      "title": "Josie進入菲律賓責任區 惟預料不會直接影響菲國天氣",
-      "dek": "菲律賓通訊社報導，Josie最大風速僅每小時65公里，預期僅掠過責任區東側邊界後即轉向離開",
-      "url": "https://www.pna.gov.ph/articles/1279368"
+      "title": "農業部公布百威農損統計 苗栗損失占近七成",
+      "dek": "《台北時報》報導，台灣農業部統計颱風百威造成全台農損逾新台幣二千二百萬元，苗栗縣柿、棗等作物受害最重",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/14/2003860721"
     },
     {
       "rank": 3,
-      "title": "颱風巴威轉化為溫帶氣旋 於山東、韓國外海結束生命週期",
-      "dek": "中國新聞社報導，巴威中心已移至山東青島一帶，風力減弱至8級，預計當晚在朝鮮半島上空完全轉化為溫帶氣旋",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-14/10658747.shtml"
+      "title": "熱帶風暴喬西進入菲律賓責任區旋即降級",
+      "dek": "《菲律賓星報》報導，PAGASA將剛進入責任區的熱帶風暴喬西迅速降格為熱帶低氣壓，對菲律賓未構成直接威脅",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/14/2542081/josie-enters-par-weakens-tropical-depression"
     },
     {
       "rank": 4,
-      "title": "巴威颱風遠離台灣 中國大陸嚴陣以待登陸",
-      "dek": "半島電視台影像報導記錄巴威侵襲台灣後轉向中國大陸沿岸，當地隨即展開防颱準備",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan"
+      "title": "喬西再降級為殘餘低壓帶 菲國全程未發警報",
+      "dek": "《拉普勒》報導，喬西進入責任區僅十三個半小時後即被降為低壓帶，由於路徑偏東，菲律賓自始至終未發布任何風雨警報",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
     },
     {
       "rank": 5,
-      "title": "中央氣象署示警：巴威恐為30年來最強颱風 陣風上看227公里",
-      "dek": "《Focus Taiwan》報導，氣象署預估巴威7月10、11日最接近台灣，暴風半徑達380公里，破壞力驚人",
-      "url": "https://focustaiwan.tw/society/202607050012"
+      "title": "百威在中國境內消散 殘留雲系將為朝鮮半島帶來強降雨",
+      "dek": "南韓氣象廳透過SBS新聞表示，颱風百威已減弱消散，但其雲系預計為首爾都會區與江原道帶來上百毫米降雨",
+      "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008655727"
     },
     {
       "rank": 6,
-      "title": "巴威颱風重創台灣 全台多數縣市停班停課",
-      "dek": "台北時報報導，巴威暴風圈籠罩新北東北角至宜蘭、花蓮一帶，平地陣風測得191公里，北中部山區發布豪雨警報",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
+      "title": "季風槽北移 馬里亞納群島持續觀察擾動97W",
+      "dek": "北馬里亞納群島新聞社報導，關島國家氣象局仍在監測尚未組織成形的擾動97W，當地本週將出現西南季風湧浪與較高海象",
+      "url": "https://www.nminewsservice.com/marianas-weather-evening-july-14-2026/"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴摩羯致中國南方水患 至少39人罹難",
-      "dek": "半島電視台報導，廣西南寧一處潰堤事件造成26人死亡，約13萬人緊急撤離，發生於巴威登陸中國大陸前夕",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
+      "title": "中國登陸前疏散逾170萬人 百威預警規模創今年之最",
+      "dek": "半島電視台報導，中國當局在颱風百威登陸前疏散超過一百七十萬人，為今年規模最大的颱風前疏散行動之一",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 8,
-      "title": "關島外海擾動遭誤傳將成颱風 美方澄清並非如此",
-      "dek": "KANDIT新聞集團報導，聯合颱風警報中心將雅浦附近的97W擾動評為遠低於形成門檻的弱低壓，預料48小時內消散",
-      "url": "https://kanditnews.com/addressing-the-viral-share-of-a-possible-invest-97w/"
+      "title": "關島、北馬里亞納群島遭創紀錄強颱重擊",
+      "dek": "耶魯氣候連線報導，百威登陸時風速達每小時二百八十五公里，創下美國屬地觀測史上最強紀錄，並造成嚴重淹水與風災",
+      "url": "https://yaleclimateconnections.org/2026/07/typhoon-battered-u-s-northern-mariana-islands-brace-for-a-potential-super-typhoon/"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季概況：全年預估28個颱風、14個影響日本",
-      "dek": "維基百科整理資料顯示，巴威與海神分別為今年第9號與第11號颱風，今年風季活動大致符合往年同期水準",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "聖嬰現象增強 大西洋颶風季預報大幅下修",
+      "dek": "《Weather.com》引述科羅拉多州立大學預測指出，受聖嬰現象與強風切變影響，今年大西洋颶風季恐低於平均水準，目前僅形成一個風暴",
+      "url": "https://weather.com/2026/07/08/storms/hurricane/2026-atlantic-hurricane-season-outlook-csu-july-el-nino"
     },
     {
       "rank": 10,
-      "title": "東太平洋熱帶系統醞釀 墨西哥外海恐生成熱帶風暴艾蜜莉亞",
-      "dek": "《Fox Weather》報導，墨西哥外海一熱帶波動未來一週內近九成機率發展為熱帶氣旋，與西太平洋現況形成對比",
-      "url": "https://www.foxweather.com/weather-news/tropics-awaken-first-area-watch-tropical-development-eastern-pacific"
+      "title": "百威近海掠境 台灣87人受傷、逾萬人疏散",
+      "dek": "《中央社》報導，颱風百威雖未直接登陸，仍以強風豪雨重創台灣，造成八十七人受傷、約一萬四千人疏散",
+      "url": "https://focustaiwan.tw/society/202607110016"
     }
   ]
 }
