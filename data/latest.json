@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-15T00:07:40+08:00",
+  "generated_at": "2026-07-15T01:07:00+08:00",
   "headline": {
-    "title": "巴威減弱北移、海神旋生旋滅　台灣暫無颱風直接威脅",
-    "dek": "颱風巴威掠過台灣東北部後轉向中國大陸並持續北上減弱，新生成的熱帶風暴海神則在一天內迅速消散，氣象單位現轉而觀察南海及關島外海兩個熱帶擾動的後續發展。",
-    "url": "https://focustaiwan.tw/society/202607110016"
+    "title": "太平洋風暴季轉向：台灣暫無颱風威脅，酷熱特報取而代之",
+    "dek": "中央氣象署未發布任何颱風警報，反而針對八縣市發布高溫特報；唯一鄰近的熱帶系統「劍魚」已減弱為熱帶性低氣壓，預料週三前消散。",
+    "url": "https://focustaiwan.tw/society/202607140005"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風巴威襲台　87人受傷、逾1.4萬人疏散",
-      "dek": "據中央社英文網Focus Taiwan報導，颱風巴威掠過台灣東北部沿海，造成87人受傷、17萬7千餘戶停電。",
-      "url": "https://focustaiwan.tw/society/202607110016"
+      "title": "熱帶風暴「劍魚」短暫進入菲律賓責任區後隨即減弱為熱帶低氣壓",
+      "dek": "據Philstar.com報導，熱帶風暴劍魚（國際名Haishen）於7月14日清晨短暫進入菲律賓責任區，至上午8時已減弱為熱帶性低氣壓，PAGASA未發布任何風力信號，並研判該系統不致直接影響菲律賓天氣。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/14/2542081/josie-enters-par-weakens-tropical-depression"
     },
     {
       "rank": 2,
-      "title": "巴威災情數據更新　傷者增至113人　多縣市停班停課",
-      "dek": "據《台北時報》報導，颱風巴威最新統計顯示113人受傷、逾23萬戶停電，全台除台東、金門外多數縣市宣布停班停課。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+      "title": "PAGASA最新公報：劍魚週三前恐降級為殘餘低壓帶",
+      "dek": "據Rappler報導，PAGASA於7月14日上午11時公報證實劍魚已減弱為熱帶性低氣壓，受大氣環境不利影響，預料最快於7月15日退化為殘餘低壓帶，並將持續北移、於週二晚間至週三上午間離開菲律賓責任區。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-lpa-update-pagasa-forecast-july-14-2026-11am/"
     },
     {
       "rank": 3,
-      "title": "巴威登陸中國浙江　兩地相繼上岸、近200萬人疏散",
-      "dek": "據CNBC報導，颱風巴威以近每小時144公里風速在浙江台州、溫州相繼登陸，浙江一省即疏散逾170萬人。",
-      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
-    },
-    {
-      "rank": 4,
-      "title": "巴威殘餘環流北上遼寧　瀋陽地鐵全面停駛",
-      "dek": "據《南華早報》報導，颱風巴威北移侵襲遼寧省，當局關閉瀋陽地鐵系統並疏散約36萬名居民以防洪澇。",
-      "url": "https://www.scmp.com/news/china/politics/article/3360454/typhoon-bavi-forces-shenyang-subway-shutdown-360000-evacuated-liaoning-province"
-    },
-    {
-      "rank": 5,
-      "title": "熱帶風暴美莎克釀廣西洪災　39人罹難",
-      "dek": "據半島電視台報導，熱帶風暴美莎克為廣西帶來破紀錄豪雨，橫州、南寧一帶水庫潰堤致39人死亡，當局緊急疏散約13萬人。",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
-    },
-    {
-      "rank": 6,
-      "title": "熱帶風暴「Josie」短暫進入菲律賓責任區　未構成威脅",
-      "dek": "據菲律賓新聞網站Rappler報導，熱帶風暴海神（菲律賓命名Josie）14日凌晨進入菲律賓大氣局責任區，菲律賓大氣局表示未對菲律賓構成直接威脅，未發布風力警報。",
+      "title": "熱帶風暴劍魚短暫滯留菲律賓責任區，西南季風增強",
+      "dek": "據Rappler報導，PAGASA於7月14日上午5時公報指出，劍魚中心位於菲律賓維薩亞斯東部東方1,085公里處，近中心風速每小時65公里、陣風80公里，以時速25公里向西北移動，其增強的西南季風已為呂宋部分地區帶來強風至強陣風。",
       "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
     },
     {
+      "rank": 4,
+      "title": "台灣八縣市發布高溫特報，日高溫恐逼近36度",
+      "dek": "據Focus Taiwan報導，在無颱風威脅台灣的情況下，中央氣象署針對八個縣市發布高溫特報，並指出截至週二凌晨2時，熱帶風暴劍魚位於鵝鑾鼻東南方約1,850公里處，距離遙遠且系統鬆散，預期將自然消散、不致威脅台灣。",
+      "url": "https://focustaiwan.tw/society/202607140005"
+    },
+    {
+      "rank": 5,
+      "title": "氣象署針對八縣市發布高溫特報",
+      "dek": "據《台北時報》報導，彰化與花蓮兩縣獲發「橙色」高溫警戒，預估連續三天出現36度以上高溫，凸顯在巴薇遠離後，台灣當前天氣關注重點已是酷熱而非颱風。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/14/2003860729"
+    },
+    {
+      "rank": 6,
+      "title": "颱風巴薇威力減弱，但洪災風險北移",
+      "dek": "據《中國日報》報導，颱風巴薇在福建、浙江一帶登陸後已明顯減弱，但持續向北經安徽、山東移動，洪水與暴潮風險現已集中於山東與遼寧一帶，系統正朝黃海方向前進。",
+      "url": "https://www.chinadaily.com.cn/a/202607/14/WS6a557b67a310986e2b4650e6.html"
+    },
+    {
       "rank": 7,
-      "title": "「一日颱風」海神急速消散　專家：巴威攪動冷水種下敗因",
-      "dek": "據Newtalk新聞報導，颱風海神14日上午減弱為熱帶低壓並遭中國氣象部門除名，專家指出巴威先前攪動的海面冷水加上強烈風切是其迅速消亡主因。",
-      "url": "https://newtalk.tw/news/view/2026-07-14/1046949"
+      "title": "巴薇減弱，中國東部航班與鐵路服務陸續恢復",
+      "dek": "據《南華早報》報導，隨著巴薇持續減弱並深入內陸，中國東部交通網絡正逐步恢復正常運作，此前該風暴曾迫使福建至浙江沿海近兩百萬人疏散，並導致大量航班與鐵路班次取消。",
+      "url": "https://www.scmp.com/news/china/politics/article/3360257/thousands-flights-cancelled-typhoon-bavi-hits-eastern-china-bringing-heavy-rains"
     },
     {
       "rank": 8,
-      "title": "關島、北馬里亞納群島災後復原　羅塔島估需三個月恢復供電",
-      "dek": "據當地媒體Post Guam報導，超級颱風巴威重創羅塔島，陣風一度超過每小時200英里，官員預估當地電力修復恐需長達三個月。",
-      "url": "https://www.postguam.com/news/local/guam-recovering-from-bavi/article_c29619b6-1cbe-406f-98e6-2789c4aa4705.html"
+      "title": "颱風巴薇登陸中國後消散，朝鮮半島仍將迎豪雨",
+      "dek": "據韓國SBS新聞報導，巴薇殘餘系統雖已在中國大陸上空逐漸消散，但其水氣雲團持續向東北移動，預料仍將為朝鮮半島帶來豪雨，顯示風暴影響範圍在登陸後仍持續擴及區域。",
+      "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008655727"
     },
     {
       "rank": 9,
-      "title": "南海熱帶擾動牽動水氣北移　南台灣間歇降雨增多",
-      "dek": "據Newtalk新聞報導，南海一熱帶擾動預計移向廣東、香港，雖對台灣無直接影響，但牽引西南季風水氣北上，為台灣南部及東南部帶來間歇性降雨。",
-      "url": "https://newtalk.tw/news/view/2026-07-14/1046945"
+      "title": "颱風巴薇進逼中國全紀錄",
+      "dek": "據美國The World（PRX）報導，回顧巴薇自關島、馬里亞納群島海域近五級超級颱風強度，一路演變至登陸中國並減弱的完整路徑，並指出2026年太平洋風暴季的關注焦點如今已轉向其後續影響。",
+      "url": "https://theworld.org/stories/2026/07/14/typhoon-bavi-bears-down-on-china"
     },
     {
       "rank": 10,
-      "title": "雅浦附近熱帶擾動97W待觀察　多數模式預測48小時內消散",
-      "dek": "據雅浦氣象局報導，熱帶擾動97W有中至高機率於24小時內發展為熱帶低壓，但多數國際預報模式顯示系統將在48小時內消散，對台灣、菲律賓均無確認威脅。",
-      "url": "https://www.yapstate.gov.fm/post/special-weather-statement-yap-weather-service-office"
+      "title": "「一列」太平洋風暴系統接連受到追蹤",
+      "dek": "據關島Pacific Daily News/postguam.com報導，當地預報員正密切監測一連串太平洋風暴系統，包括在馬朱羅以南新生成的熱帶擾動98W，並指出在聖嬰現象影響下，未來5至7天關島與馬里亞納群島遭直接衝擊的機率有所升高。",
+      "url": "https://www.postguam.com/news/local/parade-of-pacific-systems-tracked/article_aa32a21a-3d06-4faa-992c-e80c88fbae36.html"
     }
   ]
 }
