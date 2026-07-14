@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-14T14:06:00+08:00",
+  "generated_at": "2026-07-14T15:07:00+08:00",
   "headline": {
-    "title": "海神颱風無直接威脅台灣　氣象署示警少數模式北偏路徑　中國華北、菲律賓風災傷亡持續攀升",
-    "dek": "中央氣象署表示，今年第十一號颱風海神（菲律賓命名Josie）預料不會侵襲台灣，但美國模式少數集合成員仍顯示北偏機率，同時中國河北、遼寧洪災與菲律賓因巴維颱風及西南季風釀成的死傷持續攀升。",
-    "url": "https://news.tvbs.com.tw/life/3255886"
+    "title": "颱風巴威創卅年最烈　海神減弱無礙台灣",
+    "dek": "氣象署稱新系統海神不會直接威脅台灣，今年颱風季活躍程度已創數十年新高",
+    "url": "https://udn.com/news/story/7266/9623878"
   },
   "items": [
     {
       "rank": 1,
-      "title": "美國模式少數成員示警海神北偏　中央氣象署密切監控",
-      "dek": "《TVBS新聞網》與《Yahoo奇摩新聞》報導，美國GFS系集模式部分成員顯示海神颱風有機率轉向掠過台灣北部，但此非官方預測路徑。",
-      "url": "https://news.tvbs.com.tw/life/3255886"
-    },
-    {
-      "rank": 2,
-      "title": "第11號颱風海神生成　中央氣象署：不影響台灣",
-      "dek": "《聯合新聞網》報導，中央氣象署預報員鄭皆聿表示，海神颱風路徑偏北且環境轉為不利，預料減弱北移，不致侵襲台灣。",
+      "title": "氣象署證實：11號颱風海神生成　對台無直接威脅",
+      "dek": "中央氣象署指出，海神因巴威攪動海水降溫而迅速減弱，路徑不會直接衝擊台灣。",
       "url": "https://udn.com/news/story/7266/9623878"
     },
     {
+      "rank": 2,
+      "title": "巴威重創台灣：113人受傷　逾23萬戶停電",
+      "dek": "台北時報報導，巴威造成大規模撤離與停電，多數傷者為騎乘機車遇強風跌倒所致。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+    },
+    {
       "rank": 3,
-      "title": "熱帶風暴喬西（海神）進入菲律賓責任區　預料快速減弱脫離",
-      "dek": "菲律賓通訊社報導，PAGASA表示喬西不太可能直接影響菲律賓天氣，預計最快七月十四日晚間至十五日清晨脫離大氣責任區。",
-      "url": "https://www.pna.gov.ph/articles/1279368"
+      "title": "氣象署示警：巴威為30年來侵台最大颱風",
+      "dek": "台北時報報導，巴威暴風圈寬達380公里，北部山區雨量恐逼近900毫米。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/09/2003860479"
     },
     {
       "rank": 4,
-      "title": "中國河北、遼寧洪災持續　寬城縣約1800名村民受困",
-      "dek": "美國新聞與世界報導引述法新社指出，巴維颱風過後豪雨成災，河北寬城縣約一千八百名村民受困，撤離安置成當務之急。",
-      "url": "https://www.usnews.com/news/world/articles/2026-07-13/heavy-floods-submerge-roads-vehicles-in-northern-china"
+      "title": "喬西進入菲律賓海域後減弱為熱帶低壓",
+      "dek": "菲律賓大氣局表示，喬西環境條件不利，預料周三前將進一步減弱為低壓帶。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/14/2542081/josie-enters-par-weakens-tropical-depression"
     },
     {
       "rank": 5,
-      "title": "菲律賓因巴維颱風及西南季風死亡人數增至20人　16人失蹤",
-      "dek": "《宿務太陽報》引述NDRRMC統計，全國約六十五萬四千人受災，薩蘭加尼省與蘭瑙南省災情最為嚴重。",
-      "url": "https://www.sunstar.com.ph/manila/typhoon-inday-death-toll-climbs-to-20-16-still-missing"
+      "title": "熱帶風暴喬西短暫掠過菲律賓海域即轉向東北",
+      "dek": "Rappler報導，喬西中心風速每小時65公里，將僅短暫停留菲律賓責任海域。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
     },
     {
       "rank": 6,
-      "title": "中央氣象署解除巴維颱風海陸警報",
-      "dek": "中央社報導，巴維颱風減弱為輕度颱風並移入中國內陸後，中央氣象署已於七月十二日上午解除所有相關警報。",
-      "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
+      "title": "巴威（英達）在菲死亡人數增至20人",
+      "dek": "OneNews.PH報導，土石流與淹水災情持續傳出，死亡人數較先前通報再上修。",
+      "url": "https://www.onenews.ph/articles/tropical-storm-josie-enters-par-inday-death-toll-now-20"
     },
     {
       "rank": 7,
-      "title": "南海熱帶擾動生成　氣象署：恐增台灣午後雷雨水氣",
-      "dek": "《自由時報》與《聯合新聞網》報導，中央氣象署指出南海新生低壓區雖不致直接侵台，但可能增強南部午後雷陣雨。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5503391"
+      "title": "巴威登陸中國　菲律賓死亡人數升至18人",
+      "dek": "香港自由新聞報導，巴威登陸後降為強烈熱帶風暴，菲國仍有災民下落不明。",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
     },
     {
       "rank": 8,
-      "title": "雅浦島附近熱帶擾動97W仍偏弱　預料短命消散",
-      "dek": "《馬里亞納多樣新聞》報導，儘管當地發布熱帶氣旋形成警示，多數模式顯示97W將在四十八小時內消散。",
-      "url": "https://www.mvariety.com/news/local/local-news-invest-97w-remains-weak-despite-online-speculation/article_25a7eef2-6736-481a-8c58-faf637a2f65d.html/"
+      "title": "中國福建浙江撤離逾170萬人迎戰巴威",
+      "dek": "半島電視台報導，當局取消數百航班並縮減鐵路渡輪班次，嚴陣以待巴威登陸。",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 9,
-      "title": "美國國家颶風中心：大西洋未來一週不預期有系統發展",
-      "dek": "NHC最新展望顯示，北大西洋、加勒比海及墨西哥灣近期均無熱帶系統發展跡象，符合今年颶風季偏弱的預測。",
-      "url": "https://www.nhc.noaa.gov/gtwo.php"
+      "title": "巴威橫掃沖繩先島群島　逾60萬人撤離",
+      "dek": "日本時報引述NHK報導，石垣島一帶陣風達每小時198公里，兩百餘航班取消。",
+      "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/"
     },
     {
       "rank": 10,
-      "title": "夏威夷南方低壓系統組織鬆散　NHC評估發展機率中等",
-      "dek": "美國國家颶風中心指出，夏威夷南方數百英里的低壓系統缺乏明顯環流，未來48小時發展機率約三成，預料不會直接影響夏威夷。",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATWOEP+shtml/121148_MIATWOEP.shtml"
+      "title": "預報機構：今年西北太平洋颱風季料創十年最活躍",
+      "dek": "保險期刊報導，強烈聖嬰現象推升今年颱風生成數量，全季估將出現逾27個命名風暴。",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/13/869630.htm"
     }
   ]
 }
