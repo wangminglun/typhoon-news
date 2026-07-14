@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-14T12:06:00+08:00",
+  "generated_at": "2026-07-14T13:07:00+08:00",
   "headline": {
-    "title": "巴維颱風威脅解除　太平洋颱風季未歇　海神颱風、南海擾動成新觀察焦點",
-    "dek": "中央氣象署表示，繼巴維颱風重創菲律賓並登陸中國東部後，颱風海神與南海一熱帶擾動目前預估均不會直接侵襲台灣。",
-    "url": "https://news.cnr.cn/kuaixun/20260713/t20260713_527707364.shtml"
+    "title": "颱風巴威減弱北移解除威脅　太平洋新擾動97W接棒成觀察焦點",
+    "dek": "這場創下1995年以來侵台環流最大紀錄的颱風已減弱進入中國內陸，但西太平洋風暴活動未見平息，一股新生熱帶擾動正牽動台灣、日本與菲律賓的下一步關注。",
+    "url": "https://weather.cma.cn/web/channel-376.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "今年第11號颱風「海神」生成",
-      "dek": "中國氣象部門宣布，關島西南方海域一低壓系統已升格為今年太平洋第11號颱風海神，預料強度變化不大，對中國沿海無直接威脅。",
-      "url": "https://news.cnr.cn/kuaixun/20260713/t20260713_527707364.shtml"
+      "title": "颱風巴威減弱為熱帶低壓　中國氣象單位：已深入山東內陸不再構成威脅",
+      "dek": "中國國家氣象中心表示，巴威14日清晨已減弱至熱帶風暴強度以下，中心氣壓回升至990百帕，目前僅維持最低等級的藍色颱風預警。",
+      "url": "https://weather.cma.cn/web/channel-376.html"
     },
     {
       "rank": 2,
-      "title": "熱帶風暴「Josie」短暫進入菲律賓責任區",
-      "dek": "菲律賓氣象機構PAGASA表示，颱風海神（菲律賓命名Josie）已短暫進入責任區但不會登陸，惟可能增強西南季風雨勢。",
+      "title": "熱帶風暴喬西進入菲律賓責任區　預估將快速減弱",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，喬西預計轉向東北移動，最快15日就會離開菲律賓責任區並減弱為熱帶低壓，但其增強的西南季風仍將為呂宋部分地區帶來強陣風。",
       "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
     },
     {
       "rank": 3,
-      "title": "巴維颱風登陸中國　菲律賓死亡人數升至18人",
-      "dek": "巴維在浙江二度登陸並撤離逾268萬人之際，菲律賓因季風雨勢加劇死亡人數已增至18人，另有12人失蹤。",
-      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
+      "title": "美軍聯合颱風警報中心對雅浦島附近熱帶擾動97W發布生成警報",
+      "dek": "該擾動位於雅浦島西北方約110海浬處，海溫及風切條件有利發展，未來24小時內可能組織成熱帶性低氣壓，但各國預報模式意見分歧，其後續動向牽動台灣、日本及菲律賓。",
+      "url": "https://zoom.earth/storms/97w-2026/"
     },
     {
       "rank": 4,
-      "title": "巴維颱風登陸中國東部後減弱為熱帶風暴",
-      "dek": "曾一度達五級超級颱風強度的巴維，登陸浙江後已降級為強烈熱帶風暴，但豪雨與淹水威脅依然嚴峻。",
-      "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
-    },
-    {
-      "rank": 5,
-      "title": "巴維雙登陸後　中國東部與北部爆發嚴重洪災",
-      "dek": "巴維殘餘環流北移，河北積水逾2公尺、遼寧鐵路一度中斷，全國46條河流水位超過警戒線。",
-      "url": "https://watchers.news/2026/07/13/severe-floods-widespread-damage-typhoon-bavi-double-landfall-china/"
-    },
-    {
-      "rank": 6,
-      "title": "巴維颱風致113人受傷　多處住宅一度停電",
-      "dek": "中央氣象署統計，巴維颱風造成全台113人受傷、逾1萬4600人撤離，23萬餘戶一度停電。",
+      "title": "颱風巴威重創台灣　113人受傷　創1995年以來侵台規模最大紀錄",
+      "dek": "據《台北時報》報導，巴威造成台灣113人受傷、14605人被迫疏散、逾23萬4千戶停電，其暴風圈廣達380公里，是1995年以來規模最大的侵台颱風，所幸最強風力掠過北部外海。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
+      "rank": 5,
+      "title": "颱風巴威登陸中國浙江　沿海三省逾270萬人疏散",
+      "dek": "半島電視台報導，巴威11日晚間11時20分以每小時144公里風速登陸浙江，當地疏散超過220萬人，上海約29萬人、福建逾18萬人也提前撤離。",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+    },
+    {
+      "rank": 6,
+      "title": "巴維殘留環流引發中國華東華北嚴重水患　河北積水逾2公尺",
+      "dek": "氣象網站The Watchers報導，巴威在浙江溫州樂清一帶二次登陸後降雨超過300毫米，河北部分路段積水逾2公尺、約1800人受困，遼寧鐵路運輸中斷，全國46條河流水位超過警戒線。",
+      "url": "https://watchers.news/2026/07/13/severe-floods-widespread-damage-typhoon-bavi-double-landfall-china/"
+    },
+    {
       "rank": 7,
-      "title": "巴維颱風襲台　87人受傷、逾1萬4000人撤離",
-      "dek": "巴維外圍環流11日侵襲北部與中部，交通部分停擺，當局緊急疏散沿海與山區居民。",
-      "url": "https://focustaiwan.tw/society/202607110016"
+      "title": "菲律賓因巴威及西南季風死亡人數增至20人",
+      "dek": "OneNews.PH報導，超級颱風巴威（菲律賓當地命名「英黛」）與其增強的西南季風合計已在菲律賓造成20人死亡，多數死於土石流與洪水。",
+      "url": "https://www.onenews.ph/articles/tropical-storm-josie-enters-par-inday-death-toll-now-20"
     },
     {
       "rank": 8,
-      "title": "巴維颱風重創台灣、日本",
-      "dek": "巴維外圍環流同時波及日本沖繩南西諸島，當地近8萬3000人疏散，全國逾200航班取消。",
-      "url": "https://en.tempo.co/read/2113139/typhoon-bavi-batters-taiwan-japan"
+      "title": "巴維侵襲中國東部沿海　當局警告未來數日仍有強降雨",
+      "dek": "據CNBC報導，巴威登陸後持續影響中國東部沿海，當局警告風暴殘留系統將帶來數日強降雨，受影響省份數百架航班取消、鐵路服務減班。",
+      "url": "https://www.cnbc.com/2026/07/12/typhoon-bavi-batters-eastern-china-threatens-days-of-heavy-rain.html"
     },
     {
       "rank": 9,
-      "title": "不只海神颱風　南海另一熱帶擾動正在發展",
-      "dek": "中央氣象署表示，南海一熱帶擾動預估將趨向中國南部沿海，雖不直接侵襲台灣，但可能增強午後雷陣雨。",
-      "url": "https://udn.com/news/story/7266/9624437"
+      "title": "科羅拉多州立大學再度下修2026大西洋颶風季預測　歸因聖嬰現象增強",
+      "dek": "據福斯天氣網報導，科羅拉多州立大學最新預測將2026年大西洋颶風季命名風暴數下修至9個、颶風4個、強颶風1個，並將美國本土遭強颶風登陸的機率評估為17%，遠低於43%的長期平均值。",
+      "url": "https://www.foxweather.com/weather-news/colorado-state-university-2026-atlantic-hurricane-season-forecast-el-nino-july"
     },
     {
       "rank": 10,
-      "title": "大西洋海域暫無活躍熱帶氣旋　美國國家颶風中心持續監測墨西哥外海系統",
-      "dek": "美國國家颶風中心指出，墨西哥南部外海一系統發展為熱帶低氣壓的機率達90%，NOAA預估今年大西洋颶風季整體低於平均。",
-      "url": "https://abc13.com/tropicalupdate/"
+      "title": "大西洋洋面截至7月中旬未有活躍熱帶氣旋",
+      "dek": "美國國家颶風中心表示，大西洋、加勒比海及墨西哥灣近期均無熱帶氣旋活動亦無發展跡象，與目前風暴活躍的西太平洋形成鮮明對比。",
+      "url": "https://www.nhc.noaa.gov/cyclones/"
     }
   ]
 }
