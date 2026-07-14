@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-14T23:07:53+08:00",
+  "generated_at": "2026-07-15T00:07:40+08:00",
   "headline": {
-    "title": "熱帶風暴喬西未及成形便消散　台灣暫無颱風威脅　中國仍在峇維水患中復原",
-    "dek": "菲律賓大氣局證實熱帶低氣壓喬西已減弱為殘餘低壓區，南海另一低壓系統亦未達颱風強度即於廣東珠海登陸，而台灣中央氣象署已解除峇維颱風警報，轉入災後盤點階段。",
-    "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+    "title": "巴威減弱北移、海神旋生旋滅　台灣暫無颱風直接威脅",
+    "dek": "颱風巴威掠過台灣東北部後轉向中國大陸並持續北上減弱，新生成的熱帶風暴海神則在一天內迅速消散，氣象單位現轉而觀察南海及關島外海兩個熱帶擾動的後續發展。",
+    "url": "https://focustaiwan.tw/society/202607110016"
   },
   "items": [
     {
       "rank": 1,
-      "title": "喬西進菲律賓責任區僅13.5小時　即減弱消散為殘餘低壓",
-      "dek": "PAGASA表示，熱帶低氣壓喬西（海神）最大風速已降至每小時45公里，始終未登陸菲律賓。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+      "title": "颱風巴威襲台　87人受傷、逾1.4萬人疏散",
+      "dek": "據中央社英文網Focus Taiwan報導，颱風巴威掠過台灣東北部沿海，造成87人受傷、17萬7千餘戶停電。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 2,
-      "title": "喬西一進菲律賓責任區便迅速降級為熱帶低氣壓",
-      "dek": "菲律賓大氣局指出，喬西風速數小時內從65公里降至45公里，預料不會直接衝擊菲律賓天氣。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/14/2542081/josie-enters-par-weakens-tropical-depression"
-    },
-    {
-      "rank": 3,
-      "title": "南海低壓系統登陸廣東珠海　未達颱風強度",
-      "dek": "香港天文台表示，該低壓系統結構鬆散，已於週二下午移入珠江口西側。",
-      "url": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20260714/s00024/1783987435773/%E5%A4%A9%E6%96%87%E5%8F%B0%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E4%BD%8E%E5%A3%93%E5%8D%80%E7%8F%A0%E6%B5%B7%E7%99%BB%E9%99%B8-%E6%9C%AC%E6%B8%AF%E9%9B%A2%E5%B2%B8%E5%8F%8A%E9%AB%98%E5%9C%B0%E9%96%93%E4%B8%AD%E5%90%B9%E5%BC%B7%E9%A2%A8-%E6%88%96%E7%99%BC%E5%BC%B7%E7%83%88%E5%AD%A3%E5%80%99%E9%A2%A8%E4%BF%A1%E8%99%9F"
-    },
-    {
-      "rank": 4,
-      "title": "低壓系統逼近百公里內　香港天文台評估發出一號戒備信號",
-      "dek": "天文台指出，該南海低壓系統結構仍然鬆散，尚未發展為熱帶氣旋。",
-      "url": "https://www.thestandard.com.hk/news/article/337061/Observatory-may-issue-T1-signal-tonight-as-low-pressure-system-nears"
-    },
-    {
-      "rank": 5,
-      "title": "峇維颱風水患未歇　中國遼寧逾26萬人撤離",
-      "dek": "路透社報導，峇維殘餘水氣持續北送引發豪雨，瀋陽街頭洪水沖斷高壓電線。",
-      "url": "https://www.usnews.com/news/world/articles/2026-07-14/more-than-260-000-evacuated-as-typhoon-bavi-brings-severe-floods"
-    },
-    {
-      "rank": 6,
-      "title": "台灣中央氣象署解除峇維颱風陸海警報",
-      "dek": "中央社報導，峇維為苗栗、新竹等地帶來破紀錄雨量後已減弱遠離台灣。",
-      "url": "https://focustaiwan.tw/society/202607120001"
-    },
-    {
-      "rank": 7,
-      "title": "峇維颱風造成台灣113人受傷　數百戶一度斷電",
-      "dek": "《台北時報》報導，災區基礎建設復原工作仍在持續進行中。",
+      "title": "巴威災情數據更新　傷者增至113人　多縣市停班停課",
+      "dek": "據《台北時報》報導，颱風巴威最新統計顯示113人受傷、逾23萬戶停電，全台除台東、金門外多數縣市宣布停班停課。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
+      "rank": 3,
+      "title": "巴威登陸中國浙江　兩地相繼上岸、近200萬人疏散",
+      "dek": "據CNBC報導，颱風巴威以近每小時144公里風速在浙江台州、溫州相繼登陸，浙江一省即疏散逾170萬人。",
+      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
+    },
+    {
+      "rank": 4,
+      "title": "巴威殘餘環流北上遼寧　瀋陽地鐵全面停駛",
+      "dek": "據《南華早報》報導，颱風巴威北移侵襲遼寧省，當局關閉瀋陽地鐵系統並疏散約36萬名居民以防洪澇。",
+      "url": "https://www.scmp.com/news/china/politics/article/3360454/typhoon-bavi-forces-shenyang-subway-shutdown-360000-evacuated-liaoning-province"
+    },
+    {
+      "rank": 5,
+      "title": "熱帶風暴美莎克釀廣西洪災　39人罹難",
+      "dek": "據半島電視台報導，熱帶風暴美莎克為廣西帶來破紀錄豪雨，橫州、南寧一帶水庫潰堤致39人死亡，當局緊急疏散約13萬人。",
+      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
+    },
+    {
+      "rank": 6,
+      "title": "熱帶風暴「Josie」短暫進入菲律賓責任區　未構成威脅",
+      "dek": "據菲律賓新聞網站Rappler報導，熱帶風暴海神（菲律賓命名Josie）14日凌晨進入菲律賓大氣局責任區，菲律賓大氣局表示未對菲律賓構成直接威脅，未發布風力警報。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
+    },
+    {
+      "rank": 7,
+      "title": "「一日颱風」海神急速消散　專家：巴威攪動冷水種下敗因",
+      "dek": "據Newtalk新聞報導，颱風海神14日上午減弱為熱帶低壓並遭中國氣象部門除名，專家指出巴威先前攪動的海面冷水加上強烈風切是其迅速消亡主因。",
+      "url": "https://newtalk.tw/news/view/2026-07-14/1046949"
+    },
+    {
       "rank": 8,
-      "title": "峇維重創浙江　中國加強防汛救災工作",
-      "dek": "新華社報導，峇維為1949年以來侵襲浙江最強七月颱風，當局疏散逾268萬人。",
-      "url": "https://english.news.cn/20260712/51dcf6e9f3e34dbfa0eb4dc773acad2a/c.html"
+      "title": "關島、北馬里亞納群島災後復原　羅塔島估需三個月恢復供電",
+      "dek": "據當地媒體Post Guam報導，超級颱風巴威重創羅塔島，陣風一度超過每小時200英里，官員預估當地電力修復恐需長達三個月。",
+      "url": "https://www.postguam.com/news/local/guam-recovering-from-bavi/article_c29619b6-1cbe-406f-98e6-2789c4aa4705.html"
     },
     {
       "rank": 9,
-      "title": "西南季風預計未來兩天減弱　菲律賓天氣可望好轉",
-      "dek": "PAGASA表示，喬西消散後西南季風成為唯一直接影響菲律賓的天氣系統。",
-      "url": "https://mb.com.ph/2026/07/13/pagasa-sees-improving-weather-across-the-philippines"
+      "title": "南海熱帶擾動牽動水氣北移　南台灣間歇降雨增多",
+      "dek": "據Newtalk新聞報導，南海一熱帶擾動預計移向廣東、香港，雖對台灣無直接影響，但牽引西南季風水氣北上，為台灣南部及東南部帶來間歇性降雨。",
+      "url": "https://newtalk.tw/news/view/2026-07-14/1046945"
     },
     {
       "rank": 10,
-      "title": "2026年太平洋颱風季步調持續遠高於歷史均值",
-      "dek": "喬西（海神）為本季第11個具名風暴，今年颱風季開局為2019年以來最活躍。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "雅浦附近熱帶擾動97W待觀察　多數模式預測48小時內消散",
+      "dek": "據雅浦氣象局報導，熱帶擾動97W有中至高機率於24小時內發展為熱帶低壓，但多數國際預報模式顯示系統將在48小時內消散，對台灣、菲律賓均無確認威脅。",
+      "url": "https://www.yapstate.gov.fm/post/special-weather-statement-yap-weather-service-office"
     }
   ]
 }
