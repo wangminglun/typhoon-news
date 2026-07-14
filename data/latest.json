@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-14T11:02:00+08:00",
+  "generated_at": "2026-07-14T12:06:00+08:00",
   "headline": {
-    "title": "海神颱風「一日夭折」　台灣暫無颱風威脅",
-    "dek": "中央氣象署證實陸海警戒維持解除，氣象專家指出，颱風巴威攪動的冷水海域是海神迅速消散的關鍵原因。",
-    "url": "https://www.ettoday.net/news/20260714/3200525.htm"
+    "title": "巴維颱風威脅解除　太平洋颱風季未歇　海神颱風、南海擾動成新觀察焦點",
+    "dek": "中央氣象署表示，繼巴維颱風重創菲律賓並登陸中國東部後，颱風海神與南海一熱帶擾動目前預估均不會直接侵襲台灣。",
+    "url": "https://news.cnr.cn/kuaixun/20260713/t20260713_527707364.shtml"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中央氣象署解除巴威颱風陸海警戒",
-      "dek": "巴威減弱北移，台灣陸上警報清晨解除、海上警報上午跟進。",
-      "url": "https://focustaiwan.tw/society/202607120001"
+      "title": "今年第11號颱風「海神」生成",
+      "dek": "中國氣象部門宣布，關島西南方海域一低壓系統已升格為今年太平洋第11號颱風海神，預料強度變化不大，對中國沿海無直接威脅。",
+      "url": "https://news.cnr.cn/kuaixun/20260713/t20260713_527707364.shtml"
     },
     {
       "rank": 2,
-      "title": "警戒解除後天氣持續好轉　巴威持續北移",
-      "dek": "追蹤報導證實警戒維持解除，台灣天氣逐步恢復正常。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
-    },
-    {
-      "rank": 3,
-      "title": "海神颱風「壽命很短」最新路徑曝",
-      "dek": "今年第11號颱風生成後迅速減弱，路徑轉向對台灣無威脅。",
-      "url": "https://www.ettoday.net/news/20260714/3200525.htm"
-    },
-    {
-      "rank": 4,
-      "title": "被巴威挖出的冷水坑害慘　海神生成僅24小時就被冷死",
-      "dek": "巴威攪動的冷水海域加上強烈風切，讓海神失去增強所需能量。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5504339"
-    },
-    {
-      "rank": 5,
-      "title": "海神颱風「才生成1天」就沒了　氣象專家解析成因",
-      "dek": "專家證實海神迅速減弱與巴威造成的海溫下降及不利風場有關。",
-      "url": "https://www.ctwant.com/article/489139/"
-    },
-    {
-      "rank": 6,
-      "title": "不只海神颱風　南海另一熱帶擾動發展中",
-      "dek": "氣象署示警南海新系統為下一觀察焦點，公布預估路徑與可能影響。",
-      "url": "https://udn.com/news/story/7266/9624437"
-    },
-    {
-      "rank": 7,
-      "title": "巴威颱風重創中國　華東逾280萬人急撤",
-      "dek": "登陸後淹水災情持續擴大，撤離規模創下驚人數字。",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5503102"
-    },
-    {
-      "rank": 8,
-      "title": "三預警齊發　巴威經山東移入黃海",
-      "dek": "中國氣象單位同步發布三項預警，遼寧吉林面臨局部強降雨。",
-      "url": "https://news.sina.com.cn/o/2026-07-13/doc-inihrnpi2266677.shtml"
-    },
-    {
-      "rank": 9,
-      "title": "熱帶風暴Josie短暫進入菲律賓責任區",
-      "dek": "PAGASA預期系統將於7月15日前離開責任區，西南季風影響呂宋島。",
+      "title": "熱帶風暴「Josie」短暫進入菲律賓責任區",
+      "dek": "菲律賓氣象機構PAGASA表示，颱風海神（菲律賓命名Josie）已短暫進入責任區但不會登陸，惟可能增強西南季風雨勢。",
       "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
     },
     {
+      "rank": 3,
+      "title": "巴維颱風登陸中國　菲律賓死亡人數升至18人",
+      "dek": "巴維在浙江二度登陸並撤離逾268萬人之際，菲律賓因季風雨勢加劇死亡人數已增至18人，另有12人失蹤。",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
+    },
+    {
+      "rank": 4,
+      "title": "巴維颱風登陸中國東部後減弱為熱帶風暴",
+      "dek": "曾一度達五級超級颱風強度的巴維，登陸浙江後已降級為強烈熱帶風暴，但豪雨與淹水威脅依然嚴峻。",
+      "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
+    },
+    {
+      "rank": 5,
+      "title": "巴維雙登陸後　中國東部與北部爆發嚴重洪災",
+      "dek": "巴維殘餘環流北移，河北積水逾2公尺、遼寧鐵路一度中斷，全國46條河流水位超過警戒線。",
+      "url": "https://watchers.news/2026/07/13/severe-floods-widespread-damage-typhoon-bavi-double-landfall-china/"
+    },
+    {
+      "rank": 6,
+      "title": "巴維颱風致113人受傷　多處住宅一度停電",
+      "dek": "中央氣象署統計，巴維颱風造成全台113人受傷、逾1萬4600人撤離，23萬餘戶一度停電。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+    },
+    {
+      "rank": 7,
+      "title": "巴維颱風襲台　87人受傷、逾1萬4000人撤離",
+      "dek": "巴維外圍環流11日侵襲北部與中部，交通部分停擺，當局緊急疏散沿海與山區居民。",
+      "url": "https://focustaiwan.tw/society/202607110016"
+    },
+    {
+      "rank": 8,
+      "title": "巴維颱風重創台灣、日本",
+      "dek": "巴維外圍環流同時波及日本沖繩南西諸島，當地近8萬3000人疏散，全國逾200航班取消。",
+      "url": "https://en.tempo.co/read/2113139/typhoon-bavi-batters-taiwan-japan"
+    },
+    {
+      "rank": 9,
+      "title": "不只海神颱風　南海另一熱帶擾動正在發展",
+      "dek": "中央氣象署表示，南海一熱帶擾動預估將趨向中國南部沿海，雖不直接侵襲台灣，但可能增強午後雷陣雨。",
+      "url": "https://udn.com/news/story/7266/9624437"
+    },
+    {
       "rank": 10,
-      "title": "Josie進入菲律賓責任區後隨即減弱為熱帶性低氣壓",
-      "dek": "PAGASA未發布雨量或風力警報，系統預計持續遠離陸地後消散。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/14/2542081/josie-enters-par-weakens-tropical-depression"
+      "title": "大西洋海域暫無活躍熱帶氣旋　美國國家颶風中心持續監測墨西哥外海系統",
+      "dek": "美國國家颶風中心指出，墨西哥南部外海一系統發展為熱帶低氣壓的機率達90%，NOAA預估今年大西洋颶風季整體低於平均。",
+      "url": "https://abc13.com/tropicalupdate/"
     }
   ]
 }
