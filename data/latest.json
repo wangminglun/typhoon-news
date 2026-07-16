@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-16T21:07:00+08:00",
+  "generated_at": "2026-07-16T22:15:00+08:00",
   "headline": {
-    "title": "太平洋醞釀新低壓 今年第12號颱風「紅霞」最快明生成",
-    "dek": "在超級颱風巴威重創沿海地區、颱風海神一日內迅速消散之後，日本氣象廳預測楚克群島海域的一個熱帶低壓最快7月17日增強為今年第12號颱風，但目前對台灣尚無直接威脅。",
-    "url": "https://www.ettoday.net/news/20260716/3202366.htm"
+    "title": "楚克群島熱帶低壓持續醞釀 多家媒體證實今年第12號颱風「紅霞」最快明生成",
+    "dek": "日本氣象廳預測，密克羅尼西亞楚克群島海域的熱帶低壓最快7月17日增強為今年第12號颱風「紅霞」，中時新聞網、自由時報、mnews等多家台灣媒體已相繼證實此一發展；系統目前仍緩慢移動，對台灣尚無直接威脅。",
+    "url": "https://www.chinatimes.com/realtimenews/20260716003700-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "快訊：楚克群島海域現熱帶低壓 估最快明日增強為颱風「紅霞」",
-      "dek": "日本氣象廳預測，16日下午位於北緯4.3度、東經151.8度、緩慢向東北移動的熱帶低壓最快17日將增強為今年第12號颱風，目前距台灣尚遠。",
-      "url": "https://www.ettoday.net/news/20260716/3202366.htm"
+      "title": "颱風「紅霞」最快明生成！新熱帶性低壓現身 路徑曝光",
+      "dek": "中時新聞網報導，楚克群島海域熱帶低壓路徑與強度預報明朗化，最快17日增強為今年第12號颱風，目前對台灣尚無直接威脅。",
+      "url": "https://www.chinatimes.com/realtimenews/20260716003700-260405"
     },
     {
       "rank": 2,
@@ -20,45 +20,45 @@
     },
     {
       "rank": 3,
+      "title": "又有熱帶低壓形成！最快明晚增強為颱風「紅霞」",
+      "dek": "mnews報導證實楚克群島附近熱帶低壓動態，是台灣本月第三個引發關注的熱帶系統。",
+      "url": "https://www.mnews.tw/story/mm-20260716edi061"
+    },
+    {
+      "rank": 4,
       "title": "颱風海神生成僅24小時即減弱 氣象署：一日颱風並不罕見",
       "dek": "中央氣象署表示，海神因先前颱風巴威攪動海水造成低海溫，加上強風切作用，7月13日生成後隔日即減弱為熱帶低氣壓。",
       "url": "https://www.cna.com.tw/news/ahel/202607140309.aspx"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "颱風巴威遠離 氣象署解除所有海陸警報",
       "dek": "隨著巴威減弱並轉向中國大陸內陸移動，氣象署於7月12日上午8時30分解除全部颱風警報，苗栗、新竹降雨逾700毫米。",
       "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "巴威來襲前夕 台灣多縣市停班停課嚴陣以待",
       "dek": "Taipei Times報導，巴威為北台灣多地帶來強風豪雨，山區雨量預估達600至900毫米，全台約2.9萬名軍警人員進入災害應變待命狀態。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "巴威登陸中國大陸 逾170萬人疏散撤離",
       "dek": "半島電視台報導，超級颱風巴威掠過台灣北部海域後在中國大陸登陸，福建、浙江沿海超過170萬人撤離，途中亦一度導致沖繩大規模停電。",
       "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "巴威來勢洶洶 台灣多處脆弱地區居民提前撤離",
       "dek": "香港自由新聞報導，巴威以罕見的約350公里暴風半徑，被形容為數十年來侵台最大型颱風之一，台、菲、中三地航班大規模取消。",
       "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "超級颱風巴威增強為今年第三個五級颱風",
       "dek": "耶魯氣候連線報導，美國聯合颱風警報中心估計巴威巔峰時最大持續風速達每小時285公里、中心氣壓低至901百帕，為今年最強風暴之一。",
       "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
-    },
-    {
-      "rank": 9,
-      "title": "巴威增強西南氣流 菲律賓坍方水患釀20死16失蹤",
-      "dek": "The Watchers報導，巴威雖未直接登陸菲律賓，但增強的西南氣流引發坍方與洪災，全國約56.2萬人受影響，災情因6月初規模7.8強震後地質鬆動而加劇。",
-      "url": "https://watchers.news/2026/07/13/20-reported-dead-16-missing-as-bavi-enhanced-monsoon-triggers-floods-and-landslides-philippines/"
     },
     {
       "rank": 10,
