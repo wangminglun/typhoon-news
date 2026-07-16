@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-16T14:08:00+08:00",
+  "generated_at": "2026-07-16T15:06:00+08:00",
   "headline": {
-    "title": "西太平洋暫無活躍颱風 氣象署持續監控南海與關島週邊擾動",
-    "dek": "中央氣象署與美國聯合颱風警報中心均表示，目前無熱帶氣旋對台灣構成威脅，但南海及菲律賓以東至關島一帶仍有低壓系統受到密切觀察。",
-    "url": "https://udn.com/news/story/7266/9624437"
+    "title": "超級颱風巴韋消散於南韓外海 中央氣象署解除警戒，台灣暫無風暴威脅",
+    "dek": "巴韋轉為溫帶氣旋後在南韓外海消散，中央氣象署已解除相關警戒，而太平洋東側熱帶風暴伊萊達持續增強，另一擾動也可能發展成今年第五個命名風暴艾米莉亞。",
+    "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署示警：南海與關島週邊各有一熱帶擾動待觀察",
-      "dek": "中央氣象署指出南海系統路徑偏向中國，關島附近低壓帶則受太平洋高壓阻擋，接近台灣機率低",
-      "url": "https://udn.com/news/story/7266/9624437"
+      "title": "巴韋颱風轉性消散 回顧其橫掃太平洋的致命足跡",
+      "dek": "這場30年來侵台規模最大的颱風之一，最終在南韓外海化為溫帶氣旋消散",
+      "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
     },
     {
       "rank": 2,
-      "title": "JTWC：西太平洋目前無熱帶氣旋警報",
-      "dek": "美國聯合颱風警報中心最新頁面顯示，海神颱風消散後整個西太平洋海盆暫無活躍警報系統",
-      "url": "https://www.metoc.navy.mil/jtwc/jtwc.html"
+      "title": "巴韋颱風釀134至135人受傷 堰塞湖警戒下修",
+      "dek": "中央社報導，台灣消防單位確認無人罹難，中央災害應變中心同步下修多項警戒措施",
+      "url": "https://focustaiwan.tw/society/202607120009"
     },
     {
       "rank": 3,
-      "title": "熱帶性低氣壓在菲律賓以東生成，暫時仍在責任區外",
-      "dek": "中央氣象署表示，第11號颱風海神（Josie）距台灣約2100公里，預期將迅速減弱，對台無直接影響",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/13/2541843/tropical-depression-forms-east-philippines-still-outside-par"
+      "title": "巴韋颱風致逾百人受傷 全台一度23萬戶停電",
+      "dek": "《台北時報》報導，傷者多因強風豪雨導致機車與腳踏車騎士摔倒，全台逾1.5萬人一度撤離",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 4,
-      "title": "熱帶性低氣壓Josie降編為低壓區",
-      "dek": "菲律賓大氣署公告，海神颱風在關島西南方外海迅速減弱消散，全程未接近陸地",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+      "title": "巴韋颱風登陸中國浙江 逾百萬人先前已撤離",
+      "dek": "CNBC報導，巴韋以一級颱風強度在浙江玉環附近登陸，部分報導稱中國疏散人數達280萬人",
+      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
     },
     {
       "rank": 5,
-      "title": "巴威颱風遠離 氣象署解除陸海警報",
-      "dek": "中央氣象署於7月13日清晨依序解除巴威颱風的陸上與海上警報，結束台灣與本季最大颱風的直接接觸",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+      "title": "巴韋颱風重創菲律賓釀18死 中國280萬疏散人口平安度過登陸",
+      "dek": "Tech Times報導，巴韋外圍環流及豪雨重創菲律賓，台灣與中國則因防災疏散未傳出死亡案例",
+      "url": "https://www.techtimes.com/articles/320258/20260712/typhoon-bavi-kills-18-philippines-chinas-28-million-evacuees-survive-landfall.htm"
     },
     {
       "rank": 6,
-      "title": "巴威颱風登陸中國浙江 逾170萬人疏散",
-      "dek": "巴威以每小時144公里風速登陸浙江後二度登陸溫州樂清，浙江、福建、上海合計疏散逾180萬人",
-      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
+      "title": "熱帶風暴海神（Josie）減弱消散 未對菲律賓發布警報",
+      "dek": "Philstar報導，該系統一度進入菲律賓責任區，但7月14日即減弱為熱帶低氣壓並於菲律賓海消散",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/13/2541843/tropical-depression-forms-east-philippines-still-outside-par"
     },
     {
       "rank": 7,
-      "title": "巴威颱風登陸中國之際 菲律賓死亡人數增至18人",
-      "dek": "巴威早前在菲律賓引發洪水與土石流，登陸中國後樂清逾1300棵樹木倒塌，多地航班與鐵路停駛",
-      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
-    },
-    {
-      "rank": 8,
-      "title": "關島、北馬里亞納解除警報 官方仍示警殘留風險",
-      "dek": "超強颱風巴威重創關島與北馬里亞納群島後，當地機場單日雨量逾12吋，官員提醒注意倒塌電線與積水",
-      "url": "https://www.islapublic.org/news/2026-07-07/despite-the-all-clear-on-guam-northern-marianas-officials-say-hazards-remain"
-    },
-    {
-      "rank": 9,
-      "title": "氣象署季節展望：年底前恐再有最多五個颱風",
-      "dek": "中央氣象署預測聖嬰現象將使颱風生成位置偏東，台灣今年稍後仍可能面臨數個颱風或熱帶風暴",
+      "title": "氣象署展望：今年底前台灣恐再面臨多達五個風暴",
+      "dek": "《台北時報》報導，中央氣象署在巴韋、海神生成前即預估，聖嬰年風季今年稍晚仍將持續活躍",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     },
     {
+      "rank": 8,
+      "title": "熱帶風暴伊萊達增強中 週五恐達二級颶風強度",
+      "dek": "Tech Times報導，美國國家颶風中心預測伊萊達將於7月17日增強至接近二級颶風，但不會登陸",
+      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
+    },
+    {
+      "rank": 9,
+      "title": "東太平洋風季提速 新擾動恐成今年第五個風暴艾米莉亞",
+      "dek": "美國國家颶風中心表示，墨西哥外海一熱帶擾動已有九成機率在數日內發展成形",
+      "url": "https://www.nhc.noaa.gov/"
+    },
+    {
       "rank": 10,
-      "title": "東太平洋熱帶風暴愛麗達增強，暫無陸地威脅",
-      "dek": "美國國家颶風中心預測愛麗達將於本週增強為颶風，但持續遠離墨西哥海岸，目前無沿岸警戒",
-      "url": "https://www.manilatimes.net/2026/07/16/world/tropical-storm-elida-strengthens-poses-no-threat-to-land/2385400"
+      "title": "伊萊達在墨西哥外海遠洋成形 沿岸未發布任何警戒",
+      "dek": "Vallarta Daily報導，國家颶風中心指出伊萊達路徑將持續遠離陸地，墨西哥度假海岸無直接威脅",
+      "url": "https://www.vallartadaily.com/tropical-storm-elida-forms-well-offshore-mexico-coast/"
     }
   ]
 }
