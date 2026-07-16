@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-16T13:08:00+08:00",
+  "generated_at": "2026-07-16T14:08:00+08:00",
   "headline": {
-    "title": "巴威颱風遠離後西太平洋暫無風暴 氣象單位密切關注關島東側新擾動",
-    "dek": "繼巴威颱風重創菲律賓、登陸中國後，「海神」旋生旋滅，全球唯一活躍的熱帶氣旋艾莉達則在東太平洋，與台灣無關",
-    "url": "https://www.hko.gov.hk/en/informtc/tcMain.htm"
+    "title": "西太平洋暫無活躍颱風 氣象署持續監控南海與關島週邊擾動",
+    "dek": "中央氣象署與美國聯合颱風警報中心均表示，目前無熱帶氣旋對台灣構成威脅，但南海及菲律賓以東至關島一帶仍有低壓系統受到密切觀察。",
+    "url": "https://udn.com/news/story/7266/9624437"
   },
   "items": [
     {
       "rank": 1,
-      "title": "西太平洋近台海域無熱帶氣旋警報 香港另受季風雨帶影響",
-      "dek": "香港天文台、JTWC與PAGASA最新資料均顯示區域內無活躍颱風，香港的暴雨警告來自與颱風無關的季風槽",
-      "url": "https://www.hko.gov.hk/en/informtc/tcMain.htm"
-    },
-    {
-      "rank": 2,
-      "title": "颱風巴威全紀錄：2026年第9號颱風的生成與消散",
-      "dek": "維基百科彙整資料顯示，巴威以350公里暴風半徑及895百帕中心氣壓，成為25年來警報範圍最大的颱風之一，最終於中國浙閩交界登陸消散",
-      "url": "https://en.wikipedia.org/wiki/Typhoon_Bavi_(2026)"
-    },
-    {
-      "rank": 3,
-      "title": "巴威登陸中國 菲律賓死亡人數增至18人",
-      "dek": "香港自由新聞報導，巴威在菲律賓南部引發土石流與洪災造成重大傷亡，隨後在中國浙江溫州一帶二度登陸",
-      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
-    },
-    {
-      "rank": 4,
-      "title": "巴威登陸中國前 逾170萬人緊急疏散",
-      "dek": "半島電視台報導，中國浙閩兩省在巴威來襲前疏散逾170萬人，這是該週內中國遭遇的第二個登陸颱風",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
-    },
-    {
-      "rank": 5,
-      "title": "氣象署示警：巴威恐為1987年以來侵台最大颱風",
-      "dek": "台北時報報導，中央氣象署預估暴風圈涵蓋北台灣至花東，多縣市宣布停班停課，國軍派出近3萬人力待命",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/09/2003860479"
-    },
-    {
-      "rank": 6,
-      "title": "第11號颱風「海神」生成僅一天旋即減弱",
-      "dek": "據CTWANT與自由時報報導，海神受巴威過境後的低海溫與強風切影響，生成不到24小時便被降格為熱帶低氣壓，未直接影響台灣",
-      "url": "https://www.ctwant.com/article/489139/"
-    },
-    {
-      "rank": 7,
-      "title": "關島附近低壓區醞釀 氣象署估初步路徑仍具高度不確定性",
-      "dek": "聯合新聞網報導，中央氣象署預報員指出菲律賓東方低壓區7月15日後可能發展，惟各國模式分歧，對台灣影響尚待觀察",
+      "title": "氣象署示警：南海與關島週邊各有一熱帶擾動待觀察",
+      "dek": "中央氣象署指出南海系統路徑偏向中國，關島附近低壓帶則受太平洋高壓阻擋，接近台灣機率低",
       "url": "https://udn.com/news/story/7266/9624437"
     },
     {
+      "rank": 2,
+      "title": "JTWC：西太平洋目前無熱帶氣旋警報",
+      "dek": "美國聯合颱風警報中心最新頁面顯示，海神颱風消散後整個西太平洋海盆暫無活躍警報系統",
+      "url": "https://www.metoc.navy.mil/jtwc/jtwc.html"
+    },
+    {
+      "rank": 3,
+      "title": "熱帶性低氣壓在菲律賓以東生成，暫時仍在責任區外",
+      "dek": "中央氣象署表示，第11號颱風海神（Josie）距台灣約2100公里，預期將迅速減弱，對台無直接影響",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/13/2541843/tropical-depression-forms-east-philippines-still-outside-par"
+    },
+    {
+      "rank": 4,
+      "title": "熱帶性低氣壓Josie降編為低壓區",
+      "dek": "菲律賓大氣署公告，海神颱風在關島西南方外海迅速減弱消散，全程未接近陸地",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+    },
+    {
+      "rank": 5,
+      "title": "巴威颱風遠離 氣象署解除陸海警報",
+      "dek": "中央氣象署於7月13日清晨依序解除巴威颱風的陸上與海上警報，結束台灣與本季最大颱風的直接接觸",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+    },
+    {
+      "rank": 6,
+      "title": "巴威颱風登陸中國浙江 逾170萬人疏散",
+      "dek": "巴威以每小時144公里風速登陸浙江後二度登陸溫州樂清，浙江、福建、上海合計疏散逾180萬人",
+      "url": "https://watchers.news/2026/07/11/typhoon-bavi-landfall-zhejiang-china-damage-aftermath-july-2026/"
+    },
+    {
+      "rank": 7,
+      "title": "巴威颱風登陸中國之際 菲律賓死亡人數增至18人",
+      "dek": "巴威早前在菲律賓引發洪水與土石流，登陸中國後樂清逾1300棵樹木倒塌，多地航班與鐵路停駛",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
+    },
+    {
       "rank": 8,
-      "title": "本週台灣持續高溫炎熱 周邊海域無直接颱風威脅",
-      "dek": "壹蘋新聞網報導，全台高溫上看36°C並有局部雷陣雨，氣象署證實本週無颱風直接威脅台灣周邊海域",
-      "url": "https://news.nextapple.com/life/20260716/200331372F90287C21A89EEC864E08E6"
+      "title": "關島、北馬里亞納解除警報 官方仍示警殘留風險",
+      "dek": "超強颱風巴威重創關島與北馬里亞納群島後，當地機場單日雨量逾12吋，官員提醒注意倒塌電線與積水",
+      "url": "https://www.islapublic.org/news/2026-07-07/despite-the-all-clear-on-guam-northern-marianas-officials-say-hazards-remain"
     },
     {
       "rank": 9,
-      "title": "預測機構：2026年西北太平洋颱風季恐為十年來最活躍",
-      "dek": "保險期刊引述彭博報導，商業預測機構Tropical Storm Risk預估今年颱風活動將高於歷史均值25%，全年估將生成約18個颱風",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/13/869630.htm"
+      "title": "氣象署季節展望：年底前恐再有最多五個颱風",
+      "dek": "中央氣象署預測聖嬰現象將使颱風生成位置偏東，台灣今年稍後仍可能面臨數個颱風或熱帶風暴",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴艾莉達現身墨西哥外海 為全球唯一活躍氣旋",
-      "dek": "The Watchers報導，美國國家颶風中心預測艾莉達即將增強為颶風，惟路徑遠離陸地，與西太平洋及台灣情勢無關",
-      "url": "https://watchers.news/2026/07/15/tropical-depression-five-e-forms-forecast-intensify-hurricane/"
+      "title": "東太平洋熱帶風暴愛麗達增強，暫無陸地威脅",
+      "dek": "美國國家颶風中心預測愛麗達將於本週增強為颶風，但持續遠離墨西哥海岸，目前無沿岸警戒",
+      "url": "https://www.manilatimes.net/2026/07/16/world/tropical-storm-elida-strengthens-poses-no-threat-to-land/2385400"
     }
   ]
 }
