@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-15T10:09:00+08:00",
+  "generated_at": "2026-07-16T12:06:00+08:00",
   "headline": {
-    "title": "太平洋洋面暫無颱風活動 巴威減弱消散、周邊水患仍在善後",
-    "dek": "繼上週重創台灣周邊海域、一度被形容為近40年最大暴風圈的颱風巴威完全轉化為溫帶氣旋，以及熱帶低氣壓喬西（海神）減弱消散後，全球洋面目前沒有任何活躍的熱帶氣旋，但中國東北與菲律賓的災後復原工作仍在持續。",
-    "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
+    "title": "台灣海域目前無活躍颱風 巴威已減弱消散、海神曇花一現",
+    "dek": "在超級颱風巴威重創關島並掠過台灣外圍、於中國大陸登陸减弱消散後，繼起的颱風海神也在生成不到一天內迅速瓦解，中央氣象署與美軍聯合颱風警報中心均未發布任何熱帶氣旋警報。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中央氣象署解除巴威颱風海陸警報，暴雨創下多項紀錄",
-      "dek": "苗栗、新竹累積雨量雙雙超過700毫米，屏東九鵬與蘭嶼測得14級強陣風，氣象署宣布警報全數解除。",
-      "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
+      "title": "氣象署對超級颱風巴威發布陸上警報 稱其為近四十年最大型侵台風暴",
+      "dek": "中央氣象署預報員指出，巴威三百五十公里的暴風半徑使其成為自一九八七年以來威脅台灣的最大型颱風",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
     },
     {
       "rank": 2,
-      "title": "巴威颱風於南韓外海轉化為溫帶氣旋，中國解除藍色颱風預警",
-      "dek": "中國國家氣象中心指出，巴威已於7月14日晚間停止編號，隨著其對中國的影響趨於結束，翌日凌晨解除警報。",
-      "url": "https://news.sina.com.cn/zx/2026-07-14/doc-inihusxy5211745.shtml"
+      "title": "颱風逼近 台灣示警恐有「破壞性」強風豪雨",
+      "dek": "氣象單位預測北台灣將出現最高十二級陣風，山區累積雨量恐達六百至九百毫米",
+      "url": "https://phys.org/news/2026-07-taiwan-destructive-typhoon-nears.html"
     },
     {
       "rank": 3,
-      "title": "巴威餘威釀洪災，中國遼寧逾26萬人撤離",
-      "dek": "路透社報導，巴威在浙江登陸後持續北上，遼寧發布山洪紅色警戒，瀋陽部分列車停駛，全國46條河流超過警戒水位。",
-      "url": "https://www.usnews.com/news/world/articles/2026-07-14/more-than-260-000-evacuated-as-typhoon-bavi-brings-severe-floods"
+      "title": "巴威登陸中國大陸 菲律賓山崩死亡人數增至十八人",
+      "dek": "巴威以一級颱風強度登陸浙江前，其外圍季風豪雨已在菲律賓南部引發致命山崩",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
     },
     {
       "rank": 4,
-      "title": "巴威增強西南季風重創菲律賓，死亡人數增至18人",
-      "dek": "新華社引述菲律賓民防辦公室消息，巴威雖未登陸菲律賓，但其助長的西南季風已造成18死、12人失蹤，約56萬2000人受影響。",
-      "url": "https://english.news.cn/20260713/3b514c8d3064487d863f28fbd5944e30/c.html"
+      "title": "巴威襲擊中國沿海 逾一百七十萬人疏散避難",
+      "dek": "浙江、福建及上海三地展開大規模疏散，巴威此前已在關島等地造成電力與供水設施受損",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 5,
-      "title": "熱帶低氣壓喬西（海神）減弱為低壓區，預料將於菲律賓海消散",
-      "dek": "菲律賓大氣地球物理和天文服務管理局表示，喬西始終未影響菲律賓，預計將在24小時內完全消散。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+      "title": "巴威登陸後減弱為熱帶風暴 持續深入中國大陸內陸",
+      "dek": "氣象單位預計巴威將在一至兩天內完全消散，但華東地區仍面臨嚴重淹水風險",
+      "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
     },
     {
       "rank": 6,
-      "title": "氣象署預測下半年將有3至5個颱風接近台灣，屬歷史平均",
-      "dek": "中央氣象署指出，今年上半年已生成8個颱風，遠高於歷史均值4.3個，官員將此與聖嬰現象發展相連結。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
+      "title": "海神颱風生成僅一天即消失 專家：受巴威攪動冷水影響",
+      "dek": "氣象專家分析，海神因行經巴威留下的低溫海水並遭強風切侵蝕，暖心結構迅速瓦解",
+      "url": "https://www.ctwant.com/article/489139/"
     },
     {
       "rank": 7,
-      "title": "巴威掠境台灣 氣象署稱暴風範圍為1987年以來最大",
-      "dek": "中央氣象署預報員形容巴威暴風圈之大為近40年僅見，全台出動近2萬9000名軍方人力戒備。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
+      "title": "海神（喬西）減弱退出菲律賓責任區 西南季風仍為呂宋島帶來強陣風",
+      "dek": "熱帶低氣壓喬西已減弱為殘餘低壓帶，但其增強的西南季風持續影響菲律賓北部",
+      "url": "https://www.techtimes.com/articles/320619/20260715/josie-exits-par-weakened-lpa-habagat-keeps-gale-gusts-over-northern-luzon.htm"
     },
     {
       "rank": 8,
-      "title": "巴威過後，中國氣候中心預警今夏颱風季恐較往年活躍",
-      "dek": "中國國家氣候中心預測，本季恐有多達六個熱帶氣旋侵襲中國，高於常年平均，保險業界高度關注。",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/13/877292.htm"
+      "title": "二〇二六年太平洋颱風季創一九七六年以來同期最活躍紀錄",
+      "dek": "維基百科彙整資料顯示，今年颱風季至今已生成十二個熱帶氣旋，全年預估恐達二十八個，遠高於平均值",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 9,
-      "title": "熱帶擾動97W一度促使菲律賓、日本、台灣及中國發布旅遊警示，其後發展為海神",
-      "dek": "雅浦州氣象局曾就這股接近馬里亞納群島的擾動發布熱帶氣旋形成警報，該系統其後組織為熱帶風暴海神，向西北移動且未侵襲當地。",
-      "url": "https://www.yapstate.gov.fm/post/special-weather-statement-yap-weather-service-office"
+      "title": "七月十六日全台氣溫飆破三十五度 午後西半部慎防雷陣雨",
+      "dek": "在無颱風影響下，台灣目前天氣型態屬西南氣流帶來的典型盛夏悶熱與午後對流雨",
+      "url": "https://www.nownews.com/news/6857075"
     },
     {
       "rank": 10,
-      "title": "回顧：本季稍早風暴美莎克兩度登陸中國海南與越南",
-      "dek": "美莎克7月初分別在海南陵水與越南芒街登陸，造成廣西南寧2人死亡、約3600人疏散，該系統已完全消散，與當前無風暴局面無關。",
-      "url": "https://english.news.cn/20260703/5950483b89c34501b6498588b4a3968e/c.html"
+      "title": "聖嬰現象增強 二〇二六年大西洋颶風季預估將明顯趨緩",
+      "dek": "科羅拉多州立大學最新預測僅九個命名風暴，且截至七月中旬大西洋仍無熱帶系統發展跡象",
+      "url": "https://weather.com/2026/07/08/storms/hurricane/2026-atlantic-hurricane-season-outlook-csu-july-el-nino"
     }
   ]
 }
