@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-16T15:06:00+08:00",
+  "generated_at": "2026-07-16T16:06:00+08:00",
   "headline": {
-    "title": "超級颱風巴韋消散於南韓外海 中央氣象署解除警戒，台灣暫無風暴威脅",
-    "dek": "巴韋轉為溫帶氣旋後在南韓外海消散，中央氣象署已解除相關警戒，而太平洋東側熱帶風暴伊萊達持續增強，另一擾動也可能發展成今年第五個命名風暴艾米莉亞。",
-    "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
+    "title": "目前無活躍颱風 巴威、海神相繼消散 氣象署估年底前恐再迎四、五個颱風",
+    "dek": "在造成113人受傷、逾23萬戶停電的超大型颱風巴威掠過台灣東北部並於中國大陸登陸消散後，西北太平洋目前暫無活躍熱帶氣旋，但中央氣象署預告今年稍晚恐怕還有更多颱風接踵而至。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴韋颱風轉性消散 回顧其橫掃太平洋的致命足跡",
-      "dek": "這場30年來侵台規模最大的颱風之一，最終在南韓外海化為溫帶氣旋消散",
-      "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
+      "title": "颱風巴威來襲 北台灣及花蓮宣布停班停課",
+      "dek": "隨著巴威逼近台灣東北部海域且暴風圈範圍異常龐大，北部多縣市與花蓮縣政府宣布停止上班上課",
+      "url": "https://focustaiwan.tw/society/202607090023"
     },
     {
       "rank": 2,
-      "title": "巴韋颱風釀134至135人受傷 堰塞湖警戒下修",
-      "dek": "中央社報導，台灣消防單位確認無人罹難，中央災害應變中心同步下修多項警戒措施",
-      "url": "https://focustaiwan.tw/society/202607120009"
+      "title": "「數十年最大颱風」逼近 台灣數百居民撤離",
+      "dek": "據美國聯合颱風警報中心估計，巨型颱風巴威暴風圈直徑逾1000公里，台灣數百名居民疏散，台日中三地逾180航班取消",
+      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
     },
     {
       "rank": 3,
-      "title": "巴韋颱風致逾百人受傷 全台一度23萬戶停電",
-      "dek": "《台北時報》報導，傷者多因強風豪雨導致機車與腳踏車騎士摔倒，全台逾1.5萬人一度撤離",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+      "title": "因應巴威颱風 氣象署發布海陸警報並警告山區恐降900毫米豪雨",
+      "dek": "中央氣象署針對颱風巴威發布海上及陸上警報，交通與公共服務陸續宣布取消或延後，北部山區雨量預估恐達900毫米",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
     },
     {
       "rank": 4,
-      "title": "巴韋颱風登陸中國浙江 逾百萬人先前已撤離",
-      "dek": "CNBC報導，巴韋以一級颱風強度在浙江玉環附近登陸，部分報導稱中國疏散人數達280萬人",
-      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
+      "title": "巴威威力最強時刻將至 全台近3萬軍力待命",
+      "dek": "颱風巴威7月11日以距東北海岸約210公里之路徑通過、威力達到最強，全台約2萬9000名軍人與大批救災車輛嚴陣以待",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
     },
     {
       "rank": 5,
-      "title": "巴韋颱風重創菲律賓釀18死 中國280萬疏散人口平安度過登陸",
-      "dek": "Tech Times報導，巴韋外圍環流及豪雨重創菲律賓，台灣與中國則因防災疏散未傳出死亡案例",
-      "url": "https://www.techtimes.com/articles/320258/20260712/typhoon-bavi-kills-18-philippines-chinas-28-million-evacuees-survive-landfall.htm"
+      "title": "巴威掠台後於中國浙江台州登陸 近200萬人已疏散",
+      "dek": "颱風巴威擦過台灣後轉向中國大陸，在浙江台州一帶登陸前，中國當局已疏散近200萬名民眾",
+      "url": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴海神（Josie）減弱消散 未對菲律賓發布警報",
-      "dek": "Philstar報導，該系統一度進入菲律賓責任區，但7月14日即減弱為熱帶低氣壓並於菲律賓海消散",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/13/2541843/tropical-depression-forms-east-philippines-still-outside-par"
+      "title": "巴威釀113人受傷 逾23萬戶停電",
+      "dek": "台灣中央災害應變中心統計，颱風巴威造成113人受傷、1萬4605人疏散、23萬4481戶停電，災情以台北、台中最為集中",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 7,
-      "title": "氣象署展望：今年底前台灣恐再面臨多達五個風暴",
-      "dek": "《台北時報》報導，中央氣象署在巴韋、海神生成前即預估，聖嬰年風季今年稍晚仍將持續活躍",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
+      "title": "分析：超級颱風巴威對台衝擊不如預期猛烈",
+      "dek": "儘管颱風巴威體型創紀錄、來襲前警告不斷，但因核心路徑始終在海面，對台灣造成的實際災情遠低於外界原先擔憂",
+      "url": "https://www.intellinews.com/super-typhoon-bavi-s-visit-to-taiwan-more-of-a-damp-squib-than-a-bringer-of-devastation-454069/"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴伊萊達增強中 週五恐達二級颶風強度",
-      "dek": "Tech Times報導，美國國家颶風中心預測伊萊達將於7月17日增強至接近二級颶風，但不會登陸",
-      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
+      "title": "11號颱風「海神」生成 氣象署稱對台無直接威脅",
+      "dek": "第11號颱風海神7月13日在菲律賓附近生成，預測初期路徑朝北北西移動，中央氣象署表示對台灣不構成直接威脅",
+      "url": "https://udn.com/news/story/7266/9623878"
     },
     {
       "rank": 9,
-      "title": "東太平洋風季提速 新擾動恐成今年第五個風暴艾米莉亞",
-      "dek": "美國國家颶風中心表示，墨西哥外海一熱帶擾動已有九成機率在數日內發展成形",
-      "url": "https://www.nhc.noaa.gov/"
+      "title": "海神颱風已消散 未來一週全台恐現午後強降雨",
+      "dek": "海神生成僅約24小時即減弱為熱帶性低氣壓，起因是巴威攪動海水降溫加上強風切，氣象單位轉而預警未來一週全台將有午後強降雨",
+      "url": "https://www.storm.mg/lifestyle/11148971"
     },
     {
       "rank": 10,
-      "title": "伊萊達在墨西哥外海遠洋成形 沿岸未發布任何警戒",
-      "dek": "Vallarta Daily報導，國家颶風中心指出伊萊達路徑將持續遠離陸地，墨西哥度假海岸無直接威脅",
-      "url": "https://www.vallartadaily.com/tropical-storm-elida-forms-well-offshore-mexico-coast/"
+      "title": "氣象署估年底前台灣恐再受4至5個颱風侵襲",
+      "dek": "中央氣象署針對2026年颱風季剩餘時間發布展望，預估年底前可能再有4至5個熱帶氣旋生成並可能影響台灣",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     }
   ]
 }
