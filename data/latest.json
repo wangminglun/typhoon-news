@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-17T08:06:00+08:00",
+  "generated_at": "2026-07-17T09:13:00+08:00",
   "headline": {
-    "title": "颱風警報解除、芒果卻漲價：台灣喘息之際，東太平洋今年首個颶風「艾莉達」增強成形",
-    "dek": "在超級颱風「巴威」重創關島與台灣北部後逐漸復原之際，美國關島國家氣象局證實西太平洋目前無任何活躍熱帶氣旋，但大西洋彼岸的東太平洋海域，颶風艾莉達已增強為今年首個颶風，成為今年異常活躍的太平洋風季中最新焦點。",
-    "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/17/2003860867"
+    "title": "西太平洋暫無活躍颱風 熱帶低壓「TD12」估今日下午增強為「紅霞」但路徑遠離台灣",
+    "dek": "美國關島國家氣象局證實，截至七月十七日上午西太平洋洋面尚無正式掛號的活躍熱帶氣旋；日本氣象廳追蹤的熱帶低壓TD12預計最快於今日下午增強為今年第12號颱風「紅霞」，但預測路徑持續遠離台灣。",
+    "url": "https://www.weather.gov/gum/cyclones"
   },
   "items": [
     {
       "rank": 1,
+      "title": "關島氣象局：西太平洋目前無正式掛號的活躍熱帶氣旋",
+      "dek": "美國國家氣象局關島辦公室最新追蹤資料顯示，截至七月十七日上午西太平洋海域尚無獲正式編號的活躍熱帶氣旋",
+      "url": "https://www.weather.gov/gum/cyclones"
+    },
+    {
+      "rank": 2,
+      "title": "快訊／太平洋再現熱帶低壓 估最快今日下午增強為颱風「紅霞」 路徑曝光",
+      "dek": "日本氣象廳預測位於楚克島附近的熱帶低壓TD12最快將於今日下午增強為今年第12號颱風「紅霞」，但預測路徑顯示對台灣無直接影響",
+      "url": "https://www.ettoday.net/news/20260716/3202366.htm"
+    },
+    {
+      "rank": 3,
+      "title": "「紅霞」颱風估今日生成 專家：發展模式恐如「海神」曇花一現",
+      "dek": "氣象粉專指出，各國模式對「紅霞」路徑分歧，不排除數日內即減弱消散，對台灣天氣無直接干擾",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5507563"
+    },
+    {
+      "rank": 4,
+      "title": "「紅霞」颱風雖遠離台灣 外圍水氣恐讓北台灣連下數日大雨",
+      "dek": "風傳媒報導，即便颱風本體不侵台，其外圍環流水氣預計仍將為大台北與西半部山區帶來連續數日午後強降雨",
+      "url": "https://www.storm.mg/lifestyle/11149490"
+    },
+    {
+      "rank": 5,
+      "title": "熱帶風暴「艾莉達」增強為颶風 成2026年東太平洋首個颶風",
+      "dek": "美國國家颶風中心預測，墨西哥外海的熱帶風暴艾莉達已於七月十六日夜間增強為颶風，路徑行經外海，不致威脅陸地",
+      "url": "https://www.hawaiitribune-herald.com/2026/07/16/hawaii-news/tropical-storm-elida-is-expected-to-become-the-pacifics-first-hurricane-of-2026/"
+    },
+    {
+      "rank": 6,
+      "title": "聖嬰效應助攻 艾莉達估七月十七日衝上二級颶風強度",
+      "dek": "科技時報指出，受海溫偏高與風切偏弱等有利條件影響，艾莉達預計七月十七日達到約時速一百六十一公里的顛峰強度",
+      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
+    },
+    {
+      "rank": 7,
       "title": "巴威風災後遺症浮現：芒果減產推升售價，中央氣象署發布高溫特報",
       "dek": "台北時報報導，中央氣象署針對十四個地區發布高溫警示，同時指出颱風巴威造成的農損正持續推高芒果市場價格",
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/17/2003860867"
     },
     {
-      "rank": 2,
-      "title": "關島氣象局證實：西太平洋目前無活躍熱帶氣旋",
-      "dek": "美國國家氣象局關島辦公室最新追蹤資料顯示，截至七月十七日西太平洋海域未有任何熱帶氣旋活動",
-      "url": "https://www.weather.gov/gum/cyclones"
-    },
-    {
-      "rank": 3,
-      "title": "熱帶風暴艾莉達增強中，可望成為東太平洋今年首個颶風",
-      "dek": "西夏威夷今日報報導，在強聖嬰現象助長下，東太平洋第五個命名風暴艾莉達持續增強，遠洋航行、不對陸地構成威脅",
-      "url": "https://www.westhawaiitoday.com/2026/07/16/hawaii-news/tropical-storm-elida-is-expected-to-become-the-pacifics-first-hurricane-of-2026/"
-    },
-    {
-      "rank": 4,
-      "title": "聖嬰效應助攻，艾莉達估週五前衝上二級颶風強度",
-      "dek": "科技時報指出，受海溫偏高與風切偏弱等有利條件影響，艾莉達預計七月十七日達到約時速一百六十一公里的顛峰強度",
-      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
-    },
-    {
-      "rank": 5,
-      "title": "熱帶擾動97W一度增至中度發展機率，菲日台中同步發布旅遊警示",
-      "dek": "旅遊觀光世界網報導，西太平洋擾動系統97W曾達到二十四小時內中度生成機率，一度促使多國發布航空及航運相關警示",
-      "url": "https://www.travelandtourworld.com/news/article/210xp65fyjoq/"
-    },
-    {
-      "rank": 6,
-      "title": "熱帶風暴海神（前身97W）生成公告：結構鬆散、對流偏移",
-      "dek": "追蹤機構Will Weather RVA資料顯示，海神為今年第十一個命名風暴，生成時結構鬆散，隨後在風切影響下減弱，未直接威脅台灣",
-      "url": "https://willweatherrva.beehiiv.com/p/tropical-storm-haishen-invest-97w-tropical-cyclone-advisory-2-1200-utc-13-july-2026"
-    },
-    {
-      "rank": 7,
-      "title": "「海神」短暫進入菲律賓責任區即獲命名「Josie」，隨後迅速減弱",
-      "dek": "Rappler報導，菲律賓大氣氣象署將海神命名為Josie，但該風暴在不利風切下未能持續發展成重大威脅",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
-    },
-    {
       "rank": 8,
-      "title": "二零二六年太平洋颱風季躍居一九七六年以來同期最活躍",
-      "dek": "維基百科彙整資料顯示，截至七月中旬已有逾十一個命名風暴生成，活躍程度與持續增強的聖嬰現象密切相關",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "超級颱風「巴威」登陸中國 台灣與中國逾170萬人疏散",
+      "dek": "半島電視台報導，巔峰強度達五級的超級颱風巴威在掠過台灣北部後，於七月十一日晚間登陸中國福建、浙江沿海，促使兩地大規模疏散",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
     },
     {
       "rank": 9,
-      "title": "回顧：超級颱風巴威重創美屬太平洋軍事要地關島與羅塔島",
-      "dek": "ABC17News（引述CNN World）報導，巴威一度達到五級颶風等級強度侵襲關島與羅塔島，數日後接續影響台灣並登陸中國東南沿岸",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/07/05/super-typhoon-smacks-into-us-pacific-island-territories-home-to-key-military-bases/"
+      "title": "二零二六年太平洋颱風季躍居一九七六年以來同期最活躍",
+      "dek": "維基百科彙整資料顯示，截至七月中旬西太平洋已有逾十一個命名風暴生成，活躍程度與持續增強的反聖嬰現象密切相關",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 10,
-      "title": "大西洋維德角外海熱帶波僅具低度發展機率",
-      "dek": "美國國家颶風中心最新展望指出，該熱帶波未來四十八小時及七天內發展機率僅百分之十，大西洋整體風季持續平靜",
-      "url": "https://www.nhc.noaa.gov/gtwo.php"
+      "title": "NOAA預測2026年大西洋颶風季活躍度將低於正常水準",
+      "dek": "美國國家海洋暨大氣總署指出，反聖嬰現象增強是壓抑今年大西洋颶風生成的主因，儘管海水溫度偏暖部分抵銷此效應",
+      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
     }
   ]
 }
