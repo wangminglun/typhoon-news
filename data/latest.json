@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-18T02:15:00+08:00",
+  "generated_at": "2026-07-18T03:05:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；關島東南方一度可能發展成今年第12號颱風「紅霞」的熱帶低壓TD12已遭日本氣象廳降格，僅本週末午後對流恐帶來局部大雨。",
+  "alert_text": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；原本可能發展成今年第12號颱風「紅霞」的熱帶低壓已於7月17日清晨消散，專家仍示警月底前恐再有新颱風生成。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。沒有颱風系統影響台中，本週末僅有夏季典型午後對流可能帶來局部雷陣雨，非颱風系統所致，目前無停班停課情形。"
+    "text": "目前無直接影響。沒有颱風系統影響台中，今日為典型夏季天氣型態，高溫約32至35度、午後至傍晚有約七成五降雷陣雨機率，與颱風系統無關，目前無停班停課情形。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風警報全數解除 太平洋另一熱帶系統胎死腹中",
-    "dek": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，關島東南方一度可能發展成今年第12號颱風「紅霞」的熱帶低壓，已遭日本氣象廳降格，專家仍預警本月底前恐有新一波颱風生成。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5508261"
+    "title": "「紅霞」胎死腹中　台灣暫解颱風警報",
+    "dek": "中央氣象署證實，原本可能成為今年第12號颱風「紅霞」的熱帶低壓已在清晨消散，目前海陸兩項颱風警報均未發布，但專家示警月底前恐再有新颱風生成。",
+    "url": "https://newtalk.tw/news/view/2026-07-17/1047686"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶低壓TD12生成即減弱 氣象單位：消散機率高",
-      "dek": "關島東南方新生成的熱帶低壓TD12結構鬆散，日本氣象廳已將其降格，預報顯示本週末台灣仍可能出現午後雷陣雨。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5508261"
-    },
-    {
-      "rank": 2,
-      "title": "關島外海熱帶系統一度逼近颱風強度 專家：恐為另一「短命颱風」",
-      "dek": "中央氣象署機率路徑圖顯示，該系統一度有機會於7月17日下午增強為颱風，但專家研判其發展條件不佳，可能於隔日午後即減弱回低壓。",
-      "url": "https://news.nextapple.com/life/20260717/0239B5822C5CFB51B1956A96F214252D"
-    },
-    {
-      "rank": 3,
-      "title": "今年第12號颱風「紅霞」最快本週生成 氣象粉專比照「海神」路徑",
-      "dek": "在系統生成前，氣象觀測粉絲專頁曾預期今年第12號颱風「紅霞」最快7月17日形成，並將其發展模式與稍早消散的颱風「海神」相比擬。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5507563"
-    },
-    {
-      "rank": 4,
-      "title": "熱帶低壓TD12結構鬆散 未能發展成「紅霞」颱風",
-      "dek": "專家指出，風切與乾空氣等不利環境條件，使TD12始終無法組織出明確環流中心，最終無緣成為今年第12號颱風。",
-      "url": "https://www.ctwant.com/article/489666/"
-    },
-    {
-      "rank": 5,
-      "title": "表現甚至不如「海神」 專家示警月底恐迎新一波颱風生成潮",
-      "dek": "分析指出，這次未能成形的「紅霞」組織程度甚至弱於稍早短命的海神，但專家提醒7月底前西北太平洋仍可能有新颱風生成。",
+      "title": "準「紅霞」清晨消散：比海神更弱的一次生成失敗",
+      "dek": "原本被視為第12號颱風候選的熱帶低壓17日晨間未成形便已消散，專家形容其表現甚至不如短命的海神颱風。",
       "url": "https://newtalk.tw/news/view/2026-07-17/1047686"
     },
     {
+      "rank": 2,
+      "title": "準「紅霞」消失了　專家示警月底至少再有1、2個颱風",
+      "dek": "氣象專家指出，儘管「紅霞」未能成形，太平洋熱帶海域環境仍利於發展，預估月底前恐再生成一至兩個颱風。",
+      "url": "https://news.nextapple.com/life/20260717/A995724BBDE1D14B1D5FEA627C172D37"
+    },
+    {
+      "rank": 3,
+      "title": "紅霞路徑偏北　中央氣象署：對台無直接影響",
+      "dek": "即便該熱帶系統日後增強，路徑仍將偏向台灣西北方，中央氣象署表示目前無發布海陸颱風警報之必要。",
+      "url": "https://applealmond.com/posts/319849"
+    },
+    {
+      "rank": 4,
+      "title": "紅霞未能生成「恐比海神更慘」　專家：月底前再添1至2颱",
+      "dek": "氣象評論者比較紅霞與海神的短暫生命週期，並重申太平洋熱帶海域月底前可能再有新颱風形成的預測。",
+      "url": "https://udn.com/news/story/7266/9633311"
+    },
+    {
+      "rank": 5,
+      "title": "海神颱風生成後迅速減弱　距台1850公里未成威脅",
+      "dek": "菲律賓大氣地球物理暨天文服務署轄區外緣掠過的第11號颱風海神，因環境條件不利而減弱，全程未接近台灣或菲律賓陸地。",
+      "url": "https://www.philstar.com/headlines/2026/07/14/2541999/td-haishen-approaches-par"
+    },
+    {
       "rank": 6,
-      "title": "關島東南方系統一度傳可能生成颱風 發展路徑仍高度不確定",
-      "dek": "同日報導指出，這個熱帶系統的未來發展被拿來與短命的颱風海神相比較，但氣象單位坦言其結構環境不佳，變數仍多。",
-      "url": "https://www.ettoday.net/news/20260717/3202637.htm"
+      "title": "回顧巴威颱風：87人受傷、逾1.4萬人疏散　台灣30年來最大颱風",
+      "dek": "中央社報導，暴風圈廣達380公里的巴威颱風本月稍早重創台灣，造成大規模疏散與停電，事後減弱登陸中國東部。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴「喬西」短暫進入菲律賓責任區即消散 未登陸",
-      "dek": "國際命名為海神的熱帶風暴喬西7月14日進入菲律賓責任區後，約13.5小時內即減弱為低壓並於7月15日離境，另兩個低壓區也被評估發展機率不高。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/15/2542321/josie-exits-par-2-lpas-unlikely-become-cyclones"
+      "title": "分析：超強颱風巴威成2026年全球第三個五級颱風",
+      "dek": "Yale Climate Connections指出，巴威的巔峰強度反映西北太平洋今年颱風季異常活躍，為1976年以來最猛烈開季之一。",
+      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
     },
     {
       "rank": 8,
-      "title": "東太平洋熱帶風暴「艾莉達」生成 聖嬰現象助長活躍颶風季",
-      "dek": "美國國家颶風中心預測，位於下加利福尼亞半島西南方外海的熱帶風暴艾莉達將於7月17日增強為颶風，但週末將因水溫轉冷而減弱，不致直接登陸。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-elida-el-nino-active-eastern-pacific-hurricane-season"
+      "title": "東太平洋熱帶風暴伊莉達今日恐增強為颶風",
+      "dek": "位於墨西哥外海的熱帶風暴伊莉達預計17日稍晚增強為颶風，聖嬰現象正推動東太平洋颶風季以歷史罕見速度發展。",
+      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
     },
     {
       "rank": 9,
-      "title": "美國國家颶風中心持續監測大西洋兩處低機率擾動",
-      "dek": "繼熱帶風暴「亞瑟」6月底消散後，大西洋目前無命名風暴活動，僅維德角群島外海及墨西哥灣東北部兩處低壓區受到觀察，發展機率均偏低。",
-      "url": "https://spacecoastdaily.com/2026/07/national-hurricane-center-monitors-potential-tropical-development-near-florida-atlantic-coast-early-next-week/"
+      "title": "美國國家颶風中心：伊莉達持續增強　全程留在外海",
+      "dek": "NHC最新公告顯示，伊莉達最大持續風速已達每小時約65英里，預測將轉向北北西移動，不會對陸地構成威脅。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATASEP5+html/152040.shtml"
     },
     {
       "rank": 10,
-      "title": "回顧颱風「巴威」侵台 淡水岸際掀巨浪",
-      "dek": "影像回顧本月稍早颱風巴威最接近北台灣期間，新北市淡水區岸際掀起巨浪，這場風災最終造成全台逾130人受傷、逾1萬4000人撤離。",
-      "url": "https://focustaiwan.tw/video/004355295"
+      "title": "大西洋維持平靜　僅維德角外海一道低機率熱帶波受觀察",
+      "dek": "美國國家颶風中心表示，大西洋目前無活躍熱帶氣旋，唯一觀察目標的發展機率僅一成，今年颶風季預期將低於正常水準。",
+      "url": "https://www.nhc.noaa.gov/gtwo.php"
     }
   ]
 }
