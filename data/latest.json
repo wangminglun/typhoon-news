@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-18T05:06:00+08:00",
+  "generated_at": "2026-07-18T06:09:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於7月12日解除颱風巴威所有海陸警報，繼起的颱風海神也在生成24小時內減弱消散；氣象署持續觀察熱帶擾動95W、96W，其中95W七月下旬可能接近台灣，惟路徑仍不明朗，對台灣本島暫無直接威脅。",
+  "alert_text": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；因西南季風增強，已於17日下午4時22分對新北、桃園、台中等13縣市發布陸上強風特報（黃色警戒），17日下午至18日晚間平均風力可達6級以上、陣風可達8級。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署於7月17日發布的大雨特報屬季節性對流雨，非颱風相關的海上或陸上警報；台中先前因颱風巴威的停班停課措施已於7月11日結束，目前沒有任何颱風系統對台中構成直接威脅。"
+    "text": "目前無颱風直接影響台中，但台中市因西南季風增強被納入中央氣象署13縣市陸上強風特報範圍，7月17日下午至18日晚間可能出現6級以上平均風力或8級陣風，目前尚未有停班停課公告。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "巴威遠離、海神夭折 台灣暫別颱風威脅 氣象署示警西太平洋兩擾動醞釀中",
-    "dek": "中央氣象署已解除颱風巴威陸海警報，繼起的颱風海神也在24小時內減弱消散，但今年颱風季異常活躍，氣象署預估下半年恐再有三至五個颱風侵台。",
-    "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
+    "title": "「紅霞」胎死腹中：西北太平洋創50年來最活躍颱風季，台灣暫時解除警戒",
+    "dek": "原本可能成為今年第12號颱風「紅霞」的熱帶低壓在關島東南方減弱消散，中央氣象署目前未對台灣發布任何海上或陸上颱風警報，但西南季風增強已促使13縣市進入陸上強風特報。",
+    "url": "https://www.ctwant.com/article/489666/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風巴威遠離　氣象署上午8時30分解除警報",
-      "dek": "中央氣象署於7月12日上午分別解除陸上與海上颱風警報，宣告巴威已遠離台灣，新竹、苗栗累積雨量曾超過700毫米。",
-      "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
+      "title": "熱帶低壓TD12減弱　無緣成為第12號颱風「紅霞」",
+      "dek": "原本預期增強為颱風的熱帶低壓因環流鬆散提前瓦解，且其路徑本就偏北，對台灣並無直接威脅。",
+      "url": "https://www.ctwant.com/article/489666/"
     },
     {
       "rank": 2,
-      "title": "氣象署發布颱風巴威陸上警報　暴風圈創三十年最大紀錄",
-      "dek": "颱風巴威以每小時162公里風速逼近北台灣，暴風半径達380公里，為近三十年最大，各地紛紛宣布停班停課。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
+      "title": "比「海神」消散更快　專家示警月底恐迎颱風生成潮",
+      "dek": "氣象專家指出，這波熱帶系統瓦解速度甚至超越數日前的海神颱風，預期下週後半起條件轉為有利、月底前恐再有1至2個颱風生成。",
+      "url": "https://newtalk.tw/news/view/2026-07-17/1047686"
     },
     {
       "rank": 3,
-      "title": "巴威來襲前　台灣多地展開疏散",
-      "dek": "隨著近三十年規模最大的颱風巴威逼近，台灣部分地區居民在強風豪雨威脅下提前撤離。",
-      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
+      "title": "西南季風增強　13縣市發布陸上強風特報",
+      "dek": "中央氣象署因西南季風增強對新北、桃園、台中等13縣市發布陸上強風特報，預告17日下午至18日晚間可能出現8級陣風。",
+      "url": "https://tw.news.yahoo.com/%E8%AE%8A%E5%BE%97%E5%A5%BD%E5%A4%A7%E5%A5%BD%E6%81%90%E6%80%96-8%E7%B4%9A%E5%BC%B7%E9%A2%A8%E7%8B%A0%E9%A2%B3-13%E7%B8%A3%E5%B8%82-%E5%A8%81%E5%8A%9B%E7%9B%B4%E9%80%BC%E8%BC%95%E9%A2%B1-085648467.html"
     },
     {
       "rank": 4,
-      "title": "巴威登陸中國　逾170萬人疏散",
-      "dek": "掠過北台灣後，颱風巴威在福建、浙江交界登陸，中國當局在強風豪雨威脅下疏散逾170萬名居民。",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "第11號颱風「海神」生成　氣象署：對台無直接影響",
+      "dek": "菲律賓東方低壓系統7月13日發展為輕度颱風海神，中央氣象署研判其將緩慢北上且強度有限，不會直接影響台灣，其後迅速減弱。",
+      "url": "https://udn.com/news/story/7266/9623878"
     },
     {
       "rank": 5,
-      "title": "台中宣布停班停課　因應颱風巴威來襲",
-      "dek": "台中市政府宣布自7月10日傍晚6時起至7月11日全天停止上班上課，為九縣市之一因應巴威颱風採取全天停班停課措施。",
-      "url": "https://udn.com/news/story/124945/9618444"
+      "title": "熱帶風暴「喬西」短暫進入菲律賓責任區即消散",
+      "dek": "颱風海神進入菲律賓責任區後被當地命名為喬西，但強度迅速下滑，數小時內即降為熱帶低壓乃至低壓帶，未發布任何降雨或風力警報。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
     },
     {
       "rank": 6,
-      "title": "中國嚴陣以待強颱來襲　一週內已遭多起致災風暴侵襲",
-      "dek": "颱風巴威逼近中國東岸之際，當局指出這是近一週內接連發生的多起致災風暴之一，此前風暴已造成至少50人罹難。",
-      "url": "https://abcnews.com/International/wireStory/china-braces-powerful-typhoon-after-week-deadly-storms-134641294"
+      "title": "超級颱風巴威重創台灣　113人受傷、逾23萬戶停電",
+      "dek": "台北時報報導，巴威颱風以時速184公里強風掃過台灣北部，造成113人受傷、逾1.4萬人疏散、逾23萬戶停電，隨後轉向中國大陸與北韓方向移動。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
     },
     {
       "rank": 7,
-      "title": "海神颱風24小時就消散　成今年最短命颱風",
-      "dek": "今年第11號颱風海神在菲律賓以東海面生成後，因行經巴威攪動的低溫海域，不到一天便減弱為熱帶性低氣壓，未影響台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5505216"
+      "title": "巴威颱風肆虐日本南部島嶼　中國大陸疏散60萬人",
+      "dek": "日本時報指出，近年罕見的巨型颱風巴威重創日本南部島嶼與台灣北部，並在登陸中國大陸沿海前促使當地疏散約60萬居民。",
+      "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/taiwan-typhoon-bavi/"
     },
     {
       "rank": 8,
-      "title": "不只海神颱風　氣象署示警另兩熱帶擾動動向",
-      "dek": "氣象署持續觀測熱帶擾動95W與96W，其中95W七月下旬有機會接近台灣，但路徑與強度仍存在高度不確定性。",
-      "url": "https://udn.com/news/story/7266/9624437"
+      "title": "颱風梅莎登陸中國海南　海南廣東廣西降下暴雨",
+      "dek": "中央社報導，今年首個登陸中國大陸的颱風梅莎7月3日晚間登陸海南陵水，隔日在廣西與越南邊境附近二次登陸後減弱。",
+      "url": "https://www.cna.com.tw/news/acn/202607030272.aspx"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴艾莉達預估成為今年太平洋首個颶風",
-      "dek": "位於墨西哥下加利福尼亞半島外海的熱帶風暴艾莉達預計7月17日增強為颶風，成為東太平洋今年首個颶風，但路徑不會威脅亞洲。",
-      "url": "https://www.hawaiitribune-herald.com/2026/07/16/hawaii-news/tropical-storm-elida-is-expected-to-become-the-pacifics-first-hurricane-of-2026/"
+      "title": "東太平洋熱帶風暴艾莉達增強　預測稍晚升格颶風",
+      "dek": "美國國家颶風中心表示，位於墨西哥下加利福尼亞半島西南方外海的熱帶風暴艾莉達持續增強，週末前將對當地沿岸帶來危險大浪與離岸流。",
+      "url": "https://capeweather.com/tropical-storm-elida-public-advisory-number-11/"
     },
     {
       "rank": 10,
-      "title": "氣象署估下半年恐再有三至五個颱風侵台",
-      "dek": "中央氣象署預估，2026年下半年台灣可能再受三至五個颱風影響，今年颱風生成頻率已是1976年以來最活躍的年份之一。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
+      "title": "氣象署估今年下半年3至5個颱風接近台灣　聖嬰現象成變數",
+      "dek": "中央氣象署季節展望曾預測下半年將有3至5個颱風或熱帶風暴接近台灣，如今西北太平洋已生成11個命名颱風，凸顯今年颱風季異常活躍。",
+      "url": "https://www.taiwannews.com.tw/news/6392901"
     }
   ]
 }
