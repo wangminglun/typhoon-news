@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-07-17T10:08:01+08:00",
+  "generated_at": "2026-07-17T11:07:00+08:00",
   "headline": {
-    "title": "熱帶低壓於關島東南方遙遠洋面醞釀 「紅霞」颱風最快今生成 台灣暫無威脅",
-    "dek": "氣象單位指出，編號TD12的熱帶低壓正於低緯度洋面緩慢北移，最快今日增強為今年第12號颱風紅霞，但因生成位置遙遠且預期迅速減弱，對台灣天氣暫無直接影響。",
-    "url": "https://www.chinatimes.com/realtimenews/20260717001047-260405"
+    "title": "今年第12號颱風紅霞關島外海生成 氣象署：短命颱風不致威脅台灣，西南季風才是本週焦點",
+    "dek": "中央氣象署預測，這個熱帶性低氣壓將於生成後約一天內迅速減弱，路徑遠離台灣；未來一週台灣天氣將以西南季風帶來的午後雷陣雨與局部大雨為主。",
+    "url": "https://www.cna.com.tw/news/ahel/202607170026.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶低壓TD12最快今生成颱風紅霞 氣象署：對台無影響",
-      "dek": "中央氣象署與日本氣象廳預測，位於關島東南方低緯度洋面的熱帶低壓最快今日增強為今年第12號颱風紅霞，因位置偏遠對台灣無影響",
-      "url": "https://www.chinatimes.com/realtimenews/20260717001047-260405"
+      "title": "颱風紅霞估下午生成 吳德榮：連日午後防大雷雨",
+      "dek": "中央氣象署預測關島外海熱帶性低氣壓將於今天下午增強為今年第12號颱風紅霞，但預料隔天即減弱，對台灣無直接威脅，西南季風將帶來連日午後大雷雨",
+      "url": "https://www.cna.com.tw/news/ahel/202607170026.aspx"
     },
     {
       "rank": 2,
-      "title": "颱風論壇：準紅霞恐重演「短命颱風」戲碼",
-      "dek": "台灣颱風論壇分析指出，醞釀中的紅霞誕生於極偏遠低緯度海域，成形後可能迅速減弱，且模式預測分歧仍大",
-      "url": "https://www.chinatimes.com/realtimenews/20260716004988-260405"
+      "title": "天氣》紅霞颱風今將生成 午後雷雨再炸5天",
+      "dek": "中時新聞網證實關島外海系統預料今天下午增強為颱風紅霞，台灣受西南季風影響將持續至約7月22日，中南部山區有局部大雨風險，颱風本身不會直接侵襲台灣",
+      "url": "https://www.chinatimes.com/realtimenews/20260717001047-260405"
     },
     {
       "rank": 3,
-      "title": "「紅霞」定案為今年西北太平洋第12號颱風命名",
-      "dek": "自由時報報導，若如預期生成，紅霞將是2026年第12個獲國際命名的西太平洋熱帶氣旋，預計最快7月18日即減弱為熱帶低壓",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5507563"
-    },
-    {
-      "rank": 4,
-      "title": "TVBS：紅霞路徑預測出爐 專家稱恐為另一個短命颱風",
-      "dek": "TVBS新聞報導，該系統最快今日成形，專家分析其強度與生命週期都可能短暫，且不會影響台灣天氣",
+      "title": "紅霞颱風最快今生成！最新路徑曝 專家：又一個短命颱",
+      "dek": "TVBS新聞報導氣象專家將形成中的颱風紅霞形容為「短命颱風」，預料生成後迅速減弱，對台灣無直接影響，但西南季風仍持續帶來降雨風險",
       "url": "https://news.tvbs.com.tw/life/3259886"
     },
     {
+      "rank": 4,
+      "title": "今天可能有颱風生成！ 未來發展恐如海神",
+      "dek": "ETtoday報導7月16日於關島外海生成的熱帶性低氣壓，有機會於17日下午增強為今年第12號颱風紅霞，其短命特性被拿來與稍早迅速消散的海神系統相比",
+      "url": "https://www.ettoday.net/news/20260717/3202637.htm"
+    },
+    {
       "rank": 5,
-      "title": "東太平洋熱帶風暴艾莉達 預測成今年首個颶風",
-      "dek": "Tech Times報導，受聖嬰現象影響、生成速度超前歷年平均的熱帶風暴艾莉達，預計強度上看二級颶風，但對陸地無威脅",
-      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
+      "title": "紅霞颱風最快今生成！最新預測路徑出爐 未來6天降雨熱區一次看",
+      "dek": "NOWnews彙整颱風紅霞最新預測路徑，並列出未來六天台灣各地降雨熱區，強調降雨主因是西南季風而非颱風本身，因紅霞預料不會直接接近台灣",
+      "url": "https://www.nownews.com/news/6857506"
     },
     {
       "rank": 6,
-      "title": "NHC最新預報：艾莉達周五夜至周六達顛峰強度",
-      "dek": "美國國家颶風中心指出，艾莉達最大持續風速已達每小時60英里，預計增強為颶風並於周末前逐漸減弱，路徑僅行經開闊洋面",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/151438.shtml"
+      "title": "南海低壓發展中！台灣颱風論壇曝：不排除通過台灣",
+      "dek": "太報較早的報導指出，部分模式與民間颱風論壇曾提出不排除路徑通過台灣的少數推測，此說法其後已被氣象署與中央社正式預測取代，官方預測目前一致指向不致直接影響台灣",
+      "url": "https://www.taisounds.com/news/content/139/260206"
     },
     {
       "rank": 7,
-      "title": "孟加拉灣低壓系統增強 印度氣象局密切監控",
-      "dek": "Skymet Weather報導，印度氣象局正觀察孟加拉灣一個增強中的低壓系統，預期兩天內北移影響奧里薩邦與西孟加拉邦沿海，尚未達命名氣旋標準",
-      "url": "https://www.skymetweather.com/content/monsoon-update/cyclone-threat-grows-over-bay-of-bengal-track-details-tenuous-so-far"
+      "title": "菲律賓外海生成熱帶性低氣壓 仍在菲律賓責任區外",
+      "dek": "菲律賓大氣地球物理暨天文管理局追蹤一個在菲律賓外海形成、後被國際命名為海神的熱帶性低氣壓，並保留當地名稱「約西」備用，該系統因風切影響於進入重大階段前已減弱",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/13/2541843/tropical-depression-forms-east-philippines-still-outside-par"
     },
     {
       "rank": 8,
-      "title": "大西洋洋面平靜 兩道熱帶波與墨西哥灣擾動待觀察",
-      "dek": "美國國家颶風中心表示，大西洋東部兩道熱帶波發展機率偏低，墨西哥灣附近另一擾動則有緩慢發展跡象，短期內尚無成形疑慮",
-      "url": "https://www.nhc.noaa.gov/text/MIATWDAT.shtml"
+      "title": "艾莉達最快週五增強至二級颶風 聖嬰現象推升今年颶風季步調",
+      "dek": "美國國家颶風中心預測東太平洋熱帶風暴艾莉達將增強為颶風，並於7月17日至18日左右接近二級颶風強度、風速約每小時100英里，其後於週末減弱，對陸地無威脅",
+      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
     },
     {
       "rank": 9,
-      "title": "回顧：颱風巴唯重創菲律賓、台灣與中國大陸",
-      "dek": "半島電視台報導，颱風巴唯在菲律賓引發致命土石流，促使中國沿海逾170萬人疏散，並在台灣造成數十人受傷、逾17萬戶停電",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "熱帶風暴艾莉達 預計成為2026年太平洋東部首個颶風",
+      "dek": "美國國家颶風中心警報指出，艾莉達當時最大持續風速為每小時65英里，位於下加利福尼亞半島南端西南方約735英里處，向西以每小時10英里移動，預料當天稍後成為東太平洋今年首個颶風，沿岸目前無警報",
+      "url": "https://www.hawaiitribune-herald.com/2026/07/16/hawaii-news/tropical-storm-elida-is-expected-to-become-the-pacifics-first-hurricane-of-2026/"
     },
     {
       "rank": 10,
-      "title": "關島與馬紹爾群島附近熱帶擾動97W網路謠言四起 氣象單位澄清",
-      "dek": "北馬里亞納群島當地媒體報導，社群媒體誇大渲染擾動97W恐成颱風的說法，美國國家氣象局澄清目前尚非熱帶氣旋，發展前景仍不明朗",
-      "url": "https://www.nminewsservice.com/97w-not-a-typhoon-nws-aydlett/"
+      "title": "美國國家海洋暨大氣總署預測2026年大西洋颶風季偏弱",
+      "dek": "NOAA與科羅拉多州立大學7月最新展望指出，受加勒比海高風切與增強中的聖嬰現象影響，2026年大西洋颶風季預料低於正常活躍度，截至7月17日大西洋海域尚無活躍系統",
+      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
     }
   ]
 }
