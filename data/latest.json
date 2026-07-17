@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-18T00:07:00+08:00",
+  "generated_at": "2026-07-18T01:07:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署證實，今（17）日並未針對台灣發布任何海上或陸上颱風警報；原本可能成為今年第12號颱風「紅霞」的熱帶低壓已提前消散，僅因西南氣流影響，多個縣市發布午後雷陣雨的大雨特報。",
+  "alert_text": "中央氣象署自7月12日解除颱風巴威警報後迄今未再發布任何海上或陸上颱風警報；本週相繼醞釀的熱帶低壓「紅霞」（TD12）與颱風海神均已消散，僅因西南氣流影響，多個縣市發布午後雷陣雨的大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署目前並未針對台中發布海上或陸上颱風警報，也沒有颱風相關停班停課措施；台中目前僅受西南風影響，午後有雷陣雨及高溫（約36度）的可能，與颱風無關。（上一波影響台中的是7月上旬的巴威颱風，警報已於7月12日解除。）"
+    "text": "目前無直接影響（無陸上或海上颱風警報）。中央氣象署因對流雲系發展旺盛，於7月17日對台中等縣市發布大雨特報，提醒防範短延時強降雨、雷擊及強陣風，但此為西南氣流／午後雷陣雨所致，非颱風系統造成，目前無停班停課情形。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "巴威颱風遠離逾一週 台灣進入颱風空窗期 關島復原未歇 氣象界緊盯月底新一波生成潮",
-    "dek": "中央氣象署證實今日未對台灣發布任何颱風警報，一個原本可能成為今年第12號颱風「紅霞」的熱帶低氣壓已提前消散，而遭巴威颱風重創的關島與北馬里亞納群島仍在艱難復原。",
-    "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-17/bavi-fema-guam-coast-guard-rota-22288278.html"
+    "title": "無颱風警報下的暗潮：海神、紅霞相繼消散，關島重建未竟，專家示警七月底恐現生成潮",
+    "dek": "儘管台灣目前未受任何颱風警報籠罩，西太平洋上兩個熱帶系統一週內接連夭折，美軍仍在關島與羅塔島持續協助超級颱風巴威的災後重建，氣象專家並示警月底前後恐有新一波颱風生成。",
+    "url": "https://news.nextapple.com/life/20260717/A995724BBDE1D14B1D5FEA627C172D37"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴威重創十一天後 關島與北馬里亞納群島仍在艱難復原",
-      "dek": "關島已恢復約九成九電力與供水，但受創更重的羅塔島仍全島停電，逾三千三百戶房屋受損或全毀，約一千五百名美軍人員持續協助清理與後勤支援。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-17/bavi-fema-guam-coast-guard-rota-22288278.html"
+      "title": "紅霞颱風胎死腹中 熱帶低壓TD12消散，專家示警月底恐現生成潮",
+      "dek": "原本可能成為今年第12號颱風「紅霞」的熱帶低壓已在關島附近消散，專家同時示警七月底前後恐有新一波颱風生成。",
+      "url": "https://news.nextapple.com/life/20260717/A995724BBDE1D14B1D5FEA627C172D37"
     },
     {
       "rank": 2,
-      "title": "停班停課機制惹議 行政院重申現行標準「已具客觀依據」",
-      "dek": "針對部分縣市在巴威颱風期間宣布停班停課卻未見明顯風雨的批評，行政院表示現行機制已有清楚標準，暫無修改計畫。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860857"
+      "title": "紅霞未能生成 台灣仍將連五日遭午後雷雨侵襲",
+      "dek": "中時新聞網報導指出，即便熱帶低壓未能發展為颱風，西南氣流仍將為台灣帶來連續多日的午後強對流天氣。",
+      "url": "https://www.chinatimes.com/realtimenews/20260717001047-260405"
     },
     {
       "rank": 3,
-      "title": "關島外海熱帶低氣壓提前消散 未成為第十二號颱風「紅霞」",
-      "dek": "中央氣象署監測顯示，原本評估最快今天可能發展成形的熱帶低氣壓，因發展條件不佳已迅速消散，對台灣沒有直接影響。",
-      "url": "https://www.ettoday.net/news/20260717/3202637.htm"
+      "title": "熱帶低壓TD12減弱 無緣成為「紅霞」颱風",
+      "dek": "CTWANT報導指出，該系統已明顯減弱且距離台灣尚遠，對本島不構成直接天氣威脅。",
+      "url": "https://www.ctwant.com/article/489666/"
     },
     {
       "rank": 4,
-      "title": "壹蘋新聞網：關島外海系統一度傳「最快今生成」颱風",
-      "dek": "報導關島附近一個熱帶系統原有機會在今天發展成颱風，同時預估台灣部分地區午後有較大雨勢，但與該系統無直接關連。",
-      "url": "https://news.nextapple.com/life/20260717/0239B5822C5CFB51B1956A96F214252D"
+      "title": "紅霞估生成卻落空 吳德榮：留意連日午後大雷雨",
+      "dek": "中央社報導，氣象預報員吳德榮提醒，儘管颱風未能生成，西南氣流仍將持續為台灣帶來午後強降雨風險。",
+      "url": "https://www.cna.com.tw/news/ahel/202607170026.aspx"
     },
     {
       "rank": 5,
-      "title": "今日台灣天氣：無颱風警報 但北部高溫上看36度、午後恐有雷陣雨",
-      "dek": "中央氣象署指出，今日並無颱風相關警報生效，台北盆地高溫直逼36度，西南氣流影響下午後有雷陣雨機率，南部則持續間歇性降雨。",
-      "url": "https://www.nownews.com/news/6857082"
+      "title": "颱風生成潮將至 專家示警訊號強勁 恐現一至兩個新颱風",
+      "dek": "中時新聞網報導，氣象專家指出七月底至八月初的颱風生成訊號明顯轉強，但目前尚無實際系統成形，呼籲持續觀察。",
+      "url": "https://www.chinatimes.com/realtimenews/20260717001423-260405"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴「海神」強度偏弱 對菲律賓、日本均無直接威脅",
-      "dek": "「海神」一度以「Josie」之名短暫進入菲律賓責任區後隨即離開，預料將減弱為熱帶性低氣壓，日本太平洋高壓也將阻擋其北上。",
-      "url": "https://www.gmanetwork.com/news/weather/content/994751/tropical-storm-haishen-enters-par-named-josie-pagasa/story/"
+      "title": "美軍持續投入千餘兵力 協助關島、北馬里亞納群島災後重建",
+      "dek": "《星條旗報》報導，美國國防部多軍種人員持續協助超級颱風巴威災後重建，關島供水供電已恢復近99%，但羅塔島仍全面停電。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/2026-07-17/bavi-fema-guam-coast-guard-rota-22288278.html"
     },
     {
       "rank": 7,
-      "title": "巴威颱風登陸中國 菲律賓死亡人數增至18人",
-      "dek": "巴威以約每小時144公里風速登陸浙江，中國事前疏散約280萬人未傳出死亡，但其外圍雨帶在菲律賓引發土石流與淹水，造成18人罹難，多集中在民答那峨島。",
-      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
+      "title": "海神颱風生成僅一天即消散 專家歸咎巴威攪動冷水與強風切",
+      "dek": "CTWANT報導，今年第11號颱風海神因巴威過境留下的低溫海水與強烈風切影響，生成不到一天便減弱為熱帶低壓。",
+      "url": "https://www.ctwant.com/article/489139/"
     },
     {
       "rank": 8,
-      "title": "巴威遠離台灣 中央氣象署解除所有颱風警報",
-      "dek": "中央氣象署已於七月十二日上午分別解除陸上與海上颱風警報，苗栗、新竹兩地累積雨量雙雙超過700毫米。",
-      "url": "https://www.cna.com.tw/news/ahel/202607120012.aspx"
+      "title": "菲律賓將熱帶低壓喬西降級為殘留低壓區",
+      "dek": "菲律賓媒體Rappler報導，PAGASA在該系統進入責任區僅13.5小時後即將其降級，系統並未登陸菲律賓。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季創1976年來同期最活躍紀錄 月底恐再迎生成潮",
-      "dek": "氣象界指出，海溫異常偏暖加上聖嬰現象發展，西太平洋暨南海海域至七月中已生成11個編號颱風，預估七月底前可能再有一至兩個颱風形成。",
-      "url": "https://udn.com/news/story/7266/9633311"
+      "title": "巴威颱風警報解除 苗栗、新竹雨量逾700毫米",
+      "dek": "自由時報報導，中央氣象署已於7月12日上午解除巴威颱風陸上及海上警報，這也是本波颱風季至今最後一次颱風警報。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5502285"
     },
     {
       "rank": 10,
-      "title": "中央氣象署預估下半年仍有3至5個颱風可能接近台灣",
-      "dek": "在巴威颱風生成前，中央氣象署六月底發布的季節展望即預估，隨聖嬰現象發展，今年下半年將有3到5個颱風或熱帶風暴接近台灣，屬正常至略低於正常水準。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
+      "title": "東太平洋熱帶風暴伊麗達增強 但不對陸地構成威脅",
+      "dek": "美聯社報導，伊麗達目前位於墨西哥下加利福尼亞半島西南方外海，持續遠離陸地增強，預計成為東太平洋今年首個颶風，但與台灣、西太平洋局勢無關。",
+      "url": "https://www.ottumwacourier.com/news/national_news/tropical-storm-elida-forms-in-the-pacific-ocean-and-poses-no-threat-to-land-as/article_7736a732-0df6-56e6-962d-950d05a4a28d.html"
     }
   ]
 }
