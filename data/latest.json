@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T06:07:00+08:00",
+  "generated_at": "2026-07-19T07:10:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於7月12日解除颱風巴威的陸上與海上警報，其後生成的颱風海神（PAGASA命名Josie）也在一天內消散，目前西北太平洋無颱風活動；台灣現受西南氣流影響，發布高溫與豪雨特報，與颱風無關。",
+  "alert_text": "中央氣象署已於7月12日解除颱風巴威的陸上與海上警報，其後生成的熱帶低壓TD12也在7月17日減弱消散、未升格為颱風「紅霞」，目前西北太平洋無颱風活動，但氣象界正緊盯月底前可能出現的新一波颱風生成潮。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，台中現受西南氣流影響，7月18日列入氣象署黃色高溫特報（36度以上）及17縣市豪雨特報範圍，皆屬季風系統所致，非颱風影響；台中上一次因颱風停班停課為7月10日晚間6時至7月11日全天（巴威颱風），台中無因颱風而發布之停班停課措施。"
+    "text": "目前無直接影響。台中七月中旬天氣晴朗、氣溫偏高（可達33至36度），僅有典型夏季午後雷陣雨，中央山脈屏障也減輕颱風衝擊；巴威颱風期間台中累積雨量達608毫米，但警報已於7月12日解除，台中目前無因颱風而發布之停班停課措施。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "巴威過境後暫無颱風威脅台灣　氣象署示警月底前恐有新颱風逼近",
-    "dek": "繼創紀錄的颱風巴威來襲、海神颱風生成一天即消散後，台灣目前僅受西南氣流影響出現高溫與豪雨特報，氣象專家已開始觀察菲律賓以東季風雲系，不排除本月底前有新颱風生成並朝台灣方向移動。",
-    "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
+    "title": "巴威颱風警報解除逾週　氣象界緊盯月底「颱風生成潮」",
+    "dek": "台灣目前未受任何颱風威脅，但巴威颱風退去後迅速回溫的海溫，正讓專家關注西北太平洋恐於七月底前再添一至兩個新生颱風。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
   },
   "items": [
     {
       "rank": 1,
-      "title": "台灣多地緊急撤離　迎戰數十年來最大颱風巴威",
-      "dek": "隨著颱風巴威來勢洶洶，台灣各地宣布停班停課，氣象署警告北部山區恐迎來近900毫米豪雨。",
-      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
+      "title": "中央氣象署解除警報　巴威颱風北移遠離台灣",
+      "dek": "《台北時報》報導，中央氣象署已於七月十二日分別解除巴威颱風的陸上與海上警報，苗栗、新竹、台中等地累積雨量均逾六百毫米",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
     },
     {
       "rank": 2,
-      "title": "台中史上首次「跨日停班停課」　因應颱風巴威豪雨威脅",
-      "dek": "台中市長盧秀燕宣布自7月10日晚間6時至隔日全天停止上班上課，創下該市防災史紀錄。",
-      "url": "https://udn.com/news/story/124945/9618444"
-    },
-    {
-      "rank": 3,
-      "title": "颱風巴威減弱為熱帶風暴　氣象署解除陸海警報",
-      "dek": "中央氣象署宣布解除巴威陸上與海上颱風警報，西部與山區此前已普降豪雨。",
+      "title": "巴威颱風陸海警報雙解除　中央氣象署證實暴風北移減速",
+      "dek": "福克斯新聞台灣（Focus Taiwan）引述中央氣象署資料指出，巴威颱風中心已移至馬祖以北約四百一十公里處，前進速度明顯趨緩",
       "url": "https://focustaiwan.tw/society/202607120001"
     },
     {
+      "rank": 3,
+      "title": "巴威颱風釀一百三十四人受傷　多處停電",
+      "dek": "《台北時報》報導，中央災害應變中心統計巴威颱風造成全台一百三十四人受傷（含六名外籍人士），並導致大規模停電",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
+    },
+    {
       "rank": 4,
-      "title": "海神颱風「生成僅一天」旋即消散　專家指向巴威遺留低溫海水",
-      "dek": "氣象專家分析，巴威攪動洋面降溫加上強烈風切，使新生成的海神颱風迅速減弱瓦解。",
-      "url": "https://www.ctwant.com/article/489139/"
+      "title": "三十年最大颱風來襲前　台灣數百人緊急疏散",
+      "dek": "香港自由新聞（Hong Kong Free Press）報導，強風半徑達三百八十公里、被聯合颱風警報中心稱為「碩大無朋」的巴威颱風，來襲前迫使數百人疏散、逾一百八十班航班取消",
+      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
     },
     {
       "rank": 5,
-      "title": "熱帶風暴「Josie」短暫進入菲律賓責任區後迅速消散",
-      "dek": "與海神颱風同一系統的熱帶風暴Josie在菲國近海徘徊十餘小時即減弱，當地未發布警報。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
+      "title": "巴威颱風襲台前　氣象署示警北部山區恐降九百毫米豪雨",
+      "dek": "氣象網站The Watchers報導，中央氣象署警告巴威颱風過境期間北部山區恐有逾九百毫米降雨，隨後風暴轉向中國大陸閩浙沿海登陸",
+      "url": "https://watchers.news/2026/07/09/typhoon-bavi-to-bring-extreme-rain-to-taiwan-before-landfall-in-eastern-china/"
     },
     {
       "rank": 6,
-      "title": "東太平洋熱帶風暴艾莉達　可望成為今年首個颶風",
-      "dek": "在異常活躍的颶風季開端後，熱帶風暴艾莉達正朝著今年東太平洋首個颶風的門檻邁進。",
-      "url": "https://www.hawaiitribune-herald.com/2026/07/16/hawaii-news/tropical-storm-elida-is-expected-to-become-the-pacifics-first-hurricane-of-2026/"
+      "title": "熱帶低壓TD12減弱　「紅霞」颱風無緣生成",
+      "dek": "《CTWANT》報導，七月十六日於關島、楚克島附近形成的熱帶低壓TD12，已於七月十七日上午減弱回一般低壓，未升級為今年第十二號颱風，路徑亦遠離台灣",
+      "url": "https://www.ctwant.com/article/489666/"
     },
     {
       "rank": 7,
-      "title": "菲律賓以東熱帶擾動醞釀中　氣象署評估是否影響台灣",
-      "dek": "氣象專家關注一波低壓系統的發展潛勢，初步研判路徑將沿高壓邊緣朝菲律賓或台灣以東海域移動。",
-      "url": "https://www.nownews.com/news/6855896"
+      "title": "高溫連燒一週　專家：巴威退去後海溫回升有利颱風生成",
+      "dek": "《壹蘋新聞網》報導，台灣近期籠罩在三十三至三十六度高溫下，專家指出巴威颱風過境後降溫的海面溫度正快速回升，有利菲律賓外海新颱風發展",
+      "url": "https://news.nextapple.com/life/20260718/3EDF2EBC7E0F82184B342C7A15BAA883"
     },
     {
       "rank": 8,
-      "title": "氣象署示警月底前恐有新颱風生成　路徑可能朝台灣靠近",
-      "dek": "專家指出季風槽持續活躍，不排除七月底前醞釀新颱風，同時全台本週午後雷陣雨與高溫將持續發威。",
-      "url": "https://www.nownews.com/news/6857859"
+      "title": "「颱風生成潮」將至　氣象粉專：訊號強、恐一次生一到兩個",
+      "dek": "《鏡週刊》報導，氣象粉專「台灣颱風論壇」示警月底前可能出現颱風生成潮，訊號強勁，預估至少會有一到兩個新颱風生成，惟是否侵台尚無定論",
+      "url": "https://www.mirrormedia.mg/story/20260717edi006"
     },
     {
       "rank": 9,
-      "title": "西南氣流發威　17縣市發布豪大雨特報",
-      "dek": "氣象署針對包含台中在內的17縣市發布豪雨特報，提醒防範雷擊、強陣風及坡地土石流風險。",
-      "url": "https://www.ettoday.net/news/20260718/3203579.htm"
+      "title": "東太平洋熱帶風暴艾莉達持續減弱　未威脅陸地",
+      "dek": "美國國家颶風中心資料顯示，熱帶風暴艾莉達（Elida）目前位於東太平洋外海，預計七月二十日前轉為溫帶系統，對任何陸地均無威脅",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCMEP5+html/160237.shtml"
     },
     {
       "rank": 10,
-      "title": "熱浪侵襲全台　氣象署發布高溫特報籲防中暑",
-      "dek": "六縣市進入黃色高溫警戒，各地普遍高溫33至35度，氣象署提醒民眾加強防曬並補充水分。",
-      "url": "https://newtalk.tw/news/view/2026-07-18/1047972"
+      "title": "年中展望：專家估年底前恐再添五個颱風或颱風級系統",
+      "dek": "《台北時報》報導，中央氣象署與專家指出，受海溫異常偏暖影響，二零二六年太平洋颱風季已是一九七六年以來最活躍的一年，下半年颱風活動預估將持續熱絡",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     }
   ]
 }
