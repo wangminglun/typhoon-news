@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T02:07:00+08:00",
+  "generated_at": "2026-07-19T03:07:00+08:00",
   "alert_level": "none",
   "alert_text": "中央氣象署目前未對任何熱帶氣旋發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，最近一次相關停班停課發生於巴威颱風襲台期間（7月10、11日）；目前僅受夏季西南氣流影響，午後有局部雷陣雨，高溫上看攝氏35至36度。"
+    "text": "台中目前無直接颱風影響，僅受西南季風影響，午後有短延時強降雨，局部高溫上看攝氏36度，無因颱風而發布之停班停課或其他警戒措施。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "目前無颱風威脅台灣　今年太平洋颱風季創1976年來最活躍開局",
-    "dek": "中央氣象署目前未對任何熱帶氣旋發布警報，但今年颱風季至今已生成11個編號颱風，為近半世紀同期最多，專家提醒七月底前仍可能有新系統發展並接近台灣。",
-    "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
+    "title": "颱風假期暫歇　氣象單位轉向監控月底南海熱帶擾動動向",
+    "dek": "中央氣象署已解除今年颱風巴威的陸上與海上警報，但多名氣象專家指出，南海至菲律賓海一帶醞釀中的熱帶擾動，可能在七月底前發展成形並牽動台灣天氣。",
+    "url": "https://www.chinatimes.com/realtimenews/20260718001759-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱巴威重創菲律賓與中國　造成至少18人罹難、逾280萬人疏散",
-      "dek": "根據「世界社會主義網站」與Tech Times報導，巴威侵襲關島與北馬里亞納群島後於7月11日登陸中國浙江、福建，重創沿途多個地區。",
-      "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
+      "title": "西南季風雷雨連轟四天　專家警告太平洋多處熱帶擾動正在醞釀",
+      "dek": "中時新聞網報導指出，未來四天午後雷雨將持續籠罩全台，同時西北太平洋已有多個熱帶擾動正在形成，但尚未組織成明確風暴系統。",
+      "url": "https://www.chinatimes.com/realtimenews/20260718000802-260405"
     },
     {
       "rank": 2,
-      "title": "巴威颱風掀近25年最大暴風圈　全台22縣市停班停課",
-      "dek": "據風傳媒與三立新聞網報導，巴威暴風圈半徑達350公里，7月10、11日迫使台北、新北、台中、高雄等地相繼宣布停班停課。",
-      "url": "https://www.storm.mg/lifestyle/11148189"
+      "title": "中北部週末慎防午後豪雨　氣象界示警下週恐有颱風生成",
+      "dek": "ETtoday新聞雲報導，中央氣象署提醒中部以北民眾留意明日午後強降雨，並指出一股熱帶擾動最快下週後期可能增強為颱風，惟路徑與強度仍不明朗。",
+      "url": "https://www.ettoday.net/news/20260718/3203582.htm"
     },
     {
       "rank": 3,
-      "title": "颱風美莎克重創廣西　洪災與潰壩事故釀數十人死亡",
-      "dek": "根據Tech Times與中時新聞網報導，美莎克登陸越南廣寧後引發廣西致命洪災，南寧附近一座水庫閘壩隨後部分潰決，兩起事故合計造成數十人死亡、約13萬人疏散。",
-      "url": "https://www.techtimes.com/articles/320258/20260712/typhoon-bavi-kills-18-philippines-chinas-28-million-evacuees-survive-landfall.htm"
+      "title": "全台濕答答午後強降雨未歇　氣象單位預估週二後雨勢趨緩",
+      "dek": "中時新聞網報導，短延時強降雨將持續影響台灣大部分地區，預計自下週二（7月21日）起降雨情形將逐漸緩解。",
+      "url": "https://www.chinatimes.com/realtimenews/20260718002878-260405"
     },
     {
       "rank": 4,
-      "title": "今年第11號颱風海神生成又減弱　未如部分模擬轉向台灣",
-      "dek": "據聯合新聞網與TVBS報導，海神7月13日於菲律賓以東、關島以西生成，儘管部分模擬路徑一度指向宜蘭，最終於7月16日左右減弱為熱帶性低氣壓，未對台灣造成影響。",
-      "url": "https://udn.com/news/story/7266/9623878"
+      "title": "月底颱風生成機率增高　專家研判路徑恐朝台灣接近",
+      "dek": "中時新聞網報導引述氣象專家分析，七月底前有機會出現新颱風，初步路徑推估可能朝台灣方向移動，但相關研判仍屬早期階段。",
+      "url": "https://www.chinatimes.com/realtimenews/20260718001759-260405"
     },
     {
       "rank": 5,
-      "title": "太平洋颱風季開局創1976年來最活躍紀錄　聖嬰現象是關鍵",
-      "dek": "根據Yahoo新聞與維基百科彙整資料，截至7月中已有11個編號颱風生成，專家將異常活躍歸因於西北太平洋與南海海溫偏暖，並警告颱風季後段恐有更多系統發展。",
-      "url": "https://tw.news.yahoo.com/2026%E9%A2%B1%E9%A2%A8%E5%AD%A3%E9%96%8B%E5%A7%8B-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6%E7%B1%B3%E5%85%8B%E6%8B%89%E9%81%8E%E5%BE%8C-%E9%82%84%E6%9C%89%E6%96%B0%E7%9A%84%E5%86%92%E5%87%BA%E4%BE%86-074900109.html"
+      "title": "熱帶擾動醞釀中　氣象署示警未來兩日豪雨齊發、高溫上看36度",
+      "dek": "NOWnews今日新聞報導，中央氣象署觀測到一道自南海延伸至菲律賓東方的低壓帶未來可能發展為熱帶擾動，近日台灣則面臨強降雨與高溫雙重考驗。",
+      "url": "https://www.nownews.com/news/6857972"
     },
     {
       "rank": 6,
-      "title": "菲律賓以東海域醞釀　專家不排除月底前再生颱風逼近台灣",
-      "dek": "根據NOWnews報導，截至7月18日該海域尚未出現組織性系統，但條件持續有利低壓發展，不排除路徑可能接近台灣，全台同時持續受午後雷陣雨影響、高溫達35至36度。",
-      "url": "https://www.nownews.com/news/6857859"
+      "title": "楚克外海熱帶擾動牽動馬里亞納群島局勢　聯合颱風警報中心上調發展等級",
+      "dek": "Marianas Variety報導，位於楚克韋諾島（Weno, Chuuk）南方的熱帶擾動「Invest 90W」目前近乎滯留，美軍聯合颱風警報中心已將其發展潛力上調至中度。",
+      "url": "https://www.mvariety.com/news/local/chuuk-disturbance-keeps-marianas-guessing-before-liberation/article_70048164-9880-4621-8800-ae8867e5b55d.html"
     },
     {
       "rank": 7,
-      "title": "熱帶擾動90W在楚克島附近遭監測　發展機率偏低",
-      "dek": "根據關島國家氣象局與科羅拉多州立大學即時熱帶氣旋資料，這股對流位於楚克島東南方約46.6浬處，是目前西太平洋唯一受追蹤的擾動，24小時內發展為顯著熱帶氣旋的機率評估為低。",
-      "url": "https://www.weather.gov/gum/wpacTropical"
+      "title": "關島氣象局：Invest 90W「值得關注、無須擔憂」",
+      "dek": "NMI News Service報導，美國國家氣象局關島辦公室預報員Aydlett表示，受風切影響，該擾動短期內組織化機率偏低，目前對關島與北馬里亞納群島尚無明確威脅。",
+      "url": "https://www.nminewsservice.com/invest-90w-marianas-watch/"
     },
     {
       "rank": 8,
-      "title": "第7號颱風米克拉掠過沖繩　6月底一度擦邊台灣",
-      "dek": "據聯合新聞網與TVBS報導，米克拉6月25日最接近台灣時距離約400至500公里，主要帶來西半部及宜蘭降雨，隨後轉向北北東朝沖繩及日本本土移動。",
-      "url": "https://udn.com/news/story/7266/9579662"
+      "title": "東太平洋風暴頻生　大西洋亦現風暴跡象",
+      "dek": "Yale Climate Connections報導，東太平洋今年已生成五個命名風暴、熱帶風暴Elida為最新一例，而大西洋雖無活躍氣旋，但維德角外海一道熱帶波動已受到氣象單位觀察，NOAA預期該海域今年整體活動偏低。",
+      "url": "https://yaleclimateconnections.org/2026/07/the-eastern-pacific-is-a-tropical-storm-factory-and-the-atlantic-basin-shows-signs-of-life/"
     },
     {
       "rank": 9,
-      "title": "東太平洋颶風艾莉達增強至二級　預測路徑將維持外海",
-      "dek": "根據The Watchers與美國國家颶風中心資料，艾莉達7月14日於下加利福尼亞以南生成，7月16、17日增強為颶風、最大風速約每小時161公里，預計下週初開始減弱。",
-      "url": "https://watchers.news/2026/07/15/tropical-depression-five-e-forms-forecast-intensify-hurricane/"
+      "title": "颱風巴威北移減弱　中央氣象署解除全台警報",
+      "dek": "台北時報（Taipei Times）報導，隨著颱風巴威強度減弱並持續北移遠離台灣，中央氣象署已解除陸上與海上警報，這也是台灣今年最近一次的颱風警戒紀錄。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季異常平靜　聖嬰風切抑制生成",
-      "dek": "根據NOAA與NBC邁阿密報導，大西洋、加勒比海與墨西哥灣至今僅生成一個編號風暴，NOAA預測本季有55%機率為「低於正常」等級。",
-      "url": "https://www.nbcmiami.com/weather/hurricane-season/hurricane-season-july-has-produced-impactful-storms-but-2026-wont-support-it/3830351/"
+      "title": "今年第十一號颱風「海神」生成　氣象署研判對台無直接影響",
+      "dek": "聯合新聞網報導，今年第十一號颱風海神在菲律賓東方海面生成，中央氣象署與日本氣象廳評估其路徑不會直接影響台灣，該系統隨後因風切增強而於7月14日消散。",
+      "url": "https://udn.com/news/story/7266/9623878"
     }
   ]
 }
