@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T16:14:00+08:00",
+  "generated_at": "2026-07-19T18:08:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署目前未發布任何海上或陸上颱風警報。上一波警報隨颱風巴威於七月十一、十二日在中國大陸登陸消散後解除，全台現受季風雷雨與高溫影響，氣象署持續觀察馬里亞納群島附近熱帶擾動90W，以及下週後期可能於關島至菲律賓一帶或南海生成的多個熱帶擾動。",
+  "alert_text": "中央氣象署目前未發布任何海上或陸上颱風警報，最近一次警報為超級強颱巴唯，已於七月十二日全數解除。全台現受西南季風型態影響，關島國家氣象局持續觀察滯留於楚克島外海的熱帶擾動90W，中央氣象署則預告本週稍晚菲律賓以東或南海一帶可能有新系統醞釀。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中最近一次因颱風停班停課的紀錄仍停留在7月11日的巴威；截至7月18、19日，台中及中部地區預報僅為一般午後雷陣雨及山區局部大雨，並無任何活躍熱帶系統帶來的風雨警報或停班停課訊息。"
+    "text": "目前無直接影響。台中未受任何颱風相關警報或停班停課措施影響，天氣以七月典型高溫為主（約30度以上），午後有局部雷陣雨機率，屬季風型態的一部分，與熱帶氣旋無關。台中最近一次因颱風受影響的紀錄仍為七月中旬的巴唯颱風，目前已完全解除。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "目前無活躍颱風 台灣受季風雷雨與高溫牽制 太平洋多處熱帶擾動待觀察",
-    "dek": "中央氣象署未發布任何颱風警報，全台以午後雷陣雨及攝氏36度高溫為主；關島東南方熱帶擾動90W路徑未定，下週後半另有多個系統醞釀，惟距台灣仍遠。",
+    "title": "太平洋今無颱風警報 一熱帶擾動徘徊楚克島 氣象署持續監測",
+    "dek": "巴唯颱風重創台灣後已遠離逾一週，關島氣象單位緊盯尚未成型的「90W」擾動，中央氣象署則預告本週稍晚恐有新系統醞釀。",
     "url": "https://www.postguam.com/news/local/marianas-on-watch-as-invest-90w-lingers-near-chuuk/article_86884a39-eccc-4826-8d7b-b8f5ad276d2f.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "楚克島熱帶擾動路徑不明 馬里亞納群島解放紀念日前保持警戒",
-      "dek": "熱帶擾動90W在楚克韋諾島南方幾乎停滯不動，各家預報模式對其未來路徑意見分歧，讓關島與北馬里亞納群島居民在四天連假前心懸不下。",
-      "url": "https://www.mvariety.com/news/local/chuuk-disturbance-keeps-marianas-guessing-before-liberation/article_70048164-9880-4621-8800-ae8867e5b55d.html"
-    },
-    {
-      "rank": 2,
-      "title": "熱帶擾動90W滯留楚克島附近 馬里亞納群島持續戒備",
-      "dek": "關島國家氣象局表示，90W目前對關島及馬里亞納群島「暫無明確威脅」，但週二至週四可能有系統通過鄰近海域，籲民眾保持警覺。",
+      "title": "90W擾動滯留楚克島外海 馬里亞納群島進入觀察狀態",
+      "dek": "關島國家氣象局表示，該擾動已近乎滯留數日，為楚克與波納佩帶來陣雨與強陣風。",
       "url": "https://www.postguam.com/news/local/marianas-on-watch-as-invest-90w-lingers-near-chuuk/article_86884a39-eccc-4826-8d7b-b8f5ad276d2f.html"
     },
     {
-      "rank": 3,
-      "title": "關島氣象局：90W「值得觀察，但不必恐慌」",
-      "dek": "預報員指出，強烈風切目前抑制了90W的發展，但部分較積極的模式顯示，該系統接近馬里亞納群島時仍有增強為熱帶低氣壓的可能。",
+      "rank": 2,
+      "title": "氣象局預報員：90W「值得觀察，但不必擔心」",
+      "dek": "關島氣象局艾德列特指出，擾動組織鬆散且受風切影響，居民暫不需採取防範行動。",
       "url": "https://www.nminewsservice.com/invest-90w-marianas-watch/"
     },
     {
-      "rank": 4,
-      "title": "關島民防辦公室：90W持續組織化 朝馬里亞納群島移動",
-      "dek": "關島國土安全暨民防辦公室發布公告，指熱帶擾動90W結構持續整合，並大致朝馬里亞納群島方向移動。",
-      "url": "https://ghs.guam.gov/1150-am-90w-continues-organize-it-moves-toward-marianas"
+      "rank": 3,
+      "title": "解放紀念日前夕 楚克擾動路徑未明 馬里亞納群島仍在猜測",
+      "dek": "90W環流中心組織鬆散，當地已發布特別天氣公告，島際交通首當其衝。",
+      "url": "https://www.mvariety.com/news/local/chuuk-disturbance-keeps-marianas-guessing-before-liberation/article_70048164-9880-4621-8800-ae8867e5b55d.html"
     },
     {
-      "rank": 5,
-      "title": "90W外圍效應顯現 馬里亞納群島發布淹水警戒與強陣風提醒",
-      "dek": "關島當地新聞報導，90W外圍環流已為關島、羅塔、天寧與塞班島帶來淹水警戒、強陣風、離岸流風險及小船警報。",
+      "rank": 4,
+      "title": "90W外圍水氣帶來淹水警戒 馬里亞納群島風勢增強",
+      "dek": "密克羅尼西亞聯邦周邊出現局部淹水疑慮，但氣象單位尚未確認形成閉合環流。",
       "url": "https://www.kuam.com/story/53215301/invest-90w-brings-flood-watch-gusty-winds-to-the-marianas"
     },
     {
+      "rank": 5,
+      "title": "新熱帶擾動最快週三後生成 氣象署：路徑是否影響台灣仍待觀察",
+      "dek": "中央氣象署表示，菲律賓以東海面或南海可能醞釀新系統，但研判為時尚早。",
+      "url": "https://www.nownews.com/news/6855896"
+    },
+    {
       "rank": 6,
-      "title": "南部地區19日不定時降雨 下週留意熱帶擾動",
-      "dek": "中央氣象署預告，西南氣流影響下南部19、20日局部大雨，中部以北山區午後亦有雷陣雨；下週後期關島至菲律賓一帶或南海可能有熱帶擾動生成，但強度與路徑仍待觀察。",
-      "url": "https://www.cna.com.tw/news/ahel/202607180172.aspx"
+      "title": "今日天氣午後轉變 全台防豪雨 本週另有擾動生成機會",
+      "dek": "山區及南部持續有雨，北部午後雷陣雨轉強，氣象單位同時關注新擾動動向。",
+      "url": "https://www.nownews.com/news/6857995"
     },
     {
       "rank": 7,
-      "title": "吳德榮：防午後大雷雨 下週有多個熱帶擾動醞釀",
-      "dek": "氣象專家吳德榮提醒，各地持續受午後雷陣雨及高溫（上看36度）影響，並有東南風焚風效應；下週恐有多個熱帶擾動醞釀發展，但目前並無颱風直接威脅台灣。",
-      "url": "https://www.cna.com.tw/news/ahel/202607180013.aspx"
+      "title": "一週天氣持續高溫炎熱 北台午後雷陣雨旺 馬祖須防強風",
+      "dek": "各地高溫上看32至36度，台北盆地、中部及花蓮山谷局部更熱，馬祖強風與颱風無關。",
+      "url": "https://news.nextapple.com/life/20260719/79D80E0E057D672D024428E1EB511264"
     },
     {
       "rank": 8,
-      "title": "南部、午後中部以北雷雨連炸2天！ 下週後半段留意熱帶擾動發展",
-      "dek": "報導指出，全台持續受季風雷雨型態影響，目前無颱風威脅，但下週後半段是觀察熱帶擾動是否成形、進而影響台灣周邊的關鍵時間點。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5509767"
+      "title": "熱帶風暴海神短暫進入菲律賓責任區 未發布任何警報",
+      "dek": "菲律賓氣象局指出，該系統僅短暫掠過責任區東緣即減弱，是近期最後一個命名風暴活動紀錄。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
     },
     {
       "rank": 9,
-      "title": "午後大雷雨連炸4天 多個熱帶擾動醞釀中",
-      "dek": "台灣連續四天預期出現午後雷陣雨的夏季季風型態，同時西太平洋與南海一帶已有多個熱帶擾動醞釀成形，惟尚未確認是否朝台灣移動。",
-      "url": "https://news.nextapple.com/life/20260718/71D95ED1C352EADA2C7F7EA66DE0E9A9"
+      "title": "熱帶低壓未能成颱 區域颱風活動暫入空窗期",
+      "dek": "一波原受關注的熱帶低壓提前減弱消散，颱風生成腳步暫緩，但午後雷雨持續。",
+      "url": "https://www.ettoday.net/news/20260717/3202819.htm"
     },
     {
       "rank": 10,
-      "title": "熱帶低氣壓「海神（菲律賓命名Josie）」降編為殘餘低壓區",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，海神系統進入菲律賓責任區僅13.5小時後即減弱為殘餘低壓，為菲律賓今年第10個熱帶氣旋，目前責任區內已無活躍命名風暴。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+      "title": "2026年太平洋颱風季已生成11個風暴 創1976年以來同期新高",
+      "dek": "分析指出，西北太平洋與南海異常偏暖海溫疊加聖嬰現象，是今年風暴活動偏多的主因。",
+      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
     }
   ]
 }
