@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20T01:07:00+08:00",
+  "generated_at": "2026-07-20T02:06:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署颱風警報網頁顯示，截至七月十九日，全台尚未發布海上颱風警報或陸上颱風警報；近期北太平洋接連出現的巴威、海神與未成颱的「諾爾」均已消散或遠離台灣本島，現階段無系統達發布標準。",
+  "alert_text": "中央氣象署證實，截至七月十九日，台灣本島並未受到任何海上或陸上颱風警報籠罩；今年夏天一連串颱風接連侵襲後，目前是難得的平靜空檔，僅有西南風與季風對流引發的大雨特報及高溫特報生效中。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。不過中央氣象署七月十九日中午前後對台中以北、嘉義以南及南投、雲林山區發布大雨特報，起因是西南季風環流引發旺盛對流雲系發展，屬季節性午後雷陣雨，而非颱風所致；氣象署籲請民眾備妥雨具，留意雷擊、強陣風與瞬間積水。"
+    "text": "台中目前未受任何颱風直接影響。不過中央氣象署19日下午5時50分發布的大雨特報，範圍涵蓋台中以北地區，警告局部豪雨、雷擊及強陣風，屬西南風增強引發的對流性降雨，而非颱風所致，該特報有效至當晚11時。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "台灣暫無颱風威脅 氣象界關注下週南海季風低壓能否成颱",
-    "dek": "中央氣象署目前未對台灣發布任何颱風警報，先前的海神颱風與未成颱的「諾爾」均已消散；專家正密切觀察下週可能通過南海的季風擾動，西南季風同時為中南部帶來午後強降雨。",
-    "url": "https://www.ettoday.net/news/20260719/3203708.htm"
+    "title": "台灣暫無颱風警報 西南風挾強降雨、高溫來襲，氣象署緊盯7月25日新擾動",
+    "dek": "中央氣象署表示，目前無海上或陸上颱風警報生效，但西南風增強已帶來豪雨與高溫特報；預報員正密切觀察一個可能於7月25日前後在菲律賓外海發展、進入南海的熱帶擾動。",
+    "url": "https://focustaiwan.tw/society/202607190014"
   },
   "items": [
     {
       "rank": 1,
-      "title": "墨西哥灣熱帶性低氣壓增強中 預估周日或周一成為熱帶風暴柏莎",
-      "dek": "根據weather.com與CNN報導，該系統恐為佛羅里達狹長地帶帶來暴雨、暴潮與強風，美國已對部分墨西哥灣沿岸發布熱帶風暴警戒。",
-      "url": "https://weather.com/2026/07/19/storms/hurricane/tropical-depression-storm-bertha-florida-gulf-coast"
+      "title": "西南風增強 氣象署估降雨週一達高峰",
+      "dek": "根據Focus Taiwan報導，氣象署預測本週一（20日）為降雨高峰，北部、東北部及中部山區恐出現豪雨，新竹縣尖石鄉已測得140毫米雨量。",
+      "url": "https://focustaiwan.tw/society/202607190014"
     },
     {
       "rank": 2,
-      "title": "熱帶風暴艾莉達增強北移 加州南部海岸發布長浪特報",
-      "dek": "根據洛杉磯ABC7電視台報導，艾莉達風速已增至約每小時七十英里，預計約六十小時內減弱為溫帶系統，不會在美國本土登陸。",
-      "url": "https://abc7.com/post/tropical-storm-elida-moving-southern-california-high-surf-advisory-take-effect-sunday/19533821/"
+      "title": "大雨特報涵蓋台中以北 慎防道路積水",
+      "dek": "Newtalk新聞報導，氣象署19日傍晚發布大雨特報，警告台中以北、嘉義以南等地有局部豪雨、雷擊及強陣風，並提醒山區落石與低窪淹水風險。",
+      "url": "https://newtalk.tw/news/view/2026-07-19/1048116"
     },
     {
       "rank": 3,
-      "title": "氣象專家關注下週季風低壓 不排除醞釀今夏新颱風",
-      "dek": "根據ETtoday新聞雲報導，氣象專家吳聖宇指出，一股熱帶擾動預計七月二十五、二十六日左右通過菲律賓進入南海，屆時恐增加巴士海峽及台灣東南部雨量，但發展條件是否成熟仍待觀察。",
-      "url": "https://www.ettoday.net/news/20260719/3203708.htm"
+      "title": "7縣市亮橙色燈號 氣溫恐連三天飆破36度",
+      "dek": "Focus Taiwan報導，氣象署對台北、新北、桃園、彰化、花蓮等7縣市發布高溫警示，此波高溫與颱風無關，主要受季風與副熱帶高壓影響。",
+      "url": "https://focustaiwan.tw/society/202607190005"
     },
     {
       "rank": 4,
-      "title": "颱風海神生成不滿一日即減弱 中央氣象署撤銷編號",
-      "dek": "根據Newtalk新聞報導，海神颱風七月十三日在關島東南方生成，翌日即減弱為熱帶性低氣壓；前氣象局長鄭明典指出，巴威遺留的低溫海水及強烈風切是主因，對台灣影響輕微。",
-      "url": "https://newtalk.tw/news/view/2026-07-14/1046949"
+      "title": "「颱風窩」估下週成形 專家示警熱帶擾動恐接力發展",
+      "dek": "聯合新聞網報導，天氣風險公司分析師吳聖宇指出，一波熱帶擾動可能於7月25、26日左右進入南海，直接侵台機率偏低，但外圍水氣恐增加東南部降雨。",
+      "url": "https://udn.com/news/story/7266/9636781"
     },
     {
       "rank": 5,
-      "title": "熱帶性低氣壓TD12未能成颱「諾爾」 專家估月底前恐再有颱風生成",
-      "dek": "根據壹蘋新聞網報導，原本可能編號為颱風諾爾的TD12因發展條件不佳而消散，速度甚至快過海神，對台灣並無直接影響。",
-      "url": "https://news.nextapple.com/life/20260717/A995724BBDE1D14B1D5FEA627C172D37"
-    },
-    {
-      "rank": 6,
-      "title": "中央氣象署：目前未發布任何颱風警報",
-      "dek": "中央氣象署颱風警報網頁顯示，截至七月十九日海上與陸上颱風警報均未發布，現階段無系統達發布標準。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
-    },
-    {
-      "rank": 7,
-      "title": "回顧強颱巴威 近數十年侵台範圍最大的颱風之一",
-      "dek": "根據香港自由新聞（Hong Kong Free Press）報導，巴威暴風圈廣達三百八十公里，重創台灣北部後轉往中國大陸登陸，全台約二萬九千名軍人待命，至七月十二日已有一百三十四人受傷。",
+      "title": "30年最大颱風「巴威」來襲前 台灣數百人緊急撤離",
+      "dek": "香港自由新聞報導，強風半徑達380公里的颱風巴威侵襲前，花蓮山區近千人因鄰近攔沙壩而撤離，全台學校與機關同步停班停課。",
       "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
     },
     {
+      "rank": 6,
+      "title": "巴威登陸中國前 為北台灣山區帶來破紀錄豪雨",
+      "dek": "The Watchers報導，氣象署曾警告北部山區雨量恐達900毫米，最終巴威造成北台灣持續強降雨與淹水，消防單位統計至7月12日已有134人受傷。",
+      "url": "https://watchers.news/2026/07/09/typhoon-bavi-to-bring-extreme-rain-to-taiwan-before-landfall-in-eastern-china/"
+    },
+    {
+      "rank": 7,
+      "title": "第11號颱風「海神」生成即轉彎 未影響台灣即消散",
+      "dek": "NOWnews報導，海神颱風7月13日於菲律賓東方生成，路徑北轉未直接威脅台灣，隔日隨即減弱為熱帶性低氣壓並消散。",
+      "url": "https://www.nownews.com/amp/news/6856082"
+    },
+    {
       "rank": 8,
-      "title": "2026年太平洋颱風季創1976年以來同期最活躍紀錄",
-      "dek": "維基百科彙整資料顯示，截至七月中旬本季已生成約十二個編號颱風，每月皆有新颱風生成，包括麥德姆、無花果、巴威、海神及未成颱的諾爾。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "颱風美莎克重創廣西 潰堤釀多人死亡",
+      "dek": "星島日報報導，美莎克7月3日登陸海南後轉襲廣西，造成堤防潰決、至少4人死亡、數萬人疏散，台港僅受外圍環流波及。",
+      "url": "https://www.singtaousa.com/2026/07/08/news/china/fatal-typhoon-maysak-floods-burst-dam-wall-in-china/"
     },
     {
       "rank": 9,
-      "title": "西南季風掀午後強降雨 中央氣象署對台中等地發布大雨特報",
-      "dek": "根據《台中時報》報導，中央氣象署十九日中午前後對台中以北、嘉義以南及南投、雲林山區發布大雨特報，籲請民眾備妥雨具並留意雷擊、強陣風與淹水。",
-      "url": "https://www.taichungtimes.com/archives/106816"
+      "title": "聖嬰效應助長颶風季 「艾莉達」一度逼近二級強度",
+      "dek": "Tech Times報導，東太平洋颶風艾莉達原預測7月17日前增強至二級規模，其後預料減弱並遠離墨西哥海岸，未構成直接威脅。",
+      "url": "https://www.techtimes.com/articles/320572/20260715/elida-could-hit-category-2-friday-el-nino-pushes-season-historic-pace.htm"
     },
     {
       "rank": 10,
-      "title": "回顧麥德姆颱風外圍環流 6月南台灣豪雨成災",
-      "dek": "根據《台北時報》報導，麥德姆颱風雖未登陸，但外圍環流為高雄、台南、屏東帶來豪雨，逾五百萬居民停班停課，花蓮一處迅速蓄滿的攔河堰附近並展開疏散，台灣未傳出傷亡。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/23/2003859583"
+      "title": "東太平洋颶風「產量」創新高 大西洋卻異常沉寂",
+      "dek": "Yale Climate Connections報導，美國NOAA預估東太平洋今年恐生成多達22個編號風暴，相較之下大西洋僅零星系統形成，兩大洋呈現鮮明對比。",
+      "url": "https://yaleclimateconnections.org/2026/07/the-eastern-pacific-is-a-tropical-storm-factory-and-the-atlantic-basin-shows-signs-of-life/"
     }
   ]
 }
