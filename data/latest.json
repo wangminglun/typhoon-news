@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T15:07:00+08:00",
+  "generated_at": "2026-07-19T16:06:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於七月十三日解除颱風巴威的海上及陸上颱風警報，目前對台灣未發布任何颱風警報，但氣象署正密切觀察下週菲律賓至南海一帶可能發展的熱帶擾動動向。",
+  "alert_text": "中央氣象署已於七月十三日解除颱風巴威的陸上及海上颱風警報，目前對台灣未發布任何颱風警報，但氣象署持續觀察下週可能於菲律賓以東至南海一帶接連生成的熱帶擾動，以及馬里亞納群島附近熱帶擾動90W的後續發展。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署預測十九、二十日西南氣流影響下，南部及部分地區將有午後雷陣雨及局部大雨，台中暫未被列入主要降雨熱區，且目前無任何颱風系統對台中構成直接影響。"
+    "text": "目前無直接影響。目前並無颱風或熱帶風暴系統對台中構成直接衝擊，僅西南季風水氣可能為部分地區帶來午後雷陣雨與36度以上高溫，屬一般夏季對流天氣，台中未列入主要降雨熱區，也無停班停課相關訊息。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "巴威颱風警報解除將近一週 西南氣流籠罩南台灣 氣象署緊盯下週熱帶擾動動向",
-    "dek": "全台目前無颱風警報，但西南氣流與南海雲系為南部帶來局部大雨，氣象署同時觀察下週菲律賓至南海一帶可能生成的熱帶擾動。",
-    "url": "https://www.cna.com.tw/news/ahel/202607180172.aspx"
+    "title": "颱風空窗期未歇 季風低壓槽醞釀成台灣下一變數",
+    "dek": "巴威、海神相繼消散後西太平洋暫無命名颱風，但氣象機構警告下週起南方海域恐接連生成熱帶擾動。",
+    "url": "https://newtalk.tw/news/view/2026-07-18/1047927"
   },
   "items": [
     {
       "rank": 1,
-      "title": "南部地區19日不定時降雨 下週留意熱帶擾動",
-      "dek": "氣象署預測西南氣流與南海雲系將為南台灣帶來間歇性降雨，同時觀察下週可能在菲律賓或南海一帶發展的熱帶擾動。",
-      "url": "https://www.cna.com.tw/news/ahel/202607180172.aspx"
+      "title": "季風低壓槽下週醞釀成形 多個熱帶擾動恐接連生成",
+      "dek": "氣象預報指出，關島南方低壓區將西移併入西南季風，一波擾動可能於7月25、26日通過台灣南方海域。",
+      "url": "https://newtalk.tw/news/view/2026-07-18/1047927"
     },
     {
       "rank": 2,
-      "title": "熱帶擾動醞釀中 下週雨區大洗牌 一張圖看未來一週天氣趨勢",
-      "dek": "隨著熱帶擾動可能在關島、菲律賓或南海一帶發展，台灣下週降雨型態預料將出現變化，高溫仍將持續。",
-      "url": "https://newtalk.tw/news/view/2026-07-18/1047982"
+      "title": "菲律賓以東擾動週三後恐成形 氣象署：路徑仍不明朗",
+      "dek": "氣象署預報員表示，太平洋高壓導引恐使系統先西後北移向日本南方，對台灣影響待觀察。",
+      "url": "https://www.nownews.com/news/6855896"
     },
     {
       "rank": 3,
-      "title": "熱帶擾動發展中 氣象署示警明後天恐有豪雨 高溫飆破36度",
-      "dek": "氣象署表示，發展中的熱帶擾動加上季風水氣，未來一兩天恐為台灣帶來豪雨，部分地區高溫將突破36度。",
+      "title": "擾動醞釀中 氣象署示警未來兩日豪雨、高溫上看36度",
+      "dek": "系統尚未成形，但西南季風水氣已為台灣部分地區帶來強降雨與酷熱天氣。",
       "url": "https://www.nownews.com/news/6857972"
     },
     {
       "rank": 4,
-      "title": "颱風北移 氣象署解除警報",
-      "dek": "中央氣象署13日上午解除巴威颱風海上及陸上警報，當時風暴中心已北移至馬祖北方約410公里並持續減弱，朝中國大陸移動。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+      "title": "「颱風窩」下週建立 雲嘉以南午後雷雨頻傳為前兆",
+      "dek": "專家分析，有利連續生成熱帶系統的季風低壓環境即將成形，菲律賓以東與南海恐接連出現擾動。",
+      "url": "https://udn.com/news/story/7266/9635812"
     },
     {
       "rank": 5,
-      "title": "「Josie」進入菲律賓責任區後減弱為熱帶性低氣壓",
-      "dek": "颱風海神（菲律賓命名Josie）13、14日短暫進入菲律賓責任區後即減弱，預料轉向東北並離開責任區，未對台灣構成威脅。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/14/2542081/josie-enters-par-weakens-tropical-depression"
+      "title": "熱帶擾動90W滯留丘克島附近 馬里亞納群島升高警戒",
+      "dek": "JTWC將90W發展機率上調至中等，環境有利但環流中心尚未成形，周末起恐衝擊關島天氣。",
+      "url": "https://www.postguam.com/news/local/marianas-on-watch-as-invest-90w-lingers-near-chuuk/article_86884a39-eccc-4826-8d7b-b8f5ad276d2f.html"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴Josie短暫進入菲律賓責任區",
-      "dek": "Josie（海神）行經東維薩亞斯以東約1085公里處後轉向北北東，最終因風切不利於15日減弱為殘留低壓，未曾威脅台灣。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
+      "title": "關島氣象局：90W「值得留意、無須恐慌」",
+      "dek": "當地預報員形容該系統組織鬆散，未來是否轉向關島或北馬里亞納群島仍存在高度不確定性。",
+      "url": "https://www.nminewsservice.com/invest-90w-marianas-watch/"
     },
     {
       "rank": 7,
-      "title": "巴威颱風造成全台停電17萬7485戶 受傷人數增至87人",
-      "dek": "聯合新聞網報導，巴威颱風影響期間全台一度累計17萬7485戶停電，受傷人數攀升至87人，多因跌倒與飛落物所致，台灣無人罹難。",
-      "url": "https://udn.com/news/story/124945/9621601"
+      "title": "颱風巴威減弱入陸 氣象署解除陸海警報",
+      "dek": "巴威7月13日於中國內陸持續減弱，中央氣象署當天上午解除全部颱風警報，迄今未再發布新警。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
     },
     {
       "rank": 8,
-      "title": "巴威颱風已釀87人受傷、1456件災情 1652人一度撤離安置",
-      "dek": "太報彙整指出，巴威颱風造成87人受傷、1456件災情通報、1652人撤離安置及720件路樹倒塌，災情集中北中南多個縣市。",
-      "url": "https://www.taisounds.com/news/content/96/267021"
+      "title": "東太平洋熱帶風暴愛麗達增強 惟遠洋無陸地威脅",
+      "dek": "愛麗達為目前全球唯一活躍命名氣旋，預估將北轉減弱、轉性為溫帶低壓，與台灣無關。",
+      "url": "https://www.accuweather.com/en/hurricane/east-pacific/elida-2026"
     },
     {
       "rank": 9,
-      "title": "超級颱風巴威在西太平洋各地留下死傷與破壞痕跡",
-      "dek": "World Socialist Web Site報導，巴威造成菲律賓至少17至23人罹難、中國疏散約280萬人卻無人罹難，台灣則無死亡但約134人受傷。",
-      "url": "https://www.wsws.org/en/articles/2026/07/16/eyne-j16.html"
+      "title": "熱帶風暴海神迅速減弱為低壓殘留",
+      "dek": "菲律賓大氣地球物理暨天文服務署指出，系統進入責任區僅13.5小時便瓦解，環境條件不利再度組織。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-lpa-update-pagasa-forecast-july-14-2026-11am/"
     },
     {
       "rank": 10,
-      "title": "氣象署估下半年3至5颱影響台灣 7月颱風較活躍 巨浪告警上路",
-      "dek": "氣象署下半年展望預估3至5個颱風將接近台灣，受聖嬰現象影響強颱比例恐提高，7月最為活躍，並將推出新版巨浪警戒機制。",
-      "url": "https://udn.com/news/story/7266/9597295"
+      "title": "氣象署示警2026年颱風季恐偏少 但強颱比例可能提高",
+      "dek": "受聖嬰現象影響，預估全年侵台颱風數低於至正常，惟生成位置偏東恐使成熟系統強度增強。",
+      "url": "https://www.taiwannews.com.tw/news/6392901"
     }
   ]
 }
