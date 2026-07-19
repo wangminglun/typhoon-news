@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T21:06:00+08:00",
+  "generated_at": "2026-07-19T23:07:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署目前未發布任何海上或陸上颱風警報，上一波警報（超級颱風寶發）已於七月十二日至十三日陸續解除；氣象單位現正觀察本週末可能於菲律賓外海成形的新一波熱帶擾動，對台威脅評估目前偏低。",
+  "alert_text": "中央氣象署目前未發布任何海上或陸上颱風警報，上一波警報已於七月十三日全數解除；氣象單位現正觀察本週末可能於菲律賓以東海域成形的新一波熱帶擾動，對台威脅評估目前偏低。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市府曾於七月十一日傍晚起因寶發颱風宣布停班停課，隨警報於七月十二、十三日解除已恢復正常，截至七月十九日未受任何現行系統直接影響，預期本週末菲律賓外海擾動亦不至於波及當地。"
+    "text": "目前無直接影響：台中未受任何現行颱風系統影響，也未發布停班停課。氣象單位預估本週末菲律賓外海若有熱帶擾動成形，外圍水氣仍可能助長台灣西半部（含台中）午後雷陣雨強度，但屬預報性觀察，非即時衝擊。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "巨颱寶發過境後 台灣暫獲喘息 但南方海面已有新擾動醞釀",
-    "dek": "繼三十年來最大颱風寶發重創北台灣後，中央氣象署已解除所有陸海警報，但預報員正密切注意周末可能在菲律賓外海生成、進而牽動台灣東南部雨勢的新一波熱帶擾動。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+    "title": "颱風警報全面解除 氣象署緊盯周末菲律賓外海熱帶擾動",
+    "dek": "中央氣象署證實台灣目前無颱風警報生效，但多位氣象專家指出，一股醞釀中的熱帶擾動可能於本週末在菲律賓以東海域組織成形，並在下週初掠過台灣以南海域。",
+    "url": "https://www.chinatimes.com/realtimenews/20260719001208-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署解除寶發警報 風暴轉向東移",
-      "dek": "隨著超級颱風寶發減弱並轉向中國大陸東部海域，中央氣象署解除所有陸上與海上颱風警報，台灣直接受威脅期正式結束。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
-    },
-    {
-      "rank": 2,
-      "title": "寶發重創北台灣 傷亡逾百、多處停電",
-      "dek": "消防單位統計顯示，超級颱風寶發帶來的豪雨與淹水已造成逾百人受傷，北台灣多個縣市陷入大規模停電。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/12/2003860604"
-    },
-    {
-      "rank": 3,
-      "title": "寶發來襲前夕 全台多縣市停班停課、海上警報生效",
-      "dek": "氣象署發布海上颱風警報後，北北基桃竹苗與花東、宜蘭等地陸續宣布停班停課，台中、南投也自傍晚起跟進。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
-    },
-    {
-      "rank": 4,
-      "title": "三十年最大颱風逼近 交通航班與觀光景點全面喊卡",
-      "dek": "超級颱風寶發挾史上最大暴風圈逼近台灣之際，各地渡輪停駛、觀光景點關閉，氣象署警告北部山區恐降下逼近900毫米豪雨。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/09/2003860478"
-    },
-    {
-      "rank": 5,
-      "title": "三十年最大颱風壓境 台灣數百人疏散、軍方大規模動員",
-      "dek": "面對三十餘年來規模最大的颱風寶發，台灣當局疏散數百名居民，並派出近三萬名官兵與大批救援裝備待命。",
-      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
-    },
-    {
-      "rank": 6,
-      "title": "今年第11號颱風海神生成 預估不影響台灣海域",
-      "dek": "颱風海神在菲律賓以東海面形成後路徑偏北，預計7月16日前減弱為熱帶低氣壓，對台灣無直接影響。",
-      "url": "https://hkcd.com/content_app/2026-07/13/content_8764512.html"
-    },
-    {
-      "rank": 7,
-      "title": "輕度颱風梅莎重創海南、廣西與越南 未波及台灣",
-      "dek": "颱風梅莎接連登陸海南島與廣西、越南邊境，為當地帶來嚴重洪災，但路徑偏南，台灣未受直接影響。",
-      "url": "https://zh.wikipedia.org/zh-tw/%E5%BC%B7%E7%83%88%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%BE%8E%E8%8E%8E%E5%85%8B_(2026%E5%B9%B4)"
-    },
-    {
-      "rank": 8,
-      "title": "週末菲律賓外海恐有新擾動 花東防午後短延時豪雨",
-      "dek": "氣象專家吳聖宇指出，本週末菲律賓附近可能發展出新熱帶擾動，外圍水氣恐使花東、恆春半島降雨機率上升。",
-      "url": "https://www.ettoday.net/news/20260719/3203758.htm"
-    },
-    {
-      "rank": 9,
-      "title": "又有新颱風跡象？專家解析可能路徑與對台影響",
-      "dek": "專家分析指出，本週末季風擾動可能在菲律賓以東發展並轉向南海，對台灣直接威脅目前評估偏低，但仍待觀察。",
+      "title": "新一波熱帶擾動醞釀中 專家研判周末成形、路徑機率偏低",
+      "dek": "氣象達人吳聖宇分析，菲律賓以東擾動本週末恐組織成形，直接侵台機率目前不高，但外圍水氣可能增加東南部降雨與西部午後雷陣雨。",
       "url": "https://www.chinatimes.com/realtimenews/20260719001208-260405"
     },
     {
+      "rank": 2,
+      "title": "菲律賓外海醞釀新系統 專家持續追蹤可能路徑",
+      "dek": "針對同一股尚未成形的熱帶擾動，多方預測其生成時機與進入南海後的路徑仍存在不確定性。",
+      "url": "https://www.ettoday.net/news/20260719/3203708.htm"
+    },
+    {
+      "rank": 3,
+      "title": "尚未成颱 水氣先行恐為台灣三地帶來強降雨",
+      "dek": "氣象單位指出，即便該系統未直接侵台，遞增的水氣輸送已可能為台灣局部地區帶來突發性強降雨。",
+      "url": "https://news.tvbs.com.tw/life/3261479"
+    },
+    {
+      "rank": 4,
+      "title": "季風低壓槽增強在即 專家：月底前恐有颱風生成",
+      "dek": "隨太平洋高壓本週持續向西伸展，專家表示，菲律賓外海的季風槽可望更趨組織化，並提出對台灣可能的影響評估。",
+      "url": "https://news.ttv.com.tw/news/11507190000700W"
+    },
+    {
+      "rank": 5,
+      "title": "七月底前颱風機率不低 專家揭可能路徑走向",
+      "dek": "儘管具體系統尚未成形，氣象專家指出7月底前出現颱風的機率存在，路徑大致沿高壓外圍朝菲律賓或台灣以東海域移動。",
+      "url": "https://www.chinatimes.com/realtimenews/20260718001759-260405"
+    },
+    {
+      "rank": 6,
+      "title": "「颱風窩」下周恐成形 專家：熱帶擾動可能接連發展",
+      "dek": "隨太平洋高壓增強，專家指出菲律賓周邊海域下周可能形成有利多個熱帶擾動相繼生成的環境。",
+      "url": "https://udn.com/news/story/7266/9636781"
+    },
+    {
+      "rank": 7,
+      "title": "墨西哥灣91L擾動區受關注 一旦成形將命名為Bertha",
+      "dek": "美國國家颶風中心研判墨西哥灣東北部一處低壓區未來兩天內有八成機率發展成熱帶氣旋。",
+      "url": "https://www.kbtx.com/2026/07/19/gulf-weather-alert-monitoring-invest-91l/"
+    },
+    {
+      "rank": 8,
+      "title": "NHC：墨西哥灣91L擾動區恐將很快發展為熱帶低壓",
+      "dek": "美國國家颶風中心表示熱帶低壓可能即將形成，空軍獵風飛機已排定偵察任務，沿岸多州近日將面臨強降雨。",
+      "url": "https://www.fox35orlando.com/news/invest-91l-update-high-chance-tropical-depression-forms-soon-gulf-nhc-says"
+    },
+    {
+      "rank": 9,
+      "title": "熱帶風暴Elida生成 聖嬰現象助長東太平洋活躍風季",
+      "dek": "Elida在下加利福尼亞半島南方海域形成並預計增強為颶風，成為東太平洋今年第五個獲命名風暴，惟不致侵襲陸地。",
+      "url": "https://www.foxweather.com/weather-news/tropical-storm-elida-el-nino-active-eastern-pacific-hurricane-season"
+    },
+    {
       "rank": 10,
-      "title": "墨西哥灣熱帶擾動91L成形 佛州恐迎豪雨、可能發展為熱帶風暴Bertha",
-      "dek": "美國國家颶風中心將佛州外海一熱帶擾動編號91L，預估四至五成機率增強為熱帶風暴Bertha，坦帕灣一帶已預警豪雨將至。",
-      "url": "https://www.foxweather.com/weather-news/invest-91l-declared-gulf-likely-bring-heavy-downpours-florida"
+      "title": "馬里安納群島戒備 90W擾動區在丘克州附近徘徊",
+      "dek": "聯合颱風警報中心已將密克羅尼西亞丘克州附近的90W擾動區列入熱帶氣旋形成警戒名單，當地正密切觀察其後續走向。",
+      "url": "https://www.postguam.com/news/local/marianas-on-watch-as-invest-90w-lingers-near-chuuk/article_86884a39-eccc-4826-8d7b-b8f5ad276d2f.html"
     }
   ]
 }
