@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-19T13:05:00+08:00",
+  "generated_at": "2026-07-19T14:18:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已解除所有颱風警報，颱風巴維侵襲後西北太平洋暫無新系統成形，目前對台灣並無任何海上或陸上颱風警報。",
+  "alert_text": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但西南季風已為中南部帶來大雨與豪雨特報，氣象專家同時示警七月底前恐有新颱風醞釀成形。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區最近一次因颱風停班停課，是七月十一日颱風巴維侵襲期間；目前並無任何活躍系統對台中構成風雨或停班停課風險。"
+    "text": "目前無直接影響。台中市已列入中央氣象署大雨特報範圍，七月十九、二十日有午後雷陣雨及局部大雨風險，但此為季節性西南氣流所致，非颱風直接影響，市府目前未因此發布停班停課。"
   },
   "quick_links": [
     { "label": "🌀 颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -12,70 +12,70 @@
     { "label": "⚠️ 颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "西北太平洋暫無風暴 台灣在巴維風災善後中迎來罕見平靜",
-    "dek": "中央氣象署已解除所有颱風警報，原本被視為接替巴維的「海神」形成不到一天即消散，但預報機構警告，今年颱風季恐比正常年份活躍近四成。",
-    "url": "https://focustaiwan.tw/society/202607120001"
+    "title": "颱風空窗期未歇 西南氣流轉為台灣天氣主角 專家示警月底恐有新颱風生成",
+    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但西南季風為中南部帶來豪雨特報，氣象專家同時緊盯菲律賓以東海域，研判七月底前恐有新颱風醞釀成形並可能趨向台灣。",
+    "url": "https://udn.com/news/story/7266/9635516"
   },
   "items": [
     {
       "rank": 1,
-      "title": "巴維減弱西移 中央氣象署解除全台陸海颱風警報",
-      "dek": "隨著巴維風力減弱、暴風圈遠離台灣海域，氣象署結束了自七月九日以來的警戒狀態。",
-      "url": "https://focustaiwan.tw/society/202607120001"
+      "title": "西南風水氣多 午後雷陣雨開轟 專家：七月底前有颱風生成機會",
+      "dek": "聯合新聞網報導指出，菲律賓以東海域低壓環境有利熱帶擾動發展，氣象專家研判七月底前可能有颱風生成。",
+      "url": "https://udn.com/news/story/7266/9635516"
     },
     {
       "rank": 2,
-      "title": "巴維侵台致八十七人受傷 逾萬四千人一度撤離",
-      "dek": "颱風掠過台灣北部期間造成大規模停電與人員撤離，台中等九縣市宣布停班停課一天。",
-      "url": "https://focustaiwan.tw/society/202607110016"
+      "title": "南部地區十九日不定時降雨 下週留意熱帶擾動",
+      "dek": "中央社報導中央氣象署預測南部十九、二十日將有間歇性陣雨，並提醒關島、菲律賓以東海域及南海下週可能有熱帶擾動發展。",
+      "url": "https://www.cna.com.tw/news/ahel/202607180172.aspx"
     },
     {
       "rank": 3,
-      "title": "警報全面解除 巴維持續北移損傷統計增至一百三十四人",
-      "dek": "後續追蹤報導顯示，隨著巴維減弱轉向中國大陸，全台受傷人數已上修，其中包括六名外籍人士。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
+      "title": "快訊／雨彈升級 十七縣市豪大雨特報",
+      "dek": "ETtoday新聞雲報導中央氣象署對南投、雲林發布豪雨特報，另十五縣市含台中發布大雨特報，十九、二十日降雨範圍最廣。",
+      "url": "https://www.ettoday.net/news/20260718/3203579.htm"
     },
     {
       "rank": 4,
-      "title": "超級颱風巴維增強為今年第三個五級風暴",
-      "dek": "巴維經歷爆發性增強，最大持續風速逼近每小時二百七十公里，登陸中國前躋身今年最強風暴之列。",
-      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
+      "title": "月底有颱風機率 專家曝路徑：可能朝台灣靠近",
+      "dek": "中時新聞網報導氣象專家分析新颱風可能沿副熱帶高壓外圍發展，其中一說認為系統七月二十五、二十六日左右可能通過台灣南方海域。",
+      "url": "https://www.chinatimes.com/realtimenews/20260718001759-260405"
     },
     {
       "rank": 5,
-      "title": "巴維暴風圈擴張至香港面積逾千倍 中國東岸航班大亂",
-      "dek": "逼近中國沿海之際，巴維的七級風暴風半徑達到近二十五年少見的規模，造成大範圍航班取消。",
-      "url": "https://www.scmp.com/news/china/politics/article/3360056/flights-disrupted-ex-super-typhoon-bavi-continues-towards-chinas-coast"
+      "title": "午後雷雨型態還要持續一週 專家：七月下旬新颱發展機率高",
+      "dek": "自由時報報導西南季風影響下的午後雷陣雨型態預計再持續約一週，多位專家看法一致認為七月下旬新颱風發展機率偏高。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5505603"
     },
     {
       "rank": 6,
-      "title": "第十一號颱風海神生成 氣象署：對台無直接影響",
-      "dek": "海神因太平洋高壓阻擋而遠離台灣，形成不到一天即減弱消散。",
-      "url": "https://www.cna.com.tw/news/ahel/202607130045.aspx"
+      "title": "準「紅霞」消失了！專家示警：月底至少一、二個颱風",
+      "dek": "壹蘋新聞網報導原本可能成為第十二號颱風「紅霞」的熱帶性低氣壓未完全組織便消散，專家預期七月底前至少再有一至兩個颱風生成。",
+      "url": "https://news.nextapple.com/life/20260717/A995724BBDE1D14B1D5FEA627C172D37"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴艾莉達於墨西哥外海生成 預測增強為颶風",
-      "dek": "該系統預計持續行經東太平洋外海，僅為下加利福尼亞與南加州沿岸帶來較大湧浪。",
-      "url": "https://watchers.news/2026/07/15/tropical-depression-five-e-forms-forecast-intensify-hurricane/"
+      "title": "高溫37°C午後大雷雨！紅霞颱風最快今生成 專家揭路徑：又一個短命颱",
+      "dek": "三立新聞網報導關島附近熱帶系統一度被視為紅霞颱風雛形，專家分析研判其恐與海神颱風類似，維持時間短暫且不致直接影響台灣。",
+      "url": "https://www.setn.com/news/1873848"
     },
     {
       "rank": 8,
-      "title": "關島氣象局：密克羅尼西亞擾動「90W」值得留意但尚不足憂",
-      "dek": "楚克群島附近一擾動雖具備發展條件，但因低層環流未成形，近期發展仍具不確定性。",
-      "url": "https://www.nminewsservice.com/invest-90w-marianas-watch/"
+      "title": "十一號颱風海神生成 最新路徑、影響出爐",
+      "dek": "聯合新聞網報導中央氣象署宣布本季第十一號颱風海神生成，預測路徑朝北北西前進，對台灣無直接影響。",
+      "url": "https://udn.com/news/story/7266/9623878"
     },
     {
       "rank": 9,
-      "title": "受強聖嬰影響 熱帶風暴風險機構上修二零二六年颱風季預測",
-      "dek": "預測機構將今年颱風季活躍度上修至長期平均近一點四倍，並指今年開局已異常猛烈。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "突然形成的颱風「海神」活不久！氣象署：南海也有熱帶擾動發展",
+      "dek": "自由時報報導氣象署指出海神颱風因巴唯過境後海溫偏低及風切影響難以維持強度，同時南海另有熱帶擾動朝中國大陸南部移動。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5503391"
     },
     {
       "rank": 10,
-      "title": "專家預估今年將有三至五個風暴系統直接影響台灣",
-      "dek": "儘管全年颱風生成數偏多，氣象專家指出直接侵襲台灣的次數未必顯著高於常年。",
-      "url": "https://www.taiwannews.com.tw/news/6392901"
+      "title": "Super Typhoon Bavi brings destruction to Guam and surrounding Pacific islands",
+      "dek": "NPR回顧報導超強颱風巴唯以近五級強度重創關島、羅塔島與塞班島，其後續影響促使台灣發布陸上颱風警報，已於七月十二日解除。",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
     }
   ]
 }
