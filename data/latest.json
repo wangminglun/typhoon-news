@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T11:10:00+08:00",
+  "generated_at": "2026-07-20T12:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於七月十二日上午八時三十分解除颱風巴威留下的所有海上及陸上颱風警報，截至七月二十日仍未發布任何新的颱風警報，僅西北太平洋有一熱帶擾動待觀察後續發展。",
+  "alert_desc": "中央氣象署已於七月十三日上午解除颱風巴威留下的所有海上及陸上颱風警報，截至七月二十日仍未發布任何新的颱風警報，僅西太平洋關島至菲律賓一帶有熱帶擾動待觀察後續發展。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，僅需因應西南季風帶來的高溫與午後雷陣雨，市府並未發布任何風雨警報或停班停課措施。"
+    "text": "台中目前無颱風直接影響。市府自十日巴威來襲期間發布停班停課後，近日並無新的應變公告，僅需因應例行性午後雷陣雨。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風季暫歇 台灣悶熱迎烈陽 大西洋風暴逼近美國灣岸",
-    "dek": "巴威颱風遠離後台灣暫無警報壓力，但西北太平洋今年風暴生成速度創40年新高，全球氣象焦點轉向墨西哥灣新生風暴。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5510961"
+    "title": "颱風空窗期持續 氣象署密切觀測關島至菲律賓新擾動",
+    "dek": "巴威颱風重創台灣後已成過往，海神、紅霞相繼消散，但氣象專家警告西太平洋熱帶擾動活躍期可能再起，全球其他海域風暴則已接連生成。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
   },
   "items": [
     {
       "rank": 1,
-      "title": "全台悶熱飆37度 專家緊盯太平洋新擾動",
-      "dek": "中央氣象署預報高溫特報頻發，遠洋熱帶擾動具發展潛力，路徑仍高度不確定。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5510961"
+      "title": "氣象署解除警報 巴威颱風轉向中國大陸",
+      "dek": "陸警與海警分別於13日上午解除，結束侵台風場創三十年紀錄的巴威颱風事件。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/13/2003860666"
     },
     {
       "rank": 2,
-      "title": "熱帶低氣壓增強 波莎恐周一成形",
-      "dek": "墨西哥灣熱帶系統預計增強為今年第二個命名風暴，恐為美國灣岸帶來強降雨與洪災。",
-      "url": "https://weather.com/2026/07/19/storms/hurricane/tropical-depression-storm-bertha-florida-gulf-coast"
+      "title": "巴威颱風完整回顧：三十年來侵台風場最大颱風",
+      "dek": "巴威一度逼近最強等級，重創台灣北部山區並造成134人受傷，最終在中國大陸登陸。",
+      "url": "https://en.wikipedia.org/wiki/Typhoon_Bavi_(2026)"
     },
     {
       "rank": 3,
-      "title": "CNN：墨西哥灣風暴恐釀沿岸洪患",
-      "dek": "CNN報導，熱帶系統預計週中逼近路易斯安那州，恐引發風暴潮與海岸淹水。",
-      "url": "https://www.cnn.com/2026/07/19/weather/tropical-storm-bertha-depression-climate"
+      "title": "輕颱「海神」生成僅30小時即消散",
+      "dek": "專家指出，巴威攪動的冷水域使海神缺乏增強條件，對台灣與中國均無影響。",
+      "url": "https://newtalk.tw/news/view/2026-07-14/1046949"
     },
     {
       "rank": 4,
-      "title": "大西洋反聖嬰現身 颶風季恐轉冷清",
-      "dek": "分析指出，罕見大西洋反聖嬰疊加強聖嬰現象，正壓抑大西洋風暴發展。",
-      "url": "https://watchers.news/2026/07/18/rare-atlantic-nina-develops-as-strengthening-el-nino-points-to-quieter-2026-atlantic-hurricane-season/"
+      "title": "熱帶低壓減弱 「紅霞」颱風命名未能成真",
+      "dek": "原有機會成為第12號颱風的系統，因發展條件不佳於17日減弱為一般低壓。",
+      "url": "https://www.ctwant.com/article/489666/"
     },
     {
       "rank": 5,
-      "title": "11號颱風海神生成又消散",
-      "dek": "中央氣象署曾示警海神颱風生成，但受風切影響數日後即減弱消失，未威脅台灣。",
-      "url": "https://money.udn.com/money/amp/story/122328/9623878"
+      "title": "專家示警：西太平洋熱帶擾動活躍期展開",
+      "dek": "AI模式顯示關島至菲律賓海域具備發展條件，但路徑與強度仍高度不確定。",
+      "url": "https://www.chinatimes.com/realtimenews/20260720000907-260405"
     },
     {
       "rank": 6,
-      "title": "颱風巴威登陸中國東部 近兩百萬人撤離",
-      "dek": "半島電視台報導，巴威為今年侵襲中國最強風暴，登陸前已減弱為熱帶風暴等級。",
-      "url": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china"
+      "title": "墨西哥灣熱帶系統成形 恐為颶風季第二個命名風暴",
+      "dek": "系統預計增強為熱帶風暴「柏莎」，將為美國灣岸帶來強降雨與淹水風險。",
+      "url": "https://www.cnn.com/2026/07/19/weather/tropical-storm-bertha-depression-climate"
     },
     {
       "rank": 7,
-      "title": "巴威來襲 氣象署發陸上警報",
-      "dek": "台北時報報導，中央氣象署預警山區恐降下900毫米豪雨，強陣風威脅北台灣。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
+      "title": "熱帶風暴「柏莎」本週恐於墨西哥灣成形",
+      "dek": "佛羅里達狹長地帶已發布熱帶風暴監視，強風切預料將限制其增強幅度。",
+      "url": "https://weather.com/2026/07/19/storms/hurricane/tropical-depression-storm-bertha-florida-gulf-coast"
     },
     {
       "rank": 8,
-      "title": "巴威襲台 20縣市停班停課",
-      "dek": "除台東、金門外，全台多數縣市因應颱風豪雨宣布7月10日至11日停止上班上課。",
-      "url": "https://www.ettoday.net/news/20260710/3198883.htm"
+      "title": "美國國家颶風中心緊盯墨西哥灣系統增強",
+      "dek": "佛州大彎區面臨風暴潮與強陣風威脅，系統預期發展為熱帶風暴柏莎。",
+      "url": "https://www.forbes.com/sites/marshallshepherd/2026/07/19/national-hurricane-center-watching-system-gain-strength-in-the-gulf/"
     },
     {
       "rank": 9,
-      "title": "超級颱風巴威重創關島與北馬里亞納",
-      "dek": "NPR報導，巴威以時速290公里強風橫掃關島，造成停電、淹水與供水設施受損。",
-      "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
+      "title": "颶風「艾莉達」達二級強度後轉趨減弱",
+      "dek": "東太平洋風暴曾逼近時速161公里，目前於較冷海域減弱，對墨西哥本土無登陸威脅。",
+      "url": "https://watchers.news/2026/07/15/tropical-depression-five-e-forms-forecast-intensify-hurricane/"
     },
     {
       "rank": 10,
-      "title": "西北太平洋颱風季創40年來最活躍",
-      "dek": "保險期刊報導，強聖嬰效應推升今年颱風生成數量，恐為1976年以來最活躍季節。",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/13/869630.htm"
+      "title": "強聖嬰效應推升今年東太平洋與大西洋風暴活動",
+      "dek": "分析指出，兩大洋盆同步活躍，反襯台灣周邊目前的平靜局面。",
+      "url": "https://yaleclimateconnections.org/2026/07/the-eastern-pacific-is-a-tropical-storm-factory-and-the-atlantic-basin-shows-signs-of-life/"
     }
   ]
 }
