@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T19:08:00+08:00",
+  "generated_at": "2026-07-20T20:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於7月12日解除颱風巴威的海上與陸上警報，全台目前未發布任何颱風警報；氣象專家示警，西太平洋7月下旬將進入熱帶擾動活躍期，新系統能否成颱、能否影響台灣仍待觀察。",
+  "alert_desc": "中央氣象署證實，颱風百合（Bavi）的海上與陸上颱風警報已於7月12日上午8時30分全數解除，全台目前未發布任何颱風警報；氣象專家正密切觀察關島至菲律賓東側的熱帶擾動，研判最快七月底前可能發展成第12號颱風。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中市於本月10日晚間至11日曾因颱風巴威一度停班停課，惟巴威已於12日遠離台灣並在中國境內減弱消散；截至7月20日並無任何熱帶系統對台中構成停班停課或風雨警戒的直接威脅，僅需留意專家示警的7月下旬西太平洋熱帶擾動活躍期後續發展。"
+    "text": "目前無直接影響：台中市現為平常夏季對流性天氣，午後雷陣雨頻繁，氣溫約攝氏三十二至三十五度，並無停班停課措施；僅需留意氣象專家示警的關島至菲律賓東側熱帶擾動後續發展是否成颱、進而影響台灣。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "無颱風逼近台灣 但氣象專家示警西太平洋將進入熱帶擾動活躍期",
-    "dek": "中央氣象署已解除颱風巴威警報、台灣目前未面臨任何風暴威脅，但多位氣象專家指出，七月下旬西太平洋可能醞釀出新的熱帶擾動，其後續發展仍待觀察。",
-    "url": "https://www.chinatimes.com/realtimenews/20260720000907-260405"
+    "title": "颱風警報全數解除 台灣進入觀察期，下一個熱帶系統鎖定關島至菲律賓東側",
+    "dek": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，但氣象專家正密切觀察一個位於關島至菲律賓東側的熱帶擾動，研判其最快可能在七月底前發展成今年第十二個颱風，部分模式甚至顯示路徑有機會逼近台灣。",
+    "url": "https://www.nownews.com/news/6857859"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中時新聞網：氣象專家示警 西太平洋進入熱帶擾動活躍期",
-      "dek": "林得恩分析指出，關島至菲律賓以東海域風切減弱、海洋熱含量升高，有利新擾動形成，但生成地點、強度與路徑仍高度不確定。",
-      "url": "https://www.chinatimes.com/realtimenews/20260720000907-260405"
+      "title": "專家示警：七月底前不排除新颱風生成，路徑恐逐漸接近台灣",
+      "dek": "氣象觀測顯示關島至菲律賓東側擾動持續發展，北台灣本週午後雷陣雨頻密，但目前尚無颱風警報。",
+      "url": "https://www.nownews.com/news/6857859"
     },
     {
       "rank": 2,
-      "title": "壹蘋新聞網：午後雷雨趨緩 新熱帶擾動接棒 7月底前恐生颱風",
-      "dek": "氣象單位預期新的熱帶擾動將在關島、菲律賓一帶成形，颱風是否生成及其路徑仍待進一步觀察。",
-      "url": "https://news.nextapple.com/life/20260720/16655C5B3819C507AC1671C7CA2F2EEC"
+      "title": "西北太平洋進入活躍期，關島至菲律賓東側低壓區具颱風發展潛力",
+      "dek": "中時新聞網報導，氣象專家指出當地風切偏弱、海洋熱含量偏高，系統最快月底前可能增強為颱風。",
+      "url": "https://www.chinatimes.com/realtimenews/20260720000907-260405"
     },
     {
       "rank": 3,
-      "title": "TVBS新聞網：專家研判熱帶擾動恐於週末接近菲律賓、轉向南海",
-      "dek": "林得恩分析西北太平洋進入熱帶擾動活躍期，系統預估7月25、26日左右接近菲律賓後轉向海南島方向。",
-      "url": "https://news.tvbs.com.tw/life/3262080"
-    },
-    {
-      "rank": 4,
-      "title": "中時新聞網：專家示警月底恐有新颱風 部分模式路徑指向台灣",
-      "dek": "分析指出7月底前生成新颱風的機率存在，部分模式路徑顯示系統可能朝台灣靠近，惟預測不確定性仍高。",
+      "title": "月底前恐生成新颱風，專家研判路徑可能逼近台灣",
+      "dek": "較早發布的分析報導首度點出西北太平洋擾動發展跡象，為本週後續預報揭開序幕。",
       "url": "https://www.chinatimes.com/realtimenews/20260718001759-260405"
     },
     {
+      "rank": 4,
+      "title": "輕颱海神生成不到一天即消散，未對台灣構成威脅",
+      "dek": "中央氣象署證實第十一號颱風因強烈風切迅速減弱，並已撤除相關颱風專頁。",
+      "url": "https://newtalk.tw/news/view/2026-07-14/1046949"
+    },
+    {
       "rank": 5,
-      "title": "weather.com：熱帶低氣壓於墨西哥灣醞釀 本週恐增強為熱帶風暴柏莎",
-      "dek": "佛羅里達州狹長地帶已發布熱帶風暴觀察，預估最多可能帶來8吋降雨及1至3呎風暴潮。",
-      "url": "https://weather.com/2026/07/19/storms/hurricane/tropical-depression-storm-bertha-florida-gulf-coast"
+      "title": "台灣今年颱風季創四十年來最活躍紀錄，年底前恐再迎五個系統",
+      "dek": "台北時報季節展望報導指出，西北太平洋今年生成速度為一九七六年以來最快。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     },
     {
       "rank": 6,
-      "title": "CNN：墨西哥灣熱帶系統恐帶來強降雨與沿海洪水風險",
-      "dek": "美國國家颶風中心持續追蹤該系統，警告其影響範圍恐自佛羅里達延伸至路易斯安那州與德州沿岸。",
-      "url": "https://www.cnn.com/2026/07/19/weather/tropical-storm-bertha-depression-climate"
+      "title": "回顧颱風百合：數十年來最大颱風重創台灣，數百人疏散",
+      "dek": "七月十日至十二日的強颱曾迫使台中等多縣市停班停課，規模比擬一九八七年強颱。",
+      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
     },
     {
       "rank": 7,
-      "title": "Yahoo奇摩新聞：颱風巴威重創台灣 逾24萬戶停電、113人受傷",
-      "dek": "巴威侵襲全台造成2,156件災情通報，台北市西門町一名12歲男童遭外牆磁磚砸傷。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81-711%E7%81%BD%E6%83%85%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%B8%B0%E5%85%A8%E5%8F%B0%E4%B8%80%E5%BA%A6%E9%80%BE24%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E5%B7%B22156%E4%BB%B6%E7%81%BD%E6%83%85%E3%80%81113%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%8C%97%E5%B8%8212%E6%AD%B2%E7%94%B7%E7%AB%A5%E8%A5%BF%E9%96%80%E7%94%BA%E9%81%AD%E5%90%B9%E8%90%BD%E5%A4%96%E7%89%86%E7%A3%81%E7%A3%9A%E7%A0%B8%E5%82%B7-005313464.html"
+      "title": "墨西哥灣新熱帶低氣壓形成，美國國家颶風中心預期增強為熱帶風暴柏莎",
+      "dek": "系統於佛州巴拿馬城外海生成，預測最快週三前風速增強至每小時六十英里。",
+      "url": "https://weather.com/2026/07/19/storms/hurricane/tropical-depression-storm-bertha-florida-gulf-coast"
     },
     {
       "rank": 8,
-      "title": "自由時報：巴威減弱登陸中國 華東逾280萬人緊急撤離",
-      "dek": "浙江省撤離人數逾220萬，直接經濟損失估計達人民幣8.4億元，約合1.24億美元。",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5503102"
+      "title": "佛羅里達州西北部發布熱帶風暴警戒，系統朝路易斯安那、德州方向移動",
+      "dek": "警戒範圍涵蓋歐克洛科尼河至阿拉巴馬州邊界，當地居民已展開防颱準備。",
+      "url": "https://www.insurancejournal.com/news/southeast/2026/07/20/878135.htm"
     },
     {
       "rank": 9,
-      "title": "NOWnews今日新聞：第11號颱風海神生成即消散 氣象署稱對台無影響",
-      "dek": "海神於菲律賓東南方海面形成後路徑轉向北方，因強風切作用約一天內即迅速消散。",
-      "url": "https://www.nownews.com/amp/news/6856082"
+      "title": "美國國家颶風中心預期系統今日增強為熱帶風暴柏莎",
+      "dek": "西棕櫚灘電視台報導，近期預報顯示系統短期內將持續增強並逼近美國灣岸。",
+      "url": "https://www.wflx.com/2026/07/20/tropics-system-expected-develop-into-tropical-storm-bertha-today/"
     },
     {
       "rank": 10,
-      "title": "中央氣象署：官方颱風警報頁面顯示台灣目前無海上或陸上警報",
-      "dek": "氣象署即時公告確認，自巴威警報解除以來，台灣尚未再面臨新的颱風警戒。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+      "title": "東太平洋風暴頻生，大西洋活躍度轉強，厄爾尼諾牽動雙洋盆氣候格局",
+      "dek": "熱帶風暴弗斯托逼近颶風強度，埃利達持續北移，學者指東西太平洋呈現此消彼長態勢。",
+      "url": "https://yaleclimateconnections.org/2026/07/the-eastern-pacific-is-a-tropical-storm-factory-and-the-atlantic-basin-shows-signs-of-life/"
     }
   ]
 }
