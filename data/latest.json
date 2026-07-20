@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T02:07:00+08:00",
+  "generated_at": "2026-07-21T03:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署及聯合颱風警報中心（JTWC）證實，西北太平洋目前無任何活躍熱帶氣旋，全台未發布任何海上或陸上颱風警報；台灣仍在從超級颱風巴威的重創中復原。",
+  "alert_desc": "中央氣象署尚未對台灣發布任何海上或陸上颱風警報，僅提醒本週末菲律賓東南方熱帶擾動外圍水氣可能影響部分地區。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中未受任何熱帶氣旋影響，今日僅受太平洋高壓籠罩出現高溫及局部午後雷陣雨，與颱風無關，未有停班停課相關訊息。"
+    "text": "目前無颱風直接影響台中，中央氣象署並未發布海上或陸上颱風警報；僅需留意本週末菲律賓東南方熱帶擾動外圍水氣，可能為台中山區帶來局部短暫雷陣雨，暫無停班停課疑慮。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "太平洋風平浪靜、台灣暫無颱風威脅　美國墨西哥灣岸卻迎來熱帶風暴柏莎水患危機",
-    "dek": "儘管西北太平洋目前沒有任何活躍熱帶氣旋，台灣仍在從三十年來最強颱風巴威的重創中復原，而大西洋彼岸的熱帶風暴柏莎正緩慢逼近美國路易斯安那州東南部，恐帶來嚴重淹水與暴潮災情。",
-    "url": "https://focustaiwan.tw/society/202607110016"
+    "title": "台灣暫無颱風威脅　氣象署密切觀測菲律賓東南熱帶擾動，墨西哥灣風暴「柏莎」直逼美國南岸",
+    "dek": "中央氣象署尚未對台灣發布任何海上或陸上颱風警報，但氣象專家提醒西北太平洋恐進入活躍期，與此同時美國國家颶風中心正密切追蹤即將登陸路易斯安那州的熱帶風暴「柏莎」。",
+    "url": "https://www.techtimes.com/articles/321057/20260720/nhc-tropical-storm-bertha-flood-event-not-wind-event-gulf-coast.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風巴威重創台灣　逾八十人受傷、逾萬人撤離",
-      "dek": "中央社報導，三十多年來侵台最強颱風巴威造成八十七人受傷、逾一萬四千人撤離，台灣未傳出死亡案例，桃園機場一度關閉。",
-      "url": "https://focustaiwan.tw/society/202607110016"
-    },
-    {
-      "rank": 2,
-      "title": "巴威登陸中國、菲律賓死亡人數攀升至十八人",
-      "dek": "香港《集誌社》報導，巴威在中國台州登陸前疏散近兩百萬人，菲律賓官方也將相關死亡人數上修至十八人。",
-      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
-    },
-    {
-      "rank": 3,
-      "title": "中央氣象署試辦「巨浪告警」　颱風季主動示警防海邊意外",
-      "dek": "原視新聞網報導，中央氣象署七月起針對六公尺以上海浪推出細胞廣播新機制，盼降低颱風季海岸意外。",
-      "url": "https://news.ipcf.org.tw/205328"
-    },
-    {
-      "rank": 4,
-      "title": "低壓「90W」徘徊丘克州　關島、北馬里亞納群島密切觀察",
-      "dek": "《Post Guam》報導，一個組織鬆散的熱帶擾動在丘克州附近緩慢移動，JTWC評估其發展機率偏低，暫不構成明確威脅。",
-      "url": "https://www.postguam.com/news/local/marianas-on-watch-as-invest-90w-lingers-near-chuuk/article_86884a39-eccc-4826-8d7b-b8f5ad276d2f.html"
-    },
-    {
-      "rank": 5,
-      "title": "JTWC：西北太平洋目前無活躍熱帶氣旋",
-      "dek": "美國聯合颱風警報中心確認，截至七月二十日，西北太平洋洋面上沒有任何活躍颱風，僅有丘克州附近的弱擾動受到追蹤。",
-      "url": "https://www.weather.gov/gum/cyclones"
-    },
-    {
-      "rank": 6,
-      "title": "NOAA預測今年大西洋颶風季偏弱　但警告「只需一個風暴」",
-      "dek": "美國國家海洋暨大氣總署五月預測今年大西洋颶風季活動偏低，但官員提醒偏弱的一年仍可能出現重大登陸災情。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
-    },
-    {
-      "rank": 7,
-      "title": "熱帶低氣壓預計今日增強為熱帶風暴柏莎　威脅墨西哥灣岸",
-      "dek": "美聯社報導，位於佛州外海的熱帶低氣壓預計今天增強為今年大西洋颶風季第二個命名風暴，並朝北墨西哥灣岸移動。",
-      "url": "https://www.wtoc.com/2026/07/20/tropical-storm-bertha-expected-form-today/"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶風暴警戒發布　墨西哥灣岸恐現四英尺暴潮",
-      "dek": "福斯天氣報導，佛羅里達至路易斯安那州沿岸已發布熱帶風暴警戒與暴潮警戒，部分地區雨量恐達八英寸。",
-      "url": "https://www.foxweather.com/weather-news/tropical-depression-forms-tropical-storm-bertha-rain-southeast"
-    },
-    {
-      "rank": 9,
-      "title": "美國國家颶風中心：柏莎是「水患事件、非強風事件」",
-      "dek": "Tech Times報導，NHC強調柏莎主要威脅來自長時間強降雨與淹水，而非其預估僅約五十英里的巔峰風速。",
+      "title": "熱帶低氣壓二號增強為熱帶風暴「柏莎」　恐為墨西哥灣沿岸帶來強降雨",
+      "dek": "美國國家颶風中心表示，這個系統對美國佛州潘漢德爾至墨西哥灣沿岸而言，主要威脅是強降雨與淹水，而非強風。",
       "url": "https://www.techtimes.com/articles/321057/20260720/nhc-tropical-storm-bertha-flood-event-not-wind-event-gulf-coast.htm"
     },
     {
-      "rank": 10,
-      "title": "柏莎以時速三英里龜速前進　預計週三登陸路州東南部",
-      "dek": "紐奧良當地媒體Fox8報導，柏莎移動緩慢，預計週三中午前後於聖伯納教區附近登陸，恐連日為同一地區帶來降雨。",
+      "rank": 2,
+      "title": "「未來的柏莎」預料週三登陸美國路易斯安那州東南部",
+      "dek": "根據美國國家颶風中心最新路徑預測，這個增強中的墨西哥灣風暴可能於週三中午前後在聖伯納德教區附近登陸，並帶來熱帶風暴等級強風、最高4英尺暴潮及2至5英吋降雨。",
       "url": "https://www.fox8live.com/2026/07/20/future-bertha-likely-landfall-se-la-wednesday/"
+    },
+    {
+      "rank": 3,
+      "title": "熱帶風暴「柏莎」預計今日生成　威脅範圍從佛羅里達到德州",
+      "dek": "雅虎新聞氣象小組報導，這個墨西哥灣東側低氣壓預計於7月20日增強為今年大西洋第二個編號風暴「柏莎」，影響範圍將從佛州潘漢德爾延伸至路易斯安那州與德州。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/tropical-storm-bertha-expected-to-form-today-impacts-from-florida-to-louisiana-and-texas-000000910.html"
+    },
+    {
+      "rank": 4,
+      "title": "路易斯安那、密西西比、阿拉巴馬沿岸發布暴潮與熱帶風暴警戒",
+      "dek": "據《時代花絮報》（nola.com）報導，美國國家颶風中心已針對佛州奧克洛克尼河以西至密西西比河口一帶發布熱帶風暴警戒與暴潮警戒，警告恐有最高4英尺暴潮及瞬間洪水。",
+      "url": "https://www.nola.com/news/weather/tropical-storm-louisiana-forecast-bertha/article_4e69dfb1-e2b7-43d2-84c9-bd99e9bca37e.html"
+    },
+    {
+      "rank": 5,
+      "title": "菲律賓東南方熱帶擾動最快週五成形　週末恐為台灣東部帶來降雨",
+      "dek": "《鏡週刊》報導，中央氣象署正密切觀測菲律賓東南方一處熱帶雲系，其路徑傾向通過菲律賓進入南海，對台灣僅有間接影響，東部與恆春半島午後陣雨機率將增加。",
+      "url": "https://www.mirrormedia.mg/story/20260720edi076"
+    },
+    {
+      "rank": 6,
+      "title": "氣象專家示警：七月下旬起熱帶擾動恐轉趨活躍",
+      "dek": "《中時新聞網》引述氣象專家林德恩分析，關島至菲律賓以東海域目前風切弱、海洋熱含量高、高層輻散條件佳，有利熱帶系統發展，但生成位置、強度與路徑仍具高度不確定性。",
+      "url": "https://www.chinatimes.com/realtimenews/20260720000907-260405"
+    },
+    {
+      "rank": 7,
+      "title": "颱風巴威主要威力侵襲台灣　全台幾乎縣市宣布颱風假",
+      "dek": "《台北時報》報導，颱風巴威7月10日至11日對台灣影響最劇，除台東與金門外，全台各縣市皆宣布11日停班停課，北部及中部山區降下豪雨，但暴風中心最終並未直撲台灣本島。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/11/2003860564"
+    },
+    {
+      "rank": 8,
+      "title": "超級颱風巴威重創美屬北馬里亞納群島與關島　為五級強度",
+      "dek": "美國國家公共廣播電台（NPR）報導，巴威以近每小時290公里風速侵襲北馬里亞納群島與關島，暴風眼直接掃過羅塔島，據報是首個以五級強度正面通過當地的颱風，造成大規模停電與基礎設施損壞。",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
+    },
+    {
+      "rank": 9,
+      "title": "熱帶低氣壓「海神」（菲律賓編號Josie）短暫進入菲律賓責任區後迅速減弱",
+      "dek": "菲律賓新聞網站Rappler報導，海神颱風（菲律賓當地命名為Josie）7月14日進入菲律賓大氣責任區，卻在強烈風切影響下不到14小時便減弱為殘留低壓，未對菲律賓與台灣造成明顯影響。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5pm/"
+    },
+    {
+      "rank": 10,
+      "title": "科羅拉多州立大學下修2026年大西洋颶風季預測　聖嬰現象增強是關鍵",
+      "dek": "據Weather.com報導，科羅拉多州立大學熱帶氣象團隊將今年大西洋颶風季預測下修至僅9個編號風暴、4個颶風、1個強烈颶風，若成真將是2014年以來最平靜的一季，與異常活躍的太平洋颱風季形成對比。",
+      "url": "https://weather.com/2026/07/08/storms/hurricane/2026-atlantic-hurricane-season-outlook-csu-july-el-nino"
     }
   ]
 }
