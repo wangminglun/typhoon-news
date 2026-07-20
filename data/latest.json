@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T01:07:00+08:00",
+  "generated_at": "2026-07-21T02:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署證實，全台目前未發布任何海上或陸上颱風警報；氣象專家提醒，關島西南方海面一股熱帶擾動最快本週末增強為颱風，路徑是否影響台灣尚無定論。",
+  "alert_desc": "中央氣象署及聯合颱風警報中心（JTWC）證實，西北太平洋目前無任何活躍熱帶氣旋，全台未發布任何海上或陸上颱風警報；台灣仍在從超級颱風巴威的重創中復原。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中未受颱風警報或停班停課影響，今日僅受季節性高溫及午後雷陣雨影響，與任何熱帶氣旋無關。台中市最近一次因颱風停班停課是巴威颱風期間（7月10日晚間至7月11日），累積雨量達608毫米。"
+    "text": "目前無直接影響：台中未受任何熱帶氣旋影響，今日僅受太平洋高壓籠罩出現高溫及局部午後雷陣雨，與颱風無關，未有停班停課相關訊息。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風警報全數解除 台灣暫獲喘息，但關島外海擾動恐牽動下週末風雨",
-    "dek": "中央氣象署表示，全台目前無颱風警報，但西南季風雨勢未歇，且關島西南方一熱帶擾動最快本週末增強為颱風，路徑仍待觀察，是否影響台灣尚無定論。",
-    "url": "https://news.tvbs.com.tw/life/3262080"
+    "title": "太平洋風平浪靜、台灣暫無颱風威脅　美國墨西哥灣岸卻迎來熱帶風暴柏莎水患危機",
+    "dek": "儘管西北太平洋目前沒有任何活躍熱帶氣旋，台灣仍在從三十年來最強颱風巴威的重創中復原，而大西洋彼岸的熱帶風暴柏莎正緩慢逼近美國路易斯安那州東南部，恐帶來嚴重淹水與暴潮災情。",
+    "url": "https://focustaiwan.tw/society/202607110016"
   },
   "items": [
     {
       "rank": 1,
-      "title": "進入熱帶擾動活躍期 氣象專家：下週末系統恐成颱，但路徑傾向菲律賓、南海",
-      "dek": "氣象達人林得恩表示台灣已進入熱帶擾動活躍期，分析師模式模擬顯示新系統7月25、26日左右較可能偏向南海與海南島而非直撲台灣。",
-      "url": "https://news.tvbs.com.tw/life/3262080"
+      "title": "颱風巴威重創台灣　逾八十人受傷、逾萬人撤離",
+      "dek": "中央社報導，三十多年來侵台最強颱風巴威造成八十七人受傷、逾一萬四千人撤離，台灣未傳出死亡案例，桃園機場一度關閉。",
+      "url": "https://focustaiwan.tw/society/202607110016"
     },
     {
       "rank": 2,
-      "title": "氣象署：關島外海熱帶擾動發展中 未來五天西南季風豪雨不歇",
-      "dek": "中央氣象署指出關島西南方熱帶雲系條件轉佳，本週末前後有望增強為熱帶低壓或颱風，同時西南季風將持續為台灣帶來連日大雨。",
-      "url": "https://www.nownews.com/news/6858178"
+      "title": "巴威登陸中國、菲律賓死亡人數攀升至十八人",
+      "dek": "香港《集誌社》報導，巴威在中國台州登陸前疏散近兩百萬人，菲律賓官方也將相關死亡人數上修至十八人。",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
     },
     {
       "rank": 3,
-      "title": "高溫特報！花蓮橙色燈號警戒 全台嚴防中暑熱傷害",
-      "dek": "中央氣象署20日發布高溫特報，花蓮縣列橙色燈號、新北與彰化為黃色燈號，全台氣溫上看37度，提醒民眾防範熱傷害。",
-      "url": "https://newtalk.tw/news/view/2026-07-20/1048150"
+      "title": "中央氣象署試辦「巨浪告警」　颱風季主動示警防海邊意外",
+      "dek": "原視新聞網報導，中央氣象署七月起針對六公尺以上海浪推出細胞廣播新機制，盼降低颱風季海岸意外。",
+      "url": "https://news.ipcf.org.tw/205328"
     },
     {
       "rank": 4,
-      "title": "颱風巴威警報全數解除 累計134人受傷",
-      "dek": "中央氣象署12日清晨至上午分階段解除巴威颱風陸上及海上警報，颱風減弱為輕颱並遠離後，全台累計134人受傷，其中6人為外籍人士。",
-      "url": "https://focustaiwan.tw/society/202607120001"
+      "title": "低壓「90W」徘徊丘克州　關島、北馬里亞納群島密切觀察",
+      "dek": "《Post Guam》報導，一個組織鬆散的熱帶擾動在丘克州附近緩慢移動，JTWC評估其發展機率偏低，暫不構成明確威脅。",
+      "url": "https://www.postguam.com/news/local/marianas-on-watch-as-invest-90w-lingers-near-chuuk/article_86884a39-eccc-4826-8d7b-b8f5ad276d2f.html"
     },
     {
       "rank": 5,
-      "title": "颱風巴威來勢洶洶 氣象署估雨量上看900毫米、首發「巨浪特報」",
-      "dek": "中央氣象署預測巴威颱風將為北部山區帶來逾900毫米雨量，並首度針對屏東、宜蘭、花蓮、台東沿海發布巨浪特報，浪高恐超過6公尺。",
-      "url": "https://focustaiwan.tw/society/202607090024"
+      "title": "JTWC：西北太平洋目前無活躍熱帶氣旋",
+      "dek": "美國聯合颱風警報中心確認，截至七月二十日，西北太平洋洋面上沒有任何活躍颱風，僅有丘克州附近的弱擾動受到追蹤。",
+      "url": "https://www.weather.gov/gum/cyclones"
     },
     {
       "rank": 6,
-      "title": "台中因應巴威颱風 宣布停止上班上課 累積雨量達608毫米",
-      "dek": "台中市政府因預估山區12小時降雨恐逾300毫米，宣布7月10日傍晚起至隔日全天停止上班上課，最終該市累積雨量達608毫米。",
-      "url": "https://udn.com/news/story/124945/9618444"
+      "title": "NOAA預測今年大西洋颶風季偏弱　但警告「只需一個風暴」",
+      "dek": "美國國家海洋暨大氣總署五月預測今年大西洋颶風季活動偏低，但官員提醒偏弱的一年仍可能出現重大登陸災情。",
+      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
     },
     {
       "rank": 7,
-      "title": "今年第11號颱風「海神」生成 發展潛力有限、無直接威脅台灣",
-      "dek": "氣象署宣布菲律賓以東熱帶低壓增強為今年第11號颱風海神，預期發展有限並持續偏東北移動，暫無直接威脅台灣的疑慮。",
-      "url": "https://udn.com/news/story/7266/9623878"
+      "title": "熱帶低氣壓預計今日增強為熱帶風暴柏莎　威脅墨西哥灣岸",
+      "dek": "美聯社報導，位於佛州外海的熱帶低氣壓預計今天增強為今年大西洋颶風季第二個命名風暴，並朝北墨西哥灣岸移動。",
+      "url": "https://www.wtoc.com/2026/07/20/tropical-storm-bertha-expected-form-today/"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴「柏莎」即將形成 恐為美國灣岸帶來強降雨與淹水威脅",
-      "dek": "CNN報導，美國佛州外海熱帶性低氣壓二號預料增強為今年大西洋首個命名風暴柏莎，恐為墨西哥灣沿岸帶來暴雨及淹水災情。",
-      "url": "https://www.cnn.com/2026/07/19/weather/tropical-storm-bertha-depression-climate"
+      "title": "熱帶風暴警戒發布　墨西哥灣岸恐現四英尺暴潮",
+      "dek": "福斯天氣報導，佛羅里達至路易斯安那州沿岸已發布熱帶風暴警戒與暴潮警戒，部分地區雨量恐達八英寸。",
+      "url": "https://www.foxweather.com/weather-news/tropical-depression-forms-tropical-storm-bertha-rain-southeast"
     },
     {
       "rank": 9,
-      "title": "未來風暴柏莎恐週三登陸路易斯安那州東南部",
-      "dek": "美國當地媒體報導，即將形成的熱帶風暴柏莎預估以每小時約3英里的緩慢速度移動，週三中午前後於紐奧良以東的聖伯納教區附近登陸，最大風速估約50英里。",
-      "url": "https://www.fox8live.com/2026/07/20/future-bertha-likely-landfall-se-la-wednesday/"
+      "title": "美國國家颶風中心：柏莎是「水患事件、非強風事件」",
+      "dek": "Tech Times報導，NHC強調柏莎主要威脅來自長時間強降雨與淹水，而非其預估僅約五十英里的巔峰風速。",
+      "url": "https://www.techtimes.com/articles/321057/20260720/nhc-tropical-storm-bertha-flood-event-not-wind-event-gulf-coast.htm"
     },
     {
       "rank": 10,
-      "title": "美國國家颶風中心：柏莎對灣岸而言是「淹水事件」而非「強風事件」",
-      "dek": "美國國家颶風中心強調熱帶風暴柏莎的主要威脅是強降雨與淹水而非風力，密西西比河口至阿拉巴馬州、佛州邊界一帶恐出現2至4英尺暴潮。",
-      "url": "https://www.techtimes.com/articles/321057/20260720/nhc-tropical-storm-bertha-flood-event-not-wind-event-gulf-coast.htm"
+      "title": "柏莎以時速三英里龜速前進　預計週三登陸路州東南部",
+      "dek": "紐奧良當地媒體Fox8報導，柏莎移動緩慢，預計週三中午前後於聖伯納教區附近登陸，恐連日為同一地區帶來降雨。",
+      "url": "https://www.fox8live.com/2026/07/20/future-bertha-likely-landfall-se-la-wednesday/"
     }
   ]
 }
