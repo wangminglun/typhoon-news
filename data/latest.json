@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T04:06:00+08:00",
+  "generated_at": "2026-07-21T05:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於7月12日解除颱風巴威警報，目前未對台灣發布任何海上或陸上颱風警報，本週天氣以西南季風水氣及午後雷陣雨為主。",
+  "alert_desc": "中央氣象署尚未針對關島西南方發展中的低壓系統發布任何海上或陸上颱風警報，該系統仍處於熱帶擾動的形成前階段。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何現行熱帶系統直接影響；上一次相關停班停課發生於7月10日至12日颱風巴威來襲期間，如今已成過去式。"
+    "text": "台中目前未受任何現行熱帶系統直接影響；上一次相關停班停課發生於7月10日至11日颱風巴威來襲期間，目前天氣主要受西南季風影響，午後有雷陣雨機率。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "目前無颱風警報　台灣轉受西南季風影響　全球熱帶氣旋焦點移向美洲",
-    "dek": "中央氣象署已解除颱風巴威警報，本週台灣天氣改由西南氣流與午後雷陣雨主導，而墨西哥灣、東太平洋接連出現熱帶風暴之際，氣象單位也在觀察下週菲律賓外海是否醞釀新的擾動。",
-    "url": "https://www.cnn.com/2026/07/19/weather/tropical-storm-bertha-depression-climate"
+    "title": "關島西南低壓醞釀增強　氣象署尚未發布颱風警報",
+    "dek": "一股位於關島西南方的低壓系統逐漸組織化，多位氣象專家評估其有機會在本週末發展為熱帶低壓甚至颱風並通過台灣以南海域，但中央氣象署截至目前尚未針對此系統發布任何警報。",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5511030"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴柏莎在墨西哥灣成形　直撲美國灣岸",
-      "dek": "美國國家颶風中心預測，原墨西哥灣熱帶低氣壓將於周一夜間增強為今年大西洋第二個命名風暴，為灣岸帶來暴雨與暴潮。",
-      "url": "https://www.cnn.com/2026/07/19/weather/tropical-storm-bertha-depression-climate"
+      "title": "關島西南方低壓系統逐漸發展　颱風論壇：未來有機會增強成颱",
+      "dek": "隨副熱帶高壓西伸、環境條件轉為有利，台灣颱風論壇評估關島西南低壓有機會於週末前增強為熱帶低壓或颱風。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5511030"
     },
     {
       "rank": 2,
-      "title": "佛羅里達狹長地帶發布熱帶風暴監視　柏莎逐漸成形",
-      "dek": "隨著系統逼近，佛州潘漢德爾沿岸至路易斯安那邊界已列入監視範圍，當局警告最多8英寸降雨恐引發瞬間洪水。",
-      "url": "https://www.insurancejournal.com/news/southeast/2026/07/20/878135.htm"
+      "title": "新一波颱風活躍期來了！低壓系統「這週」恐成颱　最新預測路徑曝光",
+      "dek": "Newtalk新聞報導指出新一波颱風活躍期可能展開，關島西南低壓系統本週有機會成颱，部分預測模式顯示路徑偏向菲律賓呂宋島北部。",
+      "url": "https://newtalk.tw/news/view/2026-07-20/1048261"
     },
     {
       "rank": 3,
-      "title": "熱帶風暴佛斯托在墨西哥太平洋岸生成　預料快速增強為颶風",
-      "dek": "國家颶風中心預測佛斯托將於週三前達二級颶風強度，雖不威脅人口密集海岸，卻已在南加州掀起危險激浪。",
-      "url": "https://www.techtimes.com/articles/321047/20260720/tropical-storm-fausto-reach-category-two-midweek-hazardous-surf-hitting-california-now.htm"
+      "title": "7月下旬恐有颱風　氣象專家：熱帶擾動活躍期開始",
+      "dek": "中時新聞網引述氣象專家分析，七月下旬起熱帶擾動活躍期展開，關島西南季風槽為此波系統的可能發源地。",
+      "url": "https://www.chinatimes.com/realtimenews/20260720000907-260405"
     },
     {
       "rank": 4,
-      "title": "東太平洋熱帶風暴埃莉達趨於減弱",
-      "dek": "美國國家颶風中心表示，埃莉達風力已降至每小時60英里，預計數日內將轉為殘餘低壓，對陸地無直接威脅。",
-      "url": "https://www.nhc.noaa.gov/gtwo.php"
+      "title": "颱風活躍期！關島西南方低壓發展　週末有機會變颱風",
+      "dek": "壹蘋新聞網報導，關島西南低壓系統逐漸發展，氣象專家評估週末前後有機會成颱，惟目前研判對台灣直接威脅偏低仍須觀察。",
+      "url": "https://news.nextapple.com/life/20260720/DAE1C52FE8B3401FD965B21688BA531D"
     },
     {
       "rank": 5,
-      "title": "關島、雅浦外海擾動未能發展成形　密克羅尼西亞仍受季風影響",
-      "dek": "一度受高度關注的97W熱帶擾動已消散，但強勁西南季風仍為帛琉、雅浦、關島及北馬里亞納群島帶來強風與大浪警戒。",
-      "url": "https://www.postguam.com/news/local/invest-98w-fizzles-out-expect-shower-conditions-this-week/article_8036fd74-f986-4390-9e13-2dfb18707641.html"
+      "title": "又要變天？吳聖宇：熱帶低壓或「颱風」本週將接近台灣以南",
+      "dek": "獨立氣象觀測人士吳聖宇向CTWANT表示，熱帶低壓或颱風本週可能通過台灣以南海域並朝南海東北部與廣東沿岸移動，後續兩三天的結構組織將是關鍵。",
+      "url": "https://www.ctwant.com/article/489992/"
     },
     {
       "rank": 6,
-      "title": "氣象專家示警　菲律賓外海下週恐醞釀新熱帶擾動",
-      "dek": "中時新聞網報導，南海至菲律賓東岸的低壓帶有機會在7月24日後發展，惟能否增強為颱風仍待觀察，本週台灣天氣以西南氣流及午後雷陣雨為主。",
-      "url": "https://www.chinatimes.com/realtimenews/20260720000886-260405"
+      "title": "本周颱風恐生成　吳聖宇：是否接近台灣未來2、3天是關鍵",
+      "dek": "聯合新聞網報導同一系統發展情形，吳聖宇指出該系統是否進一步接近台灣，取決於未來兩三天的組織發展狀況。",
+      "url": "https://udn.com/news/story/7266/9638738"
     },
     {
       "rank": 7,
-      "title": "回顧：颱風巴威警報7月12日解除　曾為今年最強風王",
-      "dek": "巴威侵襲期間台灣北部、西部及宜蘭首當其衝，中國浙江登陸前中心氣壓達895百帕，與4月的珊珊颱風並列今年最強颱風。",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+      "title": "東太平洋熱帶風暴Fausto　預估將增強為颶風",
+      "dek": "據檀香山星報報導，熱帶風暴Fausto在墨西哥下加利福尼亞半島西南方外海持續增強，預期發展為颶風，路徑預估將維持在夏威夷數百英里外。",
+      "url": "https://www.staradvertiser.com/2026/07/20/breaking-news/tropical-storm-fausto-in-east-pacific-expected-to-become-hurricane/"
     },
     {
       "rank": 8,
-      "title": "回顧：颱風麥德姆7月3日登陸中國海南",
-      "dek": "今年第十號颱風麥德姆由南海熱帶低氣壓增強而成，登陸海南陵水後造成當地停班停課，為巴威來襲前的活躍風季揭開序幕。",
-      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
+      "title": "第二號熱帶性低氣壓威脅美國灣岸　本週恐增強為熱帶風暴Bertha",
+      "dek": "據News4Jax報導，位於佛羅里達巴拿馬市南方海域的第二號熱帶性低氣壓預期增強為熱帶風暴Bertha，將為美國北灣岸帶來豪雨、淹水與強陣風威脅。",
+      "url": "https://www.news4jax.com/weather/2026/07/20/tropical-depression-two-threatens-gulf-coast-early-this-week/"
     },
     {
       "rank": 9,
-      "title": "回顧：熱帶風暴喬西（海神）7月中在菲律賓海消散",
-      "dek": "菲律賓大氣地球物理暨天文服務署指出，該系統在強勁東風風切下迅速減弱，未對陸地造成重大衝擊。",
-      "url": "https://www.pagasa.dost.gov.ph/weather"
+      "title": "美國灣岸嚴陣以待　第二號熱帶性低氣壓逼近熱帶風暴強度",
+      "dek": "AccuWeather報導，該系統以緩慢且不規則路徑朝西北移動，佛羅里達狹長地帶已發布熱帶風暴警戒，當地時間週一上午最大持續風速約每小時56公里。",
+      "url": "https://www.accuweather.com/en/hurricane/us-gulf-coast-braces-as-tropical-depression-two-nears-tropical-storm-status/1913221"
     },
     {
       "rank": 10,
-      "title": "2026年西太平洋颱風季步調創1976年來最快",
-      "dek": "據維基百科統計，西太平洋今年迄今已生成約十餘個命名風暴，而NOAA同時預測大西洋颶風季將呈現偏弱表現。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "熱帶風暴Elida減弱中　預估將轉為殘餘低壓",
+      "dek": "據AccuWeather與Zoom Earth風暴追蹤資料，7月14日生成、一度可能增強至颶風強度的熱帶風暴Elida已減弱至約時速80公里，預估24至36小時內轉為殘餘低壓，對墨西哥下加利福尼亞半島無威脅。",
+      "url": "https://www.accuweather.com/en/hurricane/east-pacific/elida-2026"
     }
   ]
 }
