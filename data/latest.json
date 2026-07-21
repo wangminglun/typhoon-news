@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T23:06:00+08:00",
+  "generated_at": "2026-07-22T00:05:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對任何颱風發布海上或陸上警報。菲律賓東方一熱帶擾動最快週五（7/24）增強為熱帶性低氣壓，有機會發展為今年第12號颱風「紅霞」，但尚未成形。",
+  "alert_desc": "中央氣象署目前未針對任何颱風發布海上或陸上警報。菲律賓以東另有兩個熱帶系統受到關注：一個可能於24小時內發展為菲律賓熱帶低壓「Kiyapo」，另一個則被中國大陸氣象單位預測將發展為今年第12號颱風「紅霞」，但均未對台灣構成直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中曾於颱風巴威侵襲期間（7月10日至11日）停班停課，但該颱風已遠離多日；目前正受觀察的熱帶擾動「準紅霞」預估路徑偏向台灣以南的巴士海峽與南海，若有外圍環流影響，範圍將集中在花蓮、台東及恆春半島一帶，中部的台中目前無直接影響評估。"
+    "text": "台中目前無颱風直接影響、無停班停課；今日僅山區列入豪（大）雨特報範圍，因午後對流旺盛可能出現局部大雨或豪雨，須留意雷擊、強陣風及山區坍方、落石風險，但這是一般夏季對流性降雨，並非颱風所致。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "台灣颱風警報現階段解除 「準颱風紅霞」週五恐生成 外圍環流週末影響東南部",
-    "dek": "中央氣象署目前未發布任何颱風警報，但菲律賓東方一熱帶擾動最快週五增強為熱帶性低氣壓，可能發展為今年第12號颱風「紅霞」，預估路徑偏向巴士海峽與南海，對台灣影響以外圍環流為主。",
-    "url": "https://www.chinatimes.com/realtimenews/20260721001307-260405"
+    "title": "颱風警報未見蹤影 台灣今仍籠罩豪雨特報 兩股菲律賓外海熱帶擾動牽動周末天氣",
+    "dek": "中央氣象署尚未對任何颱風發布警報，但氣象學界正密切觀察兩個位於菲律賓外海的熱帶系統——一個可能成為菲律賓「Kiyapo」熱帶低壓，另一個則被中國大陸氣象單位預測將發展為今年第12號颱風「紅霞」——兩者目前均未直接威脅台灣。",
+    "url": "https://www.singtaousa.com/2026/07/21/news/china/typhoon-hongxia-guangdong-landing-forecast/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "高溫特報覆蓋七縣市 中央氣象署示警橙色燈號",
-      "dek": "太平洋高壓增強帶來連日高溫，中央氣象署對新北、花蓮等地發布橙燈高溫特報，並提醒週五、週六將受菲律賓外海熱帶擾動外圍環流影響。",
-      "url": "https://focustaiwan.tw/society/202607210005"
+      "title": "深圳氣象台預告：熱帶擾動醞釀成颱 「紅霞」估7月26日登陸廣東",
+      "dek": "中國大陸氣象單位預測，菲律賓以東的熱帶擾動將發展為今年第12號颱風，並可能於7月26日前後以颱風強度登陸廣東沿岸。",
+      "url": "https://www.singtaousa.com/2026/07/21/news/china/typhoon-hongxia-guangdong-landing-forecast/"
     },
     {
       "rank": 2,
-      "title": "「紅霞」颱風最快週五生成 專家解析對台灣的可能影響",
-      "dek": "中時新聞網報導，菲律賓東方熱帶擾動最快本週五增強為熱帶性低氣壓，有機會成為今年第12號颱風「紅霞」。",
-      "url": "https://www.chinatimes.com/realtimenews/20260721001307-260405"
+      "title": "菲律賓氣象署：外海低壓區恐入責任區 24小時內可能增強為熱帶低壓",
+      "dek": "PAGASA表示，一個遠在菲律賓以東的低壓區有很高機率於一天內發展為熱帶低壓，並可能於周三進入該國責任海域。",
+      "url": "https://bworldonline.com/the-nation/2026/07/21/764869/lpa-to-enter-par-likely-to-develop-into-tropical-depression-pagasa/"
     },
     {
       "rank": 3,
-      "title": "準紅霞颱風路徑曝光 AI模式估侵台機率偏低 兩地仍需留意風雨",
-      "dek": "多項AI電腦模式顯示，「準紅霞」路徑集中於菲律賓與巴士海峽之間，直接登陸台灣機率不高，但東部與恆春半島可能受外圍環流影響。",
-      "url": "https://www.chinatimes.com/realtimenews/20260721004489-260405"
+      "title": "下一個「Kiyapo」？氣象專員稱外海低壓區恐週末逼近呂宋北部",
+      "dek": "PAGASA氣象專員Benison Estareja表示，位於東維薩亞斯以東逾1500公里的低壓區可能增強為熱帶風暴，並於7月24日至25日移向呂宋島北部。",
+      "url": "https://www.rappler.com/philippines/weather/lpa-southwest-monsoon-update-pagasa-forecast-july-21-2026-5pm/"
     },
     {
       "rank": 4,
-      "title": "「準紅霞」颱風7月24日起牽動天氣 週末變數再起",
-      "dek": "Newtalk新聞整理指出，這波熱帶系統最快自7月24日起開始影響台灣天氣，後續發展仍待觀察。",
-      "url": "https://newtalk.tw/news/view/2026-07-21/1048444"
+      "title": "呂宋島以東新生低壓區 是否為「Kiyapo」前身引關注",
+      "dek": "馬尼拉媒體報導，菲律賓氣象署正密切監測呂宋島以東新形成的低壓區，評估其是否將發展為熱帶低壓Kiyapo。",
+      "url": "https://mb.com.ph/2026/07/21/new-lpa-forms-east-of-luzon-could-this-be-kiyapo"
     },
     {
       "rank": 5,
-      "title": "準颱風「紅霞」路徑出爐 氣象粉專估東南部週五、六受影響",
-      "dek": "自由時報報導，氣象粉專預測台灣東部與東南部地區將於本週五、六感受到「準紅霞」外圍環流帶來的風雨。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5513059"
+      "title": "責任區外低壓區恐轉熱帶低壓 菲國氣象署持續觀察",
+      "dek": "Philstar報導證實，菲律賓氣象署已對境外低壓區發布24小時熱帶氣旋生成展望，該系統一旦進入責任區將更名為Kiyapo。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/21/2543641/lpa-outside-par-may-become-tropical-depression-pagasa"
     },
     {
       "rank": 6,
-      "title": "香港天文台：準風暴「紅霞」料本週稍晚進入南海北部 路徑估北調",
-      "dek": "星島頭條報導，香港天文台預估該系統將於本週稍晚進入南海北部，週日外圍風力最高達7級，多份AI模式路徑並呈北調趨勢。",
-      "url": "https://www.stheadline.com/society/3595995/"
+      "title": "高溫直逼36度、午後雷雨齊發 氣象署：周末外海系統恐增強為熱帶低壓",
+      "dek": "台灣今日高溫上看36度並伴隨午後雷陣雨，氣象單位同時指出菲律賓東南方擾動最快周末增強，屆時恐為東部及恆春半島帶來降雨，但尚無颱風直接威脅台灣的跡象。",
+      "url": "https://www.nownews.com/news/6858566"
     },
     {
       "rank": 7,
-      "title": "準風暴「紅霞」醞釀中 香港評估其潛在威脅",
-      "dek": "點新聞報導，這股正在發展中的熱帶系統預計朝廣東沿岸方向移動，香港當局正密切評估其可能帶來的影響。",
-      "url": "https://www.dotdotnews.com/a/202607/21/AP6a5f161be4b04b6c5d342140.html"
+      "title": "對流雲系發展旺盛 氣象署對16縣市發布豪雨特報至入夜",
+      "dek": "中央氣象署表示，7月21日全台16縣市（含台中山區）因午後對流旺盛發布豪（大）雨特報，屬短延時強降雨，非颱風系統所致。",
+      "url": "https://www.ettoday.net/news/20260721/3205182.htm"
     },
     {
       "rank": 8,
-      "title": "氣象主播淑麗：紅霞颱風最快週四生成 週末天氣仍有變數",
-      "dek": "東森新聞氣象主播淑麗表示，該系統最快週四即可能生成，確切路徑尚未明朗，週末天氣走向仍待觀察。",
-      "url": "https://news.ebc.net.tw/news/living/562248"
+      "title": "熱帶低壓估週五前後成形 氣象專家：東部、恆春半島週末降雨機率上升",
+      "dek": "氣象預報指出，菲律賓外海擾動可能於7月24日周五前後組織成熱帶低壓，隨台灣轉受東風影響，東部及恆春半島週末降雨機率增加，但目前未見系統直接登陸台灣的跡象。",
+      "url": "https://www.ettoday.net/news/20260720/3204566.htm"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴「喬西」短暫進入菲律賓責任區 未發布警報後消散",
-      "dek": "Rappler報導，菲律賓今年第10號熱帶氣旋「喬西」曾短暫貼近菲律賓大氣地球物理天文服務署責任區東緣，未觸發風雨警報，目前已消散。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-josie-southwest-monsoon-update-pagasa-forecast-july-14-2026-5am/"
+      "title": "氣象署一週展望：16縣市豪雨特報 週末不排除熱帶低壓北修逼近台灣",
+      "dek": "中央氣象署最新一週天氣展望指出，7月21日至24日水氣減少、降雨集中山區，但週末一熱帶低壓若路徑北修，仍有機率接近台灣，惟目前尚非正式颱風威脅。",
+      "url": "https://news.pchome.com.tw/living/upmedia/20260721/index-78462134036141236009.html"
     },
     {
       "rank": 10,
-      "title": "回顧：中央氣象署曾就颱風巴威發布陸上警報",
-      "dek": "Taipei Times報導，本季稍早侵台的颱風巴威曾為台灣北部帶來最大陣風每小時198公里及超過350毫米豪雨，中央氣象署當時對彰化以北14縣市及馬祖發布陸上警報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
+      "title": "準颱風「紅霞」醞釀中 香港媒體評估對本港威脅程度",
+      "dek": "香港「點新聞」報導指出，菲律賓以東醞釀中的準颱風「紅霞」未來可能登陸廣東、廣西沿岸，並探討其對香港的潛在影響。",
+      "url": "https://www.dotdotnews.com/a/202607/21/AP6a5f161be4b04b6c5d342140.html"
     }
   ]
 }
