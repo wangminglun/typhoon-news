@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:07:00+08:00",
+  "generated_at": "2026-07-21T08:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。北部、中部山區仍受西南季風影響而有大雨特報，另關島至菲律賓東方海面一熱帶擾動正在發展，最快週五（7/24）可能組織為熱帶低壓。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。西南季風豪雨今日明顯趨緩，另關島西南方一熱帶低壓區正受菲律賓與美方預報機構密切觀察，最快本週末可能發展為颱風。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市山區今（20）日已納入大雨特報範圍，午後至傍晚有局部短延時豪雨機率，但屬西南季風降雨、非颱風所致。目前無颱風直接影響台中，也沒有因颱風而起的停班停課措施。"
+    "text": "目前無颱風直接影響台中，也沒有因颱風而起的停班停課措施。今日台中天氣溫暖潮濕，高溫約攝氏32至35度，隨西南季風減弱，午後局部地區仍有零星雷陣雨機率，與颱風系統無關。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "巴威過境警報解除逾一週　台灣暫無颱風威脅　氣象署密切觀察關島東方新擾動",
-    "dek": "中央氣象署表示，目前台灣本島未受任何颱風警報籠罩，但西南季風仍為北部、中部山區帶來強降雨，同時一個從關島延伸至菲律賓東方海域的熱帶擾動，最快可能於本週五發展為熱帶低壓，並牽動下週末台灣東半部的降雨情勢。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5511030"
+    "title": "季風雨勢趨緩 關島外海低壓區周末恐發展成颱",
+    "dek": "中央氣象署稱台灣目前無颱風警報，太平洋高壓增強使雨勢緩解，但菲律賓與美方預報機構正密切觀察關島西南方一處低壓區的發展。",
+    "url": "https://news.nextapple.com/life/20260720/DAE1C52FE8B3401FD965B21688BA531D"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：西南風降雨週一達高峰",
-      "dek": "中央氣象署表示，西南季風帶來的強降雨在七月十九、二十日達到高峰，北部、東北部與中部山區出現局部豪雨，氣溫同步維持三十二至三十五度的悶熱天氣。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/20/2003861062"
+      "title": "太平洋颱風季未歇　關島西南低壓區周末恐成颱",
+      "dek": "壹蘋新聞網報導，關島西南方一處熱帶低壓區可望在本週末發展為颱風，但確切路徑及是否影響台灣仍屬未知。",
+      "url": "https://news.nextapple.com/life/20260720/DAE1C52FE8B3401FD965B21688BA531D"
     },
     {
       "rank": 2,
-      "title": "快訊／十縣市大雨特報　降雨持續至晚間",
-      "dek": "氣象署對包括台中山區在內的十個縣市發布大雨特報，另有五縣市同時發布雷雨警示，提醒防範雷擊、強陣風與坍方淹水。",
-      "url": "https://www.ettoday.net/news/20260720/3204299.htm"
+      "title": "PAGASA監測外海低壓區　菲律賓多地仍有零星降雨",
+      "dek": "菲律賓大氣總署表示西南季風為民答那峨、呂宋西部及維薩亞斯帶來多雲降雨，並持續評估一處責任區外低壓區的發展潛力。",
+      "url": "https://www.gmanetwork.com/news/weather/content/995550/cloudy-skies-scattered-rain-mindanao-western-luzon-visayas-pagasa/story/"
     },
     {
       "rank": 3,
-      "title": "早安世界：本週今日降雨最顯著　北部中部山區防豪雨",
-      "dek": "中央社晨間報導指出，七月二十日將是本週降雨最明顯的一天，北部與中部山區在西南氣流影響下需嚴防豪雨，高溫同時持續。",
-      "url": "https://www.cna.com.tw/news/ahel/202607205001.aspx"
+      "title": "太平洋高壓增強　台灣濕熱雨勢本週逐漸消退",
+      "dek": "Newtalk新聞報導，隨太平洋高壓自7月21日起增強、風向轉為偏東，台灣豪雨將趨緩，天氣至24日將轉為晴朗炎熱。",
+      "url": "https://newtalk.tw/news/view/2026-07-19/1048118"
     },
     {
       "rank": 4,
-      "title": "關島西南方低壓系統逐漸發展　論壇評估未來有機會增強成颱",
-      "dek": "一個位於關島西南方海面的熱帶擾動正緩慢組織，氣象觀測論壇評估未來數日有機會進一步增強為颱風，為西北太平洋展開新一波活躍期。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5511030"
+      "title": "熱帶風暴佛斯托生成　有望成東太平洋首個颶風",
+      "dek": "美聯社報導，熱帶風暴佛斯托在墨西哥外海形成並持續增強，預計八至十天內可能逼近夏威夷海域。",
+      "url": "https://www.usnews.com/news/best-states/california/articles/2026-07-19/tropical-storm-fausto-forms-well-offshore-from-mexicos-pacific-coast"
     },
     {
       "rank": 5,
-      "title": "熱帶低氣壓醞釀中　氣象署：不排除本週生成、週末影響台灣",
-      "dek": "氣象署指出，關島至菲律賓東方海域的擾動持續組織，最快七月二十四日週五可能形成熱帶低壓，若條件有利週末將進一步增強為颱風。",
-      "url": "https://www.nownews.com/news/6858491"
+      "title": "佛斯托增強、艾莉達減弱　加州沿岸仍受離岸流威脅",
+      "dek": "福斯天氣報導，佛斯托可望成為東太平洋今年首颶，殘餘的艾莉達雖已減弱，仍在南加州海灘引發危險離岸流。",
+      "url": "https://www.foxweather.com/weather-news/tropical-storm-fausto-elida-hurricane-eastern-pacific"
     },
     {
       "rank": 6,
-      "title": "新一波颱風活躍期將至　低壓系統本週恐成颱、路徑曝光",
-      "dek": "氣象預報顯示，發展中的低壓系統有相當機率貼近菲律賓呂宋島北端，其生成可能象徵巴威之後新一波颱風活躍期的開端。",
-      "url": "https://newtalk.tw/news/view/2026-07-20/1048261"
+      "title": "巴威登陸中國浙江　菲律賓死亡人數升至18人",
+      "dek": "香港自由新聞報導，強颱巴威減弱後在浙江沿海二度登陸，當地疏散近280萬人無人罹難，菲律賓因季風豪雨死亡人數則攀升至18人。",
+      "url": "https://hongkongfp.com/2026/07/12/typhoon-bavi-makes-landfall-in-china-as-death-toll-in-philippines-rises-to-18/"
     },
     {
       "rank": 7,
-      "title": "今明午後防短延時豪雨　關島至菲律賓東方海面熱帶擾動發展中",
-      "dek": "氣象署表示，關島到菲律賓東方海面的熱帶擾動仍處發展初期，強度與路徑尚不明朗，同時提醒未來兩天午後仍有局部短延時豪雨。",
-      "url": "https://udn.com/news/story/7266/9637025"
+      "title": "巴威增強季風釀水患　菲律賓20死16人失蹤",
+      "dek": "Watchers新聞報導，巴威外圍環流結合季風豪雨在菲律賓引發洪水與土石流，造成至少20人死亡、16人失蹤，多集中於民答那峨島。",
+      "url": "https://watchers.news/2026/07/13/20-reported-dead-16-missing-as-bavi-enhanced-monsoon-triggers-floods-and-landslides-philippines/"
     },
     {
       "rank": 8,
-      "title": "熱帶低壓估週五前後生成　週末東部、恆春半島降雨機率增",
-      "dek": "氣象署預估熱帶擾動約在七月二十四日週五前後組織成低壓，隨系統朝菲律賓、南海方向移動，週末台灣東部與恆春半島降雨機率將升高。",
-      "url": "https://www.ettoday.net/news/20260720/3204566.htm"
+      "title": "巴威來襲前夕　台灣數百人緊急撤離",
+      "dek": "香港自由新聞報導，暴風半徑達380公里的巴威成為逾三十年來侵台最大颱風，促使北台灣數百人撤離、學校機關停班停課。",
+      "url": "https://hongkongfp.com/2026/07/10/hundreds-evacuate-in-taiwan-ahead-of-biggest-typhoon-in-decades/"
     },
     {
       "rank": 9,
-      "title": "東太平洋熱帶風暴「浮士托」增強　預料成為颶風",
-      "dek": "美國國家颶風中心預測，風速已達每小時七十英里的熱帶風暴浮士托將於七月二十日或二十一日增強為颶風，並可能於週二達到中度颶風強度。",
-      "url": "https://www.staradvertiser.com/2026/07/20/breaking-news/tropical-storm-fausto-in-east-pacific-expected-to-become-hurricane/"
+      "title": "中國稱巴威為1949年來最強七月颱風　菲律賓18人罹難",
+      "dek": "Tech Times報導，中國官方指巴威是1949年以來侵襲浙江最強七月颱風，280萬疏散民眾均安，災情主要集中於菲律賓。",
+      "url": "https://www.techtimes.com/articles/320258/20260712/typhoon-bavi-kills-18-philippines-chinas-28-million-evacuees-survive-landfall.htm"
     },
     {
       "rank": 10,
-      "title": "浮士托可望成本季首颶　艾莉達為加州沿岸帶來離岸流",
-      "dek": "除浮士托可能成為東太平洋今年首個颶風外，減弱中的熱帶氣旋艾莉達仍在加州外海引發危險離岸流與大浪，顯示東太平洋熱帶活動同步活躍。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-fausto-elida-hurricane-eastern-pacific"
+      "title": "氣象署：今年底前恐再有三至五個颱風侵台",
+      "dek": "台北時報報導，中央氣象署預測今年颱風季剩餘期間可能再生成三至五個颱風或熱帶風暴，提醒民眾颱風高峰期風險仍高。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     }
   ]
 }
