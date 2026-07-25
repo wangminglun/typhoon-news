@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T04:07:00+08:00",
+  "generated_at": "2026-07-26T05:03:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "目前無警報（台灣海上颱風警報已解除）。颱風紅霞已增強至超強颱風量級，中國發布今年首個全國性紅色颱風警報，香港天文台凌晨發出九號風球並評估是否升至十號，威脅重心已完全轉向廣東與香港。",
+  "alert_desc": "台灣目前無颱風警報（海上颱風警報已於25日上午解除，此次紅霞全程未發布陸上警報）。颱風紅霞正逼近廣東沿岸，中國已發布今年首個紅色預警，香港天文台凌晨發出九號風球並評估是否升至十號，威脅重心已完全轉向廣東與香港。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受到紅霞颱風系統直接影響，並未發布停班停課或其他特別警戒措施。"
+    "text": "台中目前無直接影響：25日維持正常上班上課，未發布停班停課或其他特別警戒措施，紅霞風雨範圍侷限於花東與屏東等地，受中央山脈屏障，台中未受此次颱風系統直接影響。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "中國發布今年首個颱風紅色警報　香港發九號風球嚴陣以待紅霞",
-    "dek": "颱風紅霞逼近廣東惠州至汕尾外海，香港天文台凌晨發出九號風球，並研判是否升至最高的十號颶風信號。",
-    "url": "https://news.rthk.hk/rthk/en/component/k2/1863657-20260726.htm"
+    "title": "颱風紅霞逼近廣東沿岸　香港凌晨發九號風球　十號信號仍待評估",
+    "dek": "中國氣象部門發布今年首個颱風紅色預警、廣東疏散逾三十四萬人之際，香港天文台已於清晨一時十分改發九號風球，並稱信號至少維持至上午七時，同時評估是否需要發出十號風球；台灣本島已無警報生效，僅花東與屏東留意殘餘雨勢。",
+    "url": "https://www.ettoday.net/news/20260726/3207681.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "香港發九號風球　評估是否升至最高十號信號",
-      "dek": "據香港電台報導，天文台凌晨一時十分發出九號風球，預料信號將持續至清晨七時以後。",
-      "url": "https://news.rthk.hk/rthk/en/component/k2/1863657-20260726.htm"
+      "title": "「紅霞」來勢洶洶　香港凌晨打出九號風球",
+      "dek": "香港天文台凌晨一時十分將信號提升至九號，颱風紅霞逼近時距香港東北方約一百公里，為香港第二高等級的熱帶氣旋警告信號。",
+      "url": "https://www.ettoday.net/news/20260726/3207681.htm"
     },
     {
       "rank": 2,
-      "title": "中國發布今年首個颱風紅色預警　紅霞增強至超強颱風級",
-      "dek": "據新浪網報導，中央氣象台將紅霞升級為颱風後，再指其強度達約十四級，發布全國首個紅色警報。",
-      "url": "https://www.sina.cn/news/detail/5324576511758369.html"
+      "title": "天文台凌晨改發九號風球　香港東面約百公里掠過",
+      "dek": "天文台表示九號或以上信號至少維持至上午七時，能否進一步升至十號，將視乎紅霞實際登陸地點與本地風速數據而定。",
+      "url": "https://www.hk01.com/熱爆話題/60372967/颱風紅霞打風-天文台凌晨1-10改發9號風球-香港約100公里東登"
     },
     {
       "rank": 3,
-      "title": "紅霞預料清晨於惠州至汕尾間登陸　逼近巔峰強度",
-      "dek": "據香港《星島日報》報導，預測路徑顯示紅霞登陸時風速約每小時一百五十五公里，強度接近峰值。",
-      "url": "https://www.thestandard.com.hk/news/article/338223/HKO-to-issue-T8-signal-at-1010pm-as-Typhoon-Noul-threatens"
+      "title": "風暴紅霞持續更新　九號或以上信號料維持至今晨七時　評估需否發十號",
+      "dek": "無綫新聞報導，大帽山與橫瀾島錄得每小時六十七至九十一公里陣風，天文台仍在監測風暴是否達到發出十號信號的門檻。",
+      "url": "https://news.tvb.com/tc/1184669-風暴紅霞不斷更新料九號或以上信號至少維持至今早7時評估需否發十號"
     },
     {
       "rank": 4,
-      "title": "華南疏散逾三十四萬人　航班鐵路大規模停運",
-      "dek": "據美國哥倫比亞廣播公司報導，廣東截至週六已疏散逾三十四萬人，香港機場逾一百五十班航班取消。",
-      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
+      "title": "中國發布今年首個紅色預警　應對颱風紅霞逼近",
+      "dek": "新華社報導，紅霞逼近惠州外海時仍帶十四級風力，中國氣象部門發布年度首個最高級別預警，預料風暴登陸廣東後將轉向北北西並減弱。",
+      "url": "https://english.news.cn/20260726/8df0d147e1924cebb16a2f6c1438585d/c.html"
     },
     {
       "rank": 5,
-      "title": "廣東嚴防極端強降雨　龍捲風風險「極高」",
-      "dek": "據星島美國版報導，中國氣象部門警告紅霞結構小而快速，沿岸恐現龍捲風並發布紅色暴雨預警。",
-      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-extreme-rainfall-tornado-risk/"
+      "title": "華南疏散逾三十四萬人並取消航班　嚴陣以待颱風紅霞",
+      "dek": "美聯社報導，廣東全省疏散逾三十四萬人、取消四百餘班航班與一百五十餘班高鐵，各地進入高度戒備狀態，迎接紅霞在香港與廣東交界一帶登陸。",
+      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
     },
     {
       "rank": 6,
-      "title": "香港今年首個強風暴襲港　棚架倒塌交通大癱瘓",
-      "dek": "據HNGN報導，香港風球升至八號、九號之際，發生棚架倒塌事故，大批航班與高鐵服務同步取消。",
-      "url": "https://www.hngn.com/articles/272346/20260725/typhoon-noul-nears-southern-china-hong-kong-raises-storm-signal-flights-canceled.htm"
+      "title": "颱風紅霞逼近廣東海岸　香港今夜嚴防信號進一步升級",
+      "dek": "報導指出，紅霞在近岸增強至颱風或強颱風級別後，香港正為信號可能突破八號、九號做準備，預計風暴將在惠州與汕尾之間登陸。",
+      "url": "https://www.thestandard.com.hk/news/article/338222/Typhoon-Noul-approaches-Guangdong-Coast-as-HK-braces-for-potential-higher-warning-signal-tonight"
     },
     {
       "rank": 7,
-      "title": "廣東多市啟動「五停」　深圳颱風預警升至藍色",
-      "dek": "據香港《巴士的報》報導，惠州、深汕實施五停措施，深圳將全市預警升為藍色並開放避難場所。",
-      "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373493/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%83%A0%E5%B7%9E-%E6%B7%B1%E6%B1%95%E5%95%9F%E5%8B%95-%E4%BA%94%E5%81%9C-%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E9%A2%B1%E9%A2%A8%E9%A0%90%E8%AD%A6%E5%8D%87%E7%B4%9A%E7%82%BA%E8%97%8D%E8%89%B2"
+      "title": "汕尾惠州啟動「五停」措施　應對颱風紅霞",
+      "dek": "兩地防汛防颱部門宣布停課、停工、停產、停運、停業，此時紅霞已增強至颱風級別、中心風力達十二級，距汕尾東南方僅約二百公里。",
+      "url": "https://www.sina.cn/news/detail/5324614523685007.html"
     },
     {
       "rank": 8,
-      "title": "紅霞遠離台灣　中央氣象署解除海上颱風警報",
-      "dek": "據《自由時報》報導，氣象署上午八時三十分解除警報，惟提醒北部沿海地區仍有強陣風。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5517053"
+      "title": "颱風紅霞預計夜間登陸廣東　多地停運停航停課",
+      "dek": "中央社報導，紅霞預計於夜間登陸廣東，中國多個城市祭出交通、航班與停課等因應措施，同時指出台灣本身大致未受直接衝擊。",
+      "url": "https://www.cna.com.tw/news/acn/202607250058.aspx"
     },
     {
       "rank": 9,
-      "title": "警報解除後　花東仍受紅霞外圍環流強降雨影響",
-      "dek": "據《聯合報》報導，花蓮、台東持續降雨，南部間歇陣雨，沿海並出現約三公尺湧浪。",
-      "url": "https://udn.com/news/story/7266/9650329"
+      "title": "颱風紅霞解除警報　屏東花東防豪雨　新竹以南午後留意大雨",
+      "dek": "氣象署於25日上午約八時三十分解除海上颱風警報，此次紅霞全程未發布陸上警報，僅屏東、花東與新竹以南地區仍需留意殘餘雨勢。",
+      "url": "https://tw.news.yahoo.com/颱風紅霞解除颱風警報-屏東、花東防豪雨-新竹以南中午後防大雨-氣象署說明颱風動態、影響範圍-012709926.html"
     },
     {
       "rank": 10,
-      "title": "菲律賓氣象署：紅霞已離開責任區　新系統不威脅台灣",
-      "dek": "據Rappler報導，PAGASA確認紅霞已出離責任區，氣象專家稱新系統路徑遠離台灣。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-5am/"
+      "title": "熱帶風暴柏莎二度登陸美國本土後減弱為低壓槽",
+      "dek": "柏莎23日以每小時六十英里風速在德州與路易斯安那州交界登陸後迅速減弱，美國國家颶風中心發布最後公告，其對墨西哥灣沿岸的威脅已告解除。",
+      "url": "https://yaleclimateconnections.org/2026/07/the-latest-on-tropical-storm-bertha/"
     }
   ]
 }
