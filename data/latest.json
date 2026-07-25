@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T01:03:00+08:00",
+  "generated_at": "2026-07-26T02:06:00+08:00",
   "alert_level": "none",
-  "alert_text": "目前無警報（海上颱風警報已解除，紅霞已遠離台灣海域）",
-  "alert_desc": "目前無警報（海上颱風警報已解除，紅霞已遠離台灣海域）",
+  "alert_text": "目前無警報（海上颱風警報已於今晨8時30分解除，紅霞持續遠離台灣海域，轉向中國廣東、香港方向）",
+  "alert_desc": "目前無警報（海上颱風警報已於今晨8時30分解除，紅霞持續遠離台灣海域，轉向中國廣東、香港方向）",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接颱風影響，僅受紅霞外圍環流引發焚風效應，潭子地區25日測得36度以上高溫，預估類似或更高溫度將持續，目前無停班停課措施。"
+    "text": "台中目前無直接影響。現有搜尋結果未見台中有風雨警報或停班停課措施，颱風紅霞的暴風圈與降雨集中在花蓮、台東、屏東與恆春半島，風暴亦未登陸台灣本島。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞逼近廣東　香港將發九號風球　台灣警報已解除",
-    "dek": "今年第12號颱風紅霞持續逼近中國廣東沿岸，促使香港天文台罕見地在周日凌晨發出今年首個九號風球，而台灣中央氣象署則已於周六上午解除海上颱風警報，僅東部及南部邊緣地帶仍受外圍環流影響。",
-    "url": "https://news.rthk.hk/rthk/en/component/k2/1863637-20260725.htm"
+    "title": "颱風紅霞掠過台灣南方海域未登陸　氣象署解除海警　風暴矛頭轉向廣東香港",
+    "dek": "中央氣象署證實，颱風紅霞（國際命名 Noul）在恆春半島外海掠過台灣後持續遠離，海上颱風警報已於今晨解除，但風暴威力不減，正朝廣東與香港逼近，當地已進入緊急戒備狀態。",
+    "url": "https://udn.com/news/story/7266/9649934"
   },
   "items": [
     {
       "rank": 1,
-      "title": "香港將於周日凌晨發出九號風球　為今年首見",
-      "dek": "香港天文台表示，隨著颱風紅霞持續逼近，將於周日凌晨1時10分發布九號風球，此前八號風球已於周六晚間10時10分生效。",
-      "url": "https://news.rthk.hk/rthk/en/component/k2/1863637-20260725.htm"
+      "title": "紅霞遠離台灣　氣象署上午8時30分解除海上颱風警報",
+      "dek": "中央氣象署證實，隨颱風紅霞持續遠離台灣本島並朝中國廣東移動，海上颱風警報已於今晨解除。",
+      "url": "https://udn.com/news/story/7266/9649934"
     },
     {
       "rank": 2,
-      "title": "天文台預測紅霞於惠州至汕尾登陸　路徑距香港約百公里",
-      "dek": "根據香港《英文虎報》報導，紅霞周六晚間位於香港東南偏東方向約200公里處，預計周日上午在廣東惠州至汕尾一帶登陸，持續風速達每小時126至151公里。",
-      "url": "https://www.thestandard.com.hk/news/article/338222/Typhoon-Noul-approaches-Guangdong-Coast-as-HK-braces-for-potential-higher-warning-signal-tonight"
+      "title": "紅霞增強為中度颱風　氣象署同步宣布解除海警",
+      "dek": "氣象署表示，颱風紅霞已於上午增強至中度颱風強度，暴風圈與風力預期在遠離台灣後仍可能略增，並將於約二十四小時內於中國沿岸登陸。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5517053"
     },
     {
       "rank": 3,
-      "title": "華南疏散逾34萬人　香港機場航班大量取消",
-      "dek": "美國《CBS新聞》報導，廣東省截至周六下午已疏散超過34萬人，香港國際機場周六至周日已有逾150班航班取消。",
-      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
+      "title": "海警雖除　屏東花東仍防豪雨　新竹以南午後留意強降雨",
+      "dek": "即便海上颱風警報解除，氣象署仍對台東、屏東山區與恆春半島發布豪雨甚至超大豪雨特報，並提醒新竹以南地區防範午後強降雨。",
+      "url": "https://tw.news.yahoo.com/%E3%80%8C%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E3%80%8D%E6%AD%A3%E5%90%8D-%E6%B5%B7%E8%AD%A6%E7%99%BC%E5%B8%83-%E5%91%A8%E5%85%AD%E6%9C%80%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E5%8D%B3%E6%99%82%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-012709926.html"
     },
     {
       "rank": 4,
-      "title": "深圳鐵路航空服務停擺　華南多地學校停課",
-      "dek": "《南華早報》報導，深圳寶安國際機場調整周日班表，廣東全省周日鐵路運輸全面暫停，惠州、汕尾等地學校已提前停課因應風暴來襲。",
-      "url": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul"
+      "title": "華南疏散逾34萬人並取消大批航班　嚴陣以待颱風紅霞",
+      "dek": "CBS新聞報導，廣東省已疏散逾三十四萬居民、取消大量航班，中國國家級預報機構就颱風紅霞（國際名稱Noul）發布最高等級紅色警報。",
+      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
     },
     {
       "rank": 5,
-      "title": "台灣氣象署解除紅霞海上颱風警報",
-      "dek": "《中時新聞網》報導，中央氣象署周六上午8時30分解除紅霞海上颱風警報，同時示警太平洋另有新擾動可能發展為不弱的颱風。",
-      "url": "https://www.chinatimes.com/realtimenews/20260725000952-260405"
+      "title": "香港天文台預告晚間十時十分改懸八號風球",
+      "dek": "《英文虎報》報導，香港天文台表示將於晚間十時十分由三號風球升至八號烈風或暴風信號，屆時學校停課、商業活動與交通大受影響。",
+      "url": "https://www.thestandard.com.hk/news/article/338223/HKO-to-issue-T8-signal-at-1010pm-as-Typhoon-Noul-threatens"
     },
     {
       "rank": 6,
-      "title": "紅霞海警解除　花東恆春降雨可望趨緩",
-      "dek": "公視新聞網報導，隨著紅霞海上颱風警報解除，花蓮、台東及恆春地區降雨預期逐漸緩和，惟外圍環流仍可能帶來短暫陣雨或雷雨。",
-      "url": "https://news.pts.org.tw/article/819329"
+      "title": "香港懸掛八號風球　嚴陣以待紅霞逼近",
+      "dek": "新華社報導，香港天文台已發布八號風球，預測颱風將於香港東北方約一百公里處掠過，並於週日凌晨在廣東惠州、汕尾一帶登陸。",
+      "url": "https://english.news.cn/20260725/4fef9cfd22c34572bddd4271769226f8/c.html"
     },
     {
       "rank": 7,
-      "title": "焚風效應發威　台灣多地飆上36至38度高溫",
-      "dek": "《今日新聞》報導，紅霞外圍環流引發焚風效應，南投中寮測得全台最高溫38度，台中潭子亦錄得36度以上高溫，預估西部地區高溫將持續。",
-      "url": "https://www.nownews.com/news/6860074"
+      "title": "颱風紅霞逼近　廣東全省進入臨戰狀態",
+      "dek": "《星島日報》報導，廣東官員黃坤明下令全省進入緊急應變狀態，並呼籲粵港澳協同聯防，因應今年首個直撲廣東的颱風。",
+      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-guangdong-emergency-response/"
     },
     {
       "rank": 8,
-      "title": "熱帶擾動93W可望發展為第13號颱風「白海豚」　路徑朝日本前進",
-      "dek": "《聯合新聞網》報導，氣象專家指出擾動93W極可能於周日至周一間增強為颱風白海豚，預測路徑偏北經台灣東方海面朝日本移動，對台灣無直接威脅。",
-      "url": "https://udn.com/news/story/7266/9649894"
+      "title": "Weathernews：紅霞北掠菲律賓後　料在粵閩沿海登陸",
+      "dek": "日本氣象機構Weathernews預測，颱風紅霞登陸時風速估計達每小時一百五十五公里，登陸地點介於廣東珠海與福建漳浦之間。",
+      "url": "https://wxtech.weathernews.com/en/news/20260724-01/"
     },
     {
       "rank": 9,
-      "title": "紅霞外圍環流夜襲台東花蓮　雨勢一度轉強",
-      "dek": "華視新聞網報導，紅霞外圍環流周六晚間在台東與花蓮市引發強烈雷雨及短時強降雨，中央氣象署已對相關縣市發布豪雨特報。",
-      "url": "https://news.cts.com.tw/cts/life/202607/202607253059640.html"
+      "title": "菲律賓解除警報　「奇亞波」遠離但西南季風雨勢未歇",
+      "dek": "菲律賓媒體Rappler報導，該國大氣地球物理天文局已解除與颱風奇亞波（即紅霞）相關的所有風雨警報，惟西南季風仍為呂宋、維薩亞斯部分地區帶來降雨。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-11am/"
     },
     {
       "rank": 10,
-      "title": "儘管紅霞逼近　台灣全境周六照常上班上課",
-      "dek": "蘋果仁報導，儘管紅霞持續逼近，台灣各縣市周六並未宣布停班停課，風暴主要影響集中於花蓮、台東、屏東及恆春等地。",
-      "url": "https://applealmond.com/posts/320583"
+      "title": "國泰航空豁免香港航班改期手續費　因應紅霞逼近",
+      "dek": "隨著香港八號風球生效在即，國泰航空宣布豁免往返香港航班的改期與退票手續費，以因應區域航班大規模延誤與取消。",
+      "url": "https://www.travelerstoday.com/articles/60604/20260725/cathay-pacific-waives-fees-hong-kong-flights-typhoon-noul-closes.htm"
     }
   ]
 }
