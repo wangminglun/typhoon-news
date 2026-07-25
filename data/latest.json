@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T02:06:00+08:00",
+  "generated_at": "2026-07-26T03:06:00+08:00",
   "alert_level": "none",
-  "alert_text": "目前無警報（海上颱風警報已於今晨8時30分解除，紅霞持續遠離台灣海域，轉向中國廣東、香港方向）",
-  "alert_desc": "目前無警報（海上颱風警報已於今晨8時30分解除，紅霞持續遠離台灣海域，轉向中國廣東、香港方向）",
+  "alert_text": "目前無警報（台灣海上颱風警報已解除，紅霞威脅重心轉向廣東與香港，香港天文台凌晨已升至九號風球）",
+  "alert_desc": "目前無警報（台灣海上颱風警報已解除，紅霞威脅重心轉向廣東與香港，香港天文台凌晨已升至九號風球）",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響。現有搜尋結果未見台中有風雨警報或停班停課措施，颱風紅霞的暴風圈與降雨集中在花蓮、台東、屏東與恆春半島，風暴亦未登陸台灣本島。"
+    "text": "台中目前無直接影響。市府颱風專區網頁尚無因應紅霞發布的停班停課公告，氣象署暴風圈機率資料顯示中部地區侵襲機率偏低，僅恆春半島侵襲率達28%。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞掠過台灣南方海域未登陸　氣象署解除海警　風暴矛頭轉向廣東香港",
-    "dek": "中央氣象署證實，颱風紅霞（國際命名 Noul）在恆春半島外海掠過台灣後持續遠離，海上颱風警報已於今晨解除，但風暴威力不減，正朝廣東與香港逼近，當地已進入緊急戒備狀態。",
-    "url": "https://udn.com/news/story/7266/9649934"
+    "title": "紅霞逼近　香港九號風球生效　廣東嚴陣以待　台灣警報解除",
+    "dek": "香港天文台凌晨將風球訊號調高至九號並評估十號信號，廣東疏散逾34萬人嚴防紅霞登陸，台灣海上颱風警報已解除。",
+    "url": "https://www.ettoday.net/news/20260726/3207681.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "紅霞遠離台灣　氣象署上午8時30分解除海上颱風警報",
-      "dek": "中央氣象署證實，隨颱風紅霞持續遠離台灣本島並朝中國廣東移動，海上颱風警報已於今晨解除。",
-      "url": "https://udn.com/news/story/7266/9649934"
+      "title": "港九號風球生效　天文台評估是否發十號",
+      "dek": "據ETtoday報導，香港天文台凌晨將訊號由八號調高至九號，正評估颱風紅霞是否需觸發最高等級的十號颶風信號。",
+      "url": "https://www.ettoday.net/news/20260726/3207681.htm"
     },
     {
       "rank": 2,
-      "title": "紅霞增強為中度颱風　氣象署同步宣布解除海警",
-      "dek": "氣象署表示，颱風紅霞已於上午增強至中度颱風強度，暴風圈與風力預期在遠離台灣後仍可能略增，並將於約二十四小時內於中國沿岸登陸。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5517053"
+      "title": "廣東嚴陣以待　逾34萬人疏散因應紅霞來襲",
+      "dek": "據加拿大CP24引述法新社與路透社報導，廣東省已疏散超過三十四萬人，多座城市宣布停課停工並取消航班。",
+      "url": "https://www.cp24.com/news/world/2026/07/25/southern-china-is-on-high-alert-for-typhoon-noul-with-over-340000-evacuated-and-flights-canceled/"
     },
     {
       "rank": 3,
-      "title": "海警雖除　屏東花東仍防豪雨　新竹以南午後留意強降雨",
-      "dek": "即便海上颱風警報解除，氣象署仍對台東、屏東山區與恆春半島發布豪雨甚至超大豪雨特報，並提醒新竹以南地區防範午後強降雨。",
-      "url": "https://tw.news.yahoo.com/%E3%80%8C%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E3%80%8D%E6%AD%A3%E5%90%8D-%E6%B5%B7%E8%AD%A6%E7%99%BC%E5%B8%83-%E5%91%A8%E5%85%AD%E6%9C%80%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E5%8D%B3%E6%99%82%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-012709926.html"
+      "title": "中國啟動二級應急響應　紅霞估將登陸深圳至海豐",
+      "dek": "據央視新聞（CGTN）報導，中國交通運輸部已啟動二級颱風應急響應，預測紅霞週日清晨於深圳至海豐一帶登陸，最大風速逾每小時150公里。",
+      "url": "https://news.cgtn.com/news/2026-07-25/China-raises-typhoon-response-as-Noul-strengthens-1P43XThduHm/p.html"
     },
     {
       "rank": 4,
-      "title": "華南疏散逾34萬人並取消大批航班　嚴陣以待颱風紅霞",
-      "dek": "CBS新聞報導，廣東省已疏散逾三十四萬居民、取消大量航班，中國國家級預報機構就颱風紅霞（國際名稱Noul）發布最高等級紅色警報。",
-      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
+      "title": "華南鐵路航班全面喊卡　學校停課迎戰紅霞",
+      "dek": "據南華早報報導，深圳寶安機場調整航班、珠三角鐵路暫停營運，國泰航空亦取消多班香港航線。",
+      "url": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul"
     },
     {
       "rank": 5,
-      "title": "香港天文台預告晚間十時十分改懸八號風球",
-      "dek": "《英文虎報》報導，香港天文台表示將於晚間十時十分由三號風球升至八號烈風或暴風信號，屆時學校停課、商業活動與交通大受影響。",
-      "url": "https://www.thestandard.com.hk/news/article/338223/HKO-to-issue-T8-signal-at-1010pm-as-Typhoon-Noul-threatens"
+      "title": "紅霞增強為中度颱風　氣象署解除海上颱風警報",
+      "dek": "據聯合新聞網報導，中央氣象署上午八時三十分解除海警，紅霞已遠離至鵝鑾鼻西南方約330公里，對巴士海峽與台灣海峽已無威脅。",
+      "url": "https://udn.com/news/story/7266/9649934"
     },
     {
       "rank": 6,
-      "title": "香港懸掛八號風球　嚴陣以待紅霞逼近",
-      "dek": "新華社報導，香港天文台已發布八號風球，預測颱風將於香港東北方約一百公里處掠過，並於週日凌晨在廣東惠州、汕尾一帶登陸。",
-      "url": "https://english.news.cn/20260725/4fef9cfd22c34572bddd4271769226f8/c.html"
+      "title": "海警雖解除　氣象署示警週日至週二天氣仍不穩",
+      "dek": "據NOWnews報導，中央氣象署提醒東部、東南部及恆春半島仍有局部大雨，全台天氣至週二前仍受外圍環流影響。",
+      "url": "https://www.nownews.com/news/6859927"
     },
     {
       "rank": 7,
-      "title": "颱風紅霞逼近　廣東全省進入臨戰狀態",
-      "dek": "《星島日報》報導，廣東官員黃坤明下令全省進入緊急應變狀態，並呼籲粵港澳協同聯防，因應今年首個直撲廣東的颱風。",
-      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-guangdong-emergency-response/"
-    },
-    {
-      "rank": 8,
-      "title": "Weathernews：紅霞北掠菲律賓後　料在粵閩沿海登陸",
-      "dek": "日本氣象機構Weathernews預測，颱風紅霞登陸時風速估計達每小時一百五十五公里，登陸地點介於廣東珠海與福建漳浦之間。",
-      "url": "https://wxtech.weathernews.com/en/news/20260724-01/"
-    },
-    {
-      "rank": 9,
-      "title": "菲律賓解除警報　「奇亞波」遠離但西南季風雨勢未歇",
-      "dek": "菲律賓媒體Rappler報導，該國大氣地球物理天文局已解除與颱風奇亞波（即紅霞）相關的所有風雨警報，惟西南季風仍為呂宋、維薩亞斯部分地區帶來降雨。",
+      "title": "菲律賓解除全部警戒信號　「奇亞波」已離開責任區",
+      "dek": "據菲律賓媒體Rappler報導，菲律賓大氣地球物理和天文管理局（PAGASA）上午十一時解除所有雨量與風力信號，該風暴已於凌晨兩時離開菲律賓責任區並轉向中國。",
       "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-11am/"
     },
     {
+      "rank": 8,
+      "title": "回顧「奇亞波」侵菲路徑　曾在北呂宋發布三號信號",
+      "dek": "據菲律賓媒體Philstar報導，熱帶風暴奇亞波稍早行經呂宋北部時一度觸發三號風力信號，其後離開責任區並增強為現稱紅霞的颱風。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/24/2544336/signal-no-2-raised-kiyapo-strengthens-tropical-storm"
+    },
+    {
+      "rank": 9,
+      "title": "暴風圈機率出爐　僅恆春半島侵襲率達28%",
+      "dek": "據風傳媒報導，中央氣象署暴風圈機率顯示僅恆春半島達28%侵襲率，其餘縣市均低於二成，台灣多數地區停班停課機率不高。",
+      "url": "https://www.storm.mg/lifestyle/11151128"
+    },
+    {
       "rank": 10,
-      "title": "國泰航空豁免香港航班改期手續費　因應紅霞逼近",
-      "dek": "隨著香港八號風球生效在即，國泰航空宣布豁免往返香港航班的改期與退票手續費，以因應區域航班大規模延誤與取消。",
-      "url": "https://www.travelerstoday.com/articles/60604/20260725/cathay-pacific-waives-fees-hong-kong-flights-typhoon-noul-closes.htm"
+      "title": "台中市府颱風專區　目前未發布停班停課公告",
+      "dek": "根據台中市政府颱風訊息專區網頁顯示，截至目前尚無因應紅霞發布的停班停課訊息，與中部地區偏低侵襲機率相符。",
+      "url": "https://www.taichung.gov.tw/1012235/"
     }
   ]
 }
