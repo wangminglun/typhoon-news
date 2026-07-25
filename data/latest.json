@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:07:00+08:00",
+  "generated_at": "2026-07-25T21:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於今天上午8時30分解除紅霞海上颱風警報，全台目前並無陸上颱風警報，但台東、恆春半島、屏東山區、花蓮、綠島及蘭嶼仍有局部大雨到豪雨風險，須留意外圍環流帶來的降雨。",
+  "alert_desc": "中央氣象署已於今天上午8時30分解除紅霞海上颱風警報，本次颱風全程未曾發布陸上颱風警報，但屏東、台東、花蓮及恆春半島仍有豪雨特報持續有效，須留意外圍環流帶來的降雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何活動熱帶系統直接影響，今日與全台二十二縣市一同照常上班上課，市內未見直接風雨衝擊，情勢維持平穩，目前無直接影響。"
+    "text": "台中目前未受紅霞或任何活動熱帶系統直接影響，未列入豪雨警戒範圍，暫無停班停課或直接風雨衝擊，目前無直接影響。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞逼近廣東海岸 香港今晚十時十分發出八號風球",
-    "dek": "隨著紅霞持續增強直撲惠州至汕尾一帶海岸，中國華南多個城市停課停運嚴陣以待，而台灣中央氣象署已於今晨解除海上颱風警報，中部地區包括台中未受任何直接影響。",
-    "url": "https://www.stheadline.com/society/3597021/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%E5%A4%A9%E6%96%87%E5%8F%B0%E4%BB%8A%E6%99%9A10%E6%99%8210%E5%88%86%E6%94%B9%E7%99%BC8%E8%99%9F%E7%83%88%E9%A2%A8%E6%88%96%E6%9A%B4%E9%A2%A8%E4%BF%A1%E8%99%9F"
+    "title": "颱風紅霞逼近廣東 香港將發8號風球",
+    "dek": "颱風紅霞（國際命名Noul）在掠過台灣後直撲中國廣東沿岸，香港天文台宣布今晚將懸掛今年最高風球，廣東多地已緊急疏散逾兩萬人。",
+    "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
   },
   "items": [
     {
       "rank": 1,
-      "title": "香港天文台宣布今晚十時十分改發八號風球",
-      "dek": "隨著紅霞逼近廣東沿岸並預計從香港東北方約一百公里掠過，天文台將於發布前約兩小時預告，市民須留意頻密強風、暴雨、雷暴與巨浪。",
-      "url": "https://www.stheadline.com/society/3597021/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%E5%A4%A9%E6%96%87%E5%8F%B0%E4%BB%8A%E6%99%9A10%E6%99%8210%E5%88%86%E6%94%B9%E7%99%BC8%E8%99%9F%E7%83%88%E9%A2%A8%E6%88%96%E6%9A%B4%E9%A2%A8%E4%BF%A1%E8%99%9F"
-    },
-    {
-      "rank": 2,
-      "title": "南華早報：深圳鐵路航空服務全面取消 華南多地學校停課",
-      "dek": "廣東當局宣布省內鐵路服務將於週日前全面暫停，香港、廣州、深圳、珠海及廈門機場自週六起陸續受到影響，多地學校同步停課。",
-      "url": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul"
-    },
-    {
-      "rank": 3,
-      "title": "南華早報：三號信號下香港已取消約一百五十班航班",
-      "dek": "香港國際機場在三號強風信號生效期間已取消近一百五十班航班，全港學校停課，商界與交通系統也開始為可能升級的八號信號預作準備。",
+      "title": "香港天文台宣布今晚10時10分發8號風球",
+      "dek": "隨紅霞逼近，香港已取消逾380班航班並傳出棚架倒塌意外，天文台預告颱風將於週日凌晨從香港東北方掠過。",
       "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
     },
     {
-      "rank": 4,
-      "title": "央視新聞：中國交通運輸部啟動二級應急響應",
-      "dek": "隨著紅霞持續增強逼近廣東，交通運輸部提升應急響應等級，國家氣象中心同步發布橙色預警，預估登陸地點介於香港與惠來縣之間。",
-      "url": "https://news.cgtn.com/news/2026-07-25/China-raises-typhoon-response-as-Noul-strengthens-1P43XThduHm/p.html"
+      "rank": 2,
+      "title": "紅霞逼近廣東沿岸 香港嚴陣以待",
+      "dek": "紅霞已增強為颱風等級，持續風速近每小時130公里，預計在惠州至汕尾一帶登陸後轉向北方並減弱。",
+      "url": "https://www.thestandard.com.hk/news/article/338222/Typhoon-Noul-approaches-Guangdong-Coast-as-HK-braces-for-potential-higher-warning-signal-tonight"
     },
     {
-      "rank": 5,
-      "title": "新華社：紅霞將登陸廣東沿岸 橙色預警持續生效",
-      "dek": "中國國家氣象部門重申橙色預警，預計紅霞將於週六晚間至週日凌晨在廣東中東部沿岸登陸，登陸強度可能達十二至十四級風力。",
-      "url": "https://english.news.cn/20260724/364b4eb617f6469fb392c495613fdde1/c.html"
-    },
-    {
-      "rank": 6,
-      "title": "法新社：廣東因應紅霞逼近已疏散逾兩萬人",
-      "dek": "廣東當局將低窪地區逾兩萬名居民撤離並自二百四十五座水庫洩洪，預估廣東東部與福建南部部分地區累積雨量恐達五百至六百毫米。",
+      "rank": 3,
+      "title": "中國疏散逾兩萬人 發布橙色預警因應紅霞",
+      "dek": "中國國家氣象中心發布四級預警中第二高的橙色警戒，廣東省已疏散逾兩萬名居民並暫停鐵路運輸。",
       "url": "https://www.freemalaysiatoday.com/category/world/2026/07/25/china-evacuates-20-000-people-as-typhoon-noul-nears"
     },
     {
+      "rank": 4,
+      "title": "華南多地停課停飛 嚴防紅霞來襲",
+      "dek": "香港、廣東、深圳、珠海與廈門機場宣布週末暫停運作，潮州等地學校同步停課。",
+      "url": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul"
+    },
+    {
+      "rank": 5,
+      "title": "紅霞遠離台灣 氣象署解除海上颱風警報",
+      "dek": "中央氣象署今晨8時30分解除海上颱風警報，颱風中心持續向西北方向遠離台灣海峽與巴士海峽。",
+      "url": "https://www.ettoday.net/news/20260725/3207344.htm"
+    },
+    {
+      "rank": 6,
+      "title": "屏東台東花蓮豪雨特報未解除",
+      "dek": "儘管海上警報已解除，紅霞外圍環流仍為屏東、台東、花蓮及恆春半島帶來強降雨與雷雨胞警戒。",
+      "url": "https://www.ettoday.net/news/20260725/3207324.htm"
+    },
+    {
       "rank": 7,
-      "title": "自由時報：紅霞增強為中颱 氣象署隨即解除海上颱風警報",
-      "dek": "中央氣象署表示紅霞今晨一度增強為中度颱風，但因持續遠離巴士海峽與台灣海峽，半小時後即宣布解除海上颱風警報，全程未發布陸上警報。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5517053"
+      "title": "氣象署示警週日至週二全台天氣仍不穩定",
+      "dek": "氣象署指出即使警報解除，季風影響下週日至週二台灣天氣仍將維持不穩定狀態。",
+      "url": "https://www.nownews.com/news/6859927"
     },
     {
       "rank": 8,
-      "title": "聯合新聞網：紅霞遠離 氣象署上午八時三十分解除海警",
-      "dek": "氣象署指出，解除警報時暴風中心約在鵝鑾鼻西南方三百三十公里海面，惟基隆、台北、南投、高雄、宜蘭等多縣市仍可能出現強陣風。",
-      "url": "https://udn.com/news/story/7266/9649934"
+      "title": "菲律賓地區同一風暴「Kiyapo」已離開責任區",
+      "dek": "這場國際命名為Noul的風暴在菲律賓稱作Kiyapo，今晨2時離開菲律賓責任區前已在卡加延省登陸。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-5am/"
     },
     {
       "rank": 9,
-      "title": "NOWnews：紅霞遠離仍留豪雨尾巴 花東恆春加強戒備",
-      "dek": "儘管海上颱風警報已解除，氣象署提醒台東、恆春半島、屏東山區、花蓮、綠島及蘭嶼今日仍有局部大雨到豪雨發生的風險。",
-      "url": "https://www.nownews.com/news/6859867"
+      "title": "香港風球信號逐步升級 迎接週末風雨",
+      "dek": "香港天文台自週五晚間起陸續發布一號戒備及三號強風信號，為即將發布的8號風球鋪路。",
+      "url": "https://hongkongfp.com/2026/07/24/tropical-cyclone-noul-hong-kong-raises-t1-signal-ahead-of-stormy-weekend/"
     },
     {
       "rank": 10,
-      "title": "Newtalk新聞：紅霞剛遠離 西北太平洋熱帶擾動接力醞釀恐奔日本",
-      "dek": "氣象專家指出，一股新的熱帶擾動正在西北太平洋發展，人工智慧模式顯示其可能於八月六日至八日前後增強並朝日本方向移動，颱風季即將進入活躍期。",
-      "url": "https://newtalk.tw/news/view/2026-07-25/1049287"
+      "title": "東太平洋颶風佛斯托無陸地威脅",
+      "dek": "與亞太颱風活動無關，颶風佛斯托目前於東太平洋洋面盤旋，對陸地不構成威脅。",
+      "url": "https://capeweather.com/hurricane-fausto-forecast-advisory-number-26/"
     }
   ]
 }
