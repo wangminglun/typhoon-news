@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:06:00+08:00",
+  "generated_at": "2026-07-25T22:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於今天上午8時30分解除紅霞海上颱風警報，本次颱風全程未曾發布陸上颱風警報，但屏東、台東、花蓮及恆春半島仍有豪雨特報持續有效，須留意外圍環流帶來的降雨。",
+  "alert_desc": "中央氣象署已於今天上午8時30分解除紅霞海上颱風警報，本次颱風全程未曾發布陸上颱風警報，紅霞持續遠離台灣朝中國廣東沿岸移動，惟外圍環流仍可能為南部與東部部分地區帶來局部大雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受紅霞或任何活動熱帶系統直接影響，未列入豪雨警戒範圍，暫無停班停課或直接風雨衝擊，目前無直接影響。"
+    "text": "氣象署資料顯示，颱風紅霞直接侵襲台中的機率為零，目前並未針對台中發布任何相關警報，目前無直接影響。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞逼近廣東 香港將發8號風球",
-    "dek": "颱風紅霞（國際命名Noul）在掠過台灣後直撲中國廣東沿岸，香港天文台宣布今晚將懸掛今年最高風球，廣東多地已緊急疏散逾兩萬人。",
-    "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
+    "title": "颱風紅霞增強為中度颱風 台灣解除海上警報後轉向廣東香港",
+    "dek": "中央氣象署上午解除海上颱風警報，紅霞持續增強並朝中國廣東沿岸逼近，香港天文台預告晚間發布八號風球，廣東多地已疏散逾兩萬人。",
+    "url": "https://focustaiwan.tw/society/202607250002"
   },
   "items": [
     {
       "rank": 1,
-      "title": "香港天文台宣布今晚10時10分發8號風球",
-      "dek": "隨紅霞逼近，香港已取消逾380班航班並傳出棚架倒塌意外，天文台預告颱風將於週日凌晨從香港東北方掠過。",
-      "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
+      "title": "台灣解除颱風紅霞海上警報 外圍環流仍將為南部東部添雨",
+      "dek": "中央氣象署清晨宣布解除海警，紅霞持續遠離台灣，但南部與東部仍有明顯降雨風險。",
+      "url": "https://focustaiwan.tw/society/202607250002"
     },
     {
       "rank": 2,
-      "title": "紅霞逼近廣東沿岸 香港嚴陣以待",
-      "dek": "紅霞已增強為颱風等級，持續風速近每小時130公里，預計在惠州至汕尾一帶登陸後轉向北方並減弱。",
-      "url": "https://www.thestandard.com.hk/news/article/338222/Typhoon-Noul-approaches-Guangdong-Coast-as-HK-braces-for-potential-higher-warning-signal-tonight"
+      "title": "氣象署曾示警紅霞增強恐帶豪雨 惟颱風路徑隔夜轉向",
+      "dek": "中央氣象署24日一度預測紅霞增強並為台灣帶來強降雨，但其路徑隨後轉向遠離本島。",
+      "url": "https://focustaiwan.tw/society/202607240016"
     },
     {
       "rank": 3,
-      "title": "中國疏散逾兩萬人 發布橙色預警因應紅霞",
-      "dek": "中國國家氣象中心發布四級預警中第二高的橙色警戒，廣東省已疏散逾兩萬名居民並暫停鐵路運輸。",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/07/25/china-evacuates-20-000-people-as-typhoon-noul-nears"
+      "title": "熱帶風暴紅霞持續增強西進 通過巴士海峽南側",
+      "dek": "《台北時報》報導，紅霞沿巴士海峽以南向西北移動並持續增強，南部東部仍有降雨風險。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/25/2003861362"
     },
     {
       "rank": 4,
-      "title": "華南多地停課停飛 嚴防紅霞來襲",
-      "dek": "香港、廣東、深圳、珠海與廈門機場宣布週末暫停運作，潮州等地學校同步停課。",
-      "url": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul"
+      "title": "紅霞海警解除 花東恆春降雨可望趨緩",
+      "dek": "公視新聞網報導，海上颱風警報解除後，花蓮台東與恆春一帶降雨預期減緩，但局部大雨仍需留意。",
+      "url": "https://news.pts.org.tw/article/819329"
     },
     {
       "rank": 5,
-      "title": "紅霞遠離台灣 氣象署解除海上颱風警報",
-      "dek": "中央氣象署今晨8時30分解除海上颱風警報，颱風中心持續向西北方向遠離台灣海峽與巴士海峽。",
-      "url": "https://www.ettoday.net/news/20260725/3207344.htm"
+      "title": "紅霞升格中度颱風 氣象署同步解除海上警報",
+      "dek": "自由時報報導，中央氣象署宣布紅霞增強為中度颱風，同時因其持續遠離台灣而解除海上颱風警報。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5517053"
     },
     {
       "rank": 6,
-      "title": "屏東台東花蓮豪雨特報未解除",
-      "dek": "儘管海上警報已解除，紅霞外圍環流仍為屏東、台東、花蓮及恆春半島帶來強降雨與雷雨胞警戒。",
-      "url": "https://www.ettoday.net/news/20260725/3207324.htm"
+      "title": "紅霞預計夜間登陸廣東 多地停運停航停課",
+      "dek": "中央社報導，紅霞預計於周六夜間至周日清晨登陸廣東沿岸，當地已疏散逾兩萬人並暫停交通與課程。",
+      "url": "https://www.cna.com.tw/news/acn/202607250058.aspx"
     },
     {
       "rank": 7,
-      "title": "氣象署示警週日至週二全台天氣仍不穩定",
-      "dek": "氣象署指出即使警報解除，季風影響下週日至週二台灣天氣仍將維持不穩定狀態。",
-      "url": "https://www.nownews.com/news/6859927"
+      "title": "香港天文台預告發布八號風球 應對颱風紅霞來襲",
+      "dek": "香港《英文虎報》報導，天文台將於25日晚間10時10分發布八號烈風或暴風信號，此前已發出三號強風信號。",
+      "url": "https://www.thestandard.com.hk/news/article/338223/HKO-to-issue-T8-signal-at-1010pm-as-Typhoon-Noul-threatens"
     },
     {
       "rank": 8,
-      "title": "菲律賓地區同一風暴「Kiyapo」已離開責任區",
-      "dek": "這場國際命名為Noul的風暴在菲律賓稱作Kiyapo，今晨2時離開菲律賓責任區前已在卡加延省登陸。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-5am/"
-    },
-    {
-      "rank": 9,
-      "title": "香港風球信號逐步升級 迎接週末風雨",
-      "dek": "香港天文台自週五晚間起陸續發布一號戒備及三號強風信號，為即將發布的8號風球鋪路。",
+      "title": "香港天文台先發一號戒備信號 迎接颱風紅霞周末風雨",
+      "dek": "香港自由新聞報導，天文台24日晚間發出一號信號，預告週末風力可能升至三號或以上。",
       "url": "https://hongkongfp.com/2026/07/24/tropical-cyclone-noul-hong-kong-raises-t1-signal-ahead-of-stormy-weekend/"
     },
     {
+      "rank": 9,
+      "title": "中國交通部啟動颱風二級應急響應 廣東福建拉響豪雨警報",
+      "dek": "央視網報導，中國交通運輸部因應紅霞增強啟動二級應急響應，氣象部門發布橙色預警，廣東、福建及江西恐現豪雨。",
+      "url": "https://news.cgtn.com/news/2026-07-25/China-raises-typhoon-response-as-Noul-strengthens-1P43XThduHm/p.html"
+    },
+    {
       "rank": 10,
-      "title": "東太平洋颶風佛斯托無陸地威脅",
-      "dek": "與亞太颱風活動無關，颶風佛斯托目前於東太平洋洋面盤旋，對陸地不構成威脅。",
-      "url": "https://capeweather.com/hurricane-fausto-forecast-advisory-number-26/"
+      "title": "菲律賓氣象署：熱帶氣旋「基亞波」快速增強為颱風並離開責任區",
+      "dek": "菲律賓大氣地球物理暨天文服務署報導，同一系統（國際命名紅霞）已快速增強為颱風並於清晨駛離菲律賓責任海域。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-5am/"
     }
   ]
 }
