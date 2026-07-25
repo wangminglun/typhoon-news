@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T00:05:00+08:00",
+  "generated_at": "2026-07-25T17:02:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對任何颱風發布海上或陸上警報。菲律賓以東另有兩個熱帶系統受到關注：一個可能於24小時內發展為菲律賓熱帶低壓「Kiyapo」，另一個則被中國大陸氣象單位預測將發展為今年第12號颱風「紅霞」，但均未對台灣構成直接威脅。",
+  "alert_desc": "中央氣象署已於25日上午8時30分解除紅霞颱風海上颱風警報，全程未發布陸上警報。紅霞從台灣南方海域通過後持續增強，現正轉向中國廣東、福建沿岸逼近。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響、無停班停課；今日僅山區列入豪（大）雨特報範圍，因午後對流旺盛可能出現局部大雨或豪雨，須留意雷擊、強陣風及山區坍方、落石風險，但這是一般夏季對流性降雨，並非颱風所致。"
+    "text": "台中目前無颱風直接影響：25日僅有例行性午後雷陣雨，氣溫介於攝氏27度至34度之間，全台22縣市（含台中）均維持正常上班上課，無停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風警報未見蹤影 台灣今仍籠罩豪雨特報 兩股菲律賓外海熱帶擾動牽動周末天氣",
-    "dek": "中央氣象署尚未對任何颱風發布警報，但氣象學界正密切觀察兩個位於菲律賓外海的熱帶系統——一個可能成為菲律賓「Kiyapo」熱帶低壓，另一個則被中國大陸氣象單位預測將發展為今年第12號颱風「紅霞」——兩者目前均未直接威脅台灣。",
-    "url": "https://www.singtaousa.com/2026/07/21/news/china/typhoon-hongxia-guangdong-landing-forecast/"
+    "title": "颱風紅霞掠過台灣南方 氣象署解除海警 風暴轉向中國大陸沿岸逼近",
+    "dek": "中央氣象署二十五日上午解除海上颱風警報，紅霞颱風未直接侵襲台灣，但外圍環流持續為花東與恆春半島帶來豪雨，同時風暴增強後正逼近中國廣東、福建沿海。",
+    "url": "https://udn.com/news/story/7266/9649934"
   },
   "items": [
     {
       "rank": 1,
-      "title": "深圳氣象台預告：熱帶擾動醞釀成颱 「紅霞」估7月26日登陸廣東",
-      "dek": "中國大陸氣象單位預測，菲律賓以東的熱帶擾動將發展為今年第12號颱風，並可能於7月26日前後以颱風強度登陸廣東沿岸。",
-      "url": "https://www.singtaousa.com/2026/07/21/news/china/typhoon-hongxia-guangdong-landing-forecast/"
+      "title": "紅霞颱風遠離 氣象署上午8時30分解除海警",
+      "dek": "中央氣象署宣布，隨著紅霞颱風持續遠離台灣，已於二十五日上午八時三十分解除海上颱風警報。",
+      "url": "https://udn.com/news/story/7266/9649934"
     },
     {
       "rank": 2,
-      "title": "菲律賓氣象署：外海低壓區恐入責任區 24小時內可能增強為熱帶低壓",
-      "dek": "PAGASA表示，一個遠在菲律賓以東的低壓區有很高機率於一天內發展為熱帶低壓，並可能於周三進入該國責任海域。",
-      "url": "https://bworldonline.com/the-nation/2026/07/21/764869/lpa-to-enter-par-likely-to-develop-into-tropical-depression-pagasa/"
+      "title": "紅霞升格中颱！對巴士海峽及台灣海峽已無威脅 氣象署解除海警",
+      "dek": "紅霞已增強為中度颱風，最大風速每秒三十三公尺，氣象署證實其已不再對巴士海峽與台灣海峽構成威脅。",
+      "url": "https://udn.com/news/story/7266/9649988"
     },
     {
       "rank": 3,
-      "title": "下一個「Kiyapo」？氣象專員稱外海低壓區恐週末逼近呂宋北部",
-      "dek": "PAGASA氣象專員Benison Estareja表示，位於東維薩亞斯以東逾1500公里的低壓區可能增強為熱帶風暴，並於7月24日至25日移向呂宋島北部。",
-      "url": "https://www.rappler.com/philippines/weather/lpa-southwest-monsoon-update-pagasa-forecast-july-21-2026-5pm/"
+      "title": "颱風紅霞海警解除 花東、恆春降雨有望緩和",
+      "dek": "海上颱風警報解除後，先前受紅霞外圍雨帶影響出現豪雨的花蓮、台東與恆春半島，降雨可望逐漸趨緩。",
+      "url": "https://news.pts.org.tw/article/819329"
     },
     {
       "rank": 4,
-      "title": "呂宋島以東新生低壓區 是否為「Kiyapo」前身引關注",
-      "dek": "馬尼拉媒體報導，菲律賓氣象署正密切監測呂宋島以東新形成的低壓區，評估其是否將發展為熱帶低壓Kiyapo。",
-      "url": "https://mb.com.ph/2026/07/21/new-lpa-forms-east-of-luzon-could-this-be-kiyapo"
+      "title": "颱風動態》紅霞颱風解除警報！最新路徑、影響範圍一次看",
+      "dek": "TVBS整理氣象署解除紅霞颱風警報後的最新路徑與影響範圍，提醒南部與東部地區午後前仍有降雨風險。",
+      "url": "https://news.tvbs.com.tw/life/3265375"
     },
     {
       "rank": 5,
-      "title": "責任區外低壓區恐轉熱帶低壓 菲國氣象署持續觀察",
-      "dek": "Philstar報導證實，菲律賓氣象署已對境外低壓區發布24小時熱帶氣旋生成展望，該系統一旦進入責任區將更名為Kiyapo。",
-      "url": "https://www.philstar.com/headlines/weather/2026/07/21/2543641/lpa-outside-par-may-become-tropical-depression-pagasa"
+      "title": "紅霞颱風動態整理！最新「路徑、強度、風雨、停班課機率」一次看",
+      "dek": "綜合整理顯示，紅霞颱風於夜間從台灣南方海域通過後，全台二十二縣市二十五日均維持正常上班上課，未發布停班停課。",
+      "url": "https://www.nownews.com/news/6859674"
     },
     {
       "rank": 6,
-      "title": "高溫直逼36度、午後雷雨齊發 氣象署：周末外海系統恐增強為熱帶低壓",
-      "dek": "台灣今日高溫上看36度並伴隨午後雷陣雨，氣象單位同時指出菲律賓東南方擾動最快周末增強，屆時恐為東部及恆春半島帶來降雨，但尚無颱風直接威脅台灣的跡象。",
-      "url": "https://www.nownews.com/news/6858566"
+      "title": "「奇亞波」快速增強為颱風 已離開菲律賓責任區",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，奇亞波（國際命名Noul）已快速增強為颱風，並於二十五日凌晨二時離開菲律賓責任區。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-5am/"
     },
     {
       "rank": 7,
-      "title": "對流雲系發展旺盛 氣象署對16縣市發布豪雨特報至入夜",
-      "dek": "中央氣象署表示，7月21日全台16縣市（含台中山區）因午後對流旺盛發布豪（大）雨特報，屬短延時強降雨，非颱風系統所致。",
-      "url": "https://www.ettoday.net/news/20260721/3205182.htm"
+      "title": "奇亞波持續遠離 菲律賓解除所有風力警報但季風雨勢未歇",
+      "dek": "隨著奇亞波持續朝中國方向移動，菲律賓已解除境內所有風力警報信號，但受其增強的西南季風雨勢仍影響呂宋部分地區。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-11am/"
     },
     {
       "rank": 8,
-      "title": "熱帶低壓估週五前後成形 氣象專家：東部、恆春半島週末降雨機率上升",
-      "dek": "氣象預報指出，菲律賓外海擾動可能於7月24日周五前後組織成熱帶低壓，隨台灣轉受東風影響，東部及恆春半島週末降雨機率增加，但目前未見系統直接登陸台灣的跡象。",
-      "url": "https://www.ettoday.net/news/20260720/3204566.htm"
+      "title": "風力警報解除 奇亞波週六朝中國南部逼近",
+      "dek": "菲律賓《詢問者日報》報導，PAGASA解除熱帶氣旋風力警報後，奇亞波預計於週六夜間至週日上午在廣東、福建一帶登陸。",
+      "url": "https://newsinfo.inquirer.net/2270284/wind-signals-lifted-as-kiyapo-heads-towards-southern-china-on-saturday"
     },
     {
       "rank": 9,
-      "title": "氣象署一週展望：16縣市豪雨特報 週末不排除熱帶低壓北修逼近台灣",
-      "dek": "中央氣象署最新一週天氣展望指出，7月21日至24日水氣減少、降雨集中山區，但週末一熱帶低壓若路徑北修，仍有機率接近台灣，惟目前尚非正式颱風威脅。",
-      "url": "https://news.pchome.com.tw/living/upmedia/20260721/index-78462134036141236009.html"
+      "title": "中國嚴陣以待 熱帶風暴Noul逼近沿岸恐帶來強降雨",
+      "dek": "中國當局因應Noul逼近東南沿海，預估廣東、福建與江西一帶降雨量將達一百五十至三百毫米，局部地區可能高達六百毫米。",
+      "url": "https://tribune.com.pk/story/2619974/china-braces-for-heavy-rain-as-tropical-storm-noul-edges-closer"
     },
     {
       "rank": 10,
-      "title": "準颱風「紅霞」醞釀中 香港媒體評估對本港威脅程度",
-      "dek": "香港「點新聞」報導指出，菲律賓以東醞釀中的準颱風「紅霞」未來可能登陸廣東、廣西沿岸，並探討其對香港的潛在影響。",
-      "url": "https://www.dotdotnews.com/a/202607/21/AP6a5f161be4b04b6c5d342140.html"
+      "title": "中國發布橙色預警 嚴防颱風Noul來襲",
+      "dek": "中國氣象部門發布次高等級的橙色預警，預計Noul將於廣東珠海至福建漳浦一帶登陸，恐帶來強陣風、沿海淹水與長時間停電。",
+      "url": "https://qazinform.com/news/china-braces-for-typhoon-noul-issues-orange-alert-f18e02"
     }
   ]
 }
