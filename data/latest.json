@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T23:06:00+08:00",
+  "generated_at": "2026-07-26T00:05:00+08:00",
   "alert_level": "none",
-  "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於今天上午8時30分解除紅霞海上颱風警報，本次颱風全程未曾發布陸上颱風警報，僅有的陸上強風特報也隨風暴遠離而逐漸解除，紅霞持續朝中國廣東沿岸移動。",
+  "alert_text": "目前無警報（海上颱風警報已解除，紅霞已遠離台灣海域）",
+  "alert_desc": "目前無警報（海上颱風警報已解除，紅霞已遠離台灣海域）",
   "region_watch": {
     "region": "台中",
-    "text": "台中未受紅霞直接侵襲，未發布任何風雨警報，也無停班停課情形；當地已發布黃色高溫燈號，潭子測站飆破攝氏36度，係紅霞外圍環流下沉氣流引發焚風效應所致，非颱風直接影響。"
+    "text": "台中目前未受紅霞直接風雨警報影響，僅受外圍下沉氣流引發焚風效應，氣象署已發布黃色高溫警示（攝氏36度以上），提醒民眾注意高溫風險。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞掠過台灣南方　中央氣象署解除海上警報　風暴轉向直撲廣東",
-    "dek": "中央氣象署週六上午解除紅霞海上颱風警報，暴風圈持續遠離台灣本島，但外圍環流仍為中南部帶來焚風高溫與局部豪雨，氣象單位同時已開始觀察下一個可能成形的熱帶擾動。",
+    "title": "颱風紅霞逼近華南　香港掛八號風球評估九號　台灣海警解除",
+    "dek": "中央氣象署已解除對颱風紅霞的海上警報，香港天文台則懸掛八號風球並評估升級九號信號，廣東沿岸嚴陣以待風暴清晨登陸。",
     "url": "https://focustaiwan.tw/society/202607250002"
   },
   "items": [
     {
       "rank": 1,
-      "title": "紅霞遠離　中央氣象署解除海上颱風警報",
-      "dek": "氣象署清晨觀測紅霞持續向西北移動，暴風圈逐漸遠離台灣，但南部與東部外圍雨勢未歇。",
+      "title": "氣象署解除紅霞海上颱風警報",
+      "dek": "中央氣象署上午八時三十分解除海警，紅霞持續遠離台灣，但外圍環流仍可能為南部與東部帶來豪雨。",
       "url": "https://focustaiwan.tw/society/202607250002"
     },
     {
       "rank": 2,
-      "title": "熱帶風暴紅霞增強逼近　中央氣象署發布海上警報",
-      "dek": "紅霞在菲律賓東方海面增強為熱帶風暴，逐步逼近台灣南方海域，氣象署隨即發布海上颱風警報。",
-      "url": "https://focustaiwan.tw/society/202607240002"
+      "title": "香港天文台懸掛八號風球　評估是否升為九號",
+      "dek": "天文台表示，隨紅霞逼近，將於26日凌晨一時至二時左右考慮發出九號烈風或暴風增強信號。",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1863637-20260725.htm"
     },
     {
       "rank": 3,
-      "title": "氣象署預測：紅霞通過巴士海峽後將於南海增強　轉往廣東登陸",
-      "dek": "預報員指出，紅霞南下期間將維持熱帶風暴強度，直到進入南海後才會增強為颱風並登陸中國廣東。",
-      "url": "https://focustaiwan.tw/society/202607240016"
+      "title": "香港掛八號風球並考慮九號信號　交通大受影響",
+      "dek": "《南華早報》報導，隨紅霞逼近，香港航班與鐵路服務相繼停駛，天文台正評估是否進一步升級風球信號。",
+      "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
     },
     {
       "rank": 4,
-      "title": "台北時報：熱帶風暴持續增強西行　掠過台灣南方海域",
-      "dek": "報導記錄紅霞在通過台灣南方後持續增強，並穩定朝中國南方沿岸推進的路徑。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/25/2003861362"
-    },
-    {
-      "rank": 5,
-      "title": "因應紅霞增強逼近　中國交通運輸部啟動颱風二級應急響應",
-      "dek": "隨著紅霞持續增強並逼近廣東沿岸，中國交通運輸主管部門提前部署防颱應變措施。",
+      "title": "中國交通部啟動二級應急響應因應紅霞增強",
+      "dek": "廣東、福建沿岸已疏散逾兩萬人，鐵路服務暫停，以因應紅霞登陸前的風雨衝擊，據央視CGTN報導。",
       "url": "https://news.cgtn.com/news/2026-07-25/China-raises-typhoon-response-as-Noul-strengthens-1P43XThduHm/p.html"
     },
     {
+      "rank": 5,
+      "title": "天文台預告晚間十時十分掛八號風球　登陸點距港約百公里",
+      "dek": "HK01報導，紅霞預計登陸廣東惠州至汕尾一帶，路徑距香港東北方約一百公里。",
+      "url": "https://www.hk01.com/熱爆話題/60372967/颱風紅霞打風-天文台預告今晚10-10發8號風球-香港約100公里東登"
+    },
+    {
       "rank": 6,
-      "title": "紅霞預計週末深夜登陸廣東沿岸　中國重發橙色預警",
-      "dek": "今年第12號颱風紅霞估計在香港與陸豐之間登陸，廣東、湖南、江西料將迎來強風豪雨。",
-      "url": "https://www.chinadailyasia.com/hk/article/636912"
+      "title": "第13號颱風「白海豚」週末恐生成　對台灣影響有限",
+      "dek": "《新頭殼》報導，熱帶擾動93W最快26日發展為今年第13號颱風，預測路徑轉向日本，台灣預期不受直接影響。",
+      "url": "https://newtalk.tw/news/view/2026-07-24/1049069"
     },
     {
       "rank": 7,
-      "title": "Kiyapo（紅霞）迅速增強為颱風　已脫離菲律賓警戒責任區",
-      "dek": "菲律賓大氣地球物理天文服務署表示，風暴已於週六凌晨脫離菲律賓警戒範圍，陣風一度達每小時150公里。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-5am/"
+      "title": "紅霞持續增強西行　已完成對台最接近路徑",
+      "dek": "《台北時報》引述氣象署資料指出，紅霞週六已完成對台灣最近距離的通過，風暴持續向西增強。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/25/2003861362"
     },
     {
       "rank": 8,
-      "title": "颱風Kiyapo遠離菲律賓　當局解除警報但西南季風雨勢持續",
-      "dek": "PAGASA上午解除所有風雨警報，惟菲律賓部分地區仍因西南季風而持續降雨。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-11am/"
+      "title": "紅霞外圍引發焚風效應　南投飆38度居冠",
+      "dek": "《NOWnews今日新聞》報導，紅霞外圍下沉氣流致半個台灣出現焚風高溫，氣象署對台中發布黃色高溫警示。",
+      "url": "https://www.nownews.com/news/6860074"
     },
     {
       "rank": 9,
-      "title": "紅霞逼近中國南方沿岸　區域進入豪雨強風高度戒備",
-      "dek": "國際通訊社報導，廣東地區在颱風登陸前已進入高度戒備，防範強降雨與破壞性強風侵襲。",
-      "url": "https://abcnews.com/International/wireStory/typhoon-noul-nears-southern-china-putting-region-high-135075426"
+      "title": "紅霞升格中颱　氣象署解除海警不再威脅台灣海峽",
+      "dek": "《聯合新聞網》報導，氣象署證實紅霞已增強為中度颱風，惟不再對巴士海峽及台灣海峽構成威脅，花東屏仍有豪雨疑慮。",
+      "url": "https://udn.com/news/story/7266/9649988"
     },
     {
       "rank": 10,
-      "title": "紅霞之後恐現接力颱風「白海豚」　路徑估轉向日本",
-      "dek": "氣象專家正密切觀察西北太平洋熱帶擾動93W，若成形將為今年第13號颱風，預估路徑指向日本而非台灣。",
-      "url": "https://www.storm.mg/lifestyle/11151389"
+      "title": "紅霞逼近華南　區域嚴防強風豪雨",
+      "dek": "美聯社報導，港澳與廣東多地展開疏散並暫停交通運輸，因應紅霞登陸前可能達到的最強強度。",
+      "url": "https://abcnews.com/International/wireStory/typhoon-noul-nears-southern-china-putting-region-high-135075426"
     }
   ]
 }
