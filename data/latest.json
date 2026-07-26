@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:06:00+08:00",
+  "generated_at": "2026-07-26T20:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於7月25日上午8時30分解除颱風諾盧的海上颱風警報，全程未發布陸上颱風警報，截至7月26日晚間仍無新警報生效中。",
+  "alert_desc": "中央氣象署已於7月25日上午8時30分解除颱風紅霞的海上颱風警報，全程未發布陸上颱風警報，截至7月26日晚間仍無新警報生效中，僅南部與東部地區須留意殘留西南氣流雨勢。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。諾盧路徑偏南，經巴士海峽外海通過並在廣東登陸，台中及中部地區並未受到直接風雨影響，反而因焚風效應出現氣溫偏高情形，當地也未傳出停班停課消息。"
+    "text": "目前無直接影響。紅霞（Noul／Kiyapo）路徑偏南，已於廣東登陸並持續減弱，台中及中部地區並未受到直接風雨影響，也未傳出停班停課消息，僅提醒留意西南氣流可能帶來的午後雷陣雨。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風諾盧登陸廣東　中國今年最強風暴迫使逾70萬人疏散",
-    "dek": "這場一度掠過台灣巴士海峽的強颱，週日凌晨在廣東惠州登陸，為香港與華南帶來強風豪雨與大規模交通中斷，而台灣本島並未受到直接衝擊。",
+    "title": "颱風紅霞深入廣東內陸持續減弱　華南展開災損與撤離人數盤點，台灣警報全數解除",
+    "dek": "在週日凌晨登陸廣東惠州後，這場今年以來侵襲中國最強的颱風已減弱為熱帶風暴並持續北移減弱，香港天文台已取消所有熱帶氣旋警告，台灣中央氣象署也維持零警報狀態，僅殘留西南氣流為東部及南部地區帶來局部大雨。",
     "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
   },
   "items": [
     {
       "rank": 1,
-      "title": "諾盧颱風登陸中國　廣東疏散逾數十萬人",
-      "dek": "半島電視台報導，颱風諾盧週日凌晨在中國南部沿海登陸，廣東省疏散數十萬居民，並帶來強風豪雨。",
+      "title": "半島電視台：紅霞登陸中國，逾數十萬人緊急撤離",
+      "dek": "Al Jazeera報導，紅霞週日凌晨登陸廣東惠州，是今年以來登陸中國最強的颱風，已促使逾70萬人撤離並致數百航班取消。",
       "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
     },
     {
       "rank": 2,
-      "title": "諾盧登陸後　強風豪雨侵襲中國",
-      "dek": "《日本時報》報導，諾盧於週日凌晨3時50分在廣東惠州惠東縣沿海登陸，官方確認為今年以來侵襲中國最強颱風。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
-    },
-    {
-      "rank": 3,
-      "title": "諾盧襲港　強風豪雨致9人受傷、逾350班航班取消",
-      "dek": "香港自由新聞報導，諾盧在香港東北方約80公里處登陸，最大持續風速達每小時162公里，重創港澳交通。",
-      "url": "https://hongkongfp.com/2026/07/26/typhoon-noul-strong-winds-and-rain-lash-hong-kong-and-china-as-storm-makes-landfall/"
-    },
-    {
-      "rank": 4,
-      "title": "諾盧登陸後減弱　華南豪雨未歇",
-      "dek": "美聯社報導，諾盧登陸後強度減弱，但持續在華南地區帶來豪雨，廣東當局維持高度戒備因應洪澇風險。",
-      "url": "https://abcnews.com/International/wireStory/typhoon-noul-weakens-after-making-landfall-brings-heavy-135094999"
-    },
-    {
-      "rank": 5,
-      "title": "諾盧襲擊華南　逾70萬人疏散、航班停飛",
-      "dek": "CBS News報導，廣東省疏散人數超過70萬人，鐵路服務暫停，港中兩地合計數百班航班取消。",
-      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
-    },
-    {
-      "rank": 6,
-      "title": "台灣氣象署解除諾盧海上颱風警報",
-      "dek": "中央社英文網報導，中央氣象署週六上午解除對諾盧的海上颱風警報，惟外圍環流仍可能為南部與東部帶來降雨。",
-      "url": "https://focustaiwan.tw/society/202607250002"
-    },
-    {
-      "rank": 7,
-      "title": "中央氣象署發布諾盧海上颱風警報",
-      "dek": "中央社英文網報導，氣象署於颱風諾盧增強並接近台灣南方海域之際，發布海上颱風警報。",
-      "url": "https://focustaiwan.tw/society/202607240002"
-    },
-    {
-      "rank": 8,
-      "title": "諾盧逼近廣東　逾2萬人疏散、預測降雨量達600毫米",
-      "dek": "氣象觀測網站The Watchers報導，廣東當局在颱風登陸前疏散逾2萬人，並將防汛防颱應急響應提升至第三級。",
-      "url": "https://watchers.news/2026/07/25/over-20-000-evacuated-as-typhoon-noul-approaches-guangdong-up-to-600-mm-24-inches-of-rain-forecast-china/"
-    },
-    {
-      "rank": 9,
-      "title": "影像直擊：中國遭今年最強颱風侵襲　工地鷹架倒塌",
-      "dek": "CNN影像報導捕捉諾盧來襲期間中國多地災情，包括強風吹垮建築工地鷹架的畫面。",
+      "title": "CNN現場畫面：中國遭今年最強颱風侵襲，鷹架應聲倒塌",
+      "dek": "CNN影像報導記錄紅霞襲擊廣東期間強風豪雨造成的結構損害，包括鷹架倒塌等災情。",
       "url": "https://edition.cnn.com/2026/07/26/world/video/china-hit-by-largest-typhoon-2026-noul-digvid-vrtc"
     },
     {
+      "rank": 3,
+      "title": "美聯社：紅霞登陸後減弱，華南持續強降雨",
+      "dek": "AP報導指紅霞已減弱為熱帶風暴並持續深入內陸，中國氣象部門預期廣東南部與福建東南部仍將面臨強降雨。",
+      "url": "https://www.clickorlando.com/news/2026/07/26/typhoon-noul-weakens-after-making-landfall-brings-heavy-rain-to-southern-china/"
+    },
+    {
+      "rank": 4,
+      "title": "中國官媒：廣東撤離近35萬人因應颱風紅霞",
+      "dek": "CGTN引述地方應急部門數據，稱廣東全省在紅霞登陸前後已撤離近35萬人。",
+      "url": "https://news.cgtn.com/news/2026-07-26/Typhoon-Noul-makes-landfall-in-south-China-s-Guangdong-1P5k1ZLVyzS/p.html"
+    },
+    {
+      "rank": 5,
+      "title": "國際通訊社：紅霞登陸南中國，撤離人數逾70萬",
+      "dek": "土耳其A News引述較高估計，指隨著更多縣市陸續通報，撤離人數已攀升至70萬人以上。",
+      "url": "https://www.anews.com.tr/asia/2026/07/26/over-700000-evacuated-as-typhoon-noul-makes-landfall-in-southern-china"
+    },
+    {
+      "rank": 6,
+      "title": "東網：「紅霞」減弱遠離，天文台取消所有熱帶氣旋警告",
+      "dek": "香港天文台在紅霞登陸前夕一度發出今年首個9號信號，隨風暴減弱遠離已於週日晚間7時10分前取消所有警告。",
+      "url": "https://hk.on.cc/hk/bkn/cnt/news/20260726/bkn-20260726124004509-0726_00822_001.html"
+    },
+    {
+      "rank": 7,
+      "title": "蘋果仁：紅霞海警已解除、陸警始終未發布，台灣天氣回歸常態",
+      "dek": "報導確認中央氣象署已於7月25日解除海上颱風警報，且因颱風中心經巴士海峽南側通過，全程未發布陸上警報。",
+      "url": "https://applealmond.com/posts/320471"
+    },
+    {
+      "rank": 8,
+      "title": "Yahoo TW：颱風警報全解除，屏東、花東仍須防豪雨",
+      "dek": "氣象署簡報指出，紅霞相關颱風警報已全數解除，但屏東與花東地區、新竹以南午後仍有大雨風險。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E8%A7%A3%E9%99%A4%E9%A2%B1%E9%A2%A8%E8%AD%A6%E5%A0%B1-%E5%B1%8F%E6%9D%B1%E3%80%81%E8%8A%B1%E6%9D%B1%E9%98%B2%E8%B1%AA%E9%9B%A8-%E6%96%B0%E7%AB%B9%E4%BB%A5%E5%8D%97%E4%B8%AD%E5%8D%88%E5%BE%8C%E9%98%B2%E5%A4%A7%E9%9B%A8-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E5%8D%B3%E6%99%82%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-012709926.html"
+    },
+    {
+      "rank": 9,
+      "title": "NOWnews：花東南部慎防大雨，西半部高溫直逼36度",
+      "dek": "氣象署預報南方雲系北移將為花東及恆春半島帶來局部大雨，降雨風險預計持續至週二，西半部同時面臨34至36度高溫。",
+      "url": "https://www.nownews.com/news/6860076"
+    },
+    {
       "rank": 10,
-      "title": "諾盧增強西南季風　菲律賓多地降雨",
-      "dek": "《菲律賓每日詢問者報》報導，菲律賓氣象機構PAGASA表示，當地稱「Kiyapo」的諾盧增強西南季風，為菲國大部分地區帶來降雨。",
-      "url": "https://newsinfo.inquirer.net/2270370/typhoon-noul-enhanced-habagat-to-bring-rain-in-most-of-ph-pagasa"
+      "title": "Philstar：風暴前身「Kiyapo」侵襲呂宋，3人死亡、逾9300人撤離",
+      "dek": "在成為紅霞之前，這個系統以熱帶風暴Kiyapo之名橫掃菲律賓呂宋島最北部，菲律賓民防部門統計造成3人死亡、1人失蹤。",
+      "url": "https://www.philstar.com/headlines/weather/2026/07/24/2544336/signal-no-2-raised-kiyapo-strengthens-tropical-storm"
     }
   ]
 }
