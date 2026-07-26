@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T00:05:00+08:00",
+  "generated_at": "2026-07-27T01:05:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於7月25日上午8時30分解除颱風紅霞的海上颱風警報，全程未發布陸上颱風警報，截至7月27日凌晨台灣本島仍無任何海上或陸上颱風警報生效中；中太平洋一股熱帶擾動（92C）最快7月28日可能發展為今年第13號颱風「白海豚」，目前尚未正式編號命名。",
+  "alert_desc": "中央氣象署已於7月25日上午8時30分解除颱風紅霞的海上颱風警報，全程未發布陸上颱風警報，截至7月27日凌晨台灣本島仍無任何海上或陸上颱風警報生效中；菲律賓東方一股熱帶擾動（92C）最快7月28日可能發展為今年第13號颱風「白海豚」，目前尚未正式生成。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區目前並未受到颱風紅霞或潛在系統「白海豚」的直接風雨影響，僅有典型夏季午後對流雷雨機率，未見停班停課相關公告。"
+    "text": "目前無直接影響。台中並未受到颱風紅霞影響，市府未因此發布任何停班停課或風雨警戒，全市運作如常；潛在系統「白海豚」預估路徑轉向日本，對台中亦無直接威脅。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞重創華南釀十死 台灣解除海警本島無虞 太平洋新擾動醞釀「白海豚」",
-    "dek": "今年最強颱風紅霞週日凌晨登陸廣東，造成至少十死、逾八十萬人疏散，台灣中央氣象署已解除海上颱風警報，全程未發布陸警，而中太平洋一股熱帶擾動則被點名可能成為下一個颱風「白海豚」。",
+    "title": "紅霞重創華南10死 台灣擦邊 白海豚醞釀成形",
+    "dek": "颱風紅霞登陸廣東造成至少10死、逾80萬人疏散，台灣僅受外圍環流影響、警報已解除，氣象專家並示警下一個颱風白海豚最快週二生成。",
     "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
   },
   "items": [
     {
       "rank": 1,
-      "title": "紅霞颱風登陸廣東 數十萬民眾緊急疏散",
-      "dek": "《半島電視台》報導，颱風紅霞週日凌晨於廣東惠州登陸，當局提前疏散數十萬居民以應對今年最強風暴。",
+      "title": "紅霞登陸廣東 數十萬人疏散",
+      "dek": "《半島電視台》報導，颱風紅霞週日凌晨登陸廣東惠州惠東縣，中國當局在其抵達前疏散數十萬居民並暫停鐵路與航班營運。",
       "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
     },
     {
       "rank": 2,
-      "title": "逾八十萬人撤離 香港機場取消數百航班",
-      "dek": "《CBS新聞》報導，紅霞侵襲華南導致廣東逾八十萬人疏散，香港機場取消約三百五十班航班，數千旅客受困。",
-      "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
-    },
-    {
-      "rank": 3,
-      "title": "紅霞登陸釀十死 香港逾二十人受傷",
-      "dek": "《Deccan Herald》報導，颱風紅霞登陸廣東後已造成至少十人死亡，香港方面另有至少二十一人受傷。",
-      "url": "https://www.deccanherald.com/world/china/ten-killed-after-typhoon-noul-makes-landfall-in-southern-china-4088018"
-    },
-    {
-      "rank": 4,
-      "title": "紅霞減弱為熱帶風暴 中國撥款救災重建",
-      "dek": "《華盛頓郵報》報導，紅霞登陸後已減弱為熱帶風暴仍持續帶來強風豪雨，中國中央政府已撥款約一千四百八十萬美元用於救災。",
-      "url": "https://www.washingtonpost.com/world/2026/07/26/typhoon-noul-china-rain-wind/ed955bf6-88c2-11f1-9cec-0fb26676f07e_story.html"
-    },
-    {
-      "rank": 5,
-      "title": "強風豪雨橫掃華南 新華社稱今年最猛颱風",
-      "dek": "《日本時報》報導，紅霞登陸後強風豪雨重創廣東與香港，新華社證實其為今年侵襲中國大陸最強颱風。",
+      "title": "中國發布罕見紅色警報",
+      "dek": "《日本時報》報導，紅霞登陸後為華南沿岸帶來強風豪雨並中斷交通，中國國家氣象中心罕見發布紅色警報，政府已撥款展開救災。",
       "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
     },
     {
+      "rank": 3,
+      "title": "鷹架倒塌 強風重創廣東",
+      "dek": "CNN影像顯示，紅霞強風吹垮廣東省內鷹架等設施，凸顯今年以來侵襲中國最強颱風造成的破壞規模。",
+      "url": "https://www.cnn.com/2026/07/26/world/video/china-hit-by-largest-typhoon-2026-noul-digvid-vrtc"
+    },
+    {
+      "rank": 4,
+      "title": "紅霞奪10命 逾80萬人疏散",
+      "dek": "《Deccan Herald》報導，紅霞登陸華南已造成至少10人死亡，廣東省逾80萬居民被迫撤離，航班與高鐵大量取消停駛。",
+      "url": "https://www.deccanherald.com/world/china/ten-killed-after-typhoon-noul-makes-landfall-in-southern-china-4088018"
+    },
+    {
+      "rank": 5,
+      "title": "紅霞減弱 持續北移入湘",
+      "dek": "《美聯社》報導，紅霞登陸後已減弱為熱帶風暴並持續深入內陸，預測其將於7月27日減弱為熱帶低氣壓並移入湖南。",
+      "url": "https://www.clickorlando.com/news/2026/07/26/typhoon-noul-weakens-after-making-landfall-brings-heavy-rain-to-southern-china/"
+    },
+    {
       "rank": 6,
-      "title": "紅霞遠離 氣象署解除海上颱風警報",
-      "dek": "《Focus Taiwan》報導，中央氣象署週六上午八時三十分解除紅霞海上颱風警報，惟外圍環流仍可能為台灣南部及東部帶來強降雨。",
-      "url": "https://focustaiwan.tw/society/202607250002"
+      "title": "港穗交通大亂 數百航班取消",
+      "dek": "《LatestLY》報導，紅霞造成香港與廣東交通嚴重受阻，逾410班航班與多班列車取消，惟風暴已見減弱。",
+      "url": "https://www.latestly.com/world/typhoon-noul-weakens-after-china-landfall-8-lakh-evacuated-hundreds-of-hong-kong-flights-cancelled-7532884.html"
     },
     {
       "rank": 7,
-      "title": "紅霞不再威脅台灣 氣象署解除海警、未發陸警",
-      "dek": "《聯合新聞網》報導，氣象署證實紅霞已不再威脅巴士海峽與台灣海峽並解除海警，由於颱風眼未直接掃過台灣，全程未發布陸上颱風警報。",
-      "url": "https://udn.com/news/story/7266/9649934"
+      "title": "海警解除 台灣未受直接衝擊",
+      "dek": "《蘋果仁》報導，中央氣象署已於7月25日上午解除紅霞海上颱風警報，全程未發布陸上警報，僅花蓮、台東與屏東受外圍環流影響。",
+      "url": "https://applealmond.com/posts/320471"
     },
     {
       "rank": 8,
-      "title": "中太擾動跨海而來 「白海豚」最快週二現身",
-      "dek": "《自由時報》報導，編號92C的熱帶擾動正跨越國際換日線進入西北太平洋，最快週二可能發展成今年第十三號颱風「白海豚」，但轉彎路徑仍待觀察。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5518205"
+      "title": "白海豚醞釀 對台無直接影響",
+      "dek": "《東森新聞》報導，菲律賓東方熱帶擾動可望發展為今年第13號颱風白海豚，中央氣象署預估其路徑將轉向日本，對台無直接威脅。",
+      "url": "https://news.ebc.net.tw/news/living/563160"
     },
     {
       "rank": 9,
-      "title": "超級厄爾尼諾年助勢 「白海豚」恐又強又大",
-      "dek": "《中時新聞網》報導，氣象粉專示警，在超級厄爾尼諾年條件下，最快週二生成的「白海豚」颱風可能發展成規模龐大且強度驚人的風暴。",
-      "url": "https://www.chinatimes.com/realtimenews/20260726002082-260405"
+      "title": "專家估白海豚接力恐襲日",
+      "dek": "《聯合新聞網》報導，氣象專家指紅霞擦邊而過後，白海豚颱風可望接力生成，強度不弱，八月初恐對日本構成威脅。",
+      "url": "https://udn.com/news/story/7266/9649894"
     },
     {
       "rank": 10,
-      "title": "「白海豚」路徑估轉向日本 台灣本週仍以午後雷雨為主",
-      "dek": "《NOWnews今日新聞》報導，最新模式顯示「白海豚」路徑可能大幅北轉朝向日本，直接影響台灣機率降低，台灣一週天氣仍以午後雷陣雨為主。",
-      "url": "https://www.nownews.com/news/6860250"
+      "title": "中太擾動最快週二成颱",
+      "dek": "《自由時報》報導，中太平洋熱帶擾動92C跨越國際換日線進入西北太平洋，最快7月28日週二增強為颱風白海豚，是否轉彎路徑仍待觀察。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5518205"
     }
   ]
 }
