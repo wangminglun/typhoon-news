@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T03:06:00+08:00",
+  "generated_at": "2026-07-27T04:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署已於7月25日上午8時30分解除紅霞海上颱風警報，且全程未發布陸上颱風警報，台灣目前無任何有效颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。紅霞環流已遠離、中心位於中國華南，且無有效颱風警報，台中今日無明顯風雨，也無停班停課情形。"
+    "text": "目前無直接影響。紅霞全程未觸發陸上颱風警報，對台中無風雨衝擊；中太平洋擾動「白海豚」仍在生成前階段，目前路徑預測趨向日本，對台中無直接威脅。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞重創華南 逾七十萬人疏散、至少十死",
-    "dek": "紅霞是今年以來侵襲中國最強的颱風，登陸廣東後減弱為熱帶風暴並持續為華南帶來暴雨威脅，而台灣中央氣象署已解除海上颱風警報、全程未發布陸上警報。",
-    "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+    "title": "颱風紅霞重創廣東奪10命 減弱後北移湖南江西恐現特大暴雨",
+    "dek": "今年登陸中國最強颱風紅霞週日凌晨襲擊廣東惠州，造成至少10人死亡、逾80萬人疏散，台灣中央氣象署則於前一日解除海上警報、全程未發布陸上警報。",
+    "url": "https://www.scmp.com/news/china/politics/article/3361867/typhoon-noul-chinas-strongest-storm-year-hits-tech-and-manufacturing-hubs"
   },
   "items": [
     {
       "rank": 1,
-      "title": "紅霞颱風登陸中國 數十萬人緊急疏散",
-      "dek": "《半島電視台》報導，紅霞週日凌晨在廣東惠州惠東登陸，中國官媒稱其為今年以來侵襲中國最強的颱風。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+      "title": "紅霞登陸重創科技製造重鎮",
+      "dek": "《南華早報》報導，紅霞為2026年迄今登陸中國最強颱風，造成約1800架次航班停飛、鐵路運輸中斷，重創廣東科技與製造業聚落。",
+      "url": "https://www.scmp.com/news/china/politics/article/3361867/typhoon-noul-chinas-strongest-storm-year-hits-tech-and-manufacturing-hubs"
     },
     {
       "rank": 2,
-      "title": "逾七十萬人疏散 華南航班大量取消",
-      "dek": "《哥倫比亞廣播公司新聞》報導，紅霞侵襲廣東前後已有超過七十萬人疏散，香港與中國大陸機場航班大量取消，鐵路服務也受影響。",
+      "title": "逾70萬人撤離 港澳航班大亂",
+      "dek": "《CBS新聞》報導，廣東逾70萬至80萬人因應紅霞撤離，香港機場取消約350架次航班、近2000名旅客滯留，中國國家發改委已撥款人民幣1億元協助災後重建。",
       "url": "https://www.cbsnews.com/news/typhoon-noul-china-hong-kong-weather-storm-evacuations/"
     },
     {
       "rank": 3,
-      "title": "紅霞登陸釀十死 中國發布紅色預警",
-      "dek": "《德干先驅報》報導，紅霞造成中國至少十人死亡、逾八十萬人疏散，官方形容其為今年第12個、也是最強的登陸颱風。",
-      "url": "https://www.deccanherald.com/world/china/ten-killed-after-typhoon-noul-makes-landfall-in-southern-china-4088018"
+      "title": "紅霞肆虐華南 至少10死",
+      "dek": "據巴基斯坦《The News》引述外電報導，颱風紅霞登陸廣東後已造成至少10人死亡，強風豪雨重創沿海地區後轉向內陸減弱。",
+      "url": "https://www.thenews.com.pk/latest/1410306-typhoon-noul-kills-10-after-making-landfall-in-southern-china"
     },
     {
       "rank": 4,
-      "title": "登陸後減弱 華南風雨仍未歇",
-      "dek": "《日本時報》報導，紅霞登陸後減弱為熱帶風暴並持續深入內陸，廣東與香港當局警告惡劣天氣將持續。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
+      "title": "紅霞減弱為熱帶風暴 持續豪雨",
+      "dek": "美聯社報導，紅霞登陸後已減弱為熱帶風暴並轉向內陸，中國當局預期廣東南部與福建東南部仍將持續出現強降雨。",
+      "url": "https://abcnews.com/International/wireStory/typhoon-noul-weakens-after-making-landfall-brings-heavy-135094999"
     },
     {
       "rank": 5,
-      "title": "廣東疏散逾兩萬人 雨量恐達600毫米",
-      "dek": "氣象網站《The Watchers》報導，紅霞逼近廣東前當局已疏散逾兩萬名沿海及低窪地區居民，重災區雨量預估最高達600毫米。",
-      "url": "https://watchers.news/2026/07/25/over-20-000-evacuated-as-typhoon-noul-approaches-guangdong-up-to-600-mm-24-inches-of-rain-forecast-china/"
+      "title": "數十萬人疏散應對紅霞來襲",
+      "dek": "半島電視台報導，中國當局在紅霞登陸廣東前已疏散數十萬居民，並詳述沿海地區受衝擊的規模。",
+      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
     },
     {
       "rank": 6,
-      "title": "中國發布最高山洪警報 暴雨恐向江西湖南推進",
-      "dek": "《雅虎新聞》引述美聯社報導，中國已對數省發布最高等級山洪警報，警告紅霞殘餘環流恐引發土石流與沿海淹水，並於週一持續北移。",
-      "url": "https://www.yahoo.com/news/articles/southern-china-drenched-typhoon-noul-003410930.html"
+      "title": "紅霞14級強風登陸惠州 啟動「五停」",
+      "dek": "《自由時報》報導，紅霞以相當於14級強風登陸廣東惠州，成為今年登陸中國最強颱風，惠州啟動「五停」機制並將防汛響應提升至最高等級。",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5517877"
     },
     {
       "rank": 7,
-      "title": "香港信號降至一號 雷暴警告延長",
-      "dek": "《點心日報》報導，香港天文台週日下午已將熱帶氣旋警告降至一號戒備信號，同時將雷暴警告延長至下午5時15分。",
-      "url": "https://www.dimsumdaily.hk/hk-observatory-issues-no-1-standby-signal-as-thunderstorm-warning-extended/"
+      "title": "紅霞北移湖南 部分地區恐特大暴雨",
+      "dek": "香港《星島頭條》報導，紅霞登陸後預計於週一移入湖南，廣東、福建、江西部分地區恐出現250至450毫米特大暴雨，殘餘環流風險延續至30日。",
+      "url": "https://www.stheadline.com/zh-hans/realtime-china/3597744/%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E7%99%BB%E9%99%86%E5%90%8E%E9%A2%84%E8%AE%A1%E6%98%8E%E7%A6%BB%E5%B9%BF%E4%B8%9C%E8%BF%9B%E5%85%A5%E6%B9%96%E5%8D%97-%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8C%BA%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8"
     },
     {
       "rank": 8,
-      "title": "香港曾發九號信號 全港停課、航班取消",
-      "dek": "《南華早報》報導，紅霞逼近期間香港一度發出九號烈風或暴風信號，全港停課，約350班航班取消，近2000名旅客受困。",
-      "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
+      "title": "氣象署解除海警 陸警始終未發布",
+      "dek": "中央社（Focus Taiwan）報導，中央氣象署已於25日上午解除紅霞海上颱風警報，暴風中心持續遠離台灣，全程並未發布陸上警報。",
+      "url": "https://focustaiwan.tw/society/202607250002"
     },
     {
       "rank": 9,
-      "title": "氣象署解除海警 台灣未發陸上警報",
-      "dek": "《蘋果仁》報導，中央氣象署已於7月25日上午8時30分解除紅霞海上颱風警報，且全程未發布陸上警報，台灣目前無有效颱風警報。",
-      "url": "https://applealmond.com/posts/320471"
+      "title": "「加亞波」增強 呂宋北部發布三號風球",
+      "dek": "馬來西亞《星報》報導，菲律賓大氣地球物理天文局將紅霞的菲律賓命名「加亞波」（Kiyapo）增強評級為強烈熱帶風暴，並在巴布煙群島發布三號風球。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/25/kiyapo-strengthens-into-severe-tropical-storm-as-signal-no-3-raised-over-babuyan-islands"
     },
     {
       "rank": 10,
-      "title": "聖嬰增強 大西洋颶風季預估偏弱",
-      "dek": "《Weather.com》引述科羅拉多州立大學團隊預測，受聖嬰現象增強及風切變影響，今年大西洋颶風季預估偏弱，目前該海域無活躍系統。",
-      "url": "https://weather.com/2026/07/08/storms/hurricane/2026-atlantic-hurricane-season-outlook-csu-july-el-nino"
+      "title": "「白海豚」最快週二生成 恐又強又大",
+      "dek": "《中國時報》報導，中太平洋熱帶擾動預計跨越換日線後增強，最快本週二生成今年第13號颱風「白海豚」，氣象專頁示警其體型與強度均不容小覷，惟目前路徑指向日本。",
+      "url": "https://www.chinatimes.com/realtimenews/20260726002082-260405"
     }
   ]
 }
