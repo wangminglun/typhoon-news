@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T07:08:00+08:00",
+  "generated_at": "2026-07-26T08:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "台灣目前無颱風警報（海上颱風警報已於25日解除，此次紅霞全程未發布陸上警報）。超強颱風紅霞已在廣東惠州惠東縣沿岸登陸，香港天文台維持九號風球並評估是否進一步升至十號，威脅重心持續集中於廣東與香港。",
+  "alert_desc": "台灣目前無颱風警報（海上颱風警報已於25日上午8時30分解除，此次紅霞全程未發布陸上警報）。颱風紅霞已在廣東惠州惠東縣沿岸登陸並迅速減弱，香港天文台已於26日清晨7時10分將九號風球降為八號，威脅重心持續集中於廣東珠三角地區。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響：紅霞環流全程未直撲台灣本島，台中在此次警報期間侵襲機率為零，25日維持正常上班上課，風雨僅局限於花東、屏東南部與恆春半島一帶。"
+    "text": "台中目前無直接影響：紅霞環流全程未直撲台灣本島，台中在此次警報期間侵襲機率為零，25日維持正常上班上課，目前僅為一般夏季對流天氣，氣溫介於27至34度，午後偶有雷陣雨，與颱風並無關聯。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "紅霞登陸惠東　香港九號風球持續　評估是否發十號",
-    "dek": "超強颱風紅霞已在中國廣東惠州市惠東縣沿岸登陸，香港天文台維持九號風球並評估是否進一步升至十號，台灣則因風暴路徑外偏而未受直接影響。",
-    "url": "https://news.tvb.com/tc/1184669-%E9%A2%A8%E6%9A%B4%E7%B4%85%E9%9C%9E%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E6%96%99%E4%B9%9D%E8%99%9F%E6%88%96%E4%BB%A5%E4%B8%8A%E4%BF%A1%E8%99%9F%E8%87%B3%E5%B0%91%E7%B6%AD%E6%8C%81%E8%87%B3%E4%BB%8A%E6%97%A97%E6%99%82%E8%A9%95%E4%BC%B0%E9%9C%80%E5%90%A6%E7%99%BC%E5%8D%81%E8%99%9F"
+    "title": "颱風紅霞登陸廣東後減弱　香港風球降至八號",
+    "dek": "中國國家氣象部門發布最高等級紅色預警後，颱風紅霞在廣東惠州沿海登陸並迅速減弱，香港天文台清晨將九號風球降為八號，但珠江三角洲仍面臨強降雨與洪澇風險。",
+    "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
   },
   "items": [
     {
       "rank": 1,
-      "title": "天文台維持九號風球　評估是否發十號應對紅霞",
-      "dek": "香港天文台指九號或以上信號至少維持至上午七時，將視乎本地風力變化決定是否進一步升至十號颶風信號。",
-      "url": "https://news.tvb.com/tc/1184669-%E9%A2%A8%E6%9A%B4%E7%B4%85%E9%9C%9E%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E6%96%99%E4%B9%9D%E8%99%9F%E6%88%96%E4%BB%A5%E4%B8%8A%E4%BF%A1%E8%99%9F%E8%87%B3%E5%B0%91%E7%B6%AD%E6%8C%81%E8%87%B3%E4%BB%8A%E6%97%A97%E6%99%82%E8%A9%95%E4%BC%B0%E9%9C%80%E5%90%A6%E7%99%BC%E5%8D%81%E8%99%9F"
+      "title": "香港九號風球降至八號　紅霞登陸廣東後減弱",
+      "dek": "香港天文台清晨7時10分降下九號風球，此前紅霞在惠州附近登陸，最接近香港時距離約80公里，全港學校停課持續。",
+      "url": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended"
     },
     {
       "rank": 2,
-      "title": "中國發布今年首個颱風紅色預警　紅霞增強為強颱風",
-      "dek": "新華社報導，隨著紅霞增強逼近廣東沿岸，中央氣象台將預警等級由橙色上調至最高等級的紅色。",
+      "title": "中國氣象部門發布紅色預警　紅霞逼近廣東",
+      "dek": "新華社報導，紅霞逼近廣東惠州沿海之際，中國中央氣象台發布最高等級紅色預警，風暴近中心最大風力達14級。",
       "url": "https://english.news.cn/20260726/8df0d147e1924cebb16a2f6c1438585d/c.html"
     },
     {
       "rank": 3,
-      "title": "紅霞在惠州惠東登陸　交通部啟動二級應急響應",
-      "dek": "CGTN報導，紅霞已在廣東惠州惠東縣沿岸登陸，中國交通運輸部門已啟動二級颱風應急響應措施。",
-      "url": "https://news.cgtn.com/news/2026-07-25/China-raises-typhoon-response-as-Noul-strengthens-1P43XThduHm/p.html"
+      "title": "香港曾發九號風球　十號信號一度未排除",
+      "dek": "香港電台報導，天文台於26日凌晨1時10分發出九號風球，隨風暴持續逼近，最高等級十號信號一度存在可能性。",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1863657-20260726.htm"
     },
     {
       "rank": 4,
-      "title": "廣東疏散逾34萬人　嚴陣以待今年最強風暴",
-      "dek": "據美聯社報導，廣東省已疏散超過三十四萬名居民並取消大批航班與鐵路班次，因應紅霞來襲。",
-      "url": "https://www.cp24.com/news/world/2026/07/25/southern-china-is-on-high-alert-for-typhoon-noul-with-over-340000-evacuated-and-flights-canceled/"
+      "title": "中國交通部啟動二級應急響應　逾410航班取消",
+      "dek": "CGTN報導，隨著紅霞增強，中國交通運輸部提升防颱應急響應至二級，逾410個航班及150班高鐵服務遭取消，並開設28個避難所。",
+      "url": "https://news.cgtn.com/news/2026-07-25/China-raises-typhoon-response-as-Noul-strengthens-1P43XThduHm/p.html"
     },
     {
       "rank": 5,
-      "title": "香港多區陣風破每小時110公里　巴士路線大規模停駛",
-      "dek": "香港天文台錄得橫瀾島最高持續風速每小時81公里、陣風逾112公里，九巴、龍運及城巴多條路線暫停服務。",
-      "url": "https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/487588/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E4%B8%89%E8%99%9F%E9%A2%A8%E7%90%83%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E8%A9%95%E4%BC%B0%E4%BB%8A%E6%99%9A9%E6%99%82%E8%87%B3"
+      "title": "廣東疏散逾34萬人　防汛響應升至三級",
+      "dek": "外電報導指出，廣東全省已疏散逾34萬居民應對紅霞來襲，防汛應急響應提升至三級，19個地級市啟動本地應急預案。",
+      "url": "https://www.newkerala.com/news/a/china-over-340000-relocated-guangdong-ahead-typhoon-noul-327.htm"
     },
     {
       "rank": 6,
-      "title": "天文台凌晨改發九號風球　紅霞料在香港東北百公里登陸",
-      "dek": "香港天文台凌晨一時十分將風球提升至九號，預料紅霞在香港東北方約一百公里處登陸惠州至汕尾一帶。",
-      "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372967/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%87%8C%E6%99%A81-10%E6%94%B9%E7%99%BC9%E8%99%9F%E9%A2%A8%E7%90%83-%E9%A6%99%E6%B8%AF%E7%B4%84100%E5%85%AC%E9%87%8C%E6%9D%B1%E7%99%BB"
+      "title": "廣東局部恐現600毫米豪雨　當局警告洪澇風險",
+      "dek": "氣象媒體The Watchers引述中國氣象局預測，紅霞可能為廣東部分地區帶來500至600毫米降雨，當局警告山洪暴發、山泥傾瀉及城市內澇風險。",
+      "url": "https://watchers.news/2026/07/25/over-20-000-evacuated-as-typhoon-noul-approaches-guangdong-up-to-600-mm-24-inches-of-rain-forecast-china/"
     },
     {
       "rank": 7,
-      "title": "氣象署解除紅霞海上警報　台灣22縣市正常上班上課",
-      "dek": "中央氣象署於七月二十五日上午解除颱風紅霞海上警報，全台維持正常運作，僅東部與恆春半島有外圍環流雨勢。",
-      "url": "https://newtalk.tw/news/view/2026-07-25/1049269"
+      "title": "中國疏散逾兩萬人因應紅霞登陸",
+      "dek": "《馬尼拉時報》引述外電報導，紅霞逼近登陸之際，廣東多地持續疏散民眾並強化防災部署。",
+      "url": "https://www.manilatimes.net/2026/07/26/world/asia-oceania/china-evacuates-20k-people-as-typhoon-nears/2391484"
     },
     {
       "rank": 8,
-      "title": "白海豚颱風恐接力生成　最快週末現身直撲日本",
-      "dek": "氣象單位追蹤熱帶擾動93W，預估最快本週末增強為今年第十三號颱風白海豚，路徑將遠離台灣並轉向日本。",
-      "url": "https://www.nownews.com/news/6859932"
+      "title": "紅霞遠離　氣象署解除海上颱風警報",
+      "dek": "ETtoday報導，中央氣象署於25日上午8時30分解除紅霞海上颱風警報，隨風暴持續朝廣東移動，全程未發布陸上警報。",
+      "url": "https://www.ettoday.net/news/20260725/3207344.htm"
     },
     {
       "rank": 9,
-      "title": "不只紅霞　第13號颱風白海豚週末恐接力生成",
-      "dek": "Newtalk報導，除紅霞外，另一熱帶系統「白海豚」預估將於週末生成為今年第十三號颱風，對台灣影響有限。",
-      "url": "https://newtalk.tw/news/view/2026-07-24/1049069"
+      "title": "紅霞擦邊而過　專家估「白海豚」颱風接力生成",
+      "dek": "《聯合報》報導，專家依模式預測指出，熱帶擾動93W可能在7月底至8月初增強為今年第13個颱風「白海豚」，路徑偏北朝日本移動，暫無直接影響台灣跡象。",
+      "url": "https://udn.com/news/story/7266/9649894"
     },
     {
       "rank": 10,
-      "title": "紅霞路徑分析　天文台指改發8號視乎三項因素",
-      "dek": "香港天文台先前分析指出，是否將風球信號提升至8號需視乎三項關鍵因素，隨後風力持續增強最終升至9號。",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373541/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%96%99%E5%9C%A8%E6%B8%AF%E6%9D%B1%E5%8C%97%E7%B4%84100%E5%85%AC%E9%87%8C%E6%8E%A0%E9%81%8E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%94%B9%E7%99%BC8%E8%99%9F%E8%A6%96%E4%B9%8E3%E5%9B%A0%E7%B4%A0"
+      "title": "下一颱「白海豚」最快週日生成　專家曝路徑偏北",
+      "dek": "東森新聞報導，93W系統最快本週日可望生成，路徑預估偏北，雖不致直接登陸台灣，但花蓮、屏東以南仍可能受紅霞殘留雲系影響出現局部強降雨。",
+      "url": "https://news.ebc.net.tw/news/living/562816"
     }
   ]
 }
