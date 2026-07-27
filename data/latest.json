@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:15:00+08:00",
+  "generated_at": "2026-07-27T17:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "白海豚颱風雖已生成，但路徑預期遠離台灣轉向日本；紅霞持續在中國內陸減弱，台灣目前無颱風警報，僅新北、高雄、屏東、宜蘭、澎湖五縣市有陸上強風特報生效。",
+  "alert_desc": "台灣目前無海上或陸上颱風警報，僅新北、高雄、屏東、宜蘭、澎湖有強風特報，以及中南部與東部多縣市有大雨特報，皆屬午後對流影響，非颱風直接引發。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接颱風影響，僅受一般季風雨帶籠罩，午後有局部雷陣雨或豪雨機率，與紅霞及白海豚均無直接關聯。"
+    "text": "目前無颱風直接影響台中。台中市今（27）日被列入大雨特報範圍，午後對流旺盛，須留意雷擊、短延時強降雨及路面積水，但無風雨達停班停課標準，亦無海上/陸上颱風警報涵蓋台中。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「白海豚」生成為今年第13號颱風 台灣目前無颱風警報",
-    "dek": "中央氣象署與國際預報模式一致研判，白海豚將轉向日本東方海域，對台灣直接威脅偏低，但陸上強風特報與豪雨特報仍籠罩多個縣市。",
-    "url": "https://news.tvbs.com.tw/life/3268905"
+    "title": "第13號颱風「白海豚」西太平洋醞釀成形 路徑預測北轉日本 台灣暫無颱風警報",
+    "dek": "在超級聖嬰現象加持下，即將生成的「白海豚」被預測有機會挑戰今年最強颱風紀錄，但主要模式路徑均顯示其將北轉遠離台灣，而中國南方則仍在應對第12號颱風「紅霞」登陸後的豪雨災情。",
+    "url": "https://news.tvbs.com.tw/world/3268495"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風「白海豚」生成 為今年第13號颱風",
-      "dek": "TVBS新聞與《自由時報》報導，中央氣象署於今天下午兩時將關島東方的熱帶低氣壓升格為今年第13號颱風白海豚，預期將持續增強並轉向日本東方海域。",
-      "url": "https://news.tvbs.com.tw/life/3268905"
+      "title": "13號颱風「白海豚」將生成！月底恐轉強颱 日本預測路徑曝",
+      "dek": "根據TVBS新聞網報導，日本氣象廳預測威克島附近的熱帶低壓將於24小時內增強為今年第13號颱風「白海豚」，並於7月31日前後發展為強烈颱風，路徑偏向日本。",
+      "url": "https://news.tvbs.com.tw/world/3268495"
     },
     {
       "rank": 2,
-      "title": "氣象署：白海豚直接侵台機率偏低",
-      "dek": "NOWnews報導引述氣象署說法指出，白海豚仍距台灣遙遠，各主要國際模式路徑均導向日本方向，惟其生成於異常溫暖海域，未來不排除發展為大而強的颱風。",
-      "url": "https://www.nownews.com/news/6859932"
+      "title": "第13號颱風白海豚估今生成「大而強」 吳德榮揭對台影響",
+      "dek": "聯合新聞網報導引述氣象專家吳德榮分析，受暖海溫與超級聖嬰現象影響，白海豚有望成為「又大又強」颱風，但預測路徑偏北，對台灣無直接影響。",
+      "url": "https://udn.com/news/story/7266/9652626"
     },
     {
       "rank": 3,
-      "title": "颱風紅霞持續於中國內陸減弱",
-      "dek": "CNN報導，紅霞在廣東惠州惠東登陸，為中國今年最強颱風登陸個案，造成數十萬人撤離、數百航班取消；目前已深入內陸並穩定減弱，不再威脅台灣。",
-      "url": "https://www.cnn.com/2026/07/26/world/video/china-hit-by-largest-typhoon-2026-noul-digvid-vrtc"
+      "title": "超級聖嬰加持！準颱風白海豚有望挑戰「今年風王」",
+      "dek": "CTWANT報導指出，受超級聖嬰現象推升的異常暖海溫影響，白海豚具備快速增強條件，可能成為今年最強颱風，多數路徑模式指向日本而非台灣。",
+      "url": "https://www.ctwant.com/article/490967/"
     },
     {
       "rank": 4,
-      "title": "陸上強風特報涵蓋北高屏宜澎五縣市",
-      "dek": "據Yahoo新聞台灣（氣象署資料）報導，氣象署針對新北、高雄、屏東、宜蘭與澎湖發布陸上強風特報，自27日上午至28日晚間，提醒陣風可能達8級以上。",
-      "url": "https://tw.news.yahoo.com/topic/typhoon/"
+      "title": "「紅霞」殘渦27日入湘 已減弱為熱帶低壓",
+      "dek": "人民網報導指出，中國中央氣象台表示颱風紅霞已於27日凌晨減弱為熱帶低壓並移入湖南，殘餘環流持續為湖南、江西、湖北帶來大到暴雨，藍色颱風預警已於當日上午解除。",
+      "url": "http://society.people.com.cn/n1/2026/0727/c1008-40768634.html"
     },
     {
       "rank": 5,
-      "title": "豪雨特報籠罩中南部與東部多縣市",
-      "dek": "ETtoday報導，氣象署持續對屏東山區、恆春半島、台東、雲林、彰化、南投、花蓮等地發布豪大雨特報，提醒低窪與山區慎防雷擊、強陣風與淹水。",
-      "url": "https://www.ettoday.net/news/20260725/3207575.htm"
+      "title": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+      "dek": "半島電視台報導，颱風紅霞於26日凌晨在中國廣東惠州惠東縣登陸，促使數十萬居民撤離，為一個月內第三個侵襲中國的颱風。",
+      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
     },
     {
       "rank": 6,
-      "title": "颶風珍妮薇急速增強為四級強颶風",
-      "dek": "《華盛頓郵報》報導，珍妮薇24小時內風速增強65英里，已達四級颶風、風速每小時140英里，位於墨西哥外海，目前無沿岸警戒，但已引發危險大浪。",
-      "url": "https://www.washingtonpost.com/national/2026/07/26/tropical-weather-hurricane-genevieve-fausto/8e43331a-8923-11f1-8912-d71e69d679d7_story.html"
+      "title": "Typhoon Noul grounds 1,800 flights and halts trains as southern China hit by heavy rains",
+      "dek": "南華早報報導，中國官方媒體形容紅霞為今年登陸中國最強颱風，衝擊廣東科技與製造業重鎮，造成約1800架次航班取消、鐵路服務中斷，全省近90萬人撤離，並有數人罹難。",
+      "url": "https://www.scmp.com/news/china/politics/article/3361867/typhoon-noul-chinas-strongest-storm-year-hits-tech-and-manufacturing-hubs"
     },
     {
       "rank": 7,
-      "title": "颶風福斯托減弱 將以熱帶風暴掠過夏威夷以北",
-      "dek": "《檀香山星報》報導，福斯托進入中太平洋後持續減弱，預計週二夜間至週三以約每小時45英里的熱帶風暴強度通過夏威夷群島以北，考艾島恐受危險大浪與離岸流影響。",
-      "url": "https://www.staradvertiser.com/2026/07/26/breaking-news/weakening-fausto-enters-central-pacific-on-track-to-pass-north-of-hawaii/"
+      "title": "快訊》7/27 降雨特報！外出請注意，留意路面積水",
+      "dek": "Newtalk新聞報導，中央氣象署27日午後針對桃園、彰化、雲林及嘉義發布大雨特報，新竹以南至台東及新北山區也有局部大雨機率，目前並無颱風警報，主因是午後對流與雲系南下。",
+      "url": "https://newtalk.tw/news/view/2026-07-27/1049625"
     },
     {
       "rank": 8,
-      "title": "菲律賓以東海域醞釀新熱帶系統",
-      "dek": "菲律賓大氣地球物理天文服務署預報資料顯示，7月27日至8月2日期間，菲律賓外海邊界一帶可能有新熱帶氣旋發展，未來或朝中國南方移動，仍待觀察。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/tcthreat/TC_Threat_and_S2S_Forecast.pdf"
+      "title": "Genevieve becomes a major Pacific hurricane off Mexico, but no direct threat to land is forecast",
+      "dek": "美聯社報導，颶風珍妮薇芙已增強為四級強烈颶風，成為今年東太平洋首個主要颶風，預測路徑將平行墨西哥海岸外海通過，對陸地無直接威脅。",
+      "url": "https://www.usnews.com/news/us/articles/2026-07-26/genevieve-becomes-a-major-pacific-hurricane-off-mexico-but-no-direct-threat-to-land-is-forecast"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季步調明顯超前",
-      "dek": "維基百科「2026年太平洋颱風季」條目彙整指出，白海豚已是今年第13個編號颱風，加上稍早重創中國的巴威與紅霞，氣象界認為異常偏暖的「超級聖嬰」海溫是活躍季節的重要成因。",
-      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
+      "title": "Fausto in Central Pacific, continues toward Hawaii",
+      "dek": "夏威夷論壇先驅報報導，颶風福斯托已減弱為一級颶風並持續朝夏威夷群島方向移動，預計將進一步減弱為熱帶風暴，強風暴雨主體預料偏北通過。",
+      "url": "https://www.hawaiitribune-herald.com/2026/07/26/hawaii-news/fausto-in-central-pacific-continues-toward-hawaii/"
     },
     {
       "rank": 10,
-      "title": "美媒聚焦珍妮薇急速增強 稱其為「怪獸」風暴",
-      "dek": "Fox News報導，美國氣象界高度關注珍妮薇異常快速增強至四級颶風的現象，雖無直接侵襲美墨陸地的威脅，但視為東太平洋今年海溫異常偏高、與西太平洋活躍風暴同步出現的徵兆。",
-      "url": "https://foxnews.com/world/hurricane-genevieve-category-4-storm-mexico-baja-california-tropical-weather-pacific.amp"
+      "title": "Habagat to bring rains as Pagasa monitors possible LPA",
+      "dek": "據菲律賓大氣地球物理和天文服務管理局向《菲律賓每日詢問者報》表示，該國責任區目前無活躍熱帶氣旋，西南季風為呂宋部分地區帶來降雨，並持續觀察一處低壓區的後續發展。",
+      "url": "https://newsinfo.inquirer.net/2266934/habagat-to-bring-rains-as-pagasa-watches-possible-lpa"
     }
   ]
 }
