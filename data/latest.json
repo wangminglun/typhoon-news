@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T15:07:00+08:00",
+  "generated_at": "2026-07-27T16:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "颱風紅霞已於7月25日上午解除海上颱風警報，全程未對台灣發布陸上颱風警報；新系統「白海豚」預計最快今日生成為颱風，惟路徑預測偏向日本，對台灣暫無威脅。新北、高雄、屏東、宜蘭、澎湖部分地區因西南氣流影響發布陸上強風特報，性質與颱風警報不同。",
+  "alert_desc": "白海豚颱風雖已生成，但路徑預期遠離台灣轉向日本；紅霞持續在中國內陸減弱，台灣目前無颱風警報，僅新北、高雄、屏東、宜蘭、澎湖五縣市有陸上強風特報生效。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區未受任何颱風系統直接影響，市府未因颱風因素發布停班停課或豪雨警報，市民生活如常。"
+    "text": "台中目前無直接颱風影響，僅受一般季風雨帶籠罩，午後有局部雷陣雨或豪雨機率，與紅霞及白海豚均無直接關聯。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "紅霞減弱入陸 「白海豚」接力醞釀 台灣暫無颱風警報",
-    "dek": "繼第12號颱風紅霞登陸廣東減弱之後，一個準颱風系統最快今日增強為第13號颱風「白海豚」，多數模式預測路徑北轉直撲日本，暫不影響台灣本島。",
-    "url": "https://www.ettoday.net/news/20260727/3208048.htm"
+    "title": "颱風「白海豚」生成為今年第13號颱風 台灣目前無颱風警報",
+    "dek": "中央氣象署與國際預報模式一致研判，白海豚將轉向日本東方海域，對台灣直接威脅偏低，但陸上強風特報與豪雨特報仍籠罩多個縣市。",
+    "url": "https://news.tvbs.com.tw/life/3268905"
   },
   "items": [
     {
       "rank": 1,
-      "title": "準颱風「白海豚」最快今生成 路徑預測對台無威脅",
-      "dek": "ETtoday新聞雲報導，西北太平洋熱帶性低氣壓最快今日增強為今年第13號颱風「白海豚」，模式路徑顯示將北轉遠離台灣，但強度可能發展為大型颱風。",
-      "url": "https://www.ettoday.net/news/20260727/3208048.htm"
+      "title": "颱風「白海豚」生成 為今年第13號颱風",
+      "dek": "TVBS新聞與《自由時報》報導，中央氣象署於今天下午兩時將關島東方的熱帶低氣壓升格為今年第13號颱風白海豚，預期將持續增強並轉向日本東方海域。",
+      "url": "https://news.tvbs.com.tw/life/3268905"
     },
     {
       "rank": 2,
-      "title": "白海豚估今生成將持續增強 氣象署曝未來路徑",
-      "dek": "聯合新聞網引述中央氣象署路徑預測指出，跨越換日線而來的系統已增強為熱帶性低氣壓，預計今日成為颱風並持續壯大，趨向日本方向移動。",
-      "url": "https://udn.com/news/story/7266/9653079"
-    },
-    {
-      "rank": 3,
-      "title": "準颱風「白海豚」上看強颱等級 最快今日生成",
-      "dek": "Newtalk新聞報導，氣象粉專分析指出，受海溫偏暖影響，正在組織中的「白海豚」有機會發展至強颱等級。",
-      "url": "https://newtalk.tw/news/view/2026-07-27/1049522"
-    },
-    {
-      "rank": 4,
-      "title": "吳德榮：白海豚今將生成 屬典型「大而強」颱風",
-      "dek": "自由時報電子報引述氣象專家吳德榮分析，「白海豚」預料為典型大而強颱風，路徑將閃過台灣，直指日本。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5518683"
-    },
-    {
-      "rank": 5,
-      "title": "白海豚颱風恐接力生成 赴日旅客籲留意最新動態",
-      "dek": "NOWnews今日新聞報導，白海豚生成時間、路徑與強度陸續明朗，提醒近期計畫赴日的旅客密切關注後續發展。",
+      "title": "氣象署：白海豚直接侵台機率偏低",
+      "dek": "NOWnews報導引述氣象署說法指出，白海豚仍距台灣遙遠，各主要國際模式路徑均導向日本方向，惟其生成於異常溫暖海域，未來不排除發展為大而強的颱風。",
       "url": "https://www.nownews.com/news/6859932"
     },
     {
+      "rank": 3,
+      "title": "颱風紅霞持續於中國內陸減弱",
+      "dek": "CNN報導，紅霞在廣東惠州惠東登陸，為中國今年最強颱風登陸個案，造成數十萬人撤離、數百航班取消；目前已深入內陸並穩定減弱，不再威脅台灣。",
+      "url": "https://www.cnn.com/2026/07/26/world/video/china-hit-by-largest-typhoon-2026-noul-digvid-vrtc"
+    },
+    {
+      "rank": 4,
+      "title": "陸上強風特報涵蓋北高屏宜澎五縣市",
+      "dek": "據Yahoo新聞台灣（氣象署資料）報導，氣象署針對新北、高雄、屏東、宜蘭與澎湖發布陸上強風特報，自27日上午至28日晚間，提醒陣風可能達8級以上。",
+      "url": "https://tw.news.yahoo.com/topic/typhoon/"
+    },
+    {
+      "rank": 5,
+      "title": "豪雨特報籠罩中南部與東部多縣市",
+      "dek": "ETtoday報導，氣象署持續對屏東山區、恆春半島、台東、雲林、彰化、南投、花蓮等地發布豪大雨特報，提醒低窪與山區慎防雷擊、強陣風與淹水。",
+      "url": "https://www.ettoday.net/news/20260725/3207575.htm"
+    },
+    {
       "rank": 6,
-      "title": "紅霞僅擦邊台灣 專家估白海豚接力恐影響日本",
-      "dek": "聯合新聞網報導，中央氣象署已於7月25日上午解除紅霞海上颱風警報，專家指出接力系統白海豚路徑將轉向日本。",
-      "url": "https://udn.com/news/story/7266/9649894"
+      "title": "颶風珍妮薇急速增強為四級強颶風",
+      "dek": "《華盛頓郵報》報導，珍妮薇24小時內風速增強65英里，已達四級颶風、風速每小時140英里，位於墨西哥外海，目前無沿岸警戒，但已引發危險大浪。",
+      "url": "https://www.washingtonpost.com/national/2026/07/26/tropical-weather-hurricane-genevieve-fausto/8e43331a-8923-11f1-8912-d71e69d679d7_story.html"
     },
     {
       "rank": 7,
-      "title": "紅霞登陸廣東後減弱 為華南帶來豪雨",
-      "dek": "美聯社報導，颱風紅霞登陸廣東後減弱為熱帶風暴，中國官方稱其為今年最強侵襲颱風，逾80萬人疏散。",
-      "url": "https://www.washingtonpost.com/world/2026/07/26/typhoon-noul-china-rain-wind/ed955bf6-88c2-11f1-9cec-0fb26676f07e_story.html"
+      "title": "颶風福斯托減弱 將以熱帶風暴掠過夏威夷以北",
+      "dek": "《檀香山星報》報導，福斯托進入中太平洋後持續減弱，預計週二夜間至週三以約每小時45英里的熱帶風暴強度通過夏威夷群島以北，考艾島恐受危險大浪與離岸流影響。",
+      "url": "https://www.staradvertiser.com/2026/07/26/breaking-news/weakening-fausto-enters-central-pacific-on-track-to-pass-north-of-hawaii/"
     },
     {
       "rank": 8,
-      "title": "紅霞持續減弱 豪雨影響華南地區",
-      "dek": "ABC新聞轉引美聯社電訊指出，紅霞在廣東、福建交界處持續減弱，並帶來豪雨，對台灣已無後續影響。",
-      "url": "https://abcnews.com/International/wireStory/typhoon-noul-weakens-after-making-landfall-brings-heavy-135094999"
+      "title": "菲律賓以東海域醞釀新熱帶系統",
+      "dek": "菲律賓大氣地球物理天文服務署預報資料顯示，7月27日至8月2日期間，菲律賓外海邊界一帶可能有新熱帶氣旋發展，未來或朝中國南方移動，仍待觀察。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/tcthreat/TC_Threat_and_S2S_Forecast.pdf"
     },
     {
       "rank": 9,
-      "title": "珍妮薇增強為四級強颶風 墨西哥外海無登陸威脅",
-      "dek": "美國新聞與世界報導引述美聯社報導，颶風珍妮薇增強為今年東太平洋首個四級強颶風，預測將持續遠離陸地。",
-      "url": "https://www.usnews.com/news/us/articles/2026-07-26/genevieve-becomes-a-major-pacific-hurricane-off-mexico-but-no-direct-threat-to-land-is-forecast"
+      "title": "2026年太平洋颱風季步調明顯超前",
+      "dek": "維基百科「2026年太平洋颱風季」條目彙整指出，白海豚已是今年第13個編號颱風，加上稍早重創中國的巴威與紅霞，氣象界認為異常偏暖的「超級聖嬰」海溫是活躍季節的重要成因。",
+      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
     },
     {
       "rank": 10,
-      "title": "珍妮薇創季節首個四級颶風 佛斯托朝夏威夷減弱前進",
-      "dek": "福克斯天氣報導，珍妮薇成為東太平洋今年首個四級颶風之際，颶風佛斯托已減弱為一級並朝夏威夷移動，預期持續減弱但仍恐掀大浪。",
-      "url": "https://www.foxweather.com/weather-news/hurricane-fausto-hawaii-tropical-activity-eastern-pacific"
+      "title": "美媒聚焦珍妮薇急速增強 稱其為「怪獸」風暴",
+      "dek": "Fox News報導，美國氣象界高度關注珍妮薇異常快速增強至四級颶風的現象，雖無直接侵襲美墨陸地的威脅，但視為東太平洋今年海溫異常偏高、與西太平洋活躍風暴同步出現的徵兆。",
+      "url": "https://foxnews.com/world/hurricane-genevieve-category-4-storm-mexico-baja-california-tropical-weather-pacific.amp"
     }
   ]
 }
