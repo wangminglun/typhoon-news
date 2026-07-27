@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T09:07:00+08:00",
+  "generated_at": "2026-07-27T10:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於7月25日上午8時30分解除紅霞海上颱風警報，全程未發布陸上颱風警報，台灣目前無任何有效颱風警報；氣象單位現正關注太平洋上一股熱帶擾動，該系統最快可能於7月28日發展為今年第13號颱風「白海豚」。",
+  "alert_desc": "中央氣象署已解除颱風紅霞的海上警報，且自始至終未發布陸上警報，台灣目前沒有任何生效中的颱風警報；氣象單位正持續觀察可能形成的第13號颱風「白海豚」動向。",
   "region_watch": {
     "region": "台中",
     "text": "目前無颱風系統直接影響台中，當地未發布任何風雨警報或停班停課，天氣以夏季型態的局部午後雷陣雨為主。"
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞減弱北移 台灣暫免直接威脅",
-    "dek": "今年第12號颱風紅霞在中國廣東登陸後迅速減弱為熱帶低氣壓，香港已解除所有熱帶氣旋警告，氣象單位的焦點正轉向下週可能生成、暫命名「白海豚」的新一波熱帶系統。",
-    "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+    "title": "颱風紅霞重創中國南方後減弱 台灣暫無警報",
+    "dek": "中央氣象署表示，颱風紅霞未對台灣構成直接威脅，海上警報已於25日解除，而下一個潛在颱風「白海豚」的動向正受到密切關注。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/07/27/2003861439"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風紅霞登陸中國 數十萬人緊急撤離",
-      "dek": "紅霞於7月26日凌晨在廣東惠州登陸，強風豪雨迫使超過70萬人撤離，並被新華社稱為今年侵襲中國最強的颱風。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+      "title": "颱風紅霞減弱 持續肆虐中國南方",
+      "dek": "台北時報報導，紅霞於7月27日減弱為熱帶風暴或低氣壓強度並移入內陸，風勢雖減，豪雨仍持續。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/27/2003861439"
     },
     {
       "rank": 2,
-      "title": "紅霞登陸後迅速減弱 華南持續豪雨",
-      "dek": "紅霞雖登陸後迅速減弱，仍為廣東及鄰近省份帶來持續豪雨，當地水患及風雨警報未解除。",
-      "url": "https://www.washingtonpost.com/world/2026/07/26/typhoon-noul-china-rain-wind/ed955bf6-88c2-11f1-9cec-0fb26676f07e_story.html"
+      "title": "颱風紅霞凌晨登陸廣東 為2026年以來最強颱風",
+      "dek": "中央社報導，紅霞於7月26日凌晨在廣東登陸，是今年以來侵襲中國最強的颱風。",
+      "url": "https://www.cna.com.tw/news/acn/202607260017.aspx"
     },
     {
       "rank": 3,
-      "title": "香港逐步降低颱風信號 紅霞遠離",
-      "dek": "香港天文台隨紅霞減弱北移，將警戒信號從九號逐步降至八號、三號，直至全數解除。",
-      "url": "https://english.news.cn/20260726/7b7b1cb41c3743dab7f6bfaa704d3432/c.html"
+      "title": "半島電視台：紅霞登陸中國 逾70萬人疏散",
+      "dek": "半島電視台報導，颱風紅霞登陸中國廣東，造成逾70萬人緊急疏散、交通嚴重受阻。",
+      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
     },
     {
       "rank": 4,
-      "title": "官方公告：熱帶氣旋紅霞已離開香港",
-      "dek": "香港政府新聞網證實紅霞已遠離香港附近水域，天文台於7月26日下午持續調降警戒信號。",
-      "url": "https://www.news.gov.hk/eng/2026/07/20260726/20260726_142103_947.html"
+      "title": "中國山洪奪10命 颱風紅霞登陸釀災",
+      "dek": "印度媒體ETV Bharat報導，颱風紅霞引發的山洪已造成至少10人死亡。",
+      "url": "https://www.etvbharat.com/en/international/10-killed-in-flash-floods-in-china-as-typhoon-noul-makes-landfall-enn26072604641"
     },
     {
       "rank": 5,
-      "title": "紅霞減弱遠離 香港天文台取消所有熱帶氣旋警告",
-      "dek": "隨著紅霞持續減弱並向內陸移動，香港天文台宣布取消所有殘餘的熱帶氣旋警告信號。",
-      "url": "https://hk.on.cc/hk/bkn/cnt/news/20260726/bkn-20260726124004509-0726_00822_001.html"
+      "title": "紅霞來襲 香港與中國沿海風雨交加",
+      "dek": "香港自由新聞報導，颱風紅霞登陸前為香港及中國沿海帶來強風豪雨。",
+      "url": "https://hongkongfp.com/2026/07/26/typhoon-noul-strong-winds-and-rain-lash-hong-kong-and-china-as-storm-makes-landfall/"
     },
     {
       "rank": 6,
-      "title": "紅霞海警已解除 台灣未發布陸警",
-      "dek": "中央氣象署於7月25日上午解除紅霞海上颱風警報，全程未發布陸上警報，台灣天氣回歸夏季型態。",
-      "url": "https://applealmond.com/posts/320471"
+      "title": "香港天文台一度評估十號風球 紅霞逼近升至九號信號",
+      "dek": "香港電台報導，颱風紅霞逼近期間，天文台一度評估是否發出十號颶風信號，最終發出九號信號。",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1863657-20260726.htm"
     },
     {
       "rank": 7,
-      "title": "第13號颱風「白海豚」最快7月28日生成",
-      "dek": "中太平洋熱帶擾動增強，專家研判其對台灣直接威脅有限，但有機會發展為大型颱風。",
-      "url": "https://www.ctwant.com/article/490842/"
+      "title": "紅霞減弱內陸 澳門解除所有熱帶氣旋警告",
+      "dek": "澳門媒體Macau Business報導，隨著紅霞減弱並深入內陸，澳門已解除所有熱帶氣旋警告信號。",
+      "url": "https://macaubusiness.com/macau-drops-all-tropical-cyclone-warnings-as-storm-noul-weakens-inland/"
     },
     {
       "rank": 8,
-      "title": "「白海豚」週二恐生成 專家：有機會又強又大",
-      "dek": "氣象粉專分析，受超級聖嬰年條件影響，「白海豚」一旦形成有潛力成為體型龐大、強度顯著的颱風。",
-      "url": "https://www.chinatimes.com/realtimenews/20260726002082-260405"
+      "title": "紅霞影響 港珠澳大橋主橋一度封閉",
+      "dek": "中央社報導，受颱風紅霞影響，港珠澳大橋主橋橋面一度暫時封閉。",
+      "url": "https://www.cna.com.tw/news/acn/202607260083.aspx"
     },
     {
       "rank": 9,
-      "title": "準「白海豚」路徑恐轉向 日本專家提前警戒",
-      "dek": "最新路徑預測顯示，發展中的熱帶系統可能轉向北方，日本氣象專家示警未來數日極可能受影響。",
-      "url": "https://www.nownews.com/news/6860322"
+      "title": "第13號颱風「白海豚」最快7月28日生成 專家曝對台影響",
+      "dek": "CTWANT報導，一熱帶擾動最快可能於7月28日發展為白海豚颱風，專家指出現階段預測對台灣無直接威脅。",
+      "url": "https://www.ctwant.com/article/490842/"
     },
     {
       "rank": 10,
-      "title": "日本氣象廳觀測：新熱帶低氣壓最快今夜生成",
-      "dek": "菲律賓以東低壓區預計7月28日上午發展為熱帶低氣壓，另一系統於馬紹爾群島附近緩慢西移。",
-      "url": "https://news.yahoo.co.jp/articles/f308fe5a230b518a354e53963a9720de2fbc7c80"
+      "title": "熱帶風暴「Kiyapo」登陸菲律賓卡米金島",
+      "dek": "菲律賓媒體Rappler報導，此系統稍早以Kiyapo之名於7月24日登陸菲律賓卡加延省卡米金島，其後進入南海增強並成為紅霞。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-kiyapo-southwest-monsoon-update-pagasa-forecast-july-24-2026-5pm/"
     }
   ]
 }
