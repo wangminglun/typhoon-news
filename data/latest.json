@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T05:07:00+08:00",
+  "generated_at": "2026-07-28T06:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署表示，台灣目前並未發布任何海上或陸上颱風警報；氣象署已於26日上午8時30分解除對紅霞的海上颱風警報。因環境風場增強，氣象署另針對新北市、高雄市、屏東縣、宜蘭縣與澎湖縣發布層級較低的陸上強風特報，此特報並非因任何編號颱風所致。",
+  "alert_desc": "中央氣象署表示，台灣目前並未發布任何海上或陸上颱風警報；已於25日上午8時30分解除對紅霞的海上颱風警報，白海豚則因路徑遙遠、距離台灣逾6000公里，尚未達發布標準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中市未列入現行陸上強風特報範圍，亦無任何颱風警報生效中，暫無風雨或停班停課疑慮。"
+    "text": "目前無直接影響。台中市今日未受任何颱風特報影響，氣象署僅對桃園、新竹、台東發布豪雨或大雨特報，與台中無關，亦無停班停課消息。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風生成　路徑指向日本非台灣",
-    "dek": "中央氣象署證實今年第13號颱風白海豚生成，預測強度直逼超颱並於下週初逼近日本，台灣目前無風雨警報。",
+    "title": "白海豚生成 估轉強逼近日本",
+    "dek": "今年第13號颱風白海豚27日生成，路徑遠離台灣，但氣象模式顯示其未來數日恐急速增強，並可能逼近日本關東地區。",
     "url": "https://udn.com/news/story/7266/9653657"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚颱風生成　氣象署公布路徑與對台影響評估",
-      "dek": "中央氣象署證實白海豚生成於關島以東洋面，研判暫不影響台灣天氣。",
+      "title": "白海豚颱風生成　對台影響低",
+      "dek": "中央氣象署宣布今年第13號颱風白海豚27日下午2時生成，距台超過6000公里，直接影響台灣的機率低。",
       "url": "https://udn.com/news/story/7266/9653657"
     },
     {
       "rank": 2,
-      "title": "白海豚颱風生成　最新路徑曝光將北轉侵日",
-      "dek": "白海豚生成時中心氣壓998百帕，最新預測路徑顯示將轉向北面逼近日本。",
-      "url": "https://www.ettoday.net/news/20260727/3208108.htm"
-    },
-    {
-      "rank": 3,
-      "title": "白海豚颱風生成　路徑遠離台灣無直接影響",
-      "dek": "白海豚沿西行、轉西北西路徑移動，氣象署研判台灣不受直接影響。",
+      "title": "白海豚路徑曝光　估轉強",
+      "dek": "自由時報報導白海豚預估路徑及強度，模式顯示其將於8月初增強並接近日本以東海域。",
       "url": "https://news.ltn.com.tw/news/life/breakingnews/5519250"
     },
     {
+      "rank": 3,
+      "title": "白海豚轉向增強　日本示警",
+      "dek": "NOWnews報導白海豚路徑預期轉彎且強度增強，提醒赴日旅客留意其接近關東的可能性。",
+      "url": "https://www.nownews.com/news/6860531"
+    },
+    {
       "rank": 4,
-      "title": "白海豚未來動向一次看　估下週一逼近日本",
-      "dek": "氣象署評估白海豚有機會發展為強颱，最快下週一接近日本本土。",
-      "url": "https://www.nownews.com/news/6860617"
+      "title": "白海豚生成前瞻報導",
+      "dek": "NOWnews在正式命名前預告接力系統的生成時間與預估強度發展。",
+      "url": "https://www.nownews.com/news/6859932"
     },
     {
       "rank": 5,
-      "title": "白海豚命名典故解析　估8月初以超強颱風襲日",
-      "dek": "港媒報導白海豚命名由來，並引述預測其恐以超強颱風強度侵襲日本。",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60374111/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%89%E4%BD%95%E9%97%9C%E4%BF%82-%E6%96%99%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A8%E6%9C%88%E5%88%9D%E8%A5%B2%E6%97%A5%E6%9C%AC"
+      "title": "紅霞掠台　專家早估接力颱風",
+      "dek": "聯合報報導紅霞掠過台灣之際，專家已預期後續系統將形成且強度不弱，恐影響日本。",
+      "url": "https://udn.com/news/story/7266/9649894"
     },
     {
       "rank": 6,
-      "title": "颱風紅霞登陸中國　數十萬人緊急疏散",
-      "dek": "半島電視台報導，紅霞登陸廣東，當局大規模疏散沿海居民以策安全。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+      "title": "紅霞登陸廣東後減弱",
+      "dek": "新浪香港報導紅霞26日凌晨強颱等級登陸廣東惠東，午後已減弱為熱帶風暴並移向粵湘交界。",
+      "url": "https://portal.sina.com.hk/news-china/sina/2026/07/27/1866588/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E5%BC%B7%E5%BA%A6%E6%B8%9B%E5%BC%B1/"
     },
     {
       "rank": 7,
-      "title": "逾70萬人疏散　颱風紅霞重創中國南方",
-      "dek": "加拿大廣播公司報導，紅霞登陸廣東惠州，風速逾每小時160公里。",
-      "url": "https://www.cbc.ca/news/world/typhoon-noul-makes-landfall-in-southern-china-9.7284742"
+      "title": "紅霞警報解除　仍防豪雨",
+      "dek": "TVBS新聞網報導氣象署解除紅霞颱風警報，但提醒台灣部分地區仍須防範豪雨。",
+      "url": "https://news.tvbs.com.tw/life/3265375"
     },
     {
       "rank": 8,
-      "title": "紅霞登陸後狂風暴雨肆虐中國　交通大受影響",
-      "dek": "日本時報報導，廣東多地持續受強風豪雨侵襲，鐵路航班紛紛停擺。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
+      "title": "紅霞警報解除　屏東花東防豪雨",
+      "dek": "Yahoo奇摩新聞整理氣象署簡報，解除紅霞警報同時提醒屏東、花東及新竹以南地區防豪雨、大雨。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E8%A7%A3%E9%99%A4%E9%A2%B1%E9%A2%A8%E8%AD%A6%E5%A0%B1-%E5%B1%8F%E6%9D%B1%E3%80%81%E8%8A%B1%E6%9D%B1%E9%98%B2%E8%B1%AA%E9%9B%A8-%E6%96%B0%E7%AB%B9%E4%BB%A5%E5%8D%97%E4%B8%AD%E5%8D%88%E5%BE%8C%E9%98%B2%E5%A4%A7%E9%9B%A8-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E5%8D%B3%E6%99%82%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D-012709926.html"
     },
     {
       "rank": 9,
-      "title": "紅霞凌晨登陸廣東　為2026年以來登陸中國最強颱風",
-      "dek": "中央社報導，紅霞為今年以來登陸中國最強颱風，全省疏散逾71萬人。",
-      "url": "https://www.cna.com.tw/news/acn/202607260017.aspx"
+      "title": "中央社：紅霞海上警報解除",
+      "dek": "Focus Taiwan報導氣象署25日上午8時30分解除紅霞海上颱風警報，該系統持續遠離台灣朝中國移動。",
+      "url": "https://focustaiwan.tw/society/202607250002"
     },
     {
       "rank": 10,
-      "title": "陸上強風特報發布　五縣市防8級強陣風",
-      "dek": "氣象署針對新北、高雄、屏東、宜蘭、澎湖發布陸上強風特報，籲民眾注意。",
-      "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E7%9B%B4%E9%80%BC%E9%A2%B1%E9%A2%A8-8%E7%B4%9A%E5%BC%B7%E9%A2%A8%E7%8B%A0%E9%A2%B3-5%E7%B8%A3%E5%B8%82-%E6%B0%91%E7%9C%BE%E5%A4%96%E5%87%BA%E6%B3%A8%E6%84%8F-093252143.html"
+      "title": "中央社：紅霞海上警報生效",
+      "dek": "Focus Taiwan報導氣象署24日晚間11時30分對熱帶風暴紅霞發布海上警報，當時系統增強並接近台灣南方海域。",
+      "url": "https://focustaiwan.tw/society/202607240002"
     }
   ]
 }
