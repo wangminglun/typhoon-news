@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T03:08:00+08:00",
+  "generated_at": "2026-07-29T04:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於7月25日上午解除颱風紅霞的海上警報，且未曾發布陸上警報；快速增強的白海豚目前距台灣仍遙遠，預測路徑轉向日本，對台威脅極低。",
+  "alert_desc": "中央氣象署已於7月25日上午解除颱風紅霞的海上警報，全程未發布陸上警報；新生的第13號颱風白海豚雖預測增強為超級颱風，但路徑指向日本，對台灣沒有直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前未受任何颱風直接影響，隨紅霞海上警報解除且無新系統逼近，近期預料不會有風雨衝擊或停班停課疑慮。"
+    "text": "台中市目前未受任何颱風直接影響——目前無直接影響。台中已被納入中央氣象署9縣市黃色高溫特報範圍，預測最高氣溫達36度，但此為熱浪而非颱風所致；目前無因颱風而生效或預期的停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚暴力增強恐成超級颱風 轉向撲向日本",
-    "dek": "西太平洋新生颱風白海豚急速增強、直逼超級颱風等級並預計轉向日本，而侵襲廣東的颱風紅霞持續減弱內陸，台灣目前未受任何系統直接威脅。",
-    "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
+    "title": "颱風季暫歇：白海豚轉向日本，台灣本週無風雨威脅、酷熱才是頭號天氣議題",
+    "dek": "中央氣象署證實，今年第13號颱風「白海豚」預測增強為强烈颱風，但路徑指向日本而非台灣，而在廣東才剛承受今年最強颱風「紅霞」侵襲之後，本島本週的天氣主角是攝氏36度的高溫，而非風雨。",
+    "url": "https://weathernews.jp/news/202607/280221/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風白海豚十二小時暴力增強",
-      "dek": "據美國《星條旗報》報導，熱帶系統12W「白海豚」在約十二小時內從強烈熱帶風暴增強為相當三級颱風的系統，持續風速達每小時115英里。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
+      "title": "第13號颱風「白海豚」生成後急速增強，預測路徑指向日本",
+      "dek": "熱帶風暴白海豚（國際編號12W）於馬紹爾群島附近形成後12小時內強度暴增至三級颶風等級，中央氣象署預測其將於7月30日至8月1日增強為超級颱風，多套模式路徑顯示將於8月上旬登陸日本九州或本州，中央氣象署強調對台灣沒有直接影響。",
+      "url": "https://weathernews.jp/news/202607/280221/"
     },
     {
       "rank": 2,
-      "title": "白海豚估將成超級颱風 轉向日本",
-      "dek": "據香港《點心日報》報導，日本氣象廳預測白海豚中心氣壓恐降至約915百帕、達超級颱風等級，8月初將轉向逼近日本，但七天內不威脅台灣。",
-      "url": "https://www.dimsumdaily.hk/hk%E2%80%91named-tropical-storm-dolphin-forecast-to-intensify-into-a-super-typhoon-and-track-towards-japan-in-early-august/"
+      "title": "中央氣象署：熱帶低氣壓恐增強為颱風，但本週對台灣沒有影響",
+      "dek": "中央氣象署證實，7月27日凌晨2時，後來成為白海豚的熱帶低氣壓位於鵝鑾鼻以東約5630公里處並向西移動，本週預料不會影響台灣。",
+      "url": "https://focustaiwan.tw/society/202607270006"
     },
     {
       "rank": 3,
-      "title": "中央氣象署解除紅霞海上警報",
-      "dek": "據Focus Taiwan報導，中央氣象署已於7月25日上午解除颱風紅霞海上警報，該署全程未對台灣發布陸上警報。",
-      "url": "https://focustaiwan.tw/society/202607250002"
+      "title": "高溫特報涵蓋9縣市，氣溫直逼36度",
+      "dek": "中央氣象署針對台北、新北、桃園、台中、彰化、南投、台南、高雄及屏東發布黃色高溫特報，預測最高氣溫達36度，成為紅霞警報解除、白海豚尚未逼近之際台灣當前最主要的天氣話題。",
+      "url": "https://focustaiwan.tw/society/202607280006"
     },
     {
       "rank": 4,
-      "title": "颱風紅霞登陸廣東後減弱北移",
-      "dek": "據半島電視台報導，紅霞已於7月26日清晨在廣東惠州登陸，中心風力達14級，為今年中國最強登陸颱風，隨後減弱北移。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+      "title": "颱風紅霞登陸中國南方，至少10人罹難",
+      "dek": "今年第12號颱風、也是中國今年遭遇最強的颱風紅霞，於7月26日凌晨在廣東惠州登陸，造成至少10人死亡、逾80萬人疏散，香港機場亦取消約350班航班。",
+      "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
     },
     {
       "rank": 5,
-      "title": "廣東疏散逾80萬人應對紅霞",
-      "dek": "據Big News Network報導，廣東省在紅霞來襲前疏散安置超過80萬1千名民眾，官方媒體稱其為今年以來最強侵襲中國的颱風。",
-      "url": "https://www.bignewsnetwork.com/news/279210801/china-guangdong-huizhou-typhoon-noul-landfall-cn"
+      "title": "中央氣象署對颱風紅霞發布海上警報，隨後解除",
+      "dek": "中央氣象署於7月23日晚間對逼近的紅霞發布海上颱風警報，涵蓋巴士海峽、東沙島及台灣海峽南部海域，但因風暴轉向中國大陸，已於7月25日上午解除警報，全程未發布陸上警報。",
+      "url": "https://focustaiwan.tw/society/202607240002"
     },
     {
       "rank": 6,
-      "title": "北馬里亞納群島持續推進巴威災後重建",
-      "dek": "據《馬里亞納多樣報》報導，聯合資訊中心發布第九份情況報告，顯示賽班、天寧、羅塔三島仍在全力修復電力與供水等基礎設施。",
-      "url": "https://www.mvariety.com/news/local/super-typhoon-bavi-situational-report-9-july-28-2026---6-30-pm-chst/article_1b2d9c7e-2d96-44a7-a9de-3d61c487e2fc.html"
+      "title": "中國遭今年最強颱風紅霞侵襲，鷹架倒塌畫面曝光",
+      "dek": "CNN影像報導記錄了颱風紅霞登陸中國期間強風造成的結構性損害，包括工地鷹架倒塌等場景。",
+      "url": "https://www.cnn.com/2026/07/26/world/video/china-hit-by-largest-typhoon-2026-noul-digvid-vrtc"
     },
     {
       "rank": 7,
-      "title": "羅塔島供電恢復恐需三個月",
-      "dek": "據紐西蘭廣播電台報導，羅塔島災情最重、至少46根電桿倒塌，當地市長表示因設備短缺，全面復電可能耗時長達三個月。",
-      "url": "https://www.rnz.co.nz/news/pacific/682901/no-injuries-reported-as-super-typhoon-bavi-leaves-cnmi-recovery-begins"
+      "title": "回顧超級颱風巴威：以五級強度重創關島，菲律賓山崩奪逾15命",
+      "dek": "今年第9號颱風、也是全球今年第三個達到五級強度的巴威，7月6日以時速約290公里的強度侵襲羅塔島、關島及塞班島，隨後在菲律賓引發致命山崩造成逾15人死亡，並促使中央氣象署對巴士海峽發布海上警報，最終於7月11日左右二度登陸中國，當地疏散170萬人。",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
     },
     {
       "rank": 8,
-      "title": "天寧島部分地區恢復供電",
-      "dek": "據islapublic.org報導，天寧島聖荷西村等地已恢復供電，但馬爾波高地與西天寧機場周邊仍持續停電。",
-      "url": "https://www.islapublic.org/news/2026-07-09/power-water-restoration-push-forward-across-saipan-tinian-and-rota-after-bavi"
+      "title": "珍妮薇成為2026年首個五級颶風，但不威脅陸地",
+      "dek": "東太平洋颶風珍妮薇迅速增強至風速140節，成為兩年來該海域首個五級颶風，但預料不會威脅夏威夷等陸地地區，並將於本週末減弱為溫帶氣旋。",
+      "url": "https://yaleclimateconnections.org/2026/07/genevieve-becomes-the-first-category-5-hurricane-of-2026/"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴弗斯托減弱通過夏威夷以北",
-      "dek": "據《檀香山星報》報導，弗斯托已減弱為熱帶風暴，持續風速每小時65英里，正通過夏威夷群島以北海域，東岸仍有高浪警報。",
-      "url": "https://www.staradvertiser.com/2026/07/27/breaking-news/weakening-fausto-remains-on-track-to-pass-north-of-hawaii-as-tropical-storm/"
+      "title": "颶風佛斯托增強為二級，於夏威夷以南海域徘徊",
+      "dek": "東太平洋颶風佛斯托增強至二級強度，與珍妮薇同時活躍於太平洋，但持續遠離夏威夷群島，未對當地構成威脅。",
+      "url": "https://spectrumlocalnews.com/hi/hawaii/news/2026/07/25/tropical-storm-genevieve-forms-in-the-pacific-ocean-as-hurricane-fausto-strengthens-to-category-2"
     },
     {
       "rank": 10,
-      "title": "弗斯托預計週五前消散",
-      "dek": "據《檀香山星報》報導，弗斯托將持續減弱，預計週五前在考艾島西北方海域完全消散，不會直接登陸。",
-      "url": "https://www.staradvertiser.com/2026/07/26/breaking-news/weakening-fausto-enters-central-pacific-on-track-to-pass-north-of-hawaii/"
+      "title": "2026年太平洋颱風季步調偏強，第13號風暴已生成",
+      "dek": "中國國家氣候中心先前預測，受聖嬰現象影響，2026年太平洋颱風季將偏強且活躍期提前，如今季內已出現包括巴威在內的多個五級強度風暴，且已進展至第13號風暴白海豚。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
