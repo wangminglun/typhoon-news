@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T08:07:00+08:00",
+  "generated_at": "2026-07-28T09:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未針對任何颱風系統發布海上或陸上颱風警報。稍早重創中國廣東的颱風紅霞警報已解除；今年第13號颱風白海豚雖預測增強為超強颱風，但路徑遠離台灣，未達發布標準。",
+  "alert_desc": "中央氣象署目前並未針對任何颱風系統發布海上或陸上颱風警報。上一波颱風諾樂（部分中文媒體稱紅霞）海上警報已於7月25日上午解除；今年第13號颱風白海豚雖預測增強為超強颱風，但路徑朝日本方向移動，未達對台發布標準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台灣本島天氣已轉趨穩定，中南部（含台中）氣溫約攝氏34至35度；目前並無任何颱風系統對台中構成風雨威脅，亦無停班停課相關公告。"
+    "text": "目前無直接影響。台灣本島天氣受副熱帶高壓主導，中南部（含台中）氣溫約攝氏32至35度，午後對流旺盛易有局部雷陣雨，但與颱風環流無關；目前並無任何颱風系統對台中構成風雨威脅，亦無停班停課相關公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "今年第13號颱風「白海豚」生成 預測增強為超強颱風 暫不影響台灣",
-    "dek": "中央氣象署與日本氣象廳預估，甫於馬紹爾群島海域生成的白海豚颱風將於8月初增強至超強颱風等級並朝日本方向移動，而兩天前重創中國廣東、造成數十萬人疏散的颱風紅霞，其對台警報已然解除。",
+    "title": "颱風警報全面解除 太平洋另一頭「白海豚」增強北上直撲日本",
+    "dek": "中央氣象署證實台灣周邊海陸警報均已解除，但今年第13號颱風「白海豚」正快速增強，預計本週末達到強颱等級並轉向日本，多國氣象機構皆評估此系統對台灣無直接威脅。",
     "url": "https://udn.com/news/story/7266/9653657"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風白海豚生成 為今年第13號颱風",
-      "dek": "中央氣象署宣布關島東方熱帶性低氣壓已增強為輕度颱風，命名白海豚，暫不影響台灣天氣。",
-      "url": "https://udn.com/news/story/7266/9653657"
+      "title": "熱帶低氣壓恐增強為風暴 氣象署：對台灣無直接影響",
+      "dek": "中央氣象署表示，位於台北東南方約6100公里處的熱帶低氣壓可能在24小時內增強為熱帶風暴，但預料不會直接侵襲台灣，該系統其後發展為颱風白海豚。",
+      "url": "https://focustaiwan.tw/society/202607270006"
     },
     {
       "rank": 2,
-      "title": "白海豚逼近日本前 中日氣象單位估將增強為超強颱風",
-      "dek": "中國中央氣象台與日本氣象廳均預測白海豚將於8月初增強至中心氣壓約940百帕的超強颱風等級。",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60374111/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%89%E4%BD%95%E9%97%9C%E4%BF%82-%E6%96%99%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A8%E6%9C%88%E5%88%9D%E8%A5%B2%E6%97%A5%E6%9C%AC"
+      "title": "熱帶低氣壓料不影響台灣",
+      "dek": "英語媒體證實，於中太平洋成形、後命名為白海豚的系統正遠離台灣移動，台灣本身天氣則另受南海水氣影響，為南部地區帶來降雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/27/2003861467"
     },
     {
       "rank": 3,
-      "title": "日本氣象廳最新路徑預測：白海豚8月初逼近南鳥島海域",
-      "dek": "日本Weathernews分析，白海豚將於7月31日增強至日方定義最高等級「猛烈」，後續是否轉向本土仍具不確定性。",
-      "url": "https://weathernews.jp/news/202607/280031/"
+      "title": "白海豚颱風最快週二生成 最新預估路徑大轉彎",
+      "dek": "位於關島東方的風暴系統預料成為今年第13號颱風白海豚，預估路徑轉向北北西，同時台灣本週天氣持續濕熱不穩定。",
+      "url": "https://www.nownews.com/news/6860250"
     },
     {
       "rank": 4,
-      "title": "颱風紅霞登陸廣東 近90萬人疏散",
-      "dek": "據CGTN報導，紅霞是今年首個登陸廣東、也是迄今侵襲中國最強的颱風，惠州多地疏散人數持續攀升。",
-      "url": "https://news.cgtn.com/news/2026-07-26/Typhoon-Noul-makes-landfall-in-south-China-s-Guangdong-1P5k1ZLVyzS/p.html"
+      "title": "白海豚颱風路徑西移 本週挑戰強颱等級",
+      "dek": "氣象署預估白海豚將於7月29日增強為中度颱風，並可能在7月31日前後挑戰強烈颱風強度，路徑沿太平洋高壓邊緣北上朝日本移動，對台無影響，但西部與中部地區仍將持續高溫並有午後雷陣雨。",
+      "url": "https://www.nownews.com/news/6860618"
     },
     {
       "rank": 5,
-      "title": "紅霞來襲 中國12城市停工停課 港珠澳大橋一度封閉",
-      "dek": "深圳、廣州、珠海等地實施「五停」措施因應紅霞，廣東省並撥款5000萬人民幣用於災後救助。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+      "title": "颱風白海豚生成 氣象署說明路徑與對台影響",
+      "dek": "氣象署證實白海豚已於7月27日下午2時在關島東方海面生成，為今年第13號颱風，其先西後轉北北西的路徑將使其始終遠離台灣。",
+      "url": "https://udn.com/news/story/7266/9653657"
     },
     {
       "rank": 6,
-      "title": "紅霞對台警報解除 氣象署籲花東屏東防豪雨",
-      "dek": "據氣象署說法，紅霞環流通過巴士海峽並登陸中國後，台灣颱風警報已經解除，僅局部地區仍需留意強降雨。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E6%8C%81%E7%BA%8C%E5%A2%9E%E5%BC%B7-%E4%BB%8A%E6%99%9A%E8%87%B3%E6%98%8E%E5%A4%A9%E4%B8%8A%E5%8D%88%E6%9C%80%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3-%E8%8A%B1%E6%9D%B1%E3%80%81%E6%81%86%E6%98%A5%E5%8D%8A%E5%B3%B6%E9%98%B2%E5%A4%A7%E9%9B%A8%E6%88%96%E8%B1%AA%E9%9B%A8-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E5%8D%B3%E6%99%82%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D-012709926.html"
+      "title": "快訊：颱風白海豚生成 最新路徑轉向北方",
+      "dek": "白海豚颱風生成的快訊指出，最新路徑導引顯示風暴將轉向北方，與其他機構預測的日本登陸路線一致。",
+      "url": "https://www.ettoday.net/news/20260727/3208108.htm"
     },
     {
       "rank": 7,
-      "title": "颶風珍妮薇一度衝上五級 為東太平洋2024年來首見",
-      "dek": "據Fox Weather報導，珍妮薇在墨西哥外海快速增強後開始減弱，但持續為加州及下加利福尼亞沿岸帶來危險浪況。",
-      "url": "https://www.foxweather.com/weather-news/genevieve-strengthens-powerful-hurricane-eastern-pacific"
+      "title": "香港命名颱風白海豚 預估增強為超強颱風並轉向日本",
+      "dek": "國際媒體報導指出，由香港命名的熱帶風暴白海豚，經日本氣象廳、南韓氣象廳與台灣氣象署評估，預料於8月1日前後達到超級颱風等級，並可能在8月5日至6日登陸日本本州或九州地區。",
+      "url": "https://www.dimsumdaily.hk/hk%E2%80%91named-tropical-storm-dolphin-forecast-to-intensify-into-a-super-typhoon-and-track-towards-japan-in-early-august/"
     },
     {
       "rank": 8,
-      "title": "颶風佛斯托減弱 通過夏威夷北方海域",
-      "dek": "據《檀香山星辰廣告報》報導，佛斯托預計在數日內降至熱帶風暴以下強度，不會登陸但仍將帶來強浪與離岸流。",
-      "url": "https://www.staradvertiser.com/2026/07/26/breaking-news/weakening-fausto-enters-central-pacific-on-track-to-pass-north-of-hawaii/"
+      "title": "第13號颱風白海豚 有機會北上直逼日本列島",
+      "dek": "日本氣象網站Weathernews指出，截至7月28日凌晨白海豚正以每小時30公里速度接近馬紹爾群島，預估7月31日前後增強為「非常強」等級並轉向北方，惟5天後路徑仍存在高度不確定性。",
+      "url": "https://weathernews.jp/news/202607/280031/"
     },
     {
       "rank": 9,
-      "title": "台灣天氣轉晴轉熱 中南部高溫看至35度",
-      "dek": "據氣象署預報，本島降雨自7月28日起趨緩，29日起各地放晴，北部局部上看36度。",
-      "url": "https://newtalk.tw/news/view/2026-07-26/1049409"
+      "title": "颱風諾樂海上警報解除",
+      "dek": "中央氣象署於週六上午8時30分解除颱風諾樂海上警報，當時風暴已移至鵝鑾鼻西南方約330公里處並持續遠離，但外圍環流仍為台灣南部與東部帶來強降雨。",
+      "url": "https://focustaiwan.tw/society/202607250002"
     },
     {
       "rank": 10,
-      "title": "今年颱風季生成速度高於氣候平均值",
-      "dek": "隨白海豚生成，7月單月已有5個颱風形成，高於氣候平均的3.7個，反映今年西北太平洋颱風季相對活躍。",
-      "url": "https://www.nownews.com/news/6860617"
+      "title": "颱風諾樂登陸華南 造成至少十人死亡",
+      "dek": "今年以來侵襲中國最強的颱風諾樂在廣東惠州附近登陸，引發的洪災造成至少10人罹難，逾80萬人緊急疏散，廣東多地高鐵與航班停駛。",
+      "url": "https://www.deccanherald.com/amp/story/world/china/ten-killed-after-typhoon-noul-makes-landfall-in-southern-china-4088018"
     }
   ]
 }
