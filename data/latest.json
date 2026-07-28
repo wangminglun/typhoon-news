@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T13:06:00+08:00",
+  "generated_at": "2026-07-28T14:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署表示台灣目前無海上或陸上颱風警報生效；先前的颱風紅霞已於26日登陸中國廣東並減弱，威脅解除。",
+  "alert_desc": "中央氣象署尚未對台灣發布海上或陸上颱風警報，先前因應颱風紅霞的海上警報已於7月25日解除，而白海豚路徑轉向日本，短期內預料不會觸發新警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受任何活躍熱帶系統影響，今年唯一一次因颱風停班停課的紀錄為7月10日至11日的颱風巴威，與當前的紅霞、白海豚等系統均無關。"
+    "text": "台中地區目前無任何颱風警報或風雨特報生效，亦未實施停班停課；無論是持續北移的白海豚或已在廣東內陸減弱的紅霞殘餘環流，均與台中天氣無直接關聯。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風紅霞減弱登陸中國，台灣暫無警報；「白海豚」快速增強直撲日本",
-    "dek": "中央氣象署表示台灣目前無海上及陸上颱風警報，而今年第13號颱風「白海豚」正快速增強，預計月底前達超級颱風強度並可能於8月上旬登陸日本。",
-    "url": "https://www.nownews.com/amp/news/6860262"
+    "title": "颱風白海豚生成 預估急速增強直撲日本 台灣暫無直接威脅",
+    "dek": "中央氣象署與多方氣象專家指出，今年第13號颱風白海豚可望在未來數日內迅速增強為強颱，惟其路徑轉向日本本土，對台灣天氣影響有限。",
+    "url": "https://www.nownews.com/news/6860643"
   },
   "items": [
     {
       "rank": 1,
-      "title": "今年第13號颱風「白海豚」生成，估將暴衝為超級颱風",
-      "dek": "據NOWnews報導，關島、馬紹爾群島附近熱帶擾動已增強為今年第13號颱風白海豚，預估將快速增強並對日本構成重大威脅。",
-      "url": "https://www.nownews.com/amp/news/6860262"
+      "title": "白海豚颱風「也是超肥巨獸」！3天後恐變強颱 最新路徑直撲日本",
+      "dek": "NOWnews報導指出，剛在關島東側生成的白海豚環流龐大，預估三天內即可能增強為強颱，路徑轉向日本，對台灣影響甚微。",
+      "url": "https://www.nownews.com/news/6860643"
     },
     {
       "rank": 2,
-      "title": "白海豚轉向北上，路徑遠離台灣直指日本海域",
-      "dek": "據ETtoday報導，白海豚形成後預測路徑已轉向北、北北西，預計持續增強並逐漸遠離台灣朝日本移動。",
-      "url": "https://www.ettoday.net/news/20260727/3208108.htm"
+      "title": "颱風白海豚將快速增為強颱直逼風王巴威紀錄 吳德榮揭路徑、對台影響",
+      "dek": "聯合新聞網引述氣象署預報員吳德榮分析，白海豚恐急速增強至逼近今年風王巴威紀錄的強度，但對台灣無直接天氣影響。",
+      "url": "https://udn.com/news/story/7266/9654755"
     },
     {
       "rank": 3,
-      "title": "全球罕見「三颱並存」，白海豚與兩颶風同步活躍",
-      "dek": "據SETN報導，氣象專家賈新興指出西北太平洋白海豚與東太平洋颶風珍妮薇芙、佛斯托同時活躍，形成三颱並存局面，但白海豚對台灣無直接威脅。",
-      "url": "https://www.setn.com/news/1879495"
+      "title": "「白海豚」颱風生成！ 最新路徑、對台影響曝光",
+      "dek": "自由時報報導，白海豚為今年第13號颱風，路徑呈先西後北轉，氣象署評估對台灣影響輕微或無直接影響。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5519250"
     },
     {
       "rank": 4,
-      "title": "白海豚才剛生成，第14號颱風「鯨魚」估8月初接力報到",
-      "dek": "據Newtalk新聞報導，氣象專家賈新興預估暫定命名「鯨魚」的新系統，有相當機率於8月4日至5日左右形成。",
-      "url": "https://newtalk.tw/news/view/2026-07-28/1049739"
+      "title": "颱風白海豚生成 氣象署揭路徑、對台影響",
+      "dek": "聯合新聞網報導中央氣象署正式公布白海豚在關島東側生成，初步路徑預測顯示其將朝日本方向移動，而非侵襲台灣。",
+      "url": "https://udn.com/news/story/7266/9653657"
     },
     {
       "rank": 5,
-      "title": "紅霞海警解除後持續增強，登陸廣東前一度逼近香港",
-      "dek": "據TVBS新聞網報導，中央氣象署於7月25日上午8時30分解除紅霞海上警報後，該颱風一度掠過香港天文台總部東北方約80公里，再於26日上午登陸廣東惠來並逐漸減弱。",
-      "url": "https://news.tvbs.com.tw/life/3265375"
+      "title": "熱帶氣旋白海豚與中華白海豚有何關係? 料超強颱風級8月初襲日本",
+      "dek": "香港HK01報導解析颱風命名由來，並引述國際模式預測白海豚可能於8月初以超強颱風強度侵襲日本。",
+      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60374111/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%89%E4%BD%95%E9%97%9C%E4%BF%82-%E6%96%99%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A8%E6%9C%88%E5%88%9D%E8%A5%B2%E6%97%A5%E6%9C%AC"
     },
     {
       "rank": 6,
-      "title": "脫離台灣海域後不減反增，紅霞登陸廣東前達強烈颱風等級",
-      "dek": "據NOWnews報導，紅霞在遠離台灣後於外海持續增強，登陸廣東前一度達到強烈颱風等級，對中國、香港的威脅高於台灣。",
-      "url": "https://www.nownews.com/news/6860014"
+      "title": "HK-named Tropical Storm Dolphin forecast to intensify into a super typhoon and track towards Japan in early August",
+      "dek": "《Dim Sum Daily》以英文報導證實，白海豚預估將增強為超強颱風，並於8月初朝日本本土移動，最大風速估計逼近每小時250公里。",
+      "url": "https://www.dimsumdaily.hk/hk%E2%80%91named-tropical-storm-dolphin-forecast-to-intensify-into-a-super-typhoon-and-track-towards-japan-in-early-august/"
     },
     {
       "rank": 7,
-      "title": "中央氣象署最新示警：台灣無海上、陸上颱風警報",
-      "dek": "根據中央氣象署官方颱風警報頁面，截至7月28日台灣未發布任何海上或陸上颱風警報，白海豚因距離尚遠暫未列入示警。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
-    },
-    {
-      "rank": 8,
-      "title": "回顧：台中今年唯一停班停課紀錄來自颱風巴威，與當前颱風無關",
-      "dek": "據聯合新聞網報導，台中等九縣市曾因颱風巴威於7月10日晚間至11日全天停班停課，該事件與目前活躍的颱風系統無關。",
-      "url": "https://udn.com/news/story/124945/9618444"
-    },
-    {
-      "rank": 9,
-      "title": "各國模式估白海豚月底衝上超級颱風，8月5、6日登陸日本",
-      "dek": "據氣象學者Ryan Maue分析，日本、韓國與台灣氣象機構模式皆顯示白海豚將於7月31日至8月1日達超級颱風強度，並可能於8月5日至6日登陸日本本州或九州。",
+      "title": "July 27, 2026 Monday Tropical Update",
+      "dek": "氣象學者Ryan Maue在其每日熱帶氣旋簡報中指出，熱帶低壓12W已增強為熱帶風暴白海豚，預計29日成颱、30至31日增強為超強颱風並穿越暖水海域朝日本移動。",
       "url": "https://weather.substack.com/p/july-27-2026-monday-tropical-update"
     },
     {
+      "rank": 8,
+      "title": "Typhoon-battered U.S. Northern Mariana Islands brace for a potential super typhoon",
+      "dek": "美國氣候媒體「Yale Climate Connections」報導，甫遭七月初超強颱風巴威重創的北馬里亞納群島與關島地區，正密切關注是否將再迎另一波超強颱風威脅。",
+      "url": "https://yaleclimateconnections.org/2026/07/typhoon-battered-u-s-northern-mariana-islands-brace-for-a-potential-super-typhoon/"
+    },
+    {
+      "rank": 9,
+      "title": "紅霞颱風遠離 氣象署上午8時30分解除海警",
+      "dek": "聯合新聞網報導，中央氣象署因颱風紅霞中心已進入鵝鑾鼻西南方海面並持續遠離台灣，於25日上午8時30分正式解除海上颱風警報。",
+      "url": "https://udn.com/news/story/7266/9649934"
+    },
+    {
       "rank": 10,
-      "title": "太平洋颱風季火熱、大西洋卻異常平靜，NOAA籲關注反差",
-      "dek": "據NOAA發布之2026年大西洋颶風季展望，儘管西北太平洋因聖嬰現象異常活躍，大西洋基地7月迄今尚無熱帶系統生成，預測整體颶風季將偏弱。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "颱風動態》紅霞颱風解除警報！最新路徑、影響範圍一次看",
+      "dek": "TVBS新聞網回顧紅霞颱風警報發布至解除的完整時間軸，該颱風其後在廣東惠州附近登陸並掠過香港，於內陸持續減弱。",
+      "url": "https://news.tvbs.com.tw/life/3265375"
     }
   ]
 }
