@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:07:00+08:00",
+  "generated_at": "2026-07-29T17:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報。上一波警報（颱風紅霞）已於7月25日上午8時30分解除，颱風白海豚雖持續快速增強，但路徑已轉向日本九州方向，對台灣直接威脅偏低。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報。颱風白海豚路徑持續朝日本西南部移動，署方評估未來十天內對台灣本島無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。颱風白海豚路徑已轉向日本九州，中央氣象署並未對台灣本島（含台中）發布海上或陸上颱風警報；台中地區今日僅為夏季高溫悶熱天氣（最高溫約攝氏33至36度），無風雨警報及停班停課相關公告。"
+    "text": "目前無直接影響。颱風白海豚路徑朝日本西南部移動，中央氣象署並未對台灣本島（含台中）發布海上或陸上颱風警報；台中地區天氣持續受太平洋副熱帶高壓主導，僅為悶熱及局部午後雷陣雨，無風雨警報及停班停課相關公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風急速增強轉向日本 台灣暫脫離威脅範圍",
-    "dek": "氣象單位觀測，第十三號颱風白海豚在馬紹爾群島海域迅速增強、路徑轉朝日本九州逼近，而台灣則在紅霞颱風減弱遠離後，暫時回到無颱風警報的平靜天氣。",
-    "url": "https://applealmond.com/posts/320752"
+    "title": "颱風白海豚急速增強 直撲日本西南部",
+    "dek": "氣象單位預測本週末達強颱等級，8月初風雨恐於九州、四國一帶最劇，台灣暫無颱風警報。",
+    "url": "https://www.chinatimes.com/realtimenews/20260729001655-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚颱風生成並快速增強 預測路徑轉向日本東南方",
-      "dek": "《蘋果仁》報導，今年第十三號颱風白海豚形成後預期迅速增強，路徑轉向日本東南部，氣象專家評估對台灣無直接威脅。",
-      "url": "https://applealmond.com/posts/320752"
+      "title": "賈新興示警：白海豚之後 「鯨魚」8月初生成機率高",
+      "dek": "氣象專家賈新興指出，白海豚颱風通過後的洋面上，另一熱帶系統恐於8月初接力生成，據《中時新聞網》報導。",
+      "url": "https://www.chinatimes.com/realtimenews/20260729001655-260405"
     },
     {
       "rank": 2,
-      "title": "白海豚路徑遠離台灣 今日高溫悶熱體感飆破39度",
-      "dek": "《自由時報電子報》指出，白海豚颱風路徑仍遠離台灣，今日天氣炎熱係夏季對流所致，午後雷雨機率升高。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5521076"
+      "title": "白海豚急速增強中 「鯨魚」預估生成時間點曝光",
+      "dek": "《壹蘋新聞網》報導，白海豚正快速增強朝颱風、強颱等級邁進，預測員鎖定8月3日至5日為後續系統生成的關鍵時間窗。",
+      "url": "https://news.nextapple.com/life/20260729/F13B8C20F044E66F35DE56EAB5DF214F"
     },
     {
       "rank": 3,
-      "title": "日本九州嚴陣以待 白海豚最快今日轉強颱直撲而來",
-      "dek": "《中時新聞網》報導，白海豚颱風可能最快於今日增強為強烈颱風，並持續朝日本九州方向逼近。",
-      "url": "https://www.chinatimes.com/realtimenews/20260729002203-260405"
+      "title": "白海豚才剛成形 賈新興：8月初「鯨魚」恐接力生成",
+      "dek": "據Newtalk新聞報導，白海豚為今年第13號颱風，7月27日生成後持續朝日本東南方移動，專家預期其後另有系統醞釀。",
+      "url": "https://newtalk.tw/news/view/2026-07-28/1049739"
     },
     {
       "rank": 4,
-      "title": "白海豚颱風增強逼近日本南鳥島 恐成「猛烈颱風」",
-      "dek": "馬來西亞《星報》引述美聯社報導，白海豚颱風正逼近日本南鳥島海域並持續增強，預估陣風可達每小時288公里，惟距登陸日本本土仍有逾一週時間。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/29/typhoon-dolphin-set-to-intensify-into-violent-storm-as-it-approaches-japan039s-minami-torishima-island"
+      "title": "白海豚颱風生成 最新路徑估將快速增強朝日本前進",
+      "dek": "《蘋果仁》整理7月28日最新路徑預測，指出白海豚增強速度快、模式分歧仍大，但評估對台灣無顯著影響。",
+      "url": "https://applealmond.com/posts/320752"
     },
     {
       "rank": 5,
-      "title": "猛烈颱風白海豚即時追蹤 中心氣壓已降至955百帕",
-      "dek": "AccuWeather即時追蹤顯示，白海豚颱風目前雖因眼牆置換而暫時減弱，但預測未來將再度增強，最大陣風上看每小時280公里。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/dolphin-2026"
+      "title": "「超肥巨獸」白海豚 三天內恐轉強颱直撲日本",
+      "dek": "《NOWnews今日新聞》報導，白海豚體型異常龐大，暴風圈持續擴張，預測三天內強度將提升至強颱等級。",
+      "url": "https://www.nownews.com/news/6860643"
     },
     {
       "rank": 6,
-      "title": "紅霞颱風登陸中國廣東 逾80萬人疏散",
-      "dek": "卡達半島電視台報導，紅霞颱風以每小時162公里風速登陸廣東惠東，為中國今年以來最強颱風，當局已疏散逾80萬居民。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
+      "title": "白海豚路徑呈「散彈槍」分布 日本風雨這兩天最劇",
+      "dek": "《NOWnews今日新聞》指出，各國模式對白海豚登陸點預測仍分歧，但一致認為8月4日至5日日本風雨將達最高峰。",
+      "url": "https://www.nownews.com/news/6860672"
     },
     {
       "rank": 7,
-      "title": "紅霞颱風登陸後減弱 持續為中國南方帶來強風豪雨",
-      "dek": "《台北時報》報導，紅霞颱風登陸後減弱為熱帶風暴，持續向內陸移動，為中國南方多地帶來強風豪雨。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/27/2003861439"
+      "title": "颱風白海豚生成 氣象署：路徑遠離台灣 影響有限",
+      "dek": "《聯合新聞網》引述中央氣象署說法，白海豚預測路徑朝日本移動，短期內對台灣天氣無直接影響。",
+      "url": "https://udn.com/news/story/7266/9653657"
     },
     {
       "rank": 8,
-      "title": "紅霞成中國今年第12個颱風 內陸豪雨警報未解除",
-      "dek": "葡萄牙媒體Plataforma Media報導，紅霞是中國今年第12個颱風，當局持續對內陸地區發布豪雨警報。",
-      "url": "https://www.plataformamedia.com/en/2026/07/27/typhoon-noul-china-flood-warnings-inland/"
+      "title": "準白海豚恐成今年第4強颱 專家：對台僅間接影響",
+      "dek": "《聯合新聞網》報導，白海豚可能成為今年第4個強颱等級系統，逼近日本之際僅透過外圍環流間接影響台灣午後對流。",
+      "url": "https://udn.com/news/story/7266/9653414"
     },
     {
       "rank": 9,
-      "title": "紅霞颱風動態回顧：海警解除、陸警未發布 台灣風雨影響一次看",
-      "dek": "《蘋果仁》整理報導，中央氣象署已於7月25日上午解除紅霞颱風海上警報，且自始未發布陸上警報，並回顧其對台灣南部與東部帶來的降雨影響。",
-      "url": "https://applealmond.com/posts/320471"
+      "title": "白海豚颱風命名由來 預估8月初以超強颱風等級襲日",
+      "dek": "香港《HK01》解析「白海豚」命名典故，並預測其將於8月初以超強颱風等級逼近日本東京或九州一帶。",
+      "url": "https://www.hk01.com/天氣/60374111/熱帶氣旋白海豚與中華白海豚有何關係-料超強颱風級8月初襲日本"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴麥莎克引發洪災 中國南方39人罹難",
-      "dek": "卡達半島電視台報導，本月稍早熱帶風暴麥莎克在中國南方引發洪水並造成潰壩，南寧遭淹沒，共造成39人死亡。",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china"
+      "title": "美軍觀測系統追蹤颱風12W（白海豚） 沖繩嘉手納基地列關注區",
+      "dek": "美國軍方媒體《Stars and Stripes》的風暴追蹤報導，提供JTWC觀測數據，追蹤白海豚相對於沖繩嘉手納基地的位置與強度變化。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
     }
   ]
 }
