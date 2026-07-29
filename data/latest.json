@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:07:00+08:00",
+  "generated_at": "2026-07-29T14:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報。上一波警報（颱風諾爾）已於7月25日上午解除，颱風白海豚雖快速增強，但路徑指向日本，距台灣仍有數千公里之遙。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報。上一波警報（颱風紅霞）已於7月25日上午8時30分解除，颱風白海豚雖快速增強，但距離台灣仍有數千公里，路徑指向日本。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。颱風白海豚路徑朝日本方向移動，中央氣象署並未對台灣本島（含台中）發布海上或陸上颱風警報；台中地區目前僅受一般夏季午後對流影響（局部雷陣雨、高溫悶熱），無停班停課相關公告。"
+    "text": "目前無直接影響。西太平洋活躍系統白海豚路徑朝日本方向移動，中央氣象署並未對台灣本島（含台中）發布海上或陸上颱風警報；台中地區目前無風雨警報及停班停課相關公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「白海豚」急速增強直撲日本 台灣暫別警戒、迎來短暫平靜",
-    "dek": "中央氣象署已解除颱風諾爾（Noul）海上警報，太平洋上「三颱共存」局面未歇，但氣象專家指出，未來數日台灣本島並無立即威脅。",
-    "url": "https://udn.com/news/story/7266/9655984"
+    "title": "白海豚急速增強直撲日本 台灣暫脫颱風威脅圈",
+    "dek": "中央氣象署證實台灣本島目前無颱風警報，而西太平洋唯一活躍系統「白海豚」正在遠洋加速增強，預料未來數日內衝擊九州與沖繩一帶。",
+    "url": "https://www.chinatimes.com/realtimenews/20260729002203-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風白海豚急速增強 預測將成超級颱風直撲日本",
-      "dek": "今年第13號颱風白海豚28日增強為中度颱風，氣象署預估將持續增強，最快8月5、6日於日本本州或九州一帶登陸，目前對台灣無直接威脅。",
-      "url": "https://udn.com/news/story/7266/9655984"
+      "title": "九州拉警報 白海豚最快今轉強颱直撲日本",
+      "dek": "中時新聞網報導，白海豚在西太平洋遠洋快速增強，最快今日升級為強烈颱風並持續朝九州逼近。",
+      "url": "https://www.chinatimes.com/realtimenews/20260729002203-260405"
     },
     {
       "rank": 2,
-      "title": "專家示警：白海豚之後恐有新颱風「鯨魚」醞釀 全球「三颱共存」態勢未歇",
-      "dek": "氣象專家賈新興指出，全球目前同時有白海豚、珍妮薇及佛斯托三個熱帶氣旋活躍，日本東南方海面8月初恐再醞釀新颱風「鯨魚」。",
-      "url": "https://udn.com/news/story/7266/9654845"
+      "title": "「散彈槍路徑」鎖定日本 未來兩天風雨最猛",
+      "dek": "NOWnews報導，各國預報模式呈現分散的「散彈槍路徑」，但均指向日本，預料未來兩天當地風雨最為劇烈。",
+      "url": "https://www.nownews.com/news/6860672"
     },
     {
       "rank": 3,
-      "title": "颱風諾爾轉向廣東 中央氣象署解除海上颱風警報",
-      "dek": "中央氣象署7月25日上午解除颱風諾爾海上警報，當時該颱風中心已移至鵝鑾鼻西南方約330公里，朝中國廣東方向移動。",
-      "url": "https://focustaiwan.tw/society/202607250002"
+      "title": "白海豚生成即狂飆 對台影響輕微",
+      "dek": "蘋果仁分析指出，新生成的白海豚正快速增強並朝日本東南方前進，因距離遙遠對台灣直接衝擊有限。",
+      "url": "https://applealmond.com/posts/320752"
     },
     {
       "rank": 4,
-      "title": "颱風諾爾登陸廣東惠州 逾80萬人疏散、香港風雨交加",
-      "dek": "颱風諾爾26日凌晨在廣東惠州惠東縣登陸，最大風速每小時162公里，廣東疏散逾80萬人，香港傳出21人受傷、逾百起樹倒案例。",
-      "url": "https://hongkongfp.com/2026/07/26/typhoon-noul-strong-winds-and-rain-lash-hong-kong-and-china-as-storm-makes-landfall/"
+      "title": "白海豚名從何來 恐於八月初以超強颱風襲日",
+      "dek": "香港01報導白海豚命名由來，並引述日本氣象廳等預測，指其可能在八月初以超強颱風等級侵襲日本。",
+      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60374111/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%89%E4%BD%95%E9%97%9C%E4%BF%82-%E6%96%99%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A8%E6%9C%88%E5%88%9D%E8%A5%B2%E6%97%A5%E6%9C%AC"
     },
     {
       "rank": 5,
-      "title": "回顧颱風巴薇：台灣135人受傷、苗栗創下驚人雨量紀錄",
-      "dek": "七月中旬掠過台灣北方的颱風巴薇造成135人受傷、苗栗單日累積雨量近80公分，全台逾1.5萬人疏散，所幸無人罹難。",
-      "url": "https://focustaiwan.tw/society/202607120009"
+      "title": "陸日氣象機構齊示警 白海豚恐成強颱襲日",
+      "dek": "大紀元報導，中國中央氣象台與日本氣象廳均預測白海豚將增強為超級颱風，建議八月初赴日旅客留意動態。",
+      "url": "https://www.epochtimes.com/gb/26/7/28/n14818977.htm"
     },
     {
       "rank": 6,
-      "title": "白海豚遠離台灣轉向日本 未來至31日僅維持夏季午後雷陣雨型態",
-      "dek": "中央氣象署預估，隨著白海豚持續北移遠離，台灣至7月31日將維持高溫悶熱、局部雷陣雨的典型夏季天氣，目前無颱風警報。",
-      "url": "https://www.chinatimes.com/realtimenews/20260729001655-260405"
+      "title": "「大又強」示警 白海豚恐為今年第四強颱",
+      "dek": "聯合新聞網引述氣象粉專「大又強」分析，白海豚可能成為今年第四個強颱，提醒下週赴日旅客密切關注。",
+      "url": "https://udn.com/news/story/7266/9654776"
     },
     {
       "rank": 7,
-      "title": "東太平洋五級颶風珍妮薇威力驚人 但預料不會登陸",
-      "dek": "颶風珍妮薇7月27日一度達到五級強度，為東太平洋兩年來首見，其路徑大致與墨西哥海岸平行但遠離陸地，預料不會登陸。",
-      "url": "https://www.accuweather.com/en/hurricane/hurricane-genevieve-becomes-a-monster-category-5-while-fausto-slices-north-of-hawaii/1915793"
+      "title": "白海豚急速增強逼近強颱 最新路徑曝光",
+      "dek": "Yahoo奇摩新聞取得最新預估路徑，顯示白海豚持續快速增強，但將維持在台灣以東遠處並轉向日本。",
+      "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%BF%AB%E9%80%9F%E5%A2%9E%E5%BC%B7-%E9%80%B2%E9%80%BC%E5%BC%B7%E9%A2%B1-%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0%E8%B7%AF%E5%BE%91%E6%9B%9D%E5%85%89-062000909.html"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴佛斯托減弱 掠過夏威夷以北海域",
-      "dek": "曾短暫增強為颶風的佛斯托已減弱為熱帶風暴，風速降至每小時約100公里，預計將從夏威夷以北海域通過。",
-      "url": "https://www.nbcnews.com/weather/hurricanes/major-hurricane-genevieve-roars-pacific-fausto-weakens-tropical-storm-rcna589571"
+      "title": "太平洋三系統並起 珍妮薇、白海豚、弗斯托同框",
+      "dek": "AccuWeather彙整報導指出，珍妮薇颶風、白海豚颱風與弗斯托熱帶風暴同時在太平洋各自發展，各有不同動向。",
+      "url": "https://www.accuweather.com/en/hurricane/monster-hurricane-genevieve-spins-in-pacific-as-fausto-eyes-hawaii-from-a-distance/1915793"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季回顧：已釀逾4.83億美元損失",
-      "dek": "維基百科彙整資料顯示，2026年太平洋颱風季至7月已出現包括莎莉佳、米克拉與凱高蘇雙颱、巴薇、諾爾等多個系統，累積損失逾4.83億美元。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "美軍追蹤系統記錄12W自熱帶低壓成形",
+      "dek": "美軍《星條旗報》風暴追蹤更新顯示，白海豚（12W）自熱帶低氣壓階段起便已受到亞太美軍基地系統持續監測。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
     },
     {
       "rank": 10,
-      "title": "聖嬰現象增強 美國國家海洋暨大氣總署預測今年大西洋颶風季偏弱",
-      "dek": "NOAA最新展望指出，受強化中的聖嬰現象及加勒比海破紀錄風切影響，2026年大西洋颶風季有55%機率偏弱，全季預估僅九個命名風暴。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "菲律賓氣象局：七月底前恐再添二至三個颱風",
+      "dek": "菲律賓大氣地球物理天文局預測月底前將有二至三個新颱風生成，同時表示低壓區LPA 07E目前發展機率不高。",
+      "url": "https://newsinfo.inquirer.net/?p=1632427"
     }
   ]
 }
