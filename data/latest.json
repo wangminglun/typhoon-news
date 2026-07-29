@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T18:06:00+08:00",
+  "generated_at": "2026-07-29T19:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已解除颱風紅霞海上警報，且未對其他系統發布新的海上或陸上颱風警報。西太平洋另一系統多爾芬正快速增強，預測路徑指向日本，暫未對台灣構成直接威脅。",
+  "alert_desc": "中央氣象署已解除颱風諾爾（奇雅坡）海上警報，且未對其他系統發布新的海上或陸上颱風警報。西太平洋另一系統多爾芬正快速增強逼近超級颱風強度，預測路徑指向日本，暫未對台灣構成直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中市最近一次因颱風停班停課是7月10日至11日的颱風巴威，與現正減弱的紅霞（已深入中國內陸）及仍在威克島附近、朝日本方向移動的多爾芬均無關聯，目前均未對台中帶來風雨或停班停課相關影響。"
+    "text": "目前無直接影響。今日台中無颱風相關風雨特報或停班停課措施；上一次因颱風（巴威）停班停課為7月10日至11日，事件已結束。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「多爾芬」增強逼近日本 台灣暫時脫離警戒 紅霞減弱深入中國內陸",
-    "dek": "中央氣象署已解除颱風紅霞海上警報且未發布新警報，西太平洋另一系統多爾芬則預測將快速增強為「猛烈」颱風，路徑指向日本西南島嶼。",
-    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/29/typhoon-dolphin-set-to-intensify-into-violent-storm-as-it-approaches-japan039s-minami-torishima-island"
+    "title": "颱風「多爾芬」加速增強逼近超級颱風強度 路徑轉向日本、台灣暫無威脅",
+    "dek": "西北太平洋今夏第三個「猛烈颱風」正朝日本逼近，而台灣則在颱風諾爾重創中國廣東後迎來短暫平靜。",
+    "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風多爾芬增強在即 直逼日本南鳥島",
-      "dek": "日本氣象廳表示，颱風多爾芬正以時速15公里向西北移動，預測將增強為「猛烈」颱風並逼近日本南鳥島。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/29/typhoon-dolphin-set-to-intensify-into-violent-storm-as-it-approaches-japan039s-minami-torishima-island"
+      "title": "颱風「多爾芬」（12W）在威克島附近爆發性增強 直逼超級颱風強度",
+      "dek": "據美國聯合颱風警報中心資料，多爾芬短短數日內由熱帶低壓增強為強烈颱風，預測強度將持續攀升。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
     },
     {
       "rank": 2,
-      "title": "港稱「多爾芬」熱帶風暴 預測增強為超級颱風並於8月初趨向日本",
-      "dek": "中國中央氣象台與日本氣象廳的預報均顯示，多爾芬將顯著增強並向西北移動，8月初可能逼近日本，但長期路徑仍不確定。",
+      "title": "多爾芬颱風預測增強至五級 8月初路徑指向日本",
+      "dek": "日本、韓國與台灣氣象單位模式顯示，多爾芬可能成為本季第三個「猛烈颱風」，登陸地點仍未確定。",
       "url": "https://www.dimsumdaily.hk/hk%E2%80%91named-tropical-storm-dolphin-forecast-to-intensify-into-a-super-typhoon-and-track-towards-japan-in-early-august/"
     },
     {
       "rank": 3,
-      "title": "颱風12W（多爾芬）即時路徑追蹤持續更新",
-      "dek": "AccuWeather的即時追蹤系統將多爾芬列為「猛烈颱風」，預估其最大持續風速接近每小時233公里，並可能於8月1日前後進一步增強。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/dolphin-2026"
+      "title": "颱風諾爾重創廣東 至少10死逾80萬人受災",
+      "dek": "據《日本時報》報導，諾爾以今年中國最強颱風登陸紀錄侵襲惠州，造成大規模人員傷亡與交通中斷。",
+      "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
     },
     {
       "rank": 4,
-      "title": "颱風紅霞侵襲中國南方後減弱",
-      "dek": "《台北時報》報導，紅霞以每小時162公里風速登陸廣東平海，為2026年迄今登陸中國最強颱風，香港至少21人受傷。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/27/2003861439"
-    },
-    {
-      "rank": 5,
-      "title": "颱風紅霞在中國登陸 數十萬人撤離",
-      "dek": "半島電視台報導，紅霞週日凌晨於廣東惠州惠東縣登陸，促使70萬至80萬人撤離，並導致當地航班大量取消。",
-      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
-    },
-    {
-      "rank": 6,
-      "title": "紅霞遠離 香港解除所有風暴警報",
-      "dek": "南華早報報導，香港天文台在紅霞減弱並移入廣東內陸後解除八號烈風或暴風信號等所有警報，結束對香港的直接威脅。",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon"
-    },
-    {
-      "rank": 7,
-      "title": "颱風紅霞海上警報解除",
-      "dek": "中央社英文網報導，中央氣象署於7月25日上午8時30分解除紅霞海上警報，惟提醒外圍雨帶仍將為台灣南部及東部帶來豪雨。",
-      "url": "https://focustaiwan.tw/society/202607250002"
-    },
-    {
-      "rank": 8,
-      "title": "氣象署對熱帶風暴紅霞發布海上警報",
-      "dek": "中央社英文網報導，氣象署因熱帶低氣壓增強為熱帶風暴紅霞而發布海上警報，預測7月25日最接近台灣，花蓮、台東與恆春半島將有豪雨。",
+      "title": "中央氣象署發布諾爾海上颱風警報 隔日即解除",
+      "dek": "台灣氣象單位曾預警花東與恆春半島豪雨風險，但隨諾爾轉向中國，警報迅速解除。",
       "url": "https://focustaiwan.tw/society/202607240002"
     },
     {
+      "rank": 5,
+      "title": "颶風「珍妮薇」成為2026年東太平洋首個五級颶風",
+      "dek": "據耶魯氣候連線報導，珍妮薇在墨西哥外海爆發性增強，雖無登陸威脅仍帶來危險大浪。",
+      "url": "https://yaleclimateconnections.org/2026/07/genevieve-becomes-the-first-category-5-hurricane-of-2026/"
+    },
+    {
+      "rank": 6,
+      "title": "熱帶風暴「福斯托」減弱掠過夏威夷以北 帶來危險大浪",
+      "dek": "據合眾國際社報導，福斯托雖持續減弱，夏威夷東岸仍需留意強浪與離岸流。",
+      "url": "https://www.upi.com/Top_News/US/2026/07/29/bcc-us-Fausto-storm/1691785226799/"
+    },
+    {
+      "rank": 7,
+      "title": "太平洋同時出現三個風暴系統 珍妮薇、多爾芬、福斯托齊聚",
+      "dek": "據AccuWeather報導，氣象學家形容今年7月下旬太平洋風暴活動異常活躍。",
+      "url": "https://www.accuweather.com/en/hurricane/hurricane-genevieve-typhoon-dolphin-spin-in-pacific-as-fausto-eyes-hawaii-from-a-distance/1915793"
+    },
+    {
+      "rank": 8,
+      "title": "颱風「巴威」曾為台灣帶來25年來最大暴風圈",
+      "dek": "據《台北時報》回顧，巴威7月上旬重創北台灣，中北部多地一度停班停課，隨後於中國福建、浙江沿岸登陸。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
+    },
+    {
       "rank": 9,
-      "title": "熱帶低氣壓琪雅波加速朝呂宋島極北挺進",
-      "dek": "菲律賓大氣地球物理暨天文服務署追蹤熱帶低氣壓琪雅波加速逼近呂宋島最北端，該系統其後增強並被國際命名為紅霞。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-kiyapo-southwest-monsoon-update-pagasa-forecast-july-23-2026-5pm/"
+      "title": "美國國家海洋暨大氣總署預測2026年大西洋颶風季活動偏弱",
+      "dek": "受聖嬰現象增強影響，預報單位預期今年大西洋僅九個命名風暴，強度普遍偏弱。",
+      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
     },
     {
       "rank": 10,
-      "title": "颱風12W（多爾芬）風暴追蹤更新第六報",
-      "dek": "美軍風暴追蹤報告記錄當時仍為熱帶低氣壓/風暴的12W系統形成與初期西北向路徑，提供其後迅速演變為猛烈颱風多爾芬的背景資訊。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
+      "title": "中央氣象署公布颱風季展望 「巨浪警報」7月上路",
+      "dek": "氣象署預期下半年颱風數量將持平或偏少，並推出新版大浪特報產品因應近期密集颱風活動。",
+      "url": "https://news.ipcf.org.tw/205328"
     }
   ]
 }
