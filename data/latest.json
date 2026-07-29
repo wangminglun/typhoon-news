@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T10:07:00+08:00",
+  "generated_at": "2026-07-29T11:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報；颱風白海豚正於馬紹爾群島海域急速增強並朝日本前進，直接侵襲台灣機率偏低。",
+  "alert_desc": "中央氣象署目前尚未對颱風白海豚發布海上或陸上颱風警報；白海豚今日可望增強為強颱，海上警報仍待其路徑與暴風圈進一步發展確認，多方預測路徑指向日本，對台灣直接構成威脅的機率偏低。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未列入今日因西南氣流豪雨而停班停課的縣市名單，中央氣象署亦未對台中發布任何颱風相關警報。"
+    "text": "目前無直接影響。白海豚颱風路徑指向日本，距台灣數千公里之遙，台中今日天氣主要受季節性天氣系統影響（局部午後雷陣雨、高溫），中央氣象署未對台中發布任何颱風相關警報，亦無停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「白海豚」急速增強逼近超級颱風等級 路徑指向日本 台灣暫無威脅",
-    "dek": "氣象單位指出，白海豚颱風正於馬紹爾群島海域快速增強，預計未來數日逼近超級颱風強度並朝日本本州、九州一帶前進，而台灣目前並無中央氣象署發布的海上或陸上颱風警報。",
-    "url": "https://weathernews.jp/news/202607/280221/"
+    "title": "颱風「白海豚」急速增強直撲日本 台灣暫處低風險區",
+    "dek": "中央氣象署與美日氣象機構皆預測，這個西北太平洋今年第13號颱風將於數日內增強為強颱甚至超級颱風，但預測路徑指向日本九州、四國一帶，對台灣構成直接威脅的機率偏低。",
+    "url": "https://news.nextapple.com/life/20260729/2B393449A65052BE837DD231C4730C7F"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Weathernews：白海豚急速發展為「強」颱風 預估將達「猛烈」等級",
-      "dek": "日本民間氣象機構Weathernews報導，白海豚颱風於七月二十八日下午已增強為「強」颱風，中心氣壓980百帕，預估未來將進一步發展至「猛烈」等級。",
-      "url": "https://weathernews.jp/news/202607/280221/"
+      "title": "白海豚增強在即 氣象署：海上颱風警報有發布可能",
+      "dek": "中央氣象署預報員指出，白海豚今日可望增強為強颱，是否發布海警仍待觀察其暴風圈與路徑變化，而今日台灣午後雷雨則與颱風環流無關。",
+      "url": "https://news.nextapple.com/life/20260729/2B393449A65052BE837DD231C4730C7F"
     },
     {
       "rank": 2,
-      "title": "MBS新聞：白海豚恐增強至「猛烈」等級 瞬間最大陣風估達75公尺",
-      "dek": "據MBS新聞經Yahoo!日本轉載報導，日本氣象廳預測白海豚颱風將由「強」增強為「猛烈」等級，瞬間最大陣風恐達每秒七十五公尺。",
-      "url": "https://news.yahoo.co.jp/articles/1511cea13493417d712abcddc2fe121d4204db08"
+      "title": "白海豚升格中颱 中央氣象署曝最新預測路徑",
+      "dek": "聯合新聞網報導，白海豚已於28日下午增強為中度颱風，中心氣壓約965百帕，氣象署評估其對台灣直接影響機率偏低。",
+      "url": "https://udn.com/news/story/7266/9655984"
     },
     {
       "rank": 3,
-      "title": "《星條旗報》追蹤：白海豚行經異常暖海域 強度恐逼近史上紀錄",
-      "dek": "《星條旗報》風暴追蹤報導指出，白海豚颱風行經海域水溫較平均偏高約攝氏兩度，部分模式預估其強度可能逼近甚至挑戰颱風「泰培」的歷史紀錄。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
+      "title": "白海豚結構異常龐大 專家估三天內增強為強颱、路徑指向日本",
+      "dek": "NOWnews報導，氣象專家形容白海豚正經歷爆發性增強，台日中三方預報模式皆指出其路徑將於8月初逼近日本九州、四國一帶。",
+      "url": "https://www.nownews.com/news/6860643"
     },
     {
       "rank": 4,
-      "title": "港媒：白海豚預測增強為超級颱風 八月初逼近日本",
-      "dek": "香港媒體《點對點日報》報導，由香港命名的白海豚颱風預計將增強為超級颱風等級，並於八月初逼近日本本州或九州地區。",
-      "url": "https://www.dimsumdaily.hk/hk%E2%80%91named-tropical-storm-dolphin-forecast-to-intensify-into-a-super-typhoon-and-track-towards-japan-in-early-august/"
+      "title": "美氣象機構：白海豚恐增強至逼近五級颶風強度",
+      "dek": "AccuWeather追蹤資料顯示白海豚在威克島附近快速增強，美軍聯合颱風警報中心評估其巔峰強度上看每小時190英里風速，並將轉向日本方向。",
+      "url": "https://www.accuweather.com/en/hurricane/west-pacific/dolphin-2026"
     },
     {
       "rank": 5,
-      "title": "《香港01》：白海豚命名由來與強度預測 估八月初襲日本",
-      "dek": "《香港01》報導解析白海豚颱風命名典故，並指出該颱風預計於八月初以超強颱風等級侵襲日本。",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60374111/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%89%E4%BD%95%E9%97%9C%E4%BF%82-%E6%96%99%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A8%E6%9C%88%E5%88%9D%E8%A5%B2%E6%97%A5%E6%9C%AC"
+      "title": "美軍氣象追蹤：白海豚路徑漸偏向日本九州、四國一帶美軍基地",
+      "dek": "《星條旗報》報導，多項模式預測顯示白海豚較可能通過佐世保、岩國美軍基地附近海域，而非沖繩或台灣。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
     },
     {
       "rank": 6,
-      "title": "蘋果仁：白海豚最新路徑估快速增強 對台影響機率偏低",
-      "dek": "台灣媒體《蘋果仁》引述日本氣象廳最新路徑推估，白海豚將朝日本東南方海域前進，直接侵襲台灣機率偏低，近日台灣降雨與颱風環流無關。",
-      "url": "https://applealmond.com/posts/320752"
+      "title": "尚未走出前兩個超颱陰影 北馬里亞納群島嚴防白海豚增強",
+      "dek": "Yale Climate Connections報導，仍在復原今年稍早超級颱風災情、逾千戶家庭棲身帳篷的北馬里亞納群島，正密切關注白海豚是否增強為超級颱風。",
+      "url": "https://yaleclimateconnections.org/2026/07/typhoon-battered-u-s-northern-mariana-islands-brace-for-a-potential-super-typhoon/"
     },
     {
       "rank": 7,
-      "title": "聯合新聞網：專家指白海豚恐成今年第四強颱 朝日本靠近",
-      "dek": "《聯合新聞網》引述台灣氣象專家分析，白海豚可能成為今年第四個強颱，路徑偏向日本，對台灣影響有限但外圍環流仍可能牽動天氣。",
-      "url": "https://udn.com/news/story/7266/9653414"
-    },
-    {
-      "rank": 8,
-      "title": "半島電視台：颱風諾亞登陸中國 逾八十萬人疏散",
-      "dek": "半島電視台報導，颱風諾亞七月二十六日登陸中國廣東惠州，當地疏散逾八十萬人，為今年以來登陸中國最強風暴，行經台灣南方海域時並未登陸。",
+      "title": "颱風洛克登陸廣東 逾80萬人疏散",
+      "dek": "半島電視台報導，颱風洛克26日凌晨在廣東惠州附近登陸，被中國官方媒體稱為今年以來最強登陸颱風，目前已減弱消散。",
       "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated"
     },
     {
+      "rank": 8,
+      "title": "洛克遠離 香港天文台解除所有風球警報",
+      "dek": "南華早報報導，香港天文台隨洛克內移將八號風球降為八號後全面解除警報，此前已取消數百班航班並開設29個庇護中心。",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon"
+    },
+    {
       "rank": 9,
-      "title": "《台北時報》：颱風諾亞登陸後減弱 持續侵襲中國南方",
-      "dek": "《台北時報》報導，颱風諾亞登陸後迅速減弱為熱帶風暴，繼續為中國南方帶來豪雨，台灣僅受外圍影響、未遭直接侵襲。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/27/2003861439"
+      "title": "「基雅波」遠離菲國 警報解除但西南季風雨勢未歇",
+      "dek": "Rappler報導，菲律賓大氣地球物理和天文服務管理局解除颱風基雅波（國際名洛克）相關警報，但西南季風雨勢仍持續影響部分地區。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-kiyapo-southwest-monsoon-update-pagasa-forecast-july-25-2026-11am/"
     },
     {
       "rank": 10,
-      "title": "Yahoo奇摩：西南氣流致豪雨 高雄台南屏東嘉義縣今停班停課",
-      "dek": "據Yahoo奇摩新聞報導，因西南氣流帶來豪雨，高雄市、台南市、屏東縣與嘉義縣七月二十九日宣布停止上班上課，此措施與颱風無關，台中未在其列。",
-      "url": "https://tw.news.yahoo.com/729%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2%E5%85%A8%E5%8F%B0%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5%EF%BC%9A%E9%AB%98%E9%9B%84%E5%B8%82%E3%80%81%E5%8F%B0%E5%8D%97%E5%B8%82%E3%80%81%E5%B1%8F%E6%9D%B1%E7%B8%A3%E3%80%81%E5%98%89%E7%BE%A9%E7%B8%A3%E5%81%9C%E6%AD%A2%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AA%B2-105047359.html"
+      "title": "太平洋三系統並存 颶風珍妮薇芙增強、白海豚持續發展",
+      "dek": "AccuWeather綜合報導指出，颶風珍妮薇芙在墨西哥外海增強至四至五級強度，熱帶風暴福斯托掠過夏威夷以北，與持續增強的白海豚同時牽動太平洋天氣情勢。",
+      "url": "https://www.accuweather.com/en/hurricane/hurricane-genevieve-typhoon-dolphin-spin-in-pacific-as-fausto-eyes-hawaii-from-a-distance/1915793"
     }
   ]
 }
