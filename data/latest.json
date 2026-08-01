@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T06:05:00+08:00",
+  "generated_at": "2026-08-02T07:05:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據中央氣象署最新資料，目前尚未針對超強颱風「白海豚」或菲律賓外海新升格的熱帶性低氣壓「Luis」（最快本週增強為颱風「鯨魚」）發布海上或陸上颱風警報。",
+  "alert_desc": "根據中央氣象署最新資料，目前尚未針對超強颱風「白海豚」或菲律賓大氣署轄區內新升格的熱帶性低氣壓「路易斯」發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中地區目前未受任何系統直接影響，也未觸及停班停課評估門檻；氣象署預估北部及山區自8月4日起長浪與降雨機率增加，中部僅為午後零星降雨等例行夏季天氣型態。"
+    "text": "目前無直接影響。台中地區未受任何系統直接影響，也未發布停班停課；獨立預報估計白海豚外圍環流影響北台灣的機率不到一成，中南部包括台中受到直接影響的可能性更低。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "超強颱風白海豚直逼琉球 台灣未發警報 「鯨魚」胚胎在菲律賓外海成形",
-    "dek": "中央氣象署證實白海豚中心仍在台灣東方逾3,700公里外、尚未達發布警報門檻，但提醒週二起沿海將見長浪，同時菲律賓外海一個低壓區已升格為熱帶性低氣壓，最快本週化身今年第二個逼近呂宋的風暴。",
-    "url": "https://applealmond.com/posts/321172"
+    "title": "超級颱風「白海豚」逼近日本南方島嶼 台灣氣象署稱路徑仍不明朗",
+    "dek": "這場今年太平洋上最強的颱風已在國際換日線附近創下強度紀錄，儘管暫未對台灣構成直接威脅，但其後續動向仍牽動整個東亞地區的戒備。",
+    "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚颱風最新動態：巔峰後略減弱仍「大而強」，路徑西進琉球，台灣4日起防長浪",
-      "dek": "中央氣象署1日下午觀測顯示，白海豚中心氣壓925百帕、陣風每小時63公尺，持續以每小時26公里速度向西北西前進，逼近琉球群島南方海域。",
-      "url": "https://applealmond.com/posts/321172"
-    },
-    {
-      "rank": 2,
-      "title": "白海豚維持巔峰強度，颱風論壇估侵台機率，日本三地區恐受威脅",
-      "dek": "《聯合新聞網》報導，氣象論壇評估白海豚直接侵襲台灣的機率，並點名琉球、奄美等三處日本地區可能隨路徑演變面臨威脅。",
-      "url": "https://udn.com/news/story/7266/9662523"
-    },
-    {
-      "rank": 3,
-      "title": "颱風「鯨魚」最快明日生成，日本氣象廳曝最新路徑",
-      "dek": "日本氣象廳預估菲律賓以東的低壓系統最快8月2日升格為熱帶風暴「鯨魚」，並緩慢向西北朝菲律賓移動，《中時新聞網》報導。",
-      "url": "https://www.chinatimes.com/realtimenews/20260801003024-260405"
-    },
-    {
-      "rank": 4,
-      "title": "白海豚路徑大幅修正，歐洲模式與AI預報曝南移逾千公里，中國緊張",
-      "dek": "《NOWnews今日新聞》報導，歐洲及AI預報模式將白海豚路徑大幅南移，降低對日本本土威脅，卻提高趨向沖繩與中國華東沿海的可能性。",
-      "url": "https://www.nownews.com/news/6861914"
-    },
-    {
-      "rank": 5,
-      "title": "白海豚路徑：日本氣象廳發預警，超強颱風逼近沖繩、奄美",
-      "dek": "《香港01》報導，日本氣象廳1日中午發布預警，指白海豚將於8月6日左右逐步接近沖繩與奄美群島，並在此之前以「非常強」等級通過小笠原群島附近。",
-      "url": "https://www.hk01.com/即時國際/60375837/白海豚路徑-日本氣象廳發預警-超強颱風逼近沖繩奄美"
-    },
-    {
-      "rank": 6,
-      "title": "菲律賓外海低壓區升格熱帶性低氣壓「Luis」，南呂宋發布一號風球",
-      "dek": "《Rappler》報導，PAGASA已將此低壓系統列為菲律賓今年第12個熱帶氣旋，預估8月2日晚間起為南呂宋部分省分帶來豪雨與淹水風險。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-update-pagasa-forecast-august-1-2026-11pm/"
-    },
-    {
-      "rank": 7,
-      "title": "超強颱風白海豚強度達五級颶風等級，堪稱歷史級風暴",
-      "dek": "《耶魯氣候連線》分析指出，白海豚在開闊北太平洋洋面爆發性增強至近似五級颶風強度，並探討其與歷史指標風暴的比較及背後的海洋熱含量條件。",
+      "title": "超級颱風「白海豚」達五級強度 創換日線附近最強紀錄",
+      "dek": "根據「耶魯氣候連線」報導，白海豚歷經爆發性增強後風速達每小時二百七十公里，成為今年全球第五個五級颱風。",
       "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
     },
     {
+      "rank": 2,
+      "title": "白海豚路徑未定 台灣氣象署：現在仍難判斷影響",
+      "dek": "中央社英文網報導，氣象署表示颱風白海豚距鵝鑾鼻仍有三千八百八十公里，其動向對台灣的影響尚待觀察。",
+      "url": "https://focustaiwan.tw/society/202608010006"
+    },
+    {
+      "rank": 3,
+      "title": "白海豚恐趨向九州 吳德榮：北台灣受暴風侵襲機率不到一成",
+      "dek": "中央社報導，氣象評論員吳德榮指出白海豚可能通過台灣與九州之間海域，但直接侵襲北台灣的機率偏低。",
+      "url": "https://www.cna.com.tw/news/ahel/202607300029.aspx"
+    },
+    {
+      "rank": 4,
+      "title": "白海豚預報路徑指向日本 小笠原群島恐首當其衝",
+      "dek": "「國際財經時報」報導，多項預報模型顯示白海豚最快八月三日逼近小笠原群島，屆時強度可能減弱至三級。",
+      "url": "https://www.ibtimes.sg/where-super-typhoon-dolphin-headed-latest-forecast-tracks-possible-approach-toward-japan-91122"
+    },
+    {
+      "rank": 5,
+      "title": "快速增強的超級颱風白海豚持續朝亞洲移動",
+      "dek": "福斯天氣報導，白海豚預計向西北西移動後轉往南西諸島與東海方向，整體路徑仍將偏南於日本本土。",
+      "url": "https://www.foxweather.com/weather-news/intensifying-super-typhoon-dolphin-tracks-toward-asia"
+    },
+    {
+      "rank": 6,
+      "title": "日本氣象廳列「猛烈」等級 白海豚於威克島附近增強後轉向西北西",
+      "dek": "日本氣象資訊公司Weathernews報導，白海豚在威克島附近增強，最大持續風速一度達每小時二百零四公里，並朝小笠原方向移動。",
+      "url": "https://sea.weathernews.com/resources/202607/174"
+    },
+    {
+      "rank": 7,
+      "title": "菲律賓大氣署轄區內低壓區增強為熱帶性低氣壓「路易斯」",
+      "dek": "「拉普勒」（Rappler）報導，呂宋島以東的低壓區於八月一日晚間升格為熱帶性低氣壓路易斯，最大持續風速約每小時五十五公里。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-update-pagasa-forecast-august-1-2026-11pm/"
+    },
+    {
       "rank": 8,
-      "title": "熱帶風暴「吉納維芙」與超強颱風白海豚同時在太平洋盤旋",
-      "dek": "《AccuWeather》報導，東太平洋熱帶風暴吉納維芙正逐漸減弱，預計本週末轉為溫帶系統，與白海豚系統無關，對陸地均無威脅。",
-      "url": "https://www.accuweather.com/en/hurricane/hurricane-genevieve-typhoon-dolphin-spin-in-pacific-as-fausto-eyes-hawaii-from-a-distance/1915793"
+      "title": "熱帶性低氣壓路易斯緩慢西移 呂宋三地區發布一級風力警戒",
+      "dek": "GMA新聞網報導，菲律賓大氣署已對波利略群島、卡馬里內斯諾特省東部及卡坦端內斯省北部發布一級風力信號。",
+      "url": "https://www.gmanetwork.com/news/weather/content/997034/tropical-depression-luis-moves-west-3-luzon-areas-under-signal-no-1/story/"
     },
     {
       "rank": 9,
-      "title": "超強颱風白海豚達17級風、迎第三波強度巔峰，路徑恐趨向華東沿海",
-      "dek": "《香港01》報導，白海豚強度估計已達17級風，部分模式顯示其路徑可能轉向中國華東沿海，但確切登陸位置仍高度不確定。",
-      "url": "https://www.hk01.com/即時中國/60375790/超強颱風白海豚已達17級-迎第3個強度巔峰-路徑恐趨向華東沿海"
+      "title": "低壓區增強為熱帶性低氣壓路易斯 菲國氣象單位持續監測",
+      "dek": "「馬尼拉公報」報導，菲律賓大氣署確認低壓區已於八月一日升格為熱帶性低氣壓路易斯，未來數日是否進一步增強仍待觀察。",
+      "url": "https://mb.com.ph/2026/08/01/lpa-intensifies-into-tropical-depression-luis"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季進入高峰期，聖嬰現象持續壓抑生成活動",
-      "dek": "《WUSF》引述美國國家颶風中心報導，2026年大西洋颶風季至今僅生成兩個弱編號風暴，聖嬰現象帶來的強風切變使未來一週內無新系統發展跡象。",
-      "url": "https://www.wusf.org/weather/2026-08-01/atlantic-hurricane-season-enters-peak-months-under-growing-el-nino-influence"
+      "title": "十三公尺巨浪、時速二百六十八公里強風 超級颱風白海豚直撲東亞",
+      "dek": "「哈里芝時報」（Khaleej Times）報導，白海豚在巔峰強度時掀起最高十三公尺巨浪，其威力恐波及區域內航運與沿海地區。",
+      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-dolphin-barrels-towards-east-asia"
     }
   ]
 }
