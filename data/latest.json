@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T19:06:00+08:00",
+  "generated_at": "2026-08-01T17:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已解除颱風諾爾（奇雅坡）海上警報，且未對其他系統發布新的海上或陸上颱風警報。西太平洋另一系統多爾芬正快速增強逼近超級颱風強度，預測路徑指向日本，暫未對台灣構成直接威脅。",
+  "alert_desc": "中央氣象署尚未針對颱風「多爾芬」（白海豚）發布海上或陸上颱風警報。該颱風目前距台灣逾4000公里，正朝日本南鳥島與小笠原群島逼近，暫未對台灣構成直接威脅，惟其後方另一熱帶系統「鯨魚」的後續動向仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。今日台中無颱風相關風雨特報或停班停課措施；上一次因颱風（巴威）停班停課為7月10日至11日，事件已結束。"
+    "text": "目前無直接影響。颱風「白海豚」及後方「鯨魚」系統皆距台灣尚遠且無警報生效，台中目前天氣為典型8月西南氣流午後對流雷陣雨型態，無風雨特報或停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「多爾芬」加速增強逼近超級颱風強度 路徑轉向日本、台灣暫無威脅",
-    "dek": "西北太平洋今夏第三個「猛烈颱風」正朝日本逼近，而台灣則在颱風諾爾重創中國廣東後迎來短暫平靜。",
-    "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
+    "title": "颱風「白海豚」直逼小笠原群島 恐成今年最強颱風 台灣暫無威脅",
+    "dek": "「白海豚」中心氣壓一度探至約895百帕、最大風速每秒60公尺，日本氣象單位形容其為「猛烈」等級，而後方「鯨魚」颱風胚胎已被鎖定觀察，惟氣象學家賈新興指出對台無立即威脅。",
+    "url": "https://weathernews.jp/news/202608/010061/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風「多爾芬」（12W）在威克島附近爆發性增強 直逼超級颱風強度",
-      "dek": "據美國聯合颱風警報中心資料，多爾芬短短數日內由熱帶低壓增強為強烈颱風，預測強度將持續攀升。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-07-26/tropical-depression-12w,-"
+      "title": "「猛烈」颱風直逼小笠原群島 日媒籲居民提前防颱",
+      "dek": "Weathernews報導指出，多爾芬中心氣壓探至910至925百帕，陣風每秒70至80公尺，最接近日本外島時間點落在8月3日至4日。",
+      "url": "https://weathernews.jp/news/202608/010061/"
     },
     {
       "rank": 2,
-      "title": "多爾芬颱風預測增強至五級 8月初路徑指向日本",
-      "dek": "日本、韓國與台灣氣象單位模式顯示，多爾芬可能成為本季第三個「猛烈颱風」，登陸地點仍未確定。",
-      "url": "https://www.dimsumdaily.hk/hk%E2%80%91named-tropical-storm-dolphin-forecast-to-intensify-into-a-super-typhoon-and-track-towards-japan-in-early-august/"
+      "title": "颱風13號預測達「猛烈」強度 登陸日本本土時間點仍分歧",
+      "dek": "News On Japan報導稱各國模式對多爾芬是否登陸本州、東京或九州意見不一，可能登陸窗口落在8月5日至7日。",
+      "url": "https://newsonjapan.com/article/150140.php"
     },
     {
       "rank": 3,
-      "title": "颱風諾爾重創廣東 至少10死逾80萬人受災",
-      "dek": "據《日本時報》報導，諾爾以今年中國最強颱風登陸紀錄侵襲惠州，造成大規模人員傷亡與交通中斷。",
-      "url": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
+      "title": "多爾芬週日將抵南鳥島海域 長期路徑仍具高度不確定性",
+      "dek": "《星報》引述外電報導，颱風以時速20公里向西北移動，後續是否轉向朝鮮半島或中國大陸尚無定論。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/31/typhoon-dolphin-to-reach-waters-near-japan039s-minami-torishima-island-by-sunday"
     },
     {
       "rank": 4,
-      "title": "中央氣象署發布諾爾海上颱風警報 隔日即解除",
-      "dek": "台灣氣象單位曾預警花東與恆春半島豪雨風險，但隨諾爾轉向中國，警報迅速解除。",
-      "url": "https://focustaiwan.tw/society/202607240002"
+      "title": "白海豚之後還有「鯨魚」 賈新興：8月初生成機率高",
+      "dek": "氣象學家賈新興接受《聯合報》採訪指出，新熱帶系統暫定8月3日至5日形成，目前對台灣尚無直接影響。",
+      "url": "https://udn.com/news/story/7266/9657365"
     },
     {
       "rank": 5,
-      "title": "颶風「珍妮薇」成為2026年東太平洋首個五級颶風",
-      "dek": "據耶魯氣候連線報導，珍妮薇在墨西哥外海爆發性增強，雖無登陸威脅仍帶來危險大浪。",
-      "url": "https://yaleclimateconnections.org/2026/07/genevieve-becomes-the-first-category-5-hurricane-of-2026/"
+      "title": "「鯨魚颱風」緊跟白海豚後 路徑觀察聚焦太平洋高壓走向",
+      "dek": "TVBS新聞網報導，若太平洋高壓持續西伸，該系統路徑不排除8月8日至9日前後轉向台灣東部海域。",
+      "url": "https://news.tvbs.com.tw/life/3270588"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴「福斯托」減弱掠過夏威夷以北 帶來危險大浪",
-      "dek": "據合眾國際社報導，福斯托雖持續減弱，夏威夷東岸仍需留意強浪與離岸流。",
-      "url": "https://www.upi.com/Top_News/US/2026/07/29/bcc-us-Fausto-storm/1691785226799/"
+      "title": "颱風奴爾重創後 廣東沿海城市生活秩序逐步恢復",
+      "dek": "《巴士的報》報導，奴爾登陸造成10人罹難、近90萬人疏散後，廣東電力、鐵路與航運已大致恢復正常。",
+      "url": "https://www.bastillepost.com/global/article/6039508-guangdong-starts-to-recover-after-typhoon-noul"
     },
     {
       "rank": 7,
-      "title": "太平洋同時出現三個風暴系統 珍妮薇、多爾芬、福斯托齊聚",
-      "dek": "據AccuWeather報導，氣象學家形容今年7月下旬太平洋風暴活動異常活躍。",
-      "url": "https://www.accuweather.com/en/hurricane/hurricane-genevieve-typhoon-dolphin-spin-in-pacific-as-fausto-eyes-hawaii-from-a-distance/1915793"
+      "title": "奴爾殘餘系統北移 江西廣東持續投入救災與撥款",
+      "dek": "《巴士的報》報導，廣東已撥款約5000萬元人民幣予多個受災地市，協助洪災後續救助工作。",
+      "url": "https://www.bastillepost.com/global/article/6042499-jiangxi-guangdong-actively-respond-to-remnants-of-typhoon-noul"
     },
     {
       "rank": 8,
-      "title": "颱風「巴威」曾為台灣帶來25年來最大暴風圈",
-      "dek": "據《台北時報》回顧，巴威7月上旬重創北台灣，中北部多地一度停班停課，隨後於中國福建、浙江沿岸登陸。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/10/2003860507"
+      "title": "太平洋熱帶氣旋齊發 珍妮薇颶風升至五級、多爾芬同步增強",
+      "dek": "AccuWeather報導，颶風珍妮薇成為北半球今年首個五級颶風，預計在夏威夷以北約1600公里處消散，不致登陸。",
+      "url": "https://www.accuweather.com/en/hurricane/hurricane-genevieve-typhoon-dolphin-spin-in-pacific-as-fausto-eyes-hawaii-from-a-distance/1915793"
     },
     {
       "rank": 9,
-      "title": "美國國家海洋暨大氣總署預測2026年大西洋颶風季活動偏弱",
-      "dek": "受聖嬰現象增強影響，預報單位預期今年大西洋僅九個命名風暴，強度普遍偏弱。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "多爾芬朝台灣與九州之間海域移動 專家：十日內不致直接威脅台灣",
+      "dek": "《台灣英文新聞》報導，颱風可能成為今年最強風暴，惟預報顯示短期內不會直接威脅台灣。",
+      "url": "https://www.taiwannews.com.tw/news/6411335"
     },
     {
       "rank": 10,
-      "title": "中央氣象署公布颱風季展望 「巨浪警報」7月上路",
-      "dek": "氣象署預期下半年颱風數量將持平或偏少，並推出新版大浪特報產品因應近期密集颱風活動。",
-      "url": "https://news.ipcf.org.tw/205328"
+      "title": "白海豚恐登今年風王 侵台機率仍低於一成",
+      "dek": "TVBS新聞網報導，颱風中心氣壓探至約895百帕、最大風速每秒60公尺，暴風圈持續擴大，但侵襲台灣北部機率仍偏低。",
+      "url": "https://news.tvbs.com.tw/life/3271583"
     }
   ]
 }
