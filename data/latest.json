@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T12:07:00+08:00",
+  "generated_at": "2026-08-02T13:05:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據多家媒體綜合報導，中央氣象署截至8月2日中午尚未對白海豚颱風發布海上或陸上颱風警報，北台灣近岸海面受暴風圈影響機率約五成，登陸北部陸地機率僅約一至兩成。",
+  "alert_desc": "中央氣象署截至8月2日尚未對白海豚颱風或任何系統發布海上或陸上颱風警報，官方表示中長期路徑須待8月4、5日左右才能明朗，屆時再評估是否發布警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中及台灣中部地區目前未受白海豚颱風直接影響（目前無直接影響）。若路徑維持現況，北部及中部地區約於8月7、8日前後有機會受外圍環流影響出現間歇性降雨，惟此仍屬預測性質，目前尚無停班停課規劃或警報。"
+    "text": "目前無直接影響。台中及台灣中部地區未受白海豚颱風或熱帶低壓路易斯直接影響，中部地區日高溫普遍達攝氏33至36度，僅山區午後有零星雷陣雨，無任何因颱風而起的停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「白海豚」持續肆虐西太平洋 路徑偏日中一線 台灣暫無警報但風雨機率仍受關注",
-    "dek": "中央氣象署表示，強颱白海豚預計掠過琉球後轉向中國浙閩沿岸，北台灣受影響機率約一至兩成，菲律賓則有熱帶性低氣壓「Luis」逼近呂宋東部。",
+    "title": "白海豚增強逼近超級颱風強度 路徑仍存變數 氣象署稱本週末前難定論",
+    "dek": "今年第13號颱風白海豚已增強至接近超級颱風強度，其未來動向牽動台灣與日本沖繩，中央氣象署表示至少須等到八月四、五日才能釐清中長期路徑。",
     "url": "https://focustaiwan.tw/society/202608010006"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚路徑仍不明朗 氣象署：北台灣受影響機率僅約一成",
-      "dek": "中央氣象署預報員表示，颱風目前距鵝鑾鼻仍有近3880公里，路徑走向尚待觀察。",
+      "title": "白海豚颱風路徑仍不明朗 氣象署示警未來變數大",
+      "dek": "中央氣象署表示，白海豚八月一日晨間位於鵝鑾鼻東方約3,880公里處，雖模擬路徑指向沖繩，但仍有專家估計影響台灣北部機率僅一成。",
       "url": "https://focustaiwan.tw/society/202608010006"
     },
     {
       "rank": 2,
-      "title": "強颱白海豚最新路徑逼近「台灣家門口」 暴風圈侵襲機率曝光",
-      "dek": "TVBS報導指出，最新模式路徑較先前預測更貼近台灣，各界關注其龐大暴風圈的潛在影響。",
-      "url": "https://news.tvbs.com.tw/life/4000893"
+      "title": "熱帶低壓路易斯增強 逼近甲米地諾附近海域",
+      "dek": "菲律賓氣象單位八月二日凌晨觀測顯示，路易斯風速增至每小時55公里，正緩慢向西南西移動。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-5am/"
     },
     {
       "rank": 3,
-      "title": "白海豚維持巔峰強度 颱風論壇討論侵台機率、日本三地區受威脅",
-      "dek": "聯合報報導，白海豚路徑略向西修正，台灣颱風預報社群同步關注日本三地區的風險。",
-      "url": "https://udn.com/news/story/7266/9662523"
-    },
-    {
-      "rank": 4,
-      "title": "白海豚侵襲北部海面機率達五成 氣象專家：週五起外圍環流將掠過台灣",
-      "dek": "Yahoo奇摩新聞引述氣象評論指出，北部陸地受影響機率約兩成，北台灣降雨機率將自週五起增加。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BE%B5%E8%A5%B2%E5%8C%97%E9%83%A8%E6%B5%B7%E9%9D%A2%E6%A9%9F%E7%8E%87%E9%81%9450-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%91%A8%E4%BA%94%E8%B5%B7%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E6%8E%A0%E9%81%8E%E5%8F%B0%E7%81%A3-004429859.html"
-    },
-    {
-      "rank": 5,
-      "title": "白海豚颱風動態持續更新：路徑偏南、是否侵台？停班停課機率一次看",
-      "dek": "商業周刊即時追蹤指出，目前無直接影響也未發布警報，但北台灣8月7、8日前後仍有短暫降雨可能。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022126"
-    },
-    {
-      "rank": 6,
-      "title": "白海豚路徑轉變、穩定西移 下週恐逼近台灣 最凶情境曝光",
-      "dek": "NOWnews報導，最新模式路徑較先前預測偏西，氣象界正密切關注最不利的可能情境。",
-      "url": "https://www.nownews.com/news/6861738"
-    },
-    {
-      "rank": 7,
-      "title": "白海豚會轉彎嗎？預報專頁指持續西修 AI模式秀兩路徑掃過北台灣",
-      "dek": "三立新聞網引述颱風預報粉專分析，AI模式部分情境顯示路徑掠過北台灣，惟尚非中央氣象署正式預報。",
-      "url": "https://www.setn.com/news/1880601"
-    },
-    {
-      "rank": 8,
-      "title": "白海豚颱風恐於8月上旬在中國登陸",
-      "dek": "新華社報導，中國官方已指示沿海及內陸多流域提前部署，防範最不利降雨情境。",
-      "url": "https://english.news.cn/20260731/b9112ca6f04d4bdb918cdea826ef16f4/c.html"
-    },
-    {
-      "rank": 9,
-      "title": "熱帶性低氣壓Luis增強 菲律賓比科爾及波利略群島部分地區發布一號風力警報",
-      "dek": "菲律賓時報報導，PAGASA針對呂宋東部多個省份發布警戒，預估36小時內將出現強風。",
+      "title": "路易斯增強 比科爾及波利略群島部分地區發布一號風力信號",
+      "dek": "菲律賓當局針對呂宋東部多省發布豪雨與土石流警戒，預估降雨量達50至100毫米。",
       "url": "https://www.manilatimes.net/2026/08/02/news/signal-no-1-raised-over-parts-of-bicol-polillo-islands-as-tropical-depression-luis-intensifies/2396473"
     },
     {
+      "rank": 4,
+      "title": "熱帶低壓路易斯持續西移 呂宋三地區發布一號風力信號",
+      "dek": "路易斯為菲律賓今年第12號、也是八月首個熱帶氣旋，目前持續向西南西方向移動。",
+      "url": "https://www.gmanetwork.com/news/weather/content/997034/tropical-depression-luis-moves-west-3-luzon-areas-under-signal-no-1/story/"
+    },
+    {
+      "rank": 5,
+      "title": "低壓區增強為熱帶低壓路易斯",
+      "dek": "菲律賓大氣地球物理暨天文服務署證實，奎松省因凡塔東方的低壓區已於八月一日晚間增強為熱帶低壓路易斯。",
+      "url": "https://mb.com.ph/2026/08/01/lpa-intensifies-into-tropical-depression-luis"
+    },
+    {
+      "rank": 6,
+      "title": "白海豚路徑仍有變數 氣象署：不排除更往南接近台灣",
+      "dek": "中央氣象署重申白海豚中長期路徑尚未明朗，雖主要情境偏向日本，但無法排除路徑南擺、逼近台灣的可能性。",
+      "url": "https://udn.com/news/story/7266/9664121"
+    },
+    {
+      "rank": 7,
+      "title": "颱風白海豚生成 氣象署：對台無立即影響",
+      "dek": "中央氣象署七月二十七日下午三時半宣布白海豚生成，成為今年第13號颱風，並表示短期內不會影響台灣。",
+      "url": "https://www.cna.com.tw/news/ahel/202607270166.aspx"
+    },
+    {
+      "rank": 8,
+      "title": "颱風白海豚朝台灣與九州間海域前進",
+      "dek": "報導指出，白海豚西行路徑一度可能通過台灣與日本九州之間海域，突顯當時中長期預測的高度不確定性。",
+      "url": "https://www.taiwannews.com.tw/news/6411335"
+    },
+    {
+      "rank": 9,
+      "title": "日媒：第13號颱風下週將最接近日本",
+      "dek": "日本媒體報導，颱風白海豚預計下週最接近日本的小笠原、大東群島一帶，沖繩仍須持續留意後續動向。",
+      "url": "https://newsonjapan.com/article/150161.php"
+    },
+    {
       "rank": 10,
-      "title": "熱帶性低氣壓Luis於甘馬粦省東方海面略為增強",
-      "dek": "Rappler引述PAGASA清晨公報指出，Luis預計24小時內增強為熱帶風暴，並將為呂宋多省帶來豪雨與淹水風險。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-5am/"
+      "title": "雙颱醞釀中！白海豚路徑生變 下週全台雨勢增多",
+      "dek": "除白海豚外，太平洋另一低壓系統醞釀成第14號颱風「鯨魚」，即使無直接颱風警報，台灣下週雨量預期增加。",
+      "url": "https://news.nextapple.com/life/20260802/D630A0D088D956485789BFB91470F134"
     }
   ]
 }
