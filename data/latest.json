@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T10:07:23+08:00",
+  "generated_at": "2026-08-02T11:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未針對白海豚颱風發布海上或陸上颱風警報，僅有部分縣市陸上強風特報。",
+  "alert_desc": "根據中央氣象署8月2日資料，白海豚颱風距台灣仍有約3,800多公里，尚未對台灣發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響。白海豚颱風距台仍遠且未發布颱風警報，現行陸上強風特報僅涵蓋新北、高雄、屏東部分地區，台中未列入其中，亦無停班停課相關公告。"
+    "text": "台中及台灣中部地區目前未受白海豚颱風直接影響，2日預報以夏季常見的午後雷陣雨為主，氣象署尚未將中部列入外圍環流可能波及範圍，也無停班停課規劃。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "超級颱風白海豚逼近日本 台灣氣象署：路徑仍未定，警報條件尚未達標",
-    "dek": "在西北太平洋今年最強候選颱風「白海豚」轉向沖繩、九州之際，中央氣象署表示風暴距台仍逾三千八百公里，發布颱風警報的條件尚未成立。",
+    "title": "超級颱風白海豚逼近琉球 中央氣象署：台灣暫無颱風警報疑慮",
+    "dek": "一度逼近最高強度的超級颱風白海豚持續朝琉球群島方向移動，中央氣象署表示現階段對台灣尚無直接威脅，但不排除路徑持續調整的可能。",
     "url": "https://focustaiwan.tw/society/202608010006"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚路徑未定 中央氣象署：言之過早",
-      "dek": "中央氣象署表示，目前仍難判斷超級颱風白海豚是否及將如何影響台灣天氣。",
+      "title": "白海豚路徑未定 中央氣象署：暫無直接威脅",
+      "dek": "中央社英文新聞網報導，氣象署表示颱風路徑仍具不確定性，專家估計僅約一成機率影響北台灣。",
       "url": "https://focustaiwan.tw/society/202608010006"
     },
     {
       "rank": 2,
-      "title": "白海豚增強逼近 路徑指向台灣與九州之間海域",
-      "dek": "白海豚颱風在西北太平洋持續增強，預測路徑一度指向台灣與日本九州之間海域。",
-      "url": "https://www.taiwannews.com.tw/news/6411335"
+      "title": "白海豚強度持穩 短期內路徑接近琉球群島",
+      "dek": "中央氣象署觀測顯示，颱風持續以西北西方向前進，短期內對台灣沒有直接威脅。",
+      "url": "https://udn.com/news/story/7266/9663344"
     },
     {
       "rank": 3,
-      "title": "「非常強」颱風13號白海豚 預測接近小笠原群島及沖繩",
-      "dek": "日本氣象業者Weathernews報導，颱風白海豚本週稍晚將先後逼近小笠原群島，再轉向沖繩、奄美地區，不排除週末登陸沖繩本島。",
-      "url": "https://weathernews.jp/news/202608/020061/"
+      "title": "持續增強中！白海豚路徑南修 氣象專家：8月2日是關鍵",
+      "dek": "氣象專家賈新興指出，颱風路徑略微南修，增添不確定性，預料8月4、5日後才會明朗。",
+      "url": "https://www.nownews.com/news/6861430"
     },
     {
       "rank": 4,
-      "title": "熱帶低氣壓路易斯增強 逼近甲米地東側海域",
-      "dek": "菲律賓大氣署觀測顯示，今年第12號熱帶氣旋路易斯持續增強，預測最快8月3日升級為熱帶風暴。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-5am/"
+      "title": "白海豚路徑南修同時 「鯨魚」颱風恐醞釀生成",
+      "dek": "報導指出，菲律賓東方新熱帶系統可能發展為颱風鯨魚，氣象界討論兩個系統是否互相牽動路徑。",
+      "url": "https://www.ettoday.net/news/20260801/3211701.htm"
     },
     {
       "rank": 5,
-      "title": "路易斯向西移動 呂宋三地掛出一號風球",
-      "dek": "隨著熱帶低氣壓路易斯持續西移，菲律賓呂宋島已有三個地區掛出一號風球警戒。",
-      "url": "https://www.gmanetwork.com/news/weather/content/997034/tropical-depression-luis-moves-west-3-luzon-areas-under-signal-no-1/story/"
-    },
-    {
-      "rank": 6,
-      "title": "分析：超級颱風白海豚一度達五級颶風強度",
-      "dek": "氣候媒體耶魯氣候連線分析指出，白海豚在有利海洋熱含量與低風切環境下，快速增強至歷史性的五級颶風等級強度。",
-      "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
-    },
-    {
-      "rank": 7,
-      "title": "13公尺巨浪、時速268公里強風 超級颱風白海豚直撲東亞",
-      "dek": "國際媒體報導指出，白海豚以極端風場與海象席捲西北太平洋，被視為對東亞構成重大威脅的風暴。",
+      "title": "國際媒體關注：超級颱風白海豚掀13公尺巨浪、268公里強風",
+      "dek": "外媒報導白海豚朝東亞方向移動，其強度逼近最高等級，引發國際輿論矚目。",
       "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-dolphin-barrels-towards-east-asia"
     },
     {
+      "rank": 6,
+      "title": "白海豚朝台灣、九州間海域移動 氣象署稱難判定影響程度",
+      "dek": "7月30日觀測顯示颱風距台灣約4,700公里，氣象署表示評估其對台影響仍言之過早。",
+      "url": "https://www.taiwannews.com.tw/news/6411335"
+    },
+    {
+      "rank": 7,
+      "title": "菲律賓熱低壓增強為熱帶低氣壓「路易斯」",
+      "dek": "菲律賓大氣部門通報，今年第12個熱帶氣旋已在描侖外海形成，並展開相關警戒作業。",
+      "url": "https://mb.com.ph/2026/08/01/lpa-intensifies-into-tropical-depression-luis"
+    },
+    {
       "rank": 8,
-      "title": "白海豚不排除更貼近台灣 氣象署：下週五起北部恐變天",
-      "dek": "中央氣象署預報員表示，白海豚路徑已有南修跡象，外圍雲系最快下週五影響北台灣天氣，但目前尚未達到發布颱風警報的條件。",
-      "url": "https://udn.com/news/story/7266/9664397"
+      "title": "熱帶低氣壓路易斯持續增強 預測24小時內恐成熱帶風暴",
+      "dek": "PAGASA清晨通報路易斯風速增強，惟預料8月5日後將減弱為低壓殘留。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-5am/"
     },
     {
       "rank": 9,
-      "title": "大西洋颶風季進入高峰期 聖嬰現象抑制風暴生成",
-      "dek": "美國公共廣播機構報導，大西洋今年至今僅形成兩個命名風暴，預報單位將其歸因於漸強的聖嬰現象。",
-      "url": "https://www.wusf.org/weather/2026-08-01/atlantic-hurricane-season-enters-peak-months-under-growing-el-nino-influence"
+      "title": "路易斯增強 菲律賓比科爾、波利略群島部分地區發布一號風球",
+      "dek": "菲律賓氣象機構不排除，若路易斯升級為熱帶風暴，將進一步發布二號風球警戒。",
+      "url": "https://www.manilatimes.net/2026/08/02/news/signal-no-1-raised-over-parts-of-bicol-polillo-islands-as-tropical-depression-luis-intensifies/2396473"
     },
     {
       "rank": 10,
-      "title": "白海豚動態即時追蹤 路徑南修、赴日與停班停課機率一次看",
-      "dek": "財經媒體商業周刊的即時追蹤報導整理白海豚南修後的最新路徑、對8月赴日行程的影響，以及台灣各地停班停課機率評估。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022126"
+      "title": "颱風「鯨魚」最快明日生成 日本氣象廳曝最新路徑",
+      "dek": "日本氣象廳偵測菲律賓東方新熱帶系統，估計8月3日至5日有高機率發展為颱風，惟距台灣尚遠。",
+      "url": "https://www.chinatimes.com/realtimenews/20260801003024-260405"
     }
   ]
 }
