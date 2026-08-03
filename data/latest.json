@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T05:07:00+08:00",
+  "generated_at": "2026-08-04T06:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署表示，白海豚颱風暴風圈廣闊、後續路徑分歧仍大，最快可能於本週五下午發布海上颱風警報，週末北台灣須留意豪雨風險。",
+  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報，但表示白海豚暴風圈若持續逼近，最快可能於週五（8月7日）下午發布海上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。相關報導顯示尚無證據指出白海豚颱風將對台中造成直接影響；氣象署評估的降雨風險主要集中於北台灣與北部山區，加上颱風後續走向仍高度不確定，氣象署尚未針對台中提出具體預警，也未有停班停課的討論。"
+    "text": "目前無直接影響，中央氣象署尚未針對台中發布任何颱風警報或停班停課訊息；若白海豚依現行路徑逼近，台中山區降雨機率可能自8月8日起至10日左右增加。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "強颱白海豚步步逼近 氣象署不排除週五發布海上警報",
-    "dek": "中央氣象署表示，白海豚颱風暴風圈廣闊、後續路徑分歧仍大，最快可能於本週五下午發布海上颱風警報，週末北台灣須留意豪雨風險。",
+    "title": "颱風白海豚實力減弱仍龐大 中央氣象署估最快週五發布海上颱風警報",
+    "dek": "白海豚颱風已自超級颱風巔峰減弱，但暴風圈範圍仍廣，中央氣象署表示尚未發布警報，最快可能於週五下午發布海上颱風警報，颱風最接近台灣時間落在8月7日至9日。",
     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861863"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：白海豚颱風本週稍晚恐為北台灣帶來強降雨",
-      "dek": "中央氣象署表示，若白海豚颱風通過琉球群島後路徑更靠近台灣，北台灣與中部山區本週稍晚可能出現局部豪雨。",
+      "title": "中央氣象署：白海豚週後半恐為北台灣帶來強降雨",
+      "dek": "中央氣象署表示，若白海豚颱風持續朝台灣方向移動，北部地區本週稍晚恐迎來強降雨。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861853"
     },
     {
       "rank": 2,
-      "title": "氣象署：白海豚颱風海上警報最快週五發布",
-      "dek": "預報人員指出，數值模式顯示白海豚颱風週四前將持續朝琉球群島前進，其後路徑出現分歧，一說自北台灣外海通過，一說轉向朝鮮半島。",
+      "title": "白海豚海上颱風警報最快週五發布 氣象署估週末最接近台灣",
+      "dek": "中央氣象署官員表示，隨著白海豚暴風圈擴大逼近台灣海域，海上颱風警報最快可能於週五下午發布。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861863"
     },
     {
       "rank": 3,
-      "title": "中央社：白海豚颱風恐於週五下午觸發海上警報",
-      "dek": "中央氣象署評估，白海豚颱風廣大的暴風圈使週五下午發布海上警報的可能性增加，颱風最接近台灣海域的時間預估落在8月8日至9日。",
-      "url": "https://focustaiwan.tw/society/202608030009"
+      "title": "白海豚周五起最接近台灣 氣象署不排除發布海警",
+      "dek": "氣象署說明，白海豚目前位於台北東方約3900公里海面，預估8月7日至9日最接近台灣，不排除週五下半天發布海上颱風警報。",
+      "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%B1%E9%A2%A8%E9%80%BC%E8%BF%91-%E5%91%A8%E4%BA%94%E8%B5%B7%E6%9C%80%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3-%E4%B8%8D%E6%8E%92%E9%99%A4%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6%EF%BD%9C%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D-014227716.html"
     },
     {
       "rank": 4,
-      "title": "颱風白海豚逼近 氣象署不排除7日下半天發布海警",
-      "dek": "中央社報導，白海豚颱風上午8時位於台北東方約2,720公里海面，中心氣壓950百帕，氣象署預估週末北部山區將出現明顯降雨。",
-      "url": "https://www.cna.com.tw/news/ahel/202608030075.aspx"
+      "title": "白海豚颱風路徑現分歧 粉專警告登陸或觸陸恐影響劇烈",
+      "dek": "氣象粉專分析指出，白海豚後續可能出現兩條移動路徑，一旦登陸或觸及陸地，影響程度恐十分巨大。",
+      "url": "https://udn.com/news/story/7266/9665442"
     },
     {
       "rank": 5,
-      "title": "日本氣象廳：強颱第13號本週稍晚將逼近沖繩",
-      "dek": "日本氣象廳將白海豚列為「非常強的颱風」，預計8月4日掠過小笠原群島後，將持續朝沖繩與奄美群島方向移動。",
-      "url": "https://newsonjapan.com/article/150226.php"
+      "title": "白海豚維持巔峰強度 日本沖繩、奄美、大東恐首當其衝",
+      "dek": "颱風論壇分析白海豚侵台機率，並指出日本沖繩、奄美及大東群島等三地恐先受到外圍環流及暴風圈威脅。",
+      "url": "https://udn.com/news/story/7266/9662523"
     },
     {
       "rank": 6,
-      "title": "白海豚颱風強度減弱 惟下週恐仍影響沖繩",
-      "dek": "關島媒體Postguam.com報導，白海豚颱風雖已過巔峰強度並逐漸減弱，但預料仍將於8月7日前後為沖繩與奄美群島帶來強風威脅。",
-      "url": "https://www.postguam.com/news/local/dolphin-weakens-but-may-affect-okinawa-next-week/article_dfc33a1e-b38e-498c-a401-5c2e8ae361cf.html"
+      "title": "日本氣象廳：13號颱風白海豚週四逼近大東群島、週五接近沖繩本島",
+      "dek": "日本氣象廳資料顯示，白海豚中心氣壓945百帕，預估將為沖繩帶來猛烈風雨及逾10公尺巨浪。",
+      "url": "https://newsonjapan.com/article/150226.php"
     },
     {
       "rank": 7,
-      "title": "外電報導：強颱白海豚本週將逼近小笠原群島與沖繩",
-      "dek": "綜合外電報導，白海豚颱風預計8月4日最接近小笠原群島，隨後持續朝沖繩與奄美地區移動，當局已呼籲居民完成防颱準備。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/03/strong-typhoon-dolphin-to-approach-japans-ogasawara-islands-and-okinawa-this-weekstrong-typhoon-dolphin-to-approach-japans-ogasawara-islands-and-okinawa-this-week"
+      "title": "白海豚曾達第五級超級颱風 為今年太平洋第五個同級風暴",
+      "dek": "耶魯氣候連線報導指出，白海豚是2026年太平洋颱風季第五個達到第五級強度的風暴，速度快於1997年創紀錄年份。",
+      "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
     },
     {
       "rank": 8,
-      "title": "菲律賓氣象機構：熱帶低氣壓Luis登陸伊莎貝拉省",
-      "dek": "菲律賓大氣地理天文服務管理局表示，Luis登陸馬科納科納後持續減弱，預計8月4日化為殘餘低壓並遭白海豚環流吸收，惟目前仍為呂宋帶來豪雨。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-3-2026-8pm/"
+      "title": "中國中央氣象台：白海豚估8月8日至10日登陸浙閩交界一帶",
+      "dek": "新華社報導，中國中央氣象台研判白海豚將於8月6日起逼近東海，登陸浙江南部至福建北部機率最高。",
+      "url": "https://www.news.cn/politics/20260803/9ddba049608540bda49de75b44c6b675/c.html"
     },
     {
       "rank": 9,
-      "title": "菲律賓東側再現熱帶低氣壓 預估明日增強為颱風「鯨魚」",
-      "dek": "ETtoday報導，氣象專家指出，這個位於菲律賓以東、緩慢朝西北移動的熱帶低氣壓可能因白海豚環流龐大而遭藤原效應牽引甚至瓦解。",
-      "url": "https://www.ettoday.net/news/20260801/3211675.htm"
+      "title": "白海豚增強東海風力 越南媒體密切關注風暴動向",
+      "dek": "越南媒體報導，白海豚增強的風力已影響東海海域，當局持續追蹤風暴後續發展。",
+      "url": "https://vietnamnet.vn/en/super-typhoon-dolphin-heads-for-china-as-east-sea-winds-strengthen-2541194.html"
     },
     {
       "rank": 10,
-      "title": "中央氣象署：白海豚颱風後續路徑仍高度不確定",
-      "dek": "氣象署較早前的簡報指出，白海豚颱風通過琉球群島後的路徑尚難判定，究竟會轉向朝鮮半島、朝中國東岸移動，或直接影響台灣仍無法確認。",
-      "url": "https://focustaiwan.tw/society/202608010006"
+      "title": "菲律賓PAGASA：白海豚已離開責任區減弱 另緊盯熱帶低氣壓路易斯",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，白海豚已離開菲律賓責任區並降為颱風等級，同時關注登陸呂宋北部的熱帶低氣壓路易斯。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-11am/"
     }
   ]
 }
