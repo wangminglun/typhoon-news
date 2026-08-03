@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:07:00+08:00",
+  "generated_at": "2026-08-03T11:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至8月3日尚未發布海上或陸上颱風警報；據《中時新聞網》報導，氣象單位不排除在白海豚最接近台灣的8月8日至9日周末發布海上颱風警報。",
+  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報；預報員劉沛滕表示，受白海豚路徑不確定性影響，是否於8月8日至9日週末發布海上警報仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響，當局未發布或預告停班停課；若白海豚後續路徑偏向西行，北部與中部山區在8月8日至9日周末可能出現較明顯降雨。"
+    "text": "台中目前無直接影響，當局未發布或預告停班停課；今明兩日仍維持典型夏季炎熱潮濕天氣，僅有局部午後雷陣雨，與白海豚無關。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風白海豚減弱 周末最接近台灣恐發海警",
-    "dek": "中央氣象署尚未發布颱風警報，但不排除周末發布海上警報，北部中部山區估將迎風雨考驗。",
-    "url": "https://www.chinatimes.com/realtimenews/20260803000814-260405"
+    "title": "白海豚減弱為中颱 週末牽動台灣天氣",
+    "dek": "氣象署示警下週五起北台灣降雨增多，是否發布海上警報仍待觀察",
+    "url": "https://focustaiwan.tw/society/202608020013"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚減弱為中度颱風 周末最接近恐發海警",
-      "dek": "中央氣象署尚未排除本周末發布海上颱風警報，風雨預期周五起加劇。",
-      "url": "https://www.chinatimes.com/realtimenews/20260803000814-260405"
+      "title": "中央社：白海豚恐為北台灣帶來強降雨",
+      "dek": "氣象署指模式路徑分歧，是否發海警仍待判斷。",
+      "url": "https://focustaiwan.tw/society/202608020013"
     },
     {
       "rank": 2,
-      "title": "白海豚逼近琉球海域 台灣雨量估8月8日起增加",
-      "dek": "隨風暴接近沖繩，北部與中部山區將是外圍環流影響最明顯地區。",
-      "url": "https://news.nextapple.com/life/20260803/8C05B457B5F328B93465946C71019C65"
+      "title": "台北時報證實：北台灣本週稍晚恐降大雨",
+      "dek": "英語媒體確認颱風路徑不確定性與降雨風險。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861853"
     },
     {
       "rank": 3,
-      "title": "白海豚暴風圈擴大 沖繩後北轉或西行成關鍵分歧",
-      "dek": "氣象粉專分析，風暴周五抵沖繩後動向將決定台灣受影響程度。",
-      "url": "https://udn.com/news/story/7266/9665958"
+      "title": "白海豚逼近琉球 八日起台灣雨勢增",
+      "dek": "高溫將持續至週初，西半部週末風雨增強。",
+      "url": "https://news.nextapple.com/life/20260803/8C05B457B5F328B93465946C71019C65"
     },
     {
       "rank": 4,
-      "title": "白海豚逐步逼近 中國江浙沿海提前防颱",
-      "dek": "面對風暴可能西行情境，江蘇、浙江多地已展開防颱準備工作。",
-      "url": "https://udn.com/news/story/7332/9666824"
+      "title": "白海豚周末最接近 氣象署不排除發海警",
+      "dek": "全台轉雨，路徑未定仍待進一步觀察。",
+      "url": "https://news.nextapple.com/life/20260803/5197551C50BEE028CC8B7B68E160C972"
     },
     {
       "rank": 5,
-      "title": "日本氣象廳最新路徑曝光 白海豚估衝向沖繩",
-      "dek": "日氣象廳預測路徑顯示風暴逼近沖繩，文中並估算最接近台灣的時間點。",
-      "url": "https://www.nownews.com/news/6862309"
+      "title": "白海豚伴過父親節 週三起天氣轉變",
+      "dek": "颱風降為中颱，專家籲留意周末動向。",
+      "url": "https://news.tvbs.com.tw/life/4001248"
     },
     {
       "rank": 6,
-      "title": "準颱風鯨魚最快今生成 白海豚暴風半徑續擴大",
-      "dek": "菲律賓以東熱帶低氣壓估將增強為今年第21號颱風鯨魚，但威脅有限。",
-      "url": "https://www.ettoday.net/news/20260802/3211794.htm"
+      "title": "中颱白海豚逼近 江浙提前防颱準備",
+      "dek": "陸媒示警沿海地區恐面臨颱風登陸風險。",
+      "url": "https://udn.com/news/story/7332/9666824"
     },
     {
       "rank": 7,
-      "title": "雙颱風效應 準鯨魚恐遭白海豚環流吞噬",
-      "dek": "專家指藤原效應下，鯨魚可能被鄰近的白海豚吸收而非獨立成災。",
-      "url": "https://www.hk01.com/天氣/60375947/雙颱風-準鯨魚現身有路徑圖-藤原效應-遭超強顏風白海豚吞噬"
+      "title": "白海豚暴風圈擴大 沖繩後路徑成謎",
+      "dek": "專家：抵琉球後北轉或西行影響大不同。",
+      "url": "https://udn.com/news/story/7266/9665958"
     },
     {
       "rank": 8,
-      "title": "白海豚路徑南移 下周恐襲沖繩及台灣北部海域",
-      "dek": "港媒報導風暴預測路徑較先前南移約千公里，不排除登陸華東。",
-      "url": "https://www.stheadline.com/realtime-china/3599481/白海豚超強颱風路徑南移-料下周吹襲沖繩及台灣北部或登陸華東"
+      "title": "日氣象廳：白海豚結構紮實直撲沖繩",
+      "dek": "預估七日逼近沖繩，暴風圈廣達440公里。",
+      "url": "https://news.tvbs.com.tw/world/4000959"
     },
     {
       "rank": 9,
-      "title": "白海豚動態一次看 赴日與停班停課機率解析",
-      "dek": "持續更新專題整理風暴是否影響台灣、赴日旅遊衝擊與停班停課評估。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022126"
+      "title": "鯨魚未成形 雙颱聲勢未如預期",
+      "dek": "熱帶低壓消散，白海豚侵台機率受矚目。",
+      "url": "https://www.mirrormedia.mg/story/20260802edi001"
     },
     {
       "rank": 10,
-      "title": "聖嬰現象增強 大西洋颶風季進入高峰期",
-      "dek": "美國氣象單位指出，聖嬰影響下今年大西洋颶風活動預期仍低於歷史均值。",
-      "url": "https://www.wusf.org/weather/2026-08-01/atlantic-hurricane-season-enters-peak-months-under-growing-el-nino-influence"
+      "title": "回顧：白海豚曾達五級颶風等級強度",
+      "dek": "耶魯氣候連線分析其歷史性巔峰強度。",
+      "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
     }
   ]
 }
