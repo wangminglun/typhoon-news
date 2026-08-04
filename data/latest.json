@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:09:00+08:00",
+  "generated_at": "2026-08-04T21:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對白海豚颱風發布海上或陸上颱風警報，預估最快本週五（8/7）下午發布海上颱風警報。",
+  "alert_desc": "中央氣象署尚未對白海豚颱風發布海上或陸上颱風警報，預估最快本週五（8/7）下半天發布海上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。截至8月4日，白海豚颱風（Dolphin）距台灣仍有約2,700公里遠，中央氣象署尚未發布海上或陸上颱風警報，台中市無停班停課情形；氣象單位預估8月7日至10日（尤其週末父親節期間）台灣中部以北山區才可能出現較明顯風雨，實際影響程度仍待颱風路徑進一步明朗。"
+    "text": "目前無直接影響。根據中央氣象署最新120小時暴風侵襲機率數據，中部地區（含台中）目前均未突破20%，明顯低於北北基等六縣市已破3成的機率；氣象專家評估中部以北雖需防大雨，但台中因颱風假標準而停班停課的機率目前偏低。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風海豚步步逼近 路徑「天女散花」氣象署估週五發布海上警報",
-    "dek": "中央氣象署表示，海豚颱風龐大的暴風圈恐為台灣北部山區帶來豪雨，但各國數值模式對其後續路徑預測分歧甚大，確切走向仍待觀察。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/04/2003861909"
+    "title": "白海豚颱風轉向關鍵未卜 氣象署：週五下半天最快發海警",
+    "dek": "颱風白海豚持續向西逼近琉球群島，中央氣象署預估其北轉角度將決定台灣受影響程度，北台灣六縣市侵襲機率已率先突破三成。",
+    "url": "https://applealmond.com/posts/321344"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：海上颱風警報最快週五發布",
-      "dek": "中央氣象署指出，颱風海豚暴風圈廣大，恐為台灣北部山區帶來豪雨。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/04/2003861909"
+      "title": "白海豚颱風轉趨正西 逼近琉球群島 週末轉北角度成觀察重點",
+      "dek": "中央氣象署觀測顯示白海豚颱風中心氣壓955百帕、瞬間陣風每秒50公尺，正以時速19公里向西逼近，其北轉角度將左右台灣受影響程度。",
+      "url": "https://applealmond.com/posts/321344"
     },
     {
       "rank": 2,
-      "title": "海豚颱風路徑未定 氣象署：仍待觀察",
-      "dek": "中央氣象署表示，颱風海豚是否、以及將如何影響台灣天氣，目前仍言之過早。",
-      "url": "https://focustaiwan.tw/society/202608010006"
+      "title": "氣象署示警：白海豚週五下半天最快發海警 週六至下週一影響台灣最明顯",
+      "dek": "中央氣象署表示白海豚颱風8月7日至9日逐漸接近台灣，海上颱風警報最快7日下半天發布，8日至10日北台灣及北部山區須慎防豪雨甚至超大豪雨。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BC%B0%E6%9C%80%E5%BF%AB%E5%91%A8%E4%BA%94%E4%B8%8B%E5%8D%8A%E5%A4%A9%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-%E5%91%A8%E5%85%AD%E5%8C%97%E8%BD%89%E8%87%B3%E4%B8%8B%E5%91%A8%E4%B8%80%E5%BD%B1%E9%9F%BF%E5%8F%B0%E7%81%A3%E9%A1%AF%E8%91%97-110137443.html"
     },
     {
       "rank": 3,
-      "title": "海豚颱風朝台灣、九州間海域移動",
-      "dek": "颱風生成初期即持續西移，直逼台灣與日本九州之間海域，成為各界觀察焦點。",
-      "url": "https://www.taiwannews.com.tw/news/6411335"
+      "title": "中部侵襲機率未破二成 台中放假機率暫時偏低",
+      "dek": "根據中央氣象署120小時暴風侵襲機率統計，中部含台中各縣市目前均未突破20%，明顯低於北部縣市，專家評估中部停班停課機率暫時偏低。",
+      "url": "https://www.nownews.com/news/6862797"
     },
     {
       "rank": 4,
-      "title": "氣象署：海豚颱風本週稍晚恐為北台灣帶來強降雨",
-      "dek": "若颱風通過琉球群島後路徑偏近台灣，北部地區恐面臨較大雨勢。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861853"
+      "title": "白海豚路徑曝北北基風險升溫 六縣市侵襲機率率先破三成",
+      "dek": "中央氣象署最新路徑預測顯示，以台北、新北、基隆為首的六個縣市暴風侵襲機率已突破三成，成為白海豚颱風目前威脅最高的區域。",
+      "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91%E6%9B%9D-6%E7%B8%A3%E5%B8%82-%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E7%A0%B43%E6%88%90-%E5%8C%97%E5%8C%97%E5%9F%BA%E5%85%A5%E5%88%97-213000639.html"
     },
     {
       "rank": 5,
-      "title": "吳德榮：白海豚路徑模擬「天女散花」 七日起西半部雨勢增大",
-      "dek": "氣象專家指出，歐洲模式系集模擬顯示颱風路徑分歧甚大，主因北方高壓減弱速度不一。",
-      "url": "https://www.cna.com.tw/news/ahel/202608040021.aspx"
+      "title": "日本氣象業者示警：白海豚颱風週五前後逼近奄美、沖繩",
+      "dek": "Weathernews報導指出，「非常強」等級的白海豚颱風預計8月7日前後接近日本奄美與沖繩群島，屋久島至南西諸島一帶恐有強風豪雨與高浪。",
+      "url": "https://wxtech.weathernews.com/en/news/20260803-01/"
     },
     {
       "rank": 6,
-      "title": "白海豚路徑模擬分歧如「天女散花」 專家籲留意雨勢",
-      "dek": "多國數值模式模擬結果分散，專家提醒週末起台灣西半部雨勢將明顯增大。",
-      "url": "https://newtalk.tw/news/view/2026-08-04/1051141"
+      "title": "白海豚雖未進菲律賓警戒範圍 已增強西南季風添雨勢",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，白海豚颱風雖已由超級颱風降級且不在菲國責任範圍內，但已增強西南季風，為菲律賓西部帶來額外降雨。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-11am/"
     },
     {
       "rank": 7,
-      "title": "白海豚路徑北修現「兩關鍵轉彎」 週末恐變天",
-      "dek": "颱風模擬路徑略向北修正，兩個關鍵轉彎點將牽動其是否逼近台灣。",
-      "url": "https://www.ettoday.net/news/20260803/3212711.htm"
+      "title": "PAGASA不排除白海豚進入菲國警戒範圍 屆時將命名「Maymay」",
+      "dek": "據Manila Bulletin報導，菲律賓氣象單位表示不排除白海豚日後進入菲律賓責任範圍並獲當地命名「Maymay」，目前已使西南季風雨勢增強。",
+      "url": "https://mb.com.ph/2026/08/04/pagasa-not-ruling-out-entry-of-typhoon-outside-par-may-be-named-maymay"
     },
     {
       "rank": 8,
-      "title": "白海豚颱風兩條可能路徑 粉專：登陸與否影響甚鉅",
-      "dek": "氣象粉專分析指出，若颱風登陸或觸陸台灣，帶來的風雨規模差異將十分巨大。",
-      "url": "https://udn.com/news/story/7266/9665442"
+      "title": "熱帶低氣壓Luis登陸伊莎貝拉後減弱 恐遭白海豚環流吸收",
+      "dek": "Rappler報導，熱帶低氣壓Luis登陸菲律賓伊莎貝拉省後減弱為殘餘低壓，並在阿爾拜省與三寶顏市引發淹水，逾3600人一度撤離。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-lpa-southwest-monsoon-update-pagasa-forecast-august-4-2026-5am/"
     },
     {
       "rank": 9,
-      "title": "菲律賓以東熱帶低壓 預測增強為颱風「劇比」",
-      "dek": "熱帶低壓預計增強為颱風劇比，水氣恐併入海豚颱風環流，並為越南北部帶來豪雨。",
-      "url": "https://dtinews.dantri.com.vn/vietnam-today/tropical-depression-forecast-to-become-storm-kujira-20260803075912266.htm"
+      "title": "中國氣象局示警8月颱風活躍期 白海豚不排除登陸長江口一帶",
+      "dek": "據香港巴士的報引述中國氣象局，8月恐有2至3個颱風登陸或影響中國，其中一情境為白海豚於8月9日前後登陸長江口至浙江北部，路徑仍具高度不確定性。",
+      "url": "https://www.bastillepost.com/hongkong/article/16500217-%E4%B8%AD%E5%9C%8B%E6%B0%A3%E8%B1%A1%E5%B1%80%EF%BC%9A8%E6%9C%88%E9%80%B2%E5%85%A5%E9%A2%B1%E9%A2%A8%E6%B4%BB%E8%BA%8D%E6%9C%9F%E3%80%80%E6%96%992%E8%87%B33%E5%80%8B%E9%A2%B1%E9%A2%A8%E7%99%BB"
     },
     {
       "rank": 10,
-      "title": "NOAA預測2026年大西洋颶風季活動偏弱",
-      "dek": "美國國家海洋暨大氣總署預估，今年大西洋颶風季有五成五機率低於正常活動量。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "颱風未至長浪先到 北海岸、東部及離島4日起浪高升溫",
+      "dek": "中央氣象署指出，即便警報尚未發布，基隆北海岸、台灣東部及蘭嶼、綠島、恆春半島等地自8月4日起出現長浪的機率已逐漸提高。",
+      "url": "https://applealmond.com/posts/321344"
     }
   ]
 }
