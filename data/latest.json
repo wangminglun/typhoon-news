@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T08:07:00+08:00",
+  "generated_at": "2026-08-04T09:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對台灣發布任何颱風警報，但評估白海豚颱風若持續西行，最快可能於週五（8月7日）午後發布海上颱風警報。",
+  "alert_desc": "中央氣象署截至目前尚未發布白海豚颱風海上或陸上颱風警報，官員表示最快可能於本週五（8月7日）下半天發布海上警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響——台中未受任何系統直接影響，也未發布風雨警報或停班停課措施；氣象署指出，若白海豚持續西行且暴風圈觸及台灣，中部以北地區約8月8日至10日需留意豪雨，惟此為前瞻性研判，非現行警戒。"
+    "text": "目前無直接影響。白海豚颱風距離台灣仍遠，台中地區暫無風雨或停班停課影響，但若外圍環流如預期抵達，中部山區約自8月8日至10日起降雨機率可能增加。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「白海豚」逼近琉球群島 台灣氣象署示警最快週五發布海上警報",
-    "dek": "中央氣象署表示，若白海豚颱風持續維持西行路徑，最快8月7日下午即可能對台灣周邊海域發布海上颱風警報，但暴風圈未來動向仍存在高度不確定性。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/04/2003861909"
+    "title": "颱風白海豚北上逼近 氣象署估週五下半天恐發布海警",
+    "dek": "超強颱風白海豚減弱為中度颱風後持續向西北西逼近琉球群島，中央氣象署表示最快週五下半天可能發布海上颱風警報，但颱風北轉後路徑仍存在變數。",
+    "url": "https://focustaiwan.tw/society/202608030009"
   },
   "items": [
     {
       "rank": 1,
-      "title": "海上颱風警報最快週五發布：中央氣象署示警",
-      "dek": "《台北時報》報導，白海豚颱風8月4日上午距台北仍達2720公里，但氣象署已預告週五下午可能發布海上警報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/04/2003861909"
-    },
-    {
-      "rank": 2,
-      "title": "白海豚颱風恐於週五下午觸發海上警報",
-      "dek": "中央社報導，氣象署指出若颱風維持西行路徑，最快8月7日下午即可能發布海上颱風警報，但後續路徑仍高度不確定。",
+      "title": "白海豚颱風暴風圈廣大 氣象署：週五下半天不排除發布海警",
+      "dek": "中央氣象署表示，隨白海豚颱風暴風圈逐漸接近台灣東北及北部海域，最快週五下半天可能發布海上颱風警報，但颱風過琉球後路徑仍待觀察。",
       "url": "https://focustaiwan.tw/society/202608030009"
     },
     {
+      "rank": 2,
+      "title": "白海豚颱風海上警報最快週五發布 路徑分歧待明朗",
+      "dek": "截至8月3日上午8時，白海豚颱風中心位於台北東方約2,720公里，最大風速時速155公里，暴風圈達320公里，未來路徑是否受太平洋高壓影響仍具變數。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861863"
+    },
+    {
       "rank": 3,
-      "title": "氣象署：白海豚颱風本週稍晚恐為北台灣帶來豪雨",
-      "dek": "《台北時報》報導，預報模式顯示颱風路徑於掠過琉球後恐出現分歧，北部及南部山區週末降雨可能趨於顯著。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/03/2003861853"
+      "title": "颱風白海豚逼近 氣象署不排除7日下半天發布海警",
+      "dek": "中央氣象署表示，白海豚颱風穩定向西北西移動，預估週五下半天有機會發布海上颱風警報，週六北轉後對台灣影響顯著時間落在下週初。",
+      "url": "https://www.cna.com.tw/news/ahel/202608030075.aspx"
     },
     {
       "rank": 4,
-      "title": "氣象署：白海豚颱風路徑仍存不確定性",
-      "dek": "中央社報導，氣象署對白海豚掠過琉球群島後路徑的早期評估，構成後續「可能週五發布海警」說法的基礎。",
-      "url": "https://focustaiwan.tw/society/202608010006"
+      "title": "白海豚颱風逼近台灣北方海面 8月8日起風雨明顯增強",
+      "dek": "最新颱風消息顯示，白海豚持續向西北西逼近，預估8月8日起台灣北部與北部山區風雨將明顯增強，週末長浪範圍也將擴大。",
+      "url": "https://news.nextapple.com/life/20260804/97124909B41F23C67EFE80D27471A619"
     },
     {
       "rank": 5,
-      "title": "白海豚颱風逼近 週五起最靠近台灣 不排除發布海警",
-      "dek": "Yahoo奇摩新聞引述中央社報導，白海豚已減弱為中度颱風，中心氣壓945百帕，氣象署表示最快8月7日下半天發布海上警報。",
-      "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%B1%E9%A2%A8%E9%80%BC%E8%BF%91-%E5%91%A8%E4%BA%94%E8%B5%B7%E6%9C%80%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3-%E4%B8%8D%E6%8E%92%E9%99%A4%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6%EF%BD%9C%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D-014227716.html"
+      "title": "白海豚颱風外圍環流恐為北台灣帶來豪雨 氣象署示警",
+      "dek": "中央氣象署預報員表示，即便正式警報尚未發布，白海豚颱風龐大外圍環流最快8月7、8日起即可能為北部及山區帶來明顯降雨增幅。",
+      "url": "https://focustaiwan.tw/society/202608020013"
     },
     {
       "rank": 6,
-      "title": "白海豚颱風：強颱持續西行 預計逼近奄美與沖繩地區",
-      "dek": "日本氣象媒體Weathernews報導，白海豚預計於8月7日前後逼近奄美、沖繩，屆時風速仍近每秒40公尺，陣風可達60公尺。",
+      "title": "白海豚颱風強度維持 預估逼近奄美與沖繩海域",
+      "dek": "據Weathernews報導，白海豚颱風預估將維持極強等級至8月6日前後，並持續向西朝奄美、沖繩地區移動，主要影響時間落在8月5日至8日之間。",
       "url": "https://wxtech.weathernews.com/en/news/20260803-01/"
     },
     {
       "rank": 7,
-      "title": "硫磺島面臨近乎直接侵襲 白海豚暴風圈持續擴大",
-      "dek": "Tech Times報導，白海豚預計8月4日前後掠過硫磺島及小笠原群島南方海域，帶來猛烈風雨與逾10公尺巨浪。",
-      "url": "https://www.techtimes.com/articles/322683/20260802/iwo-jima-braces-near-direct-hit-dolphin-grows-wider-each-hour.htm"
+      "title": "日本第13號颱風威脅太平洋沿岸 小笠原諸島首當其衝",
+      "dek": "日本今年第13號颱風白海豚為小笠原群島帶來強風豪浪，島嶼周邊8月4、5日恐出現逾10公尺巨浪，隨後將持續朝琉球群島移動。",
+      "url": "https://newsonjapan.com/article/150232.php"
     },
     {
       "rank": 8,
-      "title": "強颱13號本週稍晚將逼近沖繩",
-      "dek": "News On Japan報導，日本氣象廳編號「第13號颱風」的白海豚預計本週稍晚逼近沖繩，與台灣、日本氣象媒體所述8月7日左右時程一致。",
-      "url": "https://newsonjapan.com/article/150226.php"
+      "title": "白海豚颱風急速增強達五級超級颱風強度 專家解析成因",
+      "dek": "白海豚颱風曾在約兩天內由熱帶風暴急速增強為五級等級超級颱風，最大風速達每小時270公里，專家指出海溫偏高、風切偏弱是主要成因，也解釋了其減弱後結構仍維持龐大的原因。",
+      "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
     },
     {
       "rank": 9,
-      "title": "熱帶低氣壓「Luis」於甘馬里內斯諾特省東側略為增強",
-      "dek": "Rappler報導，PAGASA追蹤的熱帶低氣壓Luis已移至呂宋島伊莎貝拉近海，為卡加延、伊莎貝拉等省份帶來降雨。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-5am/"
+      "title": "準颱風「鯨魚」遭白海豚吞噬 藤原效應下威脅解除",
+      "dek": "菲律賓東方原有機會發展為今年第14號颱風「鯨魚」的熱帶低壓，因鄰近強度更強的白海豚，經藤原效應遭撕裂吸收，對台灣及菲律賓威脅已大幅降低。",
+      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375947/%E9%9B%99%E9%A2%B1%E9%A2%B1-%E6%BA%96%E9%AF%A8%E9%AD%9A%E7%8F%BE%E8%BA%AB%E6%9C%89%E8%B7%AF%E5%BE%91%E5%9C%96-%E8%97%A4%E5%8E%9F%E6%95%88%E6%87%89-%E9%81%AD%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%90%9E%E5%99%AC"
     },
     {
       "rank": 10,
-      "title": "熱帶低氣壓Luis登陸可能性仍在 但路徑「高度不確定」",
-      "dek": "Rappler報導，PAGASA表示Luis可能短暫增強為熱帶風暴後再減弱，並可能於8月5日前後轉為殘留低壓。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-2-2026-11pm/"
+      "title": "菲律賓東方熱帶低壓生成 一度估將增強為颱風「鯨魚」",
+      "dek": "菲律賓東方海面一熱帶低壓於8月1日晚間形成，氣象單位原預估24小時內可能增強為颱風「鯨魚」，惟後續觀測顯示其反遭白海豚削弱吸收。",
+      "url": "https://www.ettoday.net/news/20260801/3211675.htm"
     }
   ]
 }
