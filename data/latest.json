@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T00:06:00+08:00",
+  "generated_at": "2026-08-09T01:07:00+08:00",
   "alert_level": "sea",
   "alert_text": "海上颱風警報",
-  "alert_desc": "中央氣象署目前對白海豚颱風發布海上颱風警報，並表示台灣本島陸上警報發布機率已趨近於零，海上警報預計於周一（8月10日）上午解除。",
+  "alert_desc": "中央氣象署持續發布海上颱風警報，並研判台灣本島發布陸上颱風警報的機率已降至趨近於零；馬祖（連江縣）警報狀態仍待觀察，縣府已依風力預測門檻自主宣布8月9日停止上班上課。",
   "region_watch": {
     "region": "台中",
-    "text": "台中受白海豚外圍環流影響，8日凌晨出現強雷雨，大肚、大雅、神岡等地雨量達大雨標準並傳出局部淹水，山區亦達停班停課參考門檻，但目前台中尚未宣布停班停課。"
+    "text": "台中市8月8日凌晨遭白海豚外圍雨帶挾密集雷擊侵襲，大肚、大雅、神岡等地區出現局部淹水，東海大學商圈一帶一度成「河」；但台中市府並未宣布停班停課，8月8日及9日均維持正常上班上課。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風逼近北台灣　氣象署：本島陸警機率降至零",
-    "dek": "颱風白海豚在台灣北部、東北部外海徘徊，中央氣象署已發布海上颱風警報，並預估颱風周一上午解除警報前將轉向中國大陸沿岸靠近。",
-    "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
+    "title": "白海豚颱風逼近台灣外海　陸警機率降至近零",
+    "dek": "颱風掠過沖繩重創當地後北轉東海，氣象署估海上警報週一中午前可望解除，風暴續往中國浙閩沿岸移動。",
+    "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%8D%97%E5%8C%97%E6%93%BA%E7%9B%AA-%E7%88%B6%E8%A6%AA%E7%AF%80%E6%99%9A%E9%96%93%E8%87%B3%E5%91%A8%E6%97%A5%E7%99%BD%E5%A4%A9%E9%99%8D%E9%9B%A8%E6%9C%80%E9%9B%86%E4%B8%AD-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-011931666.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署發布白海豚颱風海上警報",
-      "dek": "中央氣象署針對逼近台灣北部及東北部海域的白海豚颱風發布海上颱風警報。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
+      "title": "氣象署曝最新路徑　北台海域風雨最劇烈時段出爐",
+      "dek": "中央氣象署表示颱風暴風圈已進入北台海面，週五夜至週六白天風雨最強，多縣市面臨強陣風威脅。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%8D%97%E5%8C%97%E6%93%BA%E7%9B%AA-%E7%88%B6%E8%A6%AA%E7%AF%80%E6%99%9A%E9%96%93%E8%87%B3%E5%91%A8%E6%97%A5%E7%99%BD%E5%A4%A9%E9%99%8D%E9%9B%A8%E6%9C%80%E9%9B%86%E4%B8%AD-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-011931666.html"
     },
     {
       "rank": 2,
-      "title": "白海豚颱風逼近　氣象署：本島陸警機率沒了、馬祖也降低",
-      "dek": "氣象署預報員表示，台灣本島陸上警報機率已趨近於零，連馬祖的陸警機率也隨之下降。",
-      "url": "https://udn.com/news/story/7266/9679153"
+      "title": "沖繩重創6傷逾5萬戶停電　中國各港口陸續關閉",
+      "dek": "颱風先重創日本西南部，那霸機場全面停飛、豐田九座工廠停產，中國沿海隨即展開防颱部署。",
+      "url": "https://www.nbcnews.com/world/china/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-landfall-rcna591465"
     },
     {
       "rank": 3,
-      "title": "風力預測達標！連江縣明日8/9停止上班上課",
-      "dek": "連江縣依預測風力達標準，成為目前唯一宣布8月9日停班停課的縣市。",
-      "url": "https://news.ttv.com.tw/news/11508080002300W"
+      "title": "氣象署估海上警報週一中午前解除　颱風登陸中國後將迅速減弱",
+      "dek": "中央氣象署預測白海豚颱風通過北台海域後持續減弱，登陸中國後將快速消散。",
+      "url": "https://udn.com/news/story/7266/9679343"
     },
     {
       "rank": 4,
-      "title": "白海豚颱風稍微加速　估明晚侵大陸　周一上午我解除海警",
-      "dek": "氣象署預估白海豚移動速度加快，周日晚間逼近中國大陸沿岸，台灣海上警報估周一上午解除。",
-      "url": "https://udn.com/news/story/7266/9679455"
+      "title": "陸警機率降至幾近於零　馬祖情勢仍待觀察",
+      "dek": "氣象署指出台灣本島發布陸上颱風警報機率極低，馬祖是否發布仍視路徑擺動而定。",
+      "url": "https://udn.com/news/story/7266/9679153"
     },
     {
       "rank": 5,
-      "title": "大雷雨突襲狂炸！台中人半夜被白海豚叫醒　閃電點亮天空",
-      "dek": "白海豚外圍雨帶為台中帶來凌晨強雷雨，大肚、大雅、神岡等地測得40至50毫米雨量並傳出局部淹水。",
-      "url": "https://www.ettoday.net/news/20260808/3215515.htm"
+      "title": "陣風恐達10級　馬祖搶先宣布週日停班停課",
+      "dek": "連江縣政府依陣風預測門檻自主決定8月9日停止上班上課，是目前唯一宣布停班停課的縣市。",
+      "url": "https://www.matsu-news.gov.tw/news/article/243363"
     },
     {
       "rank": 6,
-      "title": "白海豚颱風外圍環流影響　台中以北7縣市大雨特報",
-      "dek": "氣象署針對台中以北7縣市發布大雨特報，提醒山區留意局部豪雨。",
-      "url": "https://udn.com/news/story/7266/9678498"
+      "title": "凌晨強降雨襲台中　東海商圈一度成「河」",
+      "dek": "外圍雨帶挾密集雷擊為台中帶來局部淹水，但市府維持正常上班上課未受影響。",
+      "url": "https://www.ettoday.net/news/20260808/3215493.htm"
     },
     {
       "rank": 7,
-      "title": "白海豚颱風估在浙閩沿岸登陸　中國氣象專家稱路徑罕見",
-      "dek": "中國氣象專家預測白海豚將於8月9日至10日間在浙江、福建沿岸登陸，因生成位置罕見接近國際換日線而受到關注。",
-      "url": "https://www.globaltimes.cn/page/202608/1367704.shtml"
+      "title": "浙閩交界周日深夜恐登陸　上海浙江福建進入緊急應變",
+      "dek": "中國三地啟動應急響應、關閉港口並暫停逾160條渡輪航線，嚴陣以待颱風登陸。",
+      "url": "https://www.globaltimes.cn/page/202608/1367620.shtml"
     },
     {
       "rank": 8,
-      "title": "8/9停班停課最新通知／北部、台中8縣市達標！今晚白海豚風雨最猛",
-      "dek": "全台8縣市已達到停班停課參考門檻，但截至報導時僅連江縣正式宣布停班停課。",
-      "url": "https://www.nownews.com/news/6864168"
+      "title": "暴風範圍逾千倍香港面積　中國出動無人機與AI監測",
+      "dek": "中國當局部署無人機機隊及人工智慧輔助系統，強化沿海省份防颱監測作業。",
+      "url": "https://www.scmp.com/news/china/politics/article/3363262/13-times-size-zhejiang-china-deploys-drones-ai-typhoon-dolphin-nears-coast"
     },
     {
       "rank": 9,
-      "title": "白海豚颱風有減弱、縮小趨勢　氣象署估下週一上午解除海警",
-      "dek": "氣象署觀測顯示白海豚暴風圈已縮小，惟登陸中國前仍可能維持中度颱風強度。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533197"
+      "title": "沖繩航班取消逾50班　台鐵高鐵公路管制滾動更新",
+      "dek": "華航、長榮、虎航與星宇陸續取消飛往沖繩航班，島內交通管制持續調整因應風雨。",
+      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608060006/"
     },
     {
       "rank": 10,
-      "title": "Typhoon Dolphin hits Japan, heads towards China",
-      "dek": "白海豚颱風先重創日本沖繩、奄美等地，隨後轉向中國大陸東岸移動，未直接侵襲台灣本島。",
-      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china"
+      "title": "金門航班取消　小三通加開航次疏運旅客",
+      "dek": "多班金門航班因颱風取消，「小三通」客船加開兩航次協助滯留旅客返鄉。",
+      "url": "https://udn.com/news/story/7266/9679304"
     }
   ]
 }
