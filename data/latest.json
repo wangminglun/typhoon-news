@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T06:07:00+08:00",
+  "generated_at": "2026-08-09T07:07:00+08:00",
   "alert_level": "sea",
   "alert_text": "海上颱風警報",
-  "alert_desc": "中央氣象署持續發布白海豚海上颱風警報，但本島陸上颱風警報機率已幾近於零，馬祖地區的陸警機率也大幅降低，該署預估最快將於週一上半天解除海警。",
+  "alert_desc": "中央氣象署於8日下午2時30分發布白海豚海上颱風警報，並表示本島發布陸上颱風警報的機率已趨近於零，馬祖機率也同步下降，海上警報預計最快於下週一（10日）中午前解除。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未發布任何颱風警報或停班停課，但氣象署24小時累積雨量預測顯示，台中山區雨量恐達200至300毫米，達到地方政府研判是否停班停課的參考門檻，最終決定仍待市府依實際狀況公告。"
+    "text": "台中山區今晚（8日20時至9日20時）預估累積雨量達200至340毫米，已達到地方政府研判停班停課的參考門檻，惟截至目前尚未宣布停班停課，且9日適逢週日，對一般上班上課的實質影響本就有限。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風掠過北部海域　轉向中國逼近",
-    "dek": "海上警報持續、陸警機率趨零，中台灣山區仍須嚴防豪雨侵襲",
-    "url": "https://focustaiwan.tw/society/202608070010"
+    "title": "白海豚颱風減弱北退　北台灣、台中今晚風雨最猛烈",
+    "dek": "中央氣象署維持海上颱風警報，並表示本島發布陸上警報的機率已趨近於零，但北部及中部山區今晚仍將迎來致災性豪雨",
+    "url": "https://www.nownews.com/news/6864168"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署發布白海豚海上颱風警報",
-      "dek": "颱風逼近北部海域，氣象署8月7日下午發布海上警報。",
-      "url": "https://focustaiwan.tw/society/202608070010"
+      "title": "8縣市達停班課標準　僅馬祖宣布停班",
+      "dek": "根據《NOWnews》報導，北台灣及台中山區今晚風雨恐達停班停課參考門檻。",
+      "url": "https://www.nownews.com/news/6864168"
     },
     {
       "rank": 2,
-      "title": "陸上颱風警報機率下修至近零",
-      "dek": "《焦點台灣》報導，白海豚減弱，本島陸警機率幾近排除。",
-      "url": "https://focustaiwan.tw/society/202608080010"
-    },
-    {
-      "rank": 3,
-      "title": "海警持續　北東海浪估逾五公尺",
-      "dek": "《台北時報》報導，氣象署估週日中午前後解除颱風警報。",
+      "title": "氣象署發布海上颱風警報",
+      "dek": "根據《台北時報》報導，白海豚8日下午已進入台灣海上警戒範圍。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
     },
     {
+      "rank": 3,
+      "title": "氣象署首發海警　籲防豪雨",
+      "dek": "根據《中央社》（Focus Taiwan）報導，中央山脈及北台灣周末將有極大豪雨。",
+      "url": "https://focustaiwan.tw/society/202608070010"
+    },
+    {
       "rank": 4,
-      "title": "白海豚今最接近台灣　續朝中國前進",
-      "dek": "《台北時報》報導，新竹苗栗山區雨量估達500毫米，陸警排除。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/09/2003862176"
+      "title": "白海豚估轉輕颱　海警週一解除",
+      "dek": "根據《聯合新聞網》報導，陸警機率偏低，海上警報最快週一中午前解除。",
+      "url": "https://udn.com/news/story/7266/9679343"
     },
     {
       "rank": 5,
-      "title": "颱風逼近　空海運班次陸續取消",
-      "dek": "《焦點台灣》報導，馬祖離島船班自8月7日起停航。",
-      "url": "https://focustaiwan.tw/society/202608060018"
+      "title": "陸警確定不發　白海豚持續減弱",
+      "dek": "根據《中國時報》報導，氣象署證實不發陸上警報，暴風圈範圍再縮小。",
+      "url": "https://www.chinatimes.com/realtimenews/20260808003057-260405"
     },
     {
       "rank": 6,
-      "title": "路徑擺動　馬祖一度恐難逃陸警",
-      "dek": "自由時報報導，陸警機率一度達46%，本島兩地亦未排除。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5532000"
+      "title": "本島陸警機率歸零　馬祖同步下降",
+      "dek": "根據《聯合新聞網》報導，氣象署稱本島陸警機率「沒了」，馬祖機率也降低。",
+      "url": "https://udn.com/news/story/7266/9679153"
     },
     {
       "rank": 7,
-      "title": "白海豚減弱縮小　估週一解除海警",
-      "dek": "自由時報報導，馬祖8、9日仍將面臨3公尺以上湧浪。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533197"
+      "title": "白海豚重創沖繩　逾5萬戶停電",
+      "dek": "根據《NBC新聞》報導，沖繩、鹿兒島共6人受傷，日航沖繩航班取消。",
+      "url": "https://www.nbcnews.com/world/china/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-landfall-rcna591465"
     },
     {
       "rank": 8,
-      "title": "七縣市雨量達標　台中新北在列",
-      "dek": "《NOWnews今日新聞》報導，山區雨量恐觸停班停課門檻。",
-      "url": "https://www.nownews.com/news/6863948"
+      "title": "白海豚料登陸浙閩交界　生成路徑罕見",
+      "dek": "根據《環球時報》報導，中國氣象專家稱其換日線附近生成路徑史無前例。",
+      "url": "https://www.globaltimes.cn/page/202608/1367704.shtml"
     },
     {
       "rank": 9,
-      "title": "颱風昌鴻生成　朝日本東北挺進",
-      "dek": "Weathernews報導，預估8月10、11日左右逼近日本太平洋岸。",
-      "url": "https://sea.weathernews.com/resources/202608/187"
+      "title": "浙江升最高級警戒　出動無人機防颱",
+      "dek": "根據《南華早報》報導，浙江停駛162條渡輪航線並關閉寧波機場。",
+      "url": "https://www.scmp.com/news/china/politics/article/3363262/13-times-size-zhejiang-china-deploys-drones-ai-typhoon-dolphin-nears-coast"
     },
     {
       "rank": 10,
-      "title": "鯨魚減弱消散　不再威脅台灣",
-      "dek": "Weathernews報導，鯨魚登陸呂宋後減弱為低壓殘餘。",
-      "url": "https://sea.weathernews.com/resources/202608/180"
+      "title": "颱風昌鴻朝日本太平洋岸移動",
+      "dek": "根據《Weathernews》報導，昌鴻暴風圈廣大，惟距離台灣遙遠無影響。",
+      "url": "https://sea.weathernews.com/resources/202608/187"
     }
   ]
 }
