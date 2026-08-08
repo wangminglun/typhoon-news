@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T02:05:00+08:00",
+  "generated_at": "2026-08-09T03:07:00+08:00",
   "alert_level": "sea",
   "alert_text": "海上颱風警報",
-  "alert_desc": "中央氣象署持續發布海上颱風警報，涵蓋台灣北部與東北部海面；氣象署研判台灣本島發布陸上颱風警報的機率已降至幾近於零，外島馬祖是否發布仍待觀察，海上警報預估最快於週一（8月10日）上午解除。",
+  "alert_desc": "中央氣象署持續發布海上颱風警報，涵蓋台灣北部海岸、宜蘭、台東、屏東及連江海面；陸上颱風警報尚未對台灣本島發布，本島陸警機率已趨近於零，外島馬祖今晚至明晨是否發布陸警仍待觀察，海上警報最快可能於今日中午前後解除。",
   "region_watch": {
     "region": "台中",
-    "text": "台中山區8日晚間至9日面臨大豪雨等級降雨，24小時雨量預報達到政府停班停課參考門檻，與新北、新竹、苗栗等地並列；但實際是否停班停課仍由地方政府依現況決定，台中市目前尚未宣布停班停課。"
+    "text": "台中今日尚未列入陸上颱風警報範圍，但山區已被列入8月9日可能停班停課地區之一，中央氣象署預估累積雨量約200至340毫米，山區恐更高；截至今晚，台中市仍維持正常上班上課，是否停班停課將由市府於今晚另行宣布。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風逼近北台灣　氣象署發布海上警報",
-    "dek": "陸上警報機率極低，但中北部山區今明恐現豪雨",
-    "url": "https://focustaiwan.tw/society/202608080002"
+    "title": "颱風白海豚今日最接近台灣　海警持續　馬祖恐發布陸警",
+    "dek": "中央氣象署預測白海豚颱風今日將最接近台灣本島，北部與中部山區有豪雨到大豪雨，暴風圈預計周末稍晚轉向中國大陸沿海。",
+    "url": "https://focustaiwan.tw/society/202608070010"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署發布白海豚海上颱風警報",
-      "dek": "警戒範圍涵蓋台灣北部與東北部海面。",
+      "title": "氣象署對颱風白海豚發布海上警報",
+      "dek": "中央氣象署針對持續向西移動、逼近台灣北部海域的白海豚颱風發布海上颱風警報。",
       "url": "https://focustaiwan.tw/society/202608070010"
     },
     {
       "rank": 2,
-      "title": "白海豚攪局　海空交通大亂",
-      "dek": "81班次船班停駛，多家航空公司調整或取消航班。",
-      "url": "https://focustaiwan.tw/society/202608080013"
-    },
-    {
-      "rank": 3,
-      "title": "氣象署：白海豚週末夜最接近台灣",
-      "dek": "中北部山區豪雨風險最高，台中以北首當其衝。",
-      "url": "https://focustaiwan.tw/society/202608080002"
-    },
-    {
-      "rank": 4,
-      "title": "氣象署正式發布白海豚海上警報",
-      "dek": "颱風逼近北部海域，當局公告警戒等級與範圍。",
+      "title": "氣象署對颱風白海豚發布海上警報",
+      "dek": "隨著白海豚逼近，氣象署證實發布海上警報，並對北部海岸、宜蘭、台東、屏東及連江發布強風警報。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
     },
     {
-      "rank": 5,
-      "title": "白海豚今最接近台灣　陸警機率極低",
-      "dek": "新竹苗栗山區恐降下350至500毫米豪雨。",
+      "rank": 3,
+      "title": "颱風白海豚今日將最接近台灣",
+      "dek": "氣象署預測白海豚今日最接近台灣後將持續西行朝中國移動，颱風警報最快中午前後可望解除。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/09/2003862176"
     },
     {
+      "rank": 4,
+      "title": "颱風白海豚來襲　本週末豪雨到大豪雨",
+      "dek": "氣象署預測白海豚外圍環流影響下，北部與中部山區本週末將出現豪雨到大豪雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/07/2003862110"
+    },
+    {
+      "rank": 5,
+      "title": "海上同時有三個風暴系統活動",
+      "dek": "報導指出白海豚颱風、熱帶風暴鯨魚與熱帶風暴煙花三個系統同時在海上活動，其中鯨魚預料將被白海豚吸收。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/06/2003861997"
+    },
+    {
       "rank": 6,
-      "title": "白海豚重創沖繩　續朝中國逼近",
-      "dek": "沖繩5人受傷、逾萬戶停電，中國沿海嚴陣以待。",
-      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china"
+      "title": "颱風白海豚重創沖繩　中國大陸提前關閉港口因應登陸",
+      "dek": "白海豚颱風襲擊日本沖繩造成6人受傷、逾5萬棟建築物停電，中國大陸已提前關閉港口、暫停渡輪營運。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/08/japan/typhoon-dolphin-okinawa/"
     },
     {
       "rank": 7,
-      "title": "白海豚路徑略偏　馬祖恐掛陸警",
-      "dek": "氣象署示警颱風路徑北偏，外島陸警機率上升。",
-      "url": "https://udn.com/news/story/7266/9676759"
+      "title": "颱風白海豚侵襲日本後轉向中國大陸",
+      "dek": "國際媒體綜合報導白海豚對沖繩造成的衝擊，並指出其預測路徑將朝中國大陸東岸移動。",
+      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china"
     },
     {
       "rank": 8,
-      "title": "8/9停班停課7縣市達標　新北台中在列",
-      "dek": "中央氣象署雨量預報觸及政府停班停課參考門檻。",
-      "url": "https://www.nownews.com/news/6863948"
+      "title": "颱風白海豚預測將於中國大陸東部沿海登陸",
+      "dek": "白海豚預計於週日深夜至週一凌晨在浙江舟山至福建福鼎間登陸，浙江已將沿海警戒提升至最高等級。",
+      "url": "https://www.chinadaily.com.cn/a/202608/07/WS6a753a2ca310986e2b46985e.html"
     },
     {
       "rank": 9,
-      "title": "白海豚減弱縮小　氣象署估週一解除海警",
-      "dek": "暴風圈持續收縮，颱風強度略為減弱。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533197"
+      "title": "白海豚逼近　最新風雨預報出爐　新北8縣市明停班課達標",
+      "dek": "氣象署下午預報顯示新北、桃園等多個縣市及山區已達8月9日停班停課標準，沿海鄉鎮恐有9至10級強陣風。",
+      "url": "https://www.chinatimes.com/realtimenews/20260808002310-260405"
     },
     {
       "rank": 10,
-      "title": "第15號颱風煙花生成　直撲日本太平洋岸",
-      "dek": "巨大颱風煙花預計11日逼近日本，暫不影響台灣。",
-      "url": "https://sea.weathernews.com/resources/202608/187"
+      "title": "熱帶氣旋鯨魚快訊第1號（2026年8月5日）",
+      "dek": "東協人道援助協調中心報告指出，熱帶風暴鯨魚已在菲律賓呂宋島登陸後減弱，並逐漸併入白海豚環流。",
+      "url": "https://ahacentre.org/flash-update/flash-update-no-1-tropical-cyclone-kujira-5-august-2026/"
     }
   ]
 }
