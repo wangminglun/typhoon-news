@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T06:08:00+08:00",
-  "alert_level": "none",
-  "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對白海豚颱風發布任何陸上或海上颱風警報，評估最快週五（8/7）下午才可能發布海上颱風警報。",
+  "generated_at": "2026-08-08T17:07:00+08:00",
+  "alert_level": "sea",
+  "alert_text": "海上颱風警報",
+  "alert_desc": "中央氣象署已針對台灣東北方海域發布海上颱風警報，白海豚颱風預計今晚至明日清晨最接近台灣本島及馬祖列島，馬祖（連江縣）最快週六傍晚可能進一步發布陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中目前無任何風雨特報或停班停課消息，最快須待8月7日起，才需留意白海豚外圍環流可能帶來的降雨影響。"
+    "text": "中央氣象署預報顯示，台中市週日（8月9日）風雨已達停班停課參考標準，山區24小時累積雨量恐達250至400毫米，中部以北地區週末恐有豪雨到大豪雨，地方政府預計於週日凌晨依最新預報決定是否停班停課。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風白海豚逼近沖繩 中央氣象署評估最快週五發布海警",
-    "dek": "國際預報機構認為白海豚已增強至逾215公里時速的強烈等級，但中央氣象署仍將其列為中度颱風，且尚未對台灣發布任何陸海警報。",
-    "url": "https://watchers.news/2026/08/04/typhoon-dolphin-reintensifies-to-category-4-strength-landfall-forecast-in-okinawa-by-august-7/"
+    "title": "颱風白海豚逼近北台灣海域 中央氣象署發布海上警報，馬祖恐再拉陸警",
+    "dek": "在重創沖繩、造成五人受傷之後，白海豚颱風本週六夜間至週日最接近台灣，中央氣象署示警北台灣及馬祖恐有強風豪雨，中國浙閩沿岸則已進入登陸倒數。",
+    "url": "https://focustaiwan.tw/society/202608070010"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚增強至四級颶風等級 預估8月7日登陸沖繩",
-      "dek": "國際預報機構Watchers.news指出，白海豚完成第四次眼牆置換後一度增強至持續風速215公里，是北太平洋今年最強風暴之一。",
-      "url": "https://watchers.news/2026/08/04/typhoon-dolphin-reintensifies-to-category-4-strength-landfall-forecast-in-okinawa-by-august-7/"
+      "title": "氣象署發布海上颱風警報 白海豚週末最接近台灣",
+      "dek": "中央社報導，白海豚颱風中心8日距台北東北方約680公里，觀測最大持續風速144公里，預計8日至10日最接近台灣，馬祖最快8日晚間將發布陸上警報。",
+      "url": "https://focustaiwan.tw/society/202608070010"
     },
     {
       "rank": 2,
-      "title": "氣象署：颱風海警最快週五發布",
-      "dek": "台北時報報導，中央氣象署評估若白海豚維持偏西路徑，海上颱風警報最快將於週五下午發布。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/04/2003861909"
+      "title": "氣象署發布海上警報 北台灣週末恐豪雨成災",
+      "dek": "《台北時報》頭版報導，中央氣象署確認發布海上颱風警報，預測北台灣及中部地區週末將出現豪雨到大豪雨，台中以北降雨風險最高。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
     },
     {
       "rank": 3,
-      "title": "颱風白海豚估8日北轉 各地防雨東部有焚風",
-      "dek": "中央社報導，氣象署8月4日兩次颱風警報顯示白海豚中心氣壓940百帕、風速每秒45公尺，預估8日起開始北轉。",
-      "url": "https://www.cna.com.tw/news/ahel/202608040241.aspx"
+      "title": "8/9停班停課7縣市達標 新北、台中同列風雨警戒",
+      "dek": "《NOWnews今日新聞》引述氣象署預報指出，新北、桃園、新竹縣、苗栗、台中、恆春半島及蘭嶼綠島等七縣市週日風雨已達停班停課標準，台中山區24小時雨量恐達250至400毫米，最終仍由地方政府拍板。",
+      "url": "https://www.nownews.com/news/6863948"
     },
     {
       "rank": 4,
-      "title": "白海豚可能於週五下午觸發海上颱風警報",
-      "dek": "中央社英文新聞網（Focus Taiwan）指出，颱風通過琉球群島後的路徑走向，將決定台灣受影響的嚴重程度。",
-      "url": "https://focustaiwan.tw/society/202608030009"
+      "title": "白海豚颱風假8/8全台正常上班上課 22縣市維持常態",
+      "dek": "蘋果仁報導，截至8日（週六）台灣尚無縣市達停班停課門檻，焦點轉向週日（9日）氣象署最新風雨預報後的地方政府決定。",
+      "url": "https://applealmond.com/posts/321679"
     },
     {
       "rank": 5,
-      "title": "白海豚逼近日本 半島電視台追蹤路徑與防災準備",
-      "dek": "半島電視台報導，白海豚正逼近日本南方離島，大東、奄美群島週四首當其衝，沖繩地區已展開撤離準備。",
-      "url": "https://www.aljazeera.com/news/2026/8/4/typhoon-dolphin-hurtles-towards-japan-tracker-updates-and-what-to-expect"
+      "title": "白海豚重創沖繩 至少5人受傷、數萬戶停電",
+      "dek": "《日本時報》綜合外電報導，白海豚颱風8日以最大陣風每小時216公里橫掃沖繩，造成5名長者受傷、數萬戶停電，全日空與日本航空取消多班航班，中國沿海港口也提前關閉因應。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/08/japan/typhoon-dolphin-okinawa/"
     },
     {
       "rank": 6,
-      "title": "白海豚週五起最靠近台灣 氣象署不排除發布海警",
-      "dek": "Yahoo奇摩新聞整理氣象署資訊指出，颱風最靠近台灣的時間點落在8月7日至9日，8日至10日為預估最顯著影響期。",
-      "url": "https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%B1%E9%A2%A8%E9%80%BC%E8%BF%91-%E5%91%A8%E4%BA%94%E8%B5%B7%E6%9C%80%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3-%E4%B8%8D%E6%8E%92%E9%99%A4%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6%EF%BD%9C%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D-014227716.html"
+      "title": "白海豚沖繩外海增強 中國沿海嚴陣以待",
+      "dek": "Watchers.news報導，白海豚颱風於沖繩外海一度再增強，導致沖繩5人受傷，浙江、福建、上海與廣東等中國沿海省市已啟動颱風緊急應變機制。",
+      "url": "https://watchers.news/2026/08/07/typhoon-dolphin-strengthens-near-okinawa-5-injured-china-braces-for-landfall/"
     },
     {
       "rank": 7,
-      "title": "菲律賓大氣署：熱帶低氣壓路易斯生成",
-      "dek": "Rappler報導，呂宋島東側低壓帶增強為熱帶低氣壓路易斯，為2026年菲律賓命名系統中最新一個，但預估將於8月5日前減弱消散，不威脅台灣。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-update-pagasa-forecast-august-1-2026-11pm/"
+      "title": "白海豚逼近中國沿岸 浙閩多地啟動緊急應變",
+      "dek": "《環球時報》報導，白海豚颱風預計於週日夜間至週一清晨在浙江舟山至福建福鼎一帶登陸，浙江東部部分地區雨量恐超過600毫米。",
+      "url": "https://www.globaltimes.cn/page/202608/1367766.shtml"
     },
     {
       "rank": 8,
-      "title": "颱風動態整理：白海豚最新路徑、海警與停班課機率",
-      "dek": "NOWnews今日新聞彙整指出，各縣市停班停課決定尚未拍板，須視颱風接近後實際風雨門檻而定。",
-      "url": "https://www.nownews.com/amp/news/6862797"
+      "title": "白海豚颱風動態追蹤：形成路徑與風險預測",
+      "dek": "半島電視台報導白海豚颱風生成初期的預測路徑，指出其將朝沖繩及東海方向移動並持續增強。",
+      "url": "https://www.aljazeera.com/news/2026/8/4/typhoon-dolphin-hurtles-towards-japan-tracker-updates-and-what-to-expect"
     },
     {
       "rank": 9,
-      "title": "白海豚轉向正西逼近琉球 週末北台灣防豪雨",
-      "dek": "蘋果仁報導，白海豚已轉為正西路徑接近琉球群島，氣象署仍以週五為海上颱風警報最快發布時間點。",
-      "url": "https://applealmond.com/posts/321344"
+      "title": "三颱共舞！輕颱昌鴻生成 專家估對台無直接影響",
+      "dek": "《自由時報》報導，今年第15號颱風昌鴻5日於威克島附近生成，與白海豚、鯨魚一度形成罕見三颱共存局面，其路徑朝西北西移動，預計不影響台灣。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5529525"
     },
     {
       "rank": 10,
-      "title": "白海豚估最快週五下半天發布海警 週六北轉牽動下週一前後影響",
-      "dek": "Yahoo奇摩新聞引述氣象署預報員說法，強調颱風北轉角度將決定台灣是受到掠過性或較直接的影響。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BC%B0%E6%9C%80%E5%BF%AB%E5%91%A8%E4%BA%94%E4%B8%8B%E5%8D%8A%E5%A4%A9%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-%E5%91%A8%E5%85%AD%E5%8C%97%E8%BD%89%E8%87%B3%E4%B8%8B%E5%91%A8%E4%B8%80%E5%BD%B1%E9%9F%BF%E5%8F%B0%E7%81%A3%E9%A1%AF%E8%91%97-110137443.html"
+      "title": "鴛鴦颱風消散 白海豚增強西南季風重創呂宋",
+      "dek": "菲律賓《BusinessWorld》報導，熱帶氣旋鴛鴦（Kujira）因藤原效應被白海豚環流吸收而消散，其殘留水氣增強西南季風，為呂宋島帶來豪雨。",
+      "url": "https://bworldonline.com/the-nation/2026/08/07/768817/kujira-dissipates-typhoon-dolphin-enhances-southwest-monsoon-drenching-luzon/"
     }
   ]
 }
