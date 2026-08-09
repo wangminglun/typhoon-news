@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T04:07:00+08:00",
+  "generated_at": "2026-08-10T05:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "颱風白海豚減弱遠離、登陸中國浙江之際，西北太平洋同時有三個熱帶系統活動，中央氣象署與地方氣象單位皆表示台灣目前無颱風警報壓力。",
+  "alert_desc": "中央氣象署已於8月9日晚間11時30分解除白海豚海上颱風警報，颱風已登陸中國且持續遠離台灣，目前台灣本島無海上或陸上颱風警報生效。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受白海豚颱風警報影響，8月10日僅蘭嶼與馬祖達到停班停課風速標準，台中不在名單之列；僅需留意西南氣流帶來的短期山區降雨，暫無颱風系統直接威脅本市。"
+    "text": "台中僅山區雨量達停班停課參考標準，市府並未宣布全市停班停課；隨海上警報解除、白海豚登陸中國後持續遠離，颱風對台中的直接影響已明顯減弱。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚警報解除、太平洋四颱共存　氣象署：對台無直接威脅",
-    "dek": "颱風白海豚減弱遠離、登陸中國浙江之際，西北太平洋同時有三個熱帶系統活動，中央氣象署與地方氣象單位皆表示台灣目前無颱風警報壓力。",
-    "url": "https://focustaiwan.tw/society/202608090011"
+    "title": "颱風「白海豚」重創浙江逾百萬人疏散　台灣解除海上警報、風雨威脅漸歇",
+    "dek": "中央氣象署已解除對「白海豚」的海上颱風警報，但北台灣豪雨與台北近郊罕見龍捲風仍為這波外圍環流留下印記，太平洋上另有兩個系統正牽動日本沿海。",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚颱風北上逼近　氣象署發布海上警報",
-      "dek": "中央氣象署針對台灣北部海域及馬祖發布海上颱風警報，預告24小時內強風豪雨將至。",
-      "url": "https://focustaiwan.tw/society/202608070010"
+      "title": "氣象署解除白海豚海上颱風警報　歷時近三天",
+      "dek": "中央氣象署周日深夜11時30分解除海上颱風警報，白海豚持續減弱並移向中國。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
     },
     {
       "rank": 2,
-      "title": "白海豚減弱仍不掉以輕心　氣象署示警豪雨威脅未除",
-      "dek": "颱風強度雖減，中南部與北部山區仍面臨強降雨與八級以上陣風風險。",
+      "title": "白海豚減弱　氣象署：豪雨威脅未除",
+      "dek": "中央氣象署指出，儘管颱風強度減弱，北台灣與中台灣仍有顯著豪雨風險。",
       "url": "https://focustaiwan.tw/society/202608090004"
     },
     {
       "rank": 3,
-      "title": "白海豚遠離台灣北部海域　氣象署估週一中午解除海警",
-      "dek": "颱風中心持續北移遠離馬祖，環流逐漸脫離台灣本島影響範圍。",
-      "url": "https://focustaiwan.tw/society/202608090011"
+      "title": "白海豚登陸中國東部　浙江發布最高級警戒",
+      "dek": "颱風以雙重登陸方式侵襲浙江台州與溫州，中國取消逾千航班並暫停鐵路運輸。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/typhoon-dolphin-china-landfall/"
     },
     {
       "rank": 4,
-      "title": "海警正式解除　陽明山三日雨量逼近410毫米",
-      "dek": "自由時報報導，小油坑累積雨量驚人，西南氣流影響下未來一週天氣仍不穩定。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
+      "title": "白海豚重創中國東岸　逾百萬人撤離",
+      "dek": "浙江省疏散逾百萬居民，多省份預估累積雨量恐達500毫米。",
+      "url": "https://www.nbcnews.com/world/china/typhoon-dolphin-hits-chinas-east-coast-1-million-evacuated-rcna591559"
     },
     {
       "rank": 5,
-      "title": "白海豚步步遠離　六縣市豪雨特報未除",
-      "dek": "氣象署晚間十一時三十分解除海警，但殘餘環流與西南氣流仍為部分縣市帶來降雨風險。",
-      "url": "https://www.ettoday.net/news/20260809/3216231.htm"
+      "title": "台北近郊驚現罕見龍捲風　白海豚外圍環流所致",
+      "dek": "在颱風主體遠在數百公里外之際，一股龍捲風於台北市郊短暫現蹤。",
+      "url": "https://www.cnn.com/2026/08/08/weather/video/a-tornado-in-taiwan-digvid"
     },
     {
       "rank": 6,
-      "title": "全台脫離白海豚暴風圈　陸上警報始終未發布",
-      "dek": "台視新聞指出，此次颱風過程中台灣本島僅發布海上警報，未曾達陸警發布門檻。",
-      "url": "https://news.ttv.com.tw/news/11508090002700W"
+      "title": "九地區達停班停課參考標準　台中僅限山區",
+      "dek": "氣象署資料顯示新竹、苗栗、台中山區等九地達標準，最終決定權仍在地方政府。",
+      "url": "https://www.chinatimes.com/realtimenews/20260809000715-260405"
     },
     {
       "rank": 7,
-      "title": "西北太平洋四颱共存　僅白海豚外圍雲雨影響台灣",
-      "dek": "熱帶低壓、昌鴻與新生颱風琵鷺同時活躍，但氣象單位研判均不致威脅台灣。",
-      "url": "https://newtalk.tw/news/view/2026-08-09/1052273"
+      "title": "陸上颱風警報機率降低　氣象署：路徑偏向中國",
+      "dek": "隨白海豚路徑轉向台灣海峽與中國沿岸，發布陸警可能性下降。",
+      "url": "https://focustaiwan.tw/society/202608080010"
     },
     {
       "rank": 8,
-      "title": "第16號颱風琵鷺生成　太平洋出現罕見三颱並存",
-      "dek": "琵鷺於馬里亞納群島海域生成，預測路徑東移增強，不會對台灣造成威脅。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "熱帶風暴「範斯高」朝日本太平洋沿岸移動",
+      "dek": "第15號颱風範斯高預計8月11日前後接近本州，隨後轉向日本海。",
+      "url": "https://sea.weathernews.com/resources/202608/187"
     },
     {
       "rank": 9,
-      "title": "白海豚登陸浙江　中國逾百萬人疏散",
-      "dek": "半島電視台報導，白海豚以近151公里時速強風登陸玉環，上海機場近千四百航班取消。",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
+      "title": "「三颱共存」罕見格局籠罩西太平洋",
+      "dek": "日本氣象單位觀測到白海豚、14號颱風與範斯高三個系統同時活躍。",
+      "url": "https://news.livedoor.com/topics/detail/31992888/"
     },
     {
       "rank": 10,
-      "title": "8/10停班停課出爐　僅蘭嶼、馬祖達標",
-      "dek": "NOWnews報導，週一僅離島地區風力達停班停課標準，台中不在名單之列。",
-      "url": "https://www.nownews.com/news/6864384"
+      "title": "熱帶擾動98W受觀測　能否成颱仍待觀察",
+      "dek": "西太平洋一熱帶擾動發展條件「勉強有利」，追蹤機構持續監測其後續動向。",
+      "url": "https://zoom.earth/storms/98w-2026/"
     }
   ]
 }
