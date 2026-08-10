@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T16:07:00+08:00",
+  "generated_at": "2026-08-10T17:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月9日晚間11時30分解除白海豚海上颱風警報，且全程未發布陸上颱風警報。",
+  "alert_desc": "中央氣象署已於8月9日晚間11時30分解除白海豚海上颱風警報，全程未發布陸上颱風警報，目前台灣沒有任何地區處於颱風警報範圍內。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前雖無颱風警報，但因滯留鋒面與白海豚外圍環流影響，今日仍在氣象署發布的大雨特報範圍內，山區應留意雷擊、強陣風及土石流風險。"
+    "text": "台中目前無颱風警報，但因西南氣流影響，山區列入氣象署豪雨特報範圍，西部沿海並有黃色強風特報，山區應留意雷擊、強陣風及土石流風險。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風減弱登陸中國　台灣暫解海警　中南部仍受滯留鋒面大雨威脅",
-    "dek": "中央氣象署已於週日深夜解除白海豚海上颱風警報，但滯留鋒面與颱風外圍環流持續為台中以北多縣市帶來大雨特報，太平洋上另有兩個熱帶系統活動中，暫未對台灣構成威脅。",
-    "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
+    "title": "西太平洋罕見「三颱共舞」　燦鴻直撲日本本州　白海豚減弱後餘威掃台灣",
+    "dek": "在白海豚已於中國浙江兩度登陸、對台灣影響有限之際，颱風燦鴻本週二深夜至週三清晨恐登陸日本茨城至福島一帶，而第三個系統貝露則持續在遠洋減弱消散，台灣目前並無任何海上或陸上颱風警報生效。",
+    "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中國發布紅色警戒　白海豚逼近沿海機場大量取消航班",
-      "dek": "彭博社報導，白海豚以近似一級颶風強度於浙江玉環登陸，隨後在溫州附近二度登陸，中國沿海機場提前大規模取消航班。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears"
+      "title": "燦鴻逼近日本本州　茨城、福島恐迎歷史性登陸",
+      "dek": "據《日本時報》報導，熱帶風暴燦鴻預計於本週二深夜至週三清晨登陸日本茨城、福島一帶，日本氣象廳警告恐引發豪雨、強風與土石流，衝擊盂蘭盆節返鄉人潮。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
       "rank": 2,
-      "title": "白海豚襲中國東岸　逾百萬人疏散",
-      "dek": "NBC新聞報導，浙江、福建兩省疏散逾100萬人，溫州單一城市即疏散超過90萬居民，當局並警告多條河川有重大氾濫風險。",
-      "url": "https://www.nbcnews.com/world/china/typhoon-dolphin-hits-chinas-east-coast-1-million-evacuated-rcna591559"
+      "title": "Weathernews：燦鴻持續北上逼近日本　登陸後將逐漸減弱",
+      "dek": "據Weathernews報導，燦鴻自8月5日在威克島附近生成後持續向西北移動，預計8月11日抵達日本太平洋沿岸並穿越本州進入日本海，期間暴風圈半徑最遠可達950公里。",
+      "url": "https://sea.weathernews.com/resources/202608/189"
     },
     {
       "rank": 3,
-      "title": "颱風白海豚持續減弱　晚間11時30分解除海警",
-      "dek": "中央社報導，白海豚登陸浙江後迅速減弱，中央氣象署當晚解除海上颱風警報，但外圍環流仍為台灣中北部帶來明顯降雨。",
-      "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
+      "title": "貝露生成　西北太平洋出現罕見「三颱共存」局面",
+      "dek": "據《環球時報》報導，本季第16號颱風貝露於8月9日下午在塞班島、關島西北偏北方約740公里處生成，與白海豚、燦鴻同時活躍，為八月初罕見景象。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
     },
     {
       "rank": 4,
-      "title": "白海豚今日最接近台灣　北部風雨最劇",
-      "dek": "台北時報報導，白海豚侵襲期間台灣取消逾180架次航班、數十班渡輪停駛，新竹苗栗山區雨量預估上看500毫米。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/09/2003862176"
+      "title": "貝露預估將於外海減弱消散　惟助長菲律賓季風降雨",
+      "dek": "據《菲律賓星報》報導，貝露預計先短暫增強，隨後在增強風切作用下減弱，生成約60小時後於外海消散，期間持續牽引西南季風、加劇菲律賓部分地區降雨。",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
     },
     {
       "rank": 5,
-      "title": "白海豚重創沖繩　中國封港嚴陣以待",
-      "dek": "NBC新聞報導，白海豚侵襲沖繩造成至少8人受傷，中國隨後全面封港並提升應變等級迎接颱風登陸。",
-      "url": "https://www.nbcnews.com/world/china/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-landfall-rcna591465"
+      "title": "菲律賓氣象署：貝露仍在責任區外　短期內進入機率低",
+      "dek": "據菲律賓大氣地球物理暨天文服務署透過GMA News於社群平台發布的資訊，截至8月9日晚間8時，貝露（原熱帶低氣壓08c）仍在菲律賓責任區外，24小時內進入的機率不高。",
+      "url": "https://x.com/gmanews/status/2086456855614595184"
     },
     {
       "rank": 6,
-      "title": "中國嚴陣以待白海豚　疏散航班雙管齊下",
-      "dek": "半島電視台報導，福建省將颱風應變提升至第三級，疏散近9.9萬人，全國取消航班近1400架次。",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
+      "title": "白海豚環流減弱　中央氣象署解除海上颱風警報",
+      "dek": "據自由時報報導，中央氣象署於8月9日晚間11時30分解除白海豚海上颱風警報，並指出未來一週西南氣流仍將帶來不穩定天氣與局部雷陣雨。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
     },
     {
       "rank": 7,
-      "title": "輕颱燦鴻週二逼近日本本州",
-      "dek": "星報引述日本氣象廳消息指出，燦鴻預計週二上午登陸關東至東北地區，週三上午移出至日本海。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/10/typhoon-chan-hom-to-approach-japans-main-island-on-tuesday"
+      "title": "白海豚兩度登陸浙江　中國逾百萬人疏散",
+      "dek": "據星島日報與新華網報導，白海豚8月9日先後在浙江玉環、樂清登陸，中心風速估達每小時151公里，造成海水倒灌、停電與淹水，浙江、福建、上海合計疏散逾百萬人。",
+      "url": "https://www.singtaousa.com/2026/08/09/news/china/typhoon-white-dolphin-lands-zhejiang-2/"
     },
     {
       "rank": 8,
-      "title": "第15號颱風燦鴻自威克島西北移　逼近日本太平洋岸",
-      "dek": "日本Weathernews報導，燦鴻自威克島附近形成後持續向西北移動，美軍聯合颱風警報中心預估其接近本州前將先減弱。",
-      "url": "https://sea.weathernews.com/resources/202608/187"
+      "title": "白海豚逼近　上海取消約1300班航班",
+      "dek": "據《華盛頓郵報》與《南華早報》報導，上海虹橋、浦東機場因白海豚來襲取消六至八成航班，約1300班次，區域內逾30萬人提前疏散，其中台州一地約39萬人。",
+      "url": "https://www.washingtonpost.com/world/2026/08/08/typhoon-dolphin/86a1cf72-93a5-11f1-9fdc-0a725c989a7b_story.html"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴貝露預測：60小時內消散　不威脅陸地",
-      "dek": "AccuWeather報導，貝露位於日本南鳥島附近海域，預計24小時內開始減弱，約60小時後消散，對台日兩地均無威脅。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/peilou-2026"
+      "title": "白海豚對台災損有限　氣象署示警年度大潮將至",
+      "dek": "據《台北時報》報導，白海豚減弱後雨勢主要集中在台中以北山區與東北部，陽明山測得291毫米雨量，整體災損有限；氣象署並提醒8月10日至12日為今年第二波天文大潮期，將影響台灣多處沿海。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
     },
     {
       "rank": 10,
-      "title": "白海豚海警解除！小油坑三日雨量近400毫米　未來一週天氣仍不穩定",
-      "dek": "自由時報報導，氣象署指出白海豚外圍環流持續為台灣中北部帶來降雨，陽明山小油坑三日累積雨量近400毫米，不穩定天氣估將延續一週。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
+      "title": "西南氣流發威　氣象署對台中等地發布豪雨特報而非颱風警報",
+      "dek": "據聯合新聞網報導，中央氣象署因西南氣流影響對台中、南投、雲林、嘉義、高雄、屏東山區發布豪雨特報，並對西部沿海多縣市發布黃色強風特報，強調此非颱風警報。",
+      "url": "https://udn.com/news/story/7266/8907809"
     }
   ]
 }
