@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T18:22:00+08:00",
+  "generated_at": "2026-08-10T20:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署針對海豚颱風發布的海上警報已於8月9日晚間解除，目前台灣周邊海域及陸上均無颱風警報，僅需留意西南氣流帶來的降雨。",
+  "alert_desc": "中央氣象署針對颱風白海豚發布的海上警報已於8月9日晚間11時30分解除，目前台灣周邊海域及陸上均無颱風警報生效，僅需留意西南氣流為南部帶來的豪雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，8月10日預報未達停班停課標準，僅蘭嶼、綠島、馬祖等離島當日達停班停課標準；西南氣流未來數日可能為中部山區帶來局部大雨。"
+    "text": "台中目前無颱風直接影響，8月10日全台22縣市（含台中）均未達停班停課標準，西南氣流暫未列入氣象署豪雨特報範圍，惟仍建議留意天氣變化。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風海豚重創中國東部　台灣解除海上警報　日本嚴防燦鴻風暴來襲",
-    "dek": "今年最強颱風「海豚」週日晚間在浙江玉環登陸，中國東部沿海逾百萬人緊急撤離；台灣中央氣象署已解除海上颱風警報，但西南氣流仍將為中南部山區帶來強降雨。與此同時，第15號颱風「燦鴻」持續逼近日本本州，預計於盂蘭盆節連假期間登陸關東北部。",
-    "url": "https://www.cbc.ca/news/world/china-typhoon-dolphin-evacuations-9.7300965"
+    "title": "白海豚颱風警報解除　西南氣流接力來襲　日本嚴防燦鴻週二登陸",
+    "dek": "中央氣象署已於颱風白海豚減弱轉向中國內陸後解除海上警報，全台目前無颱風警報生效，但西南氣流持續為南部帶來豪雨；同時太平洋上燦鴻颱風逼近日本、沛洛持續減弱，另有新擾動在關島以北生成。",
+    "url": "https://focustaiwan.tw/society/202608090011"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風海豚登陸中國東岸　逾百萬人緊急撤離",
-      "dek": "路透社報導，海豚颱風週日傍晚在浙江玉環登陸，最大持續風速每小時151公里，為今年侵襲中國最強風暴；溫州疏散逾90萬人，福建同步撤離近10萬人。",
-      "url": "https://www.cbc.ca/news/world/china-typhoon-dolphin-evacuations-9.7300965"
-    },
-    {
-      "rank": 2,
-      "title": "海豚颱風逼近　中國東部航班大量取消",
-      "dek": "半島電視台報導，海豚颱風登陸前中國東岸機場大規模取消班機，浙江及鄰近省份同步發布洪水與土石流警戒，防範風雨侵襲。",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
-    },
-    {
-      "rank": 3,
-      "title": "海豚外圍環流灌入上海　街道嚴重積水",
-      "dek": "NBC新聞報導，儘管海豚颱風中心已在溫州以南登陸，其外圍環流仍為上海帶來豪雨並造成市區淹水；當局警告風暴內陸減弱過程中仍有洪災與坍方風險。",
-      "url": "https://www.nbcnews.com/world/asia/rains-dolphin-flood-shanghai-streets-chinas-strongest-storm-year-rcna591664"
-    },
-    {
-      "rank": 4,
-      "title": "海豚颱風減弱遠離　台灣海上警報解除",
-      "dek": "中央社報導，中央氣象署原於8月7日發布的海上颱風警報，已於週日晚間約11時30分解除；海豚颱風全程未登陸台灣，氣象署也始終未發布陸上警報。",
+      "title": "氣象署預告解除白海豚海上警報　颱風轉向中國",
+      "dek": "據中央社（Focus Taiwan）報導，中央氣象署表示，因白海豚颱風減弱並遠離台灣、轉向中國移動，海上颱風警報預計於週一稍早解除；颱風外圍環流稍早已為北部與東半部帶來豪雨及超過5至6公尺巨浪。",
       "url": "https://focustaiwan.tw/society/202608090011"
     },
     {
-      "rank": 5,
-      "title": "海豚離台　西南風接力為中南部帶來降雨",
-      "dek": "中央社報導，海豚颱風海上警報解除後，中央氣象署預測西南氣流將持續影響台灣，未來一週中南部山區有局部大雨發生機率，籲民眾留意坡地與溪流安全。",
+      "rank": 2,
+      "title": "白海豚遠離後西南風增強　中南部將迎豪雨",
+      "dek": "據中央社報導，白海豚颱風遠離、海上警報解除後，西南風將為台灣中南部帶來持續數日的豪雨，天氣型態已由颱風主導轉為季風降雨為主。",
       "url": "https://focustaiwan.tw/society/202608100006"
     },
     {
-      "rank": 6,
-      "title": "颱風遠離、季風登場　全台防豪雨一週",
-      "dek": "《台北時報》報導，海豚颱風離台後，天氣型態轉為西南季風主導，中南部本週持續有大雨特報，氣象署提醒防範瞬間強降雨。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862248"
+      "rank": 3,
+      "title": "白海豚颱風登陸中國東岸　逾百萬人撤離",
+      "dek": "據半島電視台報導，白海豚颱風於浙江、福建交界登陸，促使逾百萬人撤離；上海兩大機場取消943班航班，運能減少近四成，福建應變等級升至第三級，近9.9萬人自高風險地區撤出。",
+      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
     },
     {
-      "rank": 7,
-      "title": "燦鴻颱風逼近日本　關東北部週二深夜恐登陸",
-      "dek": "《日本時報》報導，第15號颱風燦鴻預計週二深夜至週三凌晨於茨城、福島一帶登陸，為兩縣首度遭颱風直接侵襲；日本氣象廳警告時雨量恐達40毫米、陣風達每秒30公尺，籲盂蘭盆節返鄉民眾提高警覺。",
+      "rank": 4,
+      "title": "白海豚登陸後減弱　中國華東華中豪雨風險未除",
+      "dek": "據中國央視（CGTN）報導，白海豚颱風9日在浙江兩度登陸後已減弱，但華東與華中地區仍持續面臨強降雨與強風威脅；氣象單位形容其為今年以來侵襲中國最強颱風，系統預料持續北移影響湖北、河南。",
+      "url": "https://news.cgtn.com/news/2026-08-10/Typhoon-Dolphin-weakens-heavy-rain-risks-remain-in-China-1PuOHqtOUrm/p.html"
+    },
+    {
+      "rank": 5,
+      "title": "燦鴻颱風逼近日本關東、東北　11日晚間恐登陸",
+      "dek": "據日本放送協會（NHK）報導，第15號颱風燦鴻10日下午3時位於日本以東海面向北北西移動並逐漸轉西，預測將於8月11日晚間接近關東甲信地區，不排除登陸可能，日本氣象廳已就土石流、低窪淹水及河川氾濫發出警示。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43078"
+    },
+    {
+      "rank": 6,
+      "title": "燦鴻恐創茨城、福島首次颱風登陸紀錄　日本嚴陣以待",
+      "dek": "據《日本時報》報導，燦鴻颱風預計於週二深夜至週三清晨在關東北部登陸，茨城或福島可能成為兩縣有紀錄以來首次遭颱風登陸之地；日本氣象廳表示福島極可能發布豪雨、強風與土石流警報，籲盂蘭盆節返鄉民眾提高警覺。",
       "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
+      "rank": 7,
+      "title": "熱帶風暴沛洛持續減弱　遠離菲律賓外海",
+      "dek": "據菲律賓媒體Rappler報導，熱帶風暴沛洛位於呂宋島以東約3000公里處，正以每小時約35公里速度遠離菲律賓責任區，預測未來24小時開始減弱，約60小時後完全消散，但仍將增強西南季風。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-tropical-storm-peilou-update-pagasa-forecast-august-10-2026-5pm/"
+    },
+    {
       "rank": 8,
-      "title": "燦鴻颱風直撲東北地方　日本嚴防強風豪雨",
-      "dek": "News On Japan報導，燦鴻颱風自8月5日在威克島附近生成後持續北上，即將登陸日本東北至關東北部地區，隨後預料轉向日本海。",
-      "url": "https://newsonjapan.com/article/150301.php"
+      "title": "PAGASA：沛洛已離菲律賓責任區　惟恐助長西南季風雨勢",
+      "dek": "據《菲律賓星報》報導，菲律賓大氣地球物理暨天文服務署證實，原熱帶低氣壓沛洛已於10日凌晨2時移出菲律賓責任區，雖不直接威脅菲律賓，但預料將增強西南季風，延長呂宋島豪雨天氣。",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
     },
     {
       "rank": 9,
-      "title": "燦鴻颱風料橫掃本州　福島恐列入豪雨警戒",
-      "dek": "Japan Today報導，燦鴻颱風預計數日內橫越本州、進入日本海並持續減弱，日本氣象廳極可能對福島縣發布豪雨、強風及土石流警戒。",
-      "url": "https://japantoday.com/category/national/typhoon-no.-15-set-to-hit-honshu"
+      "title": "威克島附近新擾動96W成形　未來數日恐發展為颱風",
+      "dek": "據太平洋災害中心與postguam.com報導，一股新的熱帶擾動「96W」已在威克島西北方生成，在低風切與偏暖海溫條件下，預估三日內可能發展為熱帶風暴，並持續朝日本方向移動，目前對關島暫無威脅。",
+      "url": "https://www.postguam.com/news/local/invest-96w-poses-no-threat-to-guam-as-typhoon-season-peaks-forecasters-say/article_c9df9e12-05c4-4d0b-b304-7b753223e7ec.html"
     },
     {
       "rank": 10,
-      "title": "第16號風暴沛洛徘徊關島海面　預料60小時內消散",
-      "dek": "美國氣象網站AccuWeather報導，熱帶風暴沛洛目前位於關島東北方約837公里海面，以每小時44公里速度朝東北移動，預計24小時內開始減弱，約60小時內消散，不致威脅主要陸地。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/peilou-2026"
+      "title": "西南氣流增強　氣象署對南台灣發布豪雨特報",
+      "dek": "據《太報》報導，中央氣象署10日上午9時50分發布豪雨特報，指西南風增強將帶來短時強降雨；屏東列為豪雨等級，台南、高雄與嘉義山區發布大雨特報，新北、宜蘭則另有雷雨即時訊息。",
+      "url": "https://taronews.tw/2026/08/10/1205990/"
     }
   ]
 }
