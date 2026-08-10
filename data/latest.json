@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T00:07:00+08:00",
+  "generated_at": "2026-08-11T01:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月9日晚間11時30分解除白海豚海上颱風警報，全案自始未曾發布陸上颱風警報；截至8月10日晚間，台灣海上及陸上颱風警報均未生效，僅西南氣流引發之豪雨特報持續有效。",
+  "alert_desc": "中央氣象署已於8月9日深夜11時30分解除白海豚海上颱風警報，全程未曾發布陸上颱風警報；截至8月10日深夜，台灣海上及陸上颱風警報均未生效，僅西南季風接手為中南部地區帶來降雨風險。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風系統直接影響，8月10日未達停班停課標準，氣象署也未對台中發布颱風警報；台中及中部山區仍受西南氣流影響，須留意局部大雨及沿海陣風可達8級的風險。"
+    "text": "台中目前無颱風系統直接影響，未達停班停課標準，氣象署也未對台中發布颱風警報；隨西南季風接手，台中及中南部地區未來一週仍須留意局部強降雨與雷陣雨。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚颱風登陸中國逾百萬人疏散　台灣暫除警報但西南氣流持續帶來風雨",
-    "dek": "颱風白海豚週日晚間在中國浙江二度登陸並造成上海破紀錄豪雨，中央氣象署已解除對台海上警報，但西南氣流仍為中南部地區帶來強降雨與強風，同時菲律賓因季風豪雨釀成嚴重傷亡，西太平洋洋面上共有四個熱帶系統同時發展。",
-    "url": "https://focustaiwan.tw/society/202608090011"
+    "title": "白海豚海警解除　台灣暫無風雨威脅，日本、菲律賓仍受颱風季衝擊",
+    "dek": "中央氣象署已解除白海豚海上颱風警報，但中國華東仍在應對淹水與撤離，日本則正準備迎接颱風昌鴻，太平洋上同時醞釀著罕見的「四颱共舞」局面。",
+    "url": "https://www.cna.com.tw/news/ahel/202608100003.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚海上颱風警報解除　氣象署：西南氣流持續影響",
-      "dek": "中央氣象署於8月9日深夜11時30分解除白海豚海上颱風警報，全程未發布陸上警報。",
-      "url": "https://focustaiwan.tw/society/202608090011"
+      "title": "白海豚海警解除　馬祖飆出設站以來最高溫37度",
+      "dek": "中央氣象署已於8月9日深夜解除白海豚海上颱風警報，整個警戒期間未曾發布陸上警報。",
+      "url": "https://www.cna.com.tw/news/ahel/202608100003.aspx"
     },
     {
       "rank": 2,
-      "title": "白海豚遠離、西南氣流接棒　中南部本週防大雨強陣風",
-      "dek": "氣象署表示台中、南投、嘉義、雲林、屏東、台東等地本週須留意西南氣流帶來的局部豪雨與沿海8級強陣風。",
-      "url": "https://focustaiwan.tw/society/202608100006"
+      "title": "白海豚重創上海　逾21萬人緊急撤離",
+      "dek": "央廣網報導，白海豚造成上海多區淹水，官方已疏散安置21萬5600餘人，多區發布橙色暴雨預警。",
+      "url": "https://udn.com/news/story/7332/9681358"
     },
     {
       "rank": 3,
-      "title": "白海豚襲擊中國東岸　逾百萬人疏散",
-      "dek": "颱風白海豚週日在浙江玉環、溫州二度登陸，溫州單一城市即疏散逾90萬人並開設逾1500處避難所。",
-      "url": "https://www.nbcnews.com/world/china/typhoon-dolphin-hits-chinas-east-coast-1-million-evacuated-rcna591559"
+      "title": "白海豚登陸後減弱　中國華東豪雨風險未除",
+      "dek": "央視新聞報導，白海豚在浙江兩度登陸後轉弱為熱帶風暴，仍為浙江、安徽及河南帶來強降雨與洪災風險。",
+      "url": "https://news.cgtn.com/news/2026-08-10/Typhoon-Dolphin-weakens-heavy-rain-risks-remain-in-China-1PuOHqtOUrm/p.html"
     },
     {
       "rank": 4,
-      "title": "上海降雨破150年紀錄　中國東部逾百萬人因白海豚撤離",
-      "dek": "上海市區測站24小時雨量近313毫米，創150多年觀測史新高，暴雨預計持續至8月10日。",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/10/more-than-one-million-evacuated-in-china-as-typhoon-dolphins-brings-record-rain/"
+      "title": "白海豚減弱為殘留低壓　華東交通仍受重創",
+      "dek": "Hong Kong Free Press報導，儘管風力已減弱，白海豚仍導致數百架次航班取消，浙江至山東一帶淹水風險居高不下。",
+      "url": "https://hongkongfp.com/2026/08/10/typhoon-dolphin-weakens-but-disrupts-travel-in-east-china/"
     },
     {
       "rank": 5,
-      "title": "菲律賓豪雨成災至少13人罹難　搜救人員持續尋找失蹤者",
-      "dek": "白海豚與颱風庫里拉共同增強的季風豪雨在呂宋島釀成土石流，馬尼拉多處社區積水及腰。",
-      "url": "https://www.euronews.com/2026/08/10/days-of-heavy-rain-leave-at-least-13-dead-in-philippines-rescuers-say"
+      "title": "昌鴻直撲日本　氣象廳警告恐釀致災豪雨",
+      "dek": "《自由時報》報導，日本氣象廳預測颱風昌鴻將於8月11日登陸東北至關東一帶，並警告恐引發嚴重水患與土石災害。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534587"
     },
     {
       "rank": 6,
-      "title": "菲律賓西南季風豪雨拉警報　33省逾50萬人受災",
-      "dek": "兩個熱帶氣旋加乘季風雨勢，菲律賓約11萬戶家庭受影響，呂宋島含馬尼拉多地宣布停班停課。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/09/major-flooding-alert-as-southwest-monsoon-brings-heavy-rains-across-philippines"
+      "title": "昌鴻週二逼近日本東部　登陸前增強、過境後急速減弱",
+      "dek": "Weathernews預測，昌鴻登陸前將略為增強，陣風估計達每秒35公尺，橫掃本州後迅速減弱。",
+      "url": "https://sea.weathernews.com/resources/202608/189"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴琵鷺生成　遠離菲律賓但持續助長季風雨",
-      "dek": "PAGASA指出琵鷺位於呂宋島以東約3000公里處並持續遠離，不會進入菲律賓責任區，但仍將增強西南季風降雨。",
-      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
+      "title": "「南卡」颱風最快今明生成　太平洋恐現四颱共舞",
+      "dek": "《中時新聞網》報導，關島附近熱帶低壓可望於8月10、11日增強為颱風南卡，形成罕見四颱並存局面，但預估路徑偏東、對台灣威脅有限。",
+      "url": "https://www.chinatimes.com/realtimenews/20260810001534-260405"
     },
     {
       "rank": 8,
-      "title": "颱風昌鴻預測8月11日登陸日本關東地區",
-      "dek": "今年第15號颱風昌鴻預計橫掃日本本州後朝朝鮮半島移動，日本氣象單位持續密切觀測。",
-      "url": "https://money.udn.com/money/story/5599/9678954"
+      "title": "颱風琵鷺遠洋生成　向東移動不影響台灣與中國大陸",
+      "dek": "《新浪新聞》報導，今年第16號颱風琵鷺已在遠洋生成並持續東移，預期強度變化有限，對台灣及中國大陸均無影響。",
+      "url": "https://k.sina.com.cn/article_7880068206_1d5b04c6e068090a4k.html?from=news"
     },
     {
       "rank": 9,
-      "title": "新生熱帶性低氣壓TD18發展前景未明　恐成颱風「南卡」",
-      "dek": "氣象署指出8月9日晚間生成的熱帶性低氣壓發展機率偏低，但不排除增強為第17號颱風，對台無直接威脅。",
-      "url": "https://www.ettoday.net/news/20260809/3216227.htm"
+      "title": "白海豚走了雨未停　西南風接力台灣中南部防大雨",
+      "dek": "《壹蘋新聞網》報導，白海豚警報雖已解除，但西南季風接手後，未來一週中南部仍須留意局部強降雨。",
+      "url": "https://news.nextapple.com/life/20260810/2CB44D6277CB6C8E04F0B78B128B1790"
     },
     {
       "rank": 10,
-      "title": "日本氣象協會：今年8月將是颱風生成與逼近高峰月份",
-      "dek": "日本氣象協會季節展望指出8月恐有4至7個颱風生成、3至6個颱風逼近日本，與當前白海豚、昌鴻、琵鷺、TD18同時活躍的態勢相符。",
-      "url": "https://weather-jwa.jp/en/news/articles/post13375"
+      "title": "菲律賓連日豪雨釀災　至少13人喪生",
+      "dek": "歐洲新聞台報導，受白海豚及稍早風暴庫賈拉加劇的季風豪雨已持續九天，菲律賓北部洪災與土石流已造成至少13人死亡。",
+      "url": "https://www.euronews.com/2026/08/10/days-of-heavy-rain-leave-at-least-13-dead-in-philippines-rescuers-say"
     }
   ]
 }
