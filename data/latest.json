@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T14:09:00+08:00",
+  "generated_at": "2026-08-10T15:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署已於8月9日晚間11時30分解除颱風白海豚海上警報，且全程未發布陸上警報，目前台灣沒有任何颱風警報生效中。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市8月10日照常上班上課，未受目前颱風系統直接影響；稍早流傳「自下午6時起停班停課30小時」的訊息經查證為舊聞，與另一波颱風巴威事件有關，並非本次颱風白海豚的最新消息。"
+    "text": "目前無颱風系統直接影響台中；受西南氣流牽引，中央氣象署已於8月10日凌晨3時20分發布大雨特報，台灣西半部（含台中市）至當晚11時前有局部大雨或豪雨之虞，籲請留意雷擊、強陣風及淹水、土石流等風險。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風白海豚重創中國東部　逾百萬人疏散　台灣海上警報解除",
-    "dek": "白海豚以今年侵襲中國最強颱風之姿登陸浙江，上海多處淹水、逾千航班取消，而台灣周邊風雨已解除警戒，太平洋上另有兩個系統活躍。",
-    "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
+    "title": "白海豚颱風登陸中國、台灣海警解除　「三颱共舞」西南氣流仍為西半部帶來大雨",
+    "dek": "中央氣象署已於8月9日深夜解除白海豚颱風海上警報，但受西南氣流影響，台灣西半部（含台中）10日仍面臨豪雨威脅，同時太平洋上昌鴻、珮珞兩颱風動態亦受到關注。",
+    "url": "https://www.cna.com.tw/news/ahel/202608090160.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚登陸浙江　中國今年最強颱風　逾百萬人疏散",
-      "dek": "半島電視台報導，白海豚以近每小時151公里風速登陸，溫州一地即疏散逾90萬人，區域航班大規模取消。",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
+      "title": "白海豚颱風減弱縮小　氣象署估10日凌晨至清晨解除海警",
+      "dek": "中央氣象署9日表示，白海豚颱風已減弱縮小，預計台灣本島及外島將於當夜至隔日清晨陸續脫離暴風圈。",
+      "url": "https://www.cna.com.tw/news/ahel/202608090160.aspx"
     },
     {
       "rank": 2,
-      "title": "白海豚外圍侵襲上海　街道淹水逾百處　電廠受衝擊",
-      "dek": "中國環球電視網報導，上海緊急疏散逾3萬人、取消約1400班航班，中國水利部對多條流域發布洪水警戒。",
-      "url": "https://news.cgtn.com/news/2026-08-10/Typhoon-Dolphin-hits-Zhejiang-power-plant-floods-Shanghai-streets-1PuoBLimeRy/p.html"
+      "title": "白海豚颱風解除海警！小油坑3天雨量破400毫米",
+      "dek": "氣象署9日深夜11時30分正式解除海上颱風警報，陽明山小油坑累積雨量達400毫米，未來一週天氣仍不穩定。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
     },
     {
       "rank": 3,
-      "title": "颱風白海豚持續減弱　中央氣象署晚間11時30分解除海警",
-      "dek": "中央社報導，白海豚減弱並移入中國內陸後，氣象署宣布解除海上颱風警報，全程未發布陸上警報。",
-      "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
+      "title": "Typhoon Dolphin weakens, heavy rain threat remains: CWA",
+      "dek": "Focus Taiwan報導，白海豚颱風已減弱，但氣象署警告台灣豪雨風險依然存在。",
+      "url": "https://focustaiwan.tw/society/202608090004"
     },
     {
       "rank": 4,
-      "title": "白海豚海警近午夜解除　西北太平洋另有熱低壓生成",
-      "dek": "自由時報報導，白海豚警報解除時程確定，同時西太平洋新生熱帶低壓恐使台灣未來一週天氣持續不穩定。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534113"
+      "title": "白海豚颱風登陸中國東部　逾百萬人疏散",
+      "dek": "半島電視台報導，白海豚颱風9日傍晚登陸浙江玉環，最大風速每小時151公里，沿海逾百萬人緊急疏散，上海傳淹水。",
+      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
     },
     {
       "rank": 5,
-      "title": "全台22縣市8月10日照常上班上課　風雨未達停班標準",
-      "dek": "Yahoo奇摩新聞綜合報導，白海豚外圍環流影響有限，僅12縣市維持豪雨特報，無縣市發布停班停課。",
-      "url": "https://tw.news.yahoo.com/810%E6%98%AF%E5%90%A6%E9%A2%B1%E9%A2%A8%E5%81%87%EF%BC%9F%E6%9C%80%E6%96%B0%E9%A0%90%E5%A0%B1%E5%85%A8%E5%8F%B022%E7%B8%A3%E5%B8%82%E9%A2%A8%E9%9B%A8%E7%9A%86%E6%9C%AA%E9%81%94%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2%E6%A8%99%E6%BA%96-024002135.html"
+      "title": "白海豚颱風襲中國東岸　多地發布洪水警報",
+      "dek": "CNBC報導，福建約9萬8千人疏散，多省份預估降雨量達250至500毫米，當局並加強水庫及易滑坡地區巡查。",
+      "url": "https://www.cnbc.com/2026/08/09/typhoon-dolphin-set-to-hit-chinas-east-coast-triggering-flood-warnings.html"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴珮珞生成　位於菲律賓以東　恐增強西南季風",
-      "dek": "Philstar.com報導，珮珞由熱帶低壓發展而成，暫不進入菲律賓責任區，聯合颱風警報中心預測約60小時內消散。",
-      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
+      "title": "颱風昌鴻持續北移　逼近日本太平洋沿岸",
+      "dek": "Weathernews報導，本季第15號颱風昌鴻自威克島西北行，預測將於8月中旬接近日本太平洋沿岸後轉向日本海。",
+      "url": "https://sea.weathernews.com/resources/202608/187"
     },
     {
       "rank": 7,
-      "title": "三颱共舞成形　氣象署證實珮珞對台灣天氣無影響",
-      "dek": "風傳媒報導，氣象署指出珮珞路徑偏東北，白海豚、珮珞與昌鴻三系統同時活躍，僅白海豚曾影響台灣周邊。",
-      "url": "https://www.storm.mg/lifestyle/11155144"
+      "title": "昌鴻颱風登陸時間延後　預估12日晚間襲仙台南部",
+      "dek": "星條旗報風暴追蹤指出，昌鴻9日位於橫須賀以東991公里處，登陸時間由原估的11日延後至12日晚間。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-08-09/tropical-storm-14w-(chan-hom),-"
     },
     {
       "rank": 8,
-      "title": "颱風昌鴻恐撲向日本　路徑罕見可能橫貫本州",
-      "dek": "經濟日報報導，日本氣象廳預測昌鴻8月11日登陸東北至關東地區後，將由東向西穿越本州再朝朝鮮半島移動。",
-      "url": "https://money.udn.com/money/story/5599/9678954"
+      "title": "熱帶風暴珮珞生成　菲律賓氣象單位稱恐增強西南季風",
+      "dek": "菲律賓星報報導，珮珞在菲律賓責任區外生成，風速每小時65公里，進入責任區機率不高，但可能為菲律賓帶來降雨。",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
     },
     {
       "rank": 9,
-      "title": "史上第二例？昌鴻恐登陸宮城　路徑可能橫貫本州",
-      "dek": "TVBS新聞報導，宮城、岩手、青森、秋田、新潟與福島等地居民獲提醒留意颱風動態，登陸時間預估落在週二至週三。",
-      "url": "https://news.tvbs.com.tw/world/4004197"
+      "title": "三颱共舞！新颱風珮珞生成　氣象署曝對台影響",
+      "dek": "風傳媒報導，白海豚、昌鴻、珮珞三颱風同時活動，氣象署表示珮珞對台灣天氣無直接影響，預期僅為輕度颱風。",
+      "url": "https://www.storm.mg/lifestyle/11155144"
     },
     {
       "rank": 10,
-      "title": "美軍風暴追蹤：熱帶風暴14W（昌鴻）逼近日本本州",
-      "dek": "星條旗報引述美軍聯合颱風警報中心資料，昌鴻預估週二清晨增強至每小時50英里，登陸點落在仙台以南。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-08-09/tropical-storm-14w-(chan-hom),-"
+      "title": "8/10降雨特報發布　西半部含台中防大雨積水",
+      "dek": "Newtalk新聞報導，氣象署凌晨發布大雨特報，受西南氣流影響，台灣西半部、台東及恆春半島有豪雨之虞，籲民眾防範淹水與土石流。",
+      "url": "https://newtalk.tw/news/view/2026-08-10/1052279"
     }
   ]
 }
