@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T05:07:00+08:00",
+  "generated_at": "2026-08-12T06:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於本週稍早解除多爾芬颱風海上警報，燦鴻登陸日本、柏路遠離菲律賓，均未對台灣構成威脅，台灣本島僅受季節性西南氣流影響出現間歇性降雨。",
+  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，僅因西南氣流及低壓帶影響發布豪（大）雨特報，並提醒嘉義以南、東部海岸及基隆北海岸留意大潮期間的淹水風險。",
   "region_watch": {
     "region": "台中",
-    "text": "目前並無颱風警報或停班停課措施，8月11日豪雨特報未將台中列入警戒縣市，但中央氣象署西南氣流降雨展望仍涵蓋中部地區，不排除局部短暫強降雨，民眾仍應留意天候變化。"
+    "text": "台中目前未受任何颱風系統直接影響，氣象預測聚焦於台灣南部及北部山區的西南氣流降雨，尚無因颱風而發布的風雨警報或停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "燦鴻登陸茨城創歷史 多爾芬殘餘水患襲中國內陸",
-    "dek": "颱風燦鴻週二夜間登陸日本茨城縣，創1951年有紀錄以來首例，中國內陸同時因多爾芬殘餘水氣持續淹水，台灣目前無颱風警報，但西南氣流仍將帶來降雨。",
-    "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+    "title": "燦鴻颱風史上首度登陸茨城 橫掃日本本州之際，東亞多個風暴系統同步醞釀",
+    "dek": "日本氣象廳自1951年有紀錄以來首見颱風登陸茨城縣，中國內陸仍受「白海豚」殘餘水氣侵襲引發暴雨，太平洋上另有兩個系統正在成形，而台灣目前未受任何颱風直接威脅，僅西南氣流持續帶來豪雨。",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378959/%E9%A2%B1%E9%A2%A8%E7%87%A6%E9%B4%BB%E7%9B%B4%E6%92%B2%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1%E5%9C%B0%E5%8D%80-%E6%88%96%E9%A6%96%E5%BA%A6%E7%99%BB%E9%99%B8%E8%8C%A8%E5%9F%8E%E7%B8%A3-8-12%E6%A9%AB%E9%81%8E%E6%9C%AC%E5%B7%9E"
   },
   "items": [
     {
       "rank": 1,
-      "title": "燦鴻登陸茨城縣 創157年氣象紀錄",
-      "dek": "《日本時報》報導，颱風燦鴻週二晚間登陸日本茨城縣，是氣象廳1951年建立紀錄以來首次颱風登陸當地，最大陣風達每秒35公尺。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+      "title": "燦鴻颱風創紀錄登陸茨城 橫掃日本本州",
+      "dek": "據香港01報導，日本氣象廳自1951年開始記錄以來，燦鴻是首個登陸茨城縣的颱風，橫掃關東地區並衝擊盂蘭盆節假期交通。",
+      "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378959/%E9%A2%B1%E9%A2%A8%E7%87%A6%E9%B4%BB%E7%9B%B4%E6%92%B2%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1%E5%9C%B0%E5%8D%80-%E6%88%96%E9%A6%96%E5%BA%A6%E7%99%BB%E9%99%B8%E8%8C%A8%E5%9F%8E%E7%B8%A3-8-12%E6%A9%AB%E9%81%8E%E6%9C%AC%E5%B7%9E"
     },
     {
       "rank": 2,
-      "title": "燦鴻逼近東京 日空日航齊停飛",
-      "dek": "彭博社報導，因應燦鴻來襲，日本航空與全日空取消多班航班，關東與東京首都圈交通受到嚴重衝擊。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/japanese-airlines-halt-flights-as-typhoon-chan-hom-nears-tokyo"
+      "title": "燦鴻減弱為熱帶低壓 預測於獨島外海轉化為溫帶氣旋",
+      "dek": "根據Zoom Earth即時路徑追蹤與日本氣象廳資料，燦鴻已進入日本海，預計週三下午減弱為熱帶低壓，隨後在獨島東南方約180公里處轉化為溫帶氣旋。",
+      "url": "https://zoom.earth/storms/chan-hom-2026/"
     },
     {
       "rank": 3,
-      "title": "燦鴻橫越本州 週三料減弱消散",
-      "dek": "《日本時報》報導，燦鴻登陸後將持續向西橫越本州，週三下午抵日本海外海並減弱為熱帶低氣壓，最終消散。",
+      "title": "日本時報：燦鴻來襲前 日本各地嚴防強風豪雨",
+      "dek": "《日本時報》報導，日本氣象廳曾預測關東甲信地區降雨量恐達180毫米，東北地區150毫米，東海地區120毫米，並警告外海浪高與強風。",
       "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
       "rank": 4,
-      "title": "多爾芬殘餘水氣灌湖北 逼近北京",
-      "dek": "Forth News援引美聯社報導，颱風多爾芬殘餘環流深入湖北省引發嚴重淹水，北京順義區部分地區亦傳出災情。",
-      "url": "https://www.forth.news/stories/Cdw1N91RrgpnMuudSeynv"
+      "title": "日本南方熱帶低壓醞釀 週三恐增強為第17號颱風",
+      "dek": "據日本氣象新聞（Weathernews Japan）報導，一個位於日本南方、中心氣壓998百帕的熱帶低壓預計週三下午發展為今年第17號颱風，強度預料不強，但不排除於8月15、16日左右北轉逼近本州。",
+      "url": "https://weathernews.jp/news/202608/110201/"
     },
     {
       "rank": 5,
-      "title": "多爾芬威力減弱 仍亂中國交通",
-      "dek": "《台北時報》報導，多爾芬在浙江沿海兩度登陸後威力減弱，中國中央氣象台已調降警報等級，但內陸交通持續受阻。",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/08/11/2003862302"
+      "title": "第16號颱風柏路在小笠原群島附近生成 對日本無威脅",
+      "dek": "《佐賀新聞》報導，日本氣象廳於8月9日下午將小笠原群島附近熱帶低壓升格為第16號颱風「柏路」，預測其將轉向東北通過南鳥島附近，並於8月12日左右減弱為熱帶低壓，不會直接影響日本本土。",
+      "url": "https://www.saga-s.co.jp/articles/-/1768250"
     },
     {
       "rank": 6,
-      "title": "上海停飛近千航班 逾76萬人疏散",
-      "dek": "CNBC報導，多爾芬是今年侵襲中國最強颱風，共造成逾76萬人疏散，上海兩大機場取消約四成航班。",
-      "url": "https://www.cnbc.com/2026/08/09/typhoon-dolphin-set-to-hit-chinas-east-coast-triggering-flood-warnings.html"
+      "title": "熱帶風暴柏路正式離開菲律賓責任區",
+      "dek": "據GMA新聞網報導，菲律賓大氣地球物理暨天文服務署（PAGASA）證實柏路已於8月11日上午8時離開菲律賓責任區（PAR），當時區內未監測到其他熱帶氣旋或低壓區。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
     },
     {
       "rank": 7,
-      "title": "氣象署解除多爾芬海上警報",
-      "dek": "Focus Taiwan報導，多爾芬減弱並登陸中國浙江省後，中央氣象署已於週一凌晨解除對台灣的海上颱風警報。",
-      "url": "https://focustaiwan.tw/society/202608090011"
+      "title": "「白海豚」除編 殘餘水氣仍在中國內陸釀成暴雨",
+      "dek": "新華社報導，中國中央氣象台已於8月11日下午5時對減弱至湖北的熱帶低壓「白海豚」停止編號並解除颱風藍色預警，但其殘餘水氣與冷空氣結合，預計持續為河南、山東、安徽等十餘省份帶來暴雨至特大暴雨，直至8月15日左右。",
+      "url": "https://www.news.cn/20260811/7a55154d647646a3813221269c4f9ee5/c.html"
     },
     {
       "rank": 8,
-      "title": "多爾芬對台衝擊有限 轉憂大潮",
-      "dek": "《台北時報》報導，多爾芬外圍環流為台灣帶來的災情相對輕微，計5人受傷、222件災情通報，關注焦點轉向農曆大潮。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
+      "title": "「白海豚」殘餘雨帶北上 北京發布暴雨紅色預警",
+      "dek": "據《新京報》報導，白海豚消散後的外圍雨帶抵達京津地區，北京7個行政區發布暴雨紅色預警，預測自8月11日晚間至13日白天累積雨量恐超過150毫米。",
+      "url": "https://www.bjnews.com.cn/detail/1786367202129827.html"
     },
     {
       "rank": 9,
-      "title": "西南氣流未歇 中南部本週續降雨",
-      "dek": "Focus Taiwan報導，西南氣流持續為台灣中南部帶來間歇強降雨，專家預估不穩定天氣恐持續至8月19日。",
-      "url": "https://focustaiwan.tw/society/202608100006"
+      "title": "湖北面臨強降雨與龍捲風風險 白海豚殘餘環流肆虐",
+      "dek": "據新唐人電視台報導，湖北襄陽、十堰、宜昌、荊門、隨州等地8月11日夜間出現中到大雨轉暴雨，陣風超過11級，並有龍捲風風險，皆與白海豚殘餘環流通過有關。",
+      "url": "https://www.ntdtv.com/b5/2026/08/11/a104123012.html"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴柏路離開菲律賓責任區",
-      "dek": "GMA News Online報導，熱帶風暴柏路週二上午已離開菲律賓大氣地理天文部門責任區，預計24小時內消散。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
+      "title": "西南氣流持續 台灣南部豪雨未歇、暫無颱風警報",
+      "dek": "自由時報報導，中央氣象署預測西南氣流將持續為台灣南部帶來陣雨或雷雨，北部山區8月12日也可能出現局部大雨，並提醒嘉義以南沿海、東部海岸與基隆北海岸須留意大潮期間淹水風險，目前並無颱風警報生效。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5536318"
     }
   ]
 }
