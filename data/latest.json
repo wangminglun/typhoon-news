@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T01:07:00+08:00",
+  "generated_at": "2026-08-12T02:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報；白海豚已在中國大陸登陸並持續北上減弱，鴨風（燦鴻）路徑侷限於日本，琵鷺則持續遠離台灣。",
+  "alert_desc": "中央氣象署已於8月9日深夜解除白海豚海上颱風警報，台灣目前未受任何颱風直接威脅，僅西南氣流為中南部帶來局部大雨。",
   "region_watch": {
     "region": "台中",
-    "text": "截至8月11日，台中並無颱風海上或陸上警報生效；颱風白海豚已於前一日晚間遠離並在中國大陸登陸，警報隨即解除。西南風及低壓系統預計未來一週仍將為台灣中南部（含台中）帶來間歇性陣雨或雷雨，山區雨量在颱風期間一度逼近300毫米，惟目前僅屬降雨提醒層級，尚無停班停課措施。"
+    "text": "目前無颱風直接影響台中，僅受殘餘西南氣流影響，有短延時強降雨風險，性質與颱風無關，尚無停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,69 +13,69 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "三颱共舞未襲台 白海豚重創北京華中 鴨風登陸東京罕見創紀錄",
-    "dek": "西太平洋同時出現三個熱帶氣旋，儘管無一直接威脅台灣，颱風白海豚已為中國華中及北京帶來嚴重水患，日本則迎來71年來首次直襲茨城的颱風。",
-    "url": "https://www.usnews.com/news/world/articles/2026-08-11/typhoon-dolphin-floods-central-china-parts-of-beijing"
+    "title": "西北太平洋三颱共舞：昌鴻登陸日本茨城創紀錄，白海豚灌爆湖北、北京拉警報，台灣海警已解除",
+    "dek": "中央氣象署已於9日深夜解除白海豚海上颱風警報，台灣目前未受任何颱風直接威脅，僅西南氣流帶來局部大雨。",
+    "url": "https://english.news.cn/20260811/7a36d9342d5a4689a9818899b3eec3c4/c.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚深入內陸重創華中 北京部分地區傳淹水",
-      "dek": "據美聯社報導，白海豚週二深入湖北省造成街道淹水、景點關閉，北京市郊也出現積水災情。",
-      "url": "https://www.usnews.com/news/world/articles/2026-08-11/typhoon-dolphin-floods-central-china-parts-of-beijing"
+      "title": "首例！颱風昌鴻登陸日本茨城縣，氣象廳1951年來首見",
+      "dek": "據新華社報導，昌鴻11日晚間登陸茨城縣，當局隨即發布強風、巨浪與豪雨警告。",
+      "url": "https://english.news.cn/20260811/7a36d9342d5a4689a9818899b3eec3c4/c.html"
     },
     {
       "rank": 2,
-      "title": "北京恐24小時內降下全年三分之一雨量 四區啟動最高防汛應變",
-      "dek": "NBC新聞報導，白海豚持續北移，北京市郊四區已啟動最高等級防汛應急響應，河南亦發布山洪紅色預警。",
-      "url": "https://www.nbcnews.com/world/asia/typhoon-dolphin-threatens-central-china-hubei-province-rcna591870"
+      "title": "昌鴻980百帕強度直撲東京圈，逆行路徑罕見",
+      "dek": "據日本Nippon.com報導，昌鴻晚間8時登陸、以少見的由東向西路徑移動，茨城縣傍晚已有約640戶停電。",
+      "url": "https://www.nippon.com/en/news/yjj2026081100588/typhoon-chan-hom-makes-landfall-near-tokyo.html"
     },
     {
       "rank": 3,
-      "title": "颱風鴨風登陸東京近郊 為71年來首度直襲茨城",
-      "dek": "《日本時報》報導，鴨風週二晚間登陸茨城縣，是1951年以來首見颱風直接侵襲當地，且路徑罕見由東向西。",
+      "title": "羽田、成田雙機場停飛，昌鴻週三減弱為熱帶低壓",
+      "dek": "據《日本時報》報導，昌鴻登陸後預計橫掃本州，週三下午於山陰海岸附近減弱消散。",
       "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 4,
-      "title": "鴨風重創關東沿岸 茨城逾640戶停電",
-      "dek": "Nippon.com引述時事社報導，日本氣象廳對關東及東北發布強風豪雨警戒，鴨風預計12日減弱為熱帶低氣壓。",
-      "url": "https://www.nippon.com/en/news/yjj2026081100588/typhoon-chan-hom-makes-landfall-near-tokyo.html"
+      "title": "白海豚重創湖北、北京拉高防汛警戒",
+      "dek": "據NBC News報導，今年登陸中國最強颱風白海豚深入湖北釀水患，北京恐24小時內降下逾三分之一年雨量。",
+      "url": "https://www.nbcnews.com/world/asia/typhoon-dolphin-threatens-central-china-hubei-province-rcna591870"
     },
     {
       "rank": 5,
-      "title": "白海豚遠離 西南風接力為台灣中南部帶來降雨",
-      "dek": "中央社報導，氣象署已解除白海豚海上警報，但西南風及低壓帶預計未來數日仍將為台灣中南部帶來降雨。",
-      "url": "https://focustaiwan.tw/society/202608100006"
+      "title": "湖北恐再降350毫米豪雨，中國重發橙色暴雨預警",
+      "dek": "據《美國新聞與世界報導》引述路透社報導，中國中央氣象台已針對白海豚重新發布暴雨橙色預警。",
+      "url": "https://www.usnews.com/news/world/articles/2026-08-11/typhoon-dolphin-floods-central-china-parts-of-beijing"
     },
     {
       "rank": 6,
-      "title": "西南風本週持續影響全台 中南部防雷雨",
-      "dek": "《台北時報》報導，氣象署預測西南風與低壓系統本週將為中南部帶來間歇陣雨雷雨，其他地區也有午後雷陣雨。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862248"
+      "title": "白海豚二度登陸浙江樂清，杭州機場取消388班機",
+      "dek": "據巴基斯坦《國家報》引外電報導，白海豚為今年第13號颱風，二度登陸重創浙江航空運輸。",
+      "url": "https://www.nation.com.pk/11-Aug-2026/typhoon-dolphin-makes-second-landfall-china-s-zhejiang"
     },
     {
       "rank": 7,
-      "title": "白海豚未直撲台灣 災損輕微但山區雨量逼近300毫米",
-      "dek": "《台北時報》報導，白海豚因路徑偏離外海，台灣災損有限，但台中等山區雨量一度逼近300毫米，當局另提醒天文大潮風險。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
+      "title": "白海豚持續減弱，氣象署晚間11時半解除海警",
+      "dek": "據中央社報導，白海豚登陸中國後減弱、且台灣已脫離暴風圈，氣象署宣布解除海上颱風警報。",
+      "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
     },
     {
       "rank": 8,
-      "title": "今年第16號颱風琵鷺生成 氣象署：路徑東移不影響台灣",
-      "dek": "風傳媒報導，琵鷺於8月9日在遠洋生成，中央氣象署表示其朝東北方向移動，遠離台灣、無直接天氣影響。",
-      "url": "https://www.storm.mg/lifestyle/11155144"
+      "title": "海警雖除，小油坑3日雨量達400毫米",
+      "dek": "據《自由時報》報導，白海豚海警解除後，陽明山小油坑仍降下400毫米雨量，未來一週天氣預料持續不穩。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
     },
     {
       "rank": 9,
-      "title": "哈班牙特季風重創呂宋 伊羅戈斯152村里淹水逾4千人撤離",
-      "dek": "《馬尼拉公報》報導，增強西南季風已導致伊羅戈斯地區152個村里淹水，逾4000名居民被安置於58處收容所。",
-      "url": "https://mb.com.ph/2026/08/11/habagat-floods-152-barangays-in-ilocos-region-over-4000-evacuees-recorded"
+      "title": "三颱共舞：琵鷺生成，與白海豚、昌鴻同框西北太平洋",
+      "dek": "據《星島日報》報導，今年第16號颱風琵鷺生成，路徑朝東北遠離台灣，形成罕見三颱並存局面。",
+      "url": "https://www.singtaousa.com/2026/08/09/news/china/typhoon-peilou-forms-three-storms-dance/"
     },
     {
       "rank": 10,
-      "title": "菲律賓季風災情擴大 全國至少12死414處淹水",
-      "dek": "GMA新聞網報導，菲律賓大氣地球物理天文局指出季風豪雨已造成全國至少12死8失蹤，部分地區週二停課。",
+      "title": "菲律賓西南氣流增強，PAGASA同步監控外海熱帶系統",
+      "dek": "據GMA News報導，西南季風為呂宋帶來大雨，另有一系統在呂宋島以東遠洋朝東北東移動，暫不進入菲國責任區。",
       "url": "https://www.gmanetwork.com/news/topstories/nation/998069/live-updates-habagat-and-its-effects-on-tuesday-august-11-2026/story/"
     }
   ]
