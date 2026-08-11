@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T04:07:00+08:00",
+  "generated_at": "2026-08-12T05:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月9日晚間11時30分解除白海豚海上颱風警報，化龍與琵麗自始至終均未對台灣構成威脅，目前並無任何有效颱風警報，台灣本島僅受季節性西南氣流影響出現局部大雨。",
+  "alert_desc": "中央氣象署已於本週稍早解除多爾芬颱風海上警報，燦鴻登陸日本、柏路遠離菲律賓，均未對台灣構成威脅，台灣本島僅受季節性西南氣流影響出現間歇性降雨。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接颱風影響，僅受西南氣流影響於山區出現豪雨特報，今日高溫上看攝氏34至36度，全台各縣市自8月10日起已恢復正常上班上課，無停班停課措施。"
+    "text": "目前並無颱風警報或停班停課措施，8月11日豪雨特報未將台中列入警戒縣市，但中央氣象署西南氣流降雨展望仍涵蓋中部地區，不排除局部短暫強降雨，民眾仍應留意天候變化。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "輕颱化龍歷史性登陸日本茨城 白海豚重創中國中部並威脅北京",
-    "dek": "氣象單位證實化龍為茨城縣自1951年有紀錄以來首個登陸颱風，同時中國湖北至北京一帶因白海豚殘餘環流面臨嚴重淹水，台灣則未受任何颱風直接威脅。",
+    "title": "燦鴻登陸茨城創歷史 多爾芬殘餘水患襲中國內陸",
+    "dek": "颱風燦鴻週二夜間登陸日本茨城縣，創1951年有紀錄以來首例，中國內陸同時因多爾芬殘餘水氣持續淹水，台灣目前無颱風警報，但西南氣流仍將帶來降雨。",
     "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "化龍登陸茨城創歷史紀錄 日本氣象廳：1951年以來首見",
-      "dek": "颱風化龍週二晚間約八時登陸日本茨城縣，中心氣壓980百帕，最大風速每秒25公尺，為當地自1951年有紀錄以來首度遭颱風登陸。",
+      "title": "燦鴻登陸茨城縣 創157年氣象紀錄",
+      "dek": "《日本時報》報導，颱風燦鴻週二晚間登陸日本茨城縣，是氣象廳1951年建立紀錄以來首次颱風登陸當地，最大陣風達每秒35公尺。",
       "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 2,
-      "title": "新華社證實化龍登陸茨城 路徑朝本州中部推進",
-      "dek": "新華社報導證實化龍登陸茨城縣的歷史性意義，並指出其後續路徑將朝日本本州中部移動。",
-      "url": "https://english.news.cn/20260811/7a36d9342d5a4689a9818899b3eec3c4/c.html"
-    },
-    {
-      "rank": 3,
-      "title": "化龍逼近東京 日本航空業大規模停飛、茨城多處停電",
-      "dek": "彭博社報導，全日空取消所有成田機場航班及多班羽田航班，東京電力公司統計茨城縣約640戶停電。",
+      "title": "燦鴻逼近東京 日空日航齊停飛",
+      "dek": "彭博社報導，因應燦鴻來襲，日本航空與全日空取消多班航班，關東與東京首都圈交通受到嚴重衝擊。",
       "url": "https://www.bloomberg.com/news/articles/2026-08-11/japanese-airlines-halt-flights-as-typhoon-chan-hom-nears-tokyo"
     },
     {
+      "rank": 3,
+      "title": "燦鴻橫越本州 週三料減弱消散",
+      "dek": "《日本時報》報導，燦鴻登陸後將持續向西橫越本州，週三下午抵日本海外海並減弱為熱帶低氣壓，最終消散。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
+    },
+    {
       "rank": 4,
-      "title": "氣象單位預測化龍週三於日本海減弱消散",
-      "dek": "日經亞洲引述美國聯合颱風警報中心與日本氣象廳預測，化龍將橫越本州中部後，於週三下午在日本海上減弱為熱帶低氣壓並消散。",
-      "url": "https://asia.nikkei.com/economy/natural-disasters/typhoon-may-make-landfall-in-japan-kanto-region-tuesday-afternoon"
+      "title": "多爾芬殘餘水氣灌湖北 逼近北京",
+      "dek": "Forth News援引美聯社報導，颱風多爾芬殘餘環流深入湖北省引發嚴重淹水，北京順義區部分地區亦傳出災情。",
+      "url": "https://www.forth.news/stories/Cdw1N91RrgpnMuudSeynv"
     },
     {
       "rank": 5,
-      "title": "白海豚深入湖北內陸 中國多地淹水、景點關閉",
-      "dek": "路透社報導，已降級為熱帶低氣壓的白海豚持續在湖北造成淹水與工地停工，被形容為今年侵襲中國最強的颱風。",
-      "url": "https://www.usnews.com/news/world/articles/2026-08-11/typhoon-dolphin-floods-central-china-parts-of-beijing"
+      "title": "多爾芬威力減弱 仍亂中國交通",
+      "dek": "《台北時報》報導，多爾芬在浙江沿海兩度登陸後威力減弱，中國中央氣象台已調降警報等級，但內陸交通持續受阻。",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/08/11/2003862302"
     },
     {
       "rank": 6,
-      "title": "北京恐迎全年三分之一降雨量 順義區已嚴重淹水",
-      "dek": "NBC新聞報導，北京順義區后沙峪一小時內降雨達88.5毫米，氣象單位警告24小時降雨量可能達全年平均的三分之一。",
-      "url": "https://www.nbcnews.com/world/asia/typhoon-dolphin-threatens-central-china-hubei-province-rcna591870"
+      "title": "上海停飛近千航班 逾76萬人疏散",
+      "dek": "CNBC報導，多爾芬是今年侵襲中國最強颱風，共造成逾76萬人疏散，上海兩大機場取消約四成航班。",
+      "url": "https://www.cnbc.com/2026/08/09/typhoon-dolphin-set-to-hit-chinas-east-coast-triggering-flood-warnings.html"
     },
     {
       "rank": 7,
-      "title": "白海豚降級為熱帶低氣壓 預計週二夜間於湖北消散",
-      "dek": "新浪新聞報導，白海豚已降級為熱帶低氣壓並持續向西北移動，湖北仍維持豪雨橙色預警，24小時降雨量恐達250毫米。",
-      "url": "https://news.sina.com.cn/zx/gj/2026-08-11/doc-inimxmem0721748.shtml"
+      "title": "氣象署解除多爾芬海上警報",
+      "dek": "Focus Taiwan報導，多爾芬減弱並登陸中國浙江省後，中央氣象署已於週一凌晨解除對台灣的海上颱風警報。",
+      "url": "https://focustaiwan.tw/society/202608090011"
     },
     {
       "rank": 8,
-      "title": "熱帶低氣壓琵麗持續遠離陸地 不構成威脅",
-      "dek": "根據天氣觀測資料，琵麗已減弱為熱帶低氣壓並在開闊海域向東北方向移動，對包括台灣在內的陸地均無威脅。",
-      "url": "https://zoom.earth/storms/peilou-2026/"
+      "title": "多爾芬對台衝擊有限 轉憂大潮",
+      "dek": "《台北時報》報導，多爾芬外圍環流為台灣帶來的災情相對輕微，計5人受傷、222件災情通報，關注焦點轉向農曆大潮。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
     },
     {
       "rank": 9,
-      "title": "氣象署解除白海豚海上颱風警報 台灣未發布陸上警報",
-      "dek": "《聯合報》報導，中央氣象署已於8月9日晚間解除白海豚海上颱風警報，三天降雨以台北小油坑410.5毫米、台中雪山橋392.5毫米為最高。",
-      "url": "https://udn.com/news/story/7266/9680765"
+      "title": "西南氣流未歇 中南部本週續降雨",
+      "dek": "Focus Taiwan報導，西南氣流持續為台灣中南部帶來間歇強降雨，專家預估不穩定天氣恐持續至8月19日。",
+      "url": "https://focustaiwan.tw/society/202608100006"
     },
     {
       "rank": 10,
-      "title": "台灣無颱風威脅 西南氣流致多縣市發布豪雨特報",
-      "dek": "《華視新聞》報導，氣象署因西南氣流對北北桃山區及南部多地發布豪雨特報，不穩定多雨天氣預計持續至8月17日。",
-      "url": "https://news.cts.com.tw/cts/weather/202608/202608113065906.html"
+      "title": "熱帶風暴柏路離開菲律賓責任區",
+      "dek": "GMA News Online報導，熱帶風暴柏路週二上午已離開菲律賓大氣地理天文部門責任區，預計24小時內消散。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
     }
   ]
 }
