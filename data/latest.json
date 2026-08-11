@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:12:00+08:00",
+  "generated_at": "2026-08-11T20:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已解除8月7日對颱風白海豚發布的海上颱風警報，目前僅對8縣市發布36度以上高溫特報，並無任何颱風相關警報生效中。",
+  "alert_desc": "台灣中央氣象署目前未對任何颱風發布海上或陸上警報；先前於8月7日下午2時30分針對海豚颱風發布的海上颱風警報，已於8月9日晚間11時30分解除，且期間並未發布陸上警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市在白海豚最接近期間未達停班停課標準，且不在今日高溫特報的8縣市名單內，目前無颱風系統對台中構成直接影響。"
+    "text": "目前無任何系統對台中造成直接影響；海豚颱風逼近期間（8月8日至9日），台中降雨量並未達到停班停課標準。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風燦鴻逼近關東　今晚罕見路徑登陸日本",
-    "dek": "日本氣象廳警告，燦鴻恐以歷來罕見的正東路徑侵襲茨城與東京一帶，同一時間中國、菲律賓仍在應對白海豚與貝碧珈帶來的內陸洪災與豪雨，台灣則暫無颱風威脅、僅發布高溫特報。",
+    "title": "颱風燦鴻打破75年紀錄　罕見東側路徑直撲東京關東",
+    "dek": "就在燦鴻以史上罕見的東側路徑撲向日本關東之際，減弱後的海豚仍在中國內陸引發嚴重洪災，菲律賓也因西南季風增強釀成至少19人死亡，而台灣目前並無任何颱風警報生效。",
     "url": "https://www.nippon.com/en/news/yjj2026081100246/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風燦鴻逼近關東　今晚可能於茨城一帶登陸",
-      "dek": "日本氣象廳警告燦鴻將為茨城、東京及東北地區帶來強風、豪雨與高浪。",
+      "title": "颱風燦鴻直逼東京　預計週二深夜登陸關東",
+      "dek": "根據《日本網》（Nippon.com）引述時事社報導，燦鴻中心氣壓985百帕，最大陣風每小時126公里，預計週二深夜於茨城縣一帶登陸。",
       "url": "https://www.nippon.com/en/news/yjj2026081100246/"
     },
     {
       "rank": 2,
-      "title": "罕見路徑　燦鴻週二下午恐登陸日本關東",
-      "dek": "若如預測從正東方向登陸福島、茨城，將是1951年有紀錄以來首例。",
+      "title": "75年來首見　颱風恐從正東方向直撲日本關東",
+      "dek": "《日經亞洲》報導，若燦鴻在福島或茨城登陸，將是1951年有紀錄以來首個從正東方向直接侵襲日本本州的颱風，日本氣象廳已對關東、東北發布強風豪雨警報。",
       "url": "https://asia.nikkei.com/economy/natural-disasters/typhoon-may-make-landfall-in-japan-kanto-region-tuesday-afternoon"
     },
     {
       "rank": 3,
-      "title": "燦鴻擾亂盂蘭盆連假　全日空取消58航班",
-      "dek": "日本航空亦取消4班機，JR東日本常磐線水戶至磐城區間停駛。",
-      "url": "https://newsonjapan.com/article/150322.php"
-    },
-    {
-      "rank": 4,
-      "title": "颱風白海豚深入內陸　湖北多地示警強降雨",
-      "dek": "白海豚環流持續北移，湖北山區觀光景點關閉、工程暫停以防豪雨風險。",
-      "url": "https://www.yahoo.com/news/weather-news/articles/typhoon-dolphins-vast-storm-system-035141811.html"
-    },
-    {
-      "rank": 5,
-      "title": "白海豚殘餘環流威脅華中　北京恐現破紀錄暴雨",
-      "dek": "預估24小時內雨量恐達北京全年降雨逾三分之一，當局已啟動一級防汛應變。",
+      "title": "海豚颱風深入中國內陸　北京估恐現全年三分之一雨量",
+      "dek": "《NBC新聞》報導，海豚減弱後長驅直入湖北等地，北京啟動最高等級防汛應變機制，河南並發布山洪紅色預警。",
       "url": "https://www.nbcnews.com/world/asia/typhoon-dolphin-threatens-central-china-hubei-province-rcna591870"
     },
     {
+      "rank": 4,
+      "title": "上海取消逾1300航班　海豚颱風重創中國東部",
+      "dek": "《CBC新聞》報導，海豚登陸中國東部沿海帶來強風豪雨，上海取消約1300班航班，被形容為今年侵襲中國最強的颱風。",
+      "url": "https://www.cbc.ca/news/world/typhoon-9.7301432"
+    },
+    {
+      "rank": 5,
+      "title": "海豚颱風襲中國東岸　逾百萬人緊急撤離",
+      "dek": "《CBC新聞》報導，中國多省因海豚颱風帶來洪水與土石流風險，已緊急撤離超過一百萬人。",
+      "url": "https://www.cbc.ca/news/world/china-typhoon-dolphin-evacuations-9.7300965"
+    },
+    {
       "rank": 6,
-      "title": "中國緊急撥款救災　因應白海豚衝擊逾十省",
-      "dek": "白海豚為今年登陸中國最強颱風，兩度登陸浙江後持續為多省帶來強降雨。",
-      "url": "https://www.chinadaily.com.cn/a/202608/11/WS6a7a7dc8a310986e2b46a113.html"
+      "title": "海豚颱風減弱　台灣中央氣象署解除海上警報",
+      "dek": "《中央社》（Focus Taiwan）報導，中央氣象署於8月7日對海豚發布海上颱風警報，隨海豚減弱並於浙江登陸，已在8月9日晚間11時30分解除警報，台灣本島未受直接衝擊。",
+      "url": "https://focustaiwan.tw/society/202608090011"
     },
     {
       "rank": 7,
-      "title": "白海豚重創中國東部　逾百萬人撤離",
-      "dek": "颱風以近每小時94英里風速登陸浙江玉環，上海機場取消近1400班航班。",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶風暴貝碧珈遠離菲律賓　逐漸減弱消散",
-      "dek": "貝碧珈持續遠離呂宋島，預料24小時內開始減弱、約60小時後消散。",
+      "title": "熱帶風暴佩露離開菲律賓責任區　仍恐增強西南季風",
+      "dek": "《GMA新聞網》報導，佩露已離開菲律賓大氣地球物理天文局（PAGASA）監測範圍，向東遠離呂宋島，但可能持續增強西南季風雨勢。",
       "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
     },
     {
+      "rank": 8,
+      "title": "碧瑤市山崩罹難人數增至10人",
+      "dek": "《GMA新聞網》報導，菲律賓碧瑤市吉沙德蘇容格里連日豪雨引發山崩，罹難人數已增至10人，其中包含5名學生。",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/998077/death-toll-in-baguio-landslide-now-10-dead-baguio-pio/story/"
+    },
+    {
       "rank": 9,
-      "title": "西南季風夾貝碧珈助威　逾萬所學校停課",
-      "dek": "馬尼拉大都會淹水嚴重，拉美薩水壩溢洪，逾650萬學生受影響。",
-      "url": "https://www.philstar.com/headlines/2026/08/10/2548339/over-10000-schools-suspend-classes-habagat-dumps-rain-luzon"
+      "title": "西南季風及熱帶氣旋接連侵襲　菲律賓已知19人罹難",
+      "dek": "《馬尼拉公報》旗下Tempo報導，增強版西南季風（habagat）疊加熱帶氣旋路易斯與梅梅，已在菲律賓造成至少19人死亡，財產損失達數十億披索。",
+      "url": "https://tempo.mb.com.ph/2026/08/11/habagat-tropical-cyclones-leave-19-dead-billions-in-property-losses/"
     },
     {
       "rank": 10,
-      "title": "白海豚遠離　中央氣象署解除海上颱風警報",
-      "dek": "氣象署改發8縣市高溫特報，台灣本週未受任何颱風系統直接威脅。",
-      "url": "https://news.tvbs.com.tw/life/4002686"
+      "title": "西南季風減弱　菲律賓氣象局：呂宋島大部地區天氣好轉",
+      "dek": "《馬尼拉時報》報導，隨西南季風減弱，菲律賓大氣地球物理天文局表示呂宋島多數地區天氣已見改善，結束連日豪雨。",
+      "url": "https://www.manilatimes.net/2026/08/11/news/improved-weather-over-much-of-luzon-pagasa/2402529"
     }
   ]
 }
