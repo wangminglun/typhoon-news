@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T09:07:00+08:00",
+  "generated_at": "2026-08-11T10:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月9日深夜解除白海豚颱風海上警報，目前台灣未受任何颱風警報籠罩，西南氣流正為中南部帶來連日豪雨。",
+  "alert_desc": "中央氣象署已於8月9日深夜解除白海豚颱風海上警報，目前台灣未受任何颱風警報籠罩，改針對南部縣市及蘭嶼發布大雨特報，西南季風正為中南部帶來連日豪雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，未達停班停課標準。白海豚已減弱登陸中國、燦鴻正橫掃日本關東、貝洛則牽動菲律賓季風雨，三者均未直接波及台中；當地主要受西南氣流影響，午後有局部雷陣雨機率。"
+    "text": "台中目前未受颱風警報或停班停課令影響；中央氣象署南部大雨特報範圍集中於南台灣，但台中日前受白海豚外圍環流及西南氣流影響已累積降雨391.5毫米，本週西南季風持續期間午後仍有雷陣雨機率。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚遠離、台灣暫無颱風警報 日本關東今夜將迎「第15號颱風燦鴻」直撲",
-    "dek": "氣象署已解除白海豚海上颱風警報，但西南氣流恐為台灣中南部再帶來長達一週的豪雨，同一時間，日本關東地區正嚴陣以待今晚登陸的強颱燦鴻。",
-    "url": "https://www.ettoday.net/news/20260809/3216231.htm"
+    "title": "罕見西行路徑 颱風燦鴻今晚登陸日本關東",
+    "dek": "氣象單位示警強風豪雨與逾六公尺巨浪將侵襲關東沿岸，台灣則仍受西南季風豪雨籠罩整週。",
+    "url": "https://newsonjapan.com/article/150321.php"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚警報解除 六縣市仍留豪雨警戒",
-      "dek": "中央氣象署已於8月9日深夜解除白海豚海上颱風警報，但外圍環流持續為六縣市帶來豪雨，根據《ETtoday新聞雲》報導。",
-      "url": "https://www.ettoday.net/news/20260809/3216231.htm"
+      "title": "燦鴻今晚登陸關東 恐創當地首見紀錄",
+      "dek": "《日本新聞網》報導，颱風燦鴻預計11日傍晚6時至9時登陸日本茨城縣附近，若登陸福島或茨城，將是當地史上首見的路徑。",
+      "url": "https://newsonjapan.com/article/150321.php"
     },
     {
       "rank": 2,
-      "title": "白海豚動態總整理：風雨趨緩、警報解除、登陸中國",
-      "dek": "NOWnews今日新聞彙整白海豚颱風完整時間軸，記錄其風雨趨緩、警報解除到最終於中國浙江省登陸的過程。",
-      "url": "https://www.nownews.com/news/6864360"
+      "title": "燦鴻逼近日本 強風豪雨侵襲關東東北沿岸",
+      "dek": "《日本時報》報導，颱風燦鴻10日中心氣壓985百帕、最大風速每秒23公尺，預料為關東與東北太平洋沿岸帶來強風與豪雨。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
       "rank": 3,
-      "title": "43年來最遠颱風白海豚離去 專家：西南氣流雨勢恐再下一週",
-      "dek": "氣象專家指出白海豚生成距離台灣之遠堪比43年前紀錄，其離去後西南氣流接棒，恐為台灣再帶來約一週降雨，根據《ETtoday新聞雲》報導。",
-      "url": "https://www.ettoday.net/news/20260810/3216242.htm"
+      "title": "白海豚海警解除 馬祖飆出設站最高溫37度",
+      "dek": "中央社報導，中央氣象署已於9日晚間11時30分解除颱風白海豚海上颱風警報，馬祖8日並創下設站以來最高溫37度。",
+      "url": "https://www.cna.com.tw/news/ahel/202608100003.aspx"
     },
     {
       "rank": 4,
-      "title": "今日天氣預報：嘉義以南全天有雨 台北午後轉濕、雨勢炸到下週",
-      "dek": "NOWnews今日新聞報導，8月11日嘉義以南全天有雨、台北午後變天，西南氣流影響下中南部山區須慎防局部豪雨，雨勢預計持續到下週。",
-      "url": "https://www.nownews.com/news/6864768"
+      "title": "白海豚持續減弱 氣象署預告晚間解除海警",
+      "dek": "經濟日報報導，中央氣象署表示颱風白海豚持續減弱，台灣已脫離暴風圈，海上颱風警報將於當晚11時30分解除。",
+      "url": "https://money.udn.com/money/story/5648/9680780"
     },
     {
       "rank": 5,
-      "title": "白海豚遠離後 西南風接力為中南部帶來豪雨",
-      "dek": "Focus Taiwan報導，儘管颱風警報已解除，氣象署預估西南風仍將在未來數日為台灣中南部帶來顯著降雨。",
+      "title": "白海豚遠離 西南氣流接力為台灣中南部帶來降雨",
+      "dek": "《Focus Taiwan》報導，颱風白海豚離開後，西南風與廣闊低壓系統將為台灣中南部一週內帶來間歇陣雨、雷雨及短延時強降雨。",
       "url": "https://focustaiwan.tw/society/202608100006"
     },
     {
       "rank": 6,
-      "title": "白海豚災損有限 但當局示警大潮將至",
-      "dek": "《台北時報》報導，白海豚颱風整體災損不大，但當局提醒隨颱風之後而來的大潮可能提高沿海地區風險。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
+      "title": "西南季風整週影響台灣 氣象署示警強降雨與溪水暴漲",
+      "dek": "《台北時報》報導，中央氣象署預告西南季風本週將為全台帶來降雨，中南部須留意豪雨、雷擊、強陣風及溪水暴漲風險。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862248"
     },
     {
       "rank": 7,
-      "title": "第15號颱風燦鴻今夜登陸關東 橫掃日本東部強風豪雨齊發",
-      "dek": "日本氣象媒體Weathernews報導，燦鴻預計今晚登陸關東並橫貫東日本，當局已針對土石流與河川氾濫發布警戒。",
-      "url": "https://weathernews.jp/news/202608/110031/"
+      "title": "三颱共舞 「佩亞羅」生成後轉向東北遠離日本",
+      "dek": "日本《ウェザーニュース》報導，第16號颱風佩亞羅在小笠原群島附近生成，11日上午移至南鳥島一帶，預料持續遠離、對日本無直接影響。",
+      "url": "https://weathernews.jp/news/202608/090191/"
     },
     {
       "rank": 8,
-      "title": "燦鴻瞬間風速估達35公尺 山之日直撲關東再橫貫本州",
-      "dek": "據Yahoo!ニュース引述青森電視台ATV報導，燦鴻預計以最大瞬間風速每秒35公尺於11日晚間衝擊關東，並持續向西橫掃本州至12日。",
-      "url": "https://news.yahoo.co.jp/articles/8568eff17ce6d1d61293a0f3b1e0ab72a1086031"
+      "title": "燦鴻路徑罕見 由東向西橫掃日本本州",
+      "dek": "《自由時報》報導，颱風燦鴻以罕見路徑逼近日本，預計11日登陸關東後持續西行，12日將為北陸、近畿及中國地方帶來風雨。",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5535353"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴貝洛生成 恐增強菲律賓西南季風雨勢",
-      "dek": "菲律賓媒體Philstar.com報導，熱帶風暴貝洛已在呂宋島以東海面形成，雖不進入菲律賓責任區，但可能加劇當地西南季風降雨。",
-      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
+      "title": "嘉義以南整日有雨 氣象署估降雨延續至下週",
+      "dek": "《今日新聞》報導，受低壓槽與西南季風影響，11日嘉義以南整日有雨，台北午後轉變天氣，降雨態勢預料持續到下週。",
+      "url": "https://www.nownews.com/news/6864768"
     },
     {
       "rank": 10,
-      "title": "西南季風雨區縮小 菲律賓部分飽和地區仍有淹水風險",
-      "dek": "根據Rappler報導，菲律賓大氣地球物理和天文服務管理局最新資料顯示，季風雨影響範圍已較前幾日縮小，但已飽和地區仍可能發生淹水。",
-      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-tropical-storm-peilou-update-pagasa-forecast-august-10-2026-5pm/"
+      "title": "西南季風籠罩菲律賓 逾20省份持續豪雨成災",
+      "dek": "《Rappler》報導，儘管熱帶低壓Luis與熱帶風暴Maymay已離開菲律賓責任區，西南季風疊加低壓區仍為馬尼拉都會區及逾20省份帶來持續豪雨。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-lpa-update-pagasa-forecast-august-8-2026-5am/"
     }
   ]
 }
