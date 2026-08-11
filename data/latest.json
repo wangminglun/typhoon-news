@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:15:00+08:00",
+  "generated_at": "2026-08-11T13:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，僅因西南風影響對台南市、高雄市、屏東縣及蘭嶼發布大雨特報，颱風燦鴻正以罕見西行路徑登陸日本茨城。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，僅因西南氣流影響對台南、高雄、屏東、台東及蘭嶼發布大雨特報，颱風昌鴻正逼近日本並準備於今晚登陸關東地區。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市未列入本次大雨特報範圍，也無停班停課措施，僅預期午後有局部雷陣雨的一般季風性天氣型態，目前無直接影響。"
+    "text": "台中市未在本次西南氣流大雨特報範圍內（範圍僅台南、高雄、屏東、台東及蘭嶼），目前無風雨警戒，也無停班停課措施，目前無直接影響。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "罕見西行路徑：颱風燦鴻今晚登陸日本關東、橫掃本州入日本海；台灣本島暫無颱風警報",
-    "dek": "西太平洋同時有三個熱帶氣旋活動，但中央氣象署表示，目前對台灣唯一生效的示警僅為西南風帶來的大雨特報，並無颱風警報。",
-    "url": "https://newsonjapan.com/article/150321.php"
+    "title": "颱風昌鴻登陸日本關東 台灣暫無警戒但西南風雨籠罩南部",
+    "dek": "日本氣象廳預期颱風昌鴻將於11日晚間登陸茨城縣一帶，為關東與東北帶來強風豪雨；台灣中央氣象署則表示，目前無海上及陸上颱風警報，僅南部地區因西南氣流發布大雨特報。",
+    "url": "https://asia.nikkei.com/economy/natural-disasters/typhoon-may-make-landfall-in-japan-kanto-region-tuesday-afternoon"
   },
   "items": [
     {
       "rank": 1,
-      "title": "燦鴻今晚登陸茨城 關東迎來罕見西行颱風",
-      "dek": "颱風燦鴻預計台灣時間週二傍晚六至九時在茨城縣登陸，為關東及南東北帶來強風豪雨。",
-      "url": "https://newsonjapan.com/article/150321.php"
+      "title": "颱風昌鴻逼近本州 日本氣象廳預測11日晚間登陸茨城",
+      "dek": "根據日本經濟新聞報導，昌鴻上午10時位於福島縣磐城市以東220公里，中心氣壓985百帕，陣風每小時126公里，向西朝關東移動。",
+      "url": "https://asia.nikkei.com/economy/natural-disasters/typhoon-may-make-landfall-in-japan-kanto-region-tuesday-afternoon"
     },
     {
       "rank": 2,
-      "title": "專家：燦鴻橫越本州路徑「極為罕見」",
-      "dek": "日本氣象廳預測燦鴻登陸後將轉向西行，橫掃整個本州並於8月12日進入日本海。",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5535353"
+      "title": "橫越本州後 昌鴻預料12日於日本海減弱為熱帶低氣壓",
+      "dek": "日本時報報導指出，昌鴻在生命週期後段仍罕見地維持西行路徑，直撲太平洋沿岸後才轉弱。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
       "rank": 3,
-      "title": "茨城、福島罕見面臨颱風直接侵襲 地方政府展開防颱整備",
-      "dek": "兩縣政府提前部署，因當地少有由東向西侵襲、再轉北彎的颱風路徑經驗。",
-      "url": "https://www.ettvamerica.com/News/Article?i=399461"
+      "title": "盂蘭盆節返鄉潮遇颱風 關東東北鐵路航空大亂",
+      "dek": "News On Japan報導，昌鴻登陸前已導致關東與東北地區交通大幅延誤，沿岸並有長浪及局部淹水疑慮。",
+      "url": "https://newsonjapan.com/article/150321.php"
     },
     {
       "rank": 4,
-      "title": "氣象業者預估燦鴻登陸後將顯著減弱",
-      "dek": "Weathernews預測燦鴻橫越本州、進入日本海後風力將大幅減弱，對太平洋沿岸威脅解除。",
-      "url": "https://sea.weathernews.com/resources/202608/189"
+      "title": "颱風白海豚移入中國內陸 於安徽持續減弱",
+      "dek": "綜合中央社等報導，白海豚11日凌晨5時中心位於安徽安慶，未來數日仍將為中國多省帶來強風豪雨。",
+      "url": "https://zh.wikipedia.org/wiki/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A_(2026%E5%B9%B4)"
     },
     {
       "rank": 5,
-      "title": "台灣解除白海豚海上颱風警報 風暴於中國內陸持續減弱",
-      "dek": "中央氣象署已於8月9日晚間解除海上颱風警報，白海豚在浙江登陸後持續減弱。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533433"
+      "title": "氣象署解除白海豚海上警報 生成位置創1958年來最東紀錄",
+      "dek": "根據ETtoday報導，白海豚警報已於8月9日晚間11時30分解除，其生成位置超越1983年艾倫颱風，為記錄以來最偏東。",
+      "url": "https://www.ettoday.net/news/20260809/3216231.htm"
     },
     {
       "rank": 6,
-      "title": "白海豚重創浙江、上海 逾1300航班取消",
-      "dek": "風暴造成台州約39萬人、上海逾3萬人疏散，並引發淹水與土石流風險。",
-      "url": "https://www.cbc.ca/news/world/typhoon-9.7301432"
+      "title": "台灣目前無颱風警報 琵鷺及熱帶低壓均無直接威脅",
+      "dek": "TVBS綜合報導確認，截至11日台灣本島無海上或陸上颱風警報，輕颱琵鷺與太平洋熱帶低氣壓皆未對台構成威脅。",
+      "url": "https://news.tvbs.com.tw/life/4005210"
     },
     {
       "rank": 7,
-      "title": "第三颱「佩亞羅」生成 西太平洋罕見三颱共存",
-      "dek": "佩亞羅在關島、塞班島附近形成，預測路徑轉向東北，不威脅任何陸地。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "西南氣流發威 中央氣象署對南部發布大雨特報",
+      "dek": "根據Newtalk新聞報導，氣象署11日凌晨發布大雨特報，提醒台南、高雄、屏東、台東及蘭嶼防範短延時強降雨與淹水。",
+      "url": "https://newtalk.tw/news/view/2026-08-11/1052537"
     },
     {
       "rank": 8,
-      "title": "佩亞羅遠離菲律賓責任區 惟恐強化西南季風",
-      "dek": "PAGASA表示佩亞羅已在菲律賓責任區外且持續遠離，但其環流可能加劇當地西南季風降雨。",
-      "url": "https://www.onenews.ph/articles/pagasa-heavy-rainfall-to-continue-due-to-monsoon-tropical-storm-peilou-being-monitored-outside-par"
+      "title": "熱帶風暴琵鷺持續減弱 遠離菲律賓責任區",
+      "dek": "菲律賓星報報導，琵鷺目前位於呂宋島以東約3千公里，菲律賓氣象單位預期其不會再影響菲律賓或台灣。",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
     },
     {
       "rank": 9,
-      "title": "西南風發威 中央氣象署對台南、高雄等地發布大雨特報",
-      "dek": "氣象署8月11日凌晨發布大雨特報，警告台南、高雄、屏東與蘭嶼恐有短延時強降雨。",
-      "url": "https://newtalk.tw/news/view/2026-08-11/1052548"
+      "title": "鯨魚颱風與西南季風夾擊 菲律賓逾58萬人受災",
+      "dek": "東協人道救援協調中心週報指出，熱帶氣旋鯨魚（Maymay）與增強季風已致8人死亡、逾3萬2千人撤離、近4千間教室受損。",
+      "url": "https://ahacentre.org/weekly-disaster-update/weekly-disaster-update-3-9-august-2026/"
     },
     {
       "rank": 10,
-      "title": "西南季風持續籠罩呂宋 儘管佩亞羅已遠離",
-      "dek": "PAGASA報告顯示，呂宋多地仍因西南季風出現強降雨與水患風險，範圍略有縮小。",
-      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-tropical-storm-peilou-update-pagasa-forecast-august-10-2026-5pm/"
+      "title": "日本外海新擾動96W成形 氣象專家密切觀察",
+      "dek": "太平洋災害中心表示，源自季風槽的96W預料朝日本北部移動，昌鴻離境後有機會發展為颱風。",
+      "url": "https://www.pdc.org/weather-wall-updates/retiring-tropical-cyclone-12w-dolphin-tropical-cyclone-14w-chan-hom-tropical-cyclone-13w-peilou-invest-98w-pacific/"
     }
   ]
 }
