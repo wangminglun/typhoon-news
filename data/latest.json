@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T21:06:00+08:00",
+  "generated_at": "2026-08-11T22:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；先前針對白海豚颱風發布的海上警報已於8月9日晚間11時30分解除，台灣目前無颱風威脅。",
+  "alert_desc": "中央氣象署目前未針對任何風暴發布海上或陸上颱風警報；先前針對白海豚颱風發布的海上警報已於8月9日晚間11時30分解除，台灣目前無颱風威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受颱風直接影響，也未發布停班停課；白海豚颱風殘餘水氣主要侵襲台灣北部及馬祖地區，未觸發台中地區任何警戒。"
+    "text": "台中目前未受颱風直接影響，今日受一般季風雨帶影響，降雨機率約77%，氣溫介於22至26度，並未因颱風發布停班停課。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "燦鴻颱風登陸茨城 創1951年來首例，關東東北交通癱瘓",
-    "dek": "在燦鴻重創日本本州之際，佩露颱風與另一個醞釀中的熱帶系統正形成罕見「三颱共存」局面，而台灣本島目前未受任何颱風警報影響。",
-    "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+    "title": "颱風「燦鴻」登陸茨城 創日本75年觀測史首例",
+    "dek": "氣象紀錄以來首個直撲茨城縣的颱風重創關東與東北交通，日本氣象廳同時示警新系統恐週末再襲關東。",
+    "url": "https://www.nippon.com/en/news/yjj2026081100588/typhoon-chan-hom-makes-landfall-near-tokyo.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "燦鴻颱風登陸東京近郊 創茨城1951年來首例",
-      "dek": "《日本時報》報導，燦鴻颱風於8月11日晚間在茨城縣登陸，為當地自1951年以來首次出現颱風登陸紀錄，強風豪雨侵襲關東與東北南部。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+      "title": "燦鴻登陸茨城 日本75年來首見",
+      "dek": "Nippon.com引述報導指出，燦鴻於8月11日晚間8時登陸茨城縣南部，中心氣壓980百帕，最大風速每秒25公尺，陣風達35公尺，為1951年日本氣象觀測以來首例。",
+      "url": "https://www.nippon.com/en/news/yjj2026081100588/typhoon-chan-hom-makes-landfall-near-tokyo.html"
     },
     {
       "rank": 2,
-      "title": "颱風攪亂盂蘭盆返鄉潮 全日空取消58班機",
-      "dek": "News On Japan報導，因應第15號颱風燦鴻逼近東京地區，全日空（ANA）取消58班航班、日本航空（JAL）取消4班，影響羽田與成田往返福岡、廣島、札幌及大阪等地航線。",
-      "url": "https://newsonjapan.com/article/150322.php"
+      "title": "Weathernews：燦鴻登陸路徑罕見 統計史上首次",
+      "dek": "Weathernews報導指出，燦鴻以罕見的由東向西路徑登陸茨城縣南部，預計今夜通過南關東，於8月12日凌晨前抵達東海地區。",
+      "url": "https://weathernews.jp/news/202608/110191/"
     },
     {
       "rank": 3,
-      "title": "燦鴻逼近東京 航班與鐵路大規模停駛",
-      "dek": "美聯社電稿報導，JR東日本因燦鴻颱風暫停部分常磐線班次，往返茨城大洗與北海道苫小牧的渡輪也連續兩天停駛，東京都會區交通嚴陣以待。",
-      "url": "https://www.aol.com/news/flights-trains-canceled-tokyo-area-015706227.html"
+      "title": "第15號颱風癱瘓關東東北交通",
+      "dek": "News On Japan報導，燦鴻接近與登陸已導致大東京地區鐵路、高速公路及航班大範圍受阻，東海與東北太平洋沿岸至12日仍將持續受雷雨侵襲。",
+      "url": "https://newsonjapan.com/article/150321.php"
     },
     {
       "rank": 4,
-      "title": "日本以南熱帶低氣壓醞釀成形 恐成第17號颱風",
-      "dek": "日本氣象新聞（Weathernews）報導，日本氣象廳預測，一個中心氣壓約998百帕、風速15公尺/秒的熱帶低氣壓將在24小時內增強為颱風，若成形將編號第17號，與燦鴻、佩露形成罕見「三颱共存」局面。",
-      "url": "https://weathernews.jp/news/202608/110201/"
+      "title": "加拿大航空、西捷航空開放日本航線改期",
+      "dek": "據Open Jaw報導，加拿大航空與西捷航空因燦鴻造成東京周邊航班中斷，宣布對日本航線旅客提供彈性改期措施。",
+      "url": "https://openjaw.com/newsroom/airline/2026/08/11/air-canada-and-westjet-open-rebookings-after-typhoon-hits-japan/"
     },
     {
       "rank": 5,
-      "title": "第16號颱風「佩露」生成於小笠原海域 對日本本土無直接威脅",
-      "dek": "日本氣象新聞與livedoor News報導，佩露颱風8月9日在小笠原群島附近生成，路徑朝東邊的南鳥島、威克島海域移動，預計約8月12日在威克島附近減弱為熱帶低氣壓，對日本本土無直接影響。",
-      "url": "https://weathernews.jp/news/202608/090191/"
+      "title": "日本氣象廳：南方新系統24小時內恐成第17號颱風",
+      "dek": "Weathernews報導，日本南方一熱帶低氣壓（中心氣壓998百帕、風速每秒15公尺）預料24小時內增強為颱風，路徑恐類似燦鴻，週末逼近關東。",
+      "url": "https://weathernews.jp/news/202608/110201/"
     },
     {
       "rank": 6,
-      "title": "西南季風「哈巴岸」為呂宋帶來連日降雨",
-      "dek": "菲律賓《菲律賓星報》（Philstar.com）引述菲律賓大氣地球物理天文局（PAGASA）報導，西南季風「哈巴岸」為馬尼拉都會區、南他加祿及呂宋大部分地區帶來多雲降雨，怒沃埃西哈省局部出現中到大雨及強風，目前菲律賓責任區內無熱帶氣旋。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/11/2548546/august-11-habagat-bring-rains-across-luzon-pagasa"
+      "title": "熱帶風暴佩露遠離菲律賓 脫離菲國責任區",
+      "dek": "AccuWeather綜合PAGASA資料報導，佩露現位於呂宋島以東約2,765公里處，持續向東減弱移動，已脫離菲律賓責任區，暫無直接威脅。",
+      "url": "https://www.accuweather.com/en/hurricane/west-pacific/peilou-2026"
     },
     {
       "rank": 7,
-      "title": "佩露颱風外圍增強西南季風 菲律賓仍有淹水風險",
-      "dek": "《拉普勒》（Rappler）報導，PAGASA指出佩露颱風位於呂宋以東約3,000公里處並持續遠離菲律賓、不會進入責任區，但其外圍環流持續增強西南季風，呂宋部分地區淹水風險依然存在。",
-      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-tropical-storm-peilou-update-pagasa-forecast-august-10-2026-5pm/"
+      "title": "白海豚打破上海154年單日雨量紀錄後減弱",
+      "dek": "東森新聞報導，白海豚8月9日二度登陸浙江後，為上海徐家匯測站帶來24小時316.1毫米降雨，創1873年設站以來單日紀錄，此後持續內陸減弱。",
+      "url": "https://news.ebc.net.tw/news/living/565614"
     },
     {
       "rank": 8,
-      "title": "白海豚颱風二度登陸浙江 上海疏散逾21萬人",
-      "dek": "《星島日報》（美國版）與新唐人電視台報導，白海豚颱風先在浙江台州登陸，中國分級風力達14級，造成海水倒灌、電線杆倒塌與淹水，當晚又在溫州附近二度登陸；上海疏散逾21萬人，台州疏散近40萬人。",
-      "url": "https://www.singtaousa.com/2026/08/09/news/china/typhoon-white-dolphin-lands-zhejiang-2/"
+      "title": "白海豚兩度登陸浙江 上海近千航班取消",
+      "dek": "《世界新聞網》報導，白海豚以14級陣風二度登陸浙江玉環、樂清，福建、浙江、上海三地逾百萬人疏散，上海兩機場合計取消近千航班。",
+      "url": "https://www.worldjournal.com/wj/story/121343/9681120"
     },
     {
       "rank": 9,
-      "title": "白海豚颱風減弱 中央氣象署解除海上颱風警報",
-      "dek": "《ETtoday新聞雲》報導，中央氣象署於8月9日晚間11時30分解除白海豚颱風海上警報，因該颱風登陸中國內陸後持續減弱；台灣本島全程未發布陸上警報，僅6縣市因外圍雨帶發布豪雨特報。",
-      "url": "https://www.ettoday.net/news/20260809/3216231.htm"
+      "title": "白海豚遠離 氣象署11時30分解除海上颱風警報",
+      "dek": "壹蘋新聞網報導，中央氣象署於8月9日晚間11時30分解除白海豚海上颱風警報，當時其中心已北移至馬祖以北約190公里並持續減弱。",
+      "url": "https://news.nextapple.com/politics/20260809/3CDBB847C92F4C31719D97D670A3C0A8"
     },
     {
       "rank": 10,
-      "title": "2026年西北太平洋颱風季恐創史上最強紀錄之一",
-      "dek": "《保險期刊》（Insurance Journal）報導，受聖嬰現象增強影響，2026年西北太平洋颱風季生成頻率較歷史平均高出約六成，預估全季將有約20個颱風生成，其中13個可能達強颱等級。",
-      "url": "https://www.insurancejournal.com/news/international/2026/08/11/881016.htm"
+      "title": "PAGASA：西南季風雨勢未來數日將逐漸趨緩",
+      "dek": "《馬尼拉公報》引述PAGASA報導，受西南季風影響，三描禮士、巴丹及民都洛西部一帶降雨達100至200毫米，預料將逐漸減弱，但仍有土石流與淹水風險。",
+      "url": "https://mb.com.ph/2026/08/10/habagat-rains-to-gradually-ease-in-next-few-days-says-pagasa"
     }
   ]
 }
