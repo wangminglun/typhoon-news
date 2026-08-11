@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:09:00+08:00",
+  "generated_at": "2026-08-11T21:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "台灣中央氣象署目前未對任何颱風發布海上或陸上警報；先前於8月7日下午2時30分針對海豚颱風發布的海上颱風警報，已於8月9日晚間11時30分解除，且期間並未發布陸上警報。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；先前針對白海豚颱風發布的海上警報已於8月9日晚間11時30分解除，台灣目前無颱風威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何系統對台中造成直接影響；海豚颱風逼近期間（8月8日至9日），台中降雨量並未達到停班停課標準。"
+    "text": "台中目前未受颱風直接影響，也未發布停班停課；白海豚颱風殘餘水氣主要侵襲台灣北部及馬祖地區，未觸發台中地區任何警戒。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風燦鴻打破75年紀錄　罕見東側路徑直撲東京關東",
-    "dek": "就在燦鴻以史上罕見的東側路徑撲向日本關東之際，減弱後的海豚仍在中國內陸引發嚴重洪災，菲律賓也因西南季風增強釀成至少19人死亡，而台灣目前並無任何颱風警報生效。",
-    "url": "https://www.nippon.com/en/news/yjj2026081100246/"
+    "title": "燦鴻颱風登陸茨城 創1951年來首例，關東東北交通癱瘓",
+    "dek": "在燦鴻重創日本本州之際，佩露颱風與另一個醞釀中的熱帶系統正形成罕見「三颱共存」局面，而台灣本島目前未受任何颱風警報影響。",
+    "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風燦鴻直逼東京　預計週二深夜登陸關東",
-      "dek": "根據《日本網》（Nippon.com）引述時事社報導，燦鴻中心氣壓985百帕，最大陣風每小時126公里，預計週二深夜於茨城縣一帶登陸。",
-      "url": "https://www.nippon.com/en/news/yjj2026081100246/"
+      "title": "燦鴻颱風登陸東京近郊 創茨城1951年來首例",
+      "dek": "《日本時報》報導，燦鴻颱風於8月11日晚間在茨城縣登陸，為當地自1951年以來首次出現颱風登陸紀錄，強風豪雨侵襲關東與東北南部。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 2,
-      "title": "75年來首見　颱風恐從正東方向直撲日本關東",
-      "dek": "《日經亞洲》報導，若燦鴻在福島或茨城登陸，將是1951年有紀錄以來首個從正東方向直接侵襲日本本州的颱風，日本氣象廳已對關東、東北發布強風豪雨警報。",
-      "url": "https://asia.nikkei.com/economy/natural-disasters/typhoon-may-make-landfall-in-japan-kanto-region-tuesday-afternoon"
+      "title": "颱風攪亂盂蘭盆返鄉潮 全日空取消58班機",
+      "dek": "News On Japan報導，因應第15號颱風燦鴻逼近東京地區，全日空（ANA）取消58班航班、日本航空（JAL）取消4班，影響羽田與成田往返福岡、廣島、札幌及大阪等地航線。",
+      "url": "https://newsonjapan.com/article/150322.php"
     },
     {
       "rank": 3,
-      "title": "海豚颱風深入中國內陸　北京估恐現全年三分之一雨量",
-      "dek": "《NBC新聞》報導，海豚減弱後長驅直入湖北等地，北京啟動最高等級防汛應變機制，河南並發布山洪紅色預警。",
-      "url": "https://www.nbcnews.com/world/asia/typhoon-dolphin-threatens-central-china-hubei-province-rcna591870"
+      "title": "燦鴻逼近東京 航班與鐵路大規模停駛",
+      "dek": "美聯社電稿報導，JR東日本因燦鴻颱風暫停部分常磐線班次，往返茨城大洗與北海道苫小牧的渡輪也連續兩天停駛，東京都會區交通嚴陣以待。",
+      "url": "https://www.aol.com/news/flights-trains-canceled-tokyo-area-015706227.html"
     },
     {
       "rank": 4,
-      "title": "上海取消逾1300航班　海豚颱風重創中國東部",
-      "dek": "《CBC新聞》報導，海豚登陸中國東部沿海帶來強風豪雨，上海取消約1300班航班，被形容為今年侵襲中國最強的颱風。",
-      "url": "https://www.cbc.ca/news/world/typhoon-9.7301432"
+      "title": "日本以南熱帶低氣壓醞釀成形 恐成第17號颱風",
+      "dek": "日本氣象新聞（Weathernews）報導，日本氣象廳預測，一個中心氣壓約998百帕、風速15公尺/秒的熱帶低氣壓將在24小時內增強為颱風，若成形將編號第17號，與燦鴻、佩露形成罕見「三颱共存」局面。",
+      "url": "https://weathernews.jp/news/202608/110201/"
     },
     {
       "rank": 5,
-      "title": "海豚颱風襲中國東岸　逾百萬人緊急撤離",
-      "dek": "《CBC新聞》報導，中國多省因海豚颱風帶來洪水與土石流風險，已緊急撤離超過一百萬人。",
-      "url": "https://www.cbc.ca/news/world/china-typhoon-dolphin-evacuations-9.7300965"
+      "title": "第16號颱風「佩露」生成於小笠原海域 對日本本土無直接威脅",
+      "dek": "日本氣象新聞與livedoor News報導，佩露颱風8月9日在小笠原群島附近生成，路徑朝東邊的南鳥島、威克島海域移動，預計約8月12日在威克島附近減弱為熱帶低氣壓，對日本本土無直接影響。",
+      "url": "https://weathernews.jp/news/202608/090191/"
     },
     {
       "rank": 6,
-      "title": "海豚颱風減弱　台灣中央氣象署解除海上警報",
-      "dek": "《中央社》（Focus Taiwan）報導，中央氣象署於8月7日對海豚發布海上颱風警報，隨海豚減弱並於浙江登陸，已在8月9日晚間11時30分解除警報，台灣本島未受直接衝擊。",
-      "url": "https://focustaiwan.tw/society/202608090011"
+      "title": "西南季風「哈巴岸」為呂宋帶來連日降雨",
+      "dek": "菲律賓《菲律賓星報》（Philstar.com）引述菲律賓大氣地球物理天文局（PAGASA）報導，西南季風「哈巴岸」為馬尼拉都會區、南他加祿及呂宋大部分地區帶來多雲降雨，怒沃埃西哈省局部出現中到大雨及強風，目前菲律賓責任區內無熱帶氣旋。",
+      "url": "https://www.philstar.com/headlines/weather/2026/08/11/2548546/august-11-habagat-bring-rains-across-luzon-pagasa"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴佩露離開菲律賓責任區　仍恐增強西南季風",
-      "dek": "《GMA新聞網》報導，佩露已離開菲律賓大氣地球物理天文局（PAGASA）監測範圍，向東遠離呂宋島，但可能持續增強西南季風雨勢。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
+      "title": "佩露颱風外圍增強西南季風 菲律賓仍有淹水風險",
+      "dek": "《拉普勒》（Rappler）報導，PAGASA指出佩露颱風位於呂宋以東約3,000公里處並持續遠離菲律賓、不會進入責任區，但其外圍環流持續增強西南季風，呂宋部分地區淹水風險依然存在。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-tropical-storm-peilou-update-pagasa-forecast-august-10-2026-5pm/"
     },
     {
       "rank": 8,
-      "title": "碧瑤市山崩罹難人數增至10人",
-      "dek": "《GMA新聞網》報導，菲律賓碧瑤市吉沙德蘇容格里連日豪雨引發山崩，罹難人數已增至10人，其中包含5名學生。",
-      "url": "https://www.gmanetwork.com/news/topstories/regions/998077/death-toll-in-baguio-landslide-now-10-dead-baguio-pio/story/"
+      "title": "白海豚颱風二度登陸浙江 上海疏散逾21萬人",
+      "dek": "《星島日報》（美國版）與新唐人電視台報導，白海豚颱風先在浙江台州登陸，中國分級風力達14級，造成海水倒灌、電線杆倒塌與淹水，當晚又在溫州附近二度登陸；上海疏散逾21萬人，台州疏散近40萬人。",
+      "url": "https://www.singtaousa.com/2026/08/09/news/china/typhoon-white-dolphin-lands-zhejiang-2/"
     },
     {
       "rank": 9,
-      "title": "西南季風及熱帶氣旋接連侵襲　菲律賓已知19人罹難",
-      "dek": "《馬尼拉公報》旗下Tempo報導，增強版西南季風（habagat）疊加熱帶氣旋路易斯與梅梅，已在菲律賓造成至少19人死亡，財產損失達數十億披索。",
-      "url": "https://tempo.mb.com.ph/2026/08/11/habagat-tropical-cyclones-leave-19-dead-billions-in-property-losses/"
+      "title": "白海豚颱風減弱 中央氣象署解除海上颱風警報",
+      "dek": "《ETtoday新聞雲》報導，中央氣象署於8月9日晚間11時30分解除白海豚颱風海上警報，因該颱風登陸中國內陸後持續減弱；台灣本島全程未發布陸上警報，僅6縣市因外圍雨帶發布豪雨特報。",
+      "url": "https://www.ettoday.net/news/20260809/3216231.htm"
     },
     {
       "rank": 10,
-      "title": "西南季風減弱　菲律賓氣象局：呂宋島大部地區天氣好轉",
-      "dek": "《馬尼拉時報》報導，隨西南季風減弱，菲律賓大氣地球物理天文局表示呂宋島多數地區天氣已見改善，結束連日豪雨。",
-      "url": "https://www.manilatimes.net/2026/08/11/news/improved-weather-over-much-of-luzon-pagasa/2402529"
+      "title": "2026年西北太平洋颱風季恐創史上最強紀錄之一",
+      "dek": "《保險期刊》（Insurance Journal）報導，受聖嬰現象增強影響，2026年西北太平洋颱風季生成頻率較歷史平均高出約六成，預估全季將有約20個颱風生成，其中13個可能達強颱等級。",
+      "url": "https://www.insurancejournal.com/news/international/2026/08/11/881016.htm"
     }
   ]
 }
