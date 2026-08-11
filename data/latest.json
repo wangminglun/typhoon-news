@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T14:08:00+08:00",
+  "generated_at": "2026-08-11T15:06:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，僅針對南部地區因西南氣流影響發布大雨特報；颱風昌鴻預計於今晚登陸日本關東地區。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；颱風昌鴻以罕見東側路徑逼近日本，預計今晚登陸關東，台灣則轉受西南氣流影響持續降雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中地區目前未受到任何颱風系統直接影響，也未發布相關警報或停班停課措施，目前無直接影響。"
+    "text": "台中地區目前無颱風系統直接威脅，惟8月8日至9日曾因白海豚颱風外圍環流影響，在雪山橋測得392.5毫米雨量；目前無風雨警報，亦無停班停課措施，目前無直接影響。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風「昌鴻」今晚襲日本關東 台灣未發布颱風警報僅南部有大雨特報",
-    "dek": "在「昌鴻」以罕見高緯度路徑逼近日本本州之際，中央氣象署表示，目前尚無颱風直接威脅台灣，僅南部因西南氣流影響發布大雨特報。",
-    "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
+    "title": "昌鴻颱風罕見東路徑今晚登陸日本關東 台灣暫無威脅、西南氣流續掀強降雨",
+    "dek": "今年第15號颱風昌鴻以少見路徑逼近日本茨城、福島外海，預計最快今日傍晚登陸；台灣則在白海豚颱風遠離後轉受西南氣流影響，中央氣象署目前未對台發布任何颱風警報。",
+    "url": "https://newsonjapan.com/article/150321.php"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風昌鴻今晚料登陸日本關東地區",
-      "dek": "《日本時報》報導，昌鴻預計於十一日晚間六時至九時登陸茨城縣一帶，為關東與東北南部帶來強風豪雨與高浪。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
+      "title": "昌鴻颱風今晚登陸茨城 恐創當地登陸紀錄",
+      "dek": "News On Japan報導，昌鴻颱風預計今日傍晚6時至9時登陸日本茨城縣，若成真將是福島或茨城首見的颱風登陸紀錄。",
+      "url": "https://newsonjapan.com/article/150321.php"
     },
     {
       "rank": 2,
-      "title": "颱風恐於週二下午登陸日本關東",
-      "dek": "《日經亞洲》分析指出，由於首都圈人口稠密且地勢平坦，昌鴻登陸後可能對經濟與基礎建設造成衝擊。",
-      "url": "https://asia.nikkei.com/economy/natural-disasters/typhoon-may-make-landfall-in-japan-kanto-region-tuesday-afternoon"
+      "title": "關東東北恐降180毫米豪雨 交通拉警報",
+      "dek": "《日本時報》報導，昌鴻颱風逼近日本，東北地區24小時雨量估達180毫米，當局警告鐵路、高速公路與航班恐受影響。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
       "rank": 3,
-      "title": "15號颱風打亂盂蘭盆節返鄉潮 全日空取消58航班",
-      "dek": "News On Japan報導，昌鴻已導致全日空取消五十八架次航班，磐越線於茨城、福島、宮城之間的鐵路服務也提前停駛。",
+      "title": "盂蘭盆節撞颱風 全日空取消58航班",
+      "dek": "News On Japan報導，昌鴻颱風衝擊日本盂蘭盆節返鄉潮，全日空取消58架次航班、日航取消4架次，JR東日本部分路線停駛。",
       "url": "https://newsonjapan.com/article/150322.php"
     },
     {
       "rank": 4,
-      "title": "昌鴻路徑罕見挑戰高緯度 今晚登陸日本",
-      "dek": "中時新聞網報導，昌鴻自威克島附近生成後一路北上仍未消散，路徑異常罕見，預計今晚登陸日本。",
-      "url": "https://www.chinatimes.com/realtimenews/20260811001278-260405"
+      "title": "白海豚颱風重創北台灣 5傷逾200件災情",
+      "dek": "Focus Taiwan報導，白海豚颱風為北台灣帶來豪雨強風，造成5人受傷、逾200件災情通報，含26起已退去的局部淹水。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     },
     {
       "rank": 5,
-      "title": "昌鴻逼近日本路徑罕見 預計今登陸關東後轉向西",
-      "dek": "自由時報報導，昌鴻預計今日登陸關東地區後持續向西橫越本州，最快週三減弱為熱帶低氣壓進入日本海。",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5535353"
+      "title": "白海豚登陸中國解除海警 台灣轉受西南風影響",
+      "dek": "Focus Taiwan報導，白海豚以151公里時速登陸中國浙江台州，氣象署解除海警，未來一週台灣改由西南氣流主導降雨。",
+      "url": "https://focustaiwan.tw/society/202608100006"
     },
     {
       "rank": 6,
-      "title": "逾百萬人撤離 颱風白海豚重創中國大陸後轉為殘留低壓",
-      "dek": "半島電視台報導，今年侵襲中國最強颱風白海豚已造成浙江、上海與福建逾百萬人撤離，目前已減弱為殘留低壓持續影響安徽等地。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+      "title": "白海豚災情有限 農曆大潮將至添變數",
+      "dek": "《台北時報》報導，白海豚颱風對台灣整體災情有限，但提醒近期農曆大潮來臨，恐使沿海風險升高。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
     },
     {
       "rank": 7,
-      "title": "新颱風琵鷺生成 三颱共舞但對台灣無直接影響",
-      "dek": "風傳媒報導，今年第十六號風暴琵鷺已於九日生成，路徑將轉向東北遠離台灣，不會造成直接威脅。",
-      "url": "https://www.storm.mg/lifestyle/11155144"
-    },
-    {
-      "rank": 8,
-      "title": "氣象署發布南部大雨特報 提醒留意路面積水",
-      "dek": "Newtalk新聞報導，中央氣象署已於十一日凌晨零時五分對台南、高雄、屏東與台東發布大雨特報，目前無颱風警報。",
-      "url": "https://newtalk.tw/news/view/2026-08-11/1052537"
-    },
-    {
-      "rank": 9,
-      "title": "西南氣流本週持續為台灣中南部帶來降雨",
-      "dek": "《台北時報》報導，隨著颱風白海豚警報解除，低壓槽與西南季風本週將主導台灣天氣，中南部有局部淹水與雷擊風險。",
+      "title": "無颱風直接威脅 中南部一週仍多雨",
+      "dek": "《台北時報》報導，氣象署預測未來一週台灣中南部將持續受西南氣流影響降雨，目前無颱風系統直接威脅本島。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862248"
     },
     {
+      "rank": 8,
+      "title": "小油坑3天降雨410毫米 氣象署估不穩定天氣再延一週",
+      "dek": "自由時報報導，氣象署解除白海豚海警後，陽明山小油坑累積雨量達410.5毫米，未來一週天氣仍受殘留水氣與西南氣流影響。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
+    },
+    {
+      "rank": 9,
+      "title": "三颱共存曾現 氣象署曾指僅白海豚影響台灣",
+      "dek": "聯合新聞網報導，8月初白海豚、鯨魚、昌鴻三颱共存，氣象署當時表示僅白海豚對台灣有直接影響，昌鴻將朝日本移動。",
+      "url": "https://udn.com/news/story/7266/9672555"
+    },
+    {
       "rank": 10,
-      "title": "西南季風增強菲律賓降雨 熱帶氣旋未進入責任區",
-      "dek": "GMA新聞網報導，菲律賓大氣地球物理暨天文服務署表示，一熱帶氣旋仍在菲律賓責任區以外海域，正增強西南季風為呂宋帶來降雨。",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/998069/live-updates-habagat-and-its-effects-on-tuesday-away-tuesday-august-11-2026/story/"
+      "title": "日本氣象協會示警：8月恐再迎4至7颱風",
+      "dek": "日本氣象協會（Japan Weather Association）預測今年8月將有4至7個颱風生成，3至6個可能接近日本，高於歷年平均。",
+      "url": "https://weather-jwa.jp/en/news/articles/post13375"
     }
   ]
 }
