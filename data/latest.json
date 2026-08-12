@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T11:09:00+08:00",
+  "generated_at": "2026-08-12T12:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報；先前因颱風白海豚發布的海上警報已於8月9日深夜解除，此後未再發布新警報。",
+  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報；第15號颱風昌鴻、第16號颱風琵鷺與第17號颱風南卡皆朝日本方向移動，對台灣本島無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，僅可能受西南季風影響出現午後零星雷陣雨，並無因颱風而停班停課之基礎。"
+    "text": "目前無直接影響。台中未受任何現行颱風系統直接影響，僅可能受西南氣流牽動出現午後雷陣雨，無因颱風而停班停課之情事。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "南卡颱風生成東移　台灣暫無颱風威脅",
-    "dek": "昌鴻減弱為熱帶低壓、白鴿持續減弱之際，西北太平洋新生成的第17號颱風「南卡」預測將朝東北方向遠離台灣，中央氣象署目前未對台灣發布任何颱風警報。",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260812de43369"
+    "title": "西太平洋「三颱共舞」　昌鴻登陸日本茨城創史上首見紀錄　台灣本島暫無威脅",
+    "dek": "南卡颱風今日清晨生成，與昌鴻、琵鷺並列西北太平洋上空三個熱帶氣旋，其中昌鴻已在日本茨城縣登陸、寫下當地1951年有紀錄以來首見紀錄，氣象單位強調三颱路徑均朝日本而去，對台灣沒有直接威脅，但西南氣流仍將為中南部帶來午後強降雨。",
+    "url": "https://www.ettoday.net/news/20260812/3217647.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "第17號颱風「南卡」生成 逼近小笠原群島海域",
-      "dek": "日本氣象廳證實，熱帶低壓已於8月12日上午發展為今年第17號颱風南卡，為本月第4個颱風。",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43369"
+      "title": "「南卡」颱風最快今生成 預估路徑往日本移動",
+      "dek": "硫磺島南方熱帶性低氣壓預計增強為今年第17號颱風南卡，路徑朝日本方向前進。",
+      "url": "https://www.ettoday.net/news/20260812/3217562.htm"
     },
     {
       "rank": 2,
-      "title": "南卡颱風生成路徑分析 創歷史第三快紀錄",
-      "dek": "Weathernews報導指出，南卡颱風的生成速度為歷史同期第三快，目前路徑仍具不確定性。",
-      "url": "https://weathernews.jp/news/202608/110231/"
+      "title": "快訊／南卡颱風正式生成 最新路徑持續遠離台灣朝日本而去",
+      "dek": "南卡颱風於今日上午8時生成，中心氣壓992百帕，預測路徑不影響台灣、直奔日本。",
+      "url": "https://www.ettoday.net/news/20260812/3217647.htm"
     },
     {
       "rank": 3,
-      "title": "昌鴻減弱為熱帶低壓 南卡同步成形",
-      "dek": "聯合新聞網報導，颱風昌鴻登陸日本茨城後降級為熱帶低壓，同一海域隨即形成新颱風南卡。",
-      "url": "https://udn.com/news/story/7266/9685767"
+      "title": "西北太平洋恐現「3颱共舞」 南卡最快24小時內生成 對台影響出爐",
+      "dek": "南卡颱風醞釀生成之際，與昌鴻、琵鷺並列，氣象專家研判三颱均不威脅台灣。",
+      "url": "https://www.ctwant.com/article/493102/"
     },
     {
       "rank": 4,
-      "title": "南卡颱風路徑預測遠離台灣 全台仍有連日強降雨",
-      "dek": "Next Apple報導，南卡颱風中心氣壓992百帕，預計東北東移動不影響台灣，但季風降雨仍將持續一週。",
-      "url": "https://news.nextapple.com/life/20260812/6FC1AC9706A92F96654F35E90C794DD3"
+      "title": "三颱共存！繼多爾芬、鯨魚後昌鴻颱風生成 氣象署揭對台影響",
+      "dek": "中央氣象署說明三個熱帶氣旋同時繞行季風槽的成因，強調台灣本島無直接威脅但西南氣流將帶來降雨。",
+      "url": "https://udn.com/news/story/7266/9672555"
     },
     {
       "rank": 5,
-      "title": "昌鴻殘留水氣持續威脅日本 強降雨警報未解除",
-      "dek": "Weathernews報導，昌鴻降級後其水氣仍為日本東北、關東及西日本帶來淹水風險。",
-      "url": "https://weathernews.jp/news/202608/120031/"
+      "title": "颱風昌鴻登陸日本茨城南部 日本氣象廳：史上首見",
+      "dek": "昌鴻因遭高壓系統阻擋而轉為罕見偏西路徑，成為茨城縣自1951年有紀錄以來首個登陸颱風。",
+      "url": "https://udn.com/news/story/6812/9685309"
     },
     {
       "rank": 6,
-      "title": "颱風昌鴻逼近日本 當局發布風雨警報",
-      "dek": "日本時報報導，昌鴻逼近日本太平洋沿岸前，相關地區已發布強風與豪雨警報。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
+      "title": "熱帶風暴襲東京地區 數千戶停電後持續西移",
+      "dek": "美聯社報導，昌鴻登陸減弱後仍造成5人受傷、逾3000戶停電，風暴正朝若狹灣方向移動。",
+      "url": "https://abcnews.com/International/wireStory/tropical-storm-hits-tokyo-area-leaving-thousands-power-135563072"
     },
     {
       "rank": 7,
-      "title": "颱風昌鴻於東京、茨城附近登陸 路徑罕見",
-      "dek": "Tempo.co報導，昌鴻於大東京地區附近登陸，被形容為歷史上少見逼近首都圈的颱風路徑。",
-      "url": "https://en.tempo.co/read/2117277/typhoon-chan-hom-makes-landfall-near-tokyo-japan"
+      "title": "台灣痛批中國藉颱風之名行管控之實",
+      "dek": "《台北時報》追蹤報導，陸委會譴責北京以颱風多爾芬為藉口，對台灣海峽實施船舶交通管制。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/12/2003862349"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴白鴿持續減弱 威克島附近徘徊",
-      "dek": "AccuWeather即時路徑顯示，白鴿因風切增強與海溫下降持續減弱，對日本、台灣均無直接影響。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/peilou-2026"
+      "title": "台灣譴責中國藉多爾芬颱風對台灣海峽實施航運管制",
+      "dek": "航運媒體Lloyd's List報導，中國廣東海事局自8月6日起管制海峽南口北向船流，台灣以《聯合國海洋法公約》反駁其正當性。",
+      "url": "https://www.lloydslist.com/LL1158145/Taiwan-condemns-China%E2%80%99s-shipping-controls-over-Taiwan-Strait-amid-Typhoon-Dolphin"
     },
     {
       "rank": 9,
-      "title": "白鴿生成初期恐增強菲律賓西南季風雨勢",
-      "dek": "菲律賓媒體Philstar報導，白鴿雖已遠離菲律賓群島，其生成過程曾一度增強當地季風降雨。",
-      "url": "https://www.philstar.com/headlines/2026/08/10/2548220/tropical-storm-peilou-develops-may-enhance-monsoon"
+      "title": "多爾芬颱風災損有限 當局提醒留意天文大潮",
+      "dek": "《台北時報》回顧報導，7月底侵台的超級颱風多爾芬造成災損輕微後轉赴中國，官方現正關注即將到來的天文大潮。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
     },
     {
       "rank": 10,
-      "title": "回顧：颱風白海豚減弱 氣象署曾維持豪雨警戒",
-      "dek": "Focus Taiwan報導，颱風白海豚（Dolphin）掠過馬祖及台灣北部海域後減弱，隨後於浙江二次登陸並消散。",
-      "url": "https://focustaiwan.tw/society/202608090004"
+      "title": "南卡颱風路徑曝光 西南風發威午後全台變天炸雨",
+      "dek": "南卡颱風雖不直接侵襲台灣，但其助長的西南氣流預計為全台帶來連日午後強降雨，中南部尤須留意。",
+      "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%8D%A1%E9%A2%A2%E9%A2%A8-%E5%B0%87%E7%94%9F%E6%88%90%E8%B7%AF%E5%BE%91%E6%9B%9D-%E8%A5%BF%E5%8D%97%E9%A2%A8%E7%99%BC%E5%A8%81-%E5%8D%88%E5%BE%8C%E5%85%A8%E5%8F%B0%E8%AE%8A%E5%A4%A9%E7%82%B8%E9%9B%A8-224400864.html"
     }
   ]
 }
