@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T08:09:00+08:00",
+  "generated_at": "2026-08-12T09:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對颱風昌鴻、Peilou或醞釀中的第17號颱風發布海上或陸上颱風警報；上一次的海豚颱風海上警報已於8月9日深夜解除，此後未再發布新警報。",
+  "alert_desc": "中央氣象署目前未針對颱風燦鴻、貝魯或醞釀中的第17號颱風發布海上或陸上颱風警報；上一次的白海豚颱風海上警報已於8月9日深夜解除，此後未再發布新警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。颱風海豚外圍環流曾於8月7日至9日為台中和平區山區帶來豪雨（雪山橋累積雨量392.5毫米），但該系統已在中國減弱消散，相關海上警報也已解除；目前無任何活動或醞釀中颱風系統預期影響台中，市內亦無風雨相關停班停課措施。"
+    "text": "目前無直接影響。台中今日天氣多雲，氣溫約攝氏22至31度；受中央山脈地形屏障，此波颱風季（包含已減弱的白海豚颱風）僅為台中帶來局部降雨，未達停班停課標準，目前無任何活動或醞釀中颱風系統預期影響台中。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "昌鴻創日本百年紀錄登陸　台灣目前無颱風威脅",
-    "dek": "颱風昌鴻創下日本茨城縣氣象觀測紀錄首次登陸，海豚颱風重創中國浙江後減弱，台灣中央氣象署已解除海上警報。",
-    "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+    "title": "燦鴻創紀錄登陸茨城　西太平洋罕見三颱共存",
+    "dek": "颱風燦鴻創下茨城縣氣象紀錄首度登陸，西太平洋同時出現三颱共存罕見局面，台灣目前無颱風警報。",
+    "url": "https://english.news.cn/20260811/7a36d9342d5a4689a9818899b3eec3c4/c.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "昌鴻登陸茨城　創1951年來首例",
-      "dek": "颱風昌鴻中心氣壓980百帕、風速每秒25公尺登陸，是茨城縣自1951年有紀錄以來首度遭颱風直接侵襲，《日本時報》報導東電轄內約640戶停電。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+      "title": "燦鴻登陸茨城　創1951年來紀錄",
+      "dek": "新華社報導，颱風燦鴻11日晚間登陸茨城縣，中心氣壓980百帕，是當地史上首次颱風正面登陸。",
+      "url": "https://english.news.cn/20260811/7a36d9342d5a4689a9818899b3eec3c4/c.html"
     },
     {
       "rank": 2,
-      "title": "昌鴻減弱進入日本海　估將消散",
-      "dek": "日本氣象新聞報導，昌鴻穿越本州後進入日本海，氣壓回升至996百帕，預估24至48小時內減弱為溫帶低壓並消散。",
+      "title": "燦鴻轉弱　預測入日本海",
+      "dek": "Weathernews預估燦鴻穿越本州後迅速減弱，13日前將降為熱帶低氣壓。",
       "url": "https://sea.weathernews.com/resources/202608/189"
     },
     {
       "rank": 3,
-      "title": "小笠原群島熱帶低壓　估將成第17號颱風",
-      "dek": "日本氣象新聞報導，一熱帶低壓在小笠原群島附近向東北東移動，預料最快8月13日增強為第17號颱風，路徑偏日本以東。",
-      "url": "https://weathernews.jp/news/202608/110251/"
+      "title": "燦鴻來襲前　日本示警強風豪雨",
+      "dek": "《日本時報》報導，登陸前關東甲信地區24小時雨量恐達180毫米，籲防淹水強風。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/tropical-storm-chan-hom/"
     },
     {
       "rank": 4,
-      "title": "颱風海豚登陸中國　逾百萬人撤離",
-      "dek": "半島電視台報導，海豚颱風8月9日在浙江台州、溫州連續兩度登陸，溫州單地即撤離逾90萬人，其後迅速減弱為殘餘低壓。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+      "title": "小笠原低壓恐成17號颱風",
+      "dek": "Weathernews報導，日本氣象廳預測小笠原群島附近熱帶低壓24小時內增強為第17號颱風，15、16日可能逼近本州。",
+      "url": "https://weathernews.jp/news/202608/110251/"
     },
     {
       "rank": 5,
-      "title": "氣象署解除海豚海上颱風警報",
-      "dek": "《自由時報》報導，中央氣象署於8月9日晚間11時30分解除颱風海豚海上警報，為近日最新一次警報動態，此後未再發布新警報。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5534160"
+      "title": "燦鴻、白海豚、貝魯三颱共存",
+      "dek": "《環球時報》報導，颱風貝魯（16號）在小笠原群島附近生成，形成罕見三颱同時活躍局面。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
     },
     {
       "rank": 6,
-      "title": "海豚颱風創山區豪雨　雪山橋逾390毫米",
-      "dek": "《商業周刊》報導，8月7日至9日三日累積雨量以台北小油坑410.5毫米最高，台中和平區雪山橋錄得392.5毫米。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022178"
+      "title": "三颱最新動態：貝魯持續減弱",
+      "dek": "Weathernews報導，貝魯位於南鳥島附近東移減弱，預料對陸地影響輕微。",
+      "url": "https://wxtech.weathernews.com/en/news/20260810-01/"
     },
     {
       "rank": 7,
-      "title": "颱風Peilou北移　估將減弱消散",
-      "dek": "日本氣象新聞報導，第16號颱風Peilou持續向南鳥島、威克島方向移動，預估8月13日左右減弱為熱帶低壓，對日、台均無直接影響。",
-      "url": "https://news.infoseek.co.jp/article/weathernews_202608090191/"
+      "title": "白海豚減弱　仍擾亂華東交通",
+      "dek": "《香港自由新聞》報導，颱風白海豚登陸浙江後減弱為殘餘低壓，仍造成華東交通受阻。",
+      "url": "https://hongkongfp.com/2026/08/10/typhoon-dolphin-weakens-but-disrupts-travel-in-east-china/"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴鯨魚減弱　呂宋北部曾傳淹水",
-      "dek": "Philstar.com報導，菲律賓大氣署命名的熱帶風暴Maymay（國際名鯨魚）登陸後減弱為熱帶低壓，曾與西南季風共伴造成呂宋北部淹水。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/06/2547397/maymay-weakens-tropical-depression-16-areas-under-signal-no-1"
+      "title": "白海豚襲浙江　中國百萬人疏散",
+      "dek": "Euronews報導，白海豚以逾150公里時速強風登陸浙江，中國發布最高等級颱風警報並疏散超過百萬人。",
+      "url": "https://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china"
     },
     {
       "rank": 9,
-      "title": "美軍聯合颱風中心示警　98W熱帶擾動待觀察",
-      "dek": "太平洋災害中心與JTWC通報，赤道附近熱帶擾動98W獲發生成警報，惟受風切制約、距台灣仍有數千公里之遙。",
-      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-12w-dolphin-tropical-cyclone-14w-chan-hom-invest-97w-remnants-of-13w-pacific/"
+      "title": "中央氣象署解除白海豚海警",
+      "dek": "中央社報導，中央氣象署宣布白海豚海上颱風警報於8月9日晚間11時30分解除，未發布陸警。",
+      "url": "https://focustaiwan.tw/society/202608090011"
     },
     {
       "rank": 10,
-      "title": "太平洋颱風季創紀錄活躍　全年估28風暴",
-      "dek": "英國熱帶風暴風險評估機構預測，2026年太平洋颱風季將生成28個熱帶風暴、19個颱風，較長期平均高出約四成。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "燦鴻外圍環流為南韓東岸降雨",
+      "dek": "《韓國中央日報》報導，燦鴻外圍雨帶為南韓東岸帶來降雨，但南部旱情能否緩解仍不明朗。",
+      "url": "https://www.koreajoongangdaily.com/korea/typhoon-to-bring-rain-to-east-coast-but-may-not-relieve-southern-regions-drought/12818497"
     }
   ]
 }
