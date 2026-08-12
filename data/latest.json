@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:09:00+08:00",
+  "generated_at": "2026-08-12T13:04:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報；第15號颱風昌鴻、第16號颱風琵鷺與第17號颱風南卡皆朝日本方向移動，對台灣本島無直接威脅。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，僅因西南氣流影響發布大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受任何現行颱風系統直接影響，僅可能受西南氣流牽動出現午後雷陣雨，無因颱風而停班停課之情事。"
+    "text": "台中目前未受颱風直接影響，無因颱風而停班停課；因位於西南氣流大雨特報涵蓋範圍內，清晨到上午可能有零星降雨，午後不排除雷陣雨及山區局部大雨。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "西太平洋「三颱共舞」　昌鴻登陸日本茨城創史上首見紀錄　台灣本島暫無威脅",
-    "dek": "南卡颱風今日清晨生成，與昌鴻、琵鷺並列西北太平洋上空三個熱帶氣旋，其中昌鴻已在日本茨城縣登陸、寫下當地1951年有紀錄以來首見紀錄，氣象單位強調三颱路徑均朝日本而去，對台灣沒有直接威脅，但西南氣流仍將為中南部帶來午後強降雨。",
-    "url": "https://www.ettoday.net/news/20260812/3217647.htm"
+    "title": "昌鴻颱風創日本茨城百年首登陸紀錄後減弱　南卡颱風接力生成　台灣本島未受直接威脅",
+    "dek": "昌鴻颱風登陸日本茨城創下自1951年有紀錄以來首例後迅速減弱為熱帶低氣壓，今年第17號颱風南卡緊接生成並持續遠離台灣，中央氣象署目前僅針對西南氣流發布大雨特報，未發布任何颱風警報。",
+    "url": "https://www.nikkei.com/article/DGXZQOUD111RJ0R10C26A8000000/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "「南卡」颱風最快今生成 預估路徑往日本移動",
-      "dek": "硫磺島南方熱帶性低氣壓預計增強為今年第17號颱風南卡，路徑朝日本方向前進。",
-      "url": "https://www.ettoday.net/news/20260812/3217562.htm"
+      "title": "昌鴻減弱為熱帶低氣壓 橫越本州後日本仍廣泛降雨示警",
+      "dek": "《日本經濟新聞》報導，昌鴻於8月12日上午約9時在日本海減弱為熱帶低氣壓，東北、東海及近畿地區未來24小時恐有最大150毫米強降雨。",
+      "url": "https://www.nikkei.com/article/DGXZQOUD111RJ0R10C26A8000000/"
     },
     {
       "rank": 2,
-      "title": "快訊／南卡颱風正式生成 最新路徑持續遠離台灣朝日本而去",
-      "dek": "南卡颱風於今日上午8時生成，中心氣壓992百帕，預測路徑不影響台灣、直奔日本。",
-      "url": "https://www.ettoday.net/news/20260812/3217647.htm"
+      "title": "熱帶風暴襲擊東京地區 數千戶停電後轉向西行",
+      "dek": "美聯社報導，昌鴻登陸東京近郊後，造成茨城、栃木兩縣約3000戶停電，羽田機場並取消約60班航班，隨後風暴減弱西行。",
+      "url": "https://www.whec.com/ap-top-news/tropical-storm-hits-tokyo-area-leaving-thousands-without-power-before-moving-west/"
     },
     {
       "rank": 3,
-      "title": "西北太平洋恐現「3颱共舞」 南卡最快24小時內生成 對台影響出爐",
-      "dek": "南卡颱風醞釀生成之際，與昌鴻、琵鷺並列，氣象專家研判三颱均不威脅台灣。",
-      "url": "https://www.ctwant.com/article/493102/"
+      "title": "強烈熱帶風暴昌鴻登陸東京近郊 創茨城縣氣象紀錄",
+      "dek": "《日本時報》報導，昌鴻於8月11日晚間約8時在茨城縣登陸，是當地自1951年氣象廳建立觀測紀錄以來首度遭颱風登陸，最大風速每秒25公尺。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 4,
-      "title": "三颱共存！繼多爾芬、鯨魚後昌鴻颱風生成 氣象署揭對台影響",
-      "dek": "中央氣象署說明三個熱帶氣旋同時繞行季風槽的成因，強調台灣本島無直接威脅但西南氣流將帶來降雨。",
-      "url": "https://udn.com/news/story/7266/9672555"
+      "title": "快訊／南卡颱風生成！持續往日本方向移動 最新路徑曝光",
+      "dek": "ETtoday新聞雲報導，硫磺島南方熱帶低氣壓已於8月12日上午8時增強為今年第17號颱風南卡，持續朝日本東方海面移動，預估不影響台灣。",
+      "url": "https://www.ettoday.net/news/20260812/3217647.htm"
     },
     {
       "rank": 5,
-      "title": "颱風昌鴻登陸日本茨城南部 日本氣象廳：史上首見",
-      "dek": "昌鴻因遭高壓系統阻擋而轉為罕見偏西路徑，成為茨城縣自1951年有紀錄以來首個登陸颱風。",
-      "url": "https://udn.com/news/story/6812/9685309"
+      "title": "輕颱南卡生成 中央氣象署：對台灣無直接影響",
+      "dek": "《自由時報》報導，南卡上午8時中心位於北緯22.1度、東經142.0度，以時速34公里向東北移動，中央氣象署指出其不會直接影響台灣，西南氣流水氣仍是主要降雨來源。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5536800"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴襲東京地區 數千戶停電後持續西移",
-      "dek": "美聯社報導，昌鴻登陸減弱後仍造成5人受傷、逾3000戶停電，風暴正朝若狹灣方向移動。",
-      "url": "https://abcnews.com/International/wireStory/tropical-storm-hits-tokyo-area-leaving-thousands-power-135563072"
+      "title": "南卡颱風「最快明生成」 西南風挾水氣全台降雨熱區曝光",
+      "dek": "三立新聞網報導，硫磺島南方熱帶低氣壓原預期最快一天內增強為颱風南卡，並指出無論其路徑如何，西南氣流水氣都將為台灣帶來降雨熱區。",
+      "url": "https://www.setn.com/news/1887749"
     },
     {
       "rank": 7,
-      "title": "台灣痛批中國藉颱風之名行管控之實",
-      "dek": "《台北時報》追蹤報導，陸委會譴責北京以颱風多爾芬為藉口，對台灣海峽實施船舶交通管制。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/12/2003862349"
+      "title": "西南季風持續為呂宋、米沙鄢帶來豪雨 熱帶風暴琵鷺留在菲律賓責任區外",
+      "dek": "Rappler報導，菲律賓大氣地球物理天文局（PAGASA）指出琵鷺仍在菲律賓責任區外、對菲直接風險低，但正增強西南季風，為呂宋及米沙鄢群島帶來豪雨與淹水風險。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-tropical-storm-peilou-update-pagasa-forecast-august-10-2026-5pm/"
     },
     {
       "rank": 8,
-      "title": "台灣譴責中國藉多爾芬颱風對台灣海峽實施航運管制",
-      "dek": "航運媒體Lloyd's List報導，中國廣東海事局自8月6日起管制海峽南口北向船流，台灣以《聯合國海洋法公約》反駁其正當性。",
-      "url": "https://www.lloydslist.com/LL1158145/Taiwan-condemns-China%E2%80%99s-shipping-controls-over-Taiwan-Strait-amid-Typhoon-Dolphin"
+      "title": "熱帶風暴琵鷺路徑追蹤：風切增強、乾空氣侵入 預估迅速減弱消散",
+      "dek": "AccuWeather風暴追蹤顯示，截至8月11日，琵鷺位於南鳥島東北方約593公里海面，以時速28公里向東北移動，受風切、海溫下降及乾空氣影響，預估將在約一天內消散。",
+      "url": "https://www.accuweather.com/en/hurricane/west-pacific/peilou-2026"
     },
     {
       "rank": 9,
-      "title": "多爾芬颱風災損有限 當局提醒留意天文大潮",
-      "dek": "《台北時報》回顧報導，7月底侵台的超級颱風多爾芬造成災損輕微後轉赴中國，官方現正關注即將到來的天文大潮。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
+      "title": "快訊》8/12大雨特報發布！外出注意路面積水",
+      "dek": "Newtalk新聞報導，中央氣象署於8月12日上午10時25分因西南風影響發布大雨特報，提醒中南部地區留意短時強降雨，特報效期至當晚11時。",
+      "url": "https://newtalk.tw/news/view/2026-08-12/1052852"
     },
     {
       "rank": 10,
-      "title": "南卡颱風路徑曝光 西南風發威午後全台變天炸雨",
-      "dek": "南卡颱風雖不直接侵襲台灣，但其助長的西南氣流預計為全台帶來連日午後強降雨，中南部尤須留意。",
-      "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%8D%A1%E9%A2%A2%E9%A2%A8-%E5%B0%87%E7%94%9F%E6%88%90%E8%B7%AF%E5%BE%91%E6%9B%9D-%E8%A5%BF%E5%8D%97%E9%A2%A8%E7%99%BC%E5%A8%81-%E5%8D%88%E5%BE%8C%E5%85%A8%E5%8F%B0%E8%AE%8A%E5%A4%A9%E7%82%B8%E9%9B%A8-224400864.html"
+      "title": "西南風發威 未來一週雨彈狂炸 中南部慎防大雨",
+      "dek": "壹蘋新聞網報導，昌鴻減弱、南卡與琵鷺皆遠離台灣之際，氣象專家指出台灣本週不穩定天氣主因是西南季風，中南部午後到傍晚仍將持續有強降雨。",
+      "url": "https://news.nextapple.com/life/20260812/BD198EDCF17ED6008CFF16D713C7FEE0"
     }
   ]
 }
