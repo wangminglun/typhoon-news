@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T05:11:00+08:00",
+  "generated_at": "2026-08-16T06:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。最近一次警報是8月7日對颱風白海豚發布的海上警報，已於8月9日晚間11時30分解除；西北太平洋現無系統直接威脅台灣本島，惟氣象專家示警下週南海及菲律賓以東海面恐醞釀新的熱帶擾動。",
+  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。針對颱風多利發布的海上警報已於8月9日至10日間解除；西太平洋現無系統直接威脅台灣本島，惟氣象界持續觀察兩處熱帶擾動（99W、92W）後續發展。",
   "region_watch": {
     "region": "台中",
-    "text": "目前並無颱風系統直接影響台中，市府也未發布停班停課通知。僅一般西南氣流為中南部帶來降雨，短時強降雨熱區集中在嘉義以南，非台中專屬影響；若下週南海或菲律賓外海系統成形並北上，台中降雨與風力預報仍可能隨之調整。"
+    "text": "目前無任何颱風直接影響台中；台中僅受東南氣流影響，可能有局部短暫陣雨，但風雨未達停班停課標準。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颶風拉拉逼近夏威夷大島 恐創150年來首次登陸紀錄；台灣現階段無颱風警報",
-    "dek": "在西太平洋剛送走三個熱帶氣旋同時活躍的罕見局面後，中央氣象署維持台灣海陸颱風警報全面解除，但預報員已開始關注下週南海與菲律賓海可能醞釀成形、進而牽動台灣天氣的新一波熱帶擾動。",
-    "url": "https://www.staradvertiser.com/2026/08/15/breaking-news/lala-lashing-hawaii-island-landfall-as-a-hurricane-possible-later-today/"
+    "title": "夏威夷大島迎155年來首次颶風直撲登陸 太平洋兩處熱帶擾動牽動台灣後續天氣",
+    "dek": "颶風「拉拉」15日增強為一級颶風並直撲夏威夷大島，美國國家颶風中心示警恐帶來63.5公分驚人雨量；台灣本島目前無颱風威脅，但西太平洋兩處熱帶擾動動向仍受氣象界密切觀察。",
+    "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風白海豚重創中國東岸 逾百萬人緊急撤離",
-      "dek": "白海豚以今年侵襲中國最強風力登陸浙江，溫州、上海與福建合計撤離逾百萬居民，上海取消逾1300架次航班。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds"
+      "title": "颶風「拉拉」侵襲夏威夷大島 強風豪雨齊發",
+      "dek": "CNN報導，拉拉已增強為一級颶風，高海拔地區恐迎63.5公分驚人雨量。",
+      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
     },
     {
       "rank": 2,
-      "title": "一級颶風拉拉直撲夏威夷大島 恐創百餘年來首次登陸紀錄",
-      "dek": "美國國家氣象局警告，拉拉最快今日稍晚登陸夏威夷大島，恐帶來致命暴洪與土石流，降雨量局部上看25英寸。",
-      "url": "https://www.staradvertiser.com/2026/08/15/breaking-news/lala-lashing-hawaii-island-landfall-as-a-hurricane-possible-later-today/"
+      "title": "拉拉升級颶風直撲大島 CBS公布最新路徑圖",
+      "dek": "CBS News指出大島已發布颶風警報，此次直接登陸事件在當地歷史上極為罕見。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 3,
-      "title": "颱風燦坤登陸日本茨城 創1951年以來首例紀錄",
-      "dek": "燦坤以980百帕中心氣壓登陸茨城縣，成為當地自1951年有紀錄以來首個登陸颱風，隨後路徑異常西行橫掃本州後才減弱。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+      "title": "大島面臨罕見颶風登陸威脅 陣風已先行抵達",
+      "dek": "美聯社報導，卡姆埃拉與希洛兩地已測得強陣風，風暴中心尚未抵達。",
+      "url": "https://www.wjtv.com/news/ap-a-rare-hurricane-landfall-threat-for-hawaiis-big-island-as-lala-nears/"
     },
     {
       "rank": 4,
-      "title": "路易斯、梅梅及西南季風釀災 菲律賓死亡人數增至22人",
-      "dek": "菲律賓國家減災委員會最新統計顯示，兩個熱帶氣旋加上西南季風雨帶已造成22死3失蹤、逾480萬人受災，碧瑤所在的本格特省災情最重。",
-      "url": "https://www.manilatimes.net/2026/08/15/regions/22-dead-3-missing-as-luis-maymay-habagat-affect-48-million/2406160"
+      "title": "夏威夷郡開設多處避難所 因應拉拉來襲",
+      "dek": "KITV報導，當局已於大島多地開設收容所並實施部分設施關閉，籲請脆弱地區居民撤離。",
+      "url": "https://www.kitv.com/news/tropical-storm-lala-closures-and-evacuation-shelters-in-hawaii/article_edd0220c-1543-4928-bf70-8b6cf398ddb2.html"
     },
     {
       "rank": 5,
-      "title": "PAGASA預估八月底前菲律賓將再遭兩個颱風侵襲",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，繼路易斯與梅梅之後，八月份恐再有兩個颱風生成或影響菲律賓，全月合計將達四個。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
+      "title": "大島居民須知：拉拉風暴最新情報",
+      "dek": "在地媒體Big Island Now指出，截至週六上午已有逾9700戶停電，官員警告最惡劣天候仍未到來。",
+      "url": "https://bigislandnow.com/2026/08/15/what-you-need-to-know-about-tropical-storm-lala-on-the-big-island/"
     },
     {
       "rank": 6,
-      "title": "熱帶低氣壓珮珞持續遠離台灣 朝北太平洋公海減弱",
-      "dek": "珮珞目前位於北太平洋公海，風速已降至每小時35英里，預報顯示乾空氣侵入與高層輻散不佳，將抑制其再增強。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/peilou-2026"
+      "title": "拉拉持續增強為颶風 夏威夷衝擊未歇",
+      "dek": "Weather.com確認拉拉已升級為颶風，官員警告大島衝擊仍將持續加劇。",
+      "url": "https://weather.com/2026/08/15/storms/hurricane/hawaii-tropical-storm-lala-forecast"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴楠卡生成又減弱 外圍環流曾牽動台灣悶熱多雨",
-      "dek": "中央社報導，楠卡雖未直接登陸台灣，但其外圍環流一度帶來悶熱與強降雨風險；日本放送協會其後指出，楠卡已在南鳥島附近減弱為熱帶低氣壓。",
-      "url": "https://focustaiwan.tw/society/202608120008"
+      "title": "熱帶擾動99W於雅浦島附近生成 暫未直撲關島",
+      "dek": "Post Guam報導，99W預測採北北西路徑移動，後續是否影響台灣周邊仍待觀察。",
+      "url": "https://www.postguam.com/news/local/invest-99w-develops-near-yap-misses-guam/article_64f10858-299f-4e9f-b928-fb4535096d2d.html"
     },
     {
       "rank": 8,
-      "title": "南海、菲律賓海醞釀新擾動 專家示警下週恐牽動台灣天氣",
-      "dek": "氣象專家分析季風槽下週後半可能在南海與菲律賓以東海面分別形成擾動，其中東側系統較有機會北上接近台灣，惟能否發展成颱風仍待觀察。",
-      "url": "https://www.chinatimes.com/realtimenews/20260815001983-260405"
+      "title": "熱帶擾動92W增強 逼近馬里亞納群島",
+      "dek": "Post Guam報導，92W發展機率目前偏低，關島與北馬里亞納群島暫無警報。",
+      "url": "https://www.postguam.com/news/local/invest-92w-gains-strength-nears-marianas/article_02a5b74b-df34-4c0a-bbb8-7f7e6d7918c4.html"
     },
     {
       "rank": 9,
-      "title": "超級聖嬰壓抑生成 大西洋颶風季維持歷史性平靜",
-      "dek": "NOAA最新預測將今年大西洋颶風季偏弱機率上修至75%，截至目前僅生成兩個熱帶風暴，尚無颶風形成。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "熱帶性低氣壓「南卡」生成 氣象署：不致直接影響台灣",
+      "dek": "中央社報導，南卡外圍環流將為台灣帶來悶熱與降雨，但路徑預計轉向東北遠離本島。",
+      "url": "https://focustaiwan.tw/society/202608120008"
     },
     {
       "rank": 10,
-      "title": "白海豚海警一度逼近北台灣海域 8月9日晚間解除",
-      "dek": "中央氣象署8月7日對白海豚發布海上颱風警報，隨風暴轉向中國移動，已於8月9日晚間11時30分解除，是台灣本季最近一次生效的颱風警報。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022178"
+      "title": "東南氣流影響 南台灣豪雨將持續",
+      "dek": "中央社報導，氣象署指出目前無颱風威脅台灣，惟南部地區豪雨恐延續至週四。",
+      "url": "https://focustaiwan.tw/society/202608150003"
     }
   ]
 }
