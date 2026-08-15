@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T06:10:00+08:00",
+  "generated_at": "2026-08-16T07:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。針對颱風多利發布的海上警報已於8月9日至10日間解除；西太平洋現無系統直接威脅台灣本島，惟氣象界持續觀察兩處熱帶擾動（99W、92W）後續發展。",
+  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。第17號颱風「南卡」因強烈垂直風切影響僅維持輕度颱風等級，路徑朝日本東方海面移動，與台灣無關；台灣近期天氣主要受季風低壓槽影響，多縣市持續發布橙色高溫警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風直接影響台中；台中僅受東南氣流影響，可能有局部短暫陣雨，但風雨未達停班停課標準。"
+    "text": "目前無任何颱風直接影響台中；上一波颱風「多芬」影響期間台中亦未達停班停課標準，目前台中天氣主要受季風低壓槽影響，可能有午後雷陣雨，但與颱風系統無直接關聯。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "夏威夷大島迎155年來首次颶風直撲登陸 太平洋兩處熱帶擾動牽動台灣後續天氣",
-    "dek": "颶風「拉拉」15日增強為一級颶風並直撲夏威夷大島，美國國家颶風中心示警恐帶來63.5公分驚人雨量；台灣本島目前無颱風威脅，但西太平洋兩處熱帶擾動動向仍受氣象界密切觀察。",
+    "title": "颶風「拉拉」增強至一級 逼近夏威夷大島 恐釀155年來首次直接登陸",
+    "dek": "氣象單位警告拉拉將帶來致命洪水、暴風潮與強風，夏威夷州長已宣布進入緊急狀態；台灣目前無颱風警報，中部無直接影響。",
     "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風「拉拉」侵襲夏威夷大島 強風豪雨齊發",
-      "dek": "CNN報導，拉拉已增強為一級颶風，高海拔地區恐迎63.5公分驚人雨量。",
+      "title": "颶風拉拉增強為一級 直撲夏威夷大島",
+      "dek": "拉拉風速達每小時75英里，逼近大島「南角」，已為當地帶來豪雨、強風與洶湧海浪。",
       "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
     },
     {
       "rank": 2,
-      "title": "拉拉升級颶風直撲大島 CBS公布最新路徑圖",
-      "dek": "CBS News指出大島已發布颶風警報，此次直接登陸事件在當地歷史上極為罕見。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+      "title": "夏威夷宣布進入緊急狀態 恐迎155年來首次颶風登陸",
+      "dek": "州長因拉拉逼近大島宣布進入緊急狀態，氣象單位預告周六將出現颶風等級強風。",
+      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026"
     },
     {
       "rank": 3,
-      "title": "大島面臨罕見颶風登陸威脅 陣風已先行抵達",
-      "dek": "美聯社報導，卡姆埃拉與希洛兩地已測得強陣風，風暴中心尚未抵達。",
-      "url": "https://www.wjtv.com/news/ap-a-rare-hurricane-landfall-threat-for-hawaiis-big-island-as-lala-nears/"
+      "title": "拉拉增強為颶風 夏威夷多班機取消",
+      "dek": "隨著暴風逼近，夏威夷各地為強風、暴雨與危險海況展開防範，航空公司已取消部分航班。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/storm-lala-strengthens-to-hurricane-while-closing-in-on-hawaii"
     },
     {
       "rank": 4,
-      "title": "夏威夷郡開設多處避難所 因應拉拉來襲",
-      "dek": "KITV報導，當局已於大島多地開設收容所並實施部分設施關閉，籲請脆弱地區居民撤離。",
-      "url": "https://www.kitv.com/news/tropical-storm-lala-closures-and-evacuation-shelters-in-hawaii/article_edd0220c-1543-4928-bf70-8b6cf398ddb2.html"
+      "title": "NHC：拉拉是否登陸大島仍不明朗 但衝擊難以避免",
+      "dek": "美國國家颶風中心指出，高海拔地區降雨恐達25英吋，沿海暴風潮上看3英尺。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 5,
-      "title": "大島居民須知：拉拉風暴最新情報",
-      "dek": "在地媒體Big Island Now指出，截至週六上午已有逾9700戶停電，官員警告最惡劣天候仍未到來。",
-      "url": "https://bigislandnow.com/2026/08/15/what-you-need-to-know-about-tropical-storm-lala-on-the-big-island/"
-    },
-    {
-      "rank": 6,
-      "title": "拉拉持續增強為颶風 夏威夷衝擊未歇",
-      "dek": "Weather.com確認拉拉已升級為颶風，官員警告大島衝擊仍將持續加劇。",
-      "url": "https://weather.com/2026/08/15/storms/hurricane/hawaii-tropical-storm-lala-forecast"
-    },
-    {
-      "rank": 7,
-      "title": "熱帶擾動99W於雅浦島附近生成 暫未直撲關島",
-      "dek": "Post Guam報導，99W預測採北北西路徑移動，後續是否影響台灣周邊仍待觀察。",
-      "url": "https://www.postguam.com/news/local/invest-99w-develops-near-yap-misses-guam/article_64f10858-299f-4e9f-b928-fb4535096d2d.html"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶擾動92W增強 逼近馬里亞納群島",
-      "dek": "Post Guam報導，92W發展機率目前偏低，關島與北馬里亞納群島暫無警報。",
-      "url": "https://www.postguam.com/news/local/invest-92w-gains-strength-nears-marianas/article_02a5b74b-df34-4c0a-bbb8-7f7e6d7918c4.html"
-    },
-    {
-      "rank": 9,
-      "title": "熱帶性低氣壓「南卡」生成 氣象署：不致直接影響台灣",
-      "dek": "中央社報導，南卡外圍環流將為台灣帶來悶熱與降雨，但路徑預計轉向東北遠離本島。",
+      "title": "第17號颱風南卡飄向日本以東 對台灣無威脅",
+      "dek": "中央氣象署表示南卡將持續停留於開闊海域，台灣天氣受季風低壓槽影響，與該颱風無關。",
       "url": "https://focustaiwan.tw/society/202608120008"
     },
     {
+      "rank": 6,
+      "title": "南卡路徑飄忽不定 持續遠離陸地",
+      "dek": "Weathernews報導南卡強度維持35節，預期彎向日本以東海域，暫無登陸跡象。",
+      "url": "https://sea.weathernews.com/resources/202608/193"
+    },
+    {
+      "rank": 7,
+      "title": "颱風煙花登陸日本茨城 創1951年來紀錄",
+      "dek": "新華社報導，颱風煙花罕見以東向西路徑登陸日本茨城縣，登陸後減弱為熱帶低壓，當局警告東北與關東地區持續有洪災風險。",
+      "url": "https://english.news.cn/asiapacific/20260812/7c99daee321248e3ba0385dfcd3ae4e1/c.html"
+    },
+    {
+      "rank": 8,
+      "title": "罕見「三颱共舞」侵擾亞洲 如今皆已解除威脅",
+      "dek": "環球時報報導，多芬、貝路與煙花三颱風本月稍早同時活躍於西北太平洋，如今皆已遠離或減弱。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+    },
+    {
+      "rank": 9,
+      "title": "颱風多芬海上警報解除 路徑轉向中國浙江",
+      "dek": "中央氣象署表示多芬未直接侵襲台灣，中北部僅受外圍環流影響，台中未達停班停課標準。",
+      "url": "https://focustaiwan.tw/society/202608090011"
+    },
+    {
       "rank": 10,
-      "title": "東南氣流影響 南台灣豪雨將持續",
-      "dek": "中央社報導，氣象署指出目前無颱風威脅台灣，惟南部地區豪雨恐延續至週四。",
-      "url": "https://focustaiwan.tw/society/202608150003"
+      "title": "台灣無颱風警報 但高溫不穩定天氣持續",
+      "dek": "中央氣象署對多縣市發布橙色高溫警報，並警告午後雷雨風險將持續至本月22日左右。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862423"
     }
   ]
 }
