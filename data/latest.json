@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T01:12:00+08:00",
+  "generated_at": "2026-08-16T02:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署15日未對任何颱風發布海上或陸上警報。西北太平洋剛經歷罕見的「三颱同時活躍」後進入平靜期，白海豚、燦鴻、貝洛皆已減弱消散或遠離台灣；今日台灣南部雨勢屬西南季風環流所致，與颱風無關。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上警報。輕度颱風南卡已於8月14日晚間8時遭氣象署除名，西北太平洋暫無系統直接威脅台灣；今日台灣各地降雨屬西南季風環流所致，與颱風無關。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署目前並未對任何颱風發布海上或陸上警報，台中地區今日天氣主要受一般天氣系統影響（高溫可達32至33度），並無颱風相關之停班停課措施。"
+    "text": "目前無直接影響。台中被列入中央氣象署16縣市大雨特報範圍，山區須留意西南季風及午後對流帶來的短延時強降雨，惟此波降雨與颱風無關，並無颱風相關停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "三颱共舞落幕　台灣暫無颱風警報",
-    "dek": "白海豚、燦鴻、貝洛相繼減弱遠離，預測機構警告今年颱風季恐創史上最活躍紀錄",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
+    "title": "南卡颱風除名台灣無虞　颶風萊拉直撲夏威夷成全球焦點",
+    "dek": "中央氣象署目前未發布海上或陸上颱風警報，西南季風降雨籠罩全台；太平洋彼端，夏威夷大島正迎接罕見的颶風登陸。",
+    "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "燦鴻颱風登陸日本茨城　創75年來首例",
-      "dek": "這是自1951年有紀錄以來首個登陸茨城縣的颱風，造成約2.2萬戶一度停電、7人受傷。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+      "title": "熱帶風暴萊拉增強逼近颶風強度　直撲夏威夷大島",
+      "dek": "夏威夷大島已發布颶風警報，萊拉預估將以低強度一級颶風姿態登陸。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 2,
-      "title": "罕見「三颱共舞」侵襲亞洲　中日菲三地受創",
-      "dek": "白海豚、燦鴻與貝洛一度同時活躍，北京暫停巴士路線並關閉景點，菲律賓豪雨奪走至少26條人命。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "萊拉逼近夏威夷　恐帶來20英吋豪雨、3呎暴潮",
+      "dek": "據CNBC報導，萊拉風速達每小時65英里，當地恐面臨致命暴洪與土石流風險。",
+      "url": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html"
     },
     {
       "rank": 3,
-      "title": "白海豚颱風海上警報解除　台灣災損輕微",
-      "dek": "颱風最接近台灣後轉向中國，中央氣象署解除海警，全台通報逾200件災情、5人受傷。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
+      "title": "輕颱南卡減弱消散　氣象署證實全程未影響台日",
+      "dek": "據Newtalk新聞引述氣象專家賈新興分析，南卡已於8月14日晚間8時遭氣象署除名，另有系統可能於8月18日在海南島附近醞釀。",
+      "url": "https://newtalk.tw/news/view/2026-08-14/1053377"
     },
     {
       "rank": 4,
-      "title": "預測機構：今年西北太平洋颱風季恐創史上最活躍紀錄",
-      "dek": "Tropical Storm Risk指出，受聖嬰現象增強影響，今年颱風生成量恐高於歷史均值約六成。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/pacific-typhoon-season-forecast-to-be-among-most-active-ever"
+      "title": "南卡颱風西北太平洋生成　氣象署曾研判對台無影響",
+      "dek": "據中央社報導，南卡8月12日上午8時由熱帶低壓增強為輕度颱風，受強烈風切影響強度始終偏弱。",
+      "url": "https://www.cna.com.tw/news/ahel/202608120035.aspx"
     },
     {
       "rank": 5,
-      "title": "西南氣流影響　中央氣象署對台灣南部發布豪雨特報",
-      "dek": "台南、高雄、屏東與恆春半島今日恐有大雨，此波降雨與颱風無關。",
-      "url": "https://focustaiwan.tw/society/202608150003"
+      "title": "西南季風增強　台灣16縣市發布大雨特報　台中山區示警",
+      "dek": "據中央社報導，氣象署13時15分發布大雨特報，警告局部地區恐有短延時強降雨，與颱風無關。",
+      "url": "https://www.cna.com.tw/news/ahel/202608150017.aspx"
     },
     {
       "rank": 6,
-      "title": "熱帶低壓南卡在太平洋外海減弱　對陸地無威脅",
-      "dek": "南卡風速僅25節，預測機構認為受風切與乾空氣影響，將於約12小時內消散。",
-      "url": "https://www.cyclocane.com/nangka-storm-tracker/"
+      "title": "馬里亞納群島附近熱帶擾動98W　美軍聯合颱風警報中心發布生成警示",
+      "dek": "據美國聯合颱風警報中心資料，98W目前風速約18至23節，預估緩慢向西北移動。",
+      "url": "https://www.metoc.navy.mil/jtwc/products/wp9819web.txt"
     },
     {
       "rank": 7,
-      "title": "貝洛颱風偏離陸地後消散　未對台灣造成影響",
-      "dek": "中央氣象署評估其路徑偏東，菲律賓大氣局隨後將其移出責任區。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
-    },
-    {
-      "rank": 8,
-      "title": "「短命颱」鯨魚生成即減弱　未對台灣構成威脅",
-      "dek": "鯨魚颱風在台灣西南方生成後迅速減弱，中央氣象署證實對台無直接衝擊。",
-      "url": "https://udn.com/news/story/7266/9671308"
-    },
-    {
-      "rank": 9,
-      "title": "菲律賓氣象局預告本月恐再迎兩個颱風",
-      "dek": "繼路易斯、梅梅颱風釀災後，當局警告八月底前恐有更多風暴侵襲菲律賓。",
+      "title": "菲律賓氣象局預測8月還有2至4個熱帶氣旋侵入責任區",
+      "dek": "據GMA新聞網報導，菲律賓大氣地球物理天文服務署（PAGASA）表示本月稍早已有兩個系統形成或減弱。",
       "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
+      "rank": 8,
+      "title": "颱風璨琳（Chan-hom）掠過東京西北側後減弱",
+      "dek": "據日本國土交通省資料，璨琳以熱帶風暴強度通過成田機場西北方約30英里處，日本多地曾發布坍方與暴潮警戒。",
+      "url": "https://www.mlit.go.jp/saigai/saigai_260811.html"
+    },
+    {
+      "rank": 9,
+      "title": "強聖嬰現象助長　2026年太平洋颱風季活躍度遠超平均",
+      "dek": "據維基百科引述「熱帶風暴風險」（TSR）預測，今年颱風季風暴數量預估較長期平均高出約四成。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+    },
+    {
       "rank": 10,
-      "title": "大西洋颶風季異常平靜　與太平洋形成強烈對比",
-      "dek": "今年大西洋僅出現兩個熱帶風暴、尚無颶風生成，NOAA維持「低於正常」的季節展望。",
-      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
+      "title": "東太平洋熱帶風暴赫南形成　預料在外海減弱消散",
+      "dek": "據NBC新聞報導，赫南距下加利福尼亞西南方約1690英里，對陸地不構成威脅。",
+      "url": "https://www.nbcnews.com/weather/storms/tropical-storm-hernan-forms-pacific-weather-system-soak-hawaii-rcna592291"
     }
   ]
 }
