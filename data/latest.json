@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T00:15:00+08:00",
+  "generated_at": "2026-08-16T01:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，近期雨勢主要受西南季風環流影響，中南部山區有局部大雨，氣象署另在觀察南海與菲律賓海域下週是否有熱帶系統發展，但尚未有任何系統獲得編號或發布警報。",
+  "alert_desc": "中央氣象署15日未對任何颱風發布海上或陸上警報。西北太平洋剛經歷罕見的「三颱同時活躍」後進入平靜期，白海豚、燦鴻、貝洛皆已減弱消散或遠離台灣；今日台灣南部雨勢屬西南季風環流所致，與颱風無關。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風系統直接影響，主要天氣型態為西南季風環流所致，午後山區有對流雷雨、氣溫近34°C，中央氣象署對台中山區發布大雨特報，但並無颱風相關停班停課措施。"
+    "text": "目前無直接影響。中央氣象署目前並未對任何颱風發布海上或陸上警報，台中地區今日天氣主要受一般天氣系統影響（高溫可達32至33度），並無颱風相關之停班停課措施。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "熱帶風暴拉拉逼近夏威夷　大島恐迎1871年以來首個颶風登陸",
-    "dek": "美國國家颶風中心已對夏威夷大島發布颶風警報，預測拉拉登陸前將增強為颶風；同一時間西太平洋的南卡、貝樓相繼減弱消散，台灣目前並無颱風警報，但日本千葉豪雨已釀成8死、機場旅客大批受困。",
-    "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+    "title": "三颱共舞落幕　台灣暫無颱風警報",
+    "dek": "白海豚、燦鴻、貝洛相繼減弱遠離，預測機構警告今年颱風季恐創史上最活躍紀錄",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
   },
   "items": [
     {
       "rank": 1,
-      "title": "拉拉侵襲夏威夷大島　颶風警報已生效",
-      "dek": "據《CBS新聞》報導，拉拉週六清晨起開始侵襲大島，美國國家颶風中心預測其核心通過時將增強為颶風，最大衝擊落在週六下午至傍晚。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+      "title": "燦鴻颱風登陸日本茨城　創75年來首例",
+      "dek": "這是自1951年有紀錄以來首個登陸茨城縣的颱風，造成約2.2萬戶一度停電、7人受傷。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 2,
-      "title": "夏威夷大島恐迎1871年來首個颶風登陸",
-      "dek": "據《CNBC》報導，若拉拉直接登陸大島，將是1871年三級颶風以來首例，當局警告降雨恐達25英吋並有暴潮與致命暴洪風險。",
-      "url": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html"
+      "title": "罕見「三颱共舞」侵襲亞洲　中日菲三地受創",
+      "dek": "白海豚、燦鴻與貝洛一度同時活躍，北京暫停巴士路線並關閉景點，菲律賓豪雨奪走至少26條人命。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
     },
     {
       "rank": 3,
-      "title": "在地媒體：拉拉估將以一級颶風強度登陸大島",
-      "dek": "據《夏威夷論壇先驅報》報導，拉拉核心預計週六通過大島，週日再影響南側較小島嶼。",
-      "url": "https://www.hawaiitribune-herald.com/2026/08/14/hawaii-news/lala-on-path-to-reach-the-big-island-as-a-category-1-hurricane/"
+      "title": "白海豚颱風海上警報解除　台灣災損輕微",
+      "dek": "颱風最接近台灣後轉向中國，中央氣象署解除海警，全台通報逾200件災情、5人受傷。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862229"
     },
     {
       "rank": 4,
-      "title": "颱風南卡持續減弱　路徑遠離日本",
-      "dek": "據《日本新聞網》報導，南卡低層環流已出現外露、拉長等減弱跡象，南韓氣象廳預估將於17日凌晨降級為熱帶低壓。",
-      "url": "https://newsonjapan.com/article/150226.php"
+      "title": "預測機構：今年西北太平洋颱風季恐創史上最活躍紀錄",
+      "dek": "Tropical Storm Risk指出，受聖嬰現象增強影響，今年颱風生成量恐高於歷史均值約六成。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/pacific-typhoon-season-forecast-to-be-among-most-active-ever"
     },
     {
       "rank": 5,
-      "title": "衛星追蹤資料證實南卡已降為熱帶低壓",
-      "dek": "據美國科羅拉多州立大學RAMMB／CIRA即時追蹤系統資料，南卡（WP162026）已被歸類為熱帶低壓，持續在日本以東洋面上減弱。",
-      "url": "https://rammb-data.cira.colostate.edu/tc_realtime/storm.asp?storm_identifier=wp162026"
+      "title": "西南氣流影響　中央氣象署對台灣南部發布豪雨特報",
+      "dek": "台南、高雄、屏東與恆春半島今日恐有大雨，此波降雨與颱風無關。",
+      "url": "https://focustaiwan.tw/society/202608150003"
     },
     {
       "rank": 6,
-      "title": "千葉破紀錄豪雨釀災　成田機場數千人受困",
-      "dek": "據《首爾經濟日報》報導，千葉縣24小時累積雨量367毫米打破2013年紀錄，造成至少4人罹難（後續統計上修至8人），約7000名旅客受困成田機場。",
-      "url": "https://en.sedaily.com/international/2026/08/14/record-rain-kills-4-in-japans-chiba-strands-7000-at-airport"
+      "title": "熱帶低壓南卡在太平洋外海減弱　對陸地無威脅",
+      "dek": "南卡風速僅25節，預測機構認為受風切與乾空氣影響，將於約12小時內消散。",
+      "url": "https://www.cyclocane.com/nangka-storm-tracker/"
     },
     {
       "rank": 7,
-      "title": "成田豪雨死亡人數上修至8人　多條鐵路一度中斷",
-      "dek": "據《拉普勒》報導，千葉、柏市、市川、佐倉、八千代等地共8人罹難，近2萬戶停電，成田與東京間部分鐵路服務已於週五恢復。",
-      "url": "https://www.rappler.com/world/asia-pacific/japan-record-rain-chiba-flooding-narita-airport-august-2026/"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶風暴貝樓減弱消散　脫離菲律賓監測範圍",
-      "dek": "據《GMA新聞網》報導，貝樓已於13日降為熱帶低壓並脫離PAGASA監測區，對菲律賓與台灣均無進一步威脅。",
+      "title": "貝洛颱風偏離陸地後消散　未對台灣造成影響",
+      "dek": "中央氣象署評估其路徑偏東，菲律賓大氣局隨後將其移出責任區。",
       "url": "https://www.gmanetwork.com/news/weather/content/998087/pagasa-weather-tropical-storm-peilou-monitoring/story/"
     },
     {
+      "rank": 8,
+      "title": "「短命颱」鯨魚生成即減弱　未對台灣構成威脅",
+      "dek": "鯨魚颱風在台灣西南方生成後迅速減弱，中央氣象署證實對台無直接衝擊。",
+      "url": "https://udn.com/news/story/7266/9671308"
+    },
+    {
       "rank": 9,
-      "title": "新系統「93W」在菲律賓以東遭密切觀察",
-      "dek": "據氣象新創公司Brightband報導，93W環流仍鬆散、發展條件僅勉強有利，各預報模式對其能否發展為熱帶氣旋意見分歧。",
-      "url": "https://www.brightband.com/blog/invest-93w-heading-toward-the-philippines/"
+      "title": "菲律賓氣象局預告本月恐再迎兩個颱風",
+      "dek": "繼路易斯、梅梅颱風釀災後，當局警告八月底前恐有更多風暴侵襲菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
       "rank": 10,
-      "title": "PAGASA預估8月菲律賓恐再迎兩個颱風",
-      "dek": "據《GMA新聞網》報導，繼路易斯、梅梅之後，菲律賓大氣地理天文部門預估8月底前還會有兩個颱風生成，全月預估共四個。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
+      "title": "大西洋颶風季異常平靜　與太平洋形成強烈對比",
+      "dek": "今年大西洋僅出現兩個熱帶風暴、尚無颶風生成，NOAA維持「低於正常」的季節展望。",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
     }
   ]
 }
