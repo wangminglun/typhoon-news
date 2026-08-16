@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T02:12:00+08:00",
+  "generated_at": "2026-08-17T03:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，西北太平洋與南海亦無編號颱風活動；台灣本週面對的是一道大低壓帶帶來的強降雨，而非颱風系統。",
+  "alert_desc": "中央氣象署8月16日上午11時發布的天氣概況僅發布海上強風特報，並未發布海上或陸上颱風警報；這是自本季第13號颱風白海豚警報8月7日解除以來，台灣持續維持的無颱風警戒狀態。",
   "region_watch": {
     "region": "台中",
-    "text": "目前台中並無颱風直接影響，今日未發布停班停課。台中近期最受颱風影響的是7月的颱風巴威（連續30小時停班停課），以及8月9日的颱風白海豚（帶來風雨，但未達停班停課門檻）。"
+    "text": "目前無颱風直接影響台中，今日未發布停班停課。台中已列入中央氣象署8月16日大雨特報範圍，受增強西南氣流影響，山區午後有對流性強降雨、局部大雨的機率，但此為季風降雨，非颱風系統所致。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風季罕見沉寂 中央氣象署示警下週低壓帶挾豪雨來襲",
-    "dek": "在「三颱共舞」相繼減弱消散之後，西北太平洋與南海目前無颱風直接威脅台灣，但中央氣象署提醒，一道大低壓帶本週將為全台帶來強降雨，另有一個熱帶擾動預計於8月20日前後在關島東側生成。",
-    "url": "https://www.cna.com.tw/news/ahel/202608160161.aspx"
+    "title": "無颱風直接威脅台灣 但西太平洋今年颱風季異常活躍",
+    "dek": "中央氣象署未發布海上或陸上颱風警報，台灣中南部仍受西南氣流影響出現大雨，而太平洋另一端的熱帶風暴拉拉重創夏威夷大島並釀成一死。",
+    "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風拉拉直撲夏威夷大島 一人罹難、近13萬用戶停電",
-      "dek": "拉拉增強為颶風並正面侵襲夏威夷大島，造成一人死亡、島上約七成用戶停電，茂納基山峰測得每小時140英里強陣風。",
-      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
+      "title": "熱帶風暴拉拉重創夏威夷大島 釀一死、多屋遭沖毀，預估將重新增強為颶風",
+      "dek": "颶風拉拉直撲夏威夷大島造成一人死亡、兩棟房屋在洪水中被沖走，全州逾13萬戶停電；氣象單位警告恐有致命洪水、土石流及局部25英吋降雨量。",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hawaiis-big-island-lashed-rain-wind-tropical-storm-lala-rcna592682"
     },
     {
       "rank": 2,
-      "title": "拉拉減弱為熱帶風暴 美國國家颶風中心：持續遠離夏威夷",
-      "dek": "美國國家颶風中心表示，拉拉已減弱為持續風速每小時70英里的熱帶風暴，惟豪雨、土石流與危險大浪風險依然存在。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/130840.shtml"
+      "title": "拉拉減弱為熱帶風暴 仍為夏威夷帶來強風豪雨與淹水災情",
+      "dek": "截至8月16日上午，拉拉中心位於檀香山西南方約75英里，最大風速每小時70英里；預報顯示其將於週末持續減弱，但可能在8月17至18日重新增強為颶風。",
+      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026"
     },
     {
       "rank": 3,
-      "title": "今年第16號颱風琵鷺生成 上演罕見「三颱共舞」",
-      "dek": "琵鷺與颱風鯨魚、燦鴻同時活躍於太平洋，氣象預報單位研判其路徑將轉向開闊洋面，不致直接影響台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533796"
+      "title": "颱風燦鴻登陸日本茨城 創1951年以來當地首見紀錄",
+      "dek": "燦鴻於8月11日晚間8時左右登陸日本茨城縣，中心氣壓980百帕、最大風速每秒25公尺，為當地1951年以來首次遭颱風登陸，關東與東北地區隨即發布強風豪雨警報。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 4,
-      "title": "颱風白海豚重創中國東部 逾百萬人緊急撤離",
-      "dek": "白海豚在浙江玉環登陸，當局疏散逾百萬居民，此前該颱風也曾在日本沖繩造成人員受傷與大規模停電。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
-    },
-    {
-      "rank": 5,
-      "title": "白海豚接近台灣海域 中央氣象署發布海上颱風警報",
-      "dek": "中央氣象署針對逼近台灣周邊海域的白海豚發布海上颱風警報，該颱風為北台灣帶來降雨，但未發布陸上警報。",
+      "title": "氣象署曾對颱風白海豚發布海上警報 風暴其後轉向中國大陸",
+      "dek": "中央氣象署8月7日對本季第13號颱風白海豚發布海上颱風警報，外圍環流為北台灣帶來局部50至80毫米降雨，隨後颱風北轉進入中國，始終未對台發布陸上警報。",
       "url": "https://focustaiwan.tw/society/202608070010"
     },
     {
+      "rank": 5,
+      "title": "颱風白海豚生成初期路徑未定 氣象署預測存在不確定性",
+      "dek": "白海豚形成初期，中央氣象署尚無法確定其是否及如何影響台灣天氣，此後該颱風果然以貼近北台灣近海、最終轉向中國大陸的路徑收場。",
+      "url": "https://focustaiwan.tw/society/202608010006"
+    },
+    {
       "rank": 6,
-      "title": "颱風鯨魚重創菲律賓 13人罹難逾百萬人受影響",
-      "dek": "鯨魚與強化的西南季風共同引發嚴重水患與土石流，造成菲律賓13人死亡、9人失蹤，全國約131萬人受衝擊。",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675359.shtml"
+      "title": "颱風鯨魚罕見轉向東行 避開越南本土、登陸菲律賓呂宋島",
+      "dek": "本季第14號颱風鯨魚（菲律賓當地稱Luis/Maymay）採取罕見偏東路徑，未如預期侵襲越南，轉而於8月5、6日左右登陸菲律賓伊洛戈斯蘇爾及拉烏尼翁省，其後減弱為熱帶低氣壓並在呂宋北部消散。",
+      "url": "https://dtinews.dantri.com.vn/vietnam-today/typhoon-kujira-takes-rare-eastward-path-away-from-vietnam-20260805070852667.htm"
     },
     {
       "rank": 7,
-      "title": "颱風燦鴻罕見路徑登陸日本 掠過東京北側",
-      "dek": "燦鴻以少見的由東向西路徑，在千葉、福島一帶登陸並貼近東京北方通過，美軍聯合颱風警報中心預估其將於日本海上消散。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-08-09/tropical-storm-14w-(chan-hom),-"
+      "title": "颱風琵鷺生成為同期第三個風暴 預估對台灣無影響",
+      "dek": "本季第16號颱風琵鷺8月9日發展為輕度颱風，中心氣壓998百帕、風速每秒18公尺，位於北緯21.3度、東經142.7度附近向東移動後轉北，預報單位表示其不會影響台灣且強度將維持偏弱。",
+      "url": "https://udn.com/news/story/7266/9680362"
     },
     {
       "rank": 8,
-      "title": "颱風巴威來襲 台中宣布30小時連續停班停課",
-      "dek": "中央氣象署預估山區12小時內恐降下逾300毫米雨量，台中因應颱風巴威宣布長達30小時的停班停課，全台共九縣市跟進。",
-      "url": "https://udn.com/news/story/124945/9618444"
+      "title": "菲律賓氣象單位PAGASA：8月底前恐再有兩個颱風侵襲菲國",
+      "dek": "繼鯨魚（當地稱Luis/Maymay）之後，PAGASA預測8月底前菲律賓還將再受兩個颱風影響，全月總數上看四個；西南季風「哈巴牙特」持續影響呂宋及維薩亞斯西部，但預期將逐漸減弱。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
       "rank": 9,
-      "title": "氣象署：本週非颱風而是大低壓帶 另一熱帶擾動醞釀中",
-      "dek": "中央氣象署表示，大低壓帶將為台灣帶來一週強降雨，並持續觀察一個預計8月20日在關島東側生成的熱帶擾動。",
-      "url": "https://www.cna.com.tw/news/ahel/202608160161.aspx"
+      "title": "中國國家氣候中心：2026年颱風季偏強，全年預估生成24至26個颱風",
+      "dek": "中國國家氣候中心預測今年西北太平洋及南海將生成24至26個熱帶氣旋，其中7至9個登陸中國，均高於歷史平均；另有氣象單位指出8月單月預計有2至3個颱風登陸或影響中國。",
+      "url": "https://news.cnr.cn/native/gd/kx/20260416/t20260416_527587203.shtml"
     },
     {
       "rank": 10,
-      "title": "NOAA維持預測：2026年大西洋颶風季偏向平靜",
-      "dek": "美國國家海洋暨大氣總署表示，聖嬰現象是主因，預估今年大西洋颶風活動有75%機率低於正常值，目前僅生成兩個編號風暴。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "聖嬰現象增強 NOAA維持2026大西洋颶風季「偏弱」預測",
+      "dek": "美國國家海洋暨大氣總署最新展望預估今年大西洋將形成7至13個編號風暴、2至6個颶風，並有75%機率為偏弱季節；目前僅生成兩個風暴、尚無颶風，季節高峰期仍未到來。",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
     }
   ]
 }
