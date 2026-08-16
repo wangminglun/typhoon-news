@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T07:08:00+08:00",
+  "generated_at": "2026-08-16T08:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。第17號颱風「南卡」因強烈垂直風切影響僅維持輕度颱風等級，路徑朝日本東方海面移動，與台灣無關；台灣近期天氣主要受季風低壓槽影響，多縣市持續發布橙色高溫警報。",
+  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。8月上旬曾一度出現颱風白海豚、昌鴻、琵萼「三颱共存」的活躍局面，但均已於8月14日前相繼減弱、登陸或轉化為溫帶氣旋；第17號颱風南卡亦已在南鳥島附近減弱為熱帶低壓，西太平洋與台灣周邊目前進入平靜期。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風直接影響台中；上一波颱風「多芬」影響期間台中亦未達停班停課標準，目前台中天氣主要受季風低壓槽影響，可能有午後雷陣雨，但與颱風系統無直接關聯。"
+    "text": "目前無任何颱風直接影響台中；台中上一次因颱風宣布停班停課，是7月中旬颱風巴威（Barry）來襲期間，本波颱風白海豚影響期間台中亦未達停班停課標準。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颶風「拉拉」增強至一級 逼近夏威夷大島 恐釀155年來首次直接登陸",
-    "dek": "氣象單位警告拉拉將帶來致命洪水、暴風潮與強風，夏威夷州長已宣布進入緊急狀態；台灣目前無颱風警報，中部無直接影響。",
-    "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
+    "title": "颶風「拉拉」升級一級颶風 逼近夏威夷大島 直接登陸機率降低但風雨威脅未減",
+    "dek": "夏威夷大島已發布颶風警報、州國民兵完成部署待命，而台灣目前並無任何颱風警報生效，中台灣地區未受直接影響。",
+    "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風拉拉增強為一級 直撲夏威夷大島",
-      "dek": "拉拉風速達每小時75英里，逼近大島「南角」，已為當地帶來豪雨、強風與洶湧海浪。",
-      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
-    },
-    {
-      "rank": 2,
-      "title": "夏威夷宣布進入緊急狀態 恐迎155年來首次颶風登陸",
-      "dek": "州長因拉拉逼近大島宣布進入緊急狀態，氣象單位預告周六將出現颶風等級強風。",
-      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026"
-    },
-    {
-      "rank": 3,
-      "title": "拉拉增強為颶風 夏威夷多班機取消",
-      "dek": "隨著暴風逼近，夏威夷各地為強風、暴雨與危險海況展開防範，航空公司已取消部分航班。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/storm-lala-strengthens-to-hurricane-while-closing-in-on-hawaii"
-    },
-    {
-      "rank": 4,
-      "title": "NHC：拉拉是否登陸大島仍不明朗 但衝擊難以避免",
-      "dek": "美國國家颶風中心指出，高海拔地區降雨恐達25英吋，沿海暴風潮上看3英尺。",
+      "title": "颶風拉拉增強至一級 逼近夏威夷大島",
+      "dek": "拉拉風暴中心已增強為時速75英里的一級颶風，雖直接登陸大島機率降低，但仍將帶來強風豪雨威脅。",
       "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
+      "rank": 2,
+      "title": "颶風「登陸」與否有差嗎？氣象學者解析拉拉對夏威夷的實質威脅",
+      "dek": "氣象學者指出，即使拉拉未技術性登陸，毛納基亞高地恐降雨25英寸、沿岸暴潮達3英尺，衝擊不容小覷。",
+      "url": "https://www.forbes.com/sites/marshallshepherd/2026/08/15/hurricane-landfall-or-impact-what-matters-as-lala-approaches-hawaii/"
+    },
+    {
+      "rank": 3,
+      "title": "熱帶風暴拉拉增強 夏威夷全境進入颶風戒備",
+      "dek": "夏威夷部署約180名國民兵與各郡高水位救援車，大島發布颶風警報、多島學校周末停課。",
+      "url": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html"
+    },
+    {
+      "rank": 4,
+      "title": "颱風白海豚重創中國東部 逾百萬人疏散",
+      "dek": "白海豚以時速150公里強風登陸浙江玉環，為今年侵襲中國最強颱風，並曾掃過沖繩造成人員受傷與大規模停電。",
+      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+    },
+    {
       "rank": 5,
-      "title": "第17號颱風南卡飄向日本以東 對台灣無威脅",
-      "dek": "中央氣象署表示南卡將持續停留於開闊海域，台灣天氣受季風低壓槽影響，與該颱風無關。",
-      "url": "https://focustaiwan.tw/society/202608120008"
+      "title": "白海豚颱風逼近 中央氣象署發布海上颱風警報",
+      "dek": "白海豚外圍環流為北台灣帶來豪雨，逾180航班取消，新竹、苗栗山區雨量估達350至500毫米。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
     },
     {
       "rank": 6,
-      "title": "南卡路徑飄忽不定 持續遠離陸地",
-      "dek": "Weathernews報導南卡強度維持35節，預期彎向日本以東海域，暫無登陸跡象。",
-      "url": "https://sea.weathernews.com/resources/202608/193"
+      "title": "白海豚減弱北移 中央氣象署解除海上颱風警報",
+      "dek": "中央氣象署8月9日晚間解除北部海面警報，白海豚持續減弱，兩天後於湖北境內降為熱帶低壓。",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3022178"
     },
     {
       "rank": 7,
-      "title": "颱風煙花登陸日本茨城 創1951年來紀錄",
-      "dek": "新華社報導，颱風煙花罕見以東向西路徑登陸日本茨城縣，登陸後減弱為熱帶低壓，當局警告東北與關東地區持續有洪災風險。",
-      "url": "https://english.news.cn/asiapacific/20260812/7c99daee321248e3ba0385dfcd3ae4e1/c.html"
+      "title": "颱風昌鴻登陸東京近郊 茨城75年來首見颱風直撲",
+      "dek": "昌鴻以近每小時90公里風速登陸茨城縣，為當地1951年以來首次颱風登陸紀錄，隨後迅速減弱消散。",
+      "url": "https://en.tempo.co/read/2117277/typhoon-chan-hom-makes-landfall-near-tokyo-japan"
     },
     {
       "rank": 8,
-      "title": "罕見「三颱共舞」侵擾亞洲 如今皆已解除威脅",
-      "dek": "環球時報報導，多芬、貝路與煙花三颱風本月稍早同時活躍於西北太平洋，如今皆已遠離或減弱。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "17號颱風南卡減弱為熱帶低壓 未直接衝擊日本",
+      "dek": "原預測北上逼近日本東側的大型颱風南卡，8月14日晚間於南鳥島附近減弱，未對日本本土構成直接威脅。",
+      "url": "https://www.fukuishimbun.co.jp/articles/-/2672883"
     },
     {
       "rank": 9,
-      "title": "颱風多芬海上警報解除 路徑轉向中國浙江",
-      "dek": "中央氣象署表示多芬未直接侵襲台灣，中北部僅受外圍環流影響，台中未達停班停課標準。",
-      "url": "https://focustaiwan.tw/society/202608090011"
+      "title": "熱帶風暴梅梅登陸呂宋島伊羅戈斯南省",
+      "dek": "梅梅（國際命名Kujira）以時速75公里風速凌晨登陸，PAGASA預期其穿越呂宋山區後將減弱為熱帶低壓。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-maymay-southwest-monsoon-update-pagasa-forecast-august-6-2026-2am/"
     },
     {
       "rank": 10,
-      "title": "台灣無颱風警報 但高溫不穩定天氣持續",
-      "dek": "中央氣象署對多縣市發布橙色高溫警報，並警告午後雷雨風險將持續至本月22日左右。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862423"
+      "title": "PAGASA示警：8月底前菲律賓恐再迎兩颱風",
+      "dek": "繼路易斯與梅梅接連登陸後，菲律賓氣象單位預估本月恐再有兩個颱風生成，全月總數上看四個。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     }
   ]
 }
