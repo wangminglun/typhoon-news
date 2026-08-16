@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T22:10:00+08:00",
+  "generated_at": "2026-08-16T23:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署證實目前台灣周邊海、陸空域皆無颱風警報生效中，僅因季風低壓帶對中南部發布大雨特報。",
+  "alert_desc": "中央氣象署今晨解除紅霞颱風海上警報，目前台灣周邊海、陸空域皆無颱風警報生效中，僅因殘留水氣對台中、苗栗等17縣市發布豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市16日被列入中央氣象署大雨特報範圍，午後對流雲系恐帶來短時強降雨，惟屬季風低壓帶效應，並非颱風所致；目前並無颱風直接影響台中，市府亦未發布停班停課訊息。"
+    "text": "台中市16日16時45分被中央氣象署列入大豪雨特報範圍，特報效期至今夜零時，需留意雷擊、強陣風及低窪地區淹水風險；目前無颱風警報直接影響台中，市府亦未發布停班停課訊息。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "無颱風威脅台灣 大低壓帶挾豪雨籠罩中南部整週",
-    "dek": "中央氣象署證實目前無海上或陸上颱風警報生效，但一道廣闊的季風低壓帶將為台灣中南部帶來長達一週的強降雨；太平洋另一端，颶風「拉拉」已重創夏威夷大島並造成一人罹難。",
-    "url": "https://www.cna.com.tw/news/ahel/202608160161.aspx"
+    "title": "颱風紅霞警報解除 台灣暫獲喘息 中台灣仍壟罩豪雨陰影",
+    "dek": "中央氣象署今晨解除紅霞颱風海上警報，但台中、苗栗等17縣市豪雨特報持續至今夜，而今年西北太平洋颱風季仍處於歷來最活躍的階段之一。",
+    "url": "https://udn.com/news/story/7266/9649934"
   },
   "items": [
     {
       "rank": 1,
-      "title": "大低壓帶籠罩一週　17日雨勢最強雲林以南防豪雨",
-      "dek": "中央氣象署表示，季風低壓帶將影響台灣約一週，17日水氣最盛，雲林以南地區須嚴防局部豪雨。",
-      "url": "https://www.cna.com.tw/news/ahel/202608160161.aspx"
+      "title": "氣象署解除紅霞颱風海上警報 風暴轉向中國廣東、香港",
+      "dek": "隨著颱風紅霞遠離巴士海峽與台灣海峽，中央氣象署16日上午8時30分解除海上颱風警報，強調本輪風雨過程台灣本島始終未發布陸上警報。",
+      "url": "https://udn.com/news/story/7266/9649934"
     },
     {
       "rank": 2,
-      "title": "低壓帶接棒　嘉義以南防大雨　全台雨勢估連下整週",
-      "dek": "氣象預報指出，季風低壓帶將取代先前天氣型態，為全台帶來一整週降雨，嘉義以南首當其衝。",
-      "url": "https://www.nownews.com/news/6866193"
-    },
-    {
-      "rank": 3,
-      "title": "中北部午後防大雨　氣象署：未來一週不排除熱帶擾動生成",
-      "dek": "中央氣象署提醒中北部留意午後大雨，並指出關島附近未來一週有熱帶擾動發展的可能性，惟目前尚未成形。",
-      "url": "https://www.ettoday.net/news/20260816/3220003.htm"
-    },
-    {
-      "rank": 4,
-      "title": "氣象署發布降雨特報　籲民眾外出留意道路積水",
-      "dek": "中央氣象署16日發布最新降雨特報，提醒多縣市民眾外出時注意路面積水，此波降雨屬季風低壓帶效應。",
+      "title": "台中、苗栗等17縣市發布豪雨特報 氣象署示警雷擊與淹水風險",
+      "dek": "中央氣象署16日下午發布大豪雨特報，涵蓋台中市、苗栗縣及另外15個縣市，效期至當夜零時，警告低窪地區淹水與山區坍方風險。",
       "url": "https://newtalk.tw/news/view/2026-08-16/1053764"
     },
     {
+      "rank": 3,
+      "title": "海警雖已解除 氣象署仍示警屏東、花蓮、台東強降雨風險",
+      "dek": "氣象署說明，即便紅霞颱風海上警報已解除，南部與東部部分地區仍面臨較高淹水風險，新竹以南多地午後恐有大雨。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E8%A7%A3%E9%99%A4%E9%A2%B1%E9%A2%A8%E8%AD%A6%E5%A0%B1-%E5%B1%8F%E6%9D%B1%E3%80%81%E8%8A%B1%E6%9D%B1%E9%98%B2%E8%B1%AA%E9%9B%A8-%E6%96%B0%E7%AB%B9%E4%BB%A5%E5%8D%97%E4%B8%AD%E5%8D%88%E5%BE%8C%E9%98%B2%E5%A4%A7%E9%9B%A8-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D-012709926.html"
+    },
+    {
+      "rank": 4,
+      "title": "熱帶風暴南卡生成 氣象署研判不會直接影響台灣",
+      "dek": "台灣今年第17個編號颱風南卡在硫磺島南方海面生成，受強烈風切影響減弱，氣象署預估路徑將偏向日本東側海域。",
+      "url": "https://focustaiwan.tw/society/202608120008"
+    },
+    {
       "rank": 5,
-      "title": "颶風拉拉掠過夏威夷大島　未正式登陸仍釀一死",
-      "dek": "美聯社與哥倫比亞廣播公司新聞報導，一級颶風「拉拉」15日侵襲夏威夷大島，雖未正式登陸，仍造成一人死亡。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+      "title": "彭博社：2026西太平洋颱風季恐創歷來最活躍紀錄之一",
+      "dek": "商業預測機構「熱帶風暴風險」指出，受強聖嬰現象推動，今年西北太平洋颱風生成量預計較歷史均值高出約六成，已有三個五級颱風生成。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/pacific-typhoon-season-forecast-to-be-among-most-active-ever"
     },
     {
       "rank": 6,
-      "title": "拉拉狂襲夏威夷大島　兩民宅遭沖毀逾12萬戶停電",
-      "dek": "全國廣播公司新聞報導，颶風拉拉為夏威夷大島帶來強降雨，兩棟房屋被沖走，逾12萬5千戶用電受影響。",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hawaiis-big-island-lashed-rain-wind-tropical-storm-lala-rcna592682"
+      "title": "颱風白海豚掠過台灣後於中國浙江溫州登陸",
+      "dek": "白海豚颱風8日至9日最接近台灣期間，為新竹、苗栗山區帶來350至500毫米強降雨，隨後西行於中國浙江溫州附近登陸，氣象署當時未對台灣本島發布陸上警報。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/09/2003862176"
     },
     {
       "rank": 7,
-      "title": "CNN影像直擊：颶風拉拉侵襲夏威夷大島",
-      "dek": "有線電視新聞網影片記錄颶風拉拉掠過夏威夷群島時帶來的強風豪雨畫面。",
-      "url": "https://www.cnn.com/2026/08/16/weather/video/hawaii-hurrican-lala-lashes-big-island-raw-vrtc-digvid"
+      "title": "熱帶風暴璨鴻生成未威脅台灣 隨後在日本外海消散",
+      "dek": "今年第15個編號風暴璨鴻在威克島附近海面生成，一路北上接近東京後於8月12日左右減弱消散，氣象署證實其全程未對台灣構成威脅。",
+      "url": "https://www.icrt.com.tw/info_details.php?mlevel1=6&mlevel2=12&news_id=306614"
     },
     {
       "rank": 8,
-      "title": "拉拉減弱為熱帶風暴遠離夏威夷　大西洋近期無熱帶系統跡象",
-      "dek": "美國國家颶風中心表示，拉拉已減弱為熱帶風暴並持續遠離夏威夷，同時預估大西洋未來七天無熱帶系統發展。",
-      "url": "https://www.wflx.com/2026/08/16/tropics-sunday-august-16-2026-7am-update/"
+      "title": "三颱共舞罕見現象再添一員 颱風琵鷺生成未影響台灣",
+      "dek": "今年第16個颱風琵鷺在菲律賓以東海面生成，與白海豚、璨鴻同時並存形成「三颱共舞」，其路徑偏東北、強度有限，未直接波及台灣或中國沿岸。",
+      "url": "https://www.chinatimes.com/realtimenews/20260809002035-260405"
     },
     {
       "rank": 9,
-      "title": "颱風昌鴻減弱為熱帶低氣壓　未對台灣造成影響",
-      "dek": "中央氣象署指出，颱風昌鴻於8月12日減弱為熱帶性低氣壓，其路徑朝日本移動，未對台灣構成威脅。",
-      "url": "https://news.pchome.com.tw/travel/thehubnews/20260812/index-78650799875946306009.html"
+      "title": "颶風拉拉侵襲夏威夷大島 釀一死、逾12萬戶停電",
+      "dek": "颶風拉拉以每小時75英里風速登陸夏威夷大島，觸發洪水緊急狀態並沖毀納阿萊胡部分房屋，造成一人於相關車禍中喪生，全州逾12.4萬戶停電。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 10,
-      "title": "氣象署示警週末起天氣不穩定　為本週降雨型態序曲",
-      "dek": "台北時報報導，中央氣象署稍早警告週末起天氣將轉為不穩定，高溫、強降雨與強風齊發，為本週季風降雨埋下伏筆。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862423"
+      "title": "颶風吉納維芙增強為四至五級強颶風 逼近墨西哥太平洋岸外海",
+      "dek": "颶風吉納維芙迅速增強為最高近五級的強烈颶風，風速逼近每小時140英里，路徑與墨西哥海岸平行但未登陸，其外圍水氣仍為墨西哥至少17州帶來強降雨。",
+      "url": "https://abcnews.com/US/wireStory/genevieve-major-pacific-hurricane-off-mexico-direct-threat-135104049"
     }
   ]
 }
