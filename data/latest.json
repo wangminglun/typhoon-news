@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T15:10:00+08:00",
+  "generated_at": "2026-08-16T16:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。上一次因颱風白海豚發布的海上颱風警報已於8月9日深夜11時30分解除；西北太平洋熱帶低氣壓南卡與琵洛均已減弱至警報門檻以下，於公海逐漸消散，日本氣象廳截至目前也尚未將新系統命名為今年第18號颱風。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。台灣已進入本月稍早「三颱共存」以來的颱風空窗期，今日天氣主要受西南風及地面熱對流影響，中南部有局部大雨機率，並非颱風系統所致。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。白海豚颱風海上警報已於8月9日解除，目前並無任何颱風系統逼近台灣，台中未受颱風風雨警報影響，也沒有停班停課的情況。"
+    "text": "目前無颱風直接影響台中。今日（8/16）台中受地面熱對流、西南風及高溫影響，中南部地區有局部大雨可能，白天高溫上看32-33°C，但無颱風海上/陸上警報生效，亦無停班停課相關通知。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "白海豚遠離、海警解除 台灣進入颱風空窗期，太平洋焦點轉向夏威夷颶風拉拉",
-    "dek": "中央氣象署已解除白海豚颱風海上警報，台灣暫無颱風直接威脅，而太平洋中部的一級颶風拉拉正緩慢遠離夏威夷大島。",
-    "url": "https://www.hawaiinewsnow.com/2026/08/16/live-hurricane-lalas-eyewall-brushes-hawaii-island-steady-weakening-expected-tonight/"
+    "title": "賴拉颶風重創夏威夷大島釀一死 台灣仍處無颱風空窗期、西南風雨與高溫成主戲",
+    "dek": "CNN最新畫面顯示賴拉颶風持續衝擊夏威夷大島並已造成一人死亡；中央氣象署則預告台灣今日將受西南風及地面熱對流影響，中南部有局部大雨、局部高溫上看36°C，目前無海上或陸上颱風警報生效。",
+    "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風拉拉眼牆逐漸遠離夏威夷大島 強度緩步減弱",
-      "dek": "夏威夷當地媒體報導，拉拉持續向夏威夷大島以南海域移動，預期今晚至週日將持續減弱。",
-      "url": "https://www.hawaiinewsnow.com/2026/08/16/live-hurricane-lalas-eyewall-brushes-hawaii-island-steady-weakening-expected-tonight/"
-    },
-    {
-      "rank": 2,
-      "title": "美國國家颶風中心：拉拉強度持穩 週日前將緩慢減弱",
-      "dek": "NHC預報員指出，拉拉中心已移至大島外海，下週一晚間至週二有可能再度增強。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCDCP2+html/151453.shtml"
-    },
-    {
-      "rank": 3,
-      "title": "一級颶風拉拉侵襲夏威夷大島 CBS地圖顯示其路徑",
-      "dek": "CBS新聞報導，拉拉以一級颶風之姿最接近夏威夷大島，造成溪水暴漲、電線倒塌與數萬戶停電，隨後將轉向茂宜郡、歐胡島與考艾島。",
+      "title": "CBS新聞：賴拉颶風重創夏威夷大島 一級颶風雖未登陸仍釀一死",
+      "dek": "賴拉颶風以每小時80英里風速逼近大島，未直接登陸但降下破紀錄豪雨，單日雨量逾16英寸，全州近7.6萬戶停電。",
       "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
+      "rank": 2,
+      "title": "CNN最新畫面：賴拉颶風持續衝擊夏威夷大島",
+      "dek": "CNN 8月16日報導指出，賴拉颶風雖未直接登陸，仍為大島帶來強風豪雨，預料風暴核心將轉向西行並停留在主要島鏈以南，淹水與土石流風險持續。",
+      "url": "https://www.cnn.com/2026/08/16/weather/video/hawaii-hurrican-lala-lashes-big-island-raw-vrtc-digvid"
+    },
+    {
+      "rank": 3,
+      "title": "中央氣象署：西南風將為台灣南部帶來大雨",
+      "dek": "氣象署預告8月16日西南風影響下，中南部地區有局部大雨可能，多地高溫上看32至33°C，大台北、花東部分地區估達36°C，未涉及任何颱風系統。",
+      "url": "https://focustaiwan.tw/society/202608150003"
+    },
+    {
       "rank": 4,
-      "title": "颶風警報生效 CNN報導拉拉逼近夏威夷",
-      "dek": "CNN報導，美國國家氣象局對夏威夷大島發布颶風警報，並將拉拉的快速增強與中太平洋海面異常偏暖連結。",
-      "url": "https://www.cnn.com/2026/08/13/weather/tropical-storm-lala-hawaii-climate"
+      "title": "台北時報：氣象署針對不穩定天氣發布多項豪雨與強風諮詢",
+      "dek": "中央氣象署本週稍早已針對台南、高雄、屏東及恆春半島發布豪雨特報，並對綠島、蘭嶼、新北、馬祖與新竹發布強風特報，均屬非颱風性天氣示警。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862440"
     },
     {
       "rank": 5,
-      "title": "檀香山星報：拉拉逼近南角 當日稍晚可能登陸為颶風",
-      "dek": "當地媒體報導，拉拉以80英里風速逼近夏威夷大島南角，全島多處發布洪水警報，逾4.4萬戶一度停電。",
-      "url": "https://www.staradvertiser.com/2026/08/15/breaking-news/lala-lashing-hawaii-island-landfall-as-a-hurricane-possible-later-today/"
+      "title": "太平洋災害中心：JTWC監測威克島附近新生擾動Invest 98W",
+      "dek": "太平洋災害中心已將白海豚、璨樹、琵琶等颱風正式除名，同時指出新生熱帶擾動Invest 98W在威克島附近發展中，路徑朝北北東遠離台灣與菲律賓。",
+      "url": "https://www.pdc.org/weather-wall-updates/retiring-tropical-cyclone-12w-dolphin-tropical-cyclone-14w-chan-hom-tropical-cyclone-13w-peilou-invest-98w-pacific/"
     },
     {
       "rank": 6,
-      "title": "中央氣象署對颱風白海豚發布海上警報",
-      "dek": "中央社報導，白海豚颱風自台灣東方海域接近，氣象署發布海上颱風警報，隨後對北部及東部縣市發布強風豪雨特報。",
-      "url": "https://focustaiwan.tw/society/202608070010"
+      "title": "GMA新聞網：PAGASA預測8月底前菲律賓將再迎兩個颱風",
+      "dek": "繼路易斯與梅梅之後，菲律賓氣象機構PAGASA預估本月底前還會有兩個颱風生成，使8月整體颱風總數達四個。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
       "rank": 7,
-      "title": "白海豚颱風解除海警 氣象署公布最新路徑與影響範圍",
-      "dek": "TVBS新聞報導，氣象署已於8月9日深夜11時30分解除白海豚颱風海警，暴風圈遠離後轉向中國浙江沿海，台北與台中山區累積雨量一度逼近400毫米。",
-      "url": "https://news.tvbs.com.tw/life/4002686"
+      "title": "GMA新聞網：西南季風持續為呂宋島帶來豪雨至8月17日",
+      "dek": "PAGASA警告西南季風（Habagat）將持續影響呂宋與維薩亞斯地區至8月17日，預估降雨量介於50至100毫米。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998609/parts-of-luzon-to-experience-heavy-rain-from-aug-15-to-17-2026/story/"
     },
     {
       "rank": 8,
-      "title": "超級颱風巴威成為2026年第3個五級颱風",
-      "dek": "耶魯氣候連線報導，巴威颱風在西北太平洋迅速增強至五級強度，7月中旬影響台灣，包括台中在內九縣市停班停課。",
-      "url": "https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/"
+      "title": "Tempo.co：璨樹颱風以罕見路徑登陸東京附近",
+      "dek": "本季第15號颱風璨樹以少見的由東向西路徑逼近東京，8月12日減弱為熱帶低氣壓前，已在菲律賓引發致命土石流，並在日本、台灣造成停電災情。",
+      "url": "https://en.tempo.co/read/2117277/typhoon-chan-hom-makes-landfall-near-tokyo-japan"
     },
     {
       "rank": 9,
-      "title": "熱帶低氣壓南卡最終警報 已在公海減弱消散",
-      "dek": "科羅拉多州立大學監測資料顯示，南卡已在南鳥島以北約260浬處減弱至30節後發布最終警報，另一熱帶低氣壓琵洛同樣減弱，兩者皆在公海消散，對陸地無威脅。",
-      "url": "https://rammb-data.cira.colostate.edu/tc_realtime/storm.asp?storm_identifier=wp162026"
+      "title": "BusinessWorld：庫芥消散、白海豚增強西南季風重創呂宋",
+      "dek": "熱帶風暴庫芥（菲律賓命名梅梅）已消散並併入白海豚環流，導致西南季風增強，為呂宋帶來強降雨。",
+      "url": "https://bworldonline.com/the-nation/2026/08/07/768817/kujira-dissipates-typhoon-dolphin-enhances-southwest-monsoon-drenching-luzon/"
     },
     {
       "rank": 10,
-      "title": "菲律賓大氣地球物理天文服務署：8月恐再有兩個颱風生成",
-      "dek": "菲律賓GMA新聞報導，菲律賓氣象局預估8月還會有兩到四個熱帶氣旋在其責任區內形成或進入，此前露易絲及梅梅已在呂宋島登陸。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
+      "title": "St. Thomas Source：美國國家颶風中心密切監控大西洋Invest 92L朝向背風群島移動",
+      "dek": "美國國家颶風中心（NHC）標定中大西洋新擾動Invest 92L，發展機率達七至八成，預估路徑朝背風群島移動，可能為美屬維京群島及波多黎各帶來降雨。",
+      "url": "https://stthomassource.com/content/2026/08/12/nhc-monitors-active-atlantic-as-invest-92l-moves-toward-lesser-antilles/"
     }
   ]
 }
