@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:09:00+08:00",
+  "generated_at": "2026-08-17T05:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署證實截至8月16日，海上及陸上颱風警報均未發布；西北太平洋近期同時出現的杜芬、畫眉、琵萊三颱均已消散或減弱遠離，台灣暫無颱風直接威脅。",
+  "alert_desc": "中央氣象署已於8月9日晚間解除颱風白海豚海上颱風警報，截至8月16日未再發布任何海上或陸上颱風警報，台灣目前無颱風直接威脅，僅因西南氣流對台中等縣市發布大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。台中已於8月16日下午4時升級為超大豪雨特報，24小時雨量有機會突破200毫米，或3小時內降下逾100毫米的強降雨，此波降雨由西南氣流所致，與颱風系統無關。截至目前尚未發布停班停課。"
+    "text": "目前無颱風直接影響台中，但中央氣象署已於8月16日下午3時30分對台中發布大雨特報，因西南氣流午後對流旺盛，恐有短延時強降雨、雷擊、強陣風及淹水風險，此波降雨與颱風無關，截至目前尚未發布停班停課。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "西太平洋風暴群相繼消散 台灣暫無颱風威脅 但西南氣流仍為中部帶來超大豪雨",
-    "dek": "中央氣象署證實目前無颱風警報生效，台中因西南氣流於週日下午升級為超大豪雨特報，同時太平洋彼端的熱帶風暴「拉拉」重創夏威夷大島並造成一死。",
+    "title": "白海豚遠離台灣無颱風警戒 但西南氣流為台中等地帶來豪雨",
+    "dek": "中央氣象署已解除颱風白海豚海上警報，全台目前無任何颱風警報生效，僅因西南氣流影響對台中等縣市發布大雨特報。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴拉拉重創夏威夷大島 一人罹難、近13萬戶停電",
-      "dek": "拉拉一度增強為一級颶風並帶來豪雨與強風，夏威夷宣布進入緊急狀態後，風暴已於8月16日在檀香山附近減弱。",
-      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
+      "title": "白海豚重創北台灣 多起倒樹毀損傳出",
+      "dek": "中央社（Focus Taiwan）報導，颱風白海豚為北台灣帶來強風豪雨，台北市災害應變中心截至上午11時已接獲182件災情通報，五人受傷。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     },
     {
       "rank": 2,
-      "title": "氣象署發布全台豪雨特報 台中升級超大豪雨等級",
-      "dek": "中央氣象署表示，此波強降雨源自西南氣流增強，而非颱風系統所致。",
-      "url": "https://focustaiwan.tw/society/202608160006"
+      "title": "白海豚持續減弱 氣象署晚間解除海上颱風警報",
+      "dek": "中央社報導，白海豚減弱為輕度颱風並於8日傍晚登陸中國浙江，中心遠離台灣後，氣象署於當晚11時30分解除海上颱風警報。",
+      "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
     },
     {
       "rank": 3,
-      "title": "杜芬、畫眉、琵萊三颱正式除名 太平洋災害中心轉而關注新擾動98W",
-      "dek": "太平洋災害中心證實近期西北太平洋三個命名風暴均已消散，同時一個新生擾動正在威克島附近醞釀。",
-      "url": "https://www.pdc.org/weather-wall-updates/retiring-tropical-cyclone-12w-dolphin-tropical-cyclone-14w-chan-hom-tropical-cyclone-13w-peilou-invest-98w-pacific/"
+      "title": "氣象署：白海豚週六晚至週日最接近台灣",
+      "dek": "Focus Taiwan報導，氣象署預測白海豚將於8月8日至9日對台灣造成最顯著影響，當時中心距台北東北方約510公里，以時速10至14公里向西北西移動。",
+      "url": "https://focustaiwan.tw/society/202608080002"
     },
     {
       "rank": 4,
-      "title": "熱帶風暴杜芬襲擊中國東部 強風豪雨引發最高等級戒備",
-      "dek": "杜芬以颱風強度登陸浙江，中國當局發布最高氣象預警，溫州一地即疏散逾90萬人。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds"
+      "title": "氣象署針對颱風白海豚發布海上警報",
+      "dek": "Focus Taiwan報導，中央氣象署於8月7日下午對範圍廣大的中度颱風白海豚發布海上颱風警報，警告其外圍環流恐為南北山區帶來豪雨。",
+      "url": "https://focustaiwan.tw/society/202608070010"
     },
     {
       "rank": 5,
-      "title": "颱風杜芬逼近 上海取消逾1300航班、疏散逾30萬人",
-      "dek": "上海兩大機場大規模取消航班並暫停部分地鐵路線，四川鐵路集團也停駛逾百班列車以因應風暴來襲。",
-      "url": "https://www.cbc.ca/news/world/typhoon-9.7301432"
+      "title": "西南氣流影響 南部及北部午後現局部大雨",
+      "dek": "中央社報導，在無颱風活動下，西南氣流為南台灣帶來局部豪雨，台北盆地午後也出現雷陣雨，此天氣型態延續至8月16日。",
+      "url": "https://www.cna.com.tw/news/ahel/202608150017.aspx"
     },
     {
       "rank": 6,
-      "title": "颱風杜芬北經台灣海域 氣象署發布海上颱風警報",
-      "dek": "杜芬行經台灣北方海域期間，氣象署預警中央山脈及北部地區將迎來豪雨到超大豪雨。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
+      "title": "氣象署發布8月16日大雨特報 籲民眾留意路面積水",
+      "dek": "Newtalk新聞報導，中央氣象署下午3時30分對台中及西半部多數縣市發布大雨特報，警告午後對流旺盛恐致強降雨與淹水，與颱風無關。",
+      "url": "https://newtalk.tw/news/view/2026-08-16/1053747"
     },
     {
       "rank": 7,
-      "title": "三颱同時現身西北太平洋 均未預期直撲台灣",
-      "dek": "氣象專家追蹤杜芬、畫眉、琵萊三個同時活躍的風暴，指出台灣僅會受外圍環流影響，不致直接登陸。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/06/2003861997"
+      "title": "第16號颱風佩羅減弱為熱帶低壓",
+      "dek": "日本氣象協會tenki.jp報導，形成於小笠原群島附近的颱風佩羅已於8月12日晚間9時減弱為熱帶低壓，未對日本或台灣構成威脅。",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/08/12/40118.html"
     },
     {
       "rank": 8,
-      "title": "颱風琵萊生成 締造「三颱共舞」罕見局面",
-      "dek": "琵萊加入杜芬與畫眉的行列成為區域內第三個活躍風暴，隨後強度趨緩，逼近日本時已減弱為熱帶低氣壓。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "殘留低壓南卡持續東移遠離 對台無威脅",
+      "dek": "追蹤網站Zoom Earth顯示，日本編號第17號颱風南卡正在南鳥島以北海域減弱為殘留低壓，持續東移，遠離台灣。",
+      "url": "https://zoom.earth/storms/nangka-2026/"
     },
     {
       "rank": 9,
-      "title": "風暴群遠離後 氣象署仍對台灣發布多重天氣警示",
-      "dek": "在西北太平洋風暴群消散之際，氣象署一度針對高溫、豪雨與強風同時發布警戒，惟當時無颱風直接威脅台灣。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862440"
+      "title": "第13號颱風白海豚形成 一度預測恐達超強颱風等級",
+      "dek": "點新聞報導，白海豚於7月底在西北太平洋生成時，預測路徑顯示可能於8月初逼近日本、台灣一帶，並有機會增強至超強颱風級。",
+      "url": "https://www.dotdotnews.com/a/202607/29/AP6a69641ce4b04b6c5d3512a0.html"
     },
     {
       "rank": 10,
-      "title": "NOAA維持大西洋颶風季偏弱預測",
-      "dek": "美國國家海洋暨大氣總署重申本季颶風活動將低於正常水準，目前僅生成兩個命名風暴。",
-      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
+      "title": "預測機構：今年底前恐再有五個颱風或風暴形成",
+      "dek": "《台北時報》報導，台灣預報單位曾預估2026年下半年颱風季活躍，如今西北太平洋命名風暴數已逾17個，為1976年以來同期最活躍年份之一。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     }
   ]
 }
