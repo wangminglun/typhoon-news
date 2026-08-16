@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T20:13:00+08:00",
+  "generated_at": "2026-08-16T21:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "目前無海上或陸上颱風警報，中央氣象署證實台灣現階段不受任何颱風系統直接威脅，降雨主要受西南風及低壓帶影響。",
+  "alert_desc": "中央氣象署已於8月9日解除白海豚颱風的海上颱風警報，目前台灣周邊海、陸空域皆無颱風警報生效中，氣象單位持續觀察南海及菲律賓東方海面的熱帶擾動。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中市未受任何颱風系統直接影響，8月16日的降雨主要集中在嘉義以南地區，屬西南風/低壓帶影響的一般性降雨，並無達到停班停課標準，也無颱風相關風雨警戒。"
+    "text": "目前無颱風直接影響台中，台中市未發布停班停課訊息；不過氣象預報指出，週一（8月17日）起低壓帶及熱帶擾動將使台灣（含台中）降雨機率與雨勢增加，需留意後續豪雨特報，但尚無停班停課相關公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颶風「拉拉」重創夏威夷大島　1死、逾12萬戶停電",
-    "dek": "拉拉颶風以一級颶風強度掠過夏威夷大島，造成1人死亡、至少2棟房屋遭沖毀，而台灣目前無颱風警報，降雨主要受西南風影響。",
+    "title": "颶風拉拉重創夏威夷大島釀1死　台灣暫無颱風警報但周一起雨勢增",
+    "dek": "太平洋颶風「拉拉」侵襲夏威夷大島造成人員傷亡與大規模停電之際，台灣周邊海、陸空域目前皆無颱風警報生效，氣象單位提醒本週稍後將受低壓帶及熱帶擾動影響、降雨機率增加。",
     "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風拉拉肆虐夏威夷大島　造成1人死亡",
-      "dek": "拉拉颶風增強為一級颶風並掠過夏威夷大島，暴風眼在外海約30英里處通過，帶來豪雨、瞬間洪水與強風災情，1人於車禍中喪生。",
+      "title": "颶風拉拉侵襲夏威夷大島　釀1人死亡",
+      "dek": "CNN報導，拉拉颶風眼牆掠過大島南側，強風豪雨造成人員傷亡與建築物受損、大規模停電，惟未正式登陸。",
       "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
     },
     {
       "rank": 2,
-      "title": "拉拉颶風掠過夏威夷大島未登陸　仍釀1死逾12萬戶停電",
-      "dek": "拉拉周六以每小時75英里持續風速增強為颶風，雖未直接登陸大島，但已造成逾12萬4000戶停電，那阿萊胡附近至少2棟房屋遭洪水沖走。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
-    },
-    {
-      "rank": 3,
-      "title": "拉拉颶風豪雨襲夏威夷大島　1死、多棟房屋遭沖毀",
-      "dek": "拉拉帶來的暴雨在大島引發瞬間洪水緊急狀態，至少19棟建築物屋頂被掀翻，官員警告風雨中心正轉向茂宜島等其他島嶼。",
+      "title": "1死、民宅遭沖走　颶風拉拉重創夏威夷大島",
+      "dek": "NBC新聞報導，島上至少19棟建築屋頂受損、逾6萬戶停電，納阿萊胡地區兩棟民宅遭暴漲溪水沖走。",
       "url": "https://www.nbcnews.com/weather/hurricanes/hawaiis-big-island-lashed-rain-wind-tropical-storm-lala-rcna592682"
     },
     {
+      "rank": 3,
+      "title": "颶風拉拉為夏威夷帶來強風豪雨　國家颶風中心示警",
+      "dek": "據weather.com報導，美國國家颶風中心預測大島與茂宜島降雨量最高恐達25英寸，山區將出現最強陣風。",
+      "url": "https://weather.com/2026/08/15/storms/hurricane/hawaii-hurricane-tropical-storm-lala-forecast"
+    },
+    {
       "rank": 4,
-      "title": "拉拉颶風帶來強風豪雨　夏威夷島數千戶停電",
-      "dek": "檀香山公民新聞網報導，拉拉外圍環流通過夏威夷島造成連鎖停電與淹水，當地電力公司正全力搶修，島鏈其餘地區仍面臨嚴峻威脅。",
-      "url": "https://www.civilbeat.org/2026/08/hurricane-lala-brings-rain-and-strong-winds-thousands-on-hawaii-island-lose-power/"
+      "title": "拉拉以一級颶風強度掠過夏威夷大島　未正式登陸仍釀1死",
+      "dek": "CBS新聞報導，拉拉最大持續風速曾達每小時75英里，隨後減弱為熱帶風暴，大島仍維持颶風警報。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 5,
-      "title": "佛斯托轉為溫帶系統　仍將為夏威夷帶來危險大浪",
-      "dek": "曾威脅夏威夷的颶風佛斯托已在夏威夷以北海域減弱為溫帶低壓殘留系統，但預期持續在北向海岸掀起強勁大浪與離岸流。",
-      "url": "https://www.foxweather.com/weather-news/hurricane-fausto-churns-dangerous-waves-hawaii"
+      "title": "拉拉颶風釀致命瞬間洪水　夏威夷大島部分地區發布緊急警報",
+      "dek": "ABC新聞報導，大島部分地區降雨強度每小時達3至5英寸，當局發布危及生命的瞬間洪水緊急警報。",
+      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026"
     },
     {
       "rank": 6,
-      "title": "8/16天氣預報》嘉義以南防大雨！明起低壓帶接棒　各地雨炸一整周",
-      "dek": "西南氣流為嘉義以南地區帶來局部強降雨，低壓帶接棒後預計全台將迎來長達一週的多雨天氣，目前無颱風系統涉入此波降雨。",
-      "url": "https://www.nownews.com/news/6866193"
+      "title": "夏威夷發布颶風警報　福斯天氣持續追蹤拉拉動向",
+      "dek": "福斯天氣即時報導指出，夏威夷群島多島同時發布颶風警報與熱帶風暴警報，因應拉拉逼近。",
+      "url": "https://www.foxweather.com/live-news/live-updates-hurricane-warning-issued-for-hawaii-as-tropical-storm-lala-bears-down-on-the-islands"
     },
     {
       "rank": 7,
-      "title": "快訊》8/16降雨特報！外出請注意，留意路面積水",
-      "dek": "中央氣象署因西南風對流發布8月16日大雨特報，提醒相關地區民眾留意局部淹水及道路積水情況。",
-      "url": "https://newtalk.tw/news/view/2026-08-16/1053764"
+      "title": "拉拉增強逼近　夏威夷恐迎數十年來首次颶風登陸",
+      "dek": "CNN報導，拉拉逼近前持續增強，路徑一度顯示夏威夷可能面臨數十年來首次颶風直接登陸，全州展開防災整備。",
+      "url": "https://www.cnn.com/2026/08/13/weather/tropical-storm-lala-hawaii-climate"
     },
     {
       "rank": 8,
-      "title": "【一週天氣】16縣市大雨特報至今晚　「這天」起雨更大有熱帶擾動醞釀",
-      "dek": "16縣市大雨特報將持續至周日晚間，氣象單位並指出關島以東海域一股熱帶擾動預計8月20日前後開始發展，後續是否影響東亞值得觀察。",
-      "url": "https://n.yam.com/Article/20260816229189"
+      "title": "熱帶風暴拉拉重創夏威夷電力系統　逾8.8萬戶停電",
+      "dek": "夏威夷當地媒體KITV報導，拉拉風雨帶橫掃全州，大島停電情形最為嚴重。",
+      "url": "https://www.kitv.com/news/business/tropical-storm-lala-causes-power-outages-across-hawaii-88k-customers-impacted/article_9d6ca948-7e3b-459c-946d-064a997ce630.html"
     },
     {
       "rank": 9,
-      "title": "天氣預報／新颱風要來了？全台變天！這天起「劇烈降雨連下3天」放晴時間點曝光",
-      "dek": "風傳媒報導指出，一股新的熱帶系統可能成形並影響台灣天氣，未來數天將有強降雨，但氣象署目前尚未發布任何颱風警報。",
-      "url": "https://www.storm.mg/lifestyle/11156852"
+      "title": "南海、菲律賓東方海面現熱帶擾動　氣象專頁：颱風生成鏈尚未中斷",
+      "dek": "Newtalk新聞報導，氣象粉絲專頁指出季風環流持續醞釀熱帶系統，能否增強為颱風仍待觀察，但可能牽動台灣週一起的降雨型態。",
+      "url": "https://newtalk.tw/news/view/2026-08-16/1053680"
     },
     {
       "rank": 10,
-      "title": "氣象署為颱風白海豚發布海上警報（回顧台灣最近一次颱風動態）",
-      "dek": "中央氣象署曾針對颱風白海豚接近台灣北部海域發布海上警報，該颱風最終未登陸台灣，警報已於8月9日解除，並於8月10日在中國浙江登陸後消散。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
+      "title": "颱風白海豚重創台灣北部　逾百件災情通報",
+      "dek": "中央社報導，白海豚颱風為北台灣帶來強風豪雨，台北市災害應變中心統計182件災情通報，5人受傷。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     }
   ]
 }
