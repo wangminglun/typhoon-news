@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T11:13:00+08:00",
+  "generated_at": "2026-08-16T12:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。上一個接近台灣的系統——颱風白海豚（Dolphin）——已於8月9日至10日在中國浙江一帶登陸並於內陸消散，警報隨其遠離而解除；近日台灣主要受西南氣流影響有較大雨勢，並非颱風環流所致。",
+  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。上一次警報已於8月9日晚間11時30分隨颱風白海豚減弱進入中國浙江而解除；目前台灣主要受季風低壓槽影響，未來一週恐有不穩定降雨，氣象專家也在觀察下週是否有新熱帶擾動生成。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，中央氣象署並未針對台中發布海上或陸上颱風警報；台中近日僅受西南風/西南氣流影響，出現大雨或豪雨特報，並無因颱風而停班停課的情況。"
+    "text": "目前無颱風直接影響台中，中央氣象署並未對台中發布海上或陸上颱風警報；台中目前僅受季風低壓槽影響，可能有午後雷陣雨或局部大雨與雷擊，尚無因颱風而停班停課的情況。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颶風萊拉重創夏威夷大島 台灣本島現無颱風警報",
-    "dek": "一級颶風萊拉為夏威夷帶來強風豪雨與大規模停電之際，中央氣象署證實台灣目前未受任何颱風系統直接威脅，近期形成的白海豚、昌鴻、琵鷺與南卡均已遠離或減弱。",
-    "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+    "title": "太平洋無颱風逼台 萊拉重創夏威夷大島",
+    "dek": "中央氣象署證實台灣海陸無颱風警報，但季風雨帶未來一週恐帶來強降雨，下週更有新熱帶擾動醞釀，同時颶風萊拉正猛烈侵襲夏威夷大島。",
+    "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風萊拉重創夏威夷大島 一級風暴挾豪雨強風",
-      "dek": "颶風萊拉以時速75英里的強風掠過夏威夷大島南方海域，導致全州約6萬8000戶停電，山區降雨量高達13至18英寸，逾130名居民已撤往縣府避難所。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+      "title": "今起雨彈炸一周 熱帶擾動醞釀中",
+      "dek": "中央氣象署與民間氣象專家指出，台灣自8月16日起將受季風低壓槽影響，迎來長達七到十天的不穩定天氣，同時一股新的熱帶擾動正在形成，其未來路徑仍待觀察。",
+      "url": "https://www.chinatimes.com/realtimenews/20260816000699-260405"
     },
     {
       "rank": 2,
-      "title": "美國國家颶風中心：萊拉持續增強 危險天候恐持續至週末",
-      "dek": "根據美國國家颶風中心最新公告，萊拉風力已增至70節，以每小時8英里速度向西北移動，過去12小時茂宜島與夏威夷島迎風面降雨量達12至13英寸，預期危險天候將持續至週末。",
-      "url": "https://www.nhc.noaa.gov/text/refresh/HFOTCDCP2+shtml/140836.shtml"
+      "title": "雙颱機率增 專家示警下週恐現雙熱帶系統",
+      "dek": "氣象評論員吳聖宇表示，下週後半南海與菲律賓以東海面可能同時醞釀熱帶擾動，任一系統成形都將影響台灣天氣，菲律賓以東系統被視為較可能接近台灣。",
+      "url": "https://www.chinatimes.com/realtimenews/20260815001983-260405"
     },
     {
       "rank": 3,
-      "title": "颱風白海豚重創中國東部 逾百萬人撤離",
-      "dek": "颱風白海豚在掠過台灣與沖繩後於中國東部登陸，當地緊急撤離約100萬人，此前該颱風已在日本小笠原群島與沖繩造成至少6人受傷、逾5萬棟建築物停電。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+      "title": "颶風萊拉直撲夏威夷大島 一級颶風狂降暴雨",
+      "dek": "CNN報導，颶風萊拉週六增強為一級颶風並開始侵襲夏威夷大島，12小時內降雨逾一英尺引發局部淹水，恐創下155年來首個直接登陸大島的颶風紀錄。",
+      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
     },
     {
       "rank": 4,
-      "title": "颱風白海豚掠境北台灣 通報182件災情、5人受傷",
-      "dek": "據台北市災害應變中心統計，颱風白海豚最接近台灣期間，截至上午11時已接獲182件災情通報，多為路樹倒塌與建物毀損，5人因倒樹、圍籬或屋瓦掉落受傷，多數災情已排除。",
-      "url": "https://focustaiwan.tw/society/202608090003"
+      "title": "萊拉路徑圖曝光 夏威夷全境進入警戒",
+      "dek": "CBS News報導，夏威夷郡已發布颶風警報、全州其餘地區列入熱帶風暴警報，累計逾四萬四千至七萬六千戶停電，多座機場與港口關閉。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 5,
-      "title": "颱風白海豚持續減弱 中央氣象署晚間解除海上警報",
-      "dek": "中央氣象署表示，今年第13號颱風白海豚已減弱為輕度颱風，並在其於中國浙江登陸後，於當晚11時30分解除海上警報，台灣本島全程未發布陸上警報。",
-      "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
+      "title": "萊拉逼近大島南端 歐胡島、考艾島發布熱帶風暴Watch",
+      "dek": "檀香山《Star-Advertiser》報導，氣象單位預測萊拉將以颶風強度接近大島南端，隨後轉向西行掠過歐胡島與考艾島外海，不排除8月17、18日再度增強。",
+      "url": "https://www.staradvertiser.com/2026/08/14/breaking-news/lala-on-path-to-reach-big-island-as-hurricane-oahu-kauai-under-tropical-storm-watch/"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴昌鴻登陸東京近郊 為1951年以來首見",
-      "dek": "熱帶風暴昌鴻於8月11日晚間在日本茨城縣登陸東京近郊，是當地自1951年以來首次出現颱風強度登陸紀錄，造成多人受傷、大東京地區逾2萬2000戶停電。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
+      "title": "白海豚減弱入陸 氣象署解除海上颱風警報",
+      "dek": "白海豚颱風中心8月9日移至馬祖北方約190公里海面並持續減弱，朝中國浙江方向移動，氣象署當晚11時30分解除海上颱風警報，為近期最後一次颱風警報。",
+      "url": "https://news.nextapple.com/life/20260809/3CDBB847C92F4C31719D97D670A3C0A8"
     },
     {
       "rank": 7,
-      "title": "昌鴻減弱為熱帶低壓遠離日本 東京交通電力恢復正常",
-      "dek": "根據美聯社報導，昌鴻已減弱為熱帶低壓並離開日本，東京地區交通與電力大致恢復正常，美國聯合颱風警報中心預測其殘餘系統將進入日本海後消散。",
-      "url": "https://www.usnews.com/news/world/articles/2026-08-11/tropical-storm-hits-tokyo-area-leaving-thousands-without-power-before-moving-west"
+      "title": "南卡颱風生成 氣象署：對台無直接影響",
+      "dek": "Focus Taiwan報導，今年第17號颱風南卡在硫磺島東南方海面形成，預計轉向東北朝日本東方海域移動，氣象署表示對台灣天氣無直接影響。",
+      "url": "https://focustaiwan.tw/society/202608120008"
     },
     {
       "rank": 8,
-      "title": "今年第16號颱風琵鷺生成 對台灣無直接影響",
-      "dek": "關島東北方熱帶性低氣壓增強為今年第16號颱風琵鷺，與白海豚、昌鴻形成罕見「三颱共舞」局面，日本氣象廳預測其將朝東北方向移動，遠離台灣。",
-      "url": "https://today.line.me/tw/v3/article/WBRnXzE"
+      "title": "高溫不穩定天氣持續 午後雷陣雨頻傳",
+      "dek": "Taipei Times報導，氣象署發布高溫與大雨特報，受不穩定天氣影響，午後對流旺盛，西南部地區恐有雷擊、強陣風與短時強降雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862423"
     },
     {
       "rank": 9,
-      "title": "雙颱共舞不襲台 南卡、琵鷺持續遠離台灣",
-      "dek": "截至8月13日，颱風琵鷺與熱帶風暴南卡均確認遠離台灣、無直接威脅，但午後雷陣雨仍將持續影響全台一整週。",
-      "url": "https://news.nextapple.com/life/20260813/CA974460C59331186D8547F785A44960"
+      "title": "強颱昌鴻罕見登陸東京 創1951年以來首例",
+      "dek": "《日本時報》報導，強烈熱帶風暴昌鴻8月11日夜間登陸關東地區茨城縣一帶，為1951年以來首個以颱風強度登陸當地的系統，登陸後約一天內減弱消散。",
+      "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴南卡生成 台灣持續高溫大雨但非直接威脅",
-      "dek": "熱帶風暴南卡在硫磺島南方海域生成，預測將轉向東北移動，不會直接威脅台灣；中央氣象署另針對台北、新北發布高溫特報，最高氣溫達攝氏38度。",
-      "url": "https://focustaiwan.tw/society/202608120008"
+      "title": "琵鷺颱風生成 曾與白海豚、昌鴻並存罕見「三颱共舞」",
+      "dek": "《環球時報》報導，今年第16號颱風琵鷺一度與白海豚、昌鴻同時活躍，其路徑北上關島、塞班附近後牽引西南季風，為菲律賓多地帶來強降雨。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
     }
   ]
 }
