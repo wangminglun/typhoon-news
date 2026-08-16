@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T17:10:00+08:00",
+  "generated_at": "2026-08-16T18:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。最近一次警報——針對白海豚颱風的海上颱風警報——已於8月9日晚間11時30分解除，太平洋上目前無颱風直接威脅台灣。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。西太平洋與菲律賓責任海域內均無現成命名颱風，惟西南氣流已為台灣多縣市帶來豪大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。台中上一次因颱風（巴威）停班停課是7月10日晚間至7月11日全天；白海豚颱風8月9日外圍環流掃過期間，台中未達停班停課標準，目前亦無颱風海上/陸上警報生效。"
+    "text": "目前無颱風直接影響台中，僅有西南氣流與對流雲系帶來的豪大雨特報。台中已列入8月16日發布的豪大雨特報範圍，須慎防局部大雨或豪雨、雷擊及強陣風，但目前無颱風海上/陸上警報生效，亦無停班停課公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "無颱風警報 太平洋颱風季暫時平靜",
-    "dek": "繼白海豚颱風減弱遠離、琵鷺與南卡相繼生成又轉向後，中央氣象署證實目前無颱風直接威脅台灣，但氣象機構預測今年颱風季整體活動仍將異常活躍。",
-    "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
+    "title": "颱風警報空窗期 西南氣流為台灣帶來豪雨 氣象署密切觀測南海新擾動",
+    "dek": "中央氣象署目前未對台灣發布任何颱風警報，但西南氣流已為台中在內的十九縣市帶來豪大雨特報，氣象單位同時示警南海與菲律賓以東海域本週稍晚恐醞釀新一波熱帶系統。",
+    "url": "https://udn.com/news/story/7266/9694791"
   },
   "items": [
     {
       "rank": 1,
-      "title": "白海豚颱風持續減弱 氣象署晚間解除海上警報",
-      "dek": "中央氣象署於8月9日晚間11時30分解除白海豚颱風海上警報，因暴風圈已完全脫離台灣且颱風登陸中國溫州附近後迅速減弱。",
-      "url": "https://www.cna.com.tw/news/ahel/202608090203.aspx"
+      "title": "颶風萊拉減弱北移 夏威夷大島暫脫風眼牆威脅",
+      "dek": "夏威夷新聞台報導，颶風萊拉風眼牆週六深夜掠過大島後持續減弱並轉向西北遠離，但當晚強風豪雨仍未完全停歇。",
+      "url": "https://www.hawaiinewsnow.com/2026/08/16/live-hurricane-lalas-eyewall-brushes-hawaii-island-steady-weakening-expected-tonight/"
     },
     {
       "rank": 2,
-      "title": "白海豚颱風逼近 氣象署發布海上警報",
-      "dek": "中央氣象署發布海上颱風警報，預估白海豚颱風將於父親節週末（8月8日至9日）最接近台灣，但確認不會發布陸上警報。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
+      "title": "颶風萊拉肆虐夏威夷大島 已致一人死亡",
+      "dek": "CBS新聞報導，一級颶風萊拉雖未直接登陸卻已造成一人死亡，大島持續處於颶風警戒，歐胡、茂宜等島則發布熱帶風暴警報。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 3,
-      "title": "白海豚週六夜至週日最接近台灣 氣象署示警豪雨",
-      "dek": "白海豚颱風中心一度位於台北東北方約510公里處，最大風速每小時126公里，氣象署預測新竹、苗栗山區可能降下350至500毫米豪雨。",
-      "url": "https://focustaiwan.tw/society/202608080002"
+      "title": "CNN：萊拉恐為百年來最接近正面侵襲夏威夷大島的颶風",
+      "dek": "CNN報導，萊拉增強為颶風並逼近夏威夷大島，預估累積雨量恐達十至二十五英吋，當局已發布撤離與收容警告。",
+      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
     },
     {
       "rank": 4,
-      "title": "白海豚颱風今日最接近台灣",
-      "dek": "白海豚颱風經東海海域通過、逐漸接近台灣期間帶來風雨影響，隨後於中國登陸。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/09/2003862176"
+      "title": "萊拉迅速增強為一級颶風 CNBC：破紀錄海溫是推手",
+      "dek": "CNBC分析指出，萊拉在逼近夏威夷前由熱帶風暴快速增強為颶風，創紀錄的海面溫度與活躍的太平洋颶風季是主要成因。",
+      "url": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html"
     },
     {
       "rank": 5,
-      "title": "白海豚颱風外圍環流掃過 全台8月9日停班停課一次看",
-      "dek": "白海豚颱風外圍環流影響下，多縣市宣布8月9日停止上班上課，但台中未達停班停課標準。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533473"
+      "title": "雨勢升級 十九縣市發布豪大雨特報 慎防雷擊強陣風",
+      "dek": "聯合新聞網報導，中央氣象署因西南氣流水氣與午後對流旺盛，對包括台中在內的十九縣市發布豪大雨特報，提醒低窪淹水與山區坍方風險。",
+      "url": "https://udn.com/news/story/7266/9694791"
     },
     {
       "rank": 6,
-      "title": "巴威颱風襲台 台中宣布7月10日晚間起停止上班上課",
-      "dek": "因應巴威颱風來襲，台中市政府宣布自7月10日晚間6時起至7月11日全天停止上班上課，為全台九個宣布停班停課的縣市之一。",
-      "url": "https://udn.com/news/story/124945/9618444"
+      "title": "颱風生成鏈未斷 氣象粉專：本週天氣仍「很熱鬧」",
+      "dek": "聯合新聞網引述天氣粉專分析，季風槽持續活躍，模式顯示南海與菲律賓以東未來一週有機會醞釀新熱帶系統，恐影響台灣降雨型態。",
+      "url": "https://udn.com/news/story/7266/9694157"
     },
     {
       "rank": 7,
-      "title": "吳德榮：白海豚恐轉強烈颱風 可能成2026年新風王",
-      "dek": "氣象評論員吳德榮在白海豚颱風發展初期預測，該颱風可能增強為強烈颱風，並有機會成為2026年至今最強的颱風。",
-      "url": "https://www.cna.com.tw/news/ahel/202607290026.aspx"
+      "title": "南海、菲律賓以東恐有熱帶擾動醞釀 氣象粉專籲持續關注",
+      "dek": "Newtalk新聞報導，氣象粉專指出南海與菲律賓以東海域本週稍晚恐有熱帶擾動發展，但研判未來十天內颱風直接侵台機率仍偏低。",
+      "url": "https://newtalk.tw/news/view/2026-08-16/1053680"
     },
     {
       "rank": 8,
-      "title": "今年第16號颱風琵鷺生成 對台灣無影響",
-      "dek": "第16號颱風琵鷺於菲律賓東方海面生成，與白海豚等系統形成「三颱共舞」，但路徑預測偏向東北，對台灣無直接影響。",
-      "url": "https://today.line.me/tw/v3/article/WBRnXzE"
+      "title": "颱風白海豚襲上海 逾二十一萬人疏散安置",
+      "dek": "中央社報導，颱風白海豚以相當於十四級陣風強度在浙江玉環登陸，造成上海多處積水，當地緊急疏散安置約二十一萬六千人。",
+      "url": "https://www.cna.com.tw/news/acn/202608100039.aspx"
     },
     {
       "rank": 9,
-      "title": "今年第17號颱風南卡生成 路徑朝向日本",
-      "dek": "第17號颱風南卡創下近55年來最快生成紀錄，路徑指向日本、對台灣無影響，至8月13日已在強風切影響下明顯減弱。",
-      "url": "https://today.line.me/tw/v3/article/NvzQQv8"
+      "title": "白海豚外圍影響北台灣 通報一百八十二件災情",
+      "dek": "Focus Taiwan報導，颱風白海豚侵台期間北台灣（含台北）累計一百八十二件災情通報，多為路樹倒伏與建物損壞，五人受傷但無重大災情。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     },
     {
       "rank": 10,
-      "title": "預測機構：2026年恐迎近年最活躍颱風季 全季估20個颱風接力生成",
-      "dek": "英國熱帶風暴風險評估機構TSR於8月10日預測，受聖嬰現象增強等因素影響，2026年西北太平洋颱風季活動量恐較常年平均高出約六成。",
-      "url": "https://www.wenxuecity.com/news/2026/08/11/126738841.html"
+      "title": "菲律賓氣象署：八月恐有二至四個熱帶氣旋進入責任區",
+      "dek": "GMA新聞網報導，PAGASA預測八月全月恐有二至四個熱帶氣旋形成或進入菲律賓責任海域，惟截至十六日尚無現成命名氣旋，西南季風仍為當地主要天氣系統。",
+      "url": "https://www.gmanetwork.com/news/weather/content/996482/2-to-4-tropical-cyclones-likely-to-enter-par-in-august-pagasa/story/"
     }
   ]
 }
