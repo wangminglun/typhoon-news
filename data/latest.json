@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T12:12:00+08:00",
+  "generated_at": "2026-08-17T13:18:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣任何地區發布海上或陸上颱風警報；上一次發布的海上颱風警報（因應颱風白海豚）已於本月稍早解除。",
+  "alert_desc": "中央氣象署已於8月9日晚間解除颱風白海豚的海上警報且全程未發布陸上警報（自由時報、中央社報導），而8月12日生成的颱風南卡經中央社報導證實對台無影響，17日全台警戒僅為大雨特報，並無颱風警報（中央社、ETtoday報導）。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何現行熱帶系統直接影響，最近一次相關衝擊為7月颱風巴威所致的停班停課；南海新擾動若成形，其後續路徑仍需持續關注。"
+    "text": "台中目前未受任何颱風系統直接影響，僅隨全台大低壓帶籠罩，午後有雷陣雨及局部大雨機率，尚無因颱風而生的停班停課情形。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "太平洋颱風季創55年最快紀錄 台灣暫獲喘息 南海新擾動待觀察",
-    "dek": "中央氣象署目前未發布海上或陸上颱風警報，但香港天文台示警南海最快18日可能形成低壓區，第17號颱風「南卡」則持續在日本以東減弱遠離。",
+    "title": "無颱風威脅台灣 大低壓帶本週持續帶來豪雨",
+    "dek": "中央氣象署目前未對台灣發布任何颱風警報，但一波大低壓帶將為全台帶來持續性降雨，氣象單位同時密切觀察南海與菲律賓以東兩處熱帶擾動的後續發展。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "香港天文台示警：南海最快18日恐現低壓區",
-      "dek": "AI模式顯示路徑偏南，對台灣影響仍待觀察。",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380316/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%8D%97%E6%B5%B7%E6%88%96%E6%9C%89%E4%BD%8E%E5%A3%93%E5%8D%80-8-18%E8%BD%89%E6%9D%B1%E5%8C%97%E9%A2%A8-ai%E6%96%99%E5%8D%97%E9%9D%A2%E6%8E%A0%E9%81%8E"
+      "title": "大低壓帶籠罩全台一週 17日雲林以南慎防豪雨",
+      "dek": "中央社報導，氣象署指出大低壓帶將影響台灣約一週，17日雨勢最劇，雲林以南有局部豪雨風險。",
+      "url": "https://www.cna.com.tw/news/ahel/202608160161.aspx"
     },
     {
       "rank": 2,
-      "title": "第17號颱風「南卡」日本外海持續減弱 對台無威脅",
-      "dek": "南卡創55年來最早生成第17號颱風紀錄，正轉化為溫帶系統。",
-      "url": "https://newsonjapan.com/article/150356.php"
+      "title": "低壓帶17日移入 新竹以南防午後大雨",
+      "dek": "ETtoday報導，低壓帶移入使全台水氣增加，新竹以南地區午後須留意局部大雨，屬降雨事件而非颱風警報。",
+      "url": "https://www.ettoday.net/news/20260817/3220395.htm"
     },
     {
       "rank": 3,
-      "title": "颶風「Lala」重創夏威夷大島後減弱為熱帶風暴",
-      "dek": "逾百棟房屋受損，風暴已逐漸遠離夏威夷群島。",
-      "url": "https://www.cnn.com/2026/08/16/weather/video/hawaii-hurrican-lala-lashes-big-island-raw-vrtc-digvid"
+      "title": "「颱風流水線」未斷 南海、菲律賓外海現擾動跡象",
+      "dek": "中時新聞網報導，氣象模式顯示南海及菲律賓以東海域未來一週可能有熱帶擾動醞釀成形。",
+      "url": "https://www.chinatimes.com/realtimenews/20260816000895-260405"
     },
     {
       "rank": 4,
-      "title": "【背景】颱風「昌鴻」創紀錄登陸日本茨城縣",
-      "dek": "罕見西行路徑使其成為1951年以來首個在當地登陸的颱風，目前已消散。",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5535353"
+      "title": "熱帶風暴南卡生成 預料不會直接侵台",
+      "dek": "Focus Taiwan報導，今年第17號風暴南卡生成後路徑偏向日本以東，氣象署稱台灣仍受其他天氣系統影響而持續悶熱多雨。",
+      "url": "https://focustaiwan.tw/society/202608120008"
     },
     {
       "rank": 5,
-      "title": "【背景】颱風「白海豚」曾促中央氣象署發布海警 現已解除",
-      "dek": "白海豚8月上旬為新竹、苗栗山區帶來強降雨，其後轉往中國登陸。",
-      "url": "https://focustaiwan.tw/society/202608070010"
+      "title": "颱風南卡在西太平洋生成 氣象署證實對台無影響",
+      "dek": "中央社報導，今年第17號颱風南卡因強烈風切偏弱，朝日本以東海域移動，對台灣天氣無影響。",
+      "url": "https://www.cna.com.tw/news/ahel/202608120035.aspx"
     },
     {
       "rank": 6,
-      "title": "【背景】熱帶風暴「琵琶」曾與白海豚、昌鴻同時現蹤 現已消散",
-      "dek": "三颱共存的罕見局面已成過去，琵琶未對菲律賓構成重大威脅。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "南卡外圍水氣釀災 日本千葉暴雨釀4死、7000人受困機場",
+      "dek": "韓國《首爾經濟》報導，與南卡相關的水氣在日本千葉引發驚人豪雨，造成4人罹難、約7000名旅客受困機場。",
+      "url": "https://en.sedaily.com/international/2026/08/14/record-rain-kills-4-in-japans-chiba-strands-7000-at-airport"
     },
     {
       "rank": 7,
-      "title": "2026年颱風季創55年最快生成紀錄",
-      "dek": "南卡的生成，使今年成為西太平洋55年來第17號颱風出現最早的一年。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5537089"
+      "title": "白海豚減弱轉向中國 氣象署預告解除海上警報",
+      "dek": "自由時報報導，颱風白海豚持續減弱縮小，氣象署預告週一上午解除海上颱風警報，警報已於8月9日晚間解除。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533197"
     },
     {
       "rank": 8,
-      "title": "大西洋、加勒比海與墨西哥灣持續平靜",
-      "dek": "美國國家颶風中心預估未來七天無熱帶系統發展，與西太平洋活躍態勢形成對比。",
-      "url": "https://www.wptv.com/weather/tropical-weather/tropics-sunday-august-16-2026-6am-update"
+      "title": "白海豚逼近 氣象署發布海上颱風警報",
+      "dek": "《台北時報》報導，中央氣象署對颱風白海豚發布本季最近一次海上颱風警報，該颱風為北部及中部帶來降雨後轉向中國，未發布陸上警報。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
     },
     {
       "rank": 9,
-      "title": "【背景】氣象單位預期年底前西太平洋恐再添最多五個風暴",
-      "dek": "今年稍早的季節展望顯示，本季活躍態勢預料將延續。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
+      "title": "PAGASA：8月底前菲律賓周邊估再增兩個颱風",
+      "dek": "GMA News Online報導，菲律賓氣象機關PAGASA預期8月底前該國周邊還會有兩個熱帶氣旋生成或造成影響。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
       "rank": 10,
-      "title": "【背景】颱風「巴威」曾致台中停班停課",
-      "dek": "7月的巴威是台中近期最直接的一次颱風衝擊，目前已無現行系統影響當地。",
-      "url": "https://udn.com/news/story/124945/9618444"
+      "title": "【回顧】超級颱風「浣熊」重創馬里亞納群島 為今年最強風暴",
+      "dek": "NASA地球觀測站回顧指出，今年4月的超級颱風浣熊以近5級強度襲擊塞班與天寧島，造成17人死亡、逾4.58億美元損失，迄今仍是2026年全球最強熱帶氣旋。",
+      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/"
     }
   ]
 }
