@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:20:00+08:00",
+  "generated_at": "2026-08-17T19:20:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署海上、陸上颱風警報均未發布，目前僅嘉義及以南地區因低壓槽與西南氣流影響發布大雨特報，全台無颱風相關示警生效。",
+  "alert_desc": "中央氣象署海上、陸上颱風警報均未發布，台灣附近海域及陸地目前無颱風威脅，全球焦點轉向逼近夏威夷的颶風萊拉。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接颱風影響：8月17日16時15分氣象署發布的大雨特報鎖定嘉義市、嘉義縣及南投、雲林以南地區，台中未被納入警戒範圍，僅有一般夏季午後不穩定對流，無颱風相關警報或停班停課疑慮。"
+    "text": "目前無直接影響：目前無任何颱風系統對台中構成風雨威脅，台中未發布颱風相關警報或停班停課疑慮。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風南卡創55年來最早17號紀錄後北轉減弱 台灣目前無颱風警報",
-    "dek": "中央氣象署表示，台灣目前未發布任何海上或陸上颱風警報，僅嘉義及以南地區因低壓槽與西南氣流影響發布大雨特報，而西北太平洋今年颱風生成速度創55年來最快紀錄。",
-    "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+    "title": "颱風南卡減弱為東日本外海殘留低壓 台灣目前無颱風警報",
+    "dek": "南卡減弱、白海豚消散逾一週後，台灣暫無颱風威脅，全球焦點轉向逼近夏威夷的颶風萊拉。",
+    "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/140248.shtml"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風南卡生成 創55年來最早第17號颱風紀錄",
-      "dek": "南卡颱風已轉向減弱並遠離日本，多家台灣媒體證實其對台灣天氣無影響。",
-      "url": "https://tw.news.yahoo.com/17%E8%99%9F%E9%A2%B1%E9%A2%A8-%E5%8D%97%E5%8D%A1-%E7%94%9F%E6%88%90-%E5%89%B555%E5%B9%B4%E4%BE%86%E6%9C%80%E6%97%A9%E7%AC%AC17%E9%A2%B1-010900262.html"
+      "title": "颶風萊拉逼近夏威夷 全島發布熱帶氣旋警戒警報",
+      "dek": "美國國家颶風中心資料顯示，萊拉已增強為颶風並持續逼近夏威夷大島，全島進入警戒狀態。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/140248.shtml"
     },
     {
       "rank": 2,
-      "title": "呂宋島以東低壓區進入菲律賓責任區 恐發展為「Neneng」",
-      "dek": "PAGASA表示，這個低壓區未來24小時內有中度機率增強為熱帶性低氣壓，並持續向西移動。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/13/2549063/lpa-east-luzon-has-high-chance-developing-tropical-depression-pagasa"
+      "title": "颶風萊拉最新公報：風速每小時65英里 夏威夷面臨豪雨強風",
+      "dek": "Weather Underground引述NHC資料指出，萊拉為今年中太平洋第9個命名風暴，預期週末為夏威夷帶來豪雨、強風與危險大浪。",
+      "url": "https://www.wunderground.com/hurricane/central-pacific/2026/hurricane-lala"
     },
     {
       "rank": 3,
-      "title": "西南季風增強 菲律賓多地發布紅色、橙色降雨警報",
-      "dek": "PAGASA針對馬尼拉大都會等地發布最高等級降雨警報，強降雨已對當地造成影響。",
-      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-lpa-update-pagasa-forecast-august-17-2026-11am/"
+      "title": "颱風南卡減弱為殘留低壓 東京東南方外海持續遠離陸地",
+      "dek": "日本氣象廳資料顯示，南卡因風切變與乾空氣侵入迅速減弱，JTWC已發布最終警報，對日本、南韓及台灣均無直接影響。",
+      "url": "https://zoom.earth/storms/nangka-2026/"
     },
     {
       "rank": 4,
-      "title": "嘉義大雨到豪雨特報發布 氣象署強調與颱風無關",
-      "dek": "中央氣象署表示，這波降雨是低壓槽與不穩定大氣所致的午後對流，屬例行性大雨示警。",
-      "url": "https://newtalk.tw/news/view/2026-08-17/1053966"
+      "title": "南卡外圍環流釀千葉破紀錄豪雨 4死、7000旅客受困機場",
+      "dek": "《首爾經濟日報》報導，南卡減弱前的外圍雨帶為日本千葉縣帶來破紀錄降雨，造成人員傷亡與機場旅客受困。",
+      "url": "https://en.sedaily.com/international/2026/08/14/record-rain-kills-4-in-japans-chiba-strands-7000-at-airport"
     },
     {
       "rank": 5,
-      "title": "回顧：白海豚颱風登陸中國溫州後消散",
-      "dek": "白海豚颱風8月9日曾致台灣8縣市停班停課，隨後在中國溫州附近登陸並於翌日消散。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533473"
+      "title": "回顧颱風白海豚：台灣海上警報已解除 登陸溫州後消散",
+      "dek": "中央社報導，白海豚曾為台灣北部及東部近海帶來巨浪與豪雨，其後減弱登陸中國溫州並完全消散。",
+      "url": "https://focustaiwan.tw/society/202608090011"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴拉拉重創夏威夷大島後減弱",
-      "dek": "拉拉曾以一級颶風強度襲擊夏威夷大島造成洪災與大規模停電，目前已減弱為熱帶風暴並遠離夏威夷。",
-      "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane"
+      "title": "西北太平洋擾動92W接近馬里亞納群島 發展機率偏低",
+      "dek": "Zoom Earth引述JTWC資料指出，代號92W的低壓環流組織鬆散，24小時內發展機率評為「低」，尚未威脅台灣或菲律賓。",
+      "url": "https://zoom.earth/storms/92w-2026/"
     },
     {
       "rank": 7,
-      "title": "大西洋颶風季持續平靜 目前無活躍系統",
-      "dek": "NOAA預測未來一週大西洋盆地不會有新的熱帶系統生成，延續今年偏低於正常值的季節趨勢。",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season"
+      "title": "PAGASA監測呂宋以東低壓區 西南季風持續為菲律賓帶來降雨",
+      "dek": "菲律賓大氣地球物理暨天文服務署公報顯示，低壓區08f發展為熱帶低氣壓的機率為中等，西南季風已致部分地區停課。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998738/weather-pagasa-august-17-2026/story/"
     },
     {
       "rank": 8,
-      "title": "MJO有利條件將自8月18日起影響南海及西太平洋",
-      "dek": "氣象專家指出，馬登-朱利安振盪的有利對流階段可能為南海與西太平洋帶來新一波熱帶系統發展機會。",
-      "url": "https://udn.com/news/story/7266/9686496"
+      "title": "大西洋擾動92L組織鬆散 發展機率驟降至一成",
+      "dek": "福斯天氣報導，美國國家颶風中心將92L發展機率由70%下修至10%，該系統正朝向背風群島移動。",
+      "url": "https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季確認為數十年來最活躍年份之一",
-      "dek": "中國國家氣候中心預測，今年西太平洋與南海海域全年颱風總數估計將達24至26個。",
-      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
+      "title": "大西洋另一擾動94L發展機率維持四成",
+      "dek": "WFTV報導，隨大西洋颶風季逐漸接近高峰期，94L擾動的熱帶氣旋發展機率維持在40%，暫無登陸威脅。",
+      "url": "https://www.wftv.com/news/local/invest-94l-maintains-40-percent-chance-development-atlantic/KDEZJZSQVFFILB3ZKKSDMEO5QE/?outputType=amp"
     },
     {
       "rank": 10,
-      "title": "中央氣象署：台灣目前無颱風警報 僅監測例行雨勢系統",
-      "dek": "氣象署表示，台灣、金門及馬祖目前均未發布海上或陸上颱風警報。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+      "title": "東太平洋熱帶風暴赫南生成 遠離陸地不構成威脅",
+      "dek": "美聯社報導，熱帶風暴赫南在墨西哥下加利福尼亞半島以西遠洋生成，現已減弱並持續遠離陸地。",
+      "url": "https://www.click2houston.com/news/national/2026/08/13/tropical-storm-hernan-forms-in-the-pacific-while-a-different-weather-system-could-soak-hawaii/"
     }
   ]
 }
