@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T20:23:00+08:00",
+  "generated_at": "2026-08-17T21:20:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署海上、陸上颱風警報均未發布，台灣目前無颱風威脅；西北太平洋與南海預期8月18日後有新系統生成，菲律賓因西南季風增強面臨強降雨，國際焦點則聚焦重創夏威夷大島的熱帶風暴拉拉。",
+  "alert_desc": "中央氣象署海上、陸上颱風警報均未發布，台灣目前無颱風威脅；西太平洋今夏罕見同時醞釀多個系統，專家示警下週南海一帶恐有新熱帶擾動生成，夏威夷則仍因減弱後的熱帶風暴拉拉飽受暴雨強風侵襲。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何活動中的熱帶氣旋或颱風警報直接影響，無風雨強度足以觸發停班停課；不過台灣上空的低壓槽未來數日可能為新竹以南的中西部地區帶來局部午後雷陣雨，屬夏季常態對流天氣，與颱風無關。"
+    "text": "目前無直接影響。截至8月17日，台中市未受任何活躍熱帶氣旋直接影響，一週天氣預報顯示多雲到晴、部分時段有短暫陣雨或雷雨，中央氣象署亦未對台中發布颱風相關警報；7月巴威颱風曾造成台中355件災情通報，但目前無新的颱風威脅。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "熱帶風暴拉拉重創夏威夷大島 逾十二萬戶停電數千居民受困",
-    "dek": "拉拉減弱西移之際太平洋颱風季暫轉平靜，但西北太平洋與菲律賓附近已有新系統醞釀，氣象機構籲持續戒備。",
-    "url": "https://www.staradvertiser.com/2026/08/17/hawaii-news/lala-leaves-isles-in-the-dark/"
+    "title": "西太平洋颱風季空前活躍 台灣暫無警報 但雙眼緊盯下週南海新系統",
+    "dek": "中央氣象署目前未對台灣發布任何颱風警報，但西太平洋今夏罕見地同時醞釀多個系統，專家已示警下週南海一帶恐有新熱帶擾動生成，同時夏威夷仍因減弱後的熱帶風暴拉拉（Lala）飽受暴雨與強風侵襲。",
+    "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane"
   },
   "items": [
     {
       "rank": 1,
-      "title": "拉拉肆虐夏威夷 逾十二萬戶停電 學校機關持續停課",
-      "dek": "據《檀香山廣告星報》報導，熱帶風暴拉拉週末重創夏威夷大島後已西移減弱，但全州停電戶數仍逾十二萬，公立學校與州縣機關持續停課停班，救援人力已自美國本土調派支援搶修電網。",
-      "url": "https://www.staradvertiser.com/2026/08/17/hawaii-news/lala-leaves-isles-in-the-dark/"
+      "title": "熱帶風暴拉拉持續肆虐夏威夷 暴雨強風未歇",
+      "dek": "據NPR報導，拉拉曾增強為一級颶風後掠過夏威夷大島南側並減弱，為全州帶來強降雨、強風與淹水，是1957年以來第五個曾在大島70英里內經過的颶風，造成逾百戶住宅受損或全毀。",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane"
     },
     {
       "rank": 2,
-      "title": "大島卡烏地區道路中斷 逾百戶住宅受損",
-      "dek": "《檀香山廣告星報》報導指出，卡烏地區降雨量達三十二吋、陣風時速達八十英里，通往帕哈拉一帶的道路遭切斷，至少一百戶住宅受損或全毀，目前尚無確認的直接風災死亡案例。",
-      "url": "https://www.staradvertiser.com/2026/08/17/hawaii-news/hurricane-lala-cuts-off-communities-closes-schools/"
+      "title": "拉拉威脅未解 考艾郡強風徹夜未停",
+      "dek": "美國有線電視氣象頻道（The Weather Channel）8月17日報導指出，考艾郡整夜持續受熱帶風暴等級強風影響，各島嶼仍有淹水與土石流風險，拉拉掀起的巨浪持續衝擊沿岸。",
+      "url": "https://weather.com/2026/08/17/storms/hurricane/hawaii-hurricane-tropical-storm-lala-forecast"
     },
     {
       "rank": 3,
-      "title": "拉拉減弱為熱帶風暴 暴洪沖毀大島房屋",
-      "dek": "據CBS News報導，拉拉在最接近大島後已由颶風降為熱帶風暴，毛伊島與大島迎風面累積雨量最高達四十八吋，暴洪沖走多處住宅，風暴目前持續西移遠離歐胡島與考艾島。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+      "title": "第17號颱風南卡生成創紀錄 對台灣無影響",
+      "dek": "據中央社報導，南卡颱風8月12日於小笠原群島附近生成，是近55年氣象署紀錄中最早出現的第17號颱風，其路徑朝東北往日本方向移動，氣象署研判對台灣天氣無影響，目前持續減弱。",
+      "url": "https://www.cna.com.tw/news/ahel/202608120035.aspx"
     },
     {
       "rank": 4,
-      "title": "呂宋島東側低壓區進入菲律賓責任區 恐發展為熱帶低氣壓「Neneng」",
-      "dek": "據Rappler報導，一低壓區已進入菲律賓大氣地球物理天文服務署責任區，二十四小時內有中度機率發展為熱帶低氣壓，若成形將命名為「Neneng」。",
-      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-lpa-update-pagasa-forecast-august-17-2026-11am/"
+      "title": "南卡減弱後恐有接力系統 專家示警下週雙熱帶系統醞釀",
+      "dek": "據Newtalk新聞報導，氣象評論員賈新興指出，約8月18日至19日起西太平洋季風槽及南海、海南島附近海域可能醞釀新熱帶擾動，並有機會朝西北方向移動，是後續觀察重點。",
+      "url": "https://newtalk.tw/news/view/2026-08-14/1053377"
     },
     {
       "rank": 5,
-      "title": "西南季風增強 菲律賓馬尼拉等地發布紅色降雨警報",
-      "dek": "《菲律賓星報》報導，受鄰近低壓區增強影響的西南季風為馬尼拉大都會及呂宋六地區帶來強降雨，當局警告有洪水與土石流風險。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/17/2549881/habagat-dump-rain-over-parts-luzon-visayas"
-    },
-    {
-      "rank": 6,
-      "title": "PAGASA預測八月底前將再有兩個颱風影響菲律賓",
-      "dek": "據GMA News Online報導，繼熱帶低氣壓「Luis」與熱帶風暴「Maymay」相繼於呂宋島消散後，菲律賓氣象機構預測本月底前將再有兩個颱風影響菲律賓。",
+      "title": "菲律賓氣象局預估8月還有2至4個颱風生成或進入責任區",
+      "dek": "據菲律賓GMA News Online報導，菲律賓大氣地球物理暨天文服務署（PAGASA）表示，繼路易斯（Luis）與梅梅（Maymay）之後，8月預計還有2至4個熱帶氣旋生成或進入菲律賓責任區，西南季風也在8月17日對馬尼拉都會區發布紅色豪雨警報。",
       "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
+      "rank": 6,
+      "title": "第16號颱風琵鷺生成 一度形成三颱共存罕見態勢",
+      "dek": "據聯合新聞網報導，本季第16號颱風琵鷺8月9日在關島以北生成，屬弱颱且朝東北方向移動，中央氣象署預測對台灣無直接影響，並與白海豚、南卡颱風一度形成「三颱共舞」的罕見局面。",
+      "url": "https://udn.com/news/story/7266/9680362"
+    },
+    {
       "rank": 7,
-      "title": "創紀錄早生成颱風楠卡 減弱為殘餘低壓 對陸地無威脅",
-      "dek": "據風暴追蹤網站Zoom Earth彙整日本氣象廳與聯合颱風警報中心資料，今年西太平洋第十七號颱風楠卡已在日本以東海面減弱為殘餘低壓，預計不會影響陸地。",
-      "url": "https://zoom.earth/storms/nangka-2026/"
+      "title": "白海豚颱風掠過北台灣 新北災損逾200件",
+      "dek": "據英文中央社（Focus Taiwan）報導，白海豚颱風8月初從台灣北部海域掠過，帶來強風豪雨，造成5人受傷、逾200件災損通報，主要集中在新北市的路樹倒塌與道路、隧道及建物損壞，未傳出重大災情或停水停電。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     },
     {
       "rank": 8,
-      "title": "加羅林群島附近熱帶擾動92W持續觀察 發展機率偏低",
-      "dek": "據美國國家氣象局關島辦公室熱帶氣象討論資料，位於波納佩西北方的擾動92W環流鬆散，雖海溫與風切條件尚屬有利，未來二十四小時內顯著發展機率仍評估為低。",
-      "url": "https://forecast.weather.gov/product.php?issuedby=PQ&product=TWD&site=gum"
+      "title": "白海豚颱風登陸中國東部 逾百萬人疏散",
+      "dek": "據半島電視台（Al Jazeera）報導，白海豚颱風掠過台灣後在中國浙江玉環登陸，最大風速達每小時151公里，溫州一地即疏散逾90萬人，上海取消近千架次班機，預估雨量200至400毫米，恐引發淹水與土石流。",
+      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
     },
     {
       "rank": 9,
-      "title": "陸媒：西北太平洋、南海八月十八日後恐生成兩個新颱風",
-      "dek": "據新浪財經報導，中國氣象分析人士預期本週起西北太平洋與南海海南島附近將陸續有新系統發展，十天內恐生成兩個新颱風，但直接侵襲台灣機率目前評估偏低。",
-      "url": "https://finance.sina.com.cn/wm/2026-08-17/doc-ininqpew9182778.shtml"
+      "title": "巴威颱風逼近 氣象署發布陸上警報",
+      "dek": "據《台北時報》（Taipei Times）報導，美國聯合颱風警報中心將巴威颱風列為「超級颱風」，最大持續風速達每小時216公里，其暴風圈於7月觸及北台灣陸地，中央氣象署隨即發布陸上颱風警報，是本季台灣所受最直接衝擊的颱風。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/10/2003860537"
     },
     {
       "rank": 10,
-      "title": "東太平洋熱帶風暴赫南生成 遠離陸地無威脅",
-      "dek": "據NBC News引述美聯社報導，熱帶風暴赫南在下加利福尼亞半島以西約一千四百六十英里的東太平洋海面生成，風速每小時四十英里，持續西移，對陸地不構成威脅。",
-      "url": "https://www.nbcnews.com/weather/storms/tropical-storm-hernan-forms-pacific-weather-system-soak-hawaii-rcna592291"
+      "title": "巴威來襲前夕 台中市宣布停班停課",
+      "dek": "據ETtoday報導，台中市長盧秀燕在巴威颱風逼近前於晚間8點宣布次日停班停課，該颱風最終為台中市帶來355件災情通報，是本季台中受創最重的一次颱風事件。",
+      "url": "https://www.ettoday.net/news/20260709/3198222.htm"
     }
   ]
 }
