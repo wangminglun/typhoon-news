@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T19:20:00+08:00",
+  "generated_at": "2026-08-17T20:23:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署海上、陸上颱風警報均未發布，台灣附近海域及陸地目前無颱風威脅，全球焦點轉向逼近夏威夷的颶風萊拉。",
+  "alert_desc": "中央氣象署海上、陸上颱風警報均未發布，台灣目前無颱風威脅；西北太平洋與南海預期8月18日後有新系統生成，菲律賓因西南季風增強面臨強降雨，國際焦點則聚焦重創夏威夷大島的熱帶風暴拉拉。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：目前無任何颱風系統對台中構成風雨威脅，台中未發布颱風相關警報或停班停課疑慮。"
+    "text": "台中目前未受任何活動中的熱帶氣旋或颱風警報直接影響，無風雨強度足以觸發停班停課；不過台灣上空的低壓槽未來數日可能為新竹以南的中西部地區帶來局部午後雷陣雨，屬夏季常態對流天氣，與颱風無關。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "颱風南卡減弱為東日本外海殘留低壓 台灣目前無颱風警報",
-    "dek": "南卡減弱、白海豚消散逾一週後，台灣暫無颱風威脅，全球焦點轉向逼近夏威夷的颶風萊拉。",
-    "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/140248.shtml"
+    "title": "熱帶風暴拉拉重創夏威夷大島 逾十二萬戶停電數千居民受困",
+    "dek": "拉拉減弱西移之際太平洋颱風季暫轉平靜，但西北太平洋與菲律賓附近已有新系統醞釀，氣象機構籲持續戒備。",
+    "url": "https://www.staradvertiser.com/2026/08/17/hawaii-news/lala-leaves-isles-in-the-dark/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風萊拉逼近夏威夷 全島發布熱帶氣旋警戒警報",
-      "dek": "美國國家颶風中心資料顯示，萊拉已增強為颶風並持續逼近夏威夷大島，全島進入警戒狀態。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/140248.shtml"
+      "title": "拉拉肆虐夏威夷 逾十二萬戶停電 學校機關持續停課",
+      "dek": "據《檀香山廣告星報》報導，熱帶風暴拉拉週末重創夏威夷大島後已西移減弱，但全州停電戶數仍逾十二萬，公立學校與州縣機關持續停課停班，救援人力已自美國本土調派支援搶修電網。",
+      "url": "https://www.staradvertiser.com/2026/08/17/hawaii-news/lala-leaves-isles-in-the-dark/"
     },
     {
       "rank": 2,
-      "title": "颶風萊拉最新公報：風速每小時65英里 夏威夷面臨豪雨強風",
-      "dek": "Weather Underground引述NHC資料指出，萊拉為今年中太平洋第9個命名風暴，預期週末為夏威夷帶來豪雨、強風與危險大浪。",
-      "url": "https://www.wunderground.com/hurricane/central-pacific/2026/hurricane-lala"
+      "title": "大島卡烏地區道路中斷 逾百戶住宅受損",
+      "dek": "《檀香山廣告星報》報導指出，卡烏地區降雨量達三十二吋、陣風時速達八十英里，通往帕哈拉一帶的道路遭切斷，至少一百戶住宅受損或全毀，目前尚無確認的直接風災死亡案例。",
+      "url": "https://www.staradvertiser.com/2026/08/17/hawaii-news/hurricane-lala-cuts-off-communities-closes-schools/"
     },
     {
       "rank": 3,
-      "title": "颱風南卡減弱為殘留低壓 東京東南方外海持續遠離陸地",
-      "dek": "日本氣象廳資料顯示，南卡因風切變與乾空氣侵入迅速減弱，JTWC已發布最終警報，對日本、南韓及台灣均無直接影響。",
-      "url": "https://zoom.earth/storms/nangka-2026/"
+      "title": "拉拉減弱為熱帶風暴 暴洪沖毀大島房屋",
+      "dek": "據CBS News報導，拉拉在最接近大島後已由颶風降為熱帶風暴，毛伊島與大島迎風面累積雨量最高達四十八吋，暴洪沖走多處住宅，風暴目前持續西移遠離歐胡島與考艾島。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
     },
     {
       "rank": 4,
-      "title": "南卡外圍環流釀千葉破紀錄豪雨 4死、7000旅客受困機場",
-      "dek": "《首爾經濟日報》報導，南卡減弱前的外圍雨帶為日本千葉縣帶來破紀錄降雨，造成人員傷亡與機場旅客受困。",
-      "url": "https://en.sedaily.com/international/2026/08/14/record-rain-kills-4-in-japans-chiba-strands-7000-at-airport"
+      "title": "呂宋島東側低壓區進入菲律賓責任區 恐發展為熱帶低氣壓「Neneng」",
+      "dek": "據Rappler報導，一低壓區已進入菲律賓大氣地球物理天文服務署責任區，二十四小時內有中度機率發展為熱帶低氣壓，若成形將命名為「Neneng」。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-lpa-update-pagasa-forecast-august-17-2026-11am/"
     },
     {
       "rank": 5,
-      "title": "回顧颱風白海豚：台灣海上警報已解除 登陸溫州後消散",
-      "dek": "中央社報導，白海豚曾為台灣北部及東部近海帶來巨浪與豪雨，其後減弱登陸中國溫州並完全消散。",
-      "url": "https://focustaiwan.tw/society/202608090011"
+      "title": "西南季風增強 菲律賓馬尼拉等地發布紅色降雨警報",
+      "dek": "《菲律賓星報》報導，受鄰近低壓區增強影響的西南季風為馬尼拉大都會及呂宋六地區帶來強降雨，當局警告有洪水與土石流風險。",
+      "url": "https://www.philstar.com/headlines/weather/2026/08/17/2549881/habagat-dump-rain-over-parts-luzon-visayas"
     },
     {
       "rank": 6,
-      "title": "西北太平洋擾動92W接近馬里亞納群島 發展機率偏低",
-      "dek": "Zoom Earth引述JTWC資料指出，代號92W的低壓環流組織鬆散，24小時內發展機率評為「低」，尚未威脅台灣或菲律賓。",
-      "url": "https://zoom.earth/storms/92w-2026/"
+      "title": "PAGASA預測八月底前將再有兩個颱風影響菲律賓",
+      "dek": "據GMA News Online報導，繼熱帶低氣壓「Luis」與熱帶風暴「Maymay」相繼於呂宋島消散後，菲律賓氣象機構預測本月底前將再有兩個颱風影響菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
       "rank": 7,
-      "title": "PAGASA監測呂宋以東低壓區 西南季風持續為菲律賓帶來降雨",
-      "dek": "菲律賓大氣地球物理暨天文服務署公報顯示，低壓區08f發展為熱帶低氣壓的機率為中等，西南季風已致部分地區停課。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998738/weather-pagasa-august-17-2026/story/"
+      "title": "創紀錄早生成颱風楠卡 減弱為殘餘低壓 對陸地無威脅",
+      "dek": "據風暴追蹤網站Zoom Earth彙整日本氣象廳與聯合颱風警報中心資料，今年西太平洋第十七號颱風楠卡已在日本以東海面減弱為殘餘低壓，預計不會影響陸地。",
+      "url": "https://zoom.earth/storms/nangka-2026/"
     },
     {
       "rank": 8,
-      "title": "大西洋擾動92L組織鬆散 發展機率驟降至一成",
-      "dek": "福斯天氣報導，美國國家颶風中心將92L發展機率由70%下修至10%，該系統正朝向背風群島移動。",
-      "url": "https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026"
+      "title": "加羅林群島附近熱帶擾動92W持續觀察 發展機率偏低",
+      "dek": "據美國國家氣象局關島辦公室熱帶氣象討論資料，位於波納佩西北方的擾動92W環流鬆散，雖海溫與風切條件尚屬有利，未來二十四小時內顯著發展機率仍評估為低。",
+      "url": "https://forecast.weather.gov/product.php?issuedby=PQ&product=TWD&site=gum"
     },
     {
       "rank": 9,
-      "title": "大西洋另一擾動94L發展機率維持四成",
-      "dek": "WFTV報導，隨大西洋颶風季逐漸接近高峰期，94L擾動的熱帶氣旋發展機率維持在40%，暫無登陸威脅。",
-      "url": "https://www.wftv.com/news/local/invest-94l-maintains-40-percent-chance-development-atlantic/KDEZJZSQVFFILB3ZKKSDMEO5QE/?outputType=amp"
+      "title": "陸媒：西北太平洋、南海八月十八日後恐生成兩個新颱風",
+      "dek": "據新浪財經報導，中國氣象分析人士預期本週起西北太平洋與南海海南島附近將陸續有新系統發展，十天內恐生成兩個新颱風，但直接侵襲台灣機率目前評估偏低。",
+      "url": "https://finance.sina.com.cn/wm/2026-08-17/doc-ininqpew9182778.shtml"
     },
     {
       "rank": 10,
-      "title": "東太平洋熱帶風暴赫南生成 遠離陸地不構成威脅",
-      "dek": "美聯社報導，熱帶風暴赫南在墨西哥下加利福尼亞半島以西遠洋生成，現已減弱並持續遠離陸地。",
-      "url": "https://www.click2houston.com/news/national/2026/08/13/tropical-storm-hernan-forms-in-the-pacific-while-a-different-weather-system-could-soak-hawaii/"
+      "title": "東太平洋熱帶風暴赫南生成 遠離陸地無威脅",
+      "dek": "據NBC News引述美聯社報導，熱帶風暴赫南在下加利福尼亞半島以西約一千四百六十英里的東太平洋海面生成，風速每小時四十英里，持續西移，對陸地不構成威脅。",
+      "url": "https://www.nbcnews.com/weather/storms/tropical-storm-hernan-forms-pacific-weather-system-soak-hawaii-rcna592291"
     }
   ]
 }
