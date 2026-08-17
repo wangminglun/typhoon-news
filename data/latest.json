@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T07:11:00+08:00",
+  "generated_at": "2026-08-17T08:16:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月9日晚間解除颱風白海豚海上颱風警報，截至目前未再發布任何海上或陸上颱風警報，台灣目前無颱風直接威脅，僅因西南氣流對台中等縣市發布超大豪雨特報。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，最近一次警報為8月8日對白海豚颱風發布的海上警報，已於颱風在中國溫州附近登陸後解除。近日全台天氣主要受廣泛低壓槽與西南氣流影響，中央氣象署已針對北部、東部發布高溫特報，並對中南部發布豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，但中央氣象署已對台中發布超大豪雨特報，因西南氣流午後對流旺盛，恐有短延時強降雨、雷擊、強陣風及淹水風險，此波降雨與颱風無關，截至目前尚未發布停班停課。"
+    "text": "目前無颱風直接影響台中。台中同樣籠罩在全台性的低壓槽天氣型態中，午後有局部強對流、雷擊及短暫強降雨的風險，但氣象署近期發布的豪雨特報縣市名單中並未特別列出台中，且尚未發布停班停課。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "無颱風威脅台灣 西南氣流襲台中 中央氣象署發布超大豪雨特報",
-    "dek": "儘管本島目前未受任何颱風直接威脅，一股不穩定的西南氣流仍為台灣中部帶來強降雨，中央氣象署已將台中的豪雨等級上修至最高一級。",
+    "title": "颱風未犯台 中央氣象署接連發布高溫豪雨特報",
+    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但廣泛低壓槽與西南氣流已為全台帶來連日高溫與強降雨威脅。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中央氣象署對台灣本島大部分地區發布豪雨特報",
-      "dek": "受不穩定西南氣流影響，中央氣象署週日對全台多數地區發布豪雨特報，並將台中上修至超大豪雨等級。",
-      "url": "https://focustaiwan.tw/society/202608160006"
+      "title": "全台防不穩定天氣 中央氣象署發布高溫豪雨特報",
+      "dek": "中央氣象署對北台灣發布橙色高溫警戒，南台灣則因西南氣流面臨強降雨與雷擊風險。",
+      "url": "https://focustaiwan.tw/society/202608130006"
     },
     {
       "rank": 2,
-      "title": "颶風萊拉外圍眼牆掠過夏威夷大島 預期持續減弱",
-      "dek": "萊拉以一級颶風強度直撲夏威夷大島，造成嚴重淹水與至少一人死亡，目前正逐漸減弱遠離群島。",
-      "url": "https://www.hawaiinewsnow.com/2026/08/16/live-hurricane-lalas-eyewall-brushes-hawaii-island-steady-weakening-expected-tonight/"
+      "title": "氣象專家示警：週末起天氣恐轉趨劇烈",
+      "dek": "台北時報報導，氣象專家預期全台將出現頻繁局部強對流，並伴隨雷擊與強風。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862440"
     },
     {
       "rank": 3,
-      "title": "熱帶風暴萊拉持續為夏威夷帶來強風豪雨",
-      "dek": "weather.com報導萊拉為夏威夷群島帶來的風雨與滔天巨浪衝擊，並指出該系統週二或週三前有機會再度增強為颶風。",
-      "url": "https://weather.com/2026/08/16/storms/hurricane/hawaii-hurricane-tropical-storm-lala-forecast"
-    },
-    {
-      "rank": 4,
-      "title": "美國國家颶風中心發布熱帶風暴萊拉第17號公告",
-      "dek": "NHC公告顯示萊拉中心位於可愛島、歐胡島與茂宜島附近海域，最大持續風速約每小時70英里，當地熱帶風暴警報持續生效。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP2+html/161150.shtml"
-    },
-    {
-      "rank": 5,
-      "title": "萊拉減弱為熱帶風暴 仍為夏威夷帶來豪雨強風與淹水災情",
-      "dek": "ABC News綜合報導指出，萊拉已由颶風降級為熱帶風暴，但持續對夏威夷群島造成淹水、強風及人員傷亡。",
-      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026"
-    },
-    {
-      "rank": 6,
-      "title": "熱帶風暴南卡生成 中央氣象署示警台灣悶熱與強降雨天氣",
-      "dek": "中央氣象署證實今年第17號颱風南卡於硫磺島南方海面生成，預估轉向東北移動不影響台灣，但提醒本島仍將持續悶熱且局部有強降雨。",
-      "url": "https://focustaiwan.tw/society/202608120008"
-    },
-    {
-      "rank": 7,
-      "title": "中央氣象署警告悶熱不穩定天氣將持續籠罩台灣",
-      "dek": "《台北時報》報導指出，在無颱風直接威脅下，廣泛的低壓季風環流預計主導台灣未來一週天氣，午後雷陣雨與強降雨風險升高。",
+      "title": "北熱南雨 中央氣象署發布雙重示警",
+      "dek": "北部及東部持續發布高溫警戒之際，南部則因西南氣流迎來強降雨威脅。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/13/2003862423"
     },
     {
+      "rank": 4,
+      "title": "低壓槽盤據全台 本週高溫豪雨交織",
+      "dek": "氣象預報員指出，廣泛低壓系統與西南風本週將主導台灣天氣，中南部恐現短延時強降雨與溪水暴漲。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/12/2003862376"
+    },
+    {
+      "rank": 5,
+      "title": "午後對流轉旺 13縣市發布大雨特報",
+      "dek": "中央氣象署示警，對流雲系增強恐帶來雷擊、強陣風及低窪地區淹水風險。",
+      "url": "https://www.cna.com.tw/news/ahel/202608120187.aspx"
+    },
+    {
+      "rank": 6,
+      "title": "雨彈轟炸北台灣 12縣市大雨特報下探深夜",
+      "dek": "中時新聞網報導，對流雨帶持續增強，大雨特報範圍擴及北北基等12縣市。",
+      "url": "https://www.chinatimes.com/realtimenews/20260814002098-260405"
+    },
+    {
+      "rank": 7,
+      "title": "國家級警報響起 大雷雨襲擊北北基",
+      "dek": "強烈雷雨系統觸發國家級細胞廣播警報，中央氣象署同步將大雨特報擴大至11縣市。",
+      "url": "https://www.chinatimes.com/realtimenews/20260813002911-260405"
+    },
+    {
       "rank": 8,
-      "title": "颱風白海豚重創台灣北部 創下多地驚人雨量紀錄",
-      "dek": "Focus Taiwan回顧近期最後一個直接侵襲台灣的颱風白海豚，其為台北及台中帶來破紀錄降雨，並已於浙江登陸後解除海上警報。",
-      "url": "https://focustaiwan.tw/society/202608090003"
+      "title": "回顧白海豚颱風：台灣近期唯一直接颱風威脅",
+      "dek": "中央氣象署8月8日發布海上颱風警報，白海豚颱風已於隔日在中國溫州附近登陸，警報現已解除。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
     },
     {
       "rank": 9,
-      "title": "颱風南卡在南鳥島附近減弱為熱帶性低氣壓",
-      "dek": "日本氣象媒體Weathernews報導，第17號颱風南卡在南鳥島附近緩慢移動後持續減弱，預計不會對日本或台灣造成影響。",
-      "url": "https://weathernews.jp/news/202608/110231/"
+      "title": "颶風Lala侵襲夏威夷大島 逾百戶房屋受損",
+      "dek": "據夏威夷新聞台報導，Lala颶風登陸後已減弱為熱帶風暴，預測本週稍晚可能再度增強。",
+      "url": "https://www.hawaiinewsnow.com/2026/08/16/live-hurricane-lalas-eyewall-brushes-hawaii-island-steady-weakening-expected-tonight/"
     },
     {
       "rank": 10,
-      "title": "季風低壓帶內五個熱帶系統同時活動 專家不排除間接影響台灣",
-      "dek": "新頭殼報導指出，西北太平洋季風低壓環流異常活躍，同時孕育多個弱勢熱帶系統，氣象專家不排除下週對台灣帶來間接水氣影響。",
-      "url": "https://newtalk.tw/news/view/2026-08-11/1052579"
+      "title": "熱帶風暴Lala路徑追蹤：模型預測本週稍晚再增強",
+      "dek": "weather.com最新路徑圖顯示，Lala持續朝西北西移動，遠離台灣及西太平洋海域。",
+      "url": "https://weather.com/2026/08/16/storms/hurricane/lala-tracker-maps-hawaii-pacific-atlantic-hurricane-season"
     }
   ]
 }
