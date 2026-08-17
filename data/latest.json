@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:11:00+08:00",
+  "generated_at": "2026-08-17T12:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署未對任何風暴發布海上或陸上颱風警報，台灣本島目前未受颱風系統直接威脅，僅中南部有西南季風局部大雨風險。",
+  "alert_desc": "中央氣象署目前未對台灣任何地區發布海上或陸上颱風警報；上一次發布的海上颱風警報（因應颱風白海豚）已於本月稍早解除。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響（無海上或陸上颱風警報，也未達停班停課標準）。台中僅受例行西南季風夏季降雨影響，未達陸上颱風警報標準，也無停班停課措施。"
+    "text": "台中目前未受任何現行熱帶系統直接影響，最近一次相關衝擊為7月颱風巴威所致的停班停課；南海新擾動若成形，其後續路徑仍需持續關注。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "台灣暫無颱風威脅 氣象署未發布海陸警報",
-    "dek": "熱帶風暴萊拉重創夏威夷、西太平洋颱風接連北轉遠離之際，中央氣象署表示台灣目前未受任何颱風系統威脅。",
+    "title": "太平洋颱風季創55年最快紀錄 台灣暫獲喘息 南海新擾動待觀察",
+    "dek": "中央氣象署目前未發布海上或陸上颱風警報，但香港天文台示警南海最快18日可能形成低壓區，第17號颱風「南卡」則持續在日本以東減弱遠離。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "萊拉侵襲夏威夷 逾百戶住宅受損、數千戶停電",
-      "dek": "CNN報導，熱帶風暴萊拉增強逼近颶風強度後侵襲夏威夷大島，造成房屋損毀與大規模停電。",
-      "url": "https://www.cnn.com/2026/08/15/weather/tropical-storm-lala-inches-toward-hurricane-strength-and-hawaiis-big-island"
+      "title": "香港天文台示警：南海最快18日恐現低壓區",
+      "dek": "AI模式顯示路徑偏南，對台灣影響仍待觀察。",
+      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380316/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%8D%97%E6%B5%B7%E6%88%96%E6%9C%89%E4%BD%8E%E5%A3%93%E5%8D%80-8-18%E8%BD%89%E6%9D%B1%E5%8C%97%E9%A2%A8-ai%E6%96%99%E5%8D%97%E9%9D%A2%E6%8E%A0%E9%81%8E"
     },
     {
       "rank": 2,
-      "title": "萊拉再度減弱為熱帶風暴 持續為夏威夷帶來豪雨強風",
-      "dek": "NPR報導，萊拉登陸大島後由颶風減弱為熱帶風暴，歐胡島、茂宜郡與考艾郡熱帶風暴警報仍然有效。",
-      "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane"
+      "title": "第17號颱風「南卡」日本外海持續減弱 對台無威脅",
+      "dek": "南卡創55年來最早生成第17號颱風紀錄，正轉化為溫帶系統。",
+      "url": "https://newsonjapan.com/article/150356.php"
     },
     {
       "rank": 3,
-      "title": "萊拉挾破紀錄暴雨 夏威夷大島驚傳閃洪沖毀住宅",
-      "dek": "CBS News報導，大島部分地區累積雨量高達28至32英寸，引發致命閃洪並沖毀多棟房屋。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/"
+      "title": "颶風「Lala」重創夏威夷大島後減弱為熱帶風暴",
+      "dek": "逾百棟房屋受損，風暴已逐漸遠離夏威夷群島。",
+      "url": "https://www.cnn.com/2026/08/16/weather/video/hawaii-hurrican-lala-lashes-big-island-raw-vrtc-digvid"
     },
     {
       "rank": 4,
-      "title": "夏威夷風暴即時追蹤 公園全關、數百航班取消",
-      "dek": "Honolulu Civil Beat持續更新萊拉路徑、收容所開放與學校停課等最新資訊。",
-      "url": "https://www.civilbeat.org/2026/08/hawaii-storm-update-forecast-schools-closures-2/"
+      "title": "【背景】颱風「昌鴻」創紀錄登陸日本茨城縣",
+      "dek": "罕見西行路徑使其成為1951年以來首個在當地登陸的颱風，目前已消散。",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5535353"
     },
     {
       "rank": 5,
-      "title": "萊拉減弱仍未解除警戒 週末強風豪雨持續衝擊夏威夷",
-      "dek": "ABC News報導，萊拉雖已減弱為熱帶風暴，但暴風核心通過後強風豪雨風險依舊存在。",
-      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026"
+      "title": "【背景】颱風「白海豚」曾促中央氣象署發布海警 現已解除",
+      "dek": "白海豚8月上旬為新竹、苗栗山區帶來強降雨，其後轉往中國登陸。",
+      "url": "https://focustaiwan.tw/society/202608070010"
     },
     {
       "rank": 6,
-      "title": "太平洋、大西洋同時醞釀五個熱帶系統 颶風季升溫",
-      "dek": "Newsweek彙整地圖顯示，隨2026年颶風季活動增強，兩大洋盆同時有五個系統受到觀察。",
-      "url": "https://www.newsweek.com/map-threats-pacific-atlantic-hurricane-risk-12301497"
+      "title": "【背景】熱帶風暴「琵琶」曾與白海豚、昌鴻同時現蹤 現已消散",
+      "dek": "三颱共存的罕見局面已成過去，琵琶未對菲律賓構成重大威脅。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
     },
     {
       "rank": 7,
-      "title": "熱帶擾動92W增強 逼近關島恐帶來強降雨",
-      "dek": "Pacific Daily News報導，92W持續增強且發展為熱帶低氣壓機率上升，但預料不致達颱風強度。",
-      "url": "https://www.postguam.com/news/local/invest-92w-strengthens-threatens-heavy-rain/article_8eeb335a-3f5c-463a-8ed4-db12f2667d3a.html"
+      "title": "2026年颱風季創55年最快生成紀錄",
+      "dek": "南卡的生成，使今年成為西太平洋55年來第17號颱風出現最早的一年。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5537089"
     },
     {
       "rank": 8,
-      "title": "92W持續朝馬里亞納群島移動 塞班等地估降雨2至3英寸",
-      "dek": "Marianas Variety報導，關島國家氣象局預估92W將為塞班島、天寧島與羅塔島帶來降雨及陣風。",
-      "url": "https://www.mvariety.com/news/local/local-news-invest-92w-continues-toward-the-marianas/article_3b245d40-5f47-47d9-99be-dc1367c3f1d8.html"
+      "title": "大西洋、加勒比海與墨西哥灣持續平靜",
+      "dek": "美國國家颶風中心預估未來七天無熱帶系統發展，與西太平洋活躍態勢形成對比。",
+      "url": "https://www.wptv.com/weather/tropical-weather/tropics-sunday-august-16-2026-6am-update"
     },
     {
       "rank": 9,
-      "title": "颱風「南卡」生成 路徑北轉遠離台灣",
-      "dek": "民視新聞網報導，中央氣象署證實第17號颱風南卡生成，預估路徑偏離日本與台灣。",
-      "url": "https://www.ftvnews.com.tw/news/detail/2026812W0400"
+      "title": "【背景】氣象單位預期年底前西太平洋恐再添最多五個風暴",
+      "dek": "今年稍早的季節展望顯示，本季活躍態勢預料將延續。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     },
     {
       "rank": 10,
-      "title": "颱風「琵鷺」生成 三颱共存但路徑仍偏離台灣",
-      "dek": "中時新聞網報導，第16號颱風琵鷺生成後一度與多爾芬、昌鴻形成三颱共存，惟路徑朝東北遠離台灣。",
-      "url": "https://www.chinatimes.com/realtimenews/20260809002035-260405"
+      "title": "【背景】颱風「巴威」曾致台中停班停課",
+      "dek": "7月的巴威是台中近期最直接的一次颱風衝擊，目前已無現行系統影響當地。",
+      "url": "https://udn.com/news/story/124945/9618444"
     }
   ]
 }
