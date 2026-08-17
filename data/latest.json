@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T13:18:00+08:00",
+  "generated_at": "2026-08-17T14:18:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月9日晚間解除颱風白海豚的海上警報且全程未發布陸上警報（自由時報、中央社報導），而8月12日生成的颱風南卡經中央社報導證實對台無影響，17日全台警戒僅為大雨特報，並無颱風警報（中央社、ETtoday報導）。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，主導近日天氣的是一波大低壓帶；中央社、tenki.jp（引用NHK）等媒體證實颱風南卡已減弱消散，苗栗、台中等地則因大低壓帶已進入豪雨警戒。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風系統直接影響，僅隨全台大低壓帶籠罩，午後有雷陣雨及局部大雨機率，尚無因颱風而生的停班停課情形。"
+    "text": "台中目前未受任何颱風系統直接影響，但因大低壓帶效應已與苗栗一同列入「苗中豪雨警戒」範圍，山區有土石鬆動、溪水暴漲疑慮，目前尚無因豪雨或颱風而生的停班停課公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "無颱風威脅台灣 大低壓帶本週持續帶來豪雨",
-    "dek": "中央氣象署目前未對台灣發布任何颱風警報，但一波大低壓帶將為全台帶來持續性降雨，氣象單位同時密切觀察南海與菲律賓以東兩處熱帶擾動的後續發展。",
+    "title": "無颱風警報 大低壓帶主導一週豪雨",
+    "dek": "中央氣象署證實目前無颱風警報生效，但大低壓帶將持續影響台灣至少一週，苗栗、台中等地已發布豪雨警戒。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "大低壓帶籠罩全台一週 17日雲林以南慎防豪雨",
-      "dek": "中央社報導，氣象署指出大低壓帶將影響台灣約一週，17日雨勢最劇，雲林以南有局部豪雨風險。",
+      "title": "大低壓帶籠罩一週 17日水氣最盛 雲林以南防局部豪雨",
+      "dek": "中央社報導，中央氣象署預測大低壓帶將影響台灣一整週，17日水氣達到高峰，雲林以南地區須留意局部豪雨。",
       "url": "https://www.cna.com.tw/news/ahel/202608160161.aspx"
     },
     {
       "rank": 2,
-      "title": "低壓帶17日移入 新竹以南防午後大雨",
-      "dek": "ETtoday報導，低壓帶移入使全台水氣增加，新竹以南地區午後須留意局部大雨，屬降雨事件而非颱風警報。",
-      "url": "https://www.ettoday.net/news/20260817/3220395.htm"
+      "title": "專家：台灣已進入大低壓帶型態 熱對流恐遍地開花",
+      "dek": "Newtalk新聞引述專家分析，證實台灣本週進入大低壓帶環境，提醒各地防範強對流降雨並持續觀察擾動發展。",
+      "url": "https://newtalk.tw/news/view/2026-08-17/1053823"
     },
     {
       "rank": 3,
-      "title": "「颱風流水線」未斷 南海、菲律賓外海現擾動跡象",
-      "dek": "中時新聞網報導，氣象模式顯示南海及菲律賓以東海域未來一週可能有熱帶擾動醞釀成形。",
-      "url": "https://www.chinatimes.com/realtimenews/20260816000895-260405"
+      "title": "南海、菲律賓東側恐生擾動 氣象粉專稱颱風「流水線」未斷",
+      "dek": "Newtalk新聞報導，氣象觀測粉專分析南海與菲律賓以東海域本週可能出現新的熱帶擾動，但能否發展成颱風仍待觀察。",
+      "url": "https://newtalk.tw/news/view/2026-08-16/1053680"
     },
     {
       "rank": 4,
-      "title": "熱帶風暴南卡生成 預料不會直接侵台",
-      "dek": "Focus Taiwan報導，今年第17號風暴南卡生成後路徑偏向日本以東，氣象署稱台灣仍受其他天氣系統影響而持續悶熱多雨。",
-      "url": "https://focustaiwan.tw/society/202608120008"
+      "title": "氣象署凌晨發布4縣市大雨特報 午後全台變天",
+      "dek": "ETtoday新聞雲報導，氣象署今日清晨針對基隆北海岸、新北、宜蘭與澎湖發布大雨特報，午後對流發展恐使天氣轉趨不穩定。",
+      "url": "https://www.ettoday.net/news/20260817/3220289.htm"
     },
     {
       "rank": 5,
-      "title": "颱風南卡在西太平洋生成 氣象署證實對台無影響",
-      "dek": "中央社報導，今年第17號颱風南卡因強烈風切偏弱，朝日本以東海域移動，對台灣天氣無影響。",
-      "url": "https://www.cna.com.tw/news/ahel/202608120035.aspx"
+      "title": "17縣市豪大雨齊發 苗栗台中列入豪雨警戒",
+      "dek": "中時新聞網報導，氣象署針對17縣市發布豪大雨特報，六地並列入即時強雷雨警戒，苗栗、台中已進入豪雨警戒範圍。",
+      "url": "https://www.chinatimes.com/realtimenews/20260816002341-260405"
     },
     {
       "rank": 6,
-      "title": "南卡外圍水氣釀災 日本千葉暴雨釀4死、7000人受困機場",
-      "dek": "韓國《首爾經濟》報導，與南卡相關的水氣在日本千葉引發驚人豪雨，造成4人罹難、約7000名旅客受困機場。",
-      "url": "https://en.sedaily.com/international/2026/08/14/record-rain-kills-4-in-japans-chiba-strands-7000-at-airport"
+      "title": "菲律賓低壓區進入責任區 西南季風雨勢將再增強",
+      "dek": "菲律賓媒體Rappler引述PAGASA報告，一個8月16日形成的低壓區已進入菲律賓責任區，未來24小時內有中等機率發展為熱帶低氣壓「Neneng」。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-lpa-update-pagasa-forecast-august-17-2026-11am/"
     },
     {
       "rank": 7,
-      "title": "白海豚減弱轉向中國 氣象署預告解除海上警報",
-      "dek": "自由時報報導，颱風白海豚持續減弱縮小，氣象署預告週一上午解除海上颱風警報，警報已於8月9日晚間解除。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5533197"
+      "title": "PAGASA同步監測責任區外兩個低壓區",
+      "dek": "GMA News Online報導，菲律賓氣象單位PAGASA同時追蹤兩個位於責任區外的低壓區，其中一個24小時內發展機率為中等。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998738/weather-pagasa-august-17-2026/story/"
     },
     {
       "rank": 8,
-      "title": "白海豚逼近 氣象署發布海上颱風警報",
-      "dek": "《台北時報》報導，中央氣象署對颱風白海豚發布本季最近一次海上颱風警報，該颱風為北部及中部帶來降雨後轉向中國，未發布陸上警報。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/08/2003862135"
+      "title": "第17號颱風南卡已減弱為熱帶低氣壓",
+      "dek": "日本氣象協會tenki.jp報導，原颱風「南卡」已於8月14日晚間在南鳥島海域減弱為熱帶低氣壓，對日本無直接影響。",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/08/14/40163.html"
     },
     {
       "rank": 9,
-      "title": "PAGASA：8月底前菲律賓周邊估再增兩個颱風",
-      "dek": "GMA News Online報導，菲律賓氣象機關PAGASA預期8月底前該國周邊還會有兩個熱帶氣旋生成或造成影響。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
+      "title": "NHK追蹤南卡北移 提醒持續留意後續動態",
+      "dek": "NHK新聞報導，南卡颱風在減弱為熱帶低氣壓前持續於南鳥島附近海域北上，並確認對台灣及日本均無威脅。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43975"
     },
     {
       "rank": 10,
-      "title": "【回顧】超級颱風「浣熊」重創馬里亞納群島 為今年最強風暴",
-      "dek": "NASA地球觀測站回顧指出，今年4月的超級颱風浣熊以近5級強度襲擊塞班與天寧島，造成17人死亡、逾4.58億美元損失，迄今仍是2026年全球最強熱帶氣旋。",
-      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/"
+      "title": "熱帶擾動92W接近波納佩島 未來48小時發展仍待觀察",
+      "dek": "Zoom Earth彙整美國聯合颱風警報中心資料指出，波納佩島附近的熱帶擾動92W雖24小時發展機率偏低，但48小時內仍有增強為颱風的可能。",
+      "url": "https://zoom.earth/storms/92w-2026/"
     }
   ]
 }
