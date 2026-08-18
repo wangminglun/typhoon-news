@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T10:45:00+08:00",
+  "generated_at": "2026-08-18T12:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對台灣發布海上或陸上颱風警報，全台目前受低壓帶影響而處於大雨特報中，氣象單位正密切觀察關島東側可能發展為颱風的熱帶擾動。",
+  "alert_desc": "中央氣象署尚未對台灣發布海上或陸上颱風警報。熱帶擾動94W預計19日至20日通過台灣附近海域，將帶來強降雨與雷雨；關島附近另一系統也可能於本週稍晚增強為今年第18號颱風「沙德爾」。",
   "region_watch": {
     "region": "台中",
-    "text": "截至8月18日，台中市因低壓帶影響仍處於大雨特報範圍內，但尚未發布颱風警報，也未公告停班停課。"
+    "text": "台中目前未發布颱風警報，僅受熱帶擾動94W帶來的季節性水氣間接影響；18日至21日南部及山區有機會出現豪雨等級降雨與午後雷雨，但目前未有風力警報或停班停課公告。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "無颱風警報但雨勢未歇 中央氣象署密切觀察關島東側熱帶擾動",
-    "dek": "低壓帶挾豪雨籠罩全台之際，氣象單位正緊盯一股可能發展為今年第十八號颱風「沙德爾」的熱帶系統，其路徑與是否影響台灣目前仍屬未知數。",
-    "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
+    "title": "熱帶擾動94W逼近 台灣多縣市防雷雨；關島低壓恐醞釀今年第18號颱風「沙德爾」",
+    "dek": "中央氣象署尚未發布海上或陸上颱風警報，但熱帶擾動94W預計於19日至20日通過台灣附近海域，為全台帶來強降雨與雷雨，同時關島附近另一系統也可能在本週稍晚增強為颱風，路徑指向沖繩。",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5543358"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風「沙德爾」最快週四生成 預測路徑曝光",
-      "dek": "中時新聞網報導，關島東側熱帶擾動最快本週四發展為今年第18號颱風，但各方預測路徑分歧，距台尚遠，暫難評估影響。",
-      "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
+      "title": "大低壓帶影響雙擾動包夾台灣 明94W通過台灣各地防雷雨",
+      "dek": "自由時報報導，季風低壓帶疊加熱帶擾動94W，預計18日至19日通過台灣附近，提醒全台留意瞬間強降雨與雷擊。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5543358"
     },
     {
       "rank": 2,
-      "title": "關島熱帶擾動恐成颱風「沙德爾」 最快時間點曝光",
-      "dek": "中時新聞網指出，氣象單位正觀察關島附近熱帶擾動，最快週五或週六增強為熱帶低氣壓並可能迅速發展為颱風，未來路徑與強度仍高度不確定。",
-      "url": "https://www.chinatimes.com/realtimenews/20260817003382-260405"
+      "title": "94W增強逼近！颱風論壇：19、20日不排除經過北台灣 全台雷雨增",
+      "dek": "Yahoo奇摩新聞引述台灣颱風論壇報導，熱帶擾動94W持續增強，19日至20日不排除直接通過北台灣，全台雷雨活動將增加。",
+      "url": "https://tw.news.yahoo.com/94w%E5%A2%9E%E5%BC%B7%E9%80%BC%E8%BF%91-%E9%A2%B1%E9%A2%A8%E8%AB%96%E5%A3%87-19-20%E6%97%A5%E4%B8%8D%E6%8E%92%E9%99%A4%E7%B6%93%E9%81%8E%E5%8C%97%E5%8F%B0%E7%81%A3-%E5%85%A8%E5%8F%B0%E9%9B%B7%E9%9B%A8%E5%A2%9E-100600614.html"
     },
     {
       "rank": 3,
-      "title": "第18號颱風「沙德爾」要來了？台灣暴雨一週 降雨趨勢一圖看",
-      "dek": "Newtalk新聞報導，低壓帶滯留台灣上空，即便新颱風尚未生成，全台未來一週仍將籠罩在不穩定的多雨天氣中。",
-      "url": "https://newtalk.tw/news/view/2026-08-17/1053984"
+      "title": "雨勢升級！16縣市豪、大雨特報 台中防大雷雨",
+      "dek": "Yahoo奇摩新聞報導，中央氣象署已對16縣市發布豪雨或大雨特報，台中被列為午後強雷雨潛勢區，但未發布風力或颱風警報。",
+      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8B%A2%E5%8D%87%E7%B4%9A%EF%BC%8116%E7%B8%A3%E5%B8%82%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E5%8F%B0%E4%B8%AD%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-030349850.html"
     },
     {
       "rank": 4,
-      "title": "中央氣象署對台灣本島多數地區發布大雨特報",
-      "dek": "Focus Taiwan報導，中央氣象署8月16日對全台多數縣市發布大雨特報，台中並於當天下午升級為大雨特報中門檻最高的等級。",
-      "url": "https://focustaiwan.tw/society/202608160006"
+      "title": "明起全台連日壞天氣 沙德爾颱風將生成下周恐襲沖繩 路徑仍有變數",
+      "dek": "聯合新聞網報導，關島附近熱帶擾動最快20日至21日發展為今年第18號颱風「沙德爾」，路徑變數仍大，台灣未來數日將維持不穩定多雨天氣。",
+      "url": "https://udn.com/news/story/7266/9697878"
     },
     {
       "rank": 5,
-      "title": "「沙德爾」颱風最快週四生成 預測路徑曝光",
-      "dek": "ETtoday新聞雲報導，最新資料顯示關島附近系統最快週四發展為颱風「沙德爾」，初步路徑顯示先西北後轉北，但距台仍遠、變數仍大。",
-      "url": "https://www.ettoday.net/news/20260818/3220943.htm"
+      "title": "颱風「沙德爾」最快周四生成 預測路徑曝光",
+      "dek": "中時新聞網報導，關島附近系統最快週四（20日）發展為第18號颱風沙德爾，模式顯示路徑偏向西北朝琉球群島前進，暫未直接威脅台灣。",
+      "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
     },
     {
       "rank": 6,
-      "title": "颱風「南卡」生成 對台無影響",
-      "dek": "經濟日報報導，今年第17號颱風「南卡」在硫磺島東南方海面生成後快速向東北移動，受強風切影響強度偏弱，對台灣天氣無影響。",
-      "url": "https://money.udn.com/money/story/122328/9686022"
+      "title": "「沙德爾」颱風最快周四生成 預測路徑曝",
+      "dek": "ETtoday新聞雲報導，沙德爾颱風最快週四生成，初步路徑指向琉球/沖繩地區，台灣受94W與季風低壓帶影響，未來一週天氣仍不穩定。",
+      "url": "https://www.ettoday.net/news/20260818/3220943.htm"
     },
     {
       "rank": 7,
-      "title": "颱風「多爾芬」登陸浙江、福建交界 氣象學者稱其生成位置罕見",
-      "dek": "《環球時報》報導，第13號颱風「多爾芬」形成於接近國際換日線處，成為有紀錄以來生成位置距中國大陸最遠的登陸颱風，並於浙江台州帶來破紀錄雨量。",
-      "url": "https://www.globaltimes.cn/page/202608/1367704.shtml"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶風暴「拉拉」為夏威夷群島帶來強降雨與強風",
-      "dek": "美聯社報導，颶風「拉拉」減弱為熱帶風暴後掠過夏威夷大島，未直接登陸卻仍造成強降雨、淹水與強風，目前持續向西遠離。",
-      "url": "https://abcnews.com/US/wireStory/lala-tropical-storm-sending-drenching-rain-high-winds-135686477"
-    },
-    {
-      "rank": 9,
-      "title": "菲律賓氣象局：8月底前恐再有兩個颱風侵襲",
-      "dek": "GMA News Online報導，菲律賓大氣地球物理與天文服務管理局表示，繼颱風「路易斯」與「梅梅」後，預計月底前還會有兩個颱風影響菲律賓。",
+      "title": "PAGASA: 2 more typhoons expected in August 2026",
+      "dek": "菲律賓大氣地球物理和天文服務管理局（PAGASA）表示，繼熱帶低壓Luis與熱帶風暴Maymay後，8月底前菲律賓還將再受兩個颱風影響。",
       "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
+      "rank": 8,
+      "title": "Typhoon Dolphin brings strong winds, minor injuries to northern Taiwan",
+      "dek": "中央社英文新聞網（Focus Taiwan）報導，強颱杜芬外圍環流本月初侵襲北台灣，造成路樹倒塌、鷹架坍塌及至少一人輕傷，其後於中國溫州附近登陸。",
+      "url": "https://focustaiwan.tw/society/202608080014"
+    },
+    {
+      "rank": 9,
+      "title": "Typhoon Peilou forms, creating a rare 'three-typhoon' situation alongside typhoon Dolphin and Chan-hom",
+      "dek": "環球時報（Global Times）報導，颱風北冕生成後與杜芬、狮子山一度形成罕見「三颱共存」局面，北冕最終在日本以東海面出海未登陸。",
+      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+    },
+    {
       "rank": 10,
-      "title": "兩縣市發布大雨特報 低壓帶影響「大氣不穩定」 籲注意劇烈天氣",
-      "dek": "CTWANT報導，低壓帶持續影響台灣大氣穩定度，8月19日起至24日前後降雨將更趨明顯且伴隨雷雨，關島東側熱帶擾動亦是氣象單位觀察重點。",
-      "url": "https://www.ctwant.com/article/493956/"
+      "title": "Invest 92L designated in the Atlantic as tropical activity ramps up in the main development region",
+      "dek": "福斯天氣網（FOX Weather）報導，美國國家颶風中心正監測大西洋92L、94L等多個低壓胚胎，發展緩慢，符合NOAA預期的偏弱颶風季展望。",
+      "url": "https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026"
     }
   ]
 }
