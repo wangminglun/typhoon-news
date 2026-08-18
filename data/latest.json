@@ -1,82 +1,91 @@
 {
-  "generated_at": "2026-08-19T01:09:00+08:00",
+  "generated_at": "2026-08-19T02:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未針對任何颱風系統發布海上或陸上颱風警報；關島附近熱帶低壓最快週四增強為颱風「沙德爾」，但預估本週不會直接影響台灣。",
+  "alert_desc": "中央氣象署尚未針對任何颱風系統發布海上或陸上颱風警報；關島附近熱帶擾動最快本週形成今年第18號颱風「沙德爾」，預估路徑偏向琉球至日本一帶，本週北部及東半部將迎明顯降雨。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，市區未達停班停課標準；台中僅受西南風/低壓帶影響，山區偶有較大雨勢，8月9日白海豚颱風侵襲期間台中市區同樣未達停班停課門檻（僅山區雨量達標準）。"
+    "text": "目前無颱風直接影響台中，市區未達停班停課標準；氣象署大雨特報範圍集中於新北山區、宜蘭、北部沿海及花東地區，中南部僅有本週稍晚出現局部大雨的可能性，7月中旬颱風巴威曾致台中停班停課，本次尚無相關公告。"
   },
   "quick_links": [
-    { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
-    { "label": "即時風速觀測", "url": "https://www.cwa.gov.tw/V8/C/W/WindSpeed/WindSpeed_All.html" },
-    { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
+    {
+      "label": "颱風路徑潛勢圖",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html"
+    },
+    {
+      "label": "即時風速觀測",
+      "url": "https://www.cwa.gov.tw/V8/C/W/WindSpeed/WindSpeed_All.html"
+    },
+    {
+      "label": "颱風警報現況",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+    }
   ],
   "headline": {
-    "title": "台灣暫無颱風警報 太平洋新系統醞釀 路徑充滿變數",
-    "dek": "第18號颱風「沙德爾」最快週四生成，未來是否侵台仍待觀察，西南氣流已為台灣南部與東半部帶來降雨。",
-    "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
+    "title": "颱風尚未成形 台灣無警報下迎接連日大雨 恐迎今年第18號颱風「沙德爾」",
+    "dek": "中央氣象署尚未發布海上或陸上颱風警報，但關島東方熱帶擾動最快本週形成颱風，週三起豪雨恐襲北部及東半部。",
+    "url": "https://www.cna.com.tw/news/ahel/202608180267.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾颱風路徑模擬分歧 不排除貫穿台灣",
-      "dek": "熱帶擾動92W通過沖繩後模擬路徑發散，專家指系統仍在發展階段，須持續觀察後續動向。",
-      "url": "https://www.chinatimes.com/realtimenews/20260818003635-260405"
+      "title": "菲律賓東方熱帶擾動增強 氣象署示警路徑貼近台灣 19日晚起雨勢增強",
+      "dek": "中央氣象署表示，該系統本週稍晚不排除發展為颱風，19日晚間起降雨將明顯增強。",
+      "url": "https://www.cna.com.tw/news/ahel/202608180267.aspx"
     },
     {
       "rank": 2,
-      "title": "沙德爾颱風路徑模擬分歧 不排除貫穿台灣",
-      "dek": "92W通過沖繩後路徑模擬開始發散，不排除接近甚至貫穿台灣東部海域，但本週對台灣預估暫無影響。",
-      "url": "https://www.ctee.com.tw/news/20260818701676-431401"
+      "title": "今年第18號颱風「沙德爾」最快20日生成 台灣迎不穩定濕熱一週",
+      "dek": "關島附近熱帶低壓持續增強，即使尚未正式編號，台灣本週天氣已受其牽動而轉趨不穩定。",
+      "url": "https://newtalk.tw/news/view/2026-08-18/1054218"
     },
     {
       "rank": 3,
-      "title": "颱風沙德爾最快週四生成 初步模擬路徑曝光",
-      "dek": "日本氣象廳評估關島附近熱帶低壓TD20可能於24小時內升級為今年第18號颱風，距離台灣仍遠。",
-      "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
+      "title": "熱帶擾動路徑貼近台灣 兩縣市發布大雨特報",
+      "dek": "氣象署針對路徑逼近台灣的熱帶擾動發布大雨特報，提醒大氣不穩定，慎防瞬間強降雨。",
+      "url": "https://news.nextapple.com/local/20260818/D6C14F4DBD8CC6E18F495C5E0A8F86F0"
     },
     {
       "rank": 4,
-      "title": "熱帶低壓TD20增強在即 預估明日升格颱風沙德爾",
-      "dek": "熱帶低壓中心位於北緯7.7度、東經154.4度，預期路徑先轉西再北轉，本週不會影響台灣。",
-      "url": "https://www.chinatimes.com/realtimenews/20260818004765-260405"
+      "title": "「沙德爾」颱風最快週四生成 專家：台灣本週雨勢難免",
+      "dek": "氣象專家指出，關島附近熱帶擾動最快週四增強為颱風，無論是否正式編號，台灣本週天氣都將偏濕不穩定。",
+      "url": "https://news.nextapple.com/life/20260818/3EB26460D03CF019A14E4EC3B59B392C"
     },
     {
       "rank": 5,
-      "title": "沙德爾颱風最快週四生成 侵台機率待觀察",
-      "dek": "報導指出颱風生成後是否侵台仍需觀察，西南氣流與低壓帶將使台灣未來數日降雨明顯增強。",
-      "url": "https://www.setn.com/news/1891157"
+      "title": "「沙德爾」颱風最快週五成形 中南部明日午後慎防強降雨",
+      "dek": "氣象專家指出，關島附近系統最快週五發展為第18號颱風，中南部地區則須留意隔日午後的強降雨。",
+      "url": "https://www.ettoday.net/news/20260817/3220725.htm"
     },
     {
       "rank": 6,
-      "title": "新颱風沙德爾醞釀成形 未來一週台灣降雨增強",
-      "dek": "氣象專欄分析指出，西半部與山區未來一週恐有連續多日強降雨，籲民眾注意防範。",
-      "url": "https://www.storm.mg/lifestyle/11156984"
+      "title": "關島海域熱帶擾動增強 恐成今年第18號颱風「沙德爾」",
+      "dek": "中時新聞網報導，關島附近一股熱帶擾動正受到氣象單位密切觀察，不排除數日內發展為颱風。",
+      "url": "https://www.chinatimes.com/realtimenews/20260817003382-260405"
     },
     {
       "rank": 7,
-      "title": "沙德爾颱風最快週四生成 週三北部東部雷雨增多",
-      "dek": "對台影響機率仍具不確定性，受熱力作用影響，週三北部與東部地區將有明顯雷陣雨。",
-      "url": "https://supertaste.tvbs.com.tw/hot/361037"
+      "title": "第18號颱風「沙德爾」醞釀成形 台灣估將迎一週不穩定降雨",
+      "dek": "Newtalk新聞報導，即使颱風尚未正式生成，季風槽影響下台灣本週已籠罩在持續性豪雨風險中。",
+      "url": "https://newtalk.tw/news/view/2026-08-17/1053984"
     },
     {
       "rank": 8,
-      "title": "第17號颱風南卡生成 對台無直接影響",
-      "dek": "南卡8月12日上午生成後路徑預估朝日本東方海面前進，台灣南部僅受西南風影響出現局部短暫雷陣雨。",
-      "url": "https://www.taiwanhot.net/news/1144703/%E7%AC%AC17%E8%99%9F%E9%A2%B1%E9%A2%A8%E3%80%8C%E5%8D%97%E5%8D%A1%E3%80%8D%E7%94%9F%E6%88%90+%E5%B0%8D%E5%8F%B0%E7%84%A1%E5%BD%B1%E9%9F%BF"
+      "title": "颱風白海豚重創北台灣交通 逾190班機停飛、九航線渡輪停駛",
+      "dek": "Focus Taiwan報導，白海豚為北台灣帶來強風豪雨，造成大規模航班與渡輪停駛後，已於中國溫州附近登陸。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     },
     {
       "rank": 9,
-      "title": "颱風南卡生成 恐朝日本關東方向前進",
-      "dek": "報導提醒近期赴日民眾留意南卡動態，該系統對台灣本身無明顯威脅。",
-      "url": "https://news.tvbs.com.tw/life/4005849"
+      "title": "白海豚颱風最接近台灣時刻 距台北僅350公里",
+      "dek": "Taipei Times報導，白海豚以時速119公里強風掠過台灣北方海域，氣象署當時已發布海上颱風警報。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/09/2003862176"
     },
     {
       "rank": 10,
-      "title": "白海豚颱風重創北台灣 逾百件災情通報",
-      "dek": "中央社英文新聞網報導，白海豚颱風為北台灣帶來強風豪雨，5人受傷，隨後於中國溫州附近登陸。",
-      "url": "https://focustaiwan.tw/society/202608090003"
+      "title": "熱帶擾動92W於關島、馬里亞納群島海域增強 恐帶來強降雨",
+      "dek": "Post Guam報導，天寧島與塞班島預期出現最強風勢，美國聯合颱風警報中心評估其發展機率為中等。",
+      "url": "https://www.postguam.com/news/local/invest-92w-strengthens-threatens-heavy-rain/article_8eeb335a-3f5c-463a-8ed4-db12f2667d3a.html"
     }
   ]
 }
