@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T12:11:00+08:00",
+  "generated_at": "2026-08-18T13:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對台灣發布海上或陸上颱風警報。熱帶擾動94W預計19日至20日通過台灣附近海域，將帶來強降雨與雷雨；關島附近另一系統也可能於本週稍晚增強為今年第18號颱風「沙德爾」。",
+  "alert_desc": "中央氣象署尚未對台灣發布海上或陸上颱風警報。菲律賓東方的熱帶擾動94W與南海的95W正為台灣帶來連日大雨風險，其中較強的94W預測最快週四（8月20日）發展為今年第18號颱風「沙德爾」。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未發布颱風警報，僅受熱帶擾動94W帶來的季節性水氣間接影響；18日至21日南部及山區有機會出現豪雨等級降雨與午後雷雨，但目前未有風力警報或停班停課公告。"
+    "text": "台中目前並無因颱風而發布的停班停課，市內也未受任何颱風警報涵蓋；但過去兩天已出現大雷雨即時訊息，太平區頭汴坑溪有防災性警戒、山區局部強降雨與淹水，市民仍須留意94W及潛在沙德爾颱風於8月21日至24日可能帶來的降雨高峰。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "熱帶擾動94W逼近 台灣多縣市防雷雨；關島低壓恐醞釀今年第18號颱風「沙德爾」",
-    "dek": "中央氣象署尚未發布海上或陸上颱風警報，但熱帶擾動94W預計於19日至20日通過台灣附近海域，為全台帶來強降雨與雷雨，同時關島附近另一系統也可能在本週稍晚增強為颱風，路徑指向沖繩。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5543358"
+    "title": "雙擾動夾擊台灣 今年第18號颱風「沙德爾」最快週四生成",
+    "dek": "中央氣象署尚未發布颱風警報，但菲律賓東方的熱帶擾動94W與南海的95W已為台灣帶來連日大雨風險，其中較強的94W預測最快週四發展為今年第18號颱風「沙德爾」。",
+    "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "大低壓帶影響雙擾動包夾台灣 明94W通過台灣各地防雷雨",
-      "dek": "自由時報報導，季風低壓帶疊加熱帶擾動94W，預計18日至19日通過台灣附近，提醒全台留意瞬間強降雨與雷擊。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5543358"
-    },
-    {
-      "rank": 2,
-      "title": "94W增強逼近！颱風論壇：19、20日不排除經過北台灣 全台雷雨增",
-      "dek": "Yahoo奇摩新聞引述台灣颱風論壇報導，熱帶擾動94W持續增強，19日至20日不排除直接通過北台灣，全台雷雨活動將增加。",
-      "url": "https://tw.news.yahoo.com/94w%E5%A2%9E%E5%BC%B7%E9%80%BC%E8%BF%91-%E9%A2%B1%E9%A2%A8%E8%AB%96%E5%A3%87-19-20%E6%97%A5%E4%B8%8D%E6%8E%92%E9%99%A4%E7%B6%93%E9%81%8E%E5%8C%97%E5%8F%B0%E7%81%A3-%E5%85%A8%E5%8F%B0%E9%9B%B7%E9%9B%A8%E5%A2%9E-100600614.html"
-    },
-    {
-      "rank": 3,
-      "title": "雨勢升級！16縣市豪、大雨特報 台中防大雷雨",
-      "dek": "Yahoo奇摩新聞報導，中央氣象署已對16縣市發布豪雨或大雨特報，台中被列為午後強雷雨潛勢區，但未發布風力或颱風警報。",
-      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8B%A2%E5%8D%87%E7%B4%9A%EF%BC%8116%E7%B8%A3%E5%B8%82%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E5%8F%B0%E4%B8%AD%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-030349850.html"
-    },
-    {
-      "rank": 4,
-      "title": "明起全台連日壞天氣 沙德爾颱風將生成下周恐襲沖繩 路徑仍有變數",
-      "dek": "聯合新聞網報導，關島附近熱帶擾動最快20日至21日發展為今年第18號颱風「沙德爾」，路徑變數仍大，台灣未來數日將維持不穩定多雨天氣。",
-      "url": "https://udn.com/news/story/7266/9697878"
-    },
-    {
-      "rank": 5,
       "title": "颱風「沙德爾」最快周四生成 預測路徑曝光",
-      "dek": "中時新聞網報導，關島附近系統最快週四（20日）發展為第18號颱風沙德爾，模式顯示路徑偏向西北朝琉球群島前進，暫未直接威脅台灣。",
+      "dek": "中時新聞網報導，關島附近熱帶擾動最快週四發展為今年第18號颱風沙德爾，預測路徑轉向琉球群島，但仍有不確定性。",
       "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
     },
     {
-      "rank": 6,
+      "rank": 2,
       "title": "「沙德爾」颱風最快周四生成 預測路徑曝",
-      "dek": "ETtoday新聞雲報導，沙德爾颱風最快週四生成，初步路徑指向琉球/沖繩地區，台灣受94W與季風低壓帶影響，未來一週天氣仍不穩定。",
+      "dek": "ETtoday新聞雲報導，氣象署預報員指出關島附近擾動最快週四至週五發展為颱風沙德爾，生成位置、強度與路徑仍有相當大的不確定性。",
       "url": "https://www.ettoday.net/news/20260818/3220943.htm"
     },
     {
+      "rank": 3,
+      "title": "明起全台連日壞天氣 沙德爾颱風將生成下周恐襲沖繩 路徑仍有變數",
+      "dek": "聯合新聞網報導，明日起全台將迎連日壞天氣，颱風沙德爾預計生成後下週可能威脅沖繩，路徑仍有高度變數。",
+      "url": "https://udn.com/news/story/7266/9697878"
+    },
+    {
+      "rank": 4,
+      "title": "新颱風沙德爾要生成了！最新路徑曝「連7天全台暴雨下到發紅」",
+      "dek": "風傳媒報導，受發展中擾動與可能生成的沙德爾颱風影響，全台恐迎連續七天強降雨，多處已發布最高等級雨量警戒。",
+      "url": "https://www.storm.mg/lifestyle/11156984"
+    },
+    {
+      "rank": 5,
+      "title": "天氣／恐有新颱風！「沙德爾」最快週四生成 預測路徑、對台影響曝",
+      "dek": "TVBS新聞網報導，可能生成的新颱風沙德爾預計週四成形，並分析其對台灣的影響機率與程度，同時提醒近期午後雷陣雨。",
+      "url": "https://news.tvbs.com.tw/life/4008732"
+    },
+    {
+      "rank": 6,
+      "title": "大低壓帶影響雙擾動包夾台灣 明94W通過台灣各地防雷雨",
+      "dek": "自由時報電子報報導，大低壓帶挾帶94W與95W兩個熱帶擾動影響台灣，94W預計週三通過台灣附近，全台須防雷雨。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5543358"
+    },
+    {
       "rank": 7,
-      "title": "PAGASA: 2 more typhoons expected in August 2026",
-      "dek": "菲律賓大氣地球物理和天文服務管理局（PAGASA）表示，繼熱帶低壓Luis與熱帶風暴Maymay後，8月底前菲律賓還將再受兩個颱風影響。",
-      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
+      "title": "雙低壓夾擊畫面曝！擾動94W接近 颱風論壇：不排除穿北台",
+      "dek": "自由時報電子報報導，氣象論壇分析指出擾動94W持續接近，不排除路徑直接穿越台灣北部，降雨與雷雨風險升高。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5542857"
     },
     {
       "rank": 8,
-      "title": "Typhoon Dolphin brings strong winds, minor injuries to northern Taiwan",
-      "dek": "中央社英文新聞網（Focus Taiwan）報導，強颱杜芬外圍環流本月初侵襲北台灣，造成路樹倒塌、鷹架坍塌及至少一人輕傷，其後於中國溫州附近登陸。",
-      "url": "https://focustaiwan.tw/society/202608080014"
+      "title": "台灣「雙旋共舞」夾擊！專家揭「這4天」雨最大 熱帶擾動94W恐靠近台灣",
+      "dek": "民視新聞網報導，94W與95W兩擾動形成「雙旋共舞」，專家指出8月21日至24日雨勢最強，94W恐直接靠近台灣。",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026818W0111"
     },
     {
       "rank": 9,
-      "title": "Typhoon Peilou forms, creating a rare 'three-typhoon' situation alongside typhoon Dolphin and Chan-hom",
-      "dek": "環球時報（Global Times）報導，颱風北冕生成後與杜芬、狮子山一度形成罕見「三颱共存」局面，北冕最終在日本以東海面出海未登陸。",
-      "url": "https://www.globaltimes.cn/page/202608/1367845.shtml"
+      "title": "95W恐發展為強颱！這兩天最接近台灣 最新路徑曝",
+      "dek": "東森新聞報導，南海熱帶擾動95W可能增強為強颱且未來兩天最接近台灣，惟其他媒體報導其路徑恐偏向海南島，各方說法不一。",
+      "url": "https://news.ebc.net.tw/news/living/559031"
     },
     {
       "rank": 10,
-      "title": "Invest 92L designated in the Atlantic as tropical activity ramps up in the main development region",
-      "dek": "福斯天氣網（FOX Weather）報導，美國國家颶風中心正監測大西洋92L、94L等多個低壓胚胎，發展緩慢，符合NOAA預期的偏弱颶風季展望。",
-      "url": "https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026"
+      "title": "Typhoon Dolphin weakens, heavy rain threat remains: CWA",
+      "dek": "Focus Taiwan報導，颱風多爾芬（Dolphin）掠過台灣北方後減弱，並於8月9日至10日前後在中國浙江溫州一帶登陸，目前已無活動。",
+      "url": "https://focustaiwan.tw/society/202608090004"
     }
   ]
 }
