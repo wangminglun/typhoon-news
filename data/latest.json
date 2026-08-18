@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T10:15:00+08:00",
+  "generated_at": "2026-08-18T10:45:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，僅因西南氣流及發展中熱帶擾動發布豪雨特報。",
+  "alert_desc": "中央氣象署尚未對台灣發布海上或陸上颱風警報，全台目前受低壓帶影響而處於大雨特報中，氣象單位正密切觀察關島東側可能發展為颱風的熱帶擾動。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受颱風直接影響，無因颱風而停班停課；隨西南風增強，19日起中部降雨風險將逐步升高，但現階段對台中無直接影響。"
+    "text": "截至8月18日，台中市因低壓帶影響仍處於大雨特報範圍內，但尚未發布颱風警報，也未公告停班停課。"
   },
   "quick_links": [
     { "label": "颱風路徑潛勢圖", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/PTA.html" },
@@ -13,70 +13,70 @@
     { "label": "颱風警報現況", "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html" }
   ],
   "headline": {
-    "title": "新颱風「沙德爾」醞釀成形　路徑恐貼近台灣及琉球群島",
-    "dek": "中央氣象署示警，本週晚些時候一股熱帶擾動恐發展為今年第18號颱風「沙德爾」，預估路徑與台灣距離「相當接近」，全台已有多縣市發布豪雨特報。",
-    "url": "https://www.ettoday.net/news/20260818/3220943.htm"
+    "title": "無颱風警報但雨勢未歇 中央氣象署密切觀察關島東側熱帶擾動",
+    "dek": "低壓帶挾豪雨籠罩全台之際，氣象單位正緊盯一股可能發展為今年第十八號颱風「沙德爾」的熱帶系統，其路徑與是否影響台灣目前仍屬未知數。",
+    "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶擾動醞釀成颱 恐成今年第18號颱風「沙德爾」",
-      "dek": "根據《ETtoday新聞雲》報導，菲律賓東方海域一熱帶擾動預計本週四、五（8月20至21日）發展為熱帶性低氣壓並迅速增強，路徑可能北轉逼近琉球群島，台灣暫未被列入直接威脅範圍，但路徑仍具高度不確定性。",
-      "url": "https://www.ettoday.net/news/20260818/3220943.htm"
+      "title": "颱風「沙德爾」最快週四生成 預測路徑曝光",
+      "dek": "中時新聞網報導，關島東側熱帶擾動最快本週四發展為今年第18號颱風，但各方預測路徑分歧，距台尚遠，暫難評估影響。",
+      "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
     },
     {
       "rank": 2,
-      "title": "氣象署示警：熱帶低壓路徑「相當接近台灣」 今日兩縣市豪雨特報",
-      "dek": "《壹蘋新聞網》報導，中央氣象署指出一發展中熱帶擾動預估8月20至22日路徑將相當接近台灣，隨水氣增多，今日已針對兩縣市發布豪雨特報。",
-      "url": "https://news.nextapple.com/life/20260818/D6C14F4DBD8CC6E18F495C5E0A8F86F0"
+      "title": "關島熱帶擾動恐成颱風「沙德爾」 最快時間點曝光",
+      "dek": "中時新聞網指出，氣象單位正觀察關島附近熱帶擾動，最快週五或週六增強為熱帶低氣壓並可能迅速發展為颱風，未來路徑與強度仍高度不確定。",
+      "url": "https://www.chinatimes.com/realtimenews/20260817003382-260405"
     },
     {
       "rank": 3,
-      "title": "西南風增強 全台13縣市發布大雨特報",
-      "dek": "根據《Yahoo奇摩新聞》引述聯合新聞網報導，低壓系統將帶動19至21日風向轉為西南風，氣象署已對全台約13個縣市發布豪雨等級特報，中南部與東南部山區風險最高。",
-      "url": "https://tw.news.yahoo.com/%E9%80%B1%E5%A4%A9%E6%B0%A3-%E5%8D%97%E5%8D%A1%E9%A2%B1%E9%A2%A8%E7%94%9F%E6%88%90-%E8%A5%BF%E5%8D%97%E9%A2%A8%E5%BD%B1%E9%9F%BF-5%E7%B8%A3%E5%B8%82-%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-025300145.html"
+      "title": "第18號颱風「沙德爾」要來了？台灣暴雨一週 降雨趨勢一圖看",
+      "dek": "Newtalk新聞報導，低壓帶滯留台灣上空，即便新颱風尚未生成，全台未來一週仍將籠罩在不穩定的多雨天氣中。",
+      "url": "https://newtalk.tw/news/view/2026-08-17/1053984"
     },
     {
       "rank": 4,
-      "title": "颱風南卡減弱為熱帶低壓 曾促台灣發布海上颱風警報",
-      "dek": "據日媒《News On Japan》報導，颱風南卡（浪卡）一度於8月12至14日促使台灣氣象署發布輕度海上颱風警報，其後轉向東北方向並持續減弱，8月16日左右降級為熱帶性低氣壓，遠離日本外海。",
-      "url": "https://newsonjapan.com/article/150356.php"
+      "title": "中央氣象署對台灣本島多數地區發布大雨特報",
+      "dek": "Focus Taiwan報導，中央氣象署8月16日對全台多數縣市發布大雨特報，台中並於當天下午升級為大雨特報中門檻最高的等級。",
+      "url": "https://focustaiwan.tw/society/202608160006"
     },
     {
       "rank": 5,
-      "title": "日本千葉破紀錄暴雨釀8死 成田機場數千旅客受困",
-      "dek": "《Rappler》與半島電視台報導，日本千葉縣8月13日24小時降雨量達367毫米創新高，引發洪災造成至少8人死亡，約7000名旅客受困成田機場，氣象廳發布最高等級大雨特別警報，事件與南卡颱風並無直接關聯。",
-      "url": "https://www.rappler.com/world/asia-pacific/japan-record-rain-chiba-flooding-narita-airport-august-2026/"
+      "title": "「沙德爾」颱風最快週四生成 預測路徑曝光",
+      "dek": "ETtoday新聞雲報導，最新資料顯示關島附近系統最快週四發展為颱風「沙德爾」，初步路徑顯示先西北後轉北，但距台仍遠、變數仍大。",
+      "url": "https://www.ettoday.net/news/20260818/3220943.htm"
     },
     {
       "rank": 6,
-      "title": "颶風「拉拉」重創夏威夷大島 一死逾百屋損 警戒已全數解除",
-      "dek": "據夏威夷當地媒體及NPR報導，颶風拉拉正面侵襲夏威夷大島後致1死、逾百棟房屋受損、22萬多戶停電，截至8月17日上午10時，全州相關警戒已全部解除。",
-      "url": "https://www.hawaiinewsnow.com/2026/08/15/live-hawaii-island-begins-feel-impacts-tropical-storm-lala-nears/"
+      "title": "颱風「南卡」生成 對台無影響",
+      "dek": "經濟日報報導，今年第17號颱風「南卡」在硫磺島東南方海面生成後快速向東北移動，受強風切影響強度偏弱，對台灣天氣無影響。",
+      "url": "https://money.udn.com/money/story/122328/9686022"
     },
     {
       "rank": 7,
-      "title": "菲律賓熱帶風暴Maymay登陸 PAGASA估8月底前再添兩颱風",
-      "dek": "根據《Rappler》與《GMA News》報導，熱帶風暴Maymay（國際命名Kujira）8月6日登陸菲律賓伊羅戈斯南省，為今年第13個侵襲菲律賓的熱帶氣旋，菲律賓氣象單位PAGASA並預測8月底前還有兩個颱風將影響菲律賓。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-maymay-southwest-monsoon-update-pagasa-forecast-august-6-2026-2am/"
+      "title": "颱風「多爾芬」登陸浙江、福建交界 氣象學者稱其生成位置罕見",
+      "dek": "《環球時報》報導，第13號颱風「多爾芬」形成於接近國際換日線處，成為有紀錄以來生成位置距中國大陸最遠的登陸颱風，並於浙江台州帶來破紀錄雨量。",
+      "url": "https://www.globaltimes.cn/page/202608/1367704.shtml"
     },
     {
       "rank": 8,
-      "title": "菲律賓外海與南海現新胚胎94W、95W 專家持續監控",
-      "dek": "《聯合新聞網》報導，氣象專家正觀察菲律賓東方94W及南海95W兩處熱帶擾動胚胎，前者可能增強北移，後者恐朝海南島方向發展，兩者路徑與強度均高度不確定，對台灣暫無直接影響。",
-      "url": "https://udn.com/news/story/7266/9636781"
+      "title": "熱帶風暴「拉拉」為夏威夷群島帶來強降雨與強風",
+      "dek": "美聯社報導，颶風「拉拉」減弱為熱帶風暴後掠過夏威夷大島，未直接登陸卻仍造成強降雨、淹水與強風，目前持續向西遠離。",
+      "url": "https://abcnews.com/US/wireStory/lala-tropical-storm-sending-drenching-rain-high-winds-135686477"
     },
     {
       "rank": 9,
-      "title": "超強颱風「白海豚」登陸浙江 8月11日已消散",
-      "dek": "據《星島日報》與《香港文匯報》報導，颱風白海豚曾被視為今年最強颱風候選，以近45公尺/秒風速達到超強颱風等級，8月9日在浙江台州玉環登陸，引發海水倒灌與大規模停電，路徑罕見迂迴，中國中央氣象台已於8月11日宣布其消散。",
-      "url": "https://www.singtaousa.com/2026/08/09/news/china/typhoon-white-dolphin-lands-zhejiang/"
+      "title": "菲律賓氣象局：8月底前恐再有兩個颱風侵襲",
+      "dek": "GMA News Online報導，菲律賓大氣地球物理與天文服務管理局表示，繼颱風「路易斯」與「梅梅」後，預計月底前還會有兩個颱風影響菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/998163/pagasa-2-more-typhoons-expected-in-august-2026/story/"
     },
     {
       "rank": 10,
-      "title": "東太平洋熱帶風暴Genevieve、Amanda活躍 NOAA下修大西洋颶風季預測",
-      "dek": "《ABC13休士頓》報導，熱帶風暴Genevieve與Amanda目前在墨西哥外海活動，暫無登陸威脅；NOAA並因破紀錄聖嬰現象增強風切，進一步下修2026年大西洋颶風季預測。",
-      "url": "https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/"
+      "title": "兩縣市發布大雨特報 低壓帶影響「大氣不穩定」 籲注意劇烈天氣",
+      "dek": "CTWANT報導，低壓帶持續影響台灣大氣穩定度，8月19日起至24日前後降雨將更趨明顯且伴隨雷雨，關島東側熱帶擾動亦是氣象單位觀察重點。",
+      "url": "https://www.ctwant.com/article/493956/"
     }
   ]
 }
