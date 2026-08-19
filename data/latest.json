@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T07:10:00+08:00",
+  "generated_at": "2026-08-19T08:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對台灣本島發布任何海上或陸上颱風警報。菲律賓外海熱帶性低氣壓「Neneng」已生成並持續北上，關島附近另一熱帶擾動最快8月20日發展為今年第18號颱風「沙德爾」，其侵台機率與路徑仍待觀察。",
+  "alert_desc": "根據最新新聞報導檢索，中央氣象署目前尚未發布海上或陸上颱風警報；由於官方網站於查證時無法直接連線，此判斷係綜合新聞來源整理而得，並非直接查核中央氣象署首頁的結果，讀者仍應以中央氣象署最新公告為準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，也無停班停課措施。中央氣象署與各家氣象單位預期，自8月19日起，季風低壓雨帶將為中南部（含台中）帶來連日降雨，8月21日至23日雨勢可能最顯著，但屬季風效應而非颱風警報。"
+    "text": "台中目前未受颱風警報或停班停課措施影響；隨季風槽與94W、95W擾動增強，未來數日當地降雨機率將提高，惟目前尚無確認之直接衝擊。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西北太平洋醞釀今年第18號颱風「沙德爾」 路徑未定、台灣尚無警報但雨勢將至",
-    "dek": "菲律賓外海熱帶性低氣壓「Neneng」增強北上之際，關島附近另一熱帶擾動最快週四發展為今年第18號颱風「沙德爾」，其侵台機率仍待觀察，但中南部本週末起恐迎連日降雨。",
-    "url": "https://newtalk.tw/news/view/2026-08-18/1054218"
+    "title": "雙熱帶系統逼近台灣　中南部估連六天強降雨　中央氣象署尚未發布颱風警報",
+    "dek": "熱帶低壓「尼嫩」最快週四登陸台灣東部，另一擾動94W也可能於同時間增強為今年第18號颱風「沙德爾」，但截至目前為止，尚無新聞證實中央氣象署已發布海上或陸上颱風警報。",
+    "url": "https://www.rappler.com/philippines/weather/tropical-depression-neneng-southwest-monsoon-update-pagasa-forecast-august-19-2026-5am/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "今年第18號颱風最快週四生成 未來一週天氣總覽一次看",
-      "dek": "關島附近熱帶擾動可能於8月20日發展為颱風「沙德爾」，台灣自隔日起將迎接一週不穩定降雨天氣。",
-      "url": "https://newtalk.tw/news/view/2026-08-18/1054218"
+      "title": "熱帶低壓尼嫩增強，助長西南季風雨勢",
+      "dek": "PAGASA表示尼嫩不會登陸菲律賓，但最快週四下午至週五清晨可能逼近台灣東部。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-neneng-southwest-monsoon-update-pagasa-forecast-august-19-2026-5am/"
     },
     {
       "rank": 2,
-      "title": "颱風「沙德爾」最快週四生成 早期模擬路徑指向日本南方",
-      "dek": "中時報導，關島附近擾動預計增強為熱帶性低氣壓並可能成颱，初步模擬路徑偏向沖繩以南海域，但距生成尚遠、路徑仍具高度不確定性。",
-      "url": "https://www.chinatimes.com/realtimenews/20260818001307-260405"
+      "title": "尼嫩為今年第14個熱帶氣旋，強化馬尼拉周邊季風雨勢",
+      "dek": "PAGASA指出尼嫩雖不登陸菲律賓，其環流仍將牽引西南季風，為馬尼拉都會區及鄰近省份帶來降雨至週五。",
+      "url": "https://www.philstar.com/headlines/2026/08/19/2550328/td-neneng-enhance-monsoon-rains"
     },
     {
       "rank": 3,
-      "title": "沙德爾颱風模擬路徑分歧 部分模式不排除貫穿台灣",
-      "dek": "最新模式模擬顯示，沙德爾通過沖繩後的路徑選項分歧甚大，包括直穿台灣、北偏轉向或持續朝日本前進等情境。",
-      "url": "https://www.chinatimes.com/realtimenews/20260818003635-260405"
+      "title": "低壓區升級為熱帶低壓「尼嫩」，持續向西北移動",
+      "dek": "菲律賓氣象單位將責任區內一低壓區升格為熱帶低壓尼嫩，預期路徑將維持在呂宋島以東並逐漸轉向台灣。",
+      "url": "https://mb.com.ph/2026/08/18/lpa-develops-into-tropical-depression-neneng"
     },
     {
       "rank": 4,
-      "title": "沙德爾颱風醞釀成形 台灣恐迎連六天「暗紅色」豪雨警戒",
-      "dek": "三立新聞報導，無論沙德爾是否直接侵台，其伴隨的低壓系統預計為台灣帶來連續六天強降雨，局部地區恐達最高等級豪雨警戒。",
-      "url": "https://www.setn.com/news/1891157"
+      "title": "南方三擾動同步發展，94W升格熱帶低壓，「沙德爾」成形有譜",
+      "dek": "氣象單位同時追蹤三個熱帶擾動，其中菲律賓東北方的94W已升格為熱帶低壓，被視為最可能影響台灣海域的系統。",
+      "url": "https://news.nextapple.com/life/20260819/56B01009061784E8C20B22AC24E5B69E"
     },
     {
       "rank": 5,
-      "title": "沙德爾颱風是否侵台？氣象署：關鍵在下週路徑變化",
-      "dek": "中央氣象署表示，沙德爾預計本週成颱、路徑現階段偏向日本南方海域，但是否影響台灣仍待下週觀察路徑修正情形。",
-      "url": "https://www.setn.com/news/1891524"
+      "title": "「沙德爾」颱風最快週四生成，台灣將迎濕答答一週",
+      "dek": "關島附近熱帶擾動最快本週四即可能發展為颱風沙德爾，台灣未來一週各地降雨機率同步升高。",
+      "url": "https://news.nextapple.com/life/20260818/3EB26460D03CF019A14E4EC3B59B392C"
     },
     {
       "rank": 6,
-      "title": "明起全台連日壞天氣 沙德爾颱風下週恐威脅沖繩",
-      "dek": "聯合新聞網報導，台灣自隔日起將出現連日不佳天氣，沙德爾目前研判較可能威脅沖繩而非直接侵台，但路徑仍存在明顯變數。",
-      "url": "https://udn.com/news/story/7266/9697878"
+      "title": "颱風季未歇，94W恐持續增強，明起影響台灣海域",
+      "dek": "氣象專家提醒，儘管已屆颱風季後期，位於菲律賓以東海域的94W仍可能發展為顯著系統，並自8月19日起牽動台灣周邊海象。",
+      "url": "https://news.ebc.net.tw/news/living/566947"
     },
     {
       "rank": 7,
-      "title": "熱帶性低氣壓「Neneng」生成 菲律賓氣象署列今年第14號",
-      "dek": "菲律賓大氣地球物理暨天文管理署證實熱帶性低氣壓Neneng於8月18日在責任區內生成，位於呂宋島以東約1,025公里，風速每小時45公里，向西北移動。",
-      "url": "https://newsinfo.inquirer.net/2287400/tropical-depression-neneng-forms-in-par-pagasa-2"
+      "title": "雙低壓夾擊，粉專示警94W恐穿越北台灣",
+      "dek": "氣象觀測粉專指出94W持續增強，路徑有機會直接橫越台灣北部，加上另一擾動夾擊，全台雷雨降雨風險升高。",
+      "url": "https://www.setn.com/news/1890974"
     },
     {
       "rank": 8,
-      "title": "Neneng不登陸菲律賓 但將增強西南季風雨勢",
-      "dek": "Rappler報導，新生成的熱帶性低氣壓Neneng預料趨向琉球與台灣方向、周四前可能減弱為殘留低壓，但將增強西南季風、為菲律賓帶來更多降雨。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-neneng-southwest-monsoon-lpa-update-pagasa-forecast-august-18-2026-5pm/"
+      "title": "低壓帶北移，全台估連六天防強降雨",
+      "dek": "季風槽北移加上94W、95W兩擾動同步發展，台灣自8月19日起連六天須留意強降雨，95W預估主要影響海南島而非台灣。",
+      "url": "https://applealmond.com/posts/322602"
     },
     {
       "rank": 9,
-      "title": "熱帶性低氣壓增強季風 馬尼拉都會區雨勢增多",
-      "dek": "馬尼拉時報報導，熱帶性低氣壓Neneng與西南季風交互作用，為馬尼拉都會區與呂宋部分地區帶來增多降雨，儘管該系統本身未直接登陸菲律賓。",
-      "url": "https://www.manilatimes.net/2026/08/18/news/more-rains-in-metro-manila-parts-of-luzon-as-new-tropical-depression-enhances-southwest-monsoon/2407360"
+      "title": "雙旋共舞，兩熱帶低壓逼近台灣，未來四天雨勢最猛",
+      "dek": "兩個熱帶低壓系統同步朝台灣方向移動，報導指出未來四天將是本波降雨最為集中猛烈的時段。",
+      "url": "https://www.chinatimes.com/realtimenews/20260818000908-260405"
     },
     {
       "rank": 10,
-      "title": "颱風「多芬」重創中國東部 近百萬人疏散",
-      "dek": "半島電視台回顧颱風多芬8月9日以強風登陸浙江玉環，成為今年侵襲中國最強風暴，造成大規模疏散與航班取消，為近期區域風雨活動提供背景參照。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+      "title": "大西洋熱帶活動出現升溫跡象，今年颶風季仍偏靜",
+      "dek": "美國國家颶風中心正監測一處代號92L的擾動，研判未來一週有約七成機率發展為熱帶氣旋，惟2026年大西洋颶風季至今尚未出現颶風。",
+      "url": "https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026"
     }
   ]
 }
