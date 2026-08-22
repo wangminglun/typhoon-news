@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T20:15:00+08:00",
+  "generated_at": "2026-08-22T21:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對台灣本島發布任何海上或陸上颱風警報；西太平洋目前同時有三個活躍颱風系統（沙德爾、紫檀、簡拉維），其中簡拉維距離台灣最近，專家指出一旦氣象署確認其達颱風強度，海上警報恐將幾乎同步發布。",
+  "alert_desc": "中央氣象署尚未對台灣發布任何海上或陸上颱風警報；日本氣象廳已將新系統命名為颱風簡拉維，但氣象署研判其對流鬆散、尚未達颱風強度，仍列為熱帶性低氣壓，且預估路徑距台300公里以上，近期發布海上警報機率偏低。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：沙德爾、紫檀與簡拉維三個系統均未對台中帶來風雨警報或停班停課考量；今日僅屏東縣三地門鄉因簡拉維外圍水氣提前停班停課，與台中無關。"
+    "text": "目前無直接影響：簡拉維、沙德爾與紫檀三個系統均未對台中帶來風雨警報或停班停課考量；今日停班停課地區僅限屏東縣（全縣）與高雄市桃源區，均因低壓帶及西南風豪雨所致，與台中無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋「三颱共舞」 沙德爾增強直逼沖繩、簡拉維貼近台灣海域生成",
-    "dek": "中央氣象署尚未對台灣本島發布海上或陸上颱風警報，但受簡拉維外圍水氣影響，屏東三地門已提前停班停課。",
-    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
+    "title": "日本命名颱風簡拉維 中央氣象署暫不認定示警",
+    "dek": "氣象署稱系統距台300公里以上，西南風豪雨才是屏東、高雄停班停課主因。",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5548732"
   },
   "items": [
     {
       "rank": 1,
-      "title": "簡拉維生成、沙德爾增強 沖繩最快週三受影響",
-      "dek": "馬來西亞《星報》綜合報導，日本氣象廳將新系統命名為簡拉維，同時預期沙德爾將持續增強並可能於週三前後侵襲沖繩。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
+      "title": "簡拉維近宮古島生成 中央氣象署未認定颱風",
+      "dek": "對流鬆散未達颱風強度，氣象署估路徑距台300公里以上，示警機率偏低。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5548732"
     },
     {
       "rank": 2,
-      "title": "颱風簡拉維生成路徑指向北台灣 屏東三地門中午起停班課",
-      "dek": "Yahoo奇摩新聞（知新聞）報導，日本氣象廳已將簡拉維列為颱風，屏東縣三地門鄉因豪雨風險提前宣布停班停課，中央氣象署尚未跟進分類。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%B0%A1%E6%8B%89%E7%B6%AD%E7%94%9F%E6%88%90-%E9%A0%90%E6%B8%AC%E8%B7%AF%E5%BE%91%E7%9B%B4%E6%92%B2%E5%8C%97%E5%8F%B0%E7%81%A3-%E5%B1%8F%E6%9D%B1%E4%B8%89%E5%9C%B0%E9%96%80%E4%B8%AD%E5%8D%88%E8%B5%B7%E5%81%9C%E7%8F%AD%E8%AA%B2-064800294.html"
+      "title": "日本正式宣布颱風簡拉維生成 路徑估朝台灣逼近",
+      "dek": "JMA與中央氣象署認定不一，外界對雙重標準感到困惑。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5548505"
     },
     {
       "rank": 3,
-      "title": "三颱共舞罕見成形 專家：簡拉維一旦成颱恐立即觸發警報",
-      "dek": "Yahoo奇摩新聞報導，氣象專家指出沙德爾、紫檀與簡拉維同時活躍實屬罕見，簡拉維若獲確認為颱風，因距離台灣極近，海上警報可能幾乎同步發布。",
-      "url": "https://tw.news.yahoo.com/%E6%81%90%E4%B8%89%E9%A2%B1%E5%85%B1%E8%88%9E%EF%BC%81%E7%B0%A1%E6%8B%89%E7%B6%AD%E9%A2%B1%E9%A2%A8%E8%8B%A5%E7%94%9F%E6%88%90%E7%9B%B4%E9%80%BC%E5%8F%B0%E7%81%A3-%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%80%E6%88%90%E9%A2%B1%E5%B0%B1%E9%9C%80%E7%99%BC%E8%AD%A6%E5%A0%B1-053657579.html"
+      "title": "簡拉維預測路徑直撲北台灣 屏東三地門中午起停班停課",
+      "dek": "三地門率全台之先停班停課，後續已擴大至屏東全縣。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%B0%A1%E6%8B%89%E7%B6%AD%E7%94%9F%E6%88%90-%E9%A0%90%E6%B8%AC%E8%B7%AF%E5%BE%91%E7%9B%B4%E6%92%B2%E5%8C%97%E5%8F%B0%E7%81%A3-%E5%B1%8F%E6%9D%B1%E4%B8%89%E5%9C%B0%E9%96%80%E4%B8%AD%E5%8D%88%E8%B5%B7%E5%81%9C%E7%8F%AD%E8%AA%B2-064800294.html"
     },
     {
       "rank": 4,
-      "title": "沙德爾增強為颱風 菲國氣象署估最快24日進入責任區",
-      "dek": "菲律賓《Rappler》引述菲律賓氣象署（PAGASA）報導，沙德爾已增強為颱風，雖不易登陸呂宋，但將加劇西南季風雨勢。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-saudel-tropical-depression-southwest-monsoon-update-pagasa-forecast-august-22-2026-4am/"
+      "title": "屏東縣明日全縣停班停課 高雄桃源今起停止上班上課",
+      "dek": "縣府指致災元凶為低壓帶與西南風豪雨，非颱風本體。",
+      "url": "https://news.ltn.com.tw/news/Pingtung/breakingnews/5548897"
     },
     {
       "rank": 5,
-      "title": "快速增強的沙德爾 南韓《中央日報》示警不排除侵襲朝鮮半島",
-      "dek": "南韓《中央日報》報導，沙德爾預估快速增強至等同四級颶風強度，隨阻塞高壓瓦解，路徑有望轉向朝鮮半島，惟中國與台灣方向仍是變數。",
-      "url": "https://www.koreajoongangdaily.com/korea/typhoon-saudel-may-threaten-korea-as-it-rapidly-intensifies/12834951"
+      "title": "氣象署發布低壓帶西南風豪雨特報 周邊海域四低壓齊發",
+      "dek": "官方以豪雨特報取代颱風警報，凸顯當前致災主因。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5548821"
     },
     {
       "rank": 6,
-      "title": "沙德爾逼近馬里亞納群島 日本氣象新聞籲及早防範",
-      "dek": "日本Weathernews報導，沙德爾中心氣壓已降至965百帕，預估23日至24日達到巔峰強度後於25日至26日接近沖繩及大東群島。",
-      "url": "https://weathernews.jp/news/202608/220091/"
+      "title": "颱風沙德爾估23日增強為強颱 路徑略偏西不排除接近台灣",
+      "dek": "中央氣象署示警南台灣22日至25日慎防豪雨。",
+      "url": "https://www.cna.com.tw/news/ahel/202608220172.aspx"
     },
     {
       "rank": 7,
-      "title": "颱風紫檀加劇風雨 廣西沿海航線停航、景區閉園",
-      "dek": "中國新聞網報導，颱風紫檀持續為廣西沿海帶來強風豪雨，多條渡輪航線及旅遊景區因此暫停運作。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682365.shtml"
+      "title": "沙德爾快速增強 預估26日左右逼近沖繩奄美",
+      "dek": "Weathernews示警當地將迎豪雨強風與長浪，過境後路徑不確定性高。",
+      "url": "https://wxtech.weathernews.com/en/news/20260821-01/"
     },
     {
       "rank": 8,
-      "title": "紫檀將在北部灣迴旋 海南發布風暴潮警報",
-      "dek": "中國新聞網報導，颱風紫檀預估近乎滯留於北部灣數日，廣西、廣東與海南沿岸將持續出現六至七級陣風，海南已發布風暴潮警報。",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682344.shtml"
+      "title": "沙德爾路徑恐生變 專家示警8月26日後現兩種走向",
+      "dek": "歐洲模式估25日接近沖繩後分歧擴大，最接近台灣估在27、28日。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E8%B7%AF%E5%BE%91%E7%AA%81%E8%AE%8A%E6%81%90%E5%8C%97%E8%BD%89-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-8-26%E5%BE%8C%E9%A9%9A%E8%A6%8B2%E5%A4%A7%E8%B5%B0%E5%90%91-082732802.html"
     },
     {
       "rank": 9,
-      "title": "中央社：沙德爾恐增為強颱 專家籲25日前防強降雨",
-      "dek": "中央社報導，氣象專家吳德榮指出沙德爾最快23日可能增強為強烈颱風，台灣應在25日前留意強降雨，27日至28日則為預估最接近台灣的時間點。",
-      "url": "https://www.cna.com.tw/news/ahel/202608210025.aspx"
+      "title": "颱風紫檀北部灣打轉 預估24日起靠近雷州半島轉弱",
+      "dek": "中心距廣西東興僅約30公里，強度維持輕颱等級。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682318.shtml"
     },
     {
       "rank": 10,
-      "title": "日本氣象協會：颱風簡拉維生成 先島諸島列高度土石流警戒",
-      "dek": "日本tenki.jp報導，今年第20號颱風簡拉維在宮古島西北方生成，先島諸島已發布最高等級土砂災害與大雨警戒，並須留意暴潮與淹水風險。",
-      "url": "https://tenki.jp/forecaster/deskpart/2026/08/22/40251.html"
+      "title": "中國南方三省維持四級防汛防颱應急響應 因應颱風紫檀",
+      "dek": "海南、廣西、廣東防汛部門召開協調會議持續戒備。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682332.shtml"
     }
   ]
 }
