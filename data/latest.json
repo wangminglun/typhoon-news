@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T17:10:00+08:00",
+  "generated_at": "2026-08-22T18:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至22日尚未針對颱風沙德爾發布海上或陸上颱風警報，僅呼籲民眾提高警覺；熱帶風暴柯羅莎則確定不影響台灣。",
+  "alert_desc": "中央氣象署表示颱風沙德爾目前距台灣仍遠，尚未發布海上或陸上颱風警報；台灣本島目前僅因西南氣流增強與季風槽影響，發布中南部降雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風系統直接影響，也無停班停課措施，沙德爾若對台灣本島產生效應，最快也要本周後段才會明朗。"
+    "text": "台中目前無颱風直接影響，也無停班停課措施；僅山區因中央氣象署22日發布的降雨特報，被列入局部大雨風險範圍，與颱風本身無直接關聯。"
   },
   "quick_links": [
     {
@@ -22,69 +22,69 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾增強逼近沖繩 中央氣象署籲警戒、暫未對台發布警報",
-    "dek": "日本氣象廳警告沙德爾恐增強為「非常強」颱風，路徑本周後段是否轉向台灣仍充滿變數；南海另一熱帶風暴「柯羅莎」（Narra）則確定不影響台灣本島。",
-    "url": "https://focustaiwan.tw/society/202608220006"
+    "title": "颱風沙德爾快速增強直逼「非常強颱」 路徑南修為台灣添變數",
+    "dek": "日本氣象廳警告沙德爾恐於本週稍晚以顛峰強度掠過沖繩，台灣中央氣象署則表示現階段尚無需發布颱風警報，但多位預報專家指出其路徑已見西修、南修，不排除週末前後接近台灣。",
+    "url": "https://newtalk.tw/news/view/2026-08-22/1054993"
   },
   "items": [
     {
       "rank": 1,
-      "title": "南海熱帶風暴柯羅莎生成，中央氣象署證實不影響台灣",
-      "dek": "熱帶低氣壓22日上午升級為熱帶風暴，預計徘徊北部灣後轉向廣東，氣象署同時提醒外界留意遠在東方的颱風沙德爾。",
-      "url": "https://focustaiwan.tw/society/202608220006"
+      "title": "沙德爾路徑南修 最快明日增強為強颱 不排除接近台灣",
+      "dek": "Newtalk新聞報導指出，沙德爾颱風預測路徑較先前偏南、偏西，使其接近台灣的可能性升高。",
+      "url": "https://newtalk.tw/news/view/2026-08-22/1054993"
     },
     {
       "rank": 2,
-      "title": "豪雨特報連下至周日，氣象專家示警沙德爾路徑「危險」",
-      "dek": "低壓帶與西南氣流帶來持續強降雨，吳德榮分析沙德爾通過沖繩後不排除下周逼近台灣。",
-      "url": "https://www.nownews.com/amp/news/6867754"
-    },
-    {
-      "rank": 3,
-      "title": "日本氣象廳發布烈風警報，第18號颱風沙德爾最快生成",
-      "dek": "關島附近熱帶低氣壓遭日方預測二十四小時內增強為颱風，早期路徑評估已點出對台灣的潛在影響。",
-      "url": "https://www.setn.com/news/1891632"
-    },
-    {
-      "rank": 4,
-      "title": "沙德爾增強為中度颱風，最新路徑持續北上逼近琉球",
-      "dek": "中央氣象署21日晚間更新路徑顯示風暴續往沖繩海域移動，但通過後走向各家模式分歧明顯。",
-      "url": "https://udn.com/news/story/7266/9706681"
-    },
-    {
-      "rank": 5,
-      "title": "日本氣象廳警告沙德爾恐成非常強颱，氣象署說明對台影響",
-      "dek": "沙德爾威力持續升級，中央氣象署強調風暴核心目前仍在外海，對台影響程度尚待觀察。",
+      "title": "日本氣象廳警告沙德爾恐成非常強颱 中央氣象署稱路徑週三才明朗",
+      "dek": "綜合Yahoo奇摩新聞報導，日本氣象廳警告沙德爾威力持續升級，中央氣象署則表示颱風目前仍距台灣遙遠，尚未發布警報。",
       "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E5%A8%81%E5%8A%9B%E5%8D%87%E7%B4%9A%EF%BC%81%E6%97%A5%E6%9C%AC%E6%B0%A3%E8%B1%A1%E5%BB%B3%E8%AD%A6%E5%91%8A%E3%80%8C%E6%81%90%E6%88%90%E9%9D%9E%E5%B8%B8%E5%BC%B7%E9%A2%B1%E3%80%8D-%E4%B8%AD%E5%A4%AE%E6%B0%A3%E8%B1%A1%E7%BD%B2%E6%8F%AD%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%BD%B1%E9%9F%BF-081511923.html"
     },
     {
+      "rank": 3,
+      "title": "吳德榮：沙德爾逼近台灣機率變大 全台雨勢估再下5天",
+      "dek": "氣象專家吳德榮在NOWnews今日新聞的分析中指出，沙德爾路徑已生變化，全台雨勢預料再持續五天。",
+      "url": "https://www.nownews.com/news/6867787"
+    },
+    {
+      "rank": 4,
+      "title": "沙德爾快速增強為颱風 中心風速達每小時130公里",
+      "dek": "根據菲律賓Rappler報導，沙德爾已自強烈熱帶風暴升級為颱風，預計8月24日前後進入菲律賓責任區。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-saudel-tropical-depression-southwest-monsoon-update-pagasa-forecast-august-22-2026-4am/"
+    },
+    {
+      "rank": 5,
+      "title": "沙德爾持續增強 預測8月26日逼近沖繩本島與奄美大島",
+      "dek": "日本氣象機構Weathernews分析，沙德爾通過沖繩後的路徑高度不確定，可能轉向中國、韓國或台灣。",
+      "url": "https://wxtech.weathernews.com/en/news/20260821-01/"
+    },
+    {
       "rank": 6,
-      "title": "韓媒示警：沙德爾快速增強，未來或威脅朝鮮半島",
-      "dek": "預報單位指沙德爾通過沖繩附近後恐增強至第四級規模，部分情境顯示外圍環流可能較靠近台灣。",
+      "title": "南韓示警沙德爾恐週日達四級颶風強度 各國氣象模式路徑分歧",
+      "dek": "《韓國中央日報》報導，南韓與日本氣象單位正密切觀察沙德爾後續是否轉向朝鮮半島。",
       "url": "https://www.koreajoongangdaily.com/korea/typhoon-saudel-may-threaten-korea-as-it-rapidly-intensifies/12834951"
     },
     {
       "rank": 7,
-      "title": "美軍風暴追蹤：17W系統鎖定沖繩，後續增強為沙德爾",
-      "dek": "美軍聯合颱風警報中心當時追蹤的熱帶低氣壓17W，路徑指向沖繩東北方，其後正式增強並命名為沙德爾。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-08-18/tropical-depression-17w,-"
+      "title": "今年第20號颱風「加納利」生成 預測下週初西行逼近台灣",
+      "dek": "馬來西亞《星報》報導，加納利已在宮古島附近形成，成為繼沙德爾後另一個須關注的系統。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
     },
     {
       "rank": 8,
-      "title": "菲律賓氣象機構預估八月將有二至四個熱帶氣旋進入菲律賓責任區",
-      "dek": "PAGASA氣候展望指出，今年八月的路徑氣候特徵偏向朝台灣、日本方向北轉，與沙德爾走勢相符。",
-      "url": "https://www.gmanetwork.com/news/weather/content/996482/2-to-4-tropical-cyclones-likely-to-enter-par-in-august-pagasa/story/"
+      "title": "中央氣象署發布降雨特報 西南氣流挾季風槽為南部帶來強降雨",
+      "dek": "Newtalk新聞報導，此次降雨特報並非颱風警報，中南部及部分山區有局部大雨至豪雨風險。",
+      "url": "https://newtalk.tw/news/view/2026-08-22/1054967"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴莫克生成，逼近飽受風災的夏威夷",
-      "dek": "繼颶風拉拉造成致命土石流後，路徑相近的莫克恐再為大島帶來五至十五吋降雨與淹水風險。",
-      "url": "https://www.cnn.com/2026/08/21/weather/hawaii-storm-moke-hurricane-lala-path-climate"
+      "title": "熱帶風暴紫檀掠過北部灣 越南北部豪雨成災",
+      "dek": "據越南通訊社VietnamPlus報導，紫檀是今年第4個侵襲越南東海的風暴，廣寧省估計降雨可達300毫米以上。",
+      "url": "https://en.vietnamplus.vn/storm-brings-heavy-rains-to-northern-vietnam-post350572.vnp"
     },
     {
       "rank": 10,
-      "title": "中國中央氣象台持續發布藍色颱風預警，鎖定北部灣系統",
-      "dek": "大陸氣象部門說明第19號風暴仍在廣西東興外海徘徊，預計23日後減弱並移向雷州半島，與台灣以東的沙德爾為兩個獨立系統。",
+      "title": "中國中央氣象台持續發布颱風藍色預警 紫檀逼近廣西東興",
+      "dek": "根據新歐洲新聞網引述中央氣象台資料，紫檀中心22日上午已移至廣西東興以南的北部灣海面。",
       "url": "https://www.xinouzhou.com/wenzhang/169844-zhong-yang-qi-xiang-tai8yue22ri06shi-ji-xu-fa-bu-tai-feng-lan-se-yu-jing"
     }
   ]
