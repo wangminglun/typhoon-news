@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T12:09:00+08:00",
+  "generated_at": "2026-08-23T13:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對颱風沙德爾發布海上或陸上颱風警報，南部三縣市則因低壓帶與西南氣流已宣布停班停課",
+  "alert_desc": "中央氣象署研判沙德爾路徑將通過台灣以北逾三百公里，近期發布海上或陸上颱風警報的可能性偏低；南部三縣市則因低壓槽與西南氣流已宣布停班停課",
   "region_watch": {
     "region": "台中",
-    "text": "台中今日並未列入停班停課名單，目前無直接影響；但部分預報顯示二十三日下午至二十四日下午降雨量已逼近停班停課門檻，是否於二十四日跟進宣布仍待觀察。"
+    "text": "目前無直接影響。南台灣（高雄、台南、屏東）因低壓槽與西南氣流已宣布停班停課，惟台中未列入其中，亦無颱風系統直接影響的跡象。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾增強逼近 南台先扛豪雨",
-    "dek": "中央氣象署尚未發布颱風警報，但西南氣流已致南部三縣市停班停課，太平洋上的颱風沙德爾正快速增強，後續是否轉向台灣仍待觀察。",
-    "url": "https://www.cna.com.tw/news/ahel/202608220172.aspx"
+    "title": "沙德爾增強北探琉球 台灣暫無颱風警戒",
+    "dek": "中央氣象署研判其路徑將通過台灣以北逾300公里，惟外圍環流仍為南台灣帶來持續豪雨與停班停課。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862983"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾恐增強 路徑估西偏近台",
-      "dek": "中央氣象署示警，沙德爾最快二十三日增強為強颱，路徑略向西修，南部並須防二十二日至二十五日豪雨。",
-      "url": "https://www.cna.com.tw/news/ahel/202608220172.aspx"
+      "title": "沙德爾今估達巔峰 恐帶豪雨襲南台",
+      "dek": "中央氣象署引述資料顯示沙德爾今日增強至最強，路徑北偏但外圍環流恐加劇南部降雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862983"
     },
     {
       "rank": 2,
-      "title": "吳德榮：西進機率增 對台威脅升",
-      "dek": "氣象專家吳德榮指出，八月二十五日前須防強降雨，沙德爾西進逼近台灣的機率提高，威脅等級隨之上調。",
-      "url": "https://www.cna.com.tw/news/ahel/202608220019.aspx"
+      "title": "沙德爾恐轉強颱 路徑西擺牽動台灣",
+      "dek": "自由時報報導，沙德爾最快今日升格強颱，部分預報模式示警其後續可能轉西南逼近台灣。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5549202"
     },
     {
       "rank": 3,
-      "title": "沙德爾恐今晚增強 路徑掃北台",
-      "dek": "報導指沙德爾可能於當晚升級為強颱，部分模式顯示其路徑將通過台灣北部陸地，惟預測仍分歧。",
-      "url": "https://news.nextapple.com/life/20260822/E58899F8CA70BA80E7EC6CCE06E02182"
+      "title": "沙德爾路徑西偏 8月28、29日成觀察關鍵",
+      "dek": "蘋果仁彙整最新模式資料，指沙德爾路徑略微西移，北台灣受影響機率隨之上升。",
+      "url": "https://applealmond.com/posts/323030"
     },
     {
       "rank": 4,
-      "title": "雨彈狂炸 南部三縣市宣布停班停課",
-      "dek": "高雄、台南、屏東因低壓帶與強勁西南氣流引發豪雨，宣布二十三日停班停課，與颱風沙德爾無直接關聯。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5548909"
-    },
-    {
-      "rank": 5,
-      "title": "低壓帶夾擊西南風 南台三地停工",
-      "dek": "低壓帶與強勁西南氣流共同作用，促使南台灣三縣市宣布二十三日停止上班上課。",
-      "url": "https://www.singtaousa.com/2026/08/22/news/china/southern-taiwan-work-class-suspension-rainstorm/"
-    },
-    {
-      "rank": 6,
-      "title": "日氣象廳示警 沖繩恐現警報級豪雨",
-      "dek": "隨著沙德爾逼近，日本氣象廳警告沖繩本島恐出現警報級的豪雨，中央氣象署也就台灣可能影響作出說明。",
-      "url": "https://www.storm.mg/article/11158509"
-    },
-    {
-      "rank": 7,
-      "title": "沙德爾急速增強 北上直逼沖繩奄美",
-      "dek": "聯合颱風警報中心與日本氣象廳皆預測，快速增強的沙德爾將於二十六日左右逼近沖繩本島與奄美大島，帶來強風豪雨與巨浪。",
+      "title": "沙德爾急速增強 26日逼近沖繩奄美",
+      "dek": "日本Weathernews報導，沙德爾快速增強北上，通過琉球後路徑仍高度不確定。",
       "url": "https://wxtech.weathernews.com/en/news/20260821-01/"
     },
     {
-      "rank": 8,
-      "title": "沙德爾增強後 恐轉向威脅韓國",
-      "dek": "韓媒報導，快速增強的沙德爾通過沖繩後，一種可能路徑將北轉逼近朝鮮半島，凸顯後續路徑的高度不確定性。",
+      "rank": 5,
+      "title": "沙德爾恐達四級颱風 南韓亦示警",
+      "dek": "南韓中央日報報導，沙德爾本週末恐增強至四級颱風等級，部分模式顯示有轉向朝鮮半島可能。",
       "url": "https://www.koreajoongangdaily.com/korea/typhoon-saudel-may-threaten-korea-as-it-rapidly-intensifies/12834951"
     },
     {
-      "rank": 9,
-      "title": "沙德爾掠過北馬里亞納 急速增強",
-      "dek": "沙德爾在轉向琉球群島前，曾快速增強並掠過北馬里亞納群島的阿格里罕島，衛星分析顯示其結構持續增強。",
+      "rank": 6,
+      "title": "沙德爾掠過北馬里亞納群島 增強持續",
+      "dek": "國際氣象網站The Watchers記錄沙德爾快速增強，並近距離通過阿格里漢島後續向琉球推進。",
       "url": "https://watchers.news/2026/08/22/typhoon-saudel-rapidly-intensifies-passes-close-to-agrihan-northern-mariana-islands/"
     },
     {
+      "rank": 7,
+      "title": "菲律賓觀測沙德爾增強 恐達超颱等級",
+      "dek": "菲律賓大氣署最新公報顯示，沙德爾沿呂宋島極北外海西北移動，25日前後可能進出菲國責任區。",
+      "url": "https://www.rappler.com/philippines/weather/severe-tropical-storm-saudel-southwest-monsoon-update-pagasa-forecast-august-21-2026-4pm/"
+    },
+    {
+      "rank": 8,
+      "title": "熱帶風暴紫檀登陸華南 氣象署：對台無直接影響",
+      "dek": "中央社報導，另一系統紫檀已在海南、廣西沿岸增強登陸，中央氣象署評估不會直接衝擊台灣。",
+      "url": "https://focustaiwan.tw/society/202608220006"
+    },
+    {
+      "rank": 9,
+      "title": "低壓槽夾西南氣流 南台灣豪雨警戒至週一",
+      "dek": "中央氣象署預報顯示，低壓槽與增強西南季風將為嘉南高屏地區帶來持續豪雨到大豪雨。",
+      "url": "https://focustaiwan.tw/society/202608210024"
+    },
+    {
       "rank": 10,
-      "title": "沙德爾升級中颱 最新路徑曝光",
-      "dek": "沙德爾二十一日晚間升級為中度颱風，最新預測路徑顯示其將於二十六日至二十七日前後逼近琉球群島一帶。",
-      "url": "https://udn.com/news/story/7266/9706681"
+      "title": "高雄台南屏東今停班停課 台中未受影響",
+      "dek": "多家媒體彙整通知顯示，高雄市、台南市、屏東縣因山區雨量預測達標宣布停止上班上課。",
+      "url": "https://tw.news.yahoo.com/823%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2%E5%85%A8%E5%8F%B0%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5-%E9%AB%98%E9%9B%84%E5%B8%82%E3%80%81%E5%8F%B0%E5%8D%97%E5%B8%82%E3%80%81%E5%B1%8F%E6%9D%B1%E7%B8%A3%E5%81%9C%E6%AD%A2%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AA%B2-111605627.html"
     }
   ]
 }
