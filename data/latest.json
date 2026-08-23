@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T22:09:00+08:00",
+  "generated_at": "2026-08-23T23:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未對TD22系統或颱風沙德爾發布海上或陸上颱風警報，僅發布豪雨特報；南部已因西南氣流降雨致高雄、台南、屏東三縣市宣布24日停班停課。",
+  "alert_desc": "截至8月23日晚間，中央氣象署尚未發布海上或陸上颱風警報，僅因低壓帶及西南氣流影響已對17縣市發布豪雨特報；若沙德爾如預期於週末轉向逼近台灣，海陸颱風警報不排除同時發布，但屬未來可能情況，非目前現況。",
   "region_watch": {
     "region": "台中",
-    "text": "台中山區雨量預估150至250毫米，達到停班停課參考門檻，與高雄同列六個「達標」縣市之一，但截至目前台中市政府尚未跟進宣布24日停班停課；沙德爾颱風距台灣仍遠，對台中無直接風雨影響。"
+    "text": "台中山區雨量預報已達停班停課參考標準（8月23日下午2時至24日下午2時降雨量估計150至250毫米），但截至最新報導台中市政府尚未宣布是否停班停課，與已確定停課的高雄、台南、屏東不同；台中目前未受颱風直接威脅，僅受西南氣流豪雨影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "熱帶低壓夾豪雨襲南台灣 沙德爾颱風北上恐週四再添變數",
-    "dek": "中央氣象署尚未發布颱風警報，但西南氣流結合熱帶低壓為高雄、屏東帶來大豪雨，氣象單位同時密切關注快速增強的沙德爾颱風動向。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862983"
+    "title": "颱風沙德爾增強逼近沖繩　能否轉向撲台成週末未知數",
+    "dek": "南台灣同時遭西南氣流豪雨侵襲，高雄、台南、屏東連兩天停班停課，台中仍在觀望是否跟進。",
+    "url": "https://www.gmanetwork.com/news/weather/content/999514/typhoon-saudel-moves-over-ph-sea-entering-par-as-super-typhoon-not-ruled-out/story/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶低壓推升豪雨 南台灣多處雨量破紀錄",
-      "dek": "中央氣象署指出，屏東萬丹單日雨量達281毫米為全台之冠，台南永康三小時內降雨逾132毫米。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862983"
+      "title": "沙德爾恐以強烈颱風之姿進入菲律賓責任區　PAGASA不排除超級颱風強度",
+      "dek": "菲律賓氣象單位觀測顯示沙德爾持續在菲律賓海面移動，一旦進入該國預警責任區，將被當地命名為「Obet」。",
+      "url": "https://www.gmanetwork.com/news/weather/content/999514/typhoon-saudel-moves-over-ph-sea-entering-par-as-super-typhoon-not-ruled-out/story/"
     },
     {
       "rank": 2,
-      "title": "低壓系統醞釀 南台灣豪雨恐持續至週一",
-      "dek": "氣象單位提前示警，發展中的低壓系統將為南台灣帶來持續性豪雨，效應延續至8月24日週一。",
-      "url": "https://focustaiwan.tw/society/202608210024"
+      "title": "菲律賓氣象署下午公報：沙德爾恐於8月24日以超級颱風強度進入責任區",
+      "dek": "Rappler報導，PAGASA最新公報預測沙德爾風速可能達每小時180公里以上，西南季風也持續為菲律賓部分地區帶來降雨。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-saudel-tropical-depression-southwest-monsoon-update-pagasa-forecast-august-23-2026-4pm/"
     },
     {
       "rank": 3,
-      "title": "低壓降雨延至週二 沙德爾颱風週四恐再助陣台北豪雨",
-      "dek": "氣象署預報員表示，本波低壓降雨將持續到週二，沙德爾颱風逼近後可能於週四加劇台北降雨強度。",
-      "url": "https://www.nownews.com/news/6868542"
+      "title": "沙德爾路徑西修　氣象署估通過琉球後恐罕見下墜襲台",
+      "dek": "自由時報報導，中央氣象署指出沙德爾路徑已出現偏移，不排除本週末以颱風強度接近台灣，但各國模式對其通過沖繩後的南擺幅度仍分歧甚大。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5549575"
     },
     {
       "rank": 4,
-      "title": "沙德爾颱風急速增強 週三前後逼近沖繩奄美",
-      "dek": "Weathernews觀測顯示，沙德爾颱風正快速增強並朝沖繩本島與奄美大島方向北上，預計8月26日接近當地。",
-      "url": "https://wxtech.weathernews.com/en/news/20260821-01/"
+      "title": "沙德爾通過沖繩後路徑成謎　台日中韓皆在可能範圍內",
+      "dek": "自由時報報導，沙德爾預計8月26日左右通過沖繩，之後路徑呈現近乎180度扇形分布，台灣、日本、中國、南韓都在模式模擬的可能路徑上。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5547808"
     },
     {
       "rank": 5,
-      "title": "沙德爾路徑西偏 氣象專家：逼近台灣機率上升",
-      "dek": "氣象專家吳德榮指出，沙德爾颱風預測路徑出現偏移，未來五天全台仍將維持顯著降雨。",
-      "url": "https://www.nownews.com/news/6867787"
+      "title": "凱那利颱風於宮古島附近生成　氣象署：暫列輕度颱風、路徑偏北",
+      "dek": "綜合外電報導，新生成的凱那利颱風目前中央氣象署僅列為輕度颱風等級，預估路徑距台灣約300公里，但仍將增強西南氣流、加重南台灣雨勢。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
     },
     {
       "rank": 6,
-      "title": "日本編號「第20號颱風凱那利」形成 緩慢通過與那國島附近",
-      "dek": "日本氣象廳將該系統升格為第20號颱風並命名凱那利，其緩慢移動路徑增加沖繩外島豪雨及淹水風險。",
-      "url": "https://www.saga-s.co.jp/articles/-/1776355"
+      "title": "西南氣流強降雨未歇　高雄台南屏東8/24再度停班停課",
+      "dek": "自由時報報導，低壓帶結合增強的西南季風為南台灣及東台灣帶來豪雨到超大豪雨，三縣市23日晚間已宣布連續第二天停止上班上課。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5549621"
     },
     {
       "rank": 7,
-      "title": "菲律賓周邊三熱帶氣旋並存 沙德爾將進入責任區更名Obet",
-      "dek": "菲律賓大氣地球物理與天文服務署通報，境內周邊海域同時有三個活躍熱帶氣旋，沙德爾預計週一進入其責任區。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/23/2551230/august-23-three-tropical-cyclones-surround-philippines-pagasa"
-    },
-    {
-      "rank": 8,
-      "title": "六縣市雨量達標 台中、高雄8月24日停班停課存變數",
-      "dek": "依中央氣象署雨量預估，包括台中、高雄在內六縣市已達停班停課參考門檻，最終仍待地方政府定奪。",
+      "title": "6縣市雨量達停班停課標準　台中、高雄在列　台中尚未拍板",
+      "dek": "NOWnews報導，中央氣象署雨量預報顯示台中山區、南投、高雄、屏東、台東及花蓮山區均達停班停課參考標準，但截稿前台中市政府尚未宣布是否停班停課。",
       "url": "https://www.nownews.com/news/6868445"
     },
     {
+      "rank": 8,
+      "title": "快訊／明日8/24豪雨假持續更新　高雄台南屏東確定放假、台中等待中",
+      "dek": "風傳媒即時報導指出，截至23日晚間已有高雄、台南、屏東三縣市確定8月24日停班停課，其餘雨量達標的縣市包括台中仍待地方政府進一步評估。",
+      "url": "https://www.storm.mg/lifestyle/11158670"
+    },
+    {
       "rank": 9,
-      "title": "台南、高雄、屏東率先宣布8月24日停班停課",
-      "dek": "受豪雨影響，台南、高雄與屏東三縣市正式宣布24日停班停課，其餘多數縣市截稿前仍維持正常上班上課。",
-      "url": "https://www.businessweekly.com.tw/style/blog/3022305"
+      "title": "日本氣象廳升級18號颱風沙德爾為「非常強」等級　同時示警20號颱風豪雨",
+      "dek": "日本ウェザーニュース報導，沙德爾（18號颱風）預計8月25、26日左右接近沖繩後進入東海，另有緩慢移動的20號颱風凱那利持續為八重山群島帶來大雨。",
+      "url": "https://weathernews.jp/news/202608/230201/"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季持續平靜 但熱帶活動跡象漸增",
-      "dek": "今年大西洋僅出現兩個命名風暴，美國國家颶風中心正觀察新編號的熱帶擾動92L，其未來一週發展機率約七成。",
-      "url": "https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026"
+      "title": "沙德爾快速增強通過北馬里亞納群島阿格里罕島附近　預估未來36小時衝上顛峰強度",
+      "dek": "watchers.news報導，沙德爾出現快速增強現象，模式預測其巔峰強度可能達每小時240至280公里，其後才會在接近琉球群島的較冷海域逐漸減弱。",
+      "url": "https://watchers.news/2026/08/22/typhoon-saudel-rapidly-intensifies-passes-close-to-agrihan-northern-mariana-islands/"
     }
   ]
 }
