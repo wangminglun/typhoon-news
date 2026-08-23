@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T00:10:00+08:00",
+  "generated_at": "2026-08-24T01:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對台灣本島發布海上或陸上颱風警報，目前已發布的是涵蓋約17至19縣市的豪雨及強風特報；颱風沙德爾若如預期於8月27、28日逼近台灣，屆時不排除發布海陸颱風警報，但仍屬未來情境，非目前現況。",
+  "alert_desc": "中央氣象署尚未對沙德爾颱風發布海上或陸上颱風警報，現行有效的僅為因季風槽及西南氣流發布的豪雨特報；氣象署評估未來發布海上颱風警報的機率偏高，最快週五、週六（8月28、29日）沙德爾恐逼近台灣，但仍屬未來情境，非目前現況。",
   "region_watch": {
     "region": "台中",
-    "text": "台中山區雨量預報已達停班停課參考標準，但截至最新報導台中市政府尚未宣布是否停班停課，與已確定停課的台南、高雄、屏東不同；台中目前未受颱風直接威脅，僅受西南氣流豪雨影響。"
+    "text": "目前無颱風直接影響台中，台中市府截至最新報導尚未宣布停班停課；但台中山區依氣象署預測，8月23日下午2時至24日下午2時間雨量恐達150至250毫米，觸及停班停課參考門檻，屬季風槽豪雨風險，非颱風環流直接影響，後續是否宣布停課仍待市府公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "南台灣豪雨成災　高屏台南停班停課",
-    "dek": "西南氣流挾帶破紀錄雨勢重創南台灣，同時太平洋上罕見出現三颱共存局面，中央氣象署尚未發布颱風警報。",
-    "url": "https://focustaiwan.tw/society/202608230009"
+    "title": "四颱共舞逼近　沙德爾恐週五登陸",
+    "dek": "西南氣流已重創南台灣豪雨成災，模式續指沙德爾颱風最快8月28、29日直逼台灣，海警機率偏高。",
+    "url": "https://applealmond.com/posts/323030"
   },
   "items": [
     {
       "rank": 1,
-      "title": "南台灣豪雨成災　高雄淹水輕軌停駛",
-      "dek": "中央社報導，強勁西南氣流挾豪雨侵襲高雄，造成多處淹水、輕軌一度停駛，山區並傳出坍方，各級應變層級持續提升。",
-      "url": "https://focustaiwan.tw/society/202608230009"
-    },
-    {
-      "rank": 2,
-      "title": "南台灣39小時雨量近500毫米　土石流紅色警戒",
-      "dek": "中央社報導，高雄、台南、屏東雨量逼近500毫米，農業部對34條溪流及兩處崩塌地發出紅色警戒，高雄已疏散逾2200人。",
-      "url": "https://focustaiwan.tw/society/202608230005"
-    },
-    {
-      "rank": 3,
-      "title": "台南高雄屏東確定停班停課",
-      "dek": "中央社報導，台南、高雄與屏東縣宣布週一（8月24日）停班停課，氣象署預估雨勢週一、週二上午最劇烈。",
-      "url": "https://focustaiwan.tw/society/202608230012"
-    },
-    {
-      "rank": 4,
-      "title": "屏東萬丹雨量281毫米居全台之冠",
-      "dek": "台北時報報導，熱帶低壓TD22增強西南氣流，屏東萬丹、萬巒與高雄小港、林園等地雨量名列前茅。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862983"
-    },
-    {
-      "rank": 5,
-      "title": "台中山區達停班標準　市府未定案",
-      "dek": "商業周刊報導，氣象署預報台中、南投等六處山區達停班停課參考標準，但台中市府截至發稿尚未宣布決定。",
-      "url": "https://www.businessweekly.com.tw/style/blog/3022305"
-    },
-    {
-      "rank": 6,
-      "title": "沙德爾恐增強為超級颱風　週一進菲責任區",
-      "dek": "菲律賓媒體Rappler報導，颱風沙德爾風速達每小時165公里，菲方預期其可能以超級颱風等級進入責任區並命名為「Obet」。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-saudel-tropical-depression-southwest-monsoon-update-pagasa-forecast-august-23-2026-4pm/"
-    },
-    {
-      "rank": 7,
-      "title": "沙德爾8/27至28最接近台灣　海警機率上升",
-      "dek": "台灣媒體蘋果仁報導，沙德爾可能增強為強颱並逼近沖繩，最接近台灣時間預估在8月27至28日，屆時可能發布海上颱風警報。",
+      "title": "沙德爾增強逼近　海警機率評估偏高",
+      "dek": "蘋果仁報導指出，氣象署預估沙德爾颱風最接近台灣時間落在8月28日前後。",
       "url": "https://applealmond.com/posts/323030"
     },
     {
+      "rank": 2,
+      "title": "路徑南修　沙德爾今夜恐增強為強颱",
+      "dek": "Newtalk新聞報導，預測路徑轉趨貼近台灣，海警、陸警皆有可能發布。",
+      "url": "https://newtalk.tw/news/view/2026-08-23/1055172"
+    },
+    {
+      "rank": 3,
+      "title": "專家：不排除成今年首個侵台颱風",
+      "dek": "Yahoo新聞台灣引述氣象專家表示，多國模式路徑趨於一致指向台灣。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E3%80%8C%E5%91%A8%E5%9B%9B%E3%80%81%E4%BA%94%E8%A5%B2%E5%8F%B0%E3%80%8D-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E6%88%90%E7%82%BA%E4%BB%8A%E5%B9%B4%E7%99%BB%E9%99%B8%E9%A6%96%E9%A2%B1-004312033.html"
+    },
+    {
+      "rank": 4,
+      "title": "簡拉維颱風生成　距台灣極近",
+      "dek": "知新聞報導，日本氣象廳率先升格，路徑指向北台灣，屏東已現停課。",
+      "url": "https://www.knews.com.tw/news/05969D1B1F264A3FDC6E39451D0C025C"
+    },
+    {
+      "rank": 5,
+      "title": "熱帶低氣壓TD23恐併入沙德爾",
+      "dek": "中時新聞網報導，交互作用可能使沙德爾路徑更偏西、更貼近台灣。",
+      "url": "https://www.chinatimes.com/realtimenews/20260822002971-260405"
+    },
+    {
+      "rank": 6,
+      "title": "紫檀風暴生成北部灣　台灣無直接威脅",
+      "dek": "維基百科資料顯示，紫檀為今年第19號風暴，正緩慢朝中國廣西沿岸移動。",
+      "url": "https://zh.wikipedia.org/wiki/%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%B4%AB%E6%AA%80_(2026%E5%B9%B4)"
+    },
+    {
+      "rank": 7,
+      "title": "南台灣豪雨成災　三縣市停班停課",
+      "dek": "Newtalk新聞報導，台南、高雄、屏東停班停課，天氣型態近似823水災八週年。",
+      "url": "https://newtalk.tw/news/view/2026-08-23/1055147"
+    },
+    {
       "rank": 8,
-      "title": "颱風加納利生成　路徑通過台灣以北海域",
-      "dek": "馬來西亞《星報》報導，日本氣象廳將宮古島附近系統升格為颱風加納利，氣象署評估其將增強西南氣流後於台灣海峽減弱消失。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
+      "title": "陳其邁：四天雨量恐近全年一半",
+      "dek": "Newtalk新聞報導，高雄市長示警淹水風險升高，籲市民非必要避免外出。",
+      "url": "https://newtalk.tw/news/view/2026-08-23/1055199"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴娜拉海南島生成　對台無直接影響",
-      "dek": "中央社報導，熱帶風暴娜拉於海南島附近生成後緩慢移向廣東，氣象署評估對台灣不會造成直接影響。",
-      "url": "https://focustaiwan.tw/society/202608220006"
+      "title": "六縣市山區估達24日停課雨量門檻",
+      "dek": "NOWnews今日新聞報導，台中山區、南投等地雨量預估恐觸及停班停課標準。",
+      "url": "https://www.nownews.com/news/6868445"
     },
     {
       "rank": 10,
-      "title": "三颱共存罕見　中國啟動四級應急響應",
-      "dek": "央視與《環球時報》報導，娜拉、沙德爾與加納利三颱同時出現於中國沿海周邊，中國已啟動四級聯合應急響應。",
-      "url": "https://news.cgtn.com/news/2026-08-22/Three-typhoons-churn-over-Pacific-as-heavy-rain-hits-southern-China-1POLbHLiBd6/p.html"
+      "title": "日本氣象廳示警沖繩恐現警報級豪雨",
+      "dek": "中央社經風傳媒報導，沙德爾逼近琉球群島恐為沖繩本島帶來強降雨。",
+      "url": "https://www.storm.mg/article/11158509"
     }
   ]
 }
