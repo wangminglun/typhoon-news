@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T13:14:00+08:00",
+  "generated_at": "2026-08-24T14:20:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未對台灣本島發布海上或陸上颱風警報，僅針對台灣海峽新生成的熱帶低壓TD24發布熱帶性低氣壓特報；氣象署評估颱風沙德爾最快週三（8月26日）發布海上警報，不排除同時加發陸上警報。",
+  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報，僅對熱帶性低氣壓TD24發布特報，並對南部多縣市發布豪雨特報；氣象署預估最快將於週三（8月26日）針對颱風沙德爾發布海上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市山區雨量預測達150至250毫米停班停課參考標準，但截至最新報導，台中市政府尚未正式宣布全市停班停課，並非今日停班停課六縣市之一，市區目前無直接影響。"
+    "text": "台中並未列入8月24日停班停課名單，但山區已達大雨門檻並發布豪雨特報，目前尚無颱風警報直接影響台中。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "南台灣豪雨成災 高雄全市停班停課 颱風沙德爾週三恐襲台",
-    "dek": "破紀錄豪雨重創高雄等南部六縣市，同時中央氣象署示警，加速逼近的颱風沙德爾最快週三發布海上警報。",
-    "url": "https://www.ettoday.net/news/20260823/3224345.htm"
+    "title": "南台灣豪雨成災 沙德爾颱風週三恐發海警",
+    "dek": "熱帶低壓引爆豪雨、六縣市停班課，颱風沙德爾接力逼近北台灣",
+    "url": "https://newtalk.tw/news/view/2026-08-24/1055224"
   },
   "items": [
     {
       "rank": 1,
-      "title": "高雄34處紅色警戒 撤離逾2600人",
-      "dek": "破紀錄豪雨襲擊高雄，34處土石流紅色警戒生效，10個行政區急撤逾2600名居民。",
-      "url": "https://www.ettoday.net/news/20260823/3224345.htm"
+      "title": "高雄破496毫米 六縣市停班課",
+      "dek": "西南氣流共伴TD24，南台灣爆發嚴重淹水。",
+      "url": "https://newtalk.tw/news/view/2026-08-24/1055224"
     },
     {
       "rank": 2,
-      "title": "陳其邁宣布高雄24日停班停課",
-      "dek": "高雄市長陳其邁證實週一全市停止上班上課，警告嚴防致災性強降雨。",
-      "url": "https://tw.stock.yahoo.com/news/24%E6%97%A5%E9%AB%98%E9%9B%84%E5%85%A8%E5%B8%82%E7%A2%BA%E5%AE%9A%E5%81%9C%E7%8F%AD%E8%AA%B2-%E9%99%B3%E5%85%B6%E9%82%81-%E5%9A%B4%E9%98%B2%E8%87%B4%E7%81%BD%E6%80%A7%E5%BC%B7%E9%99%8D%E9%9B%A8-145500134.html"
-    },
-    {
-      "rank": 3,
-      "title": "六縣市24日同步停班停課",
-      "dek": "嘉義、台南、高雄、屏東、花蓮、台東因熱帶低壓及強勁西南氣流同步宣布停班停課。",
-      "url": "https://www.nownews.com/news/6868616"
-    },
-    {
-      "rank": 4,
-      "title": "沙德爾颱風加速 週三恐發警報",
-      "dek": "中央氣象署表示颱風沙德爾路徑加快，最快週三發布海上警報，不排除擦邊登陸。",
+      "title": "沙德爾加速 週三恐發海陸警報",
+      "dek": "氣象署：不排除週五擦邊登陸馬祖。",
       "url": "https://news.nextapple.com/life/20260824/8C946EA7E466FDBBD53B6DA81D7DD52E"
     },
     {
+      "rank": 3,
+      "title": "六縣市24日停班停課",
+      "dek": "嘉南高屏花東因豪雨宣布停班停課。",
+      "url": "https://www.nownews.com/news/6868489"
+    },
+    {
+      "rank": 4,
+      "title": "高雄疏散2203人",
+      "dek": "山區土石流風險升高，當局持續撤離居民。",
+      "url": "https://focustaiwan.tw/society/202608230005"
+    },
+    {
       "rank": 5,
-      "title": "吳德榮：沙德爾估27日襲台",
-      "dek": "氣象專家吳德榮指出颱風沙德爾路徑南修，預估27日前後接近台灣，不排除登陸。",
-      "url": "https://www.cna.com.tw/news/ahel/202608230020.aspx"
+      "title": "沙德爾最快週三發海警",
+      "dek": "氣象署：強度將接近中颱上限，路徑偏北。",
+      "url": "https://news.tvbs.com.tw/life/4011700"
     },
     {
       "rank": 6,
-      "title": "台灣海峽現熱帶低壓TD24",
-      "dek": "鄭明典指出台灣海峽生成的熱帶低壓TD24若增強，恐成今年第20號颱風「簡拉維」。",
-      "url": "https://newtalk.tw/news/view/2026-08-23/1055202"
+      "title": "熱帶低壓TD24生成",
+      "dek": "海峽上新系統帶來強陣風與豪雨。",
+      "url": "https://www.nownews.com/amp/news/6868599"
     },
     {
       "rank": 7,
-      "title": "TD24特報生效 海象轉惡劣",
-      "dek": "中央氣象署針對熱帶低壓TD24發布特報，警告24日前台灣周邊海域恐現8至10級強陣風。",
-      "url": "https://ctinews.com/news/items/2BnEpweoxJ"
+      "title": "日本命名20號颱風簡拉維",
+      "dek": "氣象署未跟進，台日出現罕見分歧。",
+      "url": "https://www.knews.com.tw/news/05969D1B1F264A3FDC6E39451D0C025C"
     },
     {
       "rank": 8,
-      "title": "米克拉增強為強颱 對台影響低",
-      "dek": "颱風米克拉增強為強烈颱風並北轉遠離台灣，氣象署評估發布海上警報機率偏低。",
-      "url": "https://udn.com/news/story/7266/9581478"
+      "title": "馬祖侵襲機率居冠達69%",
+      "dek": "氣象署120小時預測：北台灣風險偏高。",
+      "url": "https://udn.com/news/story/7266/9709229"
     },
     {
       "rank": 9,
-      "title": "美聯社：豪雨迫南台灣停班課",
-      "dek": "美聯社報導高雄、台南等逾400萬人口地區因破紀錄豪雨關閉機關學校，五日累積雨量估破1.3米。",
-      "url": "https://wkzo.com/2026/08/23/offices-schools-closed-in-southern-taiwan-due-to-torrential-rain/"
+      "title": "沙德爾恐增強為超級颱風",
+      "dek": "菲律賓氣象署：風速已達175公里。",
+      "url": "https://www.gmanetwork.com/news/weather/content/999514/typhoon-saudel-moves-over-ph-sea-entering-par-as-super-typhoon-not-ruled-out/story/"
     },
     {
       "rank": 10,
-      "title": "熱帶低壓恐再釀致災豪雨",
-      "dek": "《台北時報》報導熱帶低壓為台灣帶來滂沱大雨，官方嚴陣以待週後可能出現的颱風威脅。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862983"
+      "title": "紫檀颱風逼近廣西沿岸",
+      "dek": "中國華南發布豪雨警報，暫不影響台灣。",
+      "url": "https://www.wenweipo.com/a/202608/22/AP6a890e71e4b0c1e50025c5bc.html"
     }
   ]
 }
