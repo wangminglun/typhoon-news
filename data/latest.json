@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T21:12:00+08:00",
+  "generated_at": "2026-08-24T22:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未對沙德爾颱風發布海上或陸上颱風警報，僅對南部豪雨發布降雨特報；預測海上警報最快週三上午、陸上警報最快週三晚間發布。",
+  "alert_desc": "海上及陸上颱風警報均尚未發布，中央氣象署預估最快將於周三（8月26日）上午發布海上警報，陸上警報則可能於當日下午至傍晚跟進。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響（無颱風警報、無停班停課），僅山區雨量已達參考標準但市府維持正常上班上課；週四晚間起才需留意沙德爾外圍環流可能帶來的強降雨。"
+    "text": "目前無直接影響，僅部分山區雨量達停班停課參考值但市府維持正常運作；沙德爾若使中部山區降雨明顯增加，預料要到暴風最接近台灣後的8月28、29日左右才會顯現。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱沙德爾持續增強 中央氣象署估週四晚至週五凌晨最接近台灣",
-    "dek": "中央氣象署已將沙德爾上修為強烈颱風，預期暴風圈周四夜間觸及北台灣與馬祖，而南台灣此刻仍在對抗另一波與颱風無關的致災豪雨。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863056"
+    "title": "沙德爾增強為強烈颱風 最快週三發布海上警報",
+    "dek": "中央氣象署表示，沙德爾颱風已增強為強烈颱風，預測周四深夜至周五凌晨最接近台灣，暴風圈恐掃過北部及馬祖，海上警報最快周三上午發布。",
+    "url": "https://udn.com/news/story/7266/9709783"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾增強為強颱 週四、週五最接近台灣",
-      "dek": "中央氣象署估暴風圈觸及北台灣與馬祖，本島無登陸疑慮。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863056"
+      "title": "沙德爾路徑曝光 周四五暴風圈掃半個台灣",
+      "dek": "吳德榮分析指出，沙德爾轉向後暴風圈周四至周五恐大範圍籠罩台灣。",
+      "url": "https://udn.com/news/story/7266/9709783"
     },
     {
       "rank": 2,
-      "title": "多重系統夾擊 台灣本週豪雨不斷",
-      "dek": "熱帶低氣壓、西南氣流與沙德爾接力發威，南部近期雨勢最猛烈。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863044"
+      "title": "氣象署：沙德爾直接登陸機率低",
+      "dek": "強颱沙德爾暴風圈仍將影響北台灣與馬祖，周一下午已達強烈颱風等級。",
+      "url": "https://focustaiwan.tw/society/202608240021"
     },
     {
       "rank": 3,
-      "title": "南部東部淹水未歇 多處交通中斷",
-      "dek": "台南、高雄、屏東及花東因低壓系統持續降雨，鐵公路多處受阻。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863054"
+      "title": "多重系統夾擊 本周豪雨恐持續",
+      "dek": "氣象署提醒北部及中央山區周四傍晚起須慎防豪雨到大豪雨。",
+      "url": "https://focustaiwan.tw/society/202608240005"
     },
     {
       "rank": 4,
-      "title": "豪雨致4人失聯 南台灣多縣市停班停課",
-      "dek": "高雄五日雨量估破1.3公尺，逾2300人撤離，各界同時嚴防沙德爾。",
-      "url": "https://www.yahoo.com/news/weather-news/articles/offices-schools-closed-southern-taiwan-000559912.html"
+      "title": "沙德爾周四五最接近台灣",
+      "dek": "英文媒體證實暴風可能為北台灣及馬祖帶來強風豪雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863056"
     },
     {
       "rank": 5,
-      "title": "氣象署估最快週三發布海警 影響範圍曝光",
-      "dek": "TVBS報導，沙德爾暴風圈屆時恐波及馬祖及北部至彰化一帶。",
-      "url": "https://news.tvbs.com.tw/life/4011700"
+      "title": "沙德爾加速 海陸警恐提前至周三",
+      "dek": "氣象署升格強烈颱風，不排除沿邊緣擦過台灣本島。",
+      "url": "https://news.nextapple.com/life/20260824/8C946EA7E466FDBBD53B6DA81D7DD52E"
     },
     {
       "rank": 6,
-      "title": "沙德爾升級路徑曝光 估週六前逼近琉球",
-      "dek": "聯合新聞網整理沙德爾24小時內由中颱增強為強颱的路徑推演。",
-      "url": "https://udn.com/news/story/7266/9706681"
+      "title": "南台灣豪雨594件災情135人傷",
+      "dek": "卓榮泰證實災情集中高屏南，並指沙德爾海警最快周三發布。",
+      "url": "https://udn.com/news/story/7266/9711137"
     },
     {
       "rank": 7,
-      "title": "菲律賓氣象署估沙德爾恐衝上超級颱風",
-      "dek": "Manila Times報導，沙德爾陣風達215公里，估25日前脫離菲律賓責任區。",
-      "url": "https://www.manilatimes.net/2026/08/24/news/saudel-could-turn-into-super-typhoon/2410543"
+      "title": "南部豪雨1人失聯 古蹟牆崩路陷",
+      "dek": "台南大東門側牆倒塌，屏東等地雨量逼近千毫米。",
+      "url": "https://www.cna.com.tw/news/aloc/202608240152.aspx"
     },
     {
       "rank": 8,
-      "title": "颱風「奧貝特」進入菲律賓警戒區 旋即過境",
-      "dek": "Rappler報導，沙德爾以近超颱強度於24日下午進入PAR，25日前離境。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-obet-southwest-monsoon-update-pagasa-forecast-august-24-2026-5pm/"
+      "title": "沙德爾動態一次看 海警估周三發布",
+      "dek": "TVBS整理最新路徑，最接近台灣時間點在周四深夜至周五凌晨。",
+      "url": "https://news.tvbs.com.tw/life/4011700"
     },
     {
       "rank": 9,
-      "title": "日本示警沖繩恐現猛烈颱風",
-      "dek": "Weathernews報導，中心氣壓約940百帕，25日起琉球、奄美恐入暴風圈。",
-      "url": "https://weathernews.jp/news/202608/220061/"
+      "title": "新生熱帶系統「閃電」恐併入沙德爾",
+      "dek": "氣象署指其發展潛力有限，較可能被沙德爾環流吸收。",
+      "url": "https://news.pts.org.tw/article/823777"
     },
     {
       "rank": 10,
-      "title": "紫檀颱風生成 三颱共舞罕見奇觀",
-      "dek": "聯合新聞網報導，紫檀、閃電與沙德爾同時活躍，僅沙德爾牽動台灣天氣。",
-      "url": "https://udn.com/news/story/7266/9707231"
+      "title": "即時路徑追蹤：沙德爾風速強度數據",
+      "dek": "追蹤平台顯示中心氣壓約945百帕，暴風減弱前逼近台灣周邊。",
+      "url": "https://zoom.earth/storms/saudel-2026/"
     }
   ]
 }
