@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T14:20:00+08:00",
+  "generated_at": "2026-08-24T15:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報，僅對熱帶性低氣壓TD24發布特報，並對南部多縣市發布豪雨特報；氣象署預估最快將於週三（8月26日）針對颱風沙德爾發布海上颱風警報。",
+  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報，南部17縣市持續處於豪雨以上等級特報；氣象署預估最快將於週三（8月26日）上午針對颱風沙德爾發布海上颱風警報，陸上警報可能於當日晚間跟進。",
   "region_watch": {
     "region": "台中",
-    "text": "台中並未列入8月24日停班停課名單，但山區已達大雨門檻並發布豪雨特報，目前尚無颱風警報直接影響台中。"
+    "text": "台中山區雨量預估已達停班停課門檻，但台中市24日並未宣布停班停課，目前颱風系統對台中無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "南台灣豪雨成災 沙德爾颱風週三恐發海警",
-    "dek": "熱帶低壓引爆豪雨、六縣市停班課，颱風沙德爾接力逼近北台灣",
-    "url": "https://newtalk.tw/news/view/2026-08-24/1055224"
+    "title": "沙德爾颱風增強逼近 南部豪雨六縣市停班停課",
+    "dek": "中央氣象署表示，沙德爾颱風持續增強並加速北轉，最快週三發布海上警報，南台灣同時豪雨成災，六縣市宣布停班停課",
+    "url": "https://udn.com/news/story/7266/9709783"
   },
   "items": [
     {
       "rank": 1,
-      "title": "高雄破496毫米 六縣市停班課",
-      "dek": "西南氣流共伴TD24，南台灣爆發嚴重淹水。",
-      "url": "https://newtalk.tw/news/view/2026-08-24/1055224"
+      "title": "沙德爾颱風增強轉向台灣",
+      "dek": "中央氣象署表示，沙德爾颱風持續增強，預計週四至週五最接近台灣。",
+      "url": "https://udn.com/news/story/7266/9709783"
     },
     {
       "rank": 2,
-      "title": "沙德爾加速 週三恐發海陸警報",
-      "dek": "氣象署：不排除週五擦邊登陸馬祖。",
-      "url": "https://news.nextapple.com/life/20260824/8C946EA7E466FDBBD53B6DA81D7DD52E"
-    },
-    {
-      "rank": 3,
-      "title": "六縣市24日停班停課",
-      "dek": "嘉南高屏花東因豪雨宣布停班停課。",
-      "url": "https://www.nownews.com/news/6868489"
-    },
-    {
-      "rank": 4,
-      "title": "高雄疏散2203人",
-      "dek": "山區土石流風險升高，當局持續撤離居民。",
-      "url": "https://focustaiwan.tw/society/202608230005"
-    },
-    {
-      "rank": 5,
-      "title": "沙德爾最快週三發海警",
-      "dek": "氣象署：強度將接近中颱上限，路徑偏北。",
+      "title": "沙德爾海警最快週三發布",
+      "dek": "氣象署表示陸警可能於週三晚間跟進，不排除颱風掠過台灣。",
       "url": "https://news.tvbs.com.tw/life/4011700"
     },
     {
+      "rank": 3,
+      "title": "三熱帶系統同週夾擊台灣",
+      "dek": "中央社報導，沙德爾、艾湄尼與納莎三個系統同時牽動台灣天氣。",
+      "url": "https://focustaiwan.tw/society/202608240005"
+    },
+    {
+      "rank": 4,
+      "title": "嘉南高屏花東停班停課",
+      "dek": "嘉義、台南、高雄、屏東、花蓮及台東因豪雨宣布24日停止上班上課。",
+      "url": "https://tw.news.yahoo.com/824%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2%E5%85%A8%E5%8F%B0%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5-%E5%98%89%E7%BE%A9%E7%B8%A3%E3%80%81%E5%8F%B0%E5%8D%97%E5%B8%82%E3%80%81%E9%AB%98%E9%9B%84%E5%B8%82%E3%80%81%E5%B1%8F%E6%9D%B1%E7%B8%A3%E3%80%81%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%8F%8A%E5%8F%B0%E6%9D%B1%E7%B8%A3%E5%81%9C%E6%AD%A2%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AA%B2-041509774.html"
+    },
+    {
+      "rank": 5,
+      "title": "台海低壓日本已列颱風",
+      "dek": "中天新聞報導，日本氣象廳已將台灣海峽系統升格為颱風「簡拉維」。",
+      "url": "https://ctinews.com/news/items/2BnEpweoxJ"
+    },
+    {
       "rank": 6,
-      "title": "熱帶低壓TD24生成",
-      "dek": "海峽上新系統帶來強陣風與豪雨。",
-      "url": "https://www.nownews.com/amp/news/6868599"
+      "title": "氣象署未認列簡拉維颱風",
+      "dek": "聯合報報導，中央氣象署仍將該系統列為熱帶性低氣壓，與日方認定不同。",
+      "url": "https://udn.com/news/story/7266/9708734"
     },
     {
       "rank": 7,
-      "title": "日本命名20號颱風簡拉維",
-      "dek": "氣象署未跟進，台日出現罕見分歧。",
-      "url": "https://www.knews.com.tw/news/05969D1B1F264A3FDC6E39451D0C025C"
+      "title": "紫檀颱風轉向廣西無涉台灣",
+      "dek": "TVBS報導，第19號颱風紫檀在北部灣減弱，預料不影響台灣。",
+      "url": "https://news.tvbs.com.tw/life/4010933"
     },
     {
       "rank": 8,
-      "title": "馬祖侵襲機率居冠達69%",
-      "dek": "氣象署120小時預測：北台灣風險偏高。",
-      "url": "https://udn.com/news/story/7266/9709229"
+      "title": "南台灣雨量破450毫米",
+      "dek": "中央社報導，台南、高雄、屏東一天半內累積雨量達450至500毫米。",
+      "url": "https://focustaiwan.tw/society/202608240005"
     },
     {
       "rank": 9,
-      "title": "沙德爾恐增強為超級颱風",
-      "dek": "菲律賓氣象署：風速已達175公里。",
-      "url": "https://www.gmanetwork.com/news/weather/content/999514/typhoon-saudel-moves-over-ph-sea-entering-par-as-super-typhoon-not-ruled-out/story/"
+      "title": "高雄時雨量超越排水標準",
+      "dek": "聯合報報導，高雄新興區時雨量達81毫米，超過該市排水設計上限。",
+      "url": "https://udn.com/news/story/7266/9708465"
     },
     {
       "rank": 10,
-      "title": "紫檀颱風逼近廣西沿岸",
-      "dek": "中國華南發布豪雨警報，暫不影響台灣。",
-      "url": "https://www.wenweipo.com/a/202608/22/AP6a890e71e4b0c1e50025c5bc.html"
+      "title": "氣象署示警週四最接近",
+      "dek": "氣象署預報員黃恩鴻表示，西南氣流持續，沙德爾週四至週五最接近台灣。",
+      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E5%91%A8%E4%B8%89%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-013853436.html"
     }
   ]
 }
