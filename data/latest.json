@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T01:13:00+08:00",
+  "generated_at": "2026-08-26T02:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未發布海上或陸上颱風警報，海上颱風警報最快於周三（26日）下半天發布，陸上颱風警報最快可能於周三晚間至周四發布，實際仍視最新路徑修正而定。",
+  "alert_desc": "中央氣象署截至目前尚未對颱風沙德爾發布海上或陸上颱風警報，研判本周三（26日）下半天發布海上警報機率最高，若警戒範圍擴及馬祖，陸上警報最快可能於周三晚間至周四跟進發布。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未列入暴風機率較高地區，也未出現在此次豪雨重災縣市名單中，雖有報導指沿海鄉鎮風速預估已接近停班停課評估門檻，但氣象署尚未對台中發布任何颱風警報。"
+    "text": "目前無直接影響。沙德爾預測路徑偏北通過，不會直接登陸台灣本島，風雨帶集中於北部及外島馬祖（連江縣，侵襲機率約82%），台中未列入相關停班停課報導名單，惟本周稍晚隨颱風逼近，中央山脈地區恐有降雨。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾路徑北修 氣象署估周三發布海警",
-    "dek": "中央氣象署表示，沙德爾颱風周四、周五將最接近台灣北部海域，馬祖陸警機率仍逾六成。",
-    "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E8%BD%89%E5%BC%B7%E9%A2%B1-%E6%9C%80%E5%BF%AB%E5%91%A8%E4%B8%89%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-27%E3%80%8128%E6%97%A5%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8F%B0%E7%81%A3-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-013853436.html"
+    "title": "沙德爾轉弱仍未達警戒 氣象署估周三下午發布海上警報、周五最接近台灣",
+    "dek": "中央氣象署尚未對颱風沙德爾發布任何警報，但研判本周三下半天發布海上警報機率最高，颱風本身雖持續減弱，仍預計周五最接近台灣。",
+    "url": "https://focustaiwan.tw/society/202608250005"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾一度轉強颱 氣象署估最快周三發布海警",
-      "dek": "颱風一度增強為強烈颱風後趨緩，二十七、二十八日將最接近台灣。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E8%BD%89%E5%BC%B7%E9%A2%B1-%E6%9C%80%E5%BF%AB%E5%91%A8%E4%B8%89%E7%99%BC%E5%B8%83%E6%B5%B7%E8%AD%A6-27%E3%80%8128%E6%97%A5%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8F%B0%E7%81%A3-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-013853436.html"
+      "title": "氣象署：沙德爾周五最接近台灣",
+      "dek": "中央氣象署預測沙德爾周五最接近台灣，受太平洋高壓導引北上，直接登陸機率低，但外圍環流將為北部、南部及中央山區帶來降雨。",
+      "url": "https://focustaiwan.tw/society/202608250005"
     },
     {
       "rank": 2,
-      "title": "北台灣暴風機率破六成 馬祖高達六成九",
-      "dek": "中時新聞網報導，基隆至新竹一帶暴風機率逾六成，海陸警最快明發布。",
-      "url": "https://www.chinatimes.com/realtimenews/20260825000954-260405"
+      "title": "沙德爾持續減弱 暴風圈縮小",
+      "dek": "《台北時報》報導，沙德爾周二上午暴風圈半徑降至約220公里、最大風速降至每小時155公里，但氣象署仍預期本周稍晚發布海上警報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
     },
     {
       "rank": 3,
-      "title": "撲台機率下降 海警估周三下半天發布",
-      "dek": "聯合新聞網指出，最接近台灣時間延至周四、周五，強度預估將轉弱。",
-      "url": "https://udn.com/news/story/7266/9713359"
+      "title": "七縣市侵襲機率破六成 馬祖最高",
+      "dek": "《風傳媒》引述氣象署資料指出，全台已有七縣市侵襲機率超過六成，連江縣（馬祖）達82%為最高，北北基同樣居高，惟尚未宣布停班停課。",
+      "url": "https://www.storm.mg/lifestyle/11158751"
     },
     {
       "rank": 4,
-      "title": "台灣豪雨釀一死逾百傷 航班一度受擾",
-      "dek": "彭博社報導，先前豪雨已致一死、四失蹤、逾六千人撤離。",
-      "url": "https://businessmirror.com.ph/2026/08/25/taiwan-floods-kill-1-disrupt-flights-as-more-rain-seen/"
+      "title": "桃園沖繩航班周三受影響取消",
+      "dek": "中央社報導，受沙德爾直撲琉球群島影響，25日往返桃園與沖繩的多個航班宣布取消或延誤。",
+      "url": "https://focustaiwan.tw/business/202608250026"
     },
     {
       "rank": 5,
-      "title": "豪雨引發土石流 多處淹水大規模撤離",
-      "dek": "《台北時報》報導，破紀錄雨量造成道路毀損，南部多校停課。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/25/2003863079"
+      "title": "沙德爾夜襲奄美沖繩 風雨強勁",
+      "dek": "日本氣象新聞網站Weathernews報導，沙德爾周二深夜至周三上午通過奄美與沖繩本島之間，當地出現暴風、豪雨、巨浪與暴潮。",
+      "url": "https://weathernews.jp/news/202608/250261/"
     },
     {
       "rank": 6,
-      "title": "沙德爾逼近沖繩 那霸機場戒備強風",
-      "dek": "日本氣象媒體報導，颱風夜間掠過沖繩、奄美，航班恐受影響。",
-      "url": "https://wxtech.weathernews.com/en/news/20260824-01/"
+      "title": "中國颱風預警升至橙色 雙颱來襲",
+      "dek": "新華社報導，中國氣象部門因沙德爾與颱風娜拉雙雙逼近東南沿海，已將颱風預警由黃色提升至橙色，娜拉料本周登陸，沙德爾預計周五襲擊浙閩沿海。",
+      "url": "https://english.news.cn/20260825/5975e660a2574f42af504c2cd364f87d/c.html"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴紫檀登陸海南昌江 續往華南移動",
-      "dek": "新華社報導，紫檀登陸後持續北移，將影響廣西、廣東沿海。",
-      "url": "https://www.news.cn/20260825/d2367009da724c9d9a13591fe88ed01b/c.html"
+      "title": "颱風娜拉滯留外海 越南恐豪雨600毫米",
+      "dek": "VietNamNet報導，颱風娜拉在北部灣一帶滯留並多次改變路徑，越南北部部分地區恐面臨累積雨量超過600毫米的威脅。",
+      "url": "https://vietnamnet.vn/en/storm-narra-stalls-off-vietnam-raising-threat-of-600mm-rainfall-2548002.html"
     },
     {
       "rank": 8,
-      "title": "熱帶低氣壓閃電生成 恐併入沙德爾環流",
-      "dek": "公視新聞網報導，新系統可能改變沙德爾暴風圈範圍與後續路徑。",
-      "url": "https://news.pts.org.tw/article/823777"
+      "title": "越南北部淹水 軍警協助居民撤離",
+      "dek": "《Tuoi Tre News》報導，娜拉帶來的強降雨已在諒山、北寧等省引發淹水與土石流，軍警已協助當地居民撤離。",
+      "url": "https://news.tuoitre.vn/police-military-forces-evacuate-residents-as-storm-narra-triggers-flooding-in-northern-vietnam-103260822175642329.htm"
     },
     {
       "rank": 9,
-      "title": "路徑北修 僅馬祖仍有陸警機率",
-      "dek": "報導指出，台灣本島已移出誤差圈，馬祖為唯一高機率地區。",
-      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E5%8C%97%E4%BF%AE-1%E5%9C%B0%E4%BB%8D%E6%9C%89%E9%99%B8%E8%AD%A6%E6%A9%9F%E7%8E%87-%E9%A2%A8%E9%9B%A8%E6%99%82%E7%A8%8B-%E6%AC%A1%E7%9C%8B-091000881.html"
+      "title": "菲律賓曾估沙德爾恐增強為超級颱風",
+      "dek": "《馬尼拉時報》報導，菲律賓大氣地球物理暨天文服務署24日曾預測沙德爾可能增強為超級颱風，但研判不會直接侵襲菲律賓陸地，該風暴已於隔日離開菲律賓責任區。",
+      "url": "https://www.manilatimes.net/2026/08/24/news/saudel-could-turn-into-super-typhoon/2410543"
     },
     {
       "rank": 10,
-      "title": "即時追蹤：沙德爾中心氣壓降至961百帕",
-      "dek": "Zoom Earth即時資料顯示，颱風正以時速二十二公里向西北西前進。",
-      "url": "https://zoom.earth/storms/saudel-2026/"
+      "title": "熱帶低壓莫克於夏威夷外海消散",
+      "dek": "《檀香山星報》報導，熱帶低壓莫克掠過夏威夷大島後持續減弱，預計周二消散為殘餘低壓，惟大島仍維持豪雨特報。",
+      "url": "https://www.staradvertiser.com/2026/08/24/breaking-news/flood-watch-remains-for-big-island-as-downgraded-moke-heads-west/"
     }
   ]
 }
