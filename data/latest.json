@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T15:16:00+08:00",
+  "generated_at": "2026-08-26T16:11:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署尚未發布海上或陸上颱風警報，惟預期最快將於26日稍晚發布海上颱風警報。",
-  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報，惟預期最快將於26日稍晚發布海上颱風警報。",
+  "alert_text": "中央氣象署尚未發布海上或陸上颱風警報，最新研判將延至週四（27日）清晨才會發布，較稍早預估的週三下午已向後推遲。",
+  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報，最新研判將延至週四（27日）清晨才會發布，較稍早預估的週三下午已向後推遲。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前維持正常上班上課，沙德爾路徑北修後對中台灣無直接影響，僅北部與山區須留意外圍環流雨勢。"
+    "text": "台中目前無直接影響：侵襲機率維持個位數，山區降雨一度接近參考門檻，但市府維持正常上班上課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾北修路徑減弱 中央氣象署最快稍晚發布海上警報",
-    "dek": "暴風圈略為縮小、風速下降，路徑轉向中國浙閩沿海機率升高，台灣本島直接侵襲風險降低，但北部與馬祖仍須提防外圍環流",
+    "title": "沙德爾颱風減弱北偏　海警估週四清晨發布",
+    "dek": "中央氣象署預期沙德爾週四至週五最接近台灣，路徑北移使本島登陸風險降低，台中及中南部地區暫未受明顯影響",
     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
   },
   "items": [
     {
       "rank": 1,
-      "title": "Typhoon Saudel losing strength, CWA reports",
-      "dek": "中央氣象署最新資料顯示，沙德爾暴風半徑與風速雙雙下降，路徑持續北修。",
+      "title": "沙德爾颱風持續減弱，中央氣象署證實",
+      "dek": "受不利大氣及海洋條件影響，沙德爾暴風圈縮小、路徑北移，對台灣本島威脅降低但馬祖及北部海面風險升高。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
     },
     {
       "rank": 2,
-      "title": "Sea warning for Typhoon Saudel likely early tomorrow",
-      "dek": "氣象署評估最快明日發布海上颱風警報，北部與南部山區須留意豪雨。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863172"
+      "title": "海上颱風警報最快週四清晨發布",
+      "dek": "中央氣象署表示海警發布時間由原估週三下午延後至週四清晨，沙德爾當時風速已降至每小時162公里。",
+      "url": "https://focustaiwan.tw/society/202608260011"
     },
     {
       "rank": 3,
-      "title": "颱風沙德爾持續逼近 最快26日下半天發海警",
-      "dek": "中央社報導，氣象署仍在確認沙德爾最終強度與路徑，海上警報最快今日稍晚發布。",
-      "url": "https://www.cna.com.tw/news/ahel/202608250059.aspx"
+      "title": "沙德爾持續減弱，氣象署估週五最接近台灣",
+      "dek": "氣象署預測沙德爾將於週四夜間到週五最接近台灣，為北部、南部及中央山區帶來局部強降雨。",
+      "url": "https://focustaiwan.tw/society/202608250005"
     },
     {
       "rank": 4,
-      "title": "Typhoon Saudel unlikely to make landfall in Taiwan: CWA",
-      "dek": "氣象署研判沙德爾直接登陸台灣機率低，但外圍環流仍將影響北部及離島。",
+      "title": "氣象署：沙德爾登陸台灣機率不高",
+      "dek": "較早的氣象署簡報指出，太平洋高壓引導沙德爾偏向中國沿岸，直接登陸台灣的可能性不高。",
       "url": "https://focustaiwan.tw/society/202608240021"
     },
     {
       "rank": 5,
-      "title": "China's coastal regions on high alert as Typhoon Saudel cancels flights, ferries",
-      "dek": "浙江至福建沿海預防性取消航班與渡輪，桃園機場亦有十六班航班取消。",
-      "url": "https://www.scmp.com/news/china/science/article/3365279/chinas-coastal-regions-high-alert-typhoon-saudel-cancels-flights-ferries"
+      "title": "沙德爾颱風最新動態：路徑、侵襲機率、海警時間一次看",
+      "dek": "最新統計顯示多數台灣縣市侵襲機率降至個位數，僅馬祖、基隆、台北、桃園及金門機率相對較高，停班停課尚未定案。",
+      "url": "https://www.bnext.com.tw/article/91976/saudel-typhoon-latest-updates"
     },
     {
       "rank": 6,
-      "title": "China raises weather alert as two typhoons approach",
-      "dek": "中國氣象部門發布橙色颱風預警，因應沙德爾與另一系統同期逼近沿海。",
-      "url": "https://english.news.cn/20260825/5975e660a2574f42af504c2cd364f87d/c.html"
+      "title": "中國發布颱風橙色警報，沙德爾逼近浙閩沿海、紫檀減弱為熱帶低壓",
+      "dek": "中國氣象部門因沙德爾逼近浙江福建沿海發布橙色颱風警報，並證實另一颱風紫檀已減弱為熱帶低壓。",
+      "url": "https://m.21jingji.com/article/20260826/herald/14aa970133505829c386a2dec88f1fb3.html"
     },
     {
       "rank": 7,
-      "title": "Super Typhoon Saudel may move into northern Guangdong, bringing heavy showers on 1st September",
-      "dek": "香港天文台形容西北太平洋出現罕見「四颱共舞」，沙德爾登陸後恐影響華南天氣至九月初。",
-      "url": "https://www.dimsumdaily.hk/super-typhoon-saudel-may-move-into-northern-guangdong-bringing-heavy-showers-on-1st-september%EF%BF%BC/"
+      "title": "陸氣象單位估沙德爾27至28日登陸閩浙沿海",
+      "dek": "中國中央氣象台預測沙德爾將以颱風或強颱風強度，於27日深夜至28日清晨在浙江象山至福建連江一帶登陸。",
+      "url": "https://udn.com/news/story/7332/9711985"
     },
     {
       "rank": 8,
-      "title": "8/26停班停課最新資訊！高雄、屏東部分地區停班課，全台22縣市公告一次看",
-      "dek": "截至26日僅高雄、屏東部分地區因前系統殘留降雨停班停課，台中等其餘縣市維持正常。",
-      "url": "https://www.businessweekly.com.tw/style/blog/3022305"
+      "title": "沙德爾重創日本西南離島，兩人受傷",
+      "dek": "沙德爾掃過沖繩造成停電、班機大量取消及土石流風險，那霸機場約150班航班取消，兩人受傷。",
+      "url": "https://abcnews.com/International/wireStory/typhoon-saudel-heads-west-after-pounding-japans-southwestern-135961323"
     },
     {
       "rank": 9,
-      "title": "Tropical Storm Narra makes landfall in Hainan",
-      "dek": "今年第19號熱帶氣旋娜拉已在海南、廣東兩度登陸並減弱為熱帶低壓。",
-      "url": "https://www.chinadaily.com.cn/a/202608/25/WS6a8d9d21e4b057c97e209ae7.html"
+      "title": "沙德爾影響，台灣沖繩今日多班機取消或延誤",
+      "dek": "隨著沙德爾掠過琉球群島附近海域，台灣與沖繩間多個航班遭到取消或延誤。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863099"
     },
     {
       "rank": 10,
-      "title": "Tropical Storm Iselle churns in East Pacific as active hurricane season continues",
-      "dek": "美國國家颶風中心追蹤東太平洋熱帶風暴伊塞爾與胡里歐，預料週五前減弱消散，與亞洲局勢無直接關聯。",
-      "url": "https://www.staradvertiser.com/2026/08/25/breaking-news/2-tropical-storms-churn-in-east-pacific-as-active-hurricane-season-continues/"
+      "title": "紫檀颱風生成，一度與沙德爾「雙颱並存」",
+      "dek": "海南島附近熱帶低壓增強為颱風紫檀，一度與沙德爾同時存在，其後路徑轉向廣東且已減弱，對台無直接影響。",
+      "url": "https://news.nextapple.com/life/20260822/96E15BD7001101CBEED853FC0547F59D"
     }
   ]
 }
