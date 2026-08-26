@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T07:11:00+08:00",
+  "generated_at": "2026-08-26T08:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署表示，颱風沙德爾強度持續減弱，截至25日晚間尚未發布海上或陸上颱風警報，預期最快週三（26日）下午發布海上警報，陸上警報則尚未確定是否跟進。",
+  "alert_desc": "中央氣象署證實沙德爾颱風持續減弱、路徑北移，預期今日發布海上颱風警報，但截至目前尚未確認生效，陸上颱風警報則最快週四發布。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。沙德爾路徑預測誤差範圍已排除台灣本島，主要威脅集中於北台灣與馬祖；25日南部縣市停班停課係受西南氣流及低壓槽影響，與沙德爾無直接關聯。台中目前未列入豪雨特報或停班停課名單，暫無風雨影響跡象，請留意後續氣象署與市府公告。"
+    "text": "台中山區列入十九縣市豪雨特報範圍（含彰化、南投），效期至今日上午，提醒雷擊及強陣風，但目前並無停班停課消息，颱風警報對台中的直接衝擊尚未到來，請留意後續氣象署與市府公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾持續減弱轉向 氣象署估周五最接近台灣、海警最快明起發布",
-    "dek": "中央氣象署表示，沙德爾雖強度持續減弱、直撲台灣本島機率降低，但預期周五最接近台灣與馬祖，外圍環流仍可能為北部帶來風雨，同一期間颱風娜拉也持續在中國華南與越南北部釀成嚴重水患。",
-    "url": "https://focustaiwan.tw/society/202608250005"
+    "title": "沙德爾颱風減弱北偏，西太平洋三颱共舞添變數",
+    "dek": "中央氣象署證實沙德爾颱風持續減弱、路徑北移，海上颱風警報預期今日發布但尚未確認生效，台中等十九縣市已發布豪雨特報。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾減弱 氣象署估周五最接近台灣",
-      "dek": "中央氣象署表示，沙德爾暴風半徑已縮小至約220公里，最大風速降至每小時155公里，直接登陸台灣機率降低，但預期周五最接近台灣。",
-      "url": "https://focustaiwan.tw/society/202608250005"
-    },
-    {
-      "rank": 2,
-      "title": "氣象署：沙德爾持續減弱，台灣本島脫離路徑誤差範圍",
-      "dek": "台北時報報導，沙德爾持續朝西北西及西方向移動，預測路徑誤差範圍已不含台灣本島，但北部與馬祖仍可能受外圍環流影響。",
+      "title": "氣象署證實：沙德爾颱風持續減弱",
+      "dek": "台北時報今日報導，中央氣象署證實沙德爾颱風強度持續減弱，暴風圈持續縮小。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
     },
     {
+      "rank": 2,
+      "title": "暴風圈縮小 週五最接近台灣",
+      "dek": "台北時報報導，沙德爾風速與暴風圈明顯縮小，路徑北偏可望減輕台灣降雨衝擊。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863110"
+    },
+    {
       "rank": 3,
-      "title": "沙德爾逐漸減弱變瘦 氣象署估明日下午發布海上警報",
-      "dek": "聯合新聞網引述氣象署資料，沙德爾中心氣壓約950百帕、最大風速每秒40公尺，海上颱風警報最快明日下午發布，陸上警報不排除跟進。",
-      "url": "https://udn.com/news/story/7266/9712369"
+      "title": "氣象署：颱風週五最接近台灣",
+      "dek": "中央社Focus Taiwan報導，氣象署指沙德爾持續減弱，週五將最接近台灣。",
+      "url": "https://focustaiwan.tw/society/202608250005"
     },
     {
       "rank": 4,
-      "title": "沙德爾27、28日最接近台灣 氣象署說明最新路徑",
-      "dek": "TVBS報導，氣象署評估沙德爾將於27日夜間至28日清晨最接近台灣，屆時可能已降為輕度颱風，海上警報最快週三發布。",
-      "url": "https://news.tvbs.com.tw/life/4011700"
+      "title": "撲台機率降 海警估今發布",
+      "dek": "聯合新聞網報導，沙德爾直撲台灣機率降低，氣象署估今日下半天發布海警。",
+      "url": "https://udn.com/news/story/7266/9713359"
     },
     {
       "rank": 5,
-      "title": "沙德爾攪局 桃園往返沖繩航班周三大亂",
-      "dek": "Focus Taiwan報導，中華航空等多家航空公司因應沙德爾取消或改班桃園至那霸航線，酷航也調整沖繩與福州航線班表。",
-      "url": "https://focustaiwan.tw/business/202608250026"
+      "title": "海警最快今日發布 陸警未定",
+      "dek": "央廣英文新聞報導，氣象署評估海警最快今日發布，陸警視颱風移速再議。",
+      "url": "https://rti.org.tw/en/news?pid=228022&uid=3"
     },
     {
       "rank": 6,
-      "title": "颱風逼近沖繩 日本兩大航空取消數百航班",
-      "dek": "日本時報報導，全日空與日本航空合計取消279班航班、影響逾4萬1千名旅客，全日空取消當日所有那霸航線班機。",
-      "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/typhoon-saudel-bears-down-on-okinawa/"
+      "title": "多重天氣系統夾擊 豪雨恐持續整週",
+      "dek": "台北時報報導，沙德爾與季風等多重系統交互作用，本週台灣豪雨恐將持續。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863044"
     },
     {
       "rank": 7,
-      "title": "西南氣流釀豪雨 南部縣市連兩天停班停課",
-      "dek": "風傳媒報導，與沙德爾無直接關聯的低壓槽及西南氣流，已致台南、高雄、屏東25日停班停課，屏東更是連續第二天，嘉義、花蓮、台東同受影響。",
-      "url": "https://www.storm.mg/lifestyle/11158719"
+      "title": "颱風逼近 台沖航班受擾",
+      "dek": "台北時報報導，沙德爾颱風逼近琉球群島，今日台灣與沖繩間多班機受影響。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863099"
     },
     {
       "rank": 8,
-      "title": "颱風娜拉重創廣西 逾5萬人撤離",
-      "dek": "東方先驅報報導，娜拉強降雨已致廣西逾5萬4千人撤離、逾8千人入住安置所，10條河流超過警戒水位，中國已啟動四級救災應變。",
-      "url": "https://easternherald.com/2026/08/25/typhoon-narra-china-guangxi-flooding-54000-evacuated/"
+      "title": "紫檀未登陸 廣西已淹水疏散逾五萬人",
+      "dek": "自由時報報導，颱風紫檀外圍環流已致廣西水患，當地緊急疏散逾五萬四千人。",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5551972"
     },
     {
       "rank": 9,
-      "title": "娜拉遠離越南再度轉向 預計廣西二度登陸",
-      "dek": "越南網報導，娜拉已減弱並逐漸遠離越南，預料轉向北部灣後於27日左右在廣西再度登陸，屆時強度將降為熱帶性低氣壓。",
-      "url": "https://vietnamnet.vn/en/typhoon-narra-moves-away-from-vietnam-changes-course-again-2548912.html"
+      "title": "氣象署不採認「簡拉維」颱風",
+      "dek": "聯合新聞網報導，日本將宮古島系統升格颱風，台灣氣象署評估尚未達颱風強度。",
+      "url": "https://udn.com/news/story/7266/9708734"
     },
     {
       "rank": 10,
-      "title": "娜拉肆虐中國南方 多城市街道淹沒",
-      "dek": "清萊時報報導，娜拉為廣西、廣東、福建及海南帶來嚴重水患與設施損害，越南諒山省逾4千戶住宅受損。",
-      "url": "https://www.chiangraitimes.com/china/typhoon-narra-china/"
+      "title": "颱風納爾拉重創越南北部",
+      "dek": "外媒VnExpress報導，納爾拉豪雨釀越南北部一死，逾四千三百戶房屋受災。",
+      "url": "https://e.vnexpress.net/news/news/environment/storm-narra-leaves-one-dead-triggers-widespread-flooding-landslides-across-northern-vietnam-5112592.html"
     }
   ]
 }
