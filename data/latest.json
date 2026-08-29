@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T17:10:00+08:00",
+  "generated_at": "2026-08-29T18:09:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於週五（28日）下午2時30分解除颱風沙德爾的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效。",
-  "alert_desc": "中央氣象署已於週五（28日）下午2時30分解除颱風沙德爾的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效。",
+  "alert_text": "中央氣象署已於8月28日下午2時30分解除颱風薩鴻的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因西南風影響發布一般性豪雨特報。",
+  "alert_desc": "中央氣象署已於8月28日下午2時30分解除颱風薩鴻的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因西南風影響發布一般性豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。8月29日氣象署發布的大雨/豪雨特報範圍集中在屏東、台南、高雄、嘉義及台東等南部地區，台中並未列入警戒範圍；沙德爾颱風海上警報已於8月28日解除，亦無停班停課公告，故台中現階段無颱風或豪雨直接影響。"
+    "text": "台中山區已被中央氣象署列入8月29日豪雨特報的警戒範圍，受西南風影響午後對流旺盛，山區有局部大雨發生機率，需慎防落石、坍方及強陣風；但目前無颱風直接侵襲，也未有停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾颱風登陸中國、台灣海警解除　南部仍須防豪雨強對流",
-    "dek": "今年第18號颱風沙德爾週五在中國浙江兩度登陸，台灣中央氣象署已解除海上颱風警報，但西南風效應持續為南部帶來豪雨與雷擊風險，而菲律賓外海及東太平洋則有新一波熱帶系統正在醞釀。",
-    "url": "https://news.tvbs.com.tw/life/4011700"
+    "title": "薩鴻颱風登陸浙江後急速減弱　台灣無颱風警報但西南風挾豪雨襲15縣市山區",
+    "dek": "中央氣象署已解除海上颱風警報，但受西南風影響，台中、高雄、台南及屏東等地山區今日仍須嚴防短時強降雨與土石災害。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
   },
   "items": [
     {
       "rank": 1,
-      "title": "西南風增強 氣象署對南部五縣市發布豪雨特報",
-      "dek": "中央氣象署週六上午發布大雨特報，警告屏東有豪雨、雲嘉南及高雄亦有大雨，並提醒防範雷擊、強陣風與溪水暴漲。",
-      "url": "https://newtalk.tw/news/view/2026-08-29/1056435"
+      "title": "薩鴻海上颱風警報解除 氣象署：陸上警報從未發布",
+      "dek": "隨著薩鴻遠離台灣海域轉向中國，中央氣象署宣布解除海上颱風警報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
     },
     {
       "rank": 2,
-      "title": "沙德爾颱風在中國浙江二度登陸 班機船班大亂",
-      "dek": "沙德爾颱風週五清晨先後在浙江台州玉環及溫州登陸，最大陣風達每小時126公里，導致寧波與上海航班及渡輪服務中斷，溫州逾百架次班機停飛。",
-      "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
+      "title": "颱風薩鴻登陸浙江 應變響應曾升至最高等級",
+      "dek": "中國新聞社報導，薩鴻挾12級強風兩度登陸浙江沿岸，浙江省一度啟動第一級應急響應。",
+      "url": "http://www.ecns.cn/cns-wire/2026-08-28/detail-ihfirzsm0920311.shtml"
     },
     {
       "rank": 3,
-      "title": "中國東部沿海發布颱風紅色警報 沙德爾正面登陸",
-      "dek": "新華社報導，今年第18號颱風沙德爾登陸浙江時中心風力達12級，中國氣象部門預測暴風將持續西南移並逐步減弱。",
+      "title": "薩鴻清晨登陸浙江台州 最大風速每秒35公尺",
+      "dek": "薩鴻於28日上午8時5分登陸浙江玉環市，隨後減弱，當地港口陸續恢復開放。",
       "url": "http://www.china.org.cn/2026-08/28/content_118668270.shtml"
     },
     {
       "rank": 4,
-      "title": "台灣氣象署下午2時30分解除沙德爾海上颱風警報",
-      "dek": "《TVBS新聞》報導，中央氣象署宣布解除生效約30小時的海上颱風警報，沙德爾全程未直接登陸台灣，僅掠過馬祖外海後轉往中國浙江。",
-      "url": "https://news.tvbs.com.tw/life/4011700"
+      "title": "薩鴻持續減弱 預估29至30日降為熱帶低氣壓",
+      "dek": "登陸後風速明顯減弱，中國氣象部門預期薩鴻深入內陸後將於本週末退化為熱帶低氣壓。",
+      "url": "https://meteonews.ch/en/News/N16758/Typhoon-Saudel"
     },
     {
       "rank": 5,
-      "title": "沙德爾颱風警報全解除 路徑雨量強風紀錄一次回顧",
-      "dek": "《商業周刊》整理沙德爾颱風自海上警報發布到解除近30小時、共11報的完整動態，並彙整期間台灣各地雨量、風速與高溫紀錄。",
-      "url": "https://www2.businessweekly.com.tw/focus/blog/3022336"
+      "title": "西南風增強 15縣市發布豪、大雨特報",
+      "dek": "中央氣象署針對新北以南15縣市發布豪雨特報，台中山區亦在警戒範圍內，籲請民眾防範強降雨與強陣風。",
+      "url": "https://www.chinatimes.com/realtimenews/20260829002030-260405"
     },
     {
       "rank": 6,
-      "title": "低壓區進入菲律賓責任海域 48小時內恐增強為颱風畢拉洛克",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，一低壓區已進入責任海域，雖直接登陸機率低，但預料將增強西南季風、為呂宋及維薩亞斯西部帶來豪雨。",
-      "url": "https://www.philstar.com/pilipino-star-ngayon/bansa/2026/08/28/2552333/bagyong-pilantok-pumasok-na-sa-par"
+      "title": "低壓帶挾強勁西南風 台南高雄屏東山區防超大豪雨",
+      "dek": "氣象署警告，低壓帶與偏強西南季風持續影響南部山區，恐引發土石流與淹水災害。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5549913"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴洛威爾恐增強為颶風 路徑牽動夏威夷下週天氣",
-      "dek": "《檀香山明星廣告報》報導，洛威爾預計週一增強為時速125英里的強烈三級颶風，預報人員正密切觀察其是否轉向威脅夏威夷。",
-      "url": "https://www.staradvertiser.com/2026/08/28/breaking-news/tropical-storm-lowell-expected-to-move-into-central-pacific-next-week/"
+      "title": "西南季風增強 週六將為呂宋及維薩亞斯帶來豪雨",
+      "dek": "菲律賓氣象單位PAGASA表示，受熱帶擾動「Pilantok」牽引，西南季風將為呂宋多地帶來上看200毫米降雨。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1000223/southwest-monsoon-or-habagat-to-drench-luzon-and-visayas-on-saturday-aug-29-2026/story/"
     },
     {
       "rank": 8,
-      "title": "颶風卡琳娜增強逼近強颶風等級 墨西哥沿岸慎防危險激浪",
-      "dek": "卡琳娜的最大持續風速預計於8月31日前增強至每小時125英里，美國國家颶風中心警告墨西哥西南沿岸及下加利福尼亞半島恐出現危及生命的激浪與離岸流。",
-      "url": "https://watchers.news/2026/08/28/tropical-storm-karina-forecast-to-reach-major-hurricane-strength-bringing-hazardous-swells-to-mexico-as-lowell-strengthens/"
+      "title": "熱帶擾動Pilantok進入菲律賓責任區 48小時內恐增強為熱帶風暴",
+      "dek": "PAGASA指出，該系統目前登陸菲律賓機率偏低，但將持續強化西南季風至9月1日。",
+      "url": "https://www.philstar.com/pilipino-star-ngayon/bansa/2026/08/28/2552333/bagyong-pilantok-pumasok-na-sa-par"
     },
     {
       "rank": 9,
-      "title": "大西洋熱帶風暴多莉生成後迅速瓦解 未及抵達加勒比海即消散",
-      "dek": "《CBS新聞》報導，今年大西洋第四個命名風暴多莉在強烈風切影響下，形成不到24小時環流即告瓦解，殘餘水氣預料仍將為背風群島及海地等地帶來強降雨。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-dolly-forms-atlantic-ocean/"
+      "title": "卡琳娜預估增強為強烈颶風 墨西哥沿岸將出現危險湧浪",
+      "dek": "美國國家颶風中心預測，熱帶風暴卡琳娜將於8月31日達到強烈颶風強度，同時羅威爾也持續增強。",
+      "url": "https://watchers.news/2026/08/28/tropical-storm-karina-forecast-to-reach-major-hurricane-strength-bringing-hazardous-swells-to-mexico-as-lowell-strengthens/"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季開局創數十年最冷清紀錄",
-      "dek": "《The Weather Channel》報導，截至8月下旬僅生成三個命名風暴且尚無颶風出現，符合美國國家海洋暨大氣總署預測今年有75%機率低於正常活躍度。",
-      "url": "https://weather.com/2026/08/21/storms/hurricane/atlantic-hurricane-season-least-active-start-in-decades"
+      "title": "羅威爾預估增強為颶風 下週將進入中太平洋",
+      "dek": "羅威爾風速已達每小時45英里，預計週日夜間至週一增強為颶風，並有機會達到二級颶風強度。",
+      "url": "https://www.staradvertiser.com/2026/08/28/breaking-news/tropical-storm-lowell-expected-to-move-into-central-pacific-next-week/"
     }
   ]
 }
