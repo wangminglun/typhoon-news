@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T02:11:00+08:00",
+  "generated_at": "2026-08-30T03:10:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於8月28日下午解除颱風蘇迪羅的海上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟新生成的低壓帶結合西南氣流恐為中南部再度帶來降雨。",
-  "alert_desc": "中央氣象署已於8月28日下午解除颱風蘇迪羅的海上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟新生成的低壓帶結合西南氣流恐為中南部再度帶來降雨。",
+  "alert_text": "中央氣象署已於8月28日下午解除輕颱蘇迪爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟西南氣流結合低壓環流持續為中南部帶來豪雨。",
+  "alert_desc": "中央氣象署已於8月28日下午解除輕颱蘇迪爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟西南氣流結合低壓環流持續為中南部帶來豪雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，也未發布停班停課，惟氣象署提醒西南氣流延伸水氣恐使台中、南投等地出現短暫強降雨。"
+    "text": "台中目前列入中央氣象署15縣市豪雨特報範圍，西南氣流與旺盛對流雲系恐帶來雷擊、強陣風及局部淹水，惟此為一般性豪雨特報，非颱風警報，台中未受任何颱風直接影響，市府亦未宣布停班停課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風蘇迪羅減弱北台無警報　但西南水氣未歇、太平洋洋面持續活躍",
-    "dek": "中央氣象署已解除蘇迪羅海上颱風警報，但西南氣流恐為中南部再帶降雨，同時西太平洋兩個系統正上演罕見的藤原效應互旋。",
+    "title": "颱風警報全面解除 西南氣流接手威脅台灣中南部 台中等15縣市豪雨特報",
+    "dek": "輕颱蘇迪爾在中國浙江登陸後減弱消散，中央氣象署解除海上颱風警報，但西南氣流與低壓環流持續為台灣帶來致災性豪雨，菲律賓則因西南季風「哈邦尬」豪雨已釀成道路淹水與橋梁坍塌。",
     "url": "https://focustaiwan.tw/society/202608290004"
   },
   "items": [
     {
       "rank": 1,
-      "title": "蘇迪羅遠離後 氣象署示警下週低壓系統將為台灣帶來不穩定天氣",
-      "dek": "中央氣象署預測，新生成的低壓帶結合西南氣流，將使中南部自下週起轉為多雨不穩定天候。",
-      "url": "https://focustaiwan.tw/society/202608290004"
+      "title": "蘇迪爾登陸浙江後減弱 氣象署解除海上颱風警報",
+      "dek": "中央氣象署於8月28日下午2時30分解除輕颱蘇迪爾海上颱風警報，此風暴已在中國浙江沿岸登陸並持續遠離台灣。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
     },
     {
       "rank": 2,
-      "title": "蘇迪羅減弱登陸中國 氣象署解除海上颱風警報",
-      "dek": "中央氣象署於28日下午2時30分解除蘇迪羅海上颱風警報，當時風暴已減弱並登陸浙江。",
+      "title": "氣象署正式解除蘇迪爾海上颱風警報",
+      "dek": "中央社報導，中央氣象署宣布蘇迪爾已減弱為輕度颱風並登陸中國大陸，對台灣海域已無威脅，正式解除海上警報。",
       "url": "https://focustaiwan.tw/society/202608280012"
     },
     {
       "rank": 3,
-      "title": "警報雖解除 氣象署仍警示西南氣流恐為中南部帶來強降雨",
-      "dek": "氣象署指出，蘇迪羅牽引的西南風仍可能為屏東、高雄山區及中部部分地區帶來短暫豪雨。",
+      "title": "颱風雖減弱 氣象署：台灣仍將迎豪雨",
+      "dek": "中央社報導，蘇迪爾8月28日清晨5時減弱為輕度颱風，但氣象署警告多重天氣系統交互作用，南台灣仍將出現豪雨到超大豪雨。",
       "url": "https://focustaiwan.tw/society/202608280005"
     },
     {
       "rank": 4,
-      "title": "高雄三日雨量913毫米創新高 超越莫拉克紀錄",
-      "dek": "低壓系統與西南季風為南台灣帶來破紀錄雨量，導致班機受阻並造成至少一人死亡。",
-      "url": "https://www.taiwannews.com.tw/news/6427407"
+      "title": "蘇迪爾減弱仍不放鬆 南台灣豪雨特報持續",
+      "dek": "《台北時報》報導，儘管蘇迪爾減弱，氣象署仍因外圍環流與季風水氣預報南部及東南部台灣將有強降雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863291"
     },
     {
       "rank": 5,
-      "title": "太平洋罕見「雙颱共舞」 梧提與艾陶展開藤原效應互旋",
-      "dek": "兩個在威克島附近生成的熱帶系統彼此牽引旋轉，但路徑均遠離陸地，暫無登陸威脅。",
-      "url": "https://www.mvariety.com/news/local/an-unusual-pacific-dance-20w-etau-begin-fujiwhara-interaction/article_01220f04-9c34-41af-b681-f30800946a95.html"
+      "title": "低壓系統醞釀 氣象署示警下週天氣不穩定",
+      "dek": "中央社報導，氣象署指出蘇迪爾遠離後新生低壓系統結合西南風，下週台灣中南部恐持續降雨且不排除熱帶系統進一步發展。",
+      "url": "https://focustaiwan.tw/society/202608290004"
     },
     {
       "rank": 6,
-      "title": "日本氣象廳證實颱風梧提於威克島附近生成",
-      "dek": "日本氣象廳指出，颱風梧提目前強度偏弱，向東北移動，預料不會影響台灣、日本或菲律賓。",
-      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
+      "title": "大雨猛灌！15縣市發布特報 氣象署籲嚴防雷擊積水",
+      "dek": "Newtalk報導，氣象署8月29日下午針對台中、台南、高雄、屏東等15縣市發布大雨特報，警戒雷擊、強陣風及淹水風險至午夜。",
+      "url": "https://newtalk.tw/news/view/2026-08-29/1056477"
     },
     {
       "rank": 7,
-      "title": "大西洋多莉減弱之際 太平洋熱帶風暴卡莉娜、羅威爾同步生成",
-      "dek": "三個熱帶系統同時活躍於大西洋與太平洋，其中卡莉娜與羅威爾預計增強為颶風但不威脅陸地。",
-      "url": "https://www.nbcnews.com/news/us-news/tropical-storms-karina-lowell-form-pacific-ocean-dolly-churns-atlantic-rcna594852"
+      "title": "西南風及對流雲系旺盛 午後豪大雨區擴及15縣市",
+      "dek": "《台中時報》報導，台中在西南氣流與旺盛對流雲系影響下納入豪雨警戒範圍，降雨區擴大至15縣市並持續至晚間。",
+      "url": "https://www.taichungtimes.com/archives/187309"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴羅威爾朝中太平洋移動 預計增強為二級颶風",
-      "dek": "羅威爾目前位於夏威夷大島東南方約1370英里處，預測強度將持續增強但不會登陸。",
-      "url": "https://www.staradvertiser.com/2026/08/29/breaking-news/tropical-storm-lowell-expected-to-strengthen-as-it-heads-to-central-pacific/"
-    },
-    {
-      "rank": 9,
-      "title": "西南季風「哈巴牙特」襲呂宋與米沙鄢 馬尼拉部分道路淹水",
-      "dek": "PAGASA表示，增強的西南季風已為呂宋、米沙鄢及馬尼拉都會區帶來降雨與局部淹水。",
+      "title": "西南季風哈邦尬來襲 呂宋、維薩亞斯周六恐豪雨成災",
+      "dek": "GMA新聞網報導，PAGASA預測北呂宋多省降雨量達100至200毫米，馬尼拉大都會周邊亦有50至100毫米，恐引發淹水與土石流。",
       "url": "https://www.gmanetwork.com/news/weather/content/1000223/southwest-monsoon-or-habagat-to-drench-luzon-and-visayas-on-saturday-aug-29-2026/story/"
     },
     {
+      "rank": 9,
+      "title": "馬尼拉大都會發布紅色豪雨警報 哈邦尬釀淹水成災",
+      "dek": "ASTIG.ph報導，PAGASA對馬尼拉大都會及呂宋多地發布紅色豪雨警報，持續豪雨已致打拉省橋梁坍塌，拉美莎水壩水位逼近溢流。",
+      "url": "https://astig.ph/red-rainfall-warning-metro-manila-luzon-habagat-floods-august-29-2026/"
+    },
+    {
       "rank": 10,
-      "title": "PAGASA監控兩處低壓區 一旦成形將命名為「琵蘭多」",
-      "dek": "菲律賓氣象機構評估其中一個低壓區有「偏高」機率發展為熱帶低氣壓，但暫無立即登陸跡象。",
-      "url": "https://mb.com.ph/2026/08/28/pagasa-monitors-2-lpas-with-potential-to-become-tropical-depressions"
+      "title": "威克島外海雙颱共舞 邦朗颱風生成",
+      "dek": "日本氣象廳證實第23號颱風邦朗於威克島附近形成，正與艾陶颱風呈現藤原效應互旋，雙颱北移，暫未威脅任何陸地。",
+      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
     }
   ]
 }
