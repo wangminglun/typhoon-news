@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T18:09:00+08:00",
+  "generated_at": "2026-08-29T19:10:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於8月28日下午2時30分解除颱風薩鴻的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因西南風影響發布一般性豪雨特報。",
-  "alert_desc": "中央氣象署已於8月28日下午2時30分解除颱風薩鴻的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因西南風影響發布一般性豪雨特報。",
+  "alert_text": "中央氣象署已於8月28日下午2時30分解除颱風薩鴻的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因西南氣流影響發布一般性豪雨特報。",
+  "alert_desc": "中央氣象署已於8月28日下午2時30分解除颱風薩鴻的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因西南氣流影響發布一般性豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中山區已被中央氣象署列入8月29日豪雨特報的警戒範圍，受西南風影響午後對流旺盛，山區有局部大雨發生機率，需慎防落石、坍方及強陣風；但目前無颱風直接侵襲，也未有停班停課公告。"
+    "text": "目前並無任何颱風警報涵蓋台中，僅因鋒面與西南氣流影響被納入豪雨特報，8月29日預估為局部午後雷陣雨天氣；未有停班停課公告，也無風力警報，目前無直接颱風影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "薩鴻颱風登陸浙江後急速減弱　台灣無颱風警報但西南風挾豪雨襲15縣市山區",
-    "dek": "中央氣象署已解除海上颱風警報，但受西南風影響，台中、高雄、台南及屏東等地山區今日仍須嚴防短時強降雨與土石災害。",
+    "title": "颱風薩鴻登陸浙江後遠離台灣 南部與馬祖仍受風雨威脅",
+    "dek": "中央氣象署已解除海上颱風警報，但外圍環流與西南氣流持續為台灣南部、東南部及馬祖帶來豪雨與長浪。",
     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
   },
   "items": [
     {
       "rank": 1,
-      "title": "薩鴻海上颱風警報解除 氣象署：陸上警報從未發布",
-      "dek": "隨著薩鴻遠離台灣海域轉向中國，中央氣象署宣布解除海上颱風警報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+      "title": "颱風薩鴻兩度登陸浙江 航班渡輪大亂",
+      "dek": "根據《南華早報》報導，薩鴻以最高12級風力兩度登陸浙江，寧波與上海航運交通受阻，成為今年第三個襲擊當地的強颱。",
+      "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
     },
     {
       "rank": 2,
-      "title": "颱風薩鴻登陸浙江 應變響應曾升至最高等級",
-      "dek": "中國新聞社報導，薩鴻挾12級強風兩度登陸浙江沿岸，浙江省一度啟動第一級應急響應。",
-      "url": "http://www.ecns.cn/cns-wire/2026-08-28/detail-ihfirzsm0920311.shtml"
+      "title": "氣象署解除薩鴻海上颱風警報",
+      "dek": "《台北時報》報導，中央氣象署因風暴轉向中國而解除海上颱風警報，但外圍雨帶仍威脅馬祖與周邊海域。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
     },
     {
       "rank": 3,
-      "title": "薩鴻清晨登陸浙江台州 最大風速每秒35公尺",
-      "dek": "薩鴻於28日上午8時5分登陸浙江玉環市，隨後減弱，當地港口陸續恢復開放。",
-      "url": "http://www.china.org.cn/2026-08/28/content_118668270.shtml"
+      "title": "薩鴻減弱 南台灣豪雨未歇",
+      "dek": "《台北時報》報導，外圍雨帶結合西南氣流為南部與東南部帶來豪雨，適逢大潮使低窪沿海淹水風險升高。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863291"
     },
     {
       "rank": 4,
-      "title": "薩鴻持續減弱 預估29至30日降為熱帶低氣壓",
-      "dek": "登陸後風速明顯減弱，中國氣象部門預期薩鴻深入內陸後將於本週末退化為熱帶低氣壓。",
-      "url": "https://meteonews.ch/en/News/N16758/Typhoon-Saudel"
+      "title": "薩鴻掠過馬祖 氣象署籲防豪雨淹水",
+      "dek": "《台北時報》報導，南部持續降雨、馬祖海象轉惡，北部與東部海岸包括恆春半島、綠島、蘭嶼出現逾兩公尺長浪。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/28/2003863265"
     },
     {
       "rank": 5,
-      "title": "西南風增強 15縣市發布豪、大雨特報",
-      "dek": "中央氣象署針對新北以南15縣市發布豪雨特報，台中山區亦在警戒範圍內，籲請民眾防範強降雨與強陣風。",
-      "url": "https://www.chinatimes.com/realtimenews/20260829002030-260405"
+      "title": "颱風娜拉先發襲擊 廣西海南廣東淹水",
+      "dek": "《環球時報》報導，娜拉觸發國家四級防汛應急響應，廣西受災約6.1萬人、逾5.4萬人撤離，三個太平洋風暴同時活躍。",
+      "url": "https://www.globaltimes.cn/page/202608/1368996.shtml"
     },
     {
       "rank": 6,
-      "title": "低壓帶挾強勁西南風 台南高雄屏東山區防超大豪雨",
-      "dek": "氣象署警告，低壓帶與偏強西南季風持續影響南部山區，恐引發土石流與淹水災害。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5549913"
+      "title": "風暴接連來襲 中國沿海數萬人緊急撤離",
+      "dek": "《自由今日大馬》報導，繼娜拉之後薩鴻逼近，廣東、廣西、海南、福建與浙江等地展開大規模防災撤離。",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/26/china-prepares-for-more-heavy-rain-from-back-to-back-storms"
     },
     {
       "rank": 7,
-      "title": "西南季風增強 週六將為呂宋及維薩亞斯帶來豪雨",
-      "dek": "菲律賓氣象單位PAGASA表示，受熱帶擾動「Pilantok」牽引，西南季風將為呂宋多地帶來上看200毫米降雨。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1000223/southwest-monsoon-or-habagat-to-drench-luzon-and-visayas-on-saturday-aug-29-2026/story/"
+      "title": "薩鴻逼近 台灣沖繩航班取消",
+      "dek": "《台北時報》報導，隨著薩鴻接近，台灣與沖繩之間的航班在風暴逼近前已宣布取消。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863099"
     },
     {
       "rank": 8,
-      "title": "熱帶擾動Pilantok進入菲律賓責任區 48小時內恐增強為熱帶風暴",
-      "dek": "PAGASA指出，該系統目前登陸菲律賓機率偏低，但將持續強化西南季風至9月1日。",
-      "url": "https://www.philstar.com/pilipino-star-ngayon/bansa/2026/08/28/2552333/bagyong-pilantok-pumasok-na-sa-par"
+      "title": "熱帶風暴「梅梅」挾季風重創呂宋",
+      "dek": "據《GMA新聞網》報導，菲律賓氣象署將其命名為梅梅，受西南季風增強影響，馬尼拉大都會等地出現強降雨、淹水與土石流。",
+      "url": "https://www.gmanetwork.com/news/weather/content/996482/2-to-4-tropical-cyclones-likely-to-enter-par-in-august-pagasa/story/"
     },
     {
       "rank": 9,
-      "title": "卡琳娜預估增強為強烈颶風 墨西哥沿岸將出現危險湧浪",
-      "dek": "美國國家颶風中心預測，熱帶風暴卡琳娜將於8月31日達到強烈颶風強度，同時羅威爾也持續增強。",
-      "url": "https://watchers.news/2026/08/28/tropical-storm-karina-forecast-to-reach-major-hurricane-strength-bringing-hazardous-swells-to-mexico-as-lowell-strengthens/"
+      "title": "超級颱風辛樂克 今年最強風暴回顧",
+      "dek": "《The Weather Network》報導，該颱風巔峰風速達每小時185英里，重創塞班島與天寧島，造成17人罹難、損失逾4.58億美元。",
+      "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/meet-the-worlds-strongest-storm-in-2026-so-far-super-typhoon-sinlaku"
     },
     {
       "rank": 10,
-      "title": "羅威爾預估增強為颶風 下週將進入中太平洋",
-      "dek": "羅威爾風速已達每小時45英里，預計週日夜間至週一增強為颶風，並有機會達到二級颶風強度。",
-      "url": "https://www.staradvertiser.com/2026/08/28/breaking-news/tropical-storm-lowell-expected-to-move-into-central-pacific-next-week/"
+      "title": "大西洋風季持續平靜 NOAA維持低於正常預測",
+      "dek": "美國國家海洋暨大氣總署表示，目前僅出現兩個命名風暴、尚無颶風生成，維持今年颶風季偏弱的展望。",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
     }
   ]
 }
