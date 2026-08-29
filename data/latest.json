@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T04:10:00+08:00",
+  "generated_at": "2026-08-30T05:09:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於8月28日下午解除輕颱蘇迪爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟大低壓帶籠罩全台，西南氣流持續為中南部帶來豪雨。",
-  "alert_desc": "中央氣象署已於8月28日下午解除輕颱蘇迪爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟大低壓帶籠罩全台，西南氣流持續為中南部帶來豪雨。",
+  "alert_text": "目前無警報",
+  "alert_desc": "中央氣象署已於8月28日下午解除颱風沙德爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟西南氣流持續為中南部及台中等15縣市帶來大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風直接影響，市府亦未宣布停班停課，惟已列入中央氣象署8月29日發布的15縣市豪雨特報範圍，山區須留意大雨、雷擊及局部積淹水風險。"
+    "text": "台中目前無颱風警報等級直接影響，市府亦未宣布停班停課；台中已列入中央氣象署8月29日下午發布、有效至8月30日凌晨零時的15縣市大雨特報範圍，因西南氣流疊加午後對流，山區須留意大雨、雷擊及局部積淹水風險。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風警報全面解除 西南氣流接手 台中等15縣市發布豪雨特報",
-    "dek": "蘇迪爾減弱登陸中國浙江後，中央氣象署解除海上警報，但大低壓帶籠罩全台，南部持續有豪雨，不排除醞釀新颱風。",
-    "url": "https://focustaiwan.tw/society/202608280012"
+    "title": "颱風警報全數解除 台灣暫時喘息 但西南氣流大雨未歇",
+    "dek": "中央氣象署解除沙德爾海上颱風警報後，台灣目前無颱風警報生效，但西南氣流仍為中南部及台中等15縣市帶來大雨特報，氣象單位並持續觀察南海及菲律賓外海醞釀中的新一波熱帶系統。",
+    "url": "https://focustaiwan.tw/society/202608280005"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署解除蘇迪爾海上颱風警報",
-      "dek": "蘇迪爾減弱為輕颱等級並於浙江登陸後，中央氣象署下午解除海上警報。",
-      "url": "https://focustaiwan.tw/society/202608280012"
-    },
-    {
-      "rank": 2,
-      "title": "蘇迪爾雖減弱 南部仍降下豪雨",
-      "dek": "台北時報報導，屏東出現超大豪雨，嘉南高一帶亦受外圍環流及西南風影響。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863291"
-    },
-    {
-      "rank": 3,
-      "title": "氣象署證實颱風減弱 仍籲防豪雨山區土石流",
-      "dek": "中央氣象署清晨確認蘇迪爾降為熱帶風暴等級，警告山區坍方與低窪淹水風險。",
+      "title": "颱風沙德爾減弱仍持續為台灣南部帶來豪雨",
+      "dek": "沙德爾週五清晨減弱為熱帶風暴，中央氣象署仍對嘉義、台南、高雄發布大雨特報，屏東縣則發布超大豪雨特報。",
       "url": "https://focustaiwan.tw/society/202608280005"
     },
     {
+      "rank": 2,
+      "title": "氣象署解除沙德爾海上颱風警報",
+      "dek": "中央氣象署8月28日下午2時30分解除海上颱風警報，發布約30小時後畫下句點，但提醒中南部仍須防範廣義低壓系統帶來的豪雨。",
+      "url": "https://news.tvbs.com.tw/life/4011700"
+    },
+    {
+      "rank": 3,
+      "title": "颱風娜拉二度登陸中國廣東",
+      "dek": "今年第19號颱風娜拉先於8月25日登陸海南，翌日再於廣東徐聞二度登陸，廣西、海南兩地已緊急撤離數萬居民。",
+      "url": "https://english.news.cn/20260826/deb6048041b14d26b74ca41ad9fa1403/c.html"
+    },
+    {
       "rank": 4,
-      "title": "海上颱風警報解除 屏東大漢山雨量破330毫米",
-      "dek": "台北時報報導，屏東累積驚人雨量，蘭嶼一度測得11級強陣風。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+      "title": "颱風艾坦尼生成 完成罕見「四颱同框」",
+      "dek": "今年第21號颱風艾坦尼在台北東南方約1970公里處形成，與沙德爾、娜拉、凱納里並列同時活躍的熱帶氣旋，但預期不會顯著影響中國大陸。",
+      "url": "https://www.globaltimes.cn/page/202608/1368893.shtml"
     },
     {
       "rank": 5,
-      "title": "大低壓帶包圍台灣 不排除有熱帶擾動成颱",
-      "dek": "Newtalk新聞報導，氣象署示警未來一週天氣不穩，擾動最快9月2、3日逼近台灣。",
-      "url": "https://newtalk.tw/news/view/2026-08-29/1056515"
+      "title": "四熱帶氣旋同時盤旋 華南嚴陣以待",
+      "dek": "沙德爾、娜拉、凱納里與艾坦尼同時活躍於西北太平洋及南海，其中凱納里已在福建泉州附近登陸並減弱消散。",
+      "url": "https://ibcworldnews.com/2026/08/26/back-to-back-storms-batter-southern-china/"
     },
     {
       "rank": 6,
-      "title": "15縣市發布豪雨特報 氣象署籲嚴防雷擊積水",
-      "dek": "Newtalk新聞報導，西南風挾帶對流雲系來襲，台中、屏東等15縣市同列警戒範圍。",
-      "url": "https://newtalk.tw/news/view/2026-08-29/1056477"
+      "title": "颱風邦朗於威克島附近生成",
+      "dek": "颱風邦朗8月28日在威克島附近形成並近距離掠過，截至8月29日清晨最大持續風速已達每小時約139公里，對台灣及菲律賓均無威脅。",
+      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
     },
     {
       "rank": 7,
-      "title": "未來一週低壓籠罩全台有雨 南海菲律賓恐再增兩颱",
-      "dek": "自由時報報導，氣象署評估南海至菲律賓一帶未來恐有兩個新颱風醞釀成形。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555785"
+      "title": "熱帶風暴艾陶於太平洋公海持續北移",
+      "dek": "截至8月29日清晨，艾陶位於威克島以北約536浬海面，持續向北移動，目前尚未對任何陸地構成威脅。",
+      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
     },
     {
       "rank": 8,
-      "title": "西南季風增強 菲律賓呂宋12地區降雨",
-      "dek": "Rappler報導，PAGASA示警西南季風為馬尼拉等呂宋地區帶來降雨，並追蹤一低壓區動向。",
-      "url": "https://www.rappler.com/philippines/weather/low-pressure-area-southwest-monsoon-pagasa-forecast-august-29-2026-5pm/"
+      "title": "大雨特報籠罩全台15縣市",
+      "dek": "中央氣象署8月29日下午發布大雨特報，涵蓋新北、台中、台南、高雄、屏東等15縣市，警告慎防雷擊、強陣風及坡地災害。",
+      "url": "https://newtalk.tw/news/view/2026-08-29/1056477"
     },
     {
       "rank": 9,
-      "title": "PAGASA監測兩個低壓區 恐發展為熱帶性低氣壓",
-      "dek": "Manila Bulletin報導，其中一低壓區24小時內有中等機率成形，未來或命名「Pilandok」。",
-      "url": "https://mb.com.ph/2026/08/28/pagasa-monitors-2-lpas-with-potential-to-become-tropical-depressions"
+      "title": "PAGASA：西南季風增強 呂宋發布紅色豪雨警戒",
+      "dek": "菲律賓大氣總署監測一低壓區位於巴丹群島東北方約520公里處，西南季風增強並對三描禮士、巴丹省等地引發嚴重淹水風險。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1000158/live-updates-habagat-rains-affect-parts-of-ph-on-friday-aug-28-2026/story/"
     },
     {
       "rank": 10,
-      "title": "颱風艾陶、23號颱風雙雙北上 威克島外海不影響台日",
-      "dek": "日本Weathernews報導，第23號颱風已增強為強颱等級，惟路徑遠離台灣及日本本土。",
-      "url": "https://weathernews.jp/news/202608/290211/"
+      "title": "氣象單位緊盯南海與菲律賓外海醞釀新颱風",
+      "dek": "廣義低壓系統仍籠罩台灣、未來一週恐持續降雨，預報人員指出南海及菲律賓附近海域近期可能再生成一至兩個熱帶氣旋。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555785"
     }
   ]
 }
