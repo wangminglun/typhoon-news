@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T00:10:00+08:00",
+  "generated_at": "2026-08-30T01:11:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於8月28日下午解除颱風沙德爾的海上颱風警報，目前台灣未有任何海上或陸上颱風警報生效中。",
-  "alert_desc": "中央氣象署已於8月28日下午解除颱風沙德爾的海上颱風警報，目前台灣未有任何海上或陸上颱風警報生效中。",
+  "alert_text": "中央氣象署已於8月28日下午解除颱風沙德爾的海上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟西南季風仍為南部地區帶來豪雨風險。",
+  "alert_desc": "中央氣象署已於8月28日下午解除颱風沙德爾的海上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟西南季風仍為南部地區帶來豪雨風險。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前未受任何直接颱風警報影響，但因殘留西南氣流已被列入豪雨特報範圍，未來數日可能出現局部強降雨；截至目前，台中並無停班停課消息。"
+    "text": "台中目前未受颱風直接影響，也未發布停班停課，惟8月29日至31日山區可能受不穩定天氣及午後對流影響出現局部大雨。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾海上警報解除 西太平洋颱風生成數創一甲子紀錄 台灣豪雨風險未歇",
-    "dek": "中央氣象署已解除颱風沙德爾海上警報，但殘留西南氣流仍為台灣中南部帶來豪雨，日本氣象廳同時錄得六十年來最活躍的八月颱風季。",
+    "title": "沙德爾颱風減弱登陸　台灣解除海警　南部持續豪雨警戒",
+    "dek": "沙德爾警報雖已解除，西南季風仍為南台灣帶來強降雨，太平洋另有兩颱風上演罕見「藤原效應」互旋。",
     "url": "https://focustaiwan.tw/society/202608280012"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署解除熱帶風暴沙德爾海上警報",
-      "dek": "沙德爾減弱且不再威脅台灣海域後，中央氣象署於週五下午解除海上颱風警報。",
+      "title": "中央氣象署解除輕颱沙德爾海上警報",
+      "dek": "沙德爾登陸浙江後結構瓦解，警報歷時約30小時、發布11報後解除。",
       "url": "https://focustaiwan.tw/society/202608280012"
     },
     {
       "rank": 2,
-      "title": "氣象署：颱風雖減弱，台灣仍將迎豪雨",
-      "dek": "中央氣象署指出，沙德爾即使減弱為熱帶風暴，其牽引的西南風仍將為南台灣帶來豪雨到超大豪雨。",
-      "url": "https://focustaiwan.tw/society/202608280005"
+      "title": "沙德爾減弱仍將為台灣南部帶來豪雨",
+      "dek": "氣象署警告西南季風將持續為嘉南高屏及恆春半島帶來超大豪雨。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863291"
     },
     {
       "rank": 3,
-      "title": "低壓系統成形 台灣下週天氣持續不穩定",
-      "dek": "沙德爾遠離後，中央氣象署預測新生成的低壓系統將為中南部帶來持續不穩定天氣，十五縣市列入豪雨特報。",
-      "url": "https://focustaiwan.tw/society/202608290004"
+      "title": "颱風沙德爾北移逼近馬祖 氣象署發布海上警報",
+      "dek": "沙德爾一度風力達每小時126公里，馬祖、蘭嶼及綠島海域浪高逾3公尺。",
+      "url": "https://focustaiwan.tw/society/202608270003"
     },
     {
       "rank": 4,
-      "title": "嚴防豪雨與淹水風險 颱風逼近台灣",
-      "dek": "《台北時報》頭版報導沙德爾最接近台灣期間，北部與東部沿岸、馬祖、綠島及蘭嶼出現逾兩公尺巨浪，當局警告恐引發淹水。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/28/2003863265"
+      "title": "日本氣象廳：颱風邦朗於威克島附近生成",
+      "dek": "邦朗是今年8月第10個獲命名風暴，凸顯今年颱風季異常活躍。",
+      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
     },
     {
       "rank": 5,
-      "title": "熱帶風暴沙德爾海上警報解除",
-      "dek": "《台北時報》證實中央氣象署週五下午2時30分解除海上警報，同時提醒週六南台灣豪雨仍將持續。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+      "title": "邦朗與艾陶罕見上演「藤原效應」互旋",
+      "dek": "美軍關島氣象單位指出兩風暴已相互靠近，不排除邦朗遭艾陶吸收的可能。",
+      "url": "https://www.mvariety.com/news/local/an-unusual-pacific-dance-20w-etau-begin-fujiwhara-interaction/article_01220f04-9c34-41af-b681-f30800946a95.html"
     },
     {
       "rank": 6,
-      "title": "颱風沙德爾來襲 中國沿海地區提高戒備、取消航班渡輪",
-      "dek": "南華早報報導，隨著沙德爾逼近並登陸浙江，中國沿海多省取消大量航班與渡輪班次以因應風雨衝擊。",
-      "url": "https://www.scmp.com/news/china/science/article/3365279/chinas-coastal-regions-high-alert-typhoon-saudel-cancels-flights-ferries"
+      "title": "颱風蓋納里於沖繩宮古島附近生成 路徑遠離台灣",
+      "dek": "氣象署預估蓋納里路徑將維持在台灣以北300公里外，發布海警機率低。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
     },
     {
       "rank": 7,
-      "title": "第23號颱風「凡亞比」生成 追平單月最多颱風紀錄",
-      "dek": "日本氣象廳將威克島附近新系統命名為第23號颱風凡亞比，使今年8月颱風生成數達十個，追平1966年紀錄，並持續觀察與艾陶颱風的藤原效應互動。",
-      "url": "https://weathernews.jp/news/202608/280121/"
+      "title": "西南季風增強 馬尼拉發布紅色豪雨警報",
+      "dek": "PAGASA預測三小時內降雨恐超過30毫米，警戒範圍涵蓋呂宋多個省份。",
+      "url": "https://newsinfo.inquirer.net/2294669/red-rainfall-warning-up-in-metro-manila-luzon-areas-on-saturday"
     },
     {
       "rank": 8,
-      "title": "凡亞比颱風最新路徑與風雨模擬更新",
-      "dek": "雅虎日本新聞報導，截至29日凌晨3時，凡亞比預估將轉向北北東前進，遠離日本與台灣，無直接登陸威脅。",
-      "url": "https://news.yahoo.co.jp/articles/2cf93365c1a18e3d149c5ae69334825b32bb31f6"
+      "title": "呂宋豪雨釀災 打拉橋樑坍塌 水壩逼近溢洪",
+      "dek": "持續降雨導致道路淹水，馬尼拉拉梅薩水壩水位僅差三分之一米即溢洪。",
+      "url": "https://newsinfo.inquirer.net/2294592/heavy-rainfall-warnings-raised-over-more-areas-in-luzon-pagasa"
     },
     {
       "rank": 9,
-      "title": "三描禮士、巴丹發布紅色降雨警報 大馬尼拉列黃色警戒",
-      "dek": "菲律賓星報報導，隨西南季風增強，PAGASA對三描禮士省與巴丹省發布紅色降雨警報，大馬尼拉則列黃色警戒。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/28/2552420/red-rainfall-warning-over-zambales-bataan-ncr-under-yellow-alert"
+      "title": "GMA新聞：西南季風豪雨持續衝擊菲律賓",
+      "dek": "即時報導指出菲律賓雖無活躍熱帶氣旋，但季風降雨仍是主要天氣威脅。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1000158/live-updates-habagat-rains-affect-parts-of-ph-on-friday-aug-28-2026/story/"
     },
     {
       "rank": 10,
-      "title": "大馬尼拉及呂宋多地週六發布紅色降雨警報",
-      "dek": "菲律賓每日詢問報報導，PAGASA傍晚公告將紅色降雨警報擴大至大馬尼拉及呂宋多省，儘管當時責任海域內並無命名颱風。",
-      "url": "https://newsinfo.inquirer.net/2294669/red-rainfall-warning-up-in-metro-manila-luzon-areas-on-saturday"
+      "title": "今年8月西太平洋颱風生成步調創數十年來新高",
+      "dek": "追蹤數據顯示今年已有逾20個命名風暴，學者將其與歷史活躍年份相比但持保留態度。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
