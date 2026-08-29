@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T21:10:00+08:00",
+  "generated_at": "2026-08-29T22:12:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署已於8月28日下午2時30分解除颱風沙德爾的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因殘留低壓槽與西南氣流影響仍有豪雨風險。",
-  "alert_desc": "中央氣象署已於8月28日下午2時30分解除颱風沙德爾的海上颱風警報，全程未發布陸上颱風警報；截至今（29）日，台灣本島無任何等級颱風警報生效，僅因殘留低壓槽與西南氣流影響仍有豪雨風險。",
+  "alert_text": "中央氣象署已於8月28日下午2時30分解除颱風沙德爾的海上颱風警報，台灣本島目前無任何等級颱風警報生效；西太平洋近日進入「颱風窩」活躍期，新颱風班朗已生成，另兩系統預計月底至9月初接力形成，但均未預期直接侵襲台灣。",
+  "alert_desc": "中央氣象署已於8月28日下午2時30分解除颱風沙德爾的海上颱風警報，台灣本島目前無任何等級颱風警報生效；西太平洋近日進入「颱風窩」活躍期，新颱風班朗已生成，另兩系統預計月底至9月初接力形成，但均未預期直接侵襲台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "台中已列入中央氣象署8月29日豪雨特報範圍，受殘留低壓槽與增強西南氣流影響，午後有短時強降雨風險；目前未發布任何颱風警報，也無停班停課公告，屬降雨性質提醒，非颱風直接影響。"
+    "text": "台中29日預報以西南氣流對流性降雨為主，出現短暫陣雨或雷雨機率約85%，最高溫近30度；目前無任何颱風警報，也無停班停課公告，目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾海警解除 西南風豪雨接力侵台",
-    "dek": "颱風沙德爾登陸中國減弱、海警解除，但殘留低壓槽與西南氣流持續為台灣中南部到北部帶來豪大雨。",
-    "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
+    "title": "西太平洋「颱風窩」大爆發 8月颱風數恐創75年新高",
+    "dek": "颱風沙德爾減弱登陸中國、警報解除，台灣暫無颱風直接威脅，但西太平洋接連生成的風暴恐使南台灣豪雨持續至9月上旬。",
+    "url": "https://newtalk.tw/news/view/2026-08-28/1056240"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾登陸浙江 陸空交通大亂",
-      "dek": "南華早報報導，颱風沙德爾28日在浙江兩度登陸，造成寧波、上海航班與渡輪大規模取消。",
-      "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
+      "title": "颱風窩大爆發 8月恐創新高",
+      "dek": "根據Newtalk新聞報導，未來一週內將有三個颱風接力生成，若如期形成，今年8月颱風數將創下1951年以來單月新高。",
+      "url": "https://newtalk.tw/news/view/2026-08-28/1056240"
     },
     {
       "rank": 2,
-      "title": "沙德爾海警解除 暴風圈縮小",
-      "dek": "自由時報報導，氣象署因沙德爾登陸中國後迅速減弱，已於28日下午解除海上颱風警報。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555439"
+      "title": "南部豪雨估達9月6日",
+      "dek": "根據聯合新聞網報導，氣象專家賈新興表示，受「颱風窩」持續釋放能量影響，南台灣降雨恐持續到9月6日。",
+      "url": "https://udn.com/news/story/7266/9719204"
     },
     {
       "rank": 3,
-      "title": "沙德爾遠離 氣象署解除海警",
-      "dek": "中央廣播電臺報導，沙德爾登陸後遠離台灣海域，但低壓槽恐使不穩定降雨延續至9月初。",
-      "url": "https://rti.org.tw/news?pid=228893&uid=3"
+      "title": "日本發烈風警報 三颱共存",
+      "dek": "根據ETtoday新聞雲報導，日本氣象廳針對即將增強為颱風的班朗發布烈風警報，太平洋上恐出現三颱共存局面。",
+      "url": "https://www.ettoday.net/news/20260828/3227155.htm"
     },
     {
       "rank": 4,
-      "title": "新颱風邦朗生成 不影響台菲",
-      "dek": "據日本氣象廳消息，新颱風邦朗於威克島附近形成，預測路徑偏北、不會威脅台灣與菲律賓。",
-      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
+      "title": "今年第22號颱風班朗生成",
+      "dek": "根據Newtalk新聞報導，颱風班朗28日下午正式生成，中央氣象署表示其路徑偏北，預期不會直接影響台灣。",
+      "url": "https://newtalk.tw/news/view/2026-08-28/1056334"
     },
     {
       "rank": 5,
-      "title": "卡莉娜恐增強為強颶風",
-      "dek": "The Watchers報導，熱帶風暴卡莉娜預估周末增強為颶風，將為墨西哥沿岸帶來危險湧浪。",
-      "url": "https://watchers.news/2026/08/28/tropical-storm-karina-forecast-to-reach-major-hurricane-strength-bringing-hazardous-swells-to-mexico-as-lowell-strengthens/"
+      "title": "氣象署解除沙德爾海警",
+      "dek": "根據Focus Taiwan（中央社英文新聞）報導，中央氣象署28日下午2時30分解除沙德爾海上颱風警報，當時暴風中心已在馬祖以北180公里處。",
+      "url": "https://focustaiwan.tw/society/202608280012"
     },
     {
       "rank": 6,
-      "title": "洛威爾增強 下週進中太平洋",
-      "dek": "檀香山星報報導，熱帶風暴洛威爾預計周末增強為颶風，並於下週初西行進入中太平洋。",
-      "url": "https://www.staradvertiser.com/2026/08/28/breaking-news/tropical-storm-lowell-expected-to-move-into-central-pacific-next-week/"
+      "title": "沙德爾減弱 仍將帶豪雨",
+      "dek": "根據Focus Taiwan報導，中央氣象署警告，沙德爾外圍環流結合西南氣流，仍將為南台灣帶來強降雨與坍方風險。",
+      "url": "https://focustaiwan.tw/society/202608280005"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴多莉已消散",
-      "dek": "福斯天氣報導，大西洋熱帶風暴多莉因強烈風切減弱消散，殘留水氣仍可能為背風群島帶來豪雨。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-dolly-atlantic-ocean-super-el-nino-august-2026"
+      "title": "台灣嚴防豪雨與強浪",
+      "dek": "根據《台北時報》報導，隨沙德爾北移逼近中國，台灣南部嚴防豪雨，北部、東部及馬祖沿海出現超過2公尺巨浪。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/28/2003863265"
     },
     {
       "rank": 8,
-      "title": "呂宋豪雨紅色警戒 橋梁坍塌",
-      "dek": "菲律賓星報報導，西南季風豪雨導致馬尼拉部分地區淹水，打拉省一座橋梁坍塌。",
-      "url": "https://www.philstar.com/headlines/weather/2026/08/28/2552420/red-rainfall-warning-over-zambales-bataan-ncr-under-yellow-alert"
+      "title": "一週豪雨 農損初步統計",
+      "dek": "根據《台北時報》報導，農業部就本月稍早一週豪雨造成的坍方、淹水及農業損失展開統計。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/27/2003863221"
     },
     {
       "rank": 9,
-      "title": "低壓區增強西南季風 呂宋多雨",
-      "dek": "Rappler報導，呂宋島外海低壓區增強西南季風，菲律賓境內雖無熱帶氣旋仍將持續降雨至周一。",
-      "url": "https://www.rappler.com/philippines/weather/low-pressure-area-southwest-monsoon-pagasa-forecast-august-29-2026-5pm/"
+      "title": "颱風紫檀生成 雙颱並存",
+      "dek": "根據壹蘋新聞網報導，颱風紫檀22日生成，一度與沙德爾雙颱並存，惟路徑遠離台灣，轉向中國廣東。",
+      "url": "https://news.nextapple.com/life/20260822/96E15BD7001101CBEED853FC0547F59D"
     },
     {
       "rank": 10,
-      "title": "西南風增強 15縣市豪大雨",
-      "dek": "獨家報導指出，西南風與旺盛對流使午後豪大雨範圍擴及全台15縣市，山區須防土石流。",
-      "url": "https://www.scooptw.com/local_news/520266/%E5%BD%B1%E9%9F%B3-0829%E8%A5%BF%E5%8D%97%E9%A2%A8%E5%8F%8A%E5%B0%8D%E6%B5%81%E9%9B%B2%E7%B3%BB%E6%97%BA%E7%9B%9B-%E5%8D%88%E5%BE%8C%E8%B1%AA%E5%A4%A7%E9%9B%A8%E5%8D%80%E6%93%B4%E5%8F%8A15%E7%B8%A3/"
+      "title": "白海豚重創台灣北部",
+      "dek": "根據Focus Taiwan報導，本月稍早颱風白海豚為北台灣帶來強風豪雨，造成9條渡輪航線及逾百班機停駛。",
+      "url": "https://focustaiwan.tw/society/202608090003"
     }
   ]
 }
