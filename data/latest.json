@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T00:12:00+08:00",
+  "generated_at": "2026-08-31T01:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，僅因滯留季風槽對中南部發布大雨及豪雨特報。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，本波致災性降雨係以豪雨特報與大雨特報因應。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前無颱風警報，但受滯留鋒面／低壓帶影響，8月30日氣象署已對台中市發布大雨特報（山區估降雨150–300毫米），8月31日至9月1日西南風增強，中部及山區午後仍須留意局部大雨，惟尚未達停班停課標準。"
+    "text": "台中市目前無颱風警報，但受滯留季風槽及南海低壓系統影響，30日夜間至31日清晨9小時內雨量突破300毫米，霧峰、大里、南屯、北屯、烏日等區傳出街道與地下停車場淹水，豐原一度出現路面塌陷、疑似小型土石滑動險情，目前尚無確認之全市停班停課公告，抽水及搶救作業持續進行中。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾遠離無警訊，季風槽接棒襲台中南部防豪雨",
-    "dek": "颱風警報全數解除後，滯留季風槽取而代之成為主要天氣系統，中央氣象署示警中南部本週末仍有豪雨風險，並留意9月2日前後西太平洋恐再有新熱帶系統醞釀。",
-    "url": "https://www.cna.com.tw/news/ahel/202608300145.aspx"
+    "title": "颱風「沙德爾」殘餘水氣夾季風槽襲台 台中9小時驟雨破300毫米多處淹水",
+    "dek": "無颱風警報生效之際，滯留的季風槽與南海低壓系統為台灣中南部帶來豪雨，台中多區傳出淹水，高雄壽山周邊三校因邊坡土石鬆動延後開學。",
+    "url": "https://tw.news.yahoo.com/%E8%B6%85%E5%A4%A7%E8%B1%AA%E9%9B%A8%E7%8B%82%E7%82%B8%E5%8F%B0%E4%B8%AD-9%E5%B0%8F%E6%99%82%E7%A0%B4300%E6%AF%AB%E7%B1%B3%E8%87%B4%E6%B7%B9%E6%B0%B4%E7%81%BD%E6%83%85-%E5%A4%A7%E6%A8%93%E5%9C%B0%E4%B8%8B%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%BA%B2%E4%B8%8D%E9%81%8E-020109380.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風沙德爾遠離　氣象署下午2時30分解除海警",
-      "dek": "據中央社報導，沙德爾強度減弱、暴風圈縮小，已於8月28日上午登陸中國浙江，氣象署隨即解除海上颱風警報。",
-      "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
+      "title": "台中暴雨9小時破300毫米　街道與地下停車場成災",
+      "dek": "據Yahoo奇摩新聞報導，滯留低壓槽為台中帶來強降雨，多區街道與大樓地下停車場淹水，搶救與抽水作業徹夜進行。",
+      "url": "https://tw.news.yahoo.com/%E8%B6%85%E5%A4%A7%E8%B1%AA%E9%9B%A8%E7%8B%82%E7%82%B8%E5%8F%B0%E4%B8%AD-9%E5%B0%8F%E6%99%82%E7%A0%B4300%E6%AF%AB%E7%B1%B3%E8%87%B4%E6%B7%B9%E6%B0%B4%E7%81%BD%E6%83%85-%E5%A4%A7%E6%A8%93%E5%9C%B0%E4%B8%8B%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%BA%B2%E4%B8%8D%E9%81%8E-020109380.html"
     },
     {
       "rank": 2,
-      "title": "沙德爾颱風海警解除　強度減弱暴風圈縮小",
-      "dek": "自由時報報導證實警報解除，並指出中南部地區在警報解除後仍將持續受局部較強降雨影響。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555439"
+      "title": "邊坡土石鬆動　高雄壽山三校開學日緊急停課",
+      "dek": "據自由時報報導，連日豪雨導致鼓山區壽山國中後方邊坡土石鬆動，波及共用校舍的國小與幼兒園，三校原訂開學日全面停課待勘。",
+      "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5557503"
     },
     {
       "rank": 3,
-      "title": "中南部及台東防豪雨　9月2日後水氣漸緩",
-      "dek": "據中央社報導，低壓帶自南海移入，氣象署預估8月31日至9月1日為本週雨勢高峰，9月2日至5日將逐漸趨緩。",
-      "url": "https://www.cna.com.tw/news/ahel/202608300145.aspx"
+      "title": "沙德爾殘餘恐併南海低壓　南部未來兩天嚴防豪雨",
+      "dek": "據聯合新聞網報導，氣象專家指出沙德爾颱風殘餘雲系不排除與南海低壓合併並增強為熱帶低壓，本週前兩天為天氣最不穩定期。",
+      "url": "https://udn.com/news/story/7266/9723206"
     },
     {
       "rank": 4,
-      "title": "大雨特報涵蓋十縣市　氣象署示警防積淹雷擊",
-      "dek": "據Newtalk新聞報導，彰化、雲林獲發豪雨特報，另有新竹、苗栗、台中等七縣市發布大雨特報，籲防範淹水及雷擊。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056602"
+      "title": "熱帶擾動92W恐增強逼近台灣東部　專家：路徑仍高度不確定",
+      "dek": "據自由時報報導，菲律賓東方的熱帶擾動92W可能發展為颱風並朝台灣東方海域移動，但導引氣流偏弱，不排除在外海打轉迴旋。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555339"
     },
     {
       "rank": 5,
-      "title": "季風槽成「颱風溫床」　專家示警9月2日前後恐現多個熱帶擾動",
-      "dek": "據Newtalk新聞報導，氣象專家林得恩指出季風槽條件有利熱帶系統發展，惟現階段尚無法確認是否威脅台灣。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056558"
+      "title": "南部雨勢未歇　低壓擾動醞釀恐讓災情雪上加霜",
+      "dek": "據聯合新聞網報導，南海與台灣海峽附近低壓擾動可能增強西南氣流，延長南部降雨，部分預測指未來一週恐連續有三個熱帶系統成形。",
+      "url": "https://udn.com/news/story/7266/9721167"
     },
     {
       "rank": 6,
-      "title": "低壓帶南北天氣兩極　南部防豪雨、北台灣飆36度",
-      "dek": "據Newtalk新聞報導，滯留季風槽造成南部須嚴防豪雨，北台灣及台北盆地則出現高溫，天氣型態預料延續至9月初。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056555"
+      "title": "季風槽下週持續活躍　多個熱帶擾動排隊發展",
+      "dek": "據Newtalk新聞報導，歐洲模式顯示低壓帶將籠罩台灣至9月2日左右，季風槽與南海一帶將有多個熱帶擾動陸續形成，太平洋另兩颱風並現藤原效應互繞。",
+      "url": "https://newtalk.tw/news/view/2026-08-29/1056445"
     },
     {
       "rank": 7,
-      "title": "低壓帶籠罩全台一週有雨　南海至菲律賓恐醞釀新颱風",
-      "dek": "據自由時報報導，未來一週台灣本島幾乎天天有雨，南海到菲律賓一帶另有兩個熱帶系統發展跡象值得觀察。",
-      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5555785"
+      "title": "吳德榮：台灣遭大低壓環流籠罩　太平洋兩颱風藤原效應互繞",
+      "dek": "據壹蘋新聞網報導，氣象評論員吳德榮指出台灣目前處於廣大低壓環流影響下，而太平洋上兩個颱風正透過藤原效應相互牽引，暫不直接威脅台灣。",
+      "url": "https://news.nextapple.com/life/20260830/403F81228A9556E2C3DEA1491B89C5EC"
     },
     {
       "rank": 8,
-      "title": "颶風卡莉娜增強　本週可能發展為主要颶風",
-      "dek": "據美聯社報導，卡莉娜已於8月30日增強為一級颶風，位於墨西哥下加利福尼亞半島西南方海面，預測本週將持續增強。",
-      "url": "https://www.manilatimes.net/2026/08/30/world/americas-emea/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm-this-week/2414706"
+      "title": "太平洋氣象總覽：颱風邦朗、艾陶上演藤原效應互繞",
+      "dek": "據太平洋災害中心報導，颱風邦朗風速達75節，預計約48小時後開始與熱帶風暴艾陶產生交互作用，牽引其向西北移動，兩者互動海域遠離陸地。",
+      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴羅威爾增強　逐步逼近中太平洋夏威夷海域",
-      "dek": "據夏威夷當地媒體The Garden Island報導，羅威爾預計本週進入中太平洋，並可能增強為二級颶風。",
-      "url": "https://www.thegardenisland.com/2026/08/30/hawaii-news/tropical-storm-lowell-strengthens-as-it-nears-central-pacific/"
+      "title": "颶風卡莉娜增強　東太平洋本週恐達強烈三級颶風",
+      "dek": "據美聯社報導，熱帶風暴卡莉娜已增強為颶風，預計下週初達到風速每小時125英里的強烈三級颶風，雖遠離陸地但將為墨西哥西南岸帶來危險湧浪。",
+      "url": "https://www.wsls.com/tech/2026/08/30/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm-this-week/"
     },
     {
       "rank": 10,
-      "title": "大西洋兩熱帶系統受矚目　多莉殘餘消散、96L擾動待觀察",
-      "dek": "據Yale Climate Connections報導，熱帶風暴多莉殘餘環流已無重新發展跡象，另一熱帶擾動96L則在大西洋中部受到氣象單位追蹤。",
-      "url": "https://yaleclimateconnections.org/2026/08/two-atlantic-tropical-disturbances-to-watch-tropical-storm-moke-brings-rain-to-hawaii/"
+      "title": "熱帶風暴洛威爾朝夏威夷方向移動　預計下週增強為颶風",
+      "dek": "據檀香山廣告星報報導，熱帶風暴洛威爾位於夏威夷東南方約1150英里處，正向中太平洋移動，預計下週初增強為颶風，目前對陸地無威脅。",
+      "url": "https://www.staradvertiser.com/2026/08/28/breaking-news/tropical-storm-lowell-expected-to-move-into-central-pacific-next-week/"
     }
   ]
 }
