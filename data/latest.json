@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T09:10:00+08:00",
+  "generated_at": "2026-08-30T10:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對台灣本島或外島發布任何海上或陸上颱風警報。原先因熱帶風暴「Saudel」發布的海上警報已於8月28日下午解除，且該風暴自始至終未觸發陸上警報。",
+  "alert_desc": "中央氣象署目前未針對台灣本島或外島發布任何海上或陸上颱風警報。原先因颱風「沙德爾」發布的海上警報已於8月28日下午解除，且該風暴自始至終未觸發陸上警報，截至最新查證仍無新警報發布。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響，未有停班停課公告；但隨西南季風增強、季風低壓帶籠罩全台，本週西部地區（含台中）仍有午後雷陣雨及局部大雨的降雨風險，須留意氣象署後續豪雨警報發布。"
+    "text": "台中目前無直接影響，未有停班停課公告；台中僅與台灣西部其他地區一樣，面臨季風低壓帶帶來的一般性午後雷陣雨及局部大雨風險，並非颱風直接影響，須留意氣象署後續豪雨警報發布。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "薩烏德爾警報解除 台灣本週轉受季風低壓帶籠罩",
-    "dek": "中央氣象署已解除熱帶風暴「Saudel」海上警報，但預告台灣本週將被活躍的季風低壓帶包圍，西太平洋颱風季同時持續創紀錄活躍。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+    "title": "颱風沙德爾遠離登陸浙江 中央氣象署解除海警 台灣轉受季風低壓籠罩",
+    "dek": "中央氣象署已解除沙德爾海上颱風警報，但專家警告西南季風低壓帶仍將為台灣帶來持續性午後雷陣雨，未來一週菲律賓以東海域或南海並不排除有新熱帶系統醞釀成形。",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5555439"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署解除「Saudel」海上颱風警報",
-      "dek": "熱帶風暴「Saudel」在中國浙江登陸後持續減弱遠離，中央氣象署隨即解除海上警報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+      "title": "沙德爾減弱遠離 中央氣象署解除海上颱風警報",
+      "dek": "中央氣象署28日下午2時30分正式解除沙德爾海上颱風警報，當時中心位於馬祖以北約180公里處持續遠離台灣。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555439"
     },
     {
       "rank": 2,
-      "title": "中央社證實：「Saudel」海警解除",
-      "dek": "中央社報導指出，「Saudel」減弱並登陸中國後，馬祖與台灣北部、東部沿海一度出現逾2公尺浪高的多日警戒期正式結束。",
-      "url": "https://focustaiwan.tw/society/202608280012"
+      "title": "沙德爾登陸浙江 對台威脅解除",
+      "dek": "台視新聞報導，沙德爾28日上午於浙江沿海登陸後持續北移，氣象署確認台灣海警當天下午解除。",
+      "url": "https://news.ttv.com.tw/news/11508280000900W"
     },
     {
       "rank": 3,
-      "title": "西南氣流挾豪雨來襲 沿海低窪地區籲防淹水",
-      "dek": "「Saudel」外圍環流與增強的西南風共伴，為台灣南部與東南部帶來豪雨，氣象署警告漲潮疊加強降雨恐增淹水風險。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/28/2003863265"
+      "title": "沙德爾雖遠離 季風低壓帶恐使雨勢延續至9月",
+      "dek": "聯合新聞網報導，即使海警解除，台灣仍受廣大季風低壓帶影響，降雨型態預料持續至9月上旬。",
+      "url": "https://udn.com/news/story/7266/9719348"
     },
     {
       "rank": 4,
-      "title": "季風低壓帶籠罩全台 不排除有擾動發展成颱",
-      "dek": "氣象署指出，南海北部與菲律賓以東海域的熱帶擾動未來一週恐發展成新颱風，西南風增強後降雨將以南部最劇。",
-      "url": "https://newtalk.tw/news/view/2026-08-29/1056515"
+      "title": "南海、菲律賓東側醞釀新系統 未來一週恐有1至2個新颱風",
+      "dek": "自由時報報導，模式顯示南海及菲律賓以東海域未來一週熱帶發展訊號增強，但生成位置與強度仍具高度不確定性。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555785"
     },
     {
       "rank": 5,
-      "title": "季風槽轉趨活躍 西太平洋雙颱恐現藤原效應",
-      "dek": "報導指出，活躍的季風槽正醞釀一系列熱帶擾動接力發展，而西太平洋兩個現行颱風距離已近到可能出現互繞的藤原效應。",
-      "url": "https://newtalk.tw/news/view/2026-08-29/1056445"
+      "title": "30日西半部防大雨 下週天氣持續不穩定",
+      "dek": "中天新聞網報導，西部地區30日午後有明顯大雨，下週天氣型態持續不穩定，不排除新熱帶系統成形。",
+      "url": "https://ctinews.com/news/items/14a1prbpWk"
     },
     {
       "rank": 6,
-      "title": "日本氣象廳：颱風「Bang-lang」於威克島附近生成",
-      "dek": "「Bang-lang」是今年第23號颱風，也是8月單月第10個生成的命名風暴，創下該海域單月生成數紀錄，惟距陸地遙遠、暫無威脅。",
+      "title": "日本氣象廳：颱風邦朗於威克島附近生成",
+      "dek": "日本氣象廳表示，今年第23號颱風邦朗已在威克島附近形成，正向北移動遠離該島，暫無陸地威脅。",
       "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
     },
     {
       "rank": 7,
-      "title": "日本氣象廳追蹤：雙颱「Etau」與「Bang-lang」徘徊威克島附近",
-      "dek": "最新定位資料顯示，兩個活躍颱風均遠離陸地活動，中心氣壓分別為994百帕與985百帕，暫未對台灣或菲律賓構成迫近威脅。",
-      "url": "https://www.data.jma.go.jp/typhoon/position_table/table2026.html"
+      "title": "沙德爾退場 邦朗、艾陶接力活躍於太平洋",
+      "dek": "太平洋災害中心觀測資料顯示，颱風邦朗與熱帶風暴艾陶均持續北移遠離威克島，沙德爾則已列入退場編號。",
+      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
     },
     {
       "rank": 8,
-      "title": "熱帶擾動94W接近馬里亞納群島 發展機率列為中度",
-      "dek": "美軍聯合颱風警報中心評估，受惠於低風切與偏暖海溫，94W有中度機率於24小時內發展為熱帶低氣壓，並可能西北行經馬里亞納群島。",
-      "url": "https://cimss.ssec.wisc.edu/satellite-blog/archives/68761"
+      "title": "熱帶擾動94W接近馬里亞納群島 發展受關注",
+      "dek": "聯合颱風警報中心將關島東北方擾動列為94W投資區，多數模式預估將通過塞班島附近，發展速度預期緩慢。",
+      "url": "https://marianaspress.com/news/article/tropical-disturbance-invest-94w-to-pass-near-or-through-the-marianas"
     },
     {
       "rank": 9,
-      "title": "輕度颱風「紫檀」在廣東登陸後消散 未影響台灣",
-      "dek": "今年第19號颱風「紫檀」在北部灣打轉後轉向東北，於廣東湛江一帶多次登陸並減弱消散，全程未直接影響台灣。",
-      "url": "https://zh.wikipedia.org/zh-tw/%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%B4%AB%E6%AA%80_(2026%E5%B9%B4)"
+      "title": "94W恐為馬里亞納群島帶來陣雨及強陣風",
+      "dek": "當地媒體報導，熱帶擾動94W週二前可能為馬里亞納群島帶來較強陣雨與陣風，但系統組織仍鬆散。",
+      "url": "https://www.nminewsservice.com/invest-94w-showers-gusty-winds-marianas/"
     },
     {
       "rank": 10,
-      "title": "回顧超級颱風「Dolphin」：曾達五級強度並侵襲北台灣",
-      "dek": "「Dolphin」曾增強至五級超級颱風等級，其後於8月9、10日為台灣北部帶來強風豪雨、樹木倒伏及輕傷，再轉向日本。",
-      "url": "https://yaleclimateconnections.org/2026/07/historic-super-typhoon-dolphin-hits-category-5-strength-in-the-northwest-pacific/"
+      "title": "颱風紫檀重創廣西 逾5萬人撤離",
+      "dek": "東方先驅報報導，颱風紫檀（國際名Narra）在廣西一帶造成嚴重淹水，廣西、廣東、海南三省合計疏散約5萬4千人，中國氣象單位已於26日停止其警報編號。",
+      "url": "https://easternherald.com/2026/08/25/typhoon-narra-china-guangxi-flooding-54000-evacuated/"
     }
   ]
 }
