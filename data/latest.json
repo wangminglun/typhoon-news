@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T03:10:00+08:00",
+  "generated_at": "2026-08-31T04:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月28日解除沙德爾颱風海上警報，目前對台灣未發布任何海上或陸上颱風警報；南海低壓系統恐為中南部帶來本週最強降雨，以豪雨特報因應。",
+  "alert_desc": "沙德爾颱風已於中國廣西減弱消散，中央氣象署目前未對台灣發布任何海上或陸上颱風警報；季風低壓帶挾強降雨籠罩全台，以大雨特報因應。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前無颱風警報，但已列入中央氣象署大雨特報範圍，效應預估持續至8月30日夜間並於31日隨南海低壓系統增強，須留意短延時強降雨可能引發的低窪積淹水與山區坡地災害；目前尚無新增淹水災情通報，也無停班停課公告。"
+    "text": "台中市目前無颱風直接影響，也無停班停課公告，但已列入中央氣象署大雨特報範圍，隨季風低壓帶影響持續至8月31日、9月1日達降雨高峰，須留意山區短延時強降雨及午後對流雨勢；目前無新增淹水災情通報。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風警報全數解除　中央氣象署示警南海低壓恐帶來本週最強降雨",
-    "dek": "沙德爾颱風威脅已解除，但氣象署警告南海一個低壓系統可能發展為熱帶性低氣壓，週末將為台灣中南部與台東帶來今年入秋以來最猛烈的降雨。",
-    "url": "https://focustaiwan.tw/society/202608300011"
+    "title": "颱風警報全數解除　季風低壓帶接力襲台強降雨",
+    "dek": "沙德爾颱風已於中國廣西減弱消散，中央氣象署目前未對台發布任何海上或陸上颱風警報，但季風低壓帶挾強降雨籠罩全台，菲律賓外海並有新生熱帶低壓「畢拉羅」形成。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
   },
   "items": [
     {
       "rank": 1,
-      "title": "南海低壓系統恐增強組織　氣象署示警本週最強降雨將至",
-      "dek": "中央氣象署預報員表示，南海低壓系統接近台灣時可能發展為熱帶性低氣壓，中南部與台東首當其衝。",
-      "url": "https://focustaiwan.tw/society/202608300011"
+      "title": "氣象署解除沙德爾海上颱風警報",
+      "dek": "沙德爾遠離台灣海域並登陸中國浙江後，海上颱風警報於8月28日下午正式解除，全程未發布陸上警報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
     },
     {
       "rank": 2,
-      "title": "十縣市發布大雨特報　台中在列",
-      "dek": "中央氣象署警告連日豪雨恐引發低窪淹水與山區坡地災害，效應預估持續增強至8月31日。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056602"
+      "title": "低壓帶發威　十縣市大雨特報同步高溫",
+      "dek": "季風低壓帶籠罩全台，中央氣象署對包含台中在內十個縣市發布大雨特報，北台灣同時面臨36度高溫。",
+      "url": "https://news.nextapple.com/life/20260830/CF7CD8396F15CF7CF86538BAAD0483A1"
     },
     {
       "rank": 3,
-      "title": "坡地鬆動風險升高　高雄壽山三校宣布開學日停課",
-      "dek": "連日豪雨致校舍後方邊坡土壤鬆動、擋土牆隆起，地質技師勘查後三校取消開學首日課程。",
-      "url": "https://www.cna.com.tw/news/aloc/202608300185.aspx"
-    },
-    {
-      "rank": 4,
-      "title": "沙德爾威脅解除　台灣目前無海上或陸上颱風警報",
-      "dek": "中央氣象署8月28日解除沙德爾海上颱風警報後，截至目前尚未發布新的颱風警報。",
-      "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
-    },
-    {
-      "rank": 5,
-      "title": "沙德爾颱風減弱為熱帶性低氣壓　已於中國大陸境內消散",
-      "dek": "沙德爾殘餘環流持續南移減弱，對台灣已不構成威脅。",
-      "url": "http://weather.cma.cn/web/channel-376.html"
-    },
-    {
-      "rank": 6,
-      "title": "東太平洋卡莉娜颶風增強中　預估下週達三級強度",
-      "dek": "卡莉娜預計本週末增強為颶風，並在遠洋持續增強，墨西哥西南沿岸將受長浪影響。",
-      "url": "https://www.foxweather.com/weather-news/pacific-tropical-storm-iselle-julio-el-nino-august-2026"
-    },
-    {
-      "rank": 7,
-      "title": "洛威爾熱帶風暴進入中太平洋　預估以颶風強度通過夏威夷大島南方",
-      "dek": "預報員指出，洛威爾與卡莉娜可能產生藤原效應交互作用，對夏威夷的實際影響仍存在高度不確定性。",
-      "url": "https://www.hawaiitribune-herald.com/2026/08/30/hawaii-news/tropical-storm-lowell-enters-central-pacific-on-track-to-pass-south-of-big-island-as-a-hurricane/"
-    },
-    {
-      "rank": 8,
-      "title": "艾陶減弱為熱帶性低氣壓　與榜朗藤原效應影響淡出　台灣無虞",
-      "dek": "兩系統仍遠在威克島附近太平洋海域，先前的藤原效應已不再是台灣天氣預報的考量因素。",
+      "title": "南部豪雨警戒　低壓系統加西南風雙重夾擊",
+      "dek": "氣象署警告8月31日至9月1日為降雨最劇烈時段，南部恐現局部豪雨，中部與台東須慎防短延時強降雨。",
       "url": "https://news.nextapple.com/life/20260831/0EDD7A7F941257A47E3DF1ADFC5493AF"
     },
     {
+      "rank": 4,
+      "title": "未來一週低壓籠罩全台　南海菲律賓恐醞釀新颱風",
+      "dek": "氣象專家指出，季風低壓帶將持續影響台灣天氣一週，南海至菲律賓海域另有一至兩個新系統生成的可能。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555785"
+    },
+    {
+      "rank": 5,
+      "title": "熱帶低壓「畢拉羅」生成　將增強西南季風",
+      "dek": "菲律賓大氣署宣布呂宋島東方新熱帶低壓「畢拉羅」生成，預料不會登陸菲律賓，但將為當地帶來強降雨。",
+      "url": "https://www.philstar.com/headlines/2026/08/30/2552856/tropical-depression-pilandok-forms-inside-par-set-enhance-habagat"
+    },
+    {
+      "rank": 6,
+      "title": "畢拉羅路徑持續西北移　預計轉為殘留低壓",
+      "dek": "PAGASA下午公報顯示畢拉羅將先轉西北西再轉西北，於9月1日前後減弱為殘留低壓，短命系統不致直接侵襲台菲。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-30-2026-5pm/"
+    },
+    {
+      "rank": 7,
+      "title": "艾陶颱風生成　日本氣象廳：對台無直接影響",
+      "dek": "今年第22號颱風艾陶在東京東南方遠洋生成，預估路徑北上遠離台灣，氣象單位研判不會帶來直接衝擊。",
+      "url": "https://news.ttv.com.tw/news/11508270003800W"
+    },
+    {
+      "rank": 8,
+      "title": "沙德爾登陸中國浙江前　結構已見減弱跡象",
+      "dek": "氣象署在沙德爾逼近台灣期間即觀測到其環流結構逐漸瓦解，為其後續迅速減弱消散埋下伏筆。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
+    },
+    {
       "rank": 9,
-      "title": "大西洋颶風季開局歷來最慢　美國國家颶風中心緊盯西非熱帶波",
-      "dek": "聖嬰現象造成的風切變抑制加勒比海系統發展，新熱帶波發展成今年風暴的機率約六成。",
-      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
+      "title": "沙德爾北擦台灣　氣象署發布海上警報因應",
+      "dek": "沙德爾採取偏北路徑逼近中國沿岸，途中一度靠近台灣海域，促使氣象署發布海上颱風警報。",
+      "url": "https://www.intellinews.com/taiwan-releases-sea-warning-as-typhoon-saudel-skirts-north-towards-china-463884/"
     },
     {
       "rank": 10,
-      "title": "紫檀颱風罕見三度登陸中國大陸南部後消散",
-      "dek": "紫檀在海南、廣東接連登陸後於廣東吳川第三次登陸，氣象署證實其對台灣天氣全程無直接威脅。",
-      "url": "https://www.wenweipo.com/a/202608/26/AP6a8e630de4b0c1e500264880.html"
+      "title": "沙德爾外圍環流曾為南台灣帶來強降雨",
+      "dek": "氣象署曾警告沙德爾外圍環流將為台南、高雄、屏東等地帶來豪雨至超大豪雨，該波降雨已隨颱風遠離而趨緩。",
+      "url": "https://focustaiwan.tw/society/202608270007"
     }
   ]
 }
