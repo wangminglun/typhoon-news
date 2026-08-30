@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T04:10:00+08:00",
+  "generated_at": "2026-08-31T05:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "沙德爾颱風已於中國廣西減弱消散，中央氣象署目前未對台灣發布任何海上或陸上颱風警報；季風低壓帶挾強降雨籠罩全台，以大雨特報因應。",
+  "alert_desc": "台灣目前無海上或陸上颱風警報，但南海低壓系統可能於9月1日至2日發展增強，中南部豪大雨特報持續至週四。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前無颱風直接影響，也無停班停課公告，但已列入中央氣象署大雨特報範圍，隨季風低壓帶影響持續至8月31日、9月1日達降雨高峰，須留意山區短延時強降雨及午後對流雨勢；目前無新增淹水災情通報。"
+    "text": "台中山區目前列入中央氣象署大雨特報範圍，受南海低壓系統及午後對流影響，今（31日）、明（9月1日）兩日降雨風險最高；市府尚無停班停課公告，也未受颱風警報影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風警報全數解除　季風低壓帶接力襲台強降雨",
-    "dek": "沙德爾颱風已於中國廣西減弱消散，中央氣象署目前未對台發布任何海上或陸上颱風警報，但季風低壓帶挾強降雨籠罩全台，菲律賓外海並有新生熱帶低壓「畢拉羅」形成。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+    "title": "南海低壓恐重組成熱帶低氣壓　中南部豪雨警戒到週四",
+    "dek": "台灣目前無颱風警報，但南海低壓系統可能於週二、三發展並逼近台灣海峽，為本週最大變數。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署解除沙德爾海上颱風警報",
-      "dek": "沙德爾遠離台灣海域並登陸中國浙江後，海上颱風警報於8月28日下午正式解除，全程未發布陸上警報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+      "title": "南海低壓來襲　中南部迎最強降雨",
+      "dek": "氣象署示警中南部及台東今明恐現局部劇烈降雨，注意坡地與低窪淹水。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
     },
     {
       "rank": 2,
-      "title": "低壓帶發威　十縣市大雨特報同步高溫",
-      "dek": "季風低壓帶籠罩全台，中央氣象署對包含台中在內十個縣市發布大雨特報，北台灣同時面臨36度高溫。",
-      "url": "https://news.nextapple.com/life/20260830/CF7CD8396F15CF7CF86538BAAD0483A1"
+      "title": "低壓逼近　全台天氣轉不穩定",
+      "dek": "氣象署指西南風增強挾水氣，中南部將迎最持久且最強降雨。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/30/2003863360"
     },
     {
       "rank": 3,
-      "title": "南部豪雨警戒　低壓系統加西南風雙重夾擊",
-      "dek": "氣象署警告8月31日至9月1日為降雨最劇烈時段，南部恐現局部豪雨，中部與台東須慎防短延時強降雨。",
-      "url": "https://news.nextapple.com/life/20260831/0EDD7A7F941257A47E3DF1ADFC5493AF"
+      "title": "南海低壓靠近　週一週二豪雨最猛",
+      "dek": "中央社報導氣象署預估中南部及台東周一、周二恐現局部超大豪雨。",
+      "url": "https://focustaiwan.tw/society/202608300011"
     },
     {
       "rank": 4,
-      "title": "未來一週低壓籠罩全台　南海菲律賓恐醞釀新颱風",
-      "dek": "氣象專家指出，季風低壓帶將持續影響台灣天氣一週，南海至菲律賓海域另有一至兩個新系統生成的可能。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555785"
+      "title": "碧蘭朵滯留　增強西南季風",
+      "dek": "菲律賓大氣署指碧蘭朵仍在責任區內，預料9月1日減弱為殘留低壓。",
+      "url": "https://www.philstar.com/headlines/2026/08/31/2552991/pilandok-develops-inside-par-enhances-monsoon"
     },
     {
       "rank": 5,
-      "title": "熱帶低壓「畢拉羅」生成　將增強西南季風",
-      "dek": "菲律賓大氣署宣布呂宋島東方新熱帶低壓「畢拉羅」生成，預料不會登陸菲律賓，但將為當地帶來強降雨。",
-      "url": "https://www.philstar.com/headlines/2026/08/30/2552856/tropical-depression-pilandok-forms-inside-par-set-enhance-habagat"
-    },
-    {
-      "rank": 6,
-      "title": "畢拉羅路徑持續西北移　預計轉為殘留低壓",
-      "dek": "PAGASA下午公報顯示畢拉羅將先轉西北西再轉西北，於9月1日前後減弱為殘留低壓，短命系統不致直接侵襲台菲。",
+      "title": "碧蘭朵維持強度　續增季風雨勢",
+      "dek": "PAGASA下午公報指碧蘭朵距呂宋島東方約1180公里，短暫系統不易登陸。",
       "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-30-2026-5pm/"
     },
     {
+      "rank": 6,
+      "title": "碧蘭朵增強季風　宿霧迎強降雨",
+      "dek": "地方媒體報導碧蘭朵雖未登陸，仍為宿霧等地帶來強降雨與陣風。",
+      "url": "https://www.philstar.com/the-freeman/cebu-news/2026/08/31/2553045/pilandok-set-enhance-habagat"
+    },
+    {
       "rank": 7,
-      "title": "艾陶颱風生成　日本氣象廳：對台無直接影響",
-      "dek": "今年第22號颱風艾陶在東京東南方遠洋生成，預估路徑北上遠離台灣，氣象單位研判不會帶來直接衝擊。",
-      "url": "https://news.ttv.com.tw/news/11508270003800W"
+      "title": "南海再現熱帶低壓　雨勢恐炸到週四",
+      "dek": "Newtalk報導沙德爾殘留環流明重返南海，五地雨勢估延續至週四。",
+      "url": "https://newtalk.tw/news/view/2026-08-30/1056642"
     },
     {
       "rank": 8,
-      "title": "沙德爾登陸中國浙江前　結構已見減弱跡象",
-      "dek": "氣象署在沙德爾逼近台灣期間即觀測到其環流結構逐漸瓦解，為其後續迅速減弱消散埋下伏筆。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
+      "title": "低壓帶攪局　南部防豪雨北部飆高溫",
+      "dek": "Newtalk報導十縣市列入雨量特報，北台灣同步出現36度高溫。",
+      "url": "https://newtalk.tw/news/view/2026-08-30/1056555"
     },
     {
       "rank": 9,
-      "title": "沙德爾北擦台灣　氣象署發布海上警報因應",
-      "dek": "沙德爾採取偏北路徑逼近中國沿岸，途中一度靠近台灣海域，促使氣象署發布海上颱風警報。",
-      "url": "https://www.intellinews.com/taiwan-releases-sea-warning-as-typhoon-saudel-skirts-north-towards-china-463884/"
+      "title": "今明天氣最不穩　不排除新低壓生成",
+      "dek": "聯合報導南部嚴防豪雨，氣象署不排除近日再有熱帶低氣壓形成。",
+      "url": "https://udn.com/news/story/7266/9723206"
     },
     {
       "rank": 10,
-      "title": "沙德爾外圍環流曾為南台灣帶來強降雨",
-      "dek": "氣象署曾警告沙德爾外圍環流將為台南、高雄、屏東等地帶來豪雨至超大豪雨，該波降雨已隨颱風遠離而趨緩。",
-      "url": "https://focustaiwan.tw/society/202608270007"
+      "title": "太平洋氣象總覽：沙德爾除名、艾陶遠離",
+      "dek": "PDC通報沙德爾列為除名系統，艾陶持續北上減弱、對台無威脅。",
+      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
     }
   ]
 }
