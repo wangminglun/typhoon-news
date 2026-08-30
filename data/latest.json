@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T02:11:00+08:00",
+  "generated_at": "2026-08-31T03:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "颱風薩烏黛爾已於中國浙江登陸減弱，中央氣象署已解除海上警報，目前對台灣未發布任何海上或陸上颱風警報；中南部強降雨係由季風低壓槽引發，以豪雨特報因應。",
+  "alert_desc": "中央氣象署已於8月28日解除沙德爾颱風海上警報，目前對台灣未發布任何海上或陸上颱風警報；南海低壓系統恐為中南部帶來本週最強降雨，以豪雨特報因應。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前無颱風警報，但受氣象署29日發布並更新的豪雨特報影響，台灣大道29日深夜再度傳出淹水，烏日區部分住戶積水深及膝蓋，山區與低窪地區土石流及淹水風險持續至31日、9月1日，目前尚無全市停班停課公告，各區抽水及後續勘災作業持續進行中。"
+    "text": "台中市目前無颱風警報，但已列入中央氣象署大雨特報範圍，效應預估持續至8月30日夜間並於31日隨南海低壓系統增強，須留意短延時強降雨可能引發的低窪積淹水與山區坡地災害；目前尚無新增淹水災情通報，也無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風警報解除，雨勢未歇：台中夜間再淹水，高雄壽山三校首日停課",
-    "dek": "薩烏黛爾颱風登陸中國後，中央氣象署已解除海上警報，但西南季風夾帶的滯留鋒面持續為台灣中南部帶來豪雨，台中連夜淹水，高雄壽山邊坡鬆動迫使三校延後開學。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5557503"
+    "title": "颱風警報全數解除　中央氣象署示警南海低壓恐帶來本週最強降雨",
+    "dek": "沙德爾颱風威脅已解除，但氣象署警告南海一個低壓系統可能發展為熱帶性低氣壓，週末將為台灣中南部與台東帶來今年入秋以來最猛烈的降雨。",
+    "url": "https://focustaiwan.tw/society/202608300011"
   },
   "items": [
     {
       "rank": 1,
-      "title": "壽山邊坡土石鬆動　高雄三校延後開學首日停課",
-      "dek": "據自由時報報導，連日豪雨導致高雄市鼓山區壽山國中後方邊坡土石鬆動並有落石，校方與共構的壽山國小、附幼於29日晚間宣布31日——原訂開學首日——全部停課，待結構技師確認安全後再復課。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5557503"
+      "title": "南海低壓系統恐增強組織　氣象署示警本週最強降雨將至",
+      "dek": "中央氣象署預報員表示，南海低壓系統接近台灣時可能發展為熱帶性低氣壓，中南部與台東首當其衝。",
+      "url": "https://focustaiwan.tw/society/202608300011"
     },
     {
       "rank": 2,
-      "title": "台中豪雨未歇　台灣大道、烏日區連夜傳淹水",
-      "dek": "據Yahoo新聞報導引述地方消防局說法，台中市台灣大道29日深夜再度因暴雨淹水，烏日區則有住戶反映屋內積水深及膝蓋，消防局也就網路流傳的「街道變泡泡浴」畫面出面說明。",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E6%9A%B4%E9%9B%A8%E5%87%BA%E5%A5%87%E6%99%AF-%E8%A1%97%E9%81%93%E7%AB%9F%E8%AE%8A-%E5%B7%A8%E5%9E%8B%E6%B3%A1%E6%B3%A1%E6%B5%B4-%E7%8F%BE%E5%A0%B4-%E6%B6%88%E9%98%B2%E5%B1%80%E7%B7%8A%E6%80%A5%E6%BE%84%E6%B8%85%E4%BA%86-065600965.html"
-    },
-    {
-      "rank": 3,
-      "title": "季風低壓槽發威　氣象署對台中等十縣市發布豪雨特報",
-      "dek": "據Newtalk新聞報導，中央氣象署針對新竹、苗栗、台中、彰化、南投、雲林、嘉義、屏東及台東等地發布並更新豪雨特報，警告雷擊、強陣風、低窪淹水及山區土石流風險，雨勢預計於31日至9月1日達到高峰。",
+      "title": "十縣市發布大雨特報　台中在列",
+      "dek": "中央氣象署警告連日豪雨恐引發低窪淹水與山區坡地災害，效應預估持續增強至8月31日。",
       "url": "https://newtalk.tw/news/view/2026-08-30/1056602"
     },
     {
+      "rank": 3,
+      "title": "坡地鬆動風險升高　高雄壽山三校宣布開學日停課",
+      "dek": "連日豪雨致校舍後方邊坡土壤鬆動、擋土牆隆起，地質技師勘查後三校取消開學首日課程。",
+      "url": "https://www.cna.com.tw/news/aloc/202608300185.aspx"
+    },
+    {
       "rank": 4,
-      "title": "南海熱帶擾動醞釀　專家示警9月2至4日恐成形發展為颱風",
-      "dek": "據FTNN新聞網報導，氣象專家指出南海及周邊海域有兩股熱帶擾動，不排除於9月2日至4日發展為熱帶低氣壓甚至輕颱，並與增強中的西南季風疊加，延長台灣的降雨型態。",
-      "url": "https://www.ftnn.com.tw/news/574636"
+      "title": "沙德爾威脅解除　台灣目前無海上或陸上颱風警報",
+      "dek": "中央氣象署8月28日解除沙德爾海上颱風警報後，截至目前尚未發布新的颱風警報。",
+      "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
     },
     {
       "rank": 5,
-      "title": "薩烏黛爾颱風登陸中國浙江　氣象署解除台灣海上警報",
-      "dek": "據聯合新聞網報導，今年第18號颱風薩烏黛爾27日自台灣北方海面通過，僅以外圍環流影響馬祖，28日中午於中國浙江登陸後迅速減弱，中央氣象署當日下午2時30分正式解除海上颱風警報。",
-      "url": "https://udn.com/news/story/7266/9709783"
+      "title": "沙德爾颱風減弱為熱帶性低氣壓　已於中國大陸境內消散",
+      "dek": "沙德爾殘餘環流持續南移減弱，對台灣已不構成威脅。",
+      "url": "http://weather.cma.cn/web/channel-376.html"
     },
     {
       "rank": 6,
-      "title": "東太平洋颶風「卡琳娜」預估增強至三級強度",
-      "dek": "據The Watchers氣象網站及美國國家颶風中心報告，颶風卡琳娜預計8月30日風速達每小時165公里，31日左右進一步增強至約每小時205公里、逼近三級颶風強度，雖將留在外海但恐為墨西哥沿岸帶來危險湧浪。",
-      "url": "https://watchers.news/2026/08/28/tropical-storm-karina-forecast-to-reach-major-hurricane-strength-bringing-hazardous-swells-to-mexico-as-lowell-strengthens/"
+      "title": "東太平洋卡莉娜颶風增強中　預估下週達三級強度",
+      "dek": "卡莉娜預計本週末增強為颶風，並在遠洋持續增強，墨西哥西南沿岸將受長浪影響。",
+      "url": "https://www.foxweather.com/weather-news/pacific-tropical-storm-iselle-julio-el-nino-august-2026"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴「羅威爾」進入中太平洋　估將增強為颶風掠過夏威夷以南",
-      "dek": "據檀香山《星辰廣告報》報導，熱帶風暴羅威爾已跨入中太平洋海域，風速每小時約80公里，預估將於本週逐漸增強為二級颶風，並從夏威夷大島及茂宜郡以南數百英里處通過。",
-      "url": "https://www.staradvertiser.com/2026/08/30/breaking-news/tropical-storm-lowell-enters-central-pacific-on-track-to-pass-south-of-hawaii/"
+      "title": "洛威爾熱帶風暴進入中太平洋　預估以颶風強度通過夏威夷大島南方",
+      "dek": "預報員指出，洛威爾與卡莉娜可能產生藤原效應交互作用，對夏威夷的實際影響仍存在高度不確定性。",
+      "url": "https://www.hawaiitribune-herald.com/2026/08/30/hawaii-news/tropical-storm-lowell-enters-central-pacific-on-track-to-pass-south-of-big-island-as-a-hurricane/"
     },
     {
       "rank": 8,
-      "title": "雙颱「榜朗」與「艾陶」外海共舞　氣象署：對台無直接威脅",
-      "dek": "據Free Press Kashmir引述日本氣象廳資料報導，颱風榜朗與艾陶在威克島附近海域出現藤原效應交互作用，艾陶已減弱為熱帶性低氣壓，中央氣象署表示兩者皆遠離台灣，對本地天氣無直接影響。",
-      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
+      "title": "艾陶減弱為熱帶性低氣壓　與榜朗藤原效應影響淡出　台灣無虞",
+      "dek": "兩系統仍遠在威克島附近太平洋海域，先前的藤原效應已不再是台灣天氣預報的考量因素。",
+      "url": "https://news.nextapple.com/life/20260831/0EDD7A7F941257A47E3DF1ADFC5493AF"
     },
     {
       "rank": 9,
-      "title": "大西洋熱帶風暴「桃莉」遭聖嬰風切瓦解　殘餘水氣恐襲加勒比海",
-      "dek": "據Fox Weather報導，熱帶風暴桃莉在強烈聖嬰現象引發的風切與乾空氣作用下，成為命名風暴僅約24小時便消散，美國國家颶風中心評估其殘餘系統未來一週僅一成機率重新組織，但殘餘水氣預計為背風群島及加勒比海部分地區帶來強降雨與淹水風險。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-dolly-atlantic-ocean-super-el-nino-august-2026"
+      "title": "大西洋颶風季開局歷來最慢　美國國家颶風中心緊盯西非熱帶波",
+      "dek": "聖嬰現象造成的風切變抑制加勒比海系統發展，新熱帶波發展成今年風暴的機率約六成。",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
     },
     {
       "rank": 10,
-      "title": "聖嬰現象壓抑活動　大西洋颶風季開局創數十年最平靜紀錄",
-      "dek": "據weather.com報導，受增強中的聖嬰現象影響，大西洋今年迄今僅出現三個命名風暴、尚無颶風生成，為2022年以來最平靜的開局，同一氣候型態卻使東太平洋與中太平洋海溫飆高、風暴活動異常活躍。",
-      "url": "https://weather.com/2026/08/21/storms/hurricane/atlantic-hurricane-season-least-active-start-in-decades"
+      "title": "紫檀颱風罕見三度登陸中國大陸南部後消散",
+      "dek": "紫檀在海南、廣東接連登陸後於廣東吳川第三次登陸，氣象署證實其對台灣天氣全程無直接威脅。",
+      "url": "https://www.wenweipo.com/a/202608/26/AP6a8e630de4b0c1e500264880.html"
     }
   ]
 }
