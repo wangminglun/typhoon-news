@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T23:10:00+08:00",
+  "generated_at": "2026-08-31T00:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，僅因滯留低壓帶對中南部發布大雨及豪雨特報。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，僅因滯留季風槽對中南部發布大雨及豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市已於30日中午納入大雨特報範圍，午後對流恐帶來局部大雨、雷擊與強陣風，但目前無颱風警報直接影響，也未宣布停班停課。"
+    "text": "台中市目前無颱風警報，但受滯留鋒面／低壓帶影響，8月30日氣象署已對台中市發布大雨特報（山區估降雨150–300毫米），8月31日至9月1日西南風增強，中部及山區午後仍須留意局部大雨，惟尚未達停班停課標準。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾遠離警報解除　低壓帶接力襲台　中南部防大雨",
-    "dek": "中央氣象署已解除颱風海上警報，但滯留低壓帶挾豪雨籠罩中南部，氣象署示警下週低壓區恐醞釀成形。",
-    "url": "https://newtalk.tw/news/view/2026-08-30/1056602"
+    "title": "沙德爾遠離無警訊，季風槽接棒襲台中南部防豪雨",
+    "dek": "颱風警報全數解除後，滯留季風槽取而代之成為主要天氣系統，中央氣象署示警中南部本週末仍有豪雨風險，並留意9月2日前後西太平洋恐再有新熱帶系統醞釀。",
+    "url": "https://www.cna.com.tw/news/ahel/202608300145.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "十縣市發布大雨特報　台中、彰化、雲林同列警戒名單",
-      "dek": "據Newtalk新聞報導，氣象署30日中午發布大雨特報涵蓋台中等十縣市，彰化、雲林並列等級更高的豪雨特報。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056602"
-    },
-    {
-      "rank": 2,
-      "title": "滯留低壓帶纏台　中南部豪雨不斷、北部飆36度高溫",
-      "dek": "據Newtalk新聞報導，滯留低壓帶為中南部帶來局部大雨，北部及東部則持續受高溫影響，氣象署示警山區坍方及瞬間強降雨風險。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056555"
-    },
-    {
-      "rank": 3,
-      "title": "氣象署示警：南方低壓區下週恐發展成颱風",
-      "dek": "據Newtalk新聞報導，氣象署指出台灣南方低壓區8月31日至9月5日間有機會發展為熱帶性低氣壓或輕颱，目前仍待觀察。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056582"
-    },
-    {
-      "rank": 4,
-      "title": "熱帶擾動94W逼近　氣象論壇示警天氣將劇烈轉變",
-      "dek": "據自由時報報導，論壇追蹤到低壓系統94W接近台灣，預期天氣將出現明顯轉變，中南部降雨風險升高，惟尚未經氣象署證實。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5544715"
-    },
-    {
-      "rank": 5,
-      "title": "沙德爾登陸浙江後減弱　氣象署解除海上颱風警報",
-      "dek": "據中央社報導，颱風沙德爾28日上午於中國浙江附近登陸減弱，氣象署當日下午2時30分解除海上颱風警報。",
+      "title": "颱風沙德爾遠離　氣象署下午2時30分解除海警",
+      "dek": "據中央社報導，沙德爾強度減弱、暴風圈縮小，已於8月28日上午登陸中國浙江，氣象署隨即解除海上颱風警報。",
       "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
     },
     {
+      "rank": 2,
+      "title": "沙德爾颱風海警解除　強度減弱暴風圈縮小",
+      "dek": "自由時報報導證實警報解除，並指出中南部地區在警報解除後仍將持續受局部較強降雨影響。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555439"
+    },
+    {
+      "rank": 3,
+      "title": "中南部及台東防豪雨　9月2日後水氣漸緩",
+      "dek": "據中央社報導，低壓帶自南海移入，氣象署預估8月31日至9月1日為本週雨勢高峰，9月2日至5日將逐漸趨緩。",
+      "url": "https://www.cna.com.tw/news/ahel/202608300145.aspx"
+    },
+    {
+      "rank": 4,
+      "title": "大雨特報涵蓋十縣市　氣象署示警防積淹雷擊",
+      "dek": "據Newtalk新聞報導，彰化、雲林獲發豪雨特報，另有新竹、苗栗、台中等七縣市發布大雨特報，籲防範淹水及雷擊。",
+      "url": "https://newtalk.tw/news/view/2026-08-30/1056602"
+    },
+    {
+      "rank": 5,
+      "title": "季風槽成「颱風溫床」　專家示警9月2日前後恐現多個熱帶擾動",
+      "dek": "據Newtalk新聞報導，氣象專家林得恩指出季風槽條件有利熱帶系統發展，惟現階段尚無法確認是否威脅台灣。",
+      "url": "https://newtalk.tw/news/view/2026-08-30/1056558"
+    },
+    {
       "rank": 6,
-      "title": "熱帶風暴帛琅威克島外海減弱消散　不威脅陸地",
-      "dek": "據Zoom Earth／Cyclocane追蹤資料，帛琅風速已降至約35節並發布最後警報，遠離台灣及任何陸地。",
-      "url": "https://zoom.earth/storms/bang-lang-2026/"
+      "title": "低壓帶南北天氣兩極　南部防豪雨、北台灣飆36度",
+      "dek": "據Newtalk新聞報導，滯留季風槽造成南部須嚴防豪雨，北台灣及台北盆地則出現高溫，天氣型態預料延續至9月初。",
+      "url": "https://newtalk.tw/news/view/2026-08-30/1056555"
     },
     {
       "rank": 7,
-      "title": "熱帶性低氣壓艾陶滯留遠洋　與台灣天氣無關",
-      "dek": "據太平洋災害中心（PDC）資料，艾陶仍為弱熱帶性低氣壓，位於威克島西方約700英里處，暫無增強或登陸跡象。",
-      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
+      "title": "低壓帶籠罩全台一週有雨　南海至菲律賓恐醞釀新颱風",
+      "dek": "據自由時報報導，未來一週台灣本島幾乎天天有雨，南海到菲律賓一帶另有兩個熱帶系統發展跡象值得觀察。",
+      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5555785"
     },
     {
       "rank": 8,
-      "title": "東太平洋颶風卡莉娜增強　週一恐達三級颶風強度",
-      "dek": "據Click2Houston（美聯社電）報導，卡莉娜已升級為颶風，預估週一前後風速達每小時115英里，但路徑遠離陸地，僅為墨西哥西南沿岸帶來危險大浪。",
-      "url": "https://www.click2houston.com/tech/2026/08/30/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm-this-week/"
+      "title": "颶風卡莉娜增強　本週可能發展為主要颶風",
+      "dek": "據美聯社報導，卡莉娜已於8月30日增強為一級颶風，位於墨西哥下加利福尼亞半島西南方海面，預測本週將持續增強。",
+      "url": "https://www.manilatimes.net/2026/08/30/world/americas-emea/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm-this-week/2414706"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴羅威爾增強逼近中太平洋　夏威夷暫無登陸威脅",
-      "dek": "據夏威夷《The Garden Island》報導，羅威爾距夏威夷東南方約1150英里，預估週四增強為颶風，但暫未顯示直接登陸威脅。",
+      "title": "熱帶風暴羅威爾增強　逐步逼近中太平洋夏威夷海域",
+      "dek": "據夏威夷當地媒體The Garden Island報導，羅威爾預計本週進入中太平洋，並可能增強為二級颶風。",
       "url": "https://www.thegardenisland.com/2026/08/30/hawaii-news/tropical-storm-lowell-strengthens-as-it-nears-central-pacific/"
     },
     {
       "rank": 10,
-      "title": "大西洋熱帶風暴桃莉遇風切減弱消散　殘餘水氣恐襲波多黎各",
-      "dek": "據CBS News報導，桃莉因強烈風切減弱為一般擾動，其殘餘水氣預計為波多黎各及維京群島帶來豪雨及淹水風險，美國國家颶風中心估重新發展機率僅一成。",
-      "url": "https://www.cbsnews.com/news/tropical-storm-dolly-forms-atlantic-ocean/"
+      "title": "大西洋兩熱帶系統受矚目　多莉殘餘消散、96L擾動待觀察",
+      "dek": "據Yale Climate Connections報導，熱帶風暴多莉殘餘環流已無重新發展跡象，另一熱帶擾動96L則在大西洋中部受到氣象單位追蹤。",
+      "url": "https://yaleclimateconnections.org/2026/08/two-atlantic-tropical-disturbances-to-watch-tropical-storm-moke-brings-rain-to-hawaii/"
     }
   ]
 }
