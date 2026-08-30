@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T07:09:00+08:00",
+  "generated_at": "2026-08-30T08:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月28日下午解除颱風薩德爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟西南氣流持續為中南部及台中山區帶來大雨特報。",
+  "alert_desc": "中央氣象署已於8月28日下午解除颱風薩德爾的海上颱風警報，全程未發布陸上颱風警報，目前台灣未有任何海上或陸上颱風警報生效，惟一道季風低壓槽籠罩全台，西半部及中南部仍須留意午後大雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風警報等級直接影響，市府亦未宣布停班停課；台中山區已列入中央氣象署8月29日發布、效期涵蓋29日午後至30日的15縣市大雨特報範圍，因西南氣流疊加午後對流，須留意大雨、雷擊及局部積淹水、土石流風險。"
+    "text": "台中目前無颱風警報等級直接影響，市府未宣布停班停課；中部地區籠罩在季風低壓帶影響下，中天新聞網報導指出西半部8月30日午後有大雨風險，惟台中尚未發布專屬豪雨特報。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "薩德爾登陸浙江退場 台灣暫解颱風警報 西太平洋現罕見三颱同框",
-    "dek": "中央氣象署已解除薩德爾颱風海上警報，台灣暫無颱風直接威脅，但西南氣流仍為中南部及台中山區帶來強降雨，西太平洋同時有三個熱帶氣旋活躍，創下六十年來罕見態勢。",
-    "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
+    "title": "薩德爾消散 台灣仍受西南氣流影響",
+    "dek": "中南部防局部大雨，專家警告未來恐再有三颱接力生成",
+    "url": "https://news.pts.org.tw/article/824533"
   },
   "items": [
     {
       "rank": 1,
-      "title": "薩德爾雙度登陸浙江 交通大亂",
-      "dek": "南華早報報導，薩德爾28日清晨以最大陣風126公里連續登陸台州玉環與溫州，寧波、上海班機與渡輪大受影響，浙江已提升至最高等級應變。",
-      "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
+      "title": "薩德爾登陸消散 海警解除",
+      "dek": "公視新聞網報導，薩德爾登陸浙江後消散，氣象署28日下午解除海上颱風警報。",
+      "url": "https://news.pts.org.tw/article/824533"
     },
     {
       "rank": 2,
-      "title": "新華社證實薩德爾登陸浙江",
-      "dek": "中國官方媒體新華社報導，薩德爾為今年第三個侵襲浙江的強颱，此前巴威與多芬已相繼登陸。",
-      "url": "https://english.news.cn/20260828/503872bf44c743829d7ac2a29450e3c9/c.html"
+      "title": "無颱風威脅 低壓籠罩全台",
+      "dek": "新頭殼報導，薩德爾遠離後季風低壓槽籠罩台灣，未來一週天氣仍不穩定。",
+      "url": "https://newtalk.tw/news/view/2026-08-29/1056515"
     },
     {
       "rank": 3,
-      "title": "台灣解除薩德爾海上警報",
-      "dek": "中央氣象署28日下午2時30分宣布解除海警，因薩德爾路徑北偏僅外圍掠過馬祖，台灣本島未曾發布陸上警報。",
-      "url": "https://news.tvbs.com.tw/life/4011700"
+      "title": "西半部防午後大雨",
+      "dek": "中天新聞網報導，氣象署預測8月30日西半部午後大雨，下週恐有新系統生成。",
+      "url": "https://ctinews.com/news/items/14a1prbpWk"
     },
     {
       "rank": 4,
-      "title": "三颱共存 追平1966年紀錄",
-      "dek": "壹蘋新聞網報導，薩德爾、艾陶與新生颱風邦朗同時活躍，今年8月颱風數追平日本氣象廳統計1966年以來最高紀錄。",
-      "url": "https://news.nextapple.com/life/20260828/CC3634F1E15F71372EB17C56E5ED3098"
+      "title": "專家示警恐三颱接力",
+      "dek": "雅虎新聞台灣報導，氣象專家指南部雨勢未歇，未來數週恐有三個熱帶系統接續生成。",
+      "url": "https://tw.news.yahoo.com/%E5%8D%97%E9%83%A8%E9%9B%A8%E5%8B%A2%E9%82%84%E6%B2%92%E5%AE%8C-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E8%87%B3%E5%B0%91%E4%B8%8B%E5%88%B0%E9%80%99%E5%A4%A9-%E6%81%90%E6%9C%893%E9%A2%B1%E6%8E%A5%E5%8A%9B%E7%94%9F%E6%88%90-044647202.html"
     },
     {
       "rank": 5,
-      "title": "颱風邦朗生成 距台尚遠",
-      "dek": "壹蘋新聞網報導，日本氣象廳將威克島附近熱帶低壓升格為今年第23號颱風邦朗，路徑偏東北，對台灣無威脅。",
-      "url": "https://news.nextapple.com/life/20260828/87AF3111CFDC7B34A1537F234DC9F316"
+      "title": "海警解除後南部續防豪雨",
+      "dek": "雅虎新聞台灣引述氣象署指出，南部仍須慎防局部大雨，低壓帶影響未來天氣。",
+      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%B5%B7%E8%AD%A6%E8%A7%A3%E9%99%A4-%E4%B8%AD%E5%8D%97%E9%83%A8%E7%BA%8C%E9%98%B2%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8-%E4%BD%8E%E5%A3%93%E5%B8%B6%E5%BD%B1%E9%9F%BF%E6%9C%AA%E4%BE%86%E5%A4%A9%E6%B0%A3%E4%B8%8D%E7%A9%A9%E5%AE%9A-002630029.html"
     },
     {
       "rank": 6,
-      "title": "專家：強聖嬰助長颱風接力",
-      "dek": "中時新聞網報導，氣象專家指出艾陶與邦朗接連發展與極強聖嬰現象有關，惟兩者均遠離台灣。",
-      "url": "https://www.chinatimes.com/realtimenews/20260827003200-260405"
+      "title": "紫檀三度登陸中國釀撤離",
+      "dek": "聯合新聞網報導，紫檀三度登陸海南、廣東，兩省逾3萬人撤離，對台無威脅。",
+      "url": "https://udn.com/news/story/7332/9715667"
     },
     {
       "rank": 7,
-      "title": "西南氣流發威 15縣市大雨特報",
-      "dek": "TVBS新聞報導，中央氣象署針對包含台中山區在內15縣市發布大雨特報，警戒雷擊、強陣風與淹水土石流風險。",
-      "url": "https://news.tvbs.com.tw/life/4014523"
+      "title": "廣西水淹及一層樓高",
+      "dek": "東森新聞報導，紫檀豪雨致廣西龍州、寧明河水氾濫，民宅淹水深及一層樓。",
+      "url": "https://news.ebc.net.tw/news/living/568244"
     },
     {
       "rank": 8,
-      "title": "「雨彈」襲台 全台戒備淹水",
-      "dek": "Newtalk新聞報導，西南季風帶來的強降雨持續籠罩15個特報縣市，氣象署提醒防範雷擊與局部淹水。",
-      "url": "https://newtalk.tw/news/view/2026-08-29/1056477"
+      "title": "榜勒颱風生成 遠離陸地",
+      "dek": "Free Press Kashmir引述日本氣象廳報導，颱風榜勒在威克島附近生成，朝北北東移動。",
+      "url": "https://freepresskashmir.news/2026/08/28/japan-says-typhoon-bang-lang-forms-near-wake-island-in-the-pacific-ocean/"
     },
     {
       "rank": 9,
-      "title": "「颱風窩」成形 南台灣估連炸10天",
-      "dek": "ETtoday報導，氣象專家形容西太平洋近期成為熱帶氣旋密集生成的「颱風窩」，南台灣降雨估將再持續約十天。",
-      "url": "https://www.ettoday.net/news/20260828/3227175.htm"
+      "title": "艾陶與榜勒雙颱互旋",
+      "dek": "太平洋災害中心報告指出，熱帶風暴艾陶與榜勒發生雙颱互旋效應，均不威脅陸地。",
+      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
     },
     {
       "rank": 10,
-      "title": "馬尼拉豪雨停課 紅色警報發布",
-      "dek": "綜合馬尼拉時報等外媒報導，菲律賓氣象署因西南季風豪雨對馬尼拉大都會等地發布紅色警報，週六停課因應淹水風險。",
-      "url": "https://www.manilatimes.net/2026/08/28/news/manila-suspends-saturday-classes-as-habagat-persists/2414180"
+      "title": "馬尼拉西南季風釀水患",
+      "dek": "《馬尼拉時報》報導，西南季風豪雨淹沒大馬尼拉九城，並發布火山泥流警報。",
+      "url": "https://www.manilatimes.net/2026/08/30/news/heavy-rainfall-brings-floods-lahar-warning/2414592"
     }
   ]
 }
