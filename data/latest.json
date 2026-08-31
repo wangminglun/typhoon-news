@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T07:11:00+08:00",
+  "generated_at": "2026-08-31T08:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已解除沙德爾颱風海上警報，台灣本島目前無海上或陸上颱風警報生效中，但南海一低壓系統可能於8月31日至9月1日間發展成熱帶低壓，並已促使氣象署對10縣市發布大雨或豪雨特報。",
+  "alert_desc": "中央氣象署目前並未針對台灣本島發布任何海上或陸上颱風警報，但南海一低壓系統（可能併入沙德爾颱風殘餘環流）預計於8月31日至9月1日為台灣中南部及台東帶來本週最強降雨，氣象署將持續觀察是否進一步發展成熱帶性低氣壓。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風直接影響，也未發布停班停課，惟已列入中央氣象署8月30日大雨特報範圍，受南海低壓帶及午後強對流影響仍有降雨風險。"
+    "text": "台中目前無颱風警報或停班停課，僅可能受南海低壓系統外圍環流及西南氣流增強影響，出現短暫陣雨或雷雨，民眾外出仍應留意天氣變化。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風警報全數解除　台灣轉為留意南海新生熱帶低壓",
-    "dek": "沙德爾颱風登陸中國後海上警報已解除，中央氣象署示警，一個吸收其殘餘水氣的南海低壓系統可能於本週末發展成熱帶低壓，為台灣中南部帶來新一波強降雨。",
+    "title": "南海低壓逼近台灣　中央氣象署密切觀察是否醞釀成熱帶性低氣壓",
+    "dek": "沙德爾颱風殘餘環流恐併入南海低壓系統，本週一、二將為台灣中南部及台東帶來今年入秋以來最強降雨，但氣象署強調目前尚未達到發布颱風警報標準。",
     "url": "https://focustaiwan.tw/society/202608300011"
   },
   "items": [
     {
       "rank": 1,
-      "title": "低壓系統逼近　氣象署示警強降雨恐襲全台",
-      "dek": "中央氣象署預測，一個部分承接颱風沙德爾殘餘水氣的低壓系統將為台灣帶來本週最強降雨，南部、中部及台東地區恐出現極端強降雨。",
+      "title": "南海低壓系統逼近台灣　週一、二恐現今年最強降雨",
+      "dek": "中央氣象署示警南部、中部山區與台東有極端強降雨風險，並持續觀察系統是否發展為熱帶性低氣壓或輕度颱風。",
       "url": "https://focustaiwan.tw/society/202608300011"
     },
     {
       "rank": 2,
-      "title": "低壓帶發展　氣象署示警全台天氣轉不穩定",
-      "dek": "台北時報報導，隨著低壓帶在台灣附近醞釀，中央氣象署預期天氣將轉為不穩定，強降雨可能持續增強至9月初。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/30/2003863360"
+      "title": "氣象署發布未來一週降雨展望　低壓系統夾雜西南氣流影響全台",
+      "dek": "南部有豪雨到大豪雨機率，中部與台東須慎防短延時強降雨，惟目前尚未發布颱風警報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
     },
     {
       "rank": 3,
-      "title": "低壓帶發威　10縣市發布大雨特報　北台灣同步嚴防36度高溫",
-      "dek": "受低壓帶及午後強對流影響，中央氣象署8月30日對彰化、雲林、新竹、苗栗、台中、南投、嘉義、屏東、台東等10縣市發布大雨或豪雨特報，大台北、桃園則面臨高溫警戒。",
-      "url": "https://news.nextapple.com/life/20260830/CF7CD8396F15CF7CF86538BAAD0483A1"
+      "title": "沙德爾颱風殘餘環流恐併入南海新生低壓　專家估發展機率一至二成",
+      "dek": "南海至菲律賓海域仍籠罩在季風槽中，氣象專家指殘餘雲系逼近台灣時可能增強為熱帶性低氣壓。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5555785"
     },
     {
       "rank": 4,
-      "title": "南海醞釀新熱帶低壓　沙德爾殘餘水氣恐助長雨勢",
-      "dek": "中央氣象署預報員王品翔表示，沙德爾殘留雲系可能與南海低壓合併並增強為熱帶低壓，是否達颱風強度仍待觀察，預估31日起全台雨勢明顯增強。",
-      "url": "https://newtalk.tw/news/view/2026-08-30/1056642"
+      "title": "颱風艾陶減弱為熱帶性低氣壓　滯留西太平洋公海不影響台灣",
+      "dek": "美國太平洋災害中心證實，艾陶殘餘系統遠離陸地，我國氣象專家確認不會直接影響台灣天氣。",
+      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-lowell-tropical-cyclone-karina-tropical-cyclone-01c-lala-retiring-tropical-cyclone-17w-saudel-tropical-cyclone-20w-tropical-cyclone-21-etau-pacific/"
     },
     {
       "rank": 5,
-      "title": "氣象署預警　下週台灣天氣將轉不穩定",
-      "dek": "焦點台灣報導，中央氣象署預先示警一個發展中的低壓系統將為台灣帶來為期一週的不穩定天氣，降雨預計於下週初增強。",
-      "url": "https://focustaiwan.tw/society/202608290004"
+      "title": "熱帶風暴榜嵐北轉遠離陸地　未來恐與艾陶殘餘環流互旋轉化",
+      "dek": "榜嵐中心氣壓986百帕，以時速約48公里向北北東移動，預測48至72小時內展開副熱帶轉化，全程不登陸。",
+      "url": "https://zoom.earth/storms/bang-lang-2026/"
     },
     {
       "rank": 6,
-      "title": "沙德爾登陸浙江　氣象署解除海上颱風警報",
-      "dek": "中央社報導，颱風沙德爾8月28日上午登陸中國浙江後，中央氣象署於當日下午2時30分解除海上警報，宣告不再直接威脅台灣。",
-      "url": "https://focustaiwan.tw/society/202608280012"
+      "title": "卡琳娜颶風東太平洋增強　美國國家颶風中心估將達強烈颶風等級",
+      "dek": "卡琳娜風速已近每小時90英里，預測8月31日前後增強為三級以上強烈颶風，並在墨西哥太平洋岸掀起危險湧浪。",
+      "url": "https://www.koreatimes.co.kr/world/20260830/tropical-storm-karina-strengthens-into-hurricane-in-pacific-threatens-major-damage-this-week"
     },
     {
       "rank": 7,
-      "title": "警報雖除　減弱後沙德爾外圍環流仍為南部帶來強降雨",
-      "dek": "台北時報報導，即使海上警報已解除，沙德爾外圍西南風仍為屏東、高雄山區帶來短暫強降雨，台中、南投及雲嘉山區也有降雨風險。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863291"
+      "title": "熱帶風暴洛威爾進入中太平洋　預估增強為強颶風掠過夏威夷南側",
+      "dek": "洛威爾當前風速約每小時50英里，本週中可能增強至二級颶風等級，最終強度仍受東側卡琳娜颶風牽動。",
+      "url": "https://www.staradvertiser.com/2026/08/30/breaking-news/tropical-storm-lowell-enters-central-pacific-on-track-to-pass-south-of-hawaii/"
     },
     {
       "rank": 8,
-      "title": "颱風沙德爾逼近　台灣發布海上颱風警報",
-      "dek": "中央氣象署8月27日上午發布海上颱風警報，當時沙德爾暴風圈半徑達200公里、最大持續風速每小時126公里，正朝馬祖及中國方向前進。",
-      "url": "https://focustaiwan.tw/society/202608270003"
+      "title": "熱帶性低氣壓Pilandok增強西南季風　菲律賓呂宋島面臨豪雨威脅",
+      "dek": "菲律賓大氣地球物理天文局預測系統將於9月1日短暫增強為熱帶風暴，隨後在9月2、3日離開菲律賓責任區，不會登陸。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-31-2026-5am/"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴卡莉娜恐增強為強烈颶風　墨西哥沿岸嚴防危險湧浪",
-      "dek": "The Watchers報導，位於下加利福尼亞半島西南方海域的熱帶風暴卡莉娜預計將增強為三級颶風，其掀起的湧浪恐為墨西哥西南沿岸帶來危險激浪與離岸流。",
-      "url": "https://watchers.news/2026/08/28/tropical-storm-karina-forecast-to-reach-major-hurricane-strength-bringing-hazardous-swells-to-mexico-as-lowell-strengthens/"
+      "title": "墨西哥灣擾動系統受觀察　美國國家颶風中心估兩日內三至五成發展機率",
+      "dek": "低壓區位於路易斯安那州外海約125英里處，即使未正式發展成熱帶氣旋，仍可能在週二前為當地帶來豪雨。",
+      "url": "https://www.atlantanewsfirst.com/2026/08/30/tropical-development-possible-gulf-through-tuesday/"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴羅威爾進入中太平洋　路徑將經夏威夷以南",
-      "dek": "檀香山星報報導，熱帶風暴羅威爾已跨入中太平洋海域，預計增強為颶風並持續往夏威夷以南方向移動，當地仍可能出現長浪等間接影響。",
-      "url": "https://www.staradvertiser.com/2026/08/30/breaking-news/tropical-storm-lowell-enters-central-pacific-on-track-to-pass-south-of-hawaii/"
+      "title": "大西洋整體平靜　熱帶風暴多莉殘餘環流逐漸消散",
+      "dek": "多莉殘餘系統為波多黎各至背風群島北部帶來零星陣雨但無明顯環流，美國國家颶風中心預期大西洋未來一週無其他熱帶系統發展。",
+      "url": "https://yaleclimateconnections.org/2026/08/two-atlantic-tropical-disturbances-to-watch-tropical-storm-moke-brings-rain-to-hawaii/"
     }
   ]
 }
