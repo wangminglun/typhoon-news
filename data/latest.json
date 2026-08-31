@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T12:12:00+08:00",
+  "generated_at": "2026-08-31T13:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署未發布海上或陸上颱風警報，僅因南海低壓與西南氣流對中南部及台東發布大雨特報。",
+  "alert_desc": "中央氣象署未發布海上或陸上颱風警報，僅因南海低壓與西南氣流對南部、東南部及部分山區發布大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響，未列入大雨特報縣市，僅午後有局部雷陣雨機率，無停班停課或颱風相關措施。"
+    "text": "台中並非這波系統的主要衝擊範圍，也未受任何颱風警報影響，但山區與丘陵地帶仍在南海低壓與西南季風豪雨特報範圍內，不排除局部強降雨，目前無停班停課相關措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風警報全數解除　西南季風挾南海低壓襲台　中南部東部本週最大雨勢將至",
-    "dek": "中央氣象署表示，前颱風「沙德爾」殘餘低壓已在中國大陸南方海面徘徊，台灣目前無海上或陸上颱風警報，但南海低壓與西南氣流疊加，今明兩天將為中南部及台東帶來今年入秋以來最猛烈的降雨。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
+    "title": "全台無颱風警報　西南季風夾豪雨襲南台灣",
+    "dek": "中央氣象署表示，颱風沙德爾海上警報已於8月28日解除，但南海低壓與增強中的西南季風交互作用，31日至9月1日將為南部與東南部地區帶來本週最強降雨。",
+    "url": "https://focustaiwan.tw/society/202608300011"
   },
   "items": [
     {
       "rank": 1,
-      "title": "低壓帶接近　中南部東部明後天防豪雨",
-      "dek": "中央氣象署預測南海低壓將為台灣帶來本週最大雨勢，南部、中部及台東有局部大雨到豪雨的風險。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
+      "title": "南海低壓夾西南季風　南台灣迎來本週最強降雨",
+      "dek": "中央社報導，低壓系統與增強中的西南季風將於8月31日至9月1日為高雄、台南、屏東與台東帶來本週最劇烈降雨。",
+      "url": "https://focustaiwan.tw/society/202608300011"
     },
     {
       "rank": 2,
-      "title": "中南部及台東明起防豪雨　9/2後水氣逐日漸緩",
-      "dek": "氣象署預報員王品翔說明，南海低壓靠近台灣期間，南部需嚴防局部豪雨到超大豪雨，中部及台東則留意短延時強降雨。",
-      "url": "https://www.cna.com.tw/news/ahel/202608300145.aspx"
+      "title": "低壓系統來襲　中央氣象署示警全台天氣不穩定",
+      "dek": "《台北時報》報導，中央氣象署警告低壓槽與西南氣流增強將使全台天氣濕冷不穩，8月31日至9月1日為降雨最劇烈時段，其後緩解。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/30/2003863360"
     },
     {
       "rank": 3,
-      "title": "南部豪雨警戒！低氣壓夾擊台灣　天氣一路濕到周末",
-      "dek": "沙德爾殘餘低壓南移恐與南海低壓相互作用，不排除在接近台灣時增強為熱帶低氣壓，菲律賓東側另有系統醞釀。",
+      "title": "南部豪雨警戒！低氣壓夾擊台灣　濕冷天氣直到周末",
+      "dek": "壹蘋新聞網報導，沙德爾殘餘環流恐與南海低壓結合，甚至可能在接近台灣時發展為新的熱帶性低氣壓，南部短時強降雨風險最高。",
       "url": "https://news.nextapple.com/life/20260831/0EDD7A7F941257A47E3DF1ADFC5493AF"
     },
     {
       "rank": 4,
-      "title": "Heavy rain forecast as low-pressure system nears Taiwan",
-      "dek": "中央氣象署指出，南海低壓將於8月31日至9月1日為台灣帶來本週最強降雨，南部與台東面臨超大豪雨風險，是否增強為熱帶低氣壓仍待觀察。",
-      "url": "https://focustaiwan.tw/society/202608300011"
-    },
-    {
-      "rank": 5,
-      "title": "天文台：熱帶氣旋沙德爾殘餘或重新增強　黃昏移近海南島",
-      "dek": "香港天文台表示，深入內陸後減弱的沙德爾殘餘低壓正在雷州半島至海南島一帶重新組織，預料黃昏前逐漸增強為熱帶低氣壓。",
+      "title": "沙德爾殘餘環流逼近海南　香港天文台觀察是否再增強",
+      "dek": "星島日報報導，沙德爾殘餘環流傍晚移向海南島，天文台評估是否發布一號戒備信號，研判對台灣無影響。",
       "url": "https://www.singtaousa.com/2026/08/30/news/china/tropical-cyclone-shadur-remnant-reintensifies/"
     },
     {
-      "rank": 6,
-      "title": "特別天氣提示｜天文台：沙德爾移向海南島　黃昏考慮發一號信號",
-      "dek": "香港天文台預告，沙德爾殘餘系統將於9月1日至2日橫越南海北部並趨向廣東東部沿岸，屆時香港風力將因與東北季風共同作用而增強。",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385164/%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%B2%99%E5%BE%B7%E7%88%BE%E7%A7%BB%E5%90%91%E6%B5%B7%E5%8D%97%E5%B3%B6-%E9%BB%83%E6%98%8F%E8%80%83%E6%85%AE%E7%99%BC%E4%B8%80%E8%99%9F%E4%BF%A1%E8%99%9F"
+      "rank": 5,
+      "title": "南海低壓登陸海南　天文台稱不排除回馬槍襲廣東",
+      "dek": "香港01報導，與沙德爾相關的南海低壓系統已在海南文昌一帶登陸，升級為熱帶低氣壓，預料徘徊雷州半島數日，對台灣無影響。",
+      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60381866/%E4%B8%89%E6%97%8B%E5%85%B1%E8%88%9E-%E5%8D%97%E6%B5%B7%E4%BD%8E%E5%A3%93%E5%8D%80%E4%BB%8A%E6%97%A9%E7%99%BB%E9%99%B8%E6%B5%B7%E5%8D%97%E5%B3%B6-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%8F%AF%E8%83%BD%E5%9B%9E%E9%A6%AC%E6%A7%8D%E8%A5%B2%E5%BB%A3%E6%9D%B1"
     },
     {
-      "rank": 7,
-      "title": "'Pilandok' slightly intensifies over Philippine Sea, may become storm",
-      "dek": "PAGASA表示，熱帶低氣壓Pilandok目前位於呂宋島東方1130公里處，幾乎停滯，可能於週二短暫增強為熱帶風暴，但不太可能登陸菲律賓。",
+      "rank": 6,
+      "title": "熱帶低壓Pilandok滯留菲律賓海　PAGASA估周二增強為風暴",
+      "dek": "Philstar報導，Pilandok位於呂宋島以東約1130公里海面幾乎滯留，PAGASA預測其可能短暫達到熱帶風暴強度，隨後減弱並於周三夜間至周四上午離開責任區。",
       "url": "https://www.philstar.com/headlines/weather/2026/08/31/2553057/pilandok-slightly-intensifies-over-philippine-sea-may-become-storm"
     },
     {
+      "rank": 7,
+      "title": "Pilandok增強西南季風　呂宋與西米沙鄢群島迎降雨",
+      "dek": "Rappler報導，Pilandok本身遠在外海，但其增強的西南季風已為伊羅戈、阿布拉、描戈律等地帶來降雨，馬尼拉都會區也可能出現零星雨勢。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-31-2026-5am/"
+    },
+    {
       "rank": 8,
-      "title": "Pilandok maintains strength, enhances southwest monsoon",
-      "dek": "Rappler報導指出，熱帶低氣壓Pilandok雖對菲律賓陸地無直接威脅，仍持續增強西南季風，為碧瑤等地帶來強降雨，當地維持橙色豪雨警戒。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-30-2026-5pm/"
+      "title": "卡琳娜颶風急速增強為三級強颶風　暫不威脅陸地",
+      "dek": "美聯社報導，卡琳娜颶風在墨西哥太平洋外海迅速增強為風速近每小時125英里的三級颶風，雖不直接登陸，但恐在下加利福尼亞沿岸掀起危險大浪與離岸流。",
+      "url": "https://www.local10.com/tech/2026/08/30/karina-rapidly-becomes-a-major-hurricane-in-the-pacific-far-from-land-forecasters-say/"
     },
     {
       "rank": 9,
-      "title": "台風18号から変わった熱帯低気圧が再び台風になる予想　9月1日までに南シナ海で",
-      "dek": "日本氣象廳最新資料顯示，原颱風「沙德爾」殘留的熱帶低氣壓，預料將於9月1日前後在南海重新發展為颱風，颱風Baran則持續北移遠離日本。",
-      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/08/31/40381.html"
+      "title": "羅威爾熱帶風暴進入中太平洋　卡琳娜持續西行",
+      "dek": "Hawaii News Now報導，羅威爾風暴已進入中太平洋海域，距夏威夷希洛東南方約985英里，預料將增強為颶風，但目前兩系統均未威脅夏威夷登陸。",
+      "url": "https://www.hawaiinewsnow.com/2026/08/30/tropical-storm-lowell-moves-into-central-pacific-karina-continues-westward/"
     },
     {
       "rank": 10,
-      "title": "Two Atlantic tropical disturbances to watch; Tropical Storm Moke brings rain to Hawaii",
-      "dek": "全球熱帶氣旋綜覽顯示，今年大西洋颶風季至今僅有兩個命名風暴且無颶風生成，相形之下西太平洋與台灣海峽周邊系統仍是全球最受矚目的活躍熱帶天氣。",
-      "url": "https://yaleclimateconnections.org/2026/08/two-atlantic-tropical-disturbances-to-watch-tropical-storm-moke-brings-rain-to-hawaii/"
+      "title": "太平洋卡琳娜、羅威爾同時成形　大西洋桃莉風暴也在活動",
+      "dek": "NBC新聞（引述美聯社報導）指出，東／中太平洋的卡琳娜與羅威爾，加上大西洋的桃莉，三大洋盆同時有命名風暴活躍，但均未威脅亞太陸地。",
+      "url": "https://www.nbcnews.com/news/us-news/tropical-storms-karina-lowell-form-pacific-ocean-dolly-churns-atlantic-rcna594852"
     }
   ]
 }
