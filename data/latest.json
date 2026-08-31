@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T11:12:00+08:00",
+  "generated_at": "2026-08-31T12:12:00+08:00",
   "alert_level": "none",
-  "alert_text": "目前無警報",
-  "alert_desc": "台灣目前未發布海上或陸上颱風警報，但沙德爾殘餘環流已恢復為熱帶低氣壓，且日本氣象廳警告其可能於24小時內再度增強為颱風，情勢仍在觀察中。",
+  "alert_text": "目前無颱風警報",
+  "alert_desc": "中央氣象署未發布海上或陸上颱風警報，僅因南海低壓與西南氣流對中南部及台東發布大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中未列入中央氣象署最新豪雨特報範圍（僅花蓮、台東、高雄、屏東），目前也無停班停課消息，僅提醒本週稍晚若南海低壓持續逼近，中部可能出現局部短暫大雨。"
+    "text": "台中目前無直接影響，未列入大雨特報縣市，僅午後有局部雷陣雨機率，無停班停課或颱風相關措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾「復活」　日本氣象廳警告24小時內恐重返颱風強度",
-    "dek": "在中國海南島外海重組為熱帶低氣壓後，沙德爾殘餘環流以罕見路徑回彈南海，逼近台灣海峽南部與香港外海，中央氣象署表示不排除發布新警報。",
-    "url": "https://newtalk.tw/news/view/2026-08-31/1056713"
+    "title": "颱風警報全數解除　西南季風挾南海低壓襲台　中南部東部本週最大雨勢將至",
+    "dek": "中央氣象署表示，前颱風「沙德爾」殘餘低壓已在中國大陸南方海面徘徊，台灣目前無海上或陸上颱風警報，但南海低壓與西南氣流疊加，今明兩天將為中南部及台東帶來今年入秋以來最猛烈的降雨。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾「復活」為熱帶低氣壓　日本氣象廳：恐24小時內再成颱風",
-      "dek": "在海南島與雷州半島一帶重組後，沙德爾殘餘環流未見消散，日本氣象廳警告其可能於一天內重新增強並逼近台灣海峽南部。",
-      "url": "https://newtalk.tw/news/view/2026-08-31/1056713"
+      "title": "低壓帶接近　中南部東部明後天防豪雨",
+      "dek": "中央氣象署預測南海低壓將為台灣帶來本週最大雨勢，南部、中部及台東有局部大雨到豪雨的風險。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863429"
     },
     {
       "rank": 2,
-      "title": "氣象署證實沙德爾上午8時回升為熱帶低氣壓　新警報是否發布「有待觀察」",
-      "dek": "中央氣象署表示，編號TD20的系統中心位於鵝鑾鼻西方約1050公里，預估將轉向廣東登陸，發布新颱風警報機率偏低但不能排除。",
-      "url": "https://www.cna.com.tw/news/ahel/202608310023.aspx"
+      "title": "中南部及台東明起防豪雨　9/2後水氣逐日漸緩",
+      "dek": "氣象署預報員王品翔說明，南海低壓靠近台灣期間，南部需嚴防局部豪雨到超大豪雨，中部及台東則留意短延時強降雨。",
+      "url": "https://www.cna.com.tw/news/ahel/202608300145.aspx"
     },
     {
       "rank": 3,
-      "title": "香港天文台緊盯沙德爾詭異回彈路徑　最快開學日前後掠過香港以南200公里",
-      "dek": "天文台指出，復活後的沙德爾將循罕見「回力鏢」路徑重返南海，正評估是否發布一號戒備信號。",
-      "url": "https://www.stheadline.com/society/3609939/%E6%89%93%E9%A2%A8%E9%A2%A8%E6%9A%B4%E6%B2%99%E5%BE%B7%E7%88%BE%E7%AA%81%E5%BE%A9%E6%B4%BB%E8%A5%B2%E6%B8%AF-%E8%A9%AD%E7%95%B0%E8%B7%AF%E5%BE%91%E5%9B%9E%E5%8A%9B%E9%8F%A2%E6%8D%B2%E5%8D%97%E6%B5%B7-%E6%88%96%E6%9C%AC%E6%B8%AF200%E5%85%AC%E9%87%8C%E5%85%A7%E5%8D%97%E6%8E%A0"
+      "title": "南部豪雨警戒！低氣壓夾擊台灣　天氣一路濕到周末",
+      "dek": "沙德爾殘餘低壓南移恐與南海低壓相互作用，不排除在接近台灣時增強為熱帶低氣壓，菲律賓東側另有系統醞釀。",
+      "url": "https://news.nextapple.com/life/20260831/0EDD7A7F941257A47E3DF1ADFC5493AF"
     },
     {
       "rank": 4,
-      "title": "南海季風低壓來襲　花東高屏豪雨特報　本週最強降雨恐至9月1日",
-      "dek": "中央氣象署清晨針對花蓮、台東、高雄、屏東發布豪雨特報，南部東南部恐現局部豪雨，北部則持續高溫。",
-      "url": "https://newtalk.tw/news/view/2026-08-31/1056696"
+      "title": "Heavy rain forecast as low-pressure system nears Taiwan",
+      "dek": "中央氣象署指出，南海低壓將於8月31日至9月1日為台灣帶來本週最強降雨，南部與台東面臨超大豪雨風險，是否增強為熱帶低氣壓仍待觀察。",
+      "url": "https://focustaiwan.tw/society/202608300011"
     },
     {
       "rank": 5,
-      "title": "氣象專家：沙德爾殘餘環流恐與南海低壓合併　罕見型態值得留意",
-      "dek": "中央氣象署預報員鄭明典指出，沙德爾登陸後環流未完全消散，可能與新對流結合成新低壓系統，屬歷史罕見案例。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5556869"
+      "title": "天文台：熱帶氣旋沙德爾殘餘或重新增強　黃昏移近海南島",
+      "dek": "香港天文台表示，深入內陸後減弱的沙德爾殘餘低壓正在雷州半島至海南島一帶重新組織，預料黃昏前逐漸增強為熱帶低氣壓。",
+      "url": "https://www.singtaousa.com/2026/08/30/news/china/tropical-cyclone-shadur-remnant-reintensifies/"
     },
     {
       "rank": 6,
-      "title": "熱帶低氣壓皮蘭多克於菲律賓以東生成　增強西南季風雨勢",
-      "dek": "菲律賓大氣地球物理暨天文服務署預測，皮蘭多克將於9月1日短暫增強為熱帶風暴，雖不會登陸但將加劇西南季風豪雨。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-31-2026-5am/"
+      "title": "特別天氣提示｜天文台：沙德爾移向海南島　黃昏考慮發一號信號",
+      "dek": "香港天文台預告，沙德爾殘餘系統將於9月1日至2日橫越南海北部並趨向廣東東部沿岸，屆時香港風力將因與東北季風共同作用而增強。",
+      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385164/%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%B2%99%E5%BE%B7%E7%88%BE%E7%A7%BB%E5%90%91%E6%B5%B7%E5%8D%97%E5%B3%B6-%E9%BB%83%E6%98%8F%E8%80%83%E6%85%AE%E7%99%BC%E4%B8%80%E8%99%9F%E4%BF%A1%E8%99%9F"
     },
     {
       "rank": 7,
-      "title": "皮蘭多克略為增強　菲國氣象單位：恐在離開責任區前成為命名風暴",
-      "dek": "PAGASA表示皮蘭多克北北西移動時強度持穩，預估9月2日至3日離開菲律賓大氣責任區後，將在日本以南化為殘餘低壓。",
+      "title": "'Pilandok' slightly intensifies over Philippine Sea, may become storm",
+      "dek": "PAGASA表示，熱帶低氣壓Pilandok目前位於呂宋島東方1130公里處，幾乎停滯，可能於週二短暫增強為熱帶風暴，但不太可能登陸菲律賓。",
       "url": "https://www.philstar.com/headlines/weather/2026/08/31/2553057/pilandok-slightly-intensifies-over-philippine-sea-may-become-storm"
     },
     {
       "rank": 8,
-      "title": "回顧：氣象署8月28日解除沙德爾海上警報　全程未發布陸上警報",
-      "dek": "中央氣象署當時表示，沙德爾中心通過馬祖以北約180公里後減弱，全程對台灣本島未發布陸上颱風警報。",
-      "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
+      "title": "Pilandok maintains strength, enhances southwest monsoon",
+      "dek": "Rappler報導指出，熱帶低氣壓Pilandok雖對菲律賓陸地無直接威脅，仍持續增強西南季風，為碧瑤等地帶來強降雨，當地維持橙色豪雨警戒。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-30-2026-5pm/"
     },
     {
       "rank": 9,
-      "title": "2026年颱風季異常活躍　8月底已產生第10個颱風",
-      "dek": "香港文匯報報導，今年西北太平洋在強聖嬰現象等有利條件下已生成10個颱風，預估秋季活動力道仍將偏高。",
-      "url": "https://www.wenweipo.com/a/202608/30/AP6a93d368e4b0c1e50026ce68.html"
+      "title": "台風18号から変わった熱帯低気圧が再び台風になる予想　9月1日までに南シナ海で",
+      "dek": "日本氣象廳最新資料顯示，原颱風「沙德爾」殘留的熱帶低氣壓，預料將於9月1日前後在南海重新發展為颱風，颱風Baran則持續北移遠離日本。",
+      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/08/31/40381.html"
     },
     {
       "rank": 10,
-      "title": "回顧：超級颱風多爾芬重創中國東部　為今年以來最強風暴",
-      "dek": "半島電視台報導，多爾芬登陸浙江玉環，逾百萬人疏散、溫州逾90萬人轉移安置，是2026年至今侵襲中國最強的颱風。",
-      "url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+      "title": "Two Atlantic tropical disturbances to watch; Tropical Storm Moke brings rain to Hawaii",
+      "dek": "全球熱帶氣旋綜覽顯示，今年大西洋颶風季至今僅有兩個命名風暴且無颶風生成，相形之下西太平洋與台灣海峽周邊系統仍是全球最受矚目的活躍熱帶天氣。",
+      "url": "https://yaleclimateconnections.org/2026/08/two-atlantic-tropical-disturbances-to-watch-tropical-storm-moke-brings-rain-to-hawaii/"
     }
   ]
 }
