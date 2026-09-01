@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T23:14:00+08:00",
+  "generated_at": "2026-09-02T00:11:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署表示，目前無海上颱風警報，也無陸上颱風警報，僅針對南部縣市發布大雨、豪雨特報。",
-  "alert_desc": "中央氣象署表示，目前無海上颱風警報，也無陸上颱風警報，僅針對南部縣市發布大雨、豪雨特報。",
+  "alert_text": "中央氣象署表示，截至9月1日晚間，台灣目前並未發布海上颱風警報，也未發布陸上颱風警報。",
+  "alert_desc": "中央氣象署表示，截至9月1日晚間，台灣目前並未發布海上颱風警報，也未發布陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署9月1日發布的豪雨特報涵蓋高雄、屏東、台南、嘉義、雲林、台東等縣市，台中並未列入，沙德爾與柯羅旺的預測路徑亦均未直接朝台中逼近。"
+    "text": "今日各項豪雨與強風特報均集中於嘉義以南至台東等中南部、東南部縣市，台中地區目前無直接影響，當地也未有停班停課相關公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "兩熱帶氣旋同時現身 台灣未發布颱風警報 南部仍須嚴防豪雨",
-    "dek": "中央氣象署表示，重新增強的熱帶風暴「沙德爾」與新生成的颱風「柯羅旺」均未直接威脅台灣，但西南氣流挾豪雨襲擊南部多個縣市。",
+    "title": "雙颱夾擊台灣 氣象署：無颱風警報",
+    "dek": "沙德爾南海重生、科羅旺生成夾擊台灣兩側，中央氣象署尚未發布颱風警報，南部防豪雨。",
     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
   },
   "items": [
     {
       "rank": 1,
-      "title": "南台灣豪雨示警 兩熱帶風暴同步生成",
-      "dek": "中央氣象署接連發布沙德爾與柯羅旺生成通報，南部有局部超大豪雨之虞，花東亦有大雨。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
+      "title": "沙德爾颱風捲土重來 對台影響輕微",
+      "dek": "颱風報登陸中國後於南海重新增強，中央氣象署稱對台灣直接影響有限。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
     },
     {
       "rank": 2,
-      "title": "沙德爾重返熱帶風暴強度 屏東豪雨成災",
-      "dek": "中央社報導，海南島外海熱帶性低氣壓重新增強為熱帶風暴沙德爾，屏東單日雨量已破百毫米。",
-      "url": "https://focustaiwan.tw/society/202609010017"
+      "title": "雙颱同時生成 南部嚴防豪雨",
+      "dek": "沙德爾重生與科羅旺生成同步發生，氣象署警告南部須防強降雨侵襲。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
     },
     {
       "rank": 3,
-      "title": "氣象署對南台灣七縣市發布豪雨特報",
-      "dek": "高雄、屏東列超大豪雨等級，台南、嘉義、雲林、台東同步發布大雨特報，並示警雷擊與強陣風。",
+      "title": "氣象署發布南台灣豪雨特報",
+      "dek": "低壓系統增強西南氣流，七縣市發布大雨至豪雨等級降雨特報。",
       "url": "https://focustaiwan.tw/society/202609010005"
     },
     {
       "rank": 4,
-      "title": "熱帶風暴沙德爾捲土重來 對台灣影響有限",
-      "dek": "中央氣象署表示，沙德爾殘餘系統可能重新增強，但因路徑偏向廣東，發布海上警報機率不高。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+      "title": "科羅旺颱風生成 路徑曝光",
+      "dek": "科羅旺上午8時於沖繩南方海面生成，預估路徑偏向日本，對台無直接影響。",
+      "url": "https://www.ettoday.net/news/20260901/3229187.htm"
     },
     {
       "rank": 5,
-      "title": "沙德爾預料再度增強 對台威脅輕微",
-      "dek": "氣象署預報員黃恩鴻指出，沙德爾週一晚間至週二上午可望恢復熱帶風暴強度，但路徑遠離台灣。",
-      "url": "https://focustaiwan.tw/society/202608310023"
+      "title": "新舊雙颱左右夾峙台灣",
+      "dek": "沙德爾與科羅旺分據西南、東側，氣象界關注間接增強季風雨勢。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5557752"
     },
     {
       "rank": 6,
-      "title": "沙德爾海上颱風警報解除",
-      "dek": "中央氣象署8月28日下午2時30分解除沙德爾海上颱風警報，研判已不致威脅台灣海域。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
+      "title": "雙颱共存不共舞 對台影響有限",
+      "dek": "科羅旺今晨生成後預估北轉，氣象署初判不致影響台灣天氣。",
+      "url": "https://udn.com/news/story/7266/9726281"
     },
     {
       "rank": 7,
-      "title": "24號颱風柯羅旺生成 恐趨近沖繩大東島及奄美",
-      "dek": "日本氣象廳確認柯羅旺於1日上午生成，預測3日通過南大東島西北方海面，4日起接近奄美群島。",
-      "url": "https://news.yahoo.co.jp/articles/d64e0f6288c38d785f27747c9586d7bd6d16d731"
+      "title": "陸媒：沙德爾復活 發布藍色預警",
+      "dek": "中國中央氣象台指沙德爾殘餘環流再增強為颱風，南海北部發布預警。",
+      "url": "https://www.news.cn/local/20260901/2abe87d5411e47968e14963cfc71ec55/c.html"
     },
     {
       "rank": 8,
-      "title": "「皮蘭多」增強為熱帶風暴",
-      "dek": "菲律賓大氣部門表示，皮蘭多（柯羅旺）強度增強，但距呂宋島仍逾千公里，菲國未發布風力警報。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/01/2553284/pilandok-now-tropical-storm"
+      "title": "香港曾擬發一號風球應變沙德爾",
+      "dek": "港天文台一度因應沙德爾殘餘環流逼近海南，規劃發布熱帶氣旋警告信號。",
+      "url": "https://www.scmp.com/weather/hong-kong/article/3365833/hong-kong-issue-no-1-typhoon-signal-610pm-saudel-approaches"
     },
     {
       "rank": 9,
-      "title": "皮蘭多增強為熱帶風暴 菲國未發布風力信號",
-      "dek": "菲律賓通訊社報導，皮蘭多上午11時公報顯示其路徑將轉向東北再北上，登陸菲律賓機率低。",
-      "url": "https://www.pna.gov.ph/articles/1283024"
+      "title": "科羅旺生成 趨向沖繩本島",
+      "dek": "外媒報導科羅旺颱風形成後將掠過沖繩嘉手納基地以東海域再轉北。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
     },
     {
       "rank": 10,
-      "title": "颱風沙德爾為已飽和的中國東南部帶來豪雨",
-      "dek": "彭博報導，沙德爾為8月底同時活躍的四個西北太平洋氣旋之一，曾迫使廣西、海南疏散並暫停營業。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/typhoon-saudel-brings-heavy-rain-to-saturated-southeastern-china"
+      "title": "PAGASA估9月再增兩至三颱",
+      "dek": "菲律賓氣象機構預測本月西太平洋恐再有二至三個熱帶氣旋生成或進入責任區。",
+      "url": "https://mb.com.ph/2026/09/01/2-to-3-tropical-cyclones-may-develop-in-september-pagasa"
     }
   ]
 }
