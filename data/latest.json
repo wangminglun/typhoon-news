@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T07:12:00+08:00",
+  "generated_at": "2026-09-01T08:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於8月28日解除颱風沙德爾海上警報，目前台灣本島及周邊海域無生效中的颱風警報；中南部現行降雨警戒屬季風低壓槽所致，並非颱風登陸。",
+  "alert_desc": "中央氣象署已於8月28日解除颱風沙德爾海上警報，目前台灣本島及周邊海域無生效中的颱風警報；氣象署評估即使沙德爾殘餘低壓再度增強，重新發布海上警報的可能性也不高。目前生效的是季風低壓帶來的降雨特報，非颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，當地也未宣布停班停課。台中因季風低壓槽於8月31日下午2時50分左右被列入豪（大）雨特報範圍，需慎防雷擊、強陣風及短延時強降雨，但非颱風直接侵襲，目前無直接影響。"
+    "text": "台中目前未被列入任何颱風警戒範圍，也未有停班停課公告，屬季風低壓帶來的降雨特報涵蓋區域之一，須留意雷擊、強陣風及低窪地區淹水風險，目前無颱風直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾殘餘環流恐於南海重生　中南部同時受鋒面豪雨侵襲",
-    "dek": "中央氣象署已解除沙德爾海上颱風警報，但殘餘低壓恐在南海重新增強為颱風，同時季風低壓槽為台灣中南部帶來持續性豪雨。",
-    "url": "https://tenki.jp/forecaster/y_nakagawa/2026/08/31/40381.html"
+    "title": "颱風警報全解除　中央氣象署改發降雨特報　中台灣等七縣市防大雨",
+    "dek": "沙德爾殘餘低壓已於南海重新增強為輕度颱風強度，但氣象署評估對台灣海面警報機率低，當前主要威脅轉為季風低壓帶來的短延時強降雨。",
+    "url": "https://newtalk.tw/news/view/2026-09-01/1056954"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾殘餘環流南海徘徊　日方預測9月1日前恐再成颱風",
-      "dek": "減弱後的沙德爾低壓環流已進入南海，日本氣象廳預估其將重新增強，並於9月3日左右在台灣以西再次減弱。",
-      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/08/31/40381.html"
+      "title": "氣象署凌晨發布降雨特報　季風低壓為台灣南部及離島帶來強降雨風險",
+      "dek": "中央氣象署於9月1日凌晨1時05分發布降雨特報，警示雷擊、強陣風及淹水風險，特報預計持續至9月2日。",
+      "url": "https://newtalk.tw/news/view/2026-09-01/1056954"
     },
     {
       "rank": 2,
-      "title": "氣象署解除沙德爾海上颱風警報",
-      "dek": "隨著沙德爾登陸中國浙江並持續遠離台灣，中央氣象署於8月28日下午正式解除海上警報，但提醒中南部仍有降雨風險。",
-      "url": "https://focustaiwan.tw/society/202608280012"
+      "title": "沙德爾殘餘低壓南海重新增強　氣象署：對台海上警報機率不高",
+      "dek": "中央氣象署表示，海南島附近的熱帶低氣壓最快9月1日晚間增強為熱帶風暴，但評估重新發布海上警報的可能性低。",
+      "url": "https://focustaiwan.tw/society/202608310023"
     },
     {
       "rank": 3,
-      "title": "颱風沙德爾浙江兩度登陸　一個月內第三度重創同一地點",
-      "dek": "沙德爾在浙江台州玉環兩次登陸，促使中國氣象單位將重大氣象災害應急響應提升至二級，多條高鐵路線一度停駛。",
-      "url": "https://www.cna.com.tw/news/acn/202608280045.aspx"
+      "title": "沙德爾殘餘低壓增強至輕度颱風強度　南海最大風速達8級",
+      "dek": "氣象資料顯示，該系統9月1日清晨中心位於汕尾西南方480公里，中心氣壓995百帕，預計強度變化不大並將於9月3日起減弱。",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3022311"
     },
     {
       "rank": 4,
-      "title": "季風低壓槽發威　中南部七縣市發布豪（大）雨特報",
-      "dek": "中央氣象署8月31日下午針對台中等七縣市發布豪雨特報，警告雷擊、強陣風及山區土石流風險。",
+      "title": "雨區擴大　台中彰化南投等七縣市納入豪大雨特報",
+      "dek": "《自由時報》報導，受季風低壓影響，中央氣象署已將台中、彰化、南投、高屏及花蓮等地納入豪雨或大雨特報範圍。",
       "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5558188"
     },
     {
       "rank": 5,
-      "title": "低壓系統南北夾擊　南台灣豪雨警戒延續至週末",
-      "dek": "南部地區持續處於豪雨警戒中，濕熱天氣預期將延續整個週末，成因為季風低壓槽而非直接颱風威脅。",
-      "url": "https://news.nextapple.com/life/20260831/0EDD7A7F941257A47E3DF1ADFC5493AF"
+      "title": "氣象署8月28日解除沙德爾海上颱風警報",
+      "dek": "中央氣象署於8月28日下午2時30分宣布解除警報，判定該颱風在雙登陸浙江後已不再對台灣構成威脅。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
     },
     {
       "rank": 6,
-      "title": "颱風艾濤生成於開闊太平洋　對陸地無威脅",
-      "dek": "今年第22號颱風艾濤8月27日在東京東南方遠洋生成，預期向北移動，不致影響中國或台灣。",
-      "url": "https://www.sina.cn/news/detail/5332580586227224.html"
+      "title": "今年第21號颱風艾陶生成　遠洋北上不影響台灣",
+      "dek": "《聯合新聞網》報導，颱風艾陶8月27日下午在威克島東北方生成，預計持續北上，對台灣無直接威脅。",
+      "url": "https://udn.com/news/story/7266/9717917"
     },
     {
       "rank": 7,
-      "title": "菲律賓氣象局：熱帶低氣壓皮蘭多克9月1日恐增強為輕度颱風",
-      "dek": "PAGASA預測皮蘭多克將於9月1日增強，並加劇菲律賓西南季風降雨，隨後於9月3日左右減弱離境。",
-      "url": "https://www.manilatimes.net/2026/08/31/news/pilandok-to-intensify-into-tropical-storm-pagasa/2414803"
+      "title": "PAGASA同步監測四天氣系統　熱帶低氣壓皮蘭多克為其一",
+      "dek": "菲律賓大氣署表示，除熱帶低氣壓皮蘭多克外，另有兩個系統及增強中的西南季風正影響呂宋與米沙鄢地區。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1000554/habagat-to-impact-luzon-visayas-as-pilandok-2-more-cyclones-watched/story/"
     },
     {
       "rank": 8,
-      "title": "日本預測沙德爾殘餘系統重生後　9月3日左右逼近沖繩",
-      "dek": "該系統預計先在日本以南海面停滯增強，再於9月1日後轉為颱風並北上接近沖繩，但日本本土預期不受暴風圈影響。",
-      "url": "https://www.sunny-spot.net/english/topics.html?area=0"
+      "title": "菲律賓大氣署9月1日追蹤四系統　沙德爾殘餘低壓重新編號在列",
+      "dek": "據《菲律賓星報》報導，PAGASA最新監測名單納入皮蘭多克、沙德爾殘餘低壓及呂宋外海另一未命名低壓。",
+      "url": "https://www.philstar.com/headlines/2026/09/01/2553196/4-weather-systems-being-monitored-pagasa"
     },
     {
       "rank": 9,
-      "title": "墨西哥灣熱帶擾動增強為第五號熱帶低氣壓　威脅美國德州至路易斯安那沿岸",
-      "dek": "系統預計於週二逼近美國墨西哥灣沿岸，主要威脅為強降雨，但可能發展為短暫的熱帶風暴。",
-      "url": "https://www.wjbf.com/weather/hurricane-tracker/tropical-update-for-monday-august-31-2026/"
+      "title": "皮蘭多克微幅增強　西南季風持續為呂宋及西米沙鄢帶來豪雨",
+      "dek": "《拉普勒》報導，PAGASA預測皮蘭多克週二午後短暫增強為熱帶風暴等級，隨後於週三減弱，季風雨勢仍將持續。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-pilandok-southwest-monsoon-pagasa-forecast-august-31-2026-5am/"
     },
     {
       "rank": 10,
-      "title": "2026年太平洋颱風季生成數量遠超歷史均值",
-      "dek": "截至8月31日，西北太平洋已生成約21個颱風，其中8月單月8個，遠高於5.7個的歷史平均。",
-      "url": "https://www.sunny-spot.net/english/topics.html?area=0"
+      "title": "熱帶風暴愛德華直撲美國德州　今日於加爾維斯敦一帶登陸",
+      "dek": "福斯電視台休士頓分台報導，愛德華預計9月1日下午登陸德州與路易斯安那州交界，休士頓都會區面臨暴雨與風暴潮威脅。",
+      "url": "https://www.fox26houston.com/weather/tropical-storm-edouard-live-tracker"
     }
   ]
 }
