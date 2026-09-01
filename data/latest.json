@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T06:13:00+08:00",
+  "generated_at": "2026-09-02T07:12:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署目前未發布海上或陸上颱風警報，惟沙德爾情勢仍可能在數小時內變化。",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，惟沙德爾情勢仍可能在數小時內變化。",
+  "alert_text": "中央氣象署目前未發布海上或陸上颱風警報，南台灣則因西南氣流影響持續有豪雨特報。",
+  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，南台灣則因西南氣流影響持續有豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未列入中央氣象署豪雨特報範圍，也無停班停課通報；沙德爾及西南氣流增強主要影響南部與東南部地區。"
+    "text": "目前無直接影響。今日豪雨特報範圍集中於高雄、屏東、台南、雲林、台東等南部縣市，台中並未列入警戒名單，上週因沙德爾外圍環流發布的特報也已失效。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "「復活」颱風沙德爾轉向中國沿岸 台灣暫無警報但南部慎防豪雨",
-    "dek": "一度減弱為熱帶性低氣壓的沙德爾在南海重新增強為輕度颱風，中央氣象署預期其路徑將偏向中國廣東沿岸，對台灣以西南氣流增強、南部豪雨為主要影響。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+    "title": "沙德爾重返熱帶風暴 南台灣豪雨示警",
+    "dek": "沙德爾殘餘環流增強、柯羅旺同時生成，雖均未直接威脅台灣，西南氣流仍為南部帶來強降雨。",
+    "url": "https://focustaiwan.tw/society/202609010017"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴沙德爾「東山再起」 專家研判對台灣衝擊有限",
-      "dek": "中央氣象署表示，重新增強的沙德爾預計轉向中國廣東沿岸，發布海上颱風警報的機率偏低。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
-    },
-    {
-      "rank": 2,
-      "title": "沙德爾重返颱風強度 屏東降雨特別猛烈",
-      "dek": "中央社報導指出，沙德爾重新組織增強，加上西南氣流交互作用，屏東縣出現強降雨。",
+      "title": "沙德爾重返熱帶風暴強度 屏東豪雨成災",
+      "dek": "原颱風沙德爾殘餘低壓穿越中國南方後重新增強為熱帶風暴，雖未直接侵台，南台灣屏東縣仍因季風槽影響出現強降雨。",
       "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
-      "rank": 3,
-      "title": "颱風沙德爾「復活」非首見 1986年韋恩、2021年盧碧皆有前例",
-      "dek": "中央社整理歷史紀錄指出，減弱後重新增強為颱風的現象過去曾發生過兩次類似案例。",
-      "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
-    },
-    {
-      "rank": 4,
-      "title": "南部慎防豪雨 兩個熱帶系統同時成形",
-      "dek": "中央氣象署對南部七縣市發布豪雨及大豪雨特報，同時沙德爾與柯羅旺分別在南海及琉球群島附近生成。",
+      "rank": 2,
+      "title": "兩熱帶風暴同時成形 氣象署示警南部豪雨",
+      "dek": "中央氣象署因低壓槽影響對南部七縣市發布豪雨到超大豪雨特報，沙德爾當日上午恢復熱帶風暴強度，另一系統柯羅旺也在琉球群島東南方生成。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
     },
     {
+      "rank": 3,
+      "title": "沙德爾將再增強 惟對台影響輕微",
+      "dek": "氣象署預報員黃恩鴻指出，海南島附近的熱帶性低氣壓（沙德爾殘餘）可望重返熱帶風暴強度，但路徑偏向中國廣東，發布海上警報機率不高。",
+      "url": "https://focustaiwan.tw/society/202608310023"
+    },
+    {
+      "rank": 4,
+      "title": "氣象署解除沙德爾海上警報 西南氣流仍將帶來豪雨",
+      "dek": "沙德爾登陸中國浙江沿岸後，氣象署解除海上颱風警報，但西南風仍為屏東、高雄山區及中部部分地區帶來強降雨。",
+      "url": "https://focustaiwan.tw/society/202608280012"
+    },
+    {
       "rank": 5,
-      "title": "颱風柯羅旺在日本南方太平洋生成 朝沖繩本島移動",
-      "dek": "日本氣象廳表示，柯羅旺中心氣壓996百帕，最大瞬間風速每秒25公尺，正緩慢向西北移動。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
-    },
-    {
-      "rank": 6,
-      "title": "美軍追蹤系統：熱帶風暴22W（柯羅旺）持續朝嘉手納基地方向移動",
-      "dek": "美軍風暴追蹤預估，柯羅旺將於週五清晨自嘉手納空軍基地東方約95英里處通過，當地維持第四級防颱戒備。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-01/tropical-storm-22w-(krovanh),-"
-    },
-    {
-      "rank": 7,
-      "title": "菲律賓將「皮蘭多克」升格為熱帶風暴",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，皮蘭多克（國際命名柯羅旺）預料不會登陸菲律賓，將於9月2、3日左右離開菲律賓責任區。",
+      "title": "皮蘭多克增強為熱帶風暴 遠離菲律賓",
+      "dek": "菲律賓大氣氣象單位證實熱帶性低氣壓皮蘭多克（國際命名柯羅旺）已增強為熱帶風暴，預估將持續遠離菲律賓陸地。",
       "url": "https://www.philstar.com/headlines/weather/2026/09/01/2553284/pilandok-now-tropical-storm"
     },
     {
+      "rank": 6,
+      "title": "皮蘭多克增強為熱帶風暴 菲國未發布風力警報",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，柯羅旺（皮蘭多克）已增強為熱帶風暴，因預料不會登陸菲律賓，故未發布任何風力信號。",
+      "url": "https://www.pna.gov.ph/articles/1283024"
+    },
+    {
+      "rank": 7,
+      "title": "美軍聯合颱風警報中心：柯羅旺將掠過沖繩以東海域",
+      "dek": "美國聯合颱風警報中心資料顯示，熱帶風暴柯羅旺預計於週五凌晨以熱帶風暴強度通過沖繩以東約100英里處。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-01/tropical-storm-22w-(krovanh),-"
+    },
+    {
       "rank": 8,
-      "title": "菲律賓氣象署預估九月恐再有二至三個熱帶氣旋生成",
-      "dek": "菲律賓大氣地球物理暨天文服務署預告下一波命名將依序為Queenie、Rosal與Samuel。",
+      "title": "菲律賓氣象署：9月恐再增兩至三個熱帶氣旋",
+      "dek": "菲律賓大氣地球物理暨天文服務署預測，9月境內外海域可能再生成或進入兩到三個熱帶氣旋，依例多將轉向日本、南韓方向。",
       "url": "https://mb.com.ph/2026/09/01/2-to-3-tropical-cyclones-may-develop-in-september-pagasa"
     },
     {
       "rank": 9,
-      "title": "卡琳娜在遠洋增強為四級颶風 預料持續增強",
-      "dek": "美聯社報導，卡琳娜颶風在東太平洋遠離陸地海域快速增強，墨西哥沿岸雖無登陸威脅仍受強烈湧浪影響。",
-      "url": "https://www.pbs.org/newshour/nation/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm"
+      "title": "熱帶風暴愛德華增強 直撲美國德州、路易斯安那州",
+      "dek": "熱帶風暴愛德華在墨西哥灣持續增強，美國國家颶風中心預測其登陸前恐達颶風強度，當地已發布暴潮與強降雨警報。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-warning-louisiana-texas-gulf-coast/"
     },
     {
       "rank": 10,
-      "title": "颶風羅威爾將以強烈颶風強度掠過夏威夷南方 卡琳娜持續西行",
-      "dek": "羅威爾颶風預計週三晚間增強為強烈颶風，從夏威夷大島南方約575英里處通過，為當地帶來危險大浪。",
-      "url": "https://mauinow.com/2026/09/01/lowell-to-pass-south-of-hawai%CA%BBi-as-a-major-hurricane-karina-continues-on-westward-path/"
+      "title": "夏威夷監控颶風卡琳娜、羅威爾 太平洋風暴活躍",
+      "dek": "東太平洋四級颶風卡琳娜緩慢減弱、颶風羅威爾快速增強，加上新生成的熱帶風暴瑪麗，夏威夷當局密切關注，惟均不影響台灣及西太平洋。",
+      "url": "https://www.foxweather.com/weather-news/pacific-tropics-hurricane-tropical-storm-karina-lowell-marie-hawaii-september-2026"
     }
   ]
 }
