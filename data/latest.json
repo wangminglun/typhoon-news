@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T15:13:00+08:00",
+  "generated_at": "2026-09-02T16:12:00+08:00",
   "alert_level": "none",
-  "alert_text": "截至9月2日，中央氣象署尚未針對沙德爾或卡羅萬發布海上或陸上颱風警報；南部、東部沿海地區則持續有大雨至豪雨特報。",
-  "alert_desc": "截至9月2日，中央氣象署尚未針對沙德爾或卡羅萬發布海上或陸上颱風警報；南部、東部沿海地區則持續有大雨至豪雨特報。",
+  "alert_text": "截至9月2日，中央氣象署尚未對沙德爾或卡羅萬發布海上或陸上颱風警報；南部、東部沿海地區仍有大雨至豪雨特報，屏東縣已提升應變中心至三級並展開山區撤離。",
+  "alert_desc": "截至9月2日，中央氣象署尚未對沙德爾或卡羅萬發布海上或陸上颱風警報；南部、東部沿海地區仍有大雨至豪雨特報，屏東縣已提升應變中心至三級並展開山區撤離。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。所有現行豪雨/強風特報僅涵蓋台南、高雄、屏東、台東、嘉義、花蓮及恆春半島，台中未列入任何颱風、豪雨或強風警戒範圍，也無停班停課消息。"
+    "text": "目前無直接影響。本波豪雨特報與撤離作業集中於屏東、高雄、台南、台東及花蓮等南部與東部縣市，台中未列入任何颱風、豪雨或強風警戒範圍，也無停班停課消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾風暴於南海外海復生 卡羅萬颱風北轉沖繩 台灣暫無颱風警報",
-    "dek": "中央氣象署表示，兩個熱帶系統的路徑均偏離台灣本島，但南部及東部地區仍須留意豪雨與強風。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+    "title": "「殭屍颱風」沙德爾迴魂重生 南台灣豪雨成災、屏東山區撤離",
+    "dek": "重創浙江後減弱、又於南海重生的熱帶風暴沙德爾，雖不至登陸台灣，但其外圍環流持續為南部帶來致災性豪雨，屏東縣已啟動三級開設並撤離山區居民。",
+    "url": "https://focustaiwan.tw/society/202609010017"
   },
   "items": [
     {
       "rank": 1,
-      "title": "瀕臨消散的沙德爾風暴海南島外海重新增強",
-      "dek": "中央氣象署預報員林伯東表示，該系統朝廣東移動途中預計將再度減弱，台灣發布海上警報機率偏低。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
-    },
-    {
-      "rank": 2,
-      "title": "沙德爾恢復熱帶風暴強度 屏東降雨破百毫米",
-      "dek": "屏東縣受風暴外圍環流與增強西南風共同影響，單日雨量逾100毫米，但氣象署重申台灣海上警報可能性仍低。",
+      "title": "沙德爾重返熱帶風暴強度 屏東豪雨受創嚴重",
+      "dek": "中央氣象署表示，沙德爾殘餘環流週二在南海重新增強為熱帶風暴，屏東縣單日雨量破百毫米，縣府已提升應變中心至三級並展開山區撤離。",
       "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
+      "rank": 2,
+      "title": "南台灣週三豪雨無緩解跡象",
+      "dek": "氣象署預測台東仍將持續陣雨及雷雨，南台灣與花蓮亦可能出現局部大雨，與沙德爾外圍環流及季風交互作用有關。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863564"
+    },
+    {
       "rank": 3,
-      "title": "兩個熱帶風暴同日生成 南部豪雨特報全面發布",
-      "dek": "沙德爾重新編組與新生成的卡羅萬颱風同步影響台灣周邊水氣，氣象署對南部七縣市發布豪雨警戒。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
-    },
-    {
-      "rank": 4,
-      "title": "氣象署：追平紀錄的颱風季帶來多雨夏季",
-      "dek": "中央氣象署指出，7、8月合計生成14個颱風，追平歷史紀錄，為台灣帶來較往常多約兩成的降雨量。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863565"
-    },
-    {
-      "rank": 5,
-      "title": "西北太平洋7、8月颱風生成數追平歷史紀錄",
-      "dek": "中央社報導，今年前八個月西北太平洋共生成22個颱風，為1958年以來第三高，氣象署預測秋季仍將有10至12個颱風生成。",
-      "url": "https://focustaiwan.tw/society/202609020009"
-    },
-    {
-      "rank": 6,
-      "title": "卡羅萬颱風在日本南方太平洋生成 朝沖繩本島移動",
-      "dek": "今年第24號颱風卡羅萬預計轉向東北，行經日本本州以東海域，台日雙方預報機構均表示對台灣無直接威脅。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
-    },
-    {
-      "rank": 7,
-      "title": "AccuWeather：卡羅萬颱風將自日本以東海域通過",
-      "dek": "預報員指出，卡羅萬將以熱帶風暴強度掠過沖繩嘉手納東方約150公里處，隨後轉向東北，未登陸日本本土。",
-      "url": "https://www.accuweather.com/en/weather-news/krovanh-to-pass-east-of-japan-4/124397"
-    },
-    {
-      "rank": 8,
-      "title": "氣象署：南台灣週三降雨未歇",
-      "dek": "受低壓槽及沙德爾外圍環流影響，台東持續大範圍陣雨，南部與花蓮局部豪雨，多縣市及離島發布強風特報。",
+      "title": "氣象署：南台灣週三豪雨仍未止歇",
+      "dek": "中央社報導，氣象署預報員證實沙德爾環流與低壓槽持續為南部輸送水氣，豪雨風險將延續至週三，但研判該系統不會登陸台灣。",
       "url": "https://focustaiwan.tw/society/202609020005"
     },
     {
+      "rank": 4,
+      "title": "瀕死颱風重獲新生",
+      "dek": "《台北時報》報導沙德爾罕見的生命週期——橫越中國後減弱為低氣壓，又在南海東沙島附近重新增強為熱帶風暴，預報員指其路徑因導引氣流薄弱而高度不確定。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+    },
+    {
+      "rank": 5,
+      "title": "兩熱帶風暴同時成形 南部發布豪雨警戒",
+      "dek": "氣象署已對南台灣七縣市發布豪雨或超大豪雨特報，同時沙德爾與新生成的卡羅萬兩個系統並存，後者預期對台灣無直接影響。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
+    },
+    {
+      "rank": 6,
+      "title": "熱帶風暴沙德爾捲土重來 對台灣影響有限",
+      "dek": "氣象署預報員黃恩鴻表示，沙德爾預計本週初將再減弱為熱帶低氣壓並朝廣東移動遠離台灣，不太可能促使新海上警報，但南部仍面臨外圍雨帶帶來的較高降雨風險。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+    },
+    {
+      "rank": 7,
+      "title": "「史無前例」路徑：華東華南嚴陣以待重生颱風沙德爾",
+      "dek": "《南華早報》報導，沙德爾8月28日在浙江登陸後異常向西南橫掃福建、江西、廣西、廣東，再於南海重新組織，中國氣象學者稱此路徑罕見，當局警告恐再引發洪水與土石流。",
+      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
+    },
+    {
+      "rank": 8,
+      "title": "颱風卡羅萬於日本南方太平洋洋面形成 朝沖繩移動",
+      "dek": "熱帶風暴卡羅萬（菲律賓命名Pilandok）在沖繩東南方形成，中心氣壓996百帕，預計將從沖繩、嘉手納以東海域通過，對台灣無直接影響。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
+    },
+    {
       "rank": 9,
-      "title": "熱帶風暴愛德華在德州、路易斯安那州交界登陸",
-      "dek": "愛德華風暴於路易斯安那州強森灣附近登陸，為墨西哥灣沿岸帶來豪雨、最高4英尺暴潮及溪水暴漲風險。",
-      "url": "https://www.cnn.com/2026/08/31/weather/tropical-storm-edouard-texas-louisiana-path-climate"
+      "title": "熱帶風暴愛德華登陸美國西北灣岸地區",
+      "dek": "愛德華以約每小時60英里風速在路易斯安那州強森灣附近登陸，為西北灣岸帶來洪水與龍捲風風險，登陸後迅速減弱。",
+      "url": "https://weather.com/2026/09/01/storms/hurricane/tropical-storm-edouard-landfall-texas-louisiana-border"
     },
     {
       "rank": 10,
-      "title": "瑪莉風暴不會直撲加州 但部分影響仍可能出現",
-      "dek": "在墨西哥西南外海生成的熱帶風暴瑪莉預計不會直接登陸南加州，但預報員警告驚濤駭浪與季風水氣可能仍會波及美國西岸。",
-      "url": "https://weather.com/2026/09/01/storms/hurricane/hurricane-marie-pacific-california-waves-rain"
+      "title": "熱帶風暴愛德華登陸路易斯安那州 德州降下強降雨",
+      "dek": "愛德華登陸引發嚴重淹水與強降雨，德州與路易斯安那州部分地區降雨達8至10英吋，數萬用戶停電，密西西比河下游流域仍面臨持續洪患威脅。",
+      "url": "https://www.cbsnews.com/news/tropical-storm-warning-louisiana-texas-gulf-coast/"
     }
   ]
 }
