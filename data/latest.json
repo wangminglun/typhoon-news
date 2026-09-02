@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T11:10:00+08:00",
+  "generated_at": "2026-09-02T12:12:00+08:00",
   "alert_level": "none",
-  "alert_text": "中央氣象署表示，截至9月2日台灣未發布任何海上或陸上颱風警報，僅針對高雄、屏東、台東發布豪雨特報。",
-  "alert_desc": "中央氣象署表示，截至9月2日台灣未發布任何海上或陸上颱風警報，僅針對高雄、屏東、台東發布豪雨特報。",
+  "alert_text": "中央氣象署表示，截至9月2日台灣未發布任何海上或陸上颱風警報，沙德爾第二次成颱後的警報發布機率持續走低；南部、東部及離島地區則有豪雨特報生效中。",
+  "alert_desc": "中央氣象署表示，截至9月2日台灣未發布任何海上或陸上颱風警報，沙德爾第二次成颱後的警報發布機率持續走低；南部、東部及離島地區則有豪雨特報生效中。",
   "region_watch": {
     "region": "台中",
-    "text": "台中並未列入9月2日豪雨特報範圍（範圍為高雄、屏東、台東），目前無直接影響；受低壓槽及西南氣流影響，中部9月3日至6日仍可能出現局部午後雷陣雨。"
+    "text": "目前無直接影響。9月2日僅屏東、花蓮及蘭嶼、綠島等少數地區因豪雨停班停課，台中與中北部縣市均維持正常上班上課，未受沙德爾或科羅旺任何風雨衝擊。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾死而復生 罕見路徑重返南海 台灣暫無立即威脅",
-    "dek": "中央氣象署表示，重新增強的熱帶風暴沙德爾正轉向中國廣東，發布新一波海上警報的機率偏低，但南台灣仍籠罩在共伴豪雨之中。",
+    "title": "沙德爾風雨中「死而復生」 二度成颱轉向廣東，屏東首當其衝",
+    "dek": "中央氣象署表示，已減弱為熱帶性低氣壓的沙德爾在南海北部重新增強為輕度颱風，預計本週稍後在中國廣東二度登陸，對台灣海上颱風警報發布機率持續降低，但外圍環流與季風雨帶已為南台灣帶來豪雨。",
     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
   },
   "items": [
     {
       "rank": 1,
-      "title": "消散颱風「死而復生」 沙德爾再度增強為熱帶風暴",
-      "dek": "中央氣象署指出，原已減弱的颱風沙德爾罕見重新增強，登陸中國後再度於海面上組織成形。",
+      "title": "「將消未消」的颱風沙德爾今日最接近台灣周邊海域",
+      "dek": "一度減弱的颱風沙德爾重新增強，氣象署持續追蹤其在南海北部、台灣海峽一帶的動向，預測週四前後於廣東登陸。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 2,
-      "title": "熱帶風暴沙德爾捲土重來 對台灣影響有限",
-      "dek": "氣象署表示，重生後的沙德爾預料僅為弱熱帶風暴，並將持續減弱轉向廣東，發布台灣海上警報機率不高。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
-    },
-    {
-      "rank": 3,
-      "title": "兩熱帶風暴同時成形 南台灣豪雨特報齊發",
-      "dek": "低壓系統為南部七縣市帶來強降雨之際，新生成的熱帶風暴柯羅旺與重組後的沙德爾路徑同步牽動氣象署關注。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
-    },
-    {
-      "rank": 4,
-      "title": "沙德爾重返熱帶風暴強度 屏東豪雨破百毫米",
-      "dek": "中央社報導，屏東縣單日累積雨量逾100毫米、發布超大豪雨特報，中南部同樣出現強降雨。",
+      "title": "沙德爾重回輕颱等級，屏東雨量居全台之冠",
+      "dek": "中央氣象署證實沙德爾已再度增強為輕度颱風，屏東縣因雨量驚人將應變中心升至三級並疏散226名山區居民。",
       "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
+      "rank": 3,
+      "title": "沙德爾捲土重來，氣象署：對台灣影響有限",
+      "dek": "氣象署表示沙德爾雖將重新增強為輕度颱風，但路徑偏向中國廣東，發布海上警報的可能性不高，台灣近日降雨主要來自季風低壓槽。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+    },
+    {
+      "rank": 4,
+      "title": "颱風沙德爾明北轉，海警機率再降，台東2日防豪雨",
+      "dek": "氣象署預測沙德爾9月2日起北轉，週四晚間於廣東登陸，發布海上颱風警報機率持續走低，但台東仍須留意當日局部豪雨。",
+      "url": "https://udn.com/news/story/7266/9727782"
+    },
+    {
       "rank": 5,
-      "title": "路徑「史無前例」 中國東南沿海嚴陣以待沙德爾來襲",
-      "dek": "《南華早報》報導，沙德爾一反常態轉向西南重返海面再度增強，中國東南多省面臨連日豪雨與航班中斷風險。",
-      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
+      "title": "雙颱共存！科羅旺颱風生成，朝日本沖繩逼近",
+      "dek": "颱風科羅旺於9月1日在沖繩東南方海面生成，與沙德爾形成雙颱並存局面，惟距台灣仍遠，暫無直接威脅。",
+      "url": "https://www.ettoday.net/news/20260901/3229187.htm"
     },
     {
       "rank": 6,
-      "title": "颱風沙德爾逼近 中國沿海航班、渡輪紛紛取消",
-      "dek": "中國沿海當局在沙德爾首度來襲時取消大量航班與渡輪班次，福建近萬艘漁船緊急返港避風。",
-      "url": "https://www.scmp.com/news/china/science/article/3365279/chinas-coastal-regions-high-alert-typhoon-saudel-cancels-flights-ferries"
+      "title": "科羅旺颱風在日本南方生成，路徑朝沖繩本島移動",
+      "dek": "日本氣象廳與美國聯合颱風警報中心資料顯示，科羅旺預計週五凌晨從嘉手納基地東方近海通過後轉向北上，不致直接登陸沖繩本島。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
     },
     {
       "rank": 7,
-      "title": "香港天文台發出一號戒備信號 因應熱帶氣旋沙德爾逼近",
-      "dek": "香港天文台表示，重組後的沙德爾加上東北季風影響，香港風力預期將逐漸增強。",
-      "url": "https://news.tvb.com/tc/1192542-HKOissuestheStandbySignalNo.1asTropicalCycloneSaudelnears"
+      "title": "罕見「二度成颱」引熱議：40年來僅8例",
+      "dek": "沙德爾在中國首次登陸後減弱、又重新增強為颱風的現象十分罕見，氣象界指出台灣近四十年紀錄中僅出現過8次類似案例。",
+      "url": "https://newtalk.tw/news/view/2026-09-01/1057078"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴柯羅旺朝琉球群島移動 不致直接影響台灣",
-      "dek": "柯羅旺（菲律賓稱皮蘭多克）預計以熱帶風暴強度通過沖繩嘉手納基地以東海域，將維持海上路徑。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-01/tropical-storm-22w-(krovanh),-"
+      "title": "全台雨勢未歇，屏東春日鄉士文村週三停班停課",
+      "dek": "受季風雨帶及沙德爾外圍環流影響，屏東縣春日鄉士文村宣布9月2日（週三）停班停課，為多起局部性停班停課之一。",
+      "url": "https://news.ltn.com.tw/news/Pingtung/breakingnews/5559798"
     },
     {
       "rank": 9,
-      "title": "菲律賓氣象署：9月恐再有二至三個颱風進入責任海域",
-      "dek": "菲律賓大氣地球物理暨天文服務署預測本月將有新颱風生成或進入菲律賓海域，並列出多種可能路徑情境。",
-      "url": "https://tnt.abante.com.ph/2026/09/01/2-3-bagyo-posibleng-pumasok-sa-par-ngayong-setyembre-pagasa/news/"
+      "title": "沙德爾復活掀「豪雨假」，全台22縣市多數如常上班上課",
+      "dek": "彙整資料顯示，9月2日僅屏東、花蓮及蘭嶼、綠島等少數地區因豪雨停班停課，中北部包含台中在內的絕大多數縣市維持正常作息。",
+      "url": "https://www.storm.mg/lifestyle/11160923"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季「零颶風」 逼近衛星時代最晚紀錄",
-      "dek": "儘管已進入氣候學上的高峰期，今年大西洋颶風季截至9月1日仍未出現任何颶風，與美國官方預測的偏弱風季相符。",
-      "url": "https://www.techtimes.com/articles/326117/20260901/atlantic-hurricane-season-has-zero-hurricanes-10-days-breaking-record.htm"
+      "title": "中國氣象單位：沙德爾東北移動，江南華南將現強降雨",
+      "dek": "中國中央氣象台指出，沙德爾以時速約10公里向東北方移動、強度變化不大，並將與科羅旺共同為台灣海峽等海域帶來6至7級強風。",
+      "url": "http://news.china.com.cn/2026-09/02/content_118675981.shtml"
     }
   ]
 }
