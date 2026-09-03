@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T08:12:00+08:00",
+  "generated_at": "2026-09-03T09:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "目前並未發布海上或陸上颱風警報。中央氣象署清晨5時15分僅針對基隆、新北、高雄、屏東、花蓮、台東及蘭嶼、綠島發布大雨特報，因應沙德爾颱風外圍環流影響，有效期至當晚11時。",
+  "alert_desc": "目前台灣未發布海上或陸上颱風警報；中央氣象署針對沙德爾外圍環流及低壓帶影響持續發布大雨特報，籲請民眾留意瞬間強降雨與雷擊。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接的颱風影響，未被列入本次大雨特報範圍，也無颱風警報或停班停課措施；預報僅為典型夏末午後陣雨，氣溫約攝氏28度，降雨機率約85%。"
+    "text": "台中目前未受任何熱帶系統直接影響，此波大雨特報範圍集中在北海岸、南部及東半部地區；台中上一次停班停課紀錄為7月中旬的巴威颱風，與本次天氣系統無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾颱風減弱徘徊台灣海峽 北東南部防豪雨 尚無颱風警報",
-    "dek": "中央氣象署針對沙德爾颱風外圍環流影響，對六縣市發布大雨特報，同一時間北移的科羅旺颱風與新生成的閃電颱風均未被列為對台威脅。",
-    "url": "https://www.ettoday.net/news/20260903/3230592.htm"
+    "title": "沙德爾警報解除逾週 外圍環流仍為台灣南部東部帶來豪雨",
+    "dek": "中央氣象署3日持續針對六縣市發布大雨特報，同時菲律賓海新生成的熱帶風暴科羅旺在沖繩外海徘徊，暫不直接威脅台灣。",
+    "url": "https://newtalk.tw/news/view/2026-09-03/1057471"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾颱風轉弱在即 六縣市發布大雨特報",
-      "dek": "中央氣象署表示，沙德爾颱風最快今晚至明晨降級為熱帶性低氣壓，但外圍環流持續為六縣市帶來強降雨、雷擊與坍方風險。",
-      "url": "https://www.ettoday.net/news/20260903/3230592.htm"
-    },
-    {
-      "rank": 2,
-      "title": "大雨特報涵蓋北部與南東部 氣象署籲防雷擊積水",
-      "dek": "氣象署清晨5時15分針對北海岸、高雄、屏東、花蓮、台東及離島發布大雨特報，效期至當日晚間11時，並未發布颱風警報。",
+      "title": "快訊》大雨來襲！6縣市發布特報 氣象署：嚴防雷擊積水",
+      "dek": "中央氣象署3日清晨針對六縣市發布大雨特報，警告低窪地區恐淹水、山區慎防土石流與雷擊，警戒至當晚11時。",
       "url": "https://newtalk.tw/news/view/2026-09-03/1057471"
     },
     {
+      "rank": 2,
+      "title": "快訊／3縣市豪大雨特報！低壓帶影響雨勢強襲 最新警戒區曝",
+      "dek": "低壓帶結合沙德爾外圍環流為南台灣帶來豪雨，氣象單位示警周末天氣持續不穩定。",
+      "url": "https://www.ettoday.net/news/20260901/3229769.htm"
+    },
+    {
       "rank": 3,
-      "title": "減弱後的沙德爾殘餘再度增強",
-      "dek": "氣象署指出，沙德爾殘餘低壓在海南島東北方海域重新增強為輕度颱風，預測路徑將轉北再靠近中國沿岸減弱，對台灣發布海上颱風警報的機率偏低。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+      "title": "Tropical Storm Saudel to make a comeback, with little impact on Taiwan",
+      "dek": "減弱後的沙德爾在南海重新增強為熱帶風暴，中央氣象署評估其對台灣天氣影響有限，未達發布新警報標準。",
+      "url": "https://focustaiwan.tw/society/202608310023"
     },
     {
       "rank": 4,
-      "title": "沙德爾恢復輕度颱風強度 屏東降雨最為顯著",
-      "dek": "沙德爾在減弱後重新達到輕度颱風強度，其路徑未直接登陸台灣，但屏東縣仍因外圍環流出現明顯強降雨。",
-      "url": "https://focustaiwan.tw/society/202609010017"
+      "title": "颱風沙德爾遠離 氣象署下午2時30分解除海警",
+      "dek": "隨颱風沙德爾遠離台灣並於中國浙江登陸，中央氣象署8月28日下午解除海上颱風警報。",
+      "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
     },
     {
       "rank": 5,
-      "title": "沙德爾颱風有望再起 對台灣影響有限",
-      "dek": "氣象署預測沙德爾殘餘低壓將重新增強為輕度颱風後轉向廣東方向並再度減弱，路徑將遠離台灣本島。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+      "title": "Storm travel chaos as Typhoon Saudel makes double landfall in China",
+      "dek": "沙德爾8月28日在浙江兩度登陸，最大陣風每秒35公尺，導致中國東南沿海班機、渡輪與鐵路大亂。",
+      "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china"
     },
     {
       "rank": 6,
-      "title": "沙德爾在南海重生 緩慢朝台灣海峽移動",
-      "dek": "日本氣象廳預測，登陸中國後重新生成的沙德爾將轉向東北並在台灣西南方海域徘徊減弱，預計9月5日前後降為熱帶性低氣壓。",
-      "url": "https://sea.weathernews.com/resources/202609/216"
+      "title": "Typhoon Saudel makes landfall along China's east coast, prompting evacuations",
+      "dek": "中國福建等高風險地區疏散約24萬7700名居民，並動員逾8萬名應變人力因應沙德爾登陸。",
+      "url": "https://english.news.cn/20260828/fb4b922af09f4b2980fe3a72630b5a13/c.html"
     },
     {
       "rank": 7,
-      "title": "科羅旺颱風持續北上 週五將接近奄美大島",
-      "dek": "氣象單位預測，科羅旺颱風（菲律賓命名Pilandok）將於9月4日左右接近沖繩與奄美大島一帶，隨後轉向南方，不會直接影響台灣。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/02/typhoon-krovanh-continues-northwestward-met-agency-predicts-course-to-near-amami-oshima-island-on-friday-sept-4-turn-back-toward-south-of-japan"
+      "title": "Tropical Storm Pilandok may exit PAR on September 3",
+      "dek": "菲律賓大氣地球物理暨天文服務署預測，熱帶風暴科羅旺（菲律賓命名Pilandok）將於9月3日離開菲律賓責任區，不會登陸。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-pilandok-southwest-monsoon-update-pagasa-forecast-september-2-2026-5pm/"
     },
     {
       "rank": 8,
-      "title": "三颱共舞 閃電颱風菲律賓以東生成",
-      "dek": "菲律賓以東海域的熱帶性低氣壓增強為颱風閃電，與沙德爾、科羅旺同時活躍，預報人員認為其路徑偏東北、不致直接威脅台灣，且可能因與沙德爾交互作用而在海上減弱消散。",
-      "url": "https://www.setn.com/news/1894334"
+      "title": "'Pilandok' set to exit PAR; habagat to continue bringing heavy rains",
+      "dek": "科羅旺預計在沖繩、奄美群島一帶滯留打轉，西南季風持續為菲律賓多地帶來豪雨。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/03/2553733/pilandok-set-exit-par-habagat-continue-bringing-heavy-rains"
     },
     {
       "rank": 9,
-      "title": "氣象署：今年颱風季生成數與歷史紀錄打平",
-      "dek": "中央氣象署指出，7、8月合計生成14個命名颱風、與紀錄持平，夏季降雨量較常年偏多約二成，凸顯2026年颱風季異常活躍。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863565"
+      "title": "科羅旺颱風生成了！最新路徑、對台影響全曝光",
+      "dek": "科羅旺颱風9月1日在沖繩那霸東南方海面生成，氣象單位評估暫不直接威脅台灣，但雨勢仍將影響嘉義以南及台東。",
+      "url": "https://tw.news.yahoo.com/%E7%A7%91%E7%BE%85%E6%97%BA%E9%A2%B1%E9%A2%A8%E7%94%9F%E6%88%90%E4%BA%86-%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-%E5%B0%8D%E5%8F%B0%E5%BD%B1%E9%9F%BF%E5%85%A8%E6%9B%9D%E5%85%89-013119562.html"
     },
     {
       "rank": 10,
-      "title": "沙德爾、科羅旺路徑曝光 西部東北部防豪大雨",
-      "dek": "氣象署說明沙德爾外圍環流本週將持續影響台灣天氣，科羅旺雖路徑偏東無直接影響，但兩系統交互作用恐使台灣西部與東北部出現豪雨到大豪雨。",
-      "url": "https://newtalk.tw/news/view/2026-09-02/1057239"
+      "title": "中央气象台继续发布台风蓝色预警，今年第24号台风\"科罗旺\"生成",
+      "dek": "中國中央氣象台針對今年第24號颱風科羅旺發布藍色預警，預測其近期將維持少動狀態。",
+      "url": "https://www.jiemian.com/article/15042027.html"
     }
   ]
 }
