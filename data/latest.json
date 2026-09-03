@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T14:12:00+08:00",
+  "generated_at": "2026-09-03T15:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署目前並未對台灣本島發布海上或陸上颱風警報，僅部分縣市維持大雨或豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。今日降雨熱區集中在北台灣與宜蘭，台中未列入豪雨特報重點區域，也無停班停課消息，目前無颱風警報涵蓋中台灣。"
+    "text": "目前無直接颱風警報影響台中；中央氣象署今日（9/3）大雨特報涵蓋桃園以北、宜蘭、恆春半島及外島等地，台中並未被列入豪雨/大雨特報重點區域，也未有停班停課公告，僅可能受沙德爾外圍環流及鋒面影響出現多雲短暫陣雨。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾颱風罕見「復活」三度登陸中國閩粵　台灣未受直接侵襲但北部防豪雨",
-    "dek": "在南海重新增強後，沙德爾颱風正第三度登陸中國福建、廣東沿岸，而生成不久的科羅旺颱風路徑仍充滿變數，台灣本島今天未遭颱風直接侵襲，但北部與宜蘭仍須留意外圍環流帶來的強降雨。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5561433"
+    "title": "颱風沙德爾三度登陸福建　外圍環流侵擾台灣多地　台灣本島未列警戒",
+    "dek": "氣象署尚未對台發布颱風警報，但沙德爾外圍環流與南方科羅旺共伴效應已為北台灣、宜蘭及外島帶來風雨，太平洋另端則有數個風暴同步牽動美國德州與夏威夷情勢。",
+    "url": "https://www.news.cn/politics/20260903/ca6c8e09d22f426eb524e2638d1babb9/c.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾颱風三度登陸中國閩粵沿海　中國多省發布暴雨警報",
-      "dek": "橫掃七省後重新增強的沙德爾，正沿福建、廣東交界登陸，中國氣象部門對廣東、福建、江西等七省發布暴雨警報。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5561433"
+      "title": "沙德爾第三度登陸福建漳州",
+      "dek": "新華社報導，颱風沙德爾今晨在福建漳州第三度登陸，中心風力達9級、氣壓985百帕，當局同步發布颱風與暴雨雙警報。",
+      "url": "https://www.news.cn/politics/20260903/ca6c8e09d22f426eb524e2638d1babb9/c.html"
     },
     {
       "rank": 2,
-      "title": "颱風沙德爾繞台一圈殺回中國　閩粵防特大暴雨",
-      "dek": "沙德爾殘餘環流掠過海南島後重新組織，繞經台灣海峽南部後轉向福建、廣東沿岸，局部地區恐現特大暴雨。",
-      "url": "https://www.secretchina.com/news/b5/2026/09/03/1104307.html"
+      "title": "漳州多縣市宣布「三停一休」",
+      "dek": "聯合新聞網報導，漳浦、詔安、東山等地上午6時至8時全面停班停課停產停業，福建、廣東部分地區估計雨量上看250至300毫米。",
+      "url": "https://udn.com/news/story/7332/9731485"
     },
     {
       "rank": 3,
-      "title": "颱風最新動態：沙德爾將續減弱、科羅旺琉球打轉　北台灣防豪雨",
-      "dek": "沙德爾預料在中國沿岸持續減弱，科羅旺則在琉球群島附近滯留打轉，台灣今日降雨風險轉往北部與宜蘭。",
-      "url": "https://applealmond.com/posts/324087"
+      "title": "沙德爾罕見三度登陸　橫掃中國七省",
+      "dek": "自由時報報導，沙德爾歷經減弱、迴旋、在海南外海重新增強的罕見過程後，成為橫掃中國七省的持久颱風。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5561433"
     },
     {
       "rank": 4,
-      "title": "沙德爾復活大迴轉　全台22縣市停班停課資訊一次看",
-      "dek": "隨沙德爾復活並迴轉逼近中國沿岸，台灣雖非其直接侵襲對象，外圍雨帶仍牽動22縣市停班停課評估。",
-      "url": "https://www.storm.mg/lifestyle/11161280"
+      "title": "沙德爾外圍環流掃過北台灣　多地發布大雨警戒",
+      "dek": "自由時報報導，氣象署指出沙德爾外圍環流為桃園以北及宜蘭帶來明顯雨勢，多處風力達6級以上、陣風8級以上。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5561349"
     },
     {
       "rank": 5,
-      "title": "科羅旺颱風生成　最新路徑與對台影響曝光",
-      "dek": "西北太平洋新生成的科羅旺颱風路徑預測出爐，目前距台灣尚遠，未來走向仍存在高度不確定性。",
-      "url": "https://tw.news.yahoo.com/%E7%A7%91%E7%BE%85%E6%97%BA%E9%A2%B1%E9%A2%A8%E7%94%9F%E6%88%90%E4%BA%86-%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-%E5%B0%8D%E5%8F%B0%E5%BD%B1%E9%9F%BF%E5%85%A8%E6%9B%9D%E5%85%89-013119562.html"
+      "title": "雙颱夾擊　全台13縣市發布大雨特報",
+      "dek": "自由時報報導，沙德爾與科羅旺分居台灣西北、東南兩側，氣象署對13縣市發布大雨特報、6縣市發布雷雨即時訊息。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5561790"
     },
     {
       "rank": 6,
-      "title": "沙德爾再減弱　科羅旺動向變數仍大",
-      "dek": "最新影音報導指出，沙德爾持續減弱，科羅旺未來路徑仍有高度不確定性，兩者皆未見直撲台灣跡象。",
-      "url": "https://www.scooptw.com/local_news/522585/%E5%BD%B1%E9%9F%B3-20260903%E6%B2%99%E5%BE%B7%E7%88%BE%E5%86%8D%E6%B8%9B%E5%BC%B1-%E7%A7%91%E7%BE%85%E6%97%BA%E5%8B%95%E5%90%91%E8%AE%8A%E6%95%B8%E5%A4%A7/"
-    },
-    {
-      "rank": 7,
-      "title": "熱帶風暴Pilandok離開菲律賓責任區　呂宋部分地區仍受季風雨影響",
-      "dek": "Pilandok（國際命名科羅旺）於9月3日凌晨離開菲律賓大氣責任區，呂宋島部分地區仍因西南季風出現中至大雨。",
+      "title": "熱帶風暴碧蘭多脫離菲律賓責任區　朝沖繩前進",
+      "dek": "Rappler報導，PAGASA稱熱帶風暴碧蘭多（國際名科羅旺）已脫離菲律賓大氣責任區，持續增強西南季風雨勢後續朝沖繩移動。",
       "url": "https://www.rappler.com/philippines/weather/tropical-storm-pilandok-southwest-monsoon-update-pagasa-forecast-september-3-2026-11am/"
     },
     {
+      "rank": 7,
+      "title": "科羅旺徘徊沖繩海域　恐與秋雨鋒面共伴增雨",
+      "dek": "聯合新聞網報導，颱風科羅旺在沖繩那霸外海生成後持續盤旋，專家警告恐與日本秋雨鋒面產生共伴效應，但對台灣無威脅。",
+      "url": "https://udn.com/news/story/7266/9731121"
+    },
+    {
       "rank": 8,
-      "title": "Pilandok即將離開菲律賓責任區　朝日本南部移動",
-      "dek": "菲律賓氣象單位指出，Pilandok正朝日本南部前進，但9月4日至6日間可能在沖繩、奄美群島附近滯留或路徑不規則。",
-      "url": "https://www.manilatimes.net/2026/09/03/news/national/pilandok-about-to-exit-par-moving-towards-south-japan/2417520"
+      "title": "科羅旺恐滯留九州　日本嚴防豪雨",
+      "dek": "TVBS報導，颱風科羅旺可能在九州一帶滯留，並與秋雨鋒面結合帶來豪雨，提醒赴日旅客注意淹水風險。",
+      "url": "https://news.tvbs.com.tw/world/4016035"
     },
     {
       "rank": 9,
-      "title": "愛德華風暴重創德州　釀洪災與大規模停電　成今年第三個登陸美國灣岸系統",
-      "dek": "熱帶風暴愛德華在德州、路易斯安那州交界登陸，德州東南部近8萬2000戶停電，成為2026年第三個登陸美國灣岸的系統。",
-      "url": "https://www.accuweather.com/en/hurricane/edouard-brings-flooding-power-outages-to-texas-after-becoming-3rd-storm-to-make-us-landfall-this-year/1929390"
+      "title": "愛德華殘餘環流持續重創美國德州",
+      "dek": "weather.com報導，熱帶風暴愛德華登陸後減弱，但殘餘環流仍為德州東南部及路易斯安那西南部帶來嚴重豪雨與停電。",
+      "url": "https://weather.com/2026/09/02/news/weather/liveblogs/live-updates-tropical-storm-edouard-not-done-with-texas"
     },
     {
       "rank": 10,
-      "title": "愛德華為德州東部帶來驚人閃洪　觸發罕見高洪水風險警戒",
-      "dek": "愛德華在德州東南部降下最高達20吋雨量，觸發罕見的高洪水風險等級，登陸後減弱為熱帶低壓仍持續引發閃洪與救援行動。",
-      "url": "https://yaleclimateconnections.org/2026/09/edouard-delivers-an-outsized-flash-flood-punch-to-eastern-texas/"
+      "title": "四級颶風羅威爾將掠過夏威夷南側",
+      "dek": "FOX Weather報導，颶風羅威爾增強至四級並預計從夏威夷南方通過，同時颶風卡琳娜與熱帶風暴瑪麗也在中太平洋活動。",
+      "url": "https://www.foxweather.com/weather-news/pacific-tropics-hurricane-tropical-storm-karina-lowell-marie-hawaii-september-2026"
     }
   ]
 }
