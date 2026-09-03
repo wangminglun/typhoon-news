@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T02:12:00+08:00",
+  "generated_at": "2026-09-04T03:12:00+08:00",
   "alert_level": "sea",
-  "alert_text": "海上颱風警報",
-  "alert_desc": "海上颱風警報截至9月3日上午仍對台灣北部海域及馬祖周邊有效，中央氣象署預期隨沙德爾登陸福建後迅速減弱，警報可望於當日下午解除；目前並未發布陸上颱風警報。",
+  "alert_text": "海上颱風警報（狀態待確認）",
+  "alert_desc": "中央氣象署9月2日曾針對台灣北部海域及馬祖重新發布海上颱風警報；隨沙德爾3日清晨第三度登陸並持續減弱、香港天文台也已取消所有警告信號，警報似已解除或即將解除，但氣象署尚未發布正式公告確認確切解除時刻，實際狀態仍待官方證實。目前並未發布陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "中央氣象署已將台中市納入9月3日的大雨特報範圍，受沙德爾外圍環流與季風槽共同影響；截至目前尚無因此次風雨而停班停課的公告。"
+    "text": "截至目前，各方報導均未提及颱風沙德爾或熱帶氣旋科羅旺對台中造成直接影響，今日大雨特報也未將台中列入；目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾詭異回馬槍三度登陸中國　台灣13縣市豪雨特報、海上警報預計今午解除",
-    "dek": "在南海海面罕見「死而復生」後，沙德爾今晨三度登陸中國福建漳浦，中央氣象署持續對台灣多縣市發布豪雨特報，同時另一颱風科羅旺在琉球群島外海徘徊，但預料不會直撲台灣。",
-    "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
+    "title": "沙德爾三度登陸中國東南沿岸後消散　台灣海上颱風警報似已解除",
+    "dek": "在浙江登陸後於南海重新生成的沙德爾颱風，3日清晨在福建漳浦第三度登陸，隨後於廣東內陸減弱為低壓區，而中央氣象署尚未就其海上警報的確切解除時間發布正式公告。",
+    "url": "https://udn.com/news/story/7332/9731485"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾南海重生　路徑「前所未見」　中國東南沿海二度戒備",
-      "dek": "南華早報報導，已減弱為熱帶低氣壓的沙德爾在南海上空意外重新增強為颱風，並轉向中國東部與南部沿海，展開一段罕見的迴旋路徑。",
-      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
+      "title": "沙德爾福建三度登陸　締造罕見氣象紀錄",
+      "dek": "聯合新聞網報導，沙德爾3日晨間約6時30分在福建漳浦登陸，近中心風速每秒23公尺，福建多縣市啟動停班停課措施。",
+      "url": "https://udn.com/news/story/7332/9731485"
     },
     {
       "rank": 2,
-      "title": "沙德爾三度登陸　福建漳浦清晨受風雨侵襲",
-      "dek": "新華社報導，沙德爾9月3日晨間在福建漳浦縣沿海登陸，福建當局已疏散逾8.3萬人並關閉多處交通與觀光設施。",
-      "url": "https://english.news.cn/20260903/a5807ed5ba5c444eb5985b298e08e451/c.html"
+      "title": "橫跨七省再登陸　沙德爾創下少見颱風路徑紀錄",
+      "dek": "自由時報報導，沙德爾此次路徑罕見：先在浙江登陸，經廣東出海後於南海重新生成，再度獨立完成第三次登陸。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5561433"
     },
     {
       "rank": 3,
-      "title": "台灣13縣市發布豪雨特報　氣象署：海上警報今午可望解除",
-      "dek": "雅虎新聞台灣與聯合新聞網報導，中央氣象署因沙德爾外圍環流與季風槽對包括台中在內的13縣市發布大雨特報，北部海域及馬祖海警預計今日下午解除。",
-      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%B5%B7%E8%AD%A68%E6%99%8230%E5%88%86%E7%99%BC%E5%B8%83-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BC%B7%E5%BA%A6%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-002630029.html"
+      "title": "沙德爾減弱消散　香港天文台取消所有熱帶氣旋警告",
+      "dek": "星島頭條指出，香港天文台3日下午約2時45分取消全部熱帶氣旋警告信號，確認沙德爾已於廣東內陸減弱為低壓區。",
+      "url": "https://www.stheadline.com/society/3610707/%E6%B2%99%E5%BE%B7%E7%88%BE%E5%A4%A9%E6%96%87%E5%8F%B0%E5%8F%96%E6%B6%88%E6%89%80%E6%9C%89%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F-%E6%B2%99%E5%BE%B7%E7%88%BE%E5%B7%B2%E5%9C%A8%E5%BB%A3%E6%9D%B1%E5%85%A7%E9%99%B8%E6%B8%9B%E5%BC%B1%E7%82%BA%E4%BD%8E%E5%A3%93%E5%8D%80"
     },
     {
       "rank": 4,
-      "title": "40年僅8次　分析指沙德爾「死而復生」屬罕見特例",
-      "dek": "Newtalk新聞報導，颱風減弱為低氣壓後又重新增強並保留原編號的現象，過去40年僅出現約8例，使沙德爾成為氣象觀察焦點。",
-      "url": "https://newtalk.tw/news/view/2026-09-01/1057078"
+      "title": "福建啟動防災應變　因應沙德爾第三次登陸引發暴雨",
+      "dek": "星島日報報導，沙德爾登陸福建後多地發布暴雨警報，當局在受影響縣市祭出停工停課停業等應變措施。",
+      "url": "https://www.singtaousa.com/2026/09/03/news/china/typhoon-saola-landfall-fujian-rainstorm/"
     },
     {
       "rank": 5,
-      "title": "新颱風科羅旺琉球外海生成　預估繞圈徘徊數日、不直接威脅台灣",
-      "dek": "聯合新聞網報導，科羅旺9月1日在琉球群島東南方海面形成，日本氣象廳預測其將在沖繩附近繞行約五天，中央氣象署稱對台灣無直接威脅。",
-      "url": "https://udn.com/news/story/6812/9729227"
+      "title": "粵閩台三地嚴防沙德爾殘餘環流帶來的極端降雨",
+      "dek": "中央氣象台預報，3日至4日間廣東東北部、福建大部與台灣南部、東北部將面臨強降雨，局部地區恐達250至300毫米。",
+      "url": "http://weather.cma.cn/web/channel-376.html"
     },
     {
       "rank": 6,
-      "title": "太平洋颱風季創37年來最快生成速度　8月生成10颱追平紀錄",
-      "dek": "西日本新聞報導，西北太平洋今年8月生成10個颱風追平1951年以來單月紀錄，截至8月28日累計23個颱風，為1989年以來最快步調。",
-      "url": "https://www.nishinippon.co.jp/item/1531842/"
+      "title": "今年第24號颱風科羅旺生成　與沙德爾一度形成「雙颱」",
+      "dek": "自由時報報導，日本氣象廳9月1日確認科羅旺生成，氣象人員研判其對台灣不構成威脅。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5558826"
     },
     {
       "rank": 7,
-      "title": "夏威夷外海颶風羅威爾增強至五級　太平洋現罕見「三颶風」並立",
-      "dek": "EarthSky報導，中太平洋颶風中心指出颶風羅威爾已增強為五級，與颶風卡莉娜、瑪麗同時活躍，形成本週罕見的三颶風並存局面。",
-      "url": "https://earthsky.org/todays-image/hurricane-triplets-pacific-ocean-lowell-karina-marie/"
+      "title": "科羅旺緩慢北上　預估9月4日前後逼近沖繩、奄美",
+      "dek": "中央社報導，科羅旺持續向北移動，中心氣壓996百帕，近中心最大風速每秒18公尺，預計4日前後接近琉球群島一帶。",
+      "url": "https://udn.com/news/story/6812/9729227"
     },
     {
       "rank": 8,
-      "title": "颶風卡莉娜略減弱　仍維持強烈四級風力",
-      "dek": "福斯天氣報導，颶風卡莉娜風力略降至四級、風速每小時140英里，預報員稱其與羅威爾不致直接重創夏威夷，但將帶來湧浪與高浪。",
-      "url": "https://www.foxweather.com/weather-news/pacific-tropics-hurricane-tropical-storm-karina-lowell-marie-hawaii-september-2026"
+      "title": "科羅旺恐在九州周邊徘徊　為日本帶來連日強降雨",
+      "dek": "TVBS新聞報導，氣象專家警告科羅旺可能在沖繩附近打轉並滯留九州、四國一帶，與秋雨鋒面共伴恐引發持續性豪雨。",
+      "url": "https://news.tvbs.com.tw/world/4016035"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴瑪麗在墨西哥外海增強　有望升級為颶風",
-      "dek": "新聞週刊報導，熱帶風暴瑪麗在下加利福尼亞半島南端外海增強，預料當日稍晚升格為颶風，完成太平洋東側罕見的三颶風並立局面。",
-      "url": "https://www.newsweek.com/hurricanes-lowell-karina-marie-spaghetti-models-three-storms-gather-12398290"
+      "title": "颶風羅威爾一度達五級強度　夏威夷嚴陣以待",
+      "dek": "Newsweek報導，羅威爾曾短暫增強為五級颶風，預報顯示其可能於勞動節週末急轉逼近夏威夷，沿岸將出現致命大浪與離岸流。",
+      "url": "https://www.newsweek.com/hawaii-hurricane-lowell-category-4-tracker-map-forecast-12395691"
     },
     {
       "rank": 10,
-      "title": "聖嬰效應下大西洋颶風季異常平靜　對比太平洋活躍局勢",
-      "dek": "波士頓環球報報導，大西洋今年僅生成四個命名風暴，遠低於同期平均水準，美國國家海洋暨大氣總署將此歸因於同時助長太平洋活躍度的聖嬰現象。",
-      "url": "https://www.bostonglobe.com/2026/08/25/metro/hurricane-season-2026-atlantic-el-nino/"
+      "title": "夏威夷「三颶夾擊」持續　卡莉娜減弱、瑪莉逼近墨西哥外海增強",
+      "dek": "FOX Weather報導，颶風卡莉娜逐漸減弱並將自夏威夷遠處通過，熱帶風暴瑪莉則在墨西哥下加利福尼亞外海預估增強為颶風。",
+      "url": "https://www.foxweather.com/weather-news/pacific-tropics-hurricane-tropical-storm-karina-lowell-marie-hawaii-september-2026"
     }
   ]
 }
