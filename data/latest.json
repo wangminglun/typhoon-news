@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T01:10:00+08:00",
-  "alert_level": "none",
-  "alert_text": "目前無警報",
-  "alert_desc": "目前無海上或陸上颱風警報，中央氣象署僅因低壓帶影響對台北、新北、基隆、宜蘭、桃園、新竹、高雄、屏東等9縣市發布豪雨或大雨特報。",
+  "generated_at": "2026-09-04T02:12:00+08:00",
+  "alert_level": "sea",
+  "alert_text": "海上颱風警報",
+  "alert_desc": "海上颱風警報截至9月3日上午仍對台灣北部海域及馬祖周邊有效，中央氣象署預期隨沙德爾登陸福建後迅速減弱，警報可望於當日下午解除；目前並未發布陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中未列入本次豪雨特報範圍，僅可能受低壓帶影響出現午後局部陣雨或雷雨，未達豪雨等級，亦無停班停課公告，屬「目前無直接影響」。"
+    "text": "中央氣象署已將台中市納入9月3日的大雨特報範圍，受沙德爾外圍環流與季風槽共同影響；截至目前尚無因此次風雨而停班停課的公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風沙德爾罕見三度登陸中國東南沿海　台灣暫無警戒惟豪雨籠罩九縣市",
-    "dek": "沙德爾繞行台灣後三度撲向福建，克羅萬則在琉球群島外海徘徊，兩者均未直接威脅台灣本島，氣象署未發布任何颱風警報，僅因低壓帶影響對北部、東北部及高屏地區發布豪雨特報。",
-    "url": "https://udn.com/news/story/7332/9731485"
+    "title": "颱風沙德爾詭異回馬槍三度登陸中國　台灣13縣市豪雨特報、海上警報預計今午解除",
+    "dek": "在南海海面罕見「死而復生」後，沙德爾今晨三度登陸中國福建漳浦，中央氣象署持續對台灣多縣市發布豪雨特報，同時另一颱風科羅旺在琉球群島外海徘徊，但預料不會直撲台灣。",
+    "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風沙德爾第3度登陸福建漳州　多地實施「三停一休」",
-      "dek": "聯合新聞網報導，沙德爾繞行後再度增強，登陸福建漳浦，當地緊急停工停課因應豪雨。",
-      "url": "https://udn.com/news/story/7332/9731485"
+      "title": "沙德爾南海重生　路徑「前所未見」　中國東南沿海二度戒備",
+      "dek": "南華早報報導，已減弱為熱帶低氣壓的沙德爾在南海上空意外重新增強為颱風，並轉向中國東部與南部沿海，展開一段罕見的迴旋路徑。",
+      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
     },
     {
       "rank": 2,
-      "title": "沙德爾繞台一圈殺回中國　閩粵沿海恐現破百毫米強降雨",
-      "dek": "看中國網分析沙德爾罕見的迴旋路徑，指其在廣東外海重新增強後轉向福建、廣東沿岸登陸。",
-      "url": "https://www.secretchina.com/news/b5/2026/09/03/1104307.html"
-    },
-    {
-      "rank": 3,
-      "title": "雨彈南北夾擊　氣象署對九縣市發布豪雨、大雨特報",
-      "dek": "自由時報報導，低壓帶影響下北部、東北部及高屏地區將有短延時強降雨，山區慎防坡地災害。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562540"
-    },
-    {
-      "rank": 4,
-      "title": "颱風克羅萬將於奄美群島附近迴轉南下",
-      "dek": "馬新社報導，克羅萬颱風預計在沖繩、奄美群島外海徘徊數日，風速可能增強至每小時85公里。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
-    },
-    {
-      "rank": 5,
-      "title": "沙德爾第三度登陸中國東南沿海",
-      "dek": "新華社報導，沙德爾歷經南海減弱再增強的罕見過程，週四清晨以強颱風強度三度登陸福建漳浦。",
+      "title": "沙德爾三度登陸　福建漳浦清晨受風雨侵襲",
+      "dek": "新華社報導，沙德爾9月3日晨間在福建漳浦縣沿海登陸，福建當局已疏散逾8.3萬人並關閉多處交通與觀光設施。",
       "url": "https://english.news.cn/20260903/a5807ed5ba5c444eb5985b298e08e451/c.html"
     },
     {
+      "rank": 3,
+      "title": "台灣13縣市發布豪雨特報　氣象署：海上警報今午可望解除",
+      "dek": "雅虎新聞台灣與聯合新聞網報導，中央氣象署因沙德爾外圍環流與季風槽對包括台中在內的13縣市發布大雨特報，北部海域及馬祖海警預計今日下午解除。",
+      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%B5%B7%E8%AD%A68%E6%99%8230%E5%88%86%E7%99%BC%E5%B8%83-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BC%B7%E5%BA%A6%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-002630029.html"
+    },
+    {
+      "rank": 4,
+      "title": "40年僅8次　分析指沙德爾「死而復生」屬罕見特例",
+      "dek": "Newtalk新聞報導，颱風減弱為低氣壓後又重新增強並保留原編號的現象，過去40年僅出現約8例，使沙德爾成為氣象觀察焦點。",
+      "url": "https://newtalk.tw/news/view/2026-09-01/1057078"
+    },
+    {
+      "rank": 5,
+      "title": "新颱風科羅旺琉球外海生成　預估繞圈徘徊數日、不直接威脅台灣",
+      "dek": "聯合新聞網報導，科羅旺9月1日在琉球群島東南方海面形成，日本氣象廳預測其將在沖繩附近繞行約五天，中央氣象署稱對台灣無直接威脅。",
+      "url": "https://udn.com/news/story/6812/9729227"
+    },
+    {
       "rank": 6,
-      "title": "沙德爾三度登陸　福建疏散逾8萬3千人、交通大癱瘓",
-      "dek": "中國網報導，福建當局疏散逾8萬3千人，多條道路封閉、大量交通班次停駛。",
-      "url": "http://www.china.org.cn/2026-09/03/content_118678309.shtml"
+      "title": "太平洋颱風季創37年來最快生成速度　8月生成10颱追平紀錄",
+      "dek": "西日本新聞報導，西北太平洋今年8月生成10個颱風追平1951年以來單月紀錄，截至8月28日累計23個颱風，為1989年以來最快步調。",
+      "url": "https://www.nishinippon.co.jp/item/1531842/"
     },
     {
       "rank": 7,
-      "title": "颱風「Pilandok」駛離菲律賓海域　呂宋仍受西南季風強降雨侵襲",
-      "dek": "Rappler報導，克羅萬雖已離開菲律賓責任海域，其增強的西南季風仍為呂宋多省帶來強降雨。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-pilandok-southwest-monsoon-update-pagasa-forecast-september-3-2026-11am/"
+      "title": "夏威夷外海颶風羅威爾增強至五級　太平洋現罕見「三颶風」並立",
+      "dek": "EarthSky報導，中太平洋颶風中心指出颶風羅威爾已增強為五級，與颶風卡莉娜、瑪麗同時活躍，形成本週罕見的三颶風並存局面。",
+      "url": "https://earthsky.org/todays-image/hurricane-triplets-pacific-ocean-lowell-karina-marie/"
     },
     {
       "rank": 8,
-      "title": "Pilandok駛離菲律賓責任海域　西南季風效應仍籠罩呂宋",
-      "dek": "菲律賓Philstar報導，PAGASA證實颱風已離境，但西南季風效應仍使多省面臨中至強降雨風險。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/03/2553733/pilandok-set-exit-par-habagat-continue-bringing-heavy-rains"
+      "title": "颶風卡莉娜略減弱　仍維持強烈四級風力",
+      "dek": "福斯天氣報導，颶風卡莉娜風力略降至四級、風速每小時140英里，預報員稱其與羅威爾不致直接重創夏威夷，但將帶來湧浪與高浪。",
+      "url": "https://www.foxweather.com/weather-news/pacific-tropics-hurricane-tropical-storm-karina-lowell-marie-hawaii-september-2026"
     },
     {
       "rank": 9,
-      "title": "第24號颱風克羅萬北上琉球群島　暫無登陸日本本島跡象",
-      "dek": "日本Weathernews分析克羅萬北上路徑，預料為沖繩外島帶來強風大浪，暫無登陸本島跡象。",
-      "url": "https://sea.weathernews.com/resources/202609/220"
+      "title": "熱帶風暴瑪麗在墨西哥外海增強　有望升級為颶風",
+      "dek": "新聞週刊報導，熱帶風暴瑪麗在下加利福尼亞半島南端外海增強，預料當日稍晚升格為颶風，完成太平洋東側罕見的三颶風並立局面。",
+      "url": "https://www.newsweek.com/hurricanes-lowell-karina-marie-spaghetti-models-three-storms-gather-12398290"
     },
     {
       "rank": 10,
-      "title": "第20號颱風邦朗持續於西太平洋開闊海域活動",
-      "dek": "Weather Underground追蹤顯示，今年第20號颱風邦朗持續在西太平洋開闊海域活動，未對陸地構成威脅。",
-      "url": "https://www.wunderground.com/hurricane/western-pacific/2026/typhoon-bang-lang"
+      "title": "聖嬰效應下大西洋颶風季異常平靜　對比太平洋活躍局勢",
+      "dek": "波士頓環球報報導，大西洋今年僅生成四個命名風暴，遠低於同期平均水準，美國國家海洋暨大氣總署將此歸因於同時助長太平洋活躍度的聖嬰現象。",
+      "url": "https://www.bostonglobe.com/2026/08/25/metro/hurricane-season-2026-atlantic-el-nino/"
     }
   ]
 }
