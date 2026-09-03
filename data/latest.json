@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T00:12:00+08:00",
+  "generated_at": "2026-09-04T01:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "目前無海上或陸上颱風警報，中央氣象署僅針對基隆、台北、新北、台中等13縣市發布大雨特報。",
+  "alert_desc": "目前無海上或陸上颱風警報，中央氣象署僅因低壓帶影響對台北、新北、基隆、宜蘭、桃園、新竹、高雄、屏東等9縣市發布豪雨或大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前僅列入中央氣象署大雨特報範圍，並無颱風直接侵襲跡象，亦無停班停課公告，屬「目前無直接影響」。"
+    "text": "台中未列入本次豪雨特報範圍，僅可能受低壓帶影響出現午後局部陣雨或雷雨，未達豪雨等級，亦無停班停課公告，屬「目前無直接影響」。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾三度登陸中國、科羅旺琉球外海打轉　台灣暫免颱風警報但豪雨籠罩13縣市",
-    "dek": "中央氣象署表示，雖然罕見「復活」的沙德爾與盤旋沖繩外海的科羅旺同時牽動天氣系統，但台灣本島目前未達發布海上或陸上颱風警報的門檻。",
-    "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
+    "title": "颱風沙德爾罕見三度登陸中國東南沿海　台灣暫無警戒惟豪雨籠罩九縣市",
+    "dek": "沙德爾繞行台灣後三度撲向福建，克羅萬則在琉球群島外海徘徊，兩者均未直接威脅台灣本島，氣象署未發布任何颱風警報，僅因低壓帶影響對北部、東北部及高屏地區發布豪雨特報。",
+    "url": "https://udn.com/news/story/7332/9731485"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風「復活」有先例　中央社：1986年韋恩、2021年盧碧皆曾重生",
-      "dek": "中央社報導，沙德爾颱風減弱後在南海重新增強的現象，過去已有兩次類似紀錄可循。",
-      "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
+      "title": "颱風沙德爾第3度登陸福建漳州　多地實施「三停一休」",
+      "dek": "聯合新聞網報導，沙德爾繞行後再度增強，登陸福建漳浦，當地緊急停工停課因應豪雨。",
+      "url": "https://udn.com/news/story/7332/9731485"
     },
     {
       "rank": 2,
-      "title": "「垂死」颱風找到新生命　沙德爾重返輕颱等級",
-      "dek": "Taipei Times報導，中央氣象署證實原已減弱的沙德爾在海南島附近重新增強為輕度颱風。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+      "title": "沙德爾繞台一圈殺回中國　閩粵沿海恐現破百毫米強降雨",
+      "dek": "看中國網分析沙德爾罕見的迴旋路徑，指其在廣東外海重新增強後轉向福建、廣東沿岸登陸。",
+      "url": "https://www.secretchina.com/news/b5/2026/09/03/1104307.html"
     },
     {
       "rank": 3,
-      "title": "沙德爾捲土重來　氣象署：對台灣本島影響有限",
-      "dek": "Taipei Times報導，氣象署預期重生後的沙德爾將轉向東北再北上，逼近中國沿岸後減弱，對台灣直接衝擊不大。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+      "title": "雨彈南北夾擊　氣象署對九縣市發布豪雨、大雨特報",
+      "dek": "自由時報報導，低壓帶影響下北部、東北部及高屏地區將有短延時強降雨，山區慎防坡地災害。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562540"
     },
     {
       "rank": 4,
-      "title": "沙德爾復活大迴轉　9月3日全台13縣市發布大雨特報",
-      "dek": "風傳媒報導，包括台中在內的13縣市已列入豪雨特報範圍，但無停班停課令。",
-      "url": "https://www.storm.mg/lifestyle/11161280"
-    },
-    {
-      "rank": 5,
-      "title": "「前所未見」路徑　中國東南沿海嚴陣以待復活颱風沙德爾",
-      "dek": "南華早報報導，沙德爾以罕見路徑三度登陸福建漳浦，福建、廣東、浙江等省分升高戒備。",
-      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
-    },
-    {
-      "rank": 6,
-      "title": "科羅旺颱風於日本南方海面生成　朝沖繩本島移動",
-      "dek": "The Star報導，第24號颱風科羅旺9月1日在沖繩附近海域形成，中心氣壓約985百帕。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
-    },
-    {
-      "rank": 7,
-      "title": "科羅旺周五將於奄美群島附近迴轉南下",
-      "dek": "The Star報導，科羅旺預計逼近奄美群島後轉向南下，並牽引水氣影響日本滯留鋒面至9月7日左右。",
+      "title": "颱風克羅萬將於奄美群島附近迴轉南下",
+      "dek": "馬新社報導，克羅萬颱風預計在沖繩、奄美群島外海徘徊數日，風速可能增強至每小時85公里。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
     },
     {
+      "rank": 5,
+      "title": "沙德爾第三度登陸中國東南沿海",
+      "dek": "新華社報導，沙德爾歷經南海減弱再增強的罕見過程，週四清晨以強颱風強度三度登陸福建漳浦。",
+      "url": "https://english.news.cn/20260903/a5807ed5ba5c444eb5985b298e08e451/c.html"
+    },
+    {
+      "rank": 6,
+      "title": "沙德爾三度登陸　福建疏散逾8萬3千人、交通大癱瘓",
+      "dek": "中國網報導，福建當局疏散逾8萬3千人，多條道路封閉、大量交通班次停駛。",
+      "url": "http://www.china.org.cn/2026-09/03/content_118678309.shtml"
+    },
+    {
+      "rank": 7,
+      "title": "颱風「Pilandok」駛離菲律賓海域　呂宋仍受西南季風強降雨侵襲",
+      "dek": "Rappler報導，克羅萬雖已離開菲律賓責任海域，其增強的西南季風仍為呂宋多省帶來強降雨。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-pilandok-southwest-monsoon-update-pagasa-forecast-september-3-2026-11am/"
+    },
+    {
       "rank": 8,
-      "title": "雙颱共存不共舞　科羅旺生成對台影響曝光",
-      "dek": "聯合新聞網報導，科羅旺與沙德爾雖同時存在卻不互相牽引，但共伴東北風將持續為中北部帶來降雨。",
-      "url": "https://udn.com/news/story/7266/9726281"
+      "title": "Pilandok駛離菲律賓責任海域　西南季風效應仍籠罩呂宋",
+      "dek": "菲律賓Philstar報導，PAGASA證實颱風已離境，但西南季風效應仍使多省面臨中至強降雨風險。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/03/2553733/pilandok-set-exit-par-habagat-continue-bringing-heavy-rains"
     },
     {
       "rank": 9,
-      "title": "追平紀錄的颱風季　氣象署：今夏雨量多兩成",
-      "dek": "Taipei Times報導，今年7、8月西太平洋共生成14個颱風追平歷史同期紀錄，氣象署預估秋季仍有10至12個系統形成。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863565"
+      "title": "第24號颱風克羅萬北上琉球群島　暫無登陸日本本島跡象",
+      "dek": "日本Weathernews分析克羅萬北上路徑，預料為沖繩外島帶來強風大浪，暫無登陸本島跡象。",
+      "url": "https://sea.weathernews.com/resources/202609/220"
     },
     {
       "rank": 10,
-      "title": "今年7、8月西太平洋颱風生成數追平歷史紀錄",
-      "dek": "中央社英文新聞（Focus Taiwan）報導，氣象署數據顯示14個系統生成追平紀錄，並展望9至11月颱風季展望。",
-      "url": "https://focustaiwan.tw/society/202609020009"
+      "title": "第20號颱風邦朗持續於西太平洋開闊海域活動",
+      "dek": "Weather Underground追蹤顯示，今年第20號颱風邦朗持續在西太平洋開闊海域活動，未對陸地構成威脅。",
+      "url": "https://www.wunderground.com/hurricane/western-pacific/2026/typhoon-bang-lang"
     }
   ]
 }
