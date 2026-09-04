@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T14:11:00+08:00",
+  "generated_at": "2026-09-04T15:13:00+08:00",
   "alert_level": "none",
-  "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署證實全台目前無海上或陸上颱風警報生效，一度重新增強的颱風沙德爾已在中國廣東內陸減弱為低壓區，另一熱帶風暴科羅旺則持續北轉朝日本移動，暫不威脅台灣。",
+  "alert_text": "目前台灣本島無颱風警報，僅北部、東北部發布豪雨特報",
+  "alert_desc": "目前台灣本島無颱風警報，僅北部、東北部發布豪雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受沙德爾或科羅旺任何一個系統直接影響，全台暴風風力機率一度評估為零，市府未發布或研擬停班停課措施，市內生活與交通運作如常。"
+    "text": "台中目前無直接影響，未列入9月4日豪雨特報範圍（範圍為基隆、台北、新北、宜蘭，桃園列大雨等級）；9月3日台中曾一度被列入沙德爾外圍環流及低壓帶豪雨特報的13縣市之一，但主要雨區已於9月4至5日北移，台中目前無颱風警報、無停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾詭異「回力鏢」路徑後消散　台灣暫無颱風警報　但殘餘水氣仍籲防豪雨",
-    "dek": "中央氣象署證實全台目前無海上或陸上颱風警報生效，一度重新增強的颱風沙德爾已在中國廣東內陸減弱為低壓區，另一熱帶風暴科羅旺則持續北轉朝日本移動，暫不威脅台灣。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+    "title": "太平洋罕見三颶風夾擊夏威夷　科羅旺滯留沖繩為台灣北部添豪雨變數",
+    "dek": "中央氣象署尚未對台灣本島發布颱風警報，但科羅旺外圍環流與沙德爾殘餘水氣仍為北台灣帶來強降雨，同一時間東太平洋罕見同時出現三個颶風，其中「羅威爾」恐直撲夏威夷。",
+    "url": "https://focustaiwan.tw/society/202609040005"
   },
   "items": [
     {
       "rank": 1,
-      "title": "瀕死颱風重獲新生　沙德爾在南海復甦並飄向台灣海峽",
-      "dek": "一度幾近消散的颱風沙德爾在南海意外增強，路徑不確定性升高，氣象署密切監控其動向。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+      "title": "氣象署對北台灣發布豪雨特報，未發颱風警報",
+      "dek": "基隆、台北、新北及宜蘭頭城發布豪雨特報，桃園列大雨等級，水氣與科羅旺外圍環流有關。",
+      "url": "https://focustaiwan.tw/society/202609040005"
     },
     {
       "rank": 2,
-      "title": "熱帶氣旋沙德爾減弱　香港天文台取消所有警告信號",
-      "dek": "沙德爾已在廣東內陸減弱為低壓區，天文台確認其登陸中國後迅速衰減。",
-      "url": "https://www.singtaousa.com/2026/09/03/news/china/tropical-cyclone-saddel-warnings-cancelled/"
+      "title": "本季第24號颱風科羅旺生成，預計滯留沖繩、奄美一帶",
+      "dek": "中央社報導，科羅旺可能於9月4日前後接近沖繩並打轉，當地恐現每秒25公尺瞬間強陣風並伴隨秋雨鋒面豪雨。",
+      "url": "https://www.cna.com.tw/news/aopl/202609020060.aspx"
     },
     {
       "rank": 3,
-      "title": "天文台取消所有熱帶氣旋警告信號　沙德爾廣東內陸減弱為低壓區",
-      "dek": "天文台指出沙德爾減弱速度快於預期，降低了警告信號再度升級的可能性。",
-      "url": "https://www.stheadline.com/society/3610707/%E6%B2%99%E5%BE%B7%E7%88%BE%E5%A4%A9%E6%96%87%E5%8F%B0%E5%8F%96%E6%B6%88%E6%89%80%E6%9C%89%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F-%E6%B2%99%E5%BE%B7%E7%88%BE%E5%B7%B2%E5%9C%A8%E5%BB%A3%E6%9D%B1%E5%85%A7%E9%99%B8%E6%B8%9B%E5%BC%B1%E7%82%BA%E4%BD%8E%E5%A3%93%E5%8D%80"
+      "title": "菲律賓因季風增強發布紅色暴雨警報",
+      "dek": "熱帶風暴皮蘭多克（科羅旺）離開菲律賓責任區後，增強的西南季風致呂宋多地發布紅色與橙色暴雨警報，馬尼拉都會區停課。",
+      "url": "https://newsinfo.inquirer.net/2298951/pagasa-issues-red-rainfall-warning-over-3-luzon-areas"
     },
     {
       "rank": 4,
-      "title": "沙德爾重回熱帶風暴強度　屏東豪雨成災",
-      "dek": "沙德爾在南海重新增強為熱帶風暴之際，台灣南部屏東縣傳出強降雨與淹水災情。",
-      "url": "https://focustaiwan.tw/society/202609010017"
+      "title": "熱帶風暴沙德爾第三度登陸福建，多地啟動防災措施",
+      "dek": "中央社報導，沙德爾登陸福建漳州古雷沿岸，中心風力9級、氣壓985百帕，福建廣東多地實施「三停一休」並停駛渡輪。",
+      "url": "https://www.cna.com.tw/news/acn/202609030080.aspx"
     },
     {
       "rank": 5,
-      "title": "雙颱同時成形　氣象署警告台灣南部慎防豪雨",
-      "dek": "沙德爾與科羅旺同時在區域內活動，氣象署針對南台灣與中央山脈地區發布豪雨預警。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
+      "title": "沙德爾釀福建福鼎嚴重溪水暴漲，居民措手不及",
+      "dek": "大紀元報導，福鼎兩座水庫同時洩洪，洪水沖入點頭鎮、白琳鎮，多輛汽車遭沖走，知名茶葉商圈受創。",
+      "url": "https://www.epochtimes.com/b5/26/9/3/n14841907.htm"
     },
     {
       "rank": 6,
-      "title": "沙德爾捲土重來　但對台灣影響有限",
-      "dek": "氣象署預測沙德爾將在南海再度增強，惟評估對台灣本島直接衝擊輕微，新一波海上警報可能性低。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+      "title": "四級颶風羅威爾恐轉向直撲夏威夷",
+      "dek": "檀香山《星辰廣告報》報導，羅威爾預測下週初可能直接登陸夏威夷西側島嶼，全州已出現危險大浪。",
+      "url": "https://www.staradvertiser.com/2026/09/03/breaking-news/major-hurricane-lowell-could-turn-toward-hawaii-early-next-week/"
     },
     {
       "rank": 7,
-      "title": "颱風最新動態9/3：沙德爾將減弱、科羅旺琉球打轉　北台灣防豪雨",
-      "dek": "沙德爾預計持續減弱，科羅旺則在琉球群島一帶徘徊，氣象單位提醒北台灣仍須留意殘餘水氣帶來的強降雨。",
-      "url": "https://applealmond.com/posts/324087"
+      "title": "太平洋罕見同時出現三颶風：羅威爾、卡里娜、瑪麗",
+      "dek": "Fox Weather報導，在強聖嬰現象影響下，五級颶風羅威爾、四級颶風卡里娜與熱帶風暴瑪麗同時活躍，卡里娜預計逼近夏威夷後轉向北方減弱。",
+      "url": "https://www.foxweather.com/weather-news/pacific-tropics-hurricane-tropical-storm-karina-lowell-marie-hawaii-september-2026"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴科羅旺（22W）美軍風暴追蹤最新回報",
-      "dek": "美軍風暴追蹤系統顯示科羅旺位於嘉手納基地東北方約198公里處，預測將帶來強風與海象不佳。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-01/tropical-storm-22w-(krovanh),-"
+      "title": "NASA衛星捕捉太平洋罕見三熱帶氣旋並列畫面",
+      "dek": "NASA地球觀測站表示，這是紀錄上第二次出現三颶風並列現象，羅威爾9月2日升至五級，反映異常暖海水的影響。",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴科羅旺即時路徑追蹤與預測",
-      "dek": "衛星即時資料顯示科羅旺目前位於沖繩東南方海域，預測路徑轉向日本本土，與台灣無交集。",
-      "url": "https://zoom.earth/storms/krovanh-2026/"
+      "title": "日本氣象機構預測2026年颱風季將偏強",
+      "dek": "Tokyo Weekender報導，日本天氣新聞公司預測本季約有28個颱風生成、14個接近日本，均高於平均值，強聖嬰現象是主因。",
+      "url": "https://www.tokyoweekender.com/japan-life/news-and-opinion/japan-typhoon-season-2026-forecast/"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴紫檀（2026年）事件回顧：沙德爾的「雙生颱風」",
-      "dek": "紫檀曾在中國海南罕見登陸並在廣西造成逾六萬人受災，八月二十六日於廣東消散，此前曾與沙德爾同時活躍，惟未直接影響台灣。",
-      "url": "https://zh.wikipedia.org/wiki/%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%B4%AB%E6%AA%80_(2026%E5%B9%B4)"
+      "title": "大西洋颶風季異常平靜，反襯太平洋活躍",
+      "dek": "FOX 13坦帕灣報導，大西洋傳統高峰期僅生成5個命名風暴、無颶風，聖嬰現象風切增強受抑制，與東北太平洋今年已有15個命名風暴、6個颶風形成強烈對比。",
+      "url": "https://www.fox13news.com/news/florida-atlantic-hurricane-season-quiet-pacific-surge-activity"
     }
   ]
 }
