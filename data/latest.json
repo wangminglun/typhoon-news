@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T02:10:00+08:00",
+  "generated_at": "2026-09-07T03:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。西北太平洋唯一活躍的熱帶氣旋柯羅旺持續在日本沖繩、奄美群島一帶盤旋，暫未對台灣構成直接威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。熱帶風暴克羅旺外圍雨帶持續影響北台灣與中南部山區，另一系統陶德則在南海重新增強後轉向廣東，均未直接威脅台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。柯羅旺路徑遠離台灣，僅在日本西南諸島一帶徘徊，中央氣象署並未對台中發布任何風雨警報或停班停課公告，與颱風系統無直接關聯。"
+    "text": "目前無直接影響。中央氣象署已針對台中和平區山區發布大雨特報，因鄰近熱帶系統外圍環流影響，需防範瞬間強降雨與土石流、落石風險，但尚未發布颱風警報，也無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風柯羅旺徘徊日本外海　台灣暫無颱風警報",
-    "dek": "中央氣象署尚未對台灣發布海上或陸上颱風警報，西北太平洋唯一活躍的熱帶氣旋柯羅旺持續在日本沖繩、奄美群島一帶盤旋，為當地帶來強降雨與坍方警戒，暫未對台灣構成直接威脅。",
-    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japans-amami-islands-island"
+    "title": "陸警海警均未發布　克羅旺外圍雨帶仍籠罩台灣，氣象署示警9月11日新擾動恐成秋颱",
+    "dek": "中央氣象署目前未對台灣發布任何颱風警報，但熱帶風暴克羅旺的外圍環流持續為北台灣與中南部山區帶來降雨，而原已減弱的「陶德」在南海罕見重新增強、轉向廣東，氣象署則將目光投向下週可能於菲律賓附近生成、牽動入秋首波東北季風後續雨勢的新熱帶擾動。",
+    "url": "https://focustaiwan.tw/society/202609050003"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風柯羅旺生成於日本以南洋面　朝沖繩本島移動",
-      "dek": "馬來西亞《星報》報導，柯羅旺於9月1日在日本奄美群島以南海域生成，初期風速約每小時64公里，緩慢朝沖繩本島方向移動，成為2026年太平洋颱風季最新命名系統。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japans-amami-islands-island"
+      "title": "克羅旺外圍環流南下　氣象署示警北台灣周末將迎降雨",
+      "dek": "中央氣象署指出，滯留沖繩附近的熱帶風暴克羅旺外圍雨帶，將為大台北與基隆沿海地區帶來降雨，但強調克羅旺本身不致直接侵襲台灣。",
+      "url": "https://focustaiwan.tw/society/202609050003"
     },
     {
       "rank": 2,
-      "title": "柯羅旺持續向西北移動　日本氣象廳預測週五逼近奄美大島後將折返南方",
-      "dek": "《星報》報導，日本氣象廳預測柯羅旺將於9月4日（週五）前後接近奄美大島，隨後轉向南方，使其路徑持續遠離台灣及日本本土主要島嶼。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/02/typhoon-krovanh-continues-northwestward-met-agency-predicts-course-to-near-amami-oshima-island-on-friday-sept-4-turn-back-toward-south-of-japan"
+      "title": "克羅旺、陶德雙雙牽動天氣　入秋首波東北季風周三報到",
+      "dek": "台北時報綜整報導，克羅旺外圍雨帶影響台灣至週一趨緩，而海南島附近的熱帶低氣壓（原颱風陶德）預料轉向廣東，使台灣發布海警的可能性降低。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863734"
     },
     {
       "rank": 3,
-      "title": "柯羅旺預計週五在奄美群島附近迴旋轉向南方",
-      "dek": "《星報》報導指出，柯羅旺預計在奄美群島周邊完成迴旋後轉向南方，朝沖繩、大東群島一帶移動，將持續為日本西南部帶來風雨威脅。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japans-amami-islands-and-head-south-on-friday"
+      "title": "第24號熱帶風暴克羅旺在琉球群島附近打轉　日本多地拉警報",
+      "dek": "Weathernews報導，克羅旺在沖繩、琉球群島一帶徘徊後預計轉向大東群島，並於9月8日前後減弱為熱帶低氣壓，日本氣象廳已對東京等地發布豪雨警報。",
+      "url": "https://sea.weathernews.com/resources/202609/226"
     },
     {
       "rank": 4,
-      "title": "熱帶風暴柯羅旺離開菲律賓責任區　PAGASA：西南季風仍威脅呂宋",
-      "dek": "菲律賓《商業世界》引述PAGASA報導，柯羅旺（當地名皮蘭多克）已離開菲律賓責任區，但持續增強西南季風「哈巴牙特」，為呂宋帶來降雨風險。",
-      "url": "https://bworldonline.com/the-nation/2026/09/03/774387/tropical-storm-krovanh-exits-par-southwest-monsoon-still-threatens-luzon-pagasa/"
+      "title": "「陶德」南海重整旗鼓　一度朝台灣海峽逼近",
+      "dek": "Weathernews報導，原已於中國大陸登陸減弱的系統在南海重新組織並恢復颱風／熱帶風暴強度，曾被追蹤朝台灣海峽方向漂移，其後路徑預測改向廣東。",
+      "url": "https://sea.weathernews.com/resources/202609/216"
     },
     {
       "rank": 5,
-      "title": "鹿兒島一度發布最高等級坍方警戒",
-      "dek": "《日本時報》報導，柯羅旺逼近日本西南諸島所帶來的強降雨，一度促使鹿兒島縣一處城鎮發布最高等級的坍方警戒。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
+      "title": "減弱颱風意外「重生」　南海及台灣海峽恐現強風",
+      "dek": "台北時報報導，陶德在南海登陸中國大陸後罕見重新增強為熱帶風暴，南海、東海及台灣海峽部分海域預測將出現9至10級強風。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 6,
-      "title": "關東甲信等地區預測將迎強降雨",
-      "dek": "《日本時報》報導，柯羅旺牽引的水氣與滯留鋒面結合，預計將為日本關東甲信及其他地區帶來週末強降雨，顯示風暴外圍環流影響範圍廣泛。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/06/japan/heavy-rain-forecast-kanto-koshin/"
+      "title": "陶德重新增強為熱帶風暴　屏東降雨加劇",
+      "dek": "中央社報導，陶德重新恢復熱帶風暴強度後，即便未直接登陸，其水氣仍為台灣南部屏東縣帶來明顯強降雨。",
+      "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴柯羅旺強度維持　持續飄離菲律賓責任區",
-      "dek": "菲律賓GMA News Online報導，柯羅旺維持每小時85公里持續風速、陣風達每小時105公里，飄離菲律賓水域之際仍持續增強呂宋一帶季風降雨。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+      "title": "雨勢升級！16縣市豪、大雨特報　台中防大雷雨",
+      "dek": "Yahoo奇摩新聞報導，中央氣象署將全台16縣市雨量特報升級為豪雨或大雨等級，並特別提醒台中應防範強烈雷雨，起因是鄰近熱帶系統外圍環流挾帶的水氣。",
+      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8B%A2%E5%8D%87%E7%B4%9A%EF%BC%8116%E7%B8%A3%E5%B8%82%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E5%8F%B0%E4%B8%AD%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-030349850.html"
     },
     {
       "rank": 8,
-      "title": "皮蘭多克將再度進入菲律賓責任區",
-      "dek": "《菲律賓星報》報導，PAGASA預測柯羅旺（皮蘭多克）將於週日（9月6日）再度進入菲律賓責任區，儘管風暴中心仍遠離陸地，但將持續增強西南季風。",
-      "url": "https://www.philstar.com/headlines/2026/09/06/2554347/pilandok-reenter-par"
+      "title": "秋天來了！入秋首波東北季風9月9日報到",
+      "dek": "Newtalk新聞報導，中央氣象署預測今年入秋首波東北季風將於9月9日抵達，北部與東半部將轉為間歇降雨並降溫，標誌著熱帶系統影響逐漸淡出。",
+      "url": "https://newtalk.tw/news/view/2026-09-05/1058017"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴柯羅旺週日將重返菲律賓責任區　PAGASA警告恐增強哈巴牙特季風",
-      "dek": "菲律賓GMA News Online引述PAGASA報導，柯羅旺預計週日重返菲律賓責任區，可能加劇西南季風「哈巴牙特」，為呂宋部分地區帶來額外降雨與淹水風險。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1001278/tropical-storm-pilandok-to-reenter-par-sunday-may-enhance-habagat-pagasa/story/"
+      "title": "入秋首波「東北季風＋秋颱」接力報到？下週3區慎防明顯大雨",
+      "dek": "Newtalk新聞報導，氣象署示警，約在9月11日前後，即便東北季風減弱，一熱帶擾動仍可能通過菲律賓進入南海並發展為颱風，屆時台灣迎風面地區仍需慎防明顯降雨。",
+      "url": "https://newtalk.tw/news/view/2026-09-06/1058091"
     },
     {
       "rank": 10,
-      "title": "24號颱風柯羅旺路徑罕見迴旋　朝琉球群島北上後預計轉向日本以南",
-      "dek": "Weathernews詳細追蹤報導指出，柯羅旺沿琉球（南西）群島出現罕見的迴旋路徑，當時持續風速約每小時61公里、陣風達每小時90公里，影響沖繩縣周邊海域。",
-      "url": "https://sea.weathernews.com/resources/202609/220"
+      "title": "熱帶風暴愛德華登陸美國路易斯安那州　帶來強降雨",
+      "dek": "ABC News報導，熱帶風暴愛德華在路易斯安那州強森灣附近登陸，為德州與路易斯安那部分地區帶來每小時50至60英里陣風及8至10英寸降雨；NOAA同時重申2026年大西洋颶風季預測仍偏低於正常值。",
+      "url": "https://abcnews.com/US/tropical-storm-edouard-strengthen-hurricane-landfall-officials/story?id=136110215"
     }
   ]
 }
