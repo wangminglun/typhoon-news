@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T19:11:00+08:00",
+  "generated_at": "2026-09-06T20:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "儘管西北太平洋兩個熱帶系統仍在活動，中央氣象署截至9月6日尚未對台灣發布任何海上或陸上颱風警報。科羅旺在琉球群島外海繞圈打轉，沙德爾已於福建減弱，均未直接威脅台灣。",
+  "alert_desc": "中央氣象署表示，兩個颱風系統目前皆朝台灣以外方向移動，全台未發布海上或陸上警報，僅北部與山區發布大雨特報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無因颱風而生的停班停課或直接影響；北台灣則因科羅旺外圍環流與東北季風共伴，出現局部短暫強降雨。"
+    "text": "台中無颱風直接侵襲影響，但山區和平區已被納入大雨特報範圍，因颱風外圍雲系結合午後對流，有局部瞬間大雨及土石流、溪水暴漲之虞；目前尚無停班停課消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風「科羅旺」琉球外海繞圈打轉　北台灣迎共伴降雨、無颱風警報",
-    "dek": "儘管西北太平洋兩個熱帶系統仍在活動，中央氣象署截至9月6日尚未對台灣發布任何海上或陸上颱風警報。",
-    "url": "https://udn.com/news/story/7266/9726281"
+    "title": "颱風蘇迪勒、柯羅旺相繼遠離台灣　僅剩局部大雨特報",
+    "dek": "中央氣象署表示，兩個颱風系統目前皆朝台灣以外方向移動，全台未發布海上或陸上警報，僅北部與山區發布大雨特報。",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863734"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺琉球外海繞圈打轉　共伴效應為北台灣带來短暫強降雨",
-      "dek": "科羅旺位於台北東北東方約680公里處，環流結合東北季風為北台灣帶來局部豪雨，7日至8日天氣可望趨於穩定。",
-      "url": "https://udn.com/news/story/7266/9726281"
+      "title": "蘇迪勒外圍环流減弱　氣象署：海警機率偏低",
+      "dek": "中央氣象署預報員黃恩鴻表示，蘇迪勒殘餘環流朝廣東移動，發布海上颱風警報的機率偏低，但柯羅旺外圍雲系週末仍將影響台灣北部。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863734"
     },
     {
       "rank": 2,
-      "title": "科羅旺沖繩外海畫圓路徑　威脅九州、四國豪雨",
-      "dek": "科羅旺6日上午通過那霸南方後轉向，於沖繩周邊繞出近乎完整圓形路徑，並與秋季鋒面共伴為日本九州、四國帶來豪雨警報。",
-      "url": "https://www.nownews.com/news/6872156"
+      "title": "大雨特報涵蓋四縣市　台中和平區在列",
+      "dek": "中央氣象署下午發布大雨特報，受颱風外圍雲系與午後對流影響，台中和平區、北市山區、新北北海岸及台東有局部豪雨之虞。",
+      "url": "https://udn.com/news/story/7266/9737702"
     },
     {
       "rank": 3,
-      "title": "科羅旺移出東海　中國解除藍色颱風預警",
-      "dek": "中國中央氣象台6日上午10時解除對科羅旺的藍色預警，惟東海及台灣以東海面仍將持續出現強風。",
-      "url": "https://www.jiemian.com/article/15059743.html"
+      "title": "四縣市大雨特報　估將持續至明日",
+      "dek": "自由時報報導，受颱風外圍環流及午後對流影響，四縣市大雨特報預計持續至明天，籲請民眾提高警覺。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5564970"
     },
     {
       "rank": 4,
-      "title": "颱風沙德爾走出罕見「回力鏢」路徑　福建登陸後減弱",
-      "dek": "沙德爾歷經浙江、福建兩度登陸與重新增強的罕見過程，目前已減弱為熱帶低氣壓，預料不會再威脅台灣。",
-      "url": "https://sea.weathernews.com/resources/202609/216"
+      "title": "柯羅旺奄美群島外海轉向　預估南下",
+      "dek": "日本氣象廳預測，颱風柯羅旺將行經奄美大島附近後轉向南行，當時中心氣壓990百帕、風速每秒20公尺。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
     },
     {
       "rank": 5,
-      "title": "熱帶擾動97W醞釀成形　暫定命名「杜鵑」",
-      "dek": "氣象單位觀察到新的熱帶擾動97W最快本週增強為今年第二十四號颱風，初步預測路徑偏北、遠離台灣。",
-      "url": "https://udn.com/news/story/7266/9734241"
+      "title": "鹿兒島破紀錄豪雨　一度發布最高等級土石流警戒",
+      "dek": "受柯羅旺相關降雨影響，鹿兒島縣部分地區24小時雨量達490.5毫米創紀錄，屋久島地區一度發布日本最高等級土石流警戒。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
     },
     {
       "rank": 6,
-      "title": "颶風羅威爾兩度增強至五級　夏威夷宣布進入緊急狀態",
-      "dek": "東太平洋颶風羅威爾歷經眼牆置換後再度增強至最高強度，中心氣壓降至922百帕，夏威夷西部島嶼因應風浪威脅宣布緊急狀態。",
-      "url": "https://www.cnn.com/2026/09/04/weather/hurricane-lowell-hawaii-storm-path-climate"
+      "title": "蘇迪勒罕見完成第三次登陸　侵襲中國東南沿岸",
+      "dek": "新華社報導，颱風蘇迪勒週四清晨於福建漳浦縣完成生涯第三次登陸，中心風速每秒23公尺，為今年第七個登陸中國的颱風。",
+      "url": "https://english.news.cn/20260903/c3a64337751149df9bd96e62b4d9a52b/c.html"
     },
     {
       "rank": 7,
-      "title": "羅威爾路徑北轉　預計週一逼近夏威夷外海",
-      "dek": "颶風羅威爾預計週末急轉北上，週一中心將通過夏威夷群島西南方約300英里處，帶來逾10英寸降雨與20英尺巨浪。",
-      "url": "https://www.staradvertiser.com/2026/09/04/breaking-news/hurricane-lowell-remains-category-3-as-it-tracks-south-of-hawaii/"
+      "title": "蘇迪勒重創福建莆田　逾百屋倒塌多人失聯",
+      "dek": "蘇迪勒第三次登陸引發嚴重淹水，福建莆田逾百棟房屋倒塌、多人失聯，當局正持續進行搜救工作。",
+      "url": "https://watchers.news/2026/09/04/multiple-people-missing-more-than-100-houses-collapse-in-putian-as-typhoon-saudel-floods-fujian-china/"
     },
     {
       "rank": 8,
-      "title": "太平洋同時出現三個熱帶氣旋　衛星影像捕捉罕見畫面",
-      "dek": "NASA地球觀測站衛星影像顯示颶風羅威爾、卡莉娜與熱帶風暴瑪麗同時活躍於東、中太平洋，形成罕見群聚現象。",
-      "url": "https://www.earth.com/climate/three-massive-storms-churn-across-the-pacific-at-the-same-time/"
+      "title": "「前所未見」路徑　蘇迪勒復活威脅中國東南沿海",
+      "dek": "南華早報分析蘇迪勒異常的生命史——陸地減弱後再於南海增強，並指浙江玉環兩個月內三度遭颱風侵襲，創下當地氣象紀錄。",
+      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
     },
     {
       "rank": 9,
-      "title": "太平洋颶風季進入活躍高峰　三個系統同步增強",
-      "dek": "東、中太平洋颶風盆地今年迎來活躍高峰，多個系統同步快速增強，對比之下大西洋颶風季異常平靜。",
-      "url": "https://www.usnews.com/news/national-news/articles/2026-09-04/pacific-hurricane-hits-peak-activity-as-major-storms-rapidly-intensify"
+      "title": "蘇迪勒重新增強為輕度颱風　屏東首當其衝降雨",
+      "dek": "中央社英語新聞報導，蘇迪勒殘餘環流在南海重新增強為輕度颱風，屏東縣雖未直接登陸，仍因外圍環流出現強降雨。",
+      "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
       "rank": 10,
-      "title": "台灣2026年颱風季展望　年底前恐再有五個系統生成",
-      "dek": "中央氣象署稍早的季節展望指出，今年底前西北太平洋恐再形成多達五個颱風，其中部分可能影響台灣。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
+      "title": "蘇迪勒「復活」非首例　氣象署舉1986年韋恩、2021年圓規為例",
+      "dek": "中央社報導，氣象署人員指出，颱風在陸地減弱後於海上重新增強雖罕見，但過去已有韋恩颱風與圓規颱風等先例可循。",
+      "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
     }
   ]
 }
