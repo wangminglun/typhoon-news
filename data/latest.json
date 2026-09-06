@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T04:10:00+08:00",
+  "generated_at": "2026-09-07T05:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。熱帶風暴科羅旺持續遠離台灣、往東北方向減弱移動，中國中央氣象台已解除颱風藍色預警，台灣本身則預告入秋首波東北季風將於9日增強。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；颱風科羅旺外圍環流雖為北部帶來局部大雨，但風雨程度未達發布警報標準（須於24小時或18小時內，7級以上強風預測侵襲台灣沿岸100公里範圍內）。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受任何熱帶系統或颱風警報影響，近期天氣變化僅來自即將於9日至11日增強的入秋首波東北季風，屬例行季節轉換，並非颱風導致的風雨或停班停課情況。"
+    "text": "目前無直接影響。沙德爾相關豪雨集中於屏東、高雄、台南、嘉義、雲林、台東等南部地區，科羅旺外圍環流影響則集中於基隆、大台北等北部地區，台中未列入相關降雨警戒或停班停課地區，台中市政府颱風專區也未發布任何警示。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "熱帶風暴科羅旺持續遠離台灣　東北季風週末將接力報到",
-    "dek": "中國中央氣象台解除颱風藍色預警，菲律賓氣象單位示警科羅旺恐短暫重返責任區；台灣氣象署預告首波東北季風9日增強，「秋颱」仍屬媒體揣測、非既定事實",
-    "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+    "title": "科羅旺牽動北台灣雨勢　氣象單位緊盯週末恐生成的杜鵑颱風",
+    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，颱風科羅旺外圍環流仍為北部帶來局部大雨，而追蹤中的熱帶擾動97W最快可能於本週末增強為今年颱風杜鵑。",
+    "url": "https://newtalk.tw/news/view/2026-09-05/1057950"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴科羅旺強度持穩，飄出菲律賓責任區",
-      "dek": "風暴位於沖繩東南方海域，以時速約15公里向東移動，中心氣壓989百帕，預料續留海上。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+      "title": "科羅旺外圍環流襲北台灣　杜鵑颱風最快週末生成",
+      "dek": "根據Newtalk新聞報導，颱風科羅旺外圍環流持續為台灣北部帶來局部大雨，基隆北海岸及大台北地區首當其衝；氣象單位同時觀察熱帶擾動97W，最快可能於本週末增強為颱風杜鵑，台灣入秋首波東北季風則預計9日前後增強。",
+      "url": "https://newtalk.tw/news/view/2026-09-05/1057950"
     },
     {
       "rank": 2,
-      "title": "Pilandok恐短暫重返菲律賓責任區",
-      "dek": "PAGASA預測登陸機率低，風暴預計7日前後再度離開，對菲律賓天氣影響有限。",
-      "url": "https://www.philstar.com/headlines/2026/09/06/2554347/pilandok-reenter-par"
+      "title": "賈新興：97W最快一天內成形　週日台灣仍有大雨機率",
+      "dek": "據Yahoo新聞（引述自由時報）報導，氣象專家賈新興表示，熱帶擾動97W最快可能在一天內組織成形為杜鵑颱風；受科羅旺外圍環流影響，週日台南以北仍有局部大雨機率，其後天氣才會逐漸趨穩。",
+      "url": "https://tw.news.yahoo.com/9-6%E5%A4%A9%E6%B0%A3%E5%A4%A7%E8%BD%89%E6%8A%98-%E7%A7%91%E7%BE%85%E6%97%BA%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E7%94%A9%E9%9B%A8-%E6%9D%9C%E9%B5%91%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E6%98%8E%E7%94%9F%E6%88%90-074048627.html"
     },
     {
       "rank": 3,
-      "title": "熱帶風暴Pilandok駛離責任區，呂宋部分地區仍受季風雨影響",
-      "dek": "PAGASA持續更新指出，增強的西南季風為呂宋部分地區帶來降雨，大馬尼拉地區發布豪雨警報。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-pilandok-southwest-monsoon-update-pagasa-forecast-september-3-2026-11am/"
+      "title": "沙德爾殘餘低壓重生為熱帶風暴　屏東豪雨成災",
+      "dek": "Focus Taiwan報導，原已減弱的颱風沙德爾殘餘低壓在南海重新增強為熱帶風暴，其強降雨與西南季風共伴效應在南台灣引發嚴重淹水、農業損失及多起土石流，屏東縣創下全國16項最高單日雨量紀錄，春日、滿州等山區226人撤離。",
+      "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
       "rank": 4,
-      "title": "熱帶氣旋公報第17F號：熱帶風暴PILANDOK(KROVANH)",
-      "dek": "PAGASA官方公報詳列風暴座標、強度與預測路徑，顯示其持續向日本南方海面東北移動。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/tamss/weather/bulletin_pilandok.pdf"
+      "title": "颱風「死而復生」非首例　中央社比對1986年韋恩、2021年璐碧",
+      "dek": "中央社報導，沙德爾由消散殘餘重新增強為熱帶風暴，是繼1986年韋恩颱風（曾影響台灣22天、三度發布警報）與2021年璐碧颱風後再度出現的罕見現象；氣象單位指出，台灣周邊海域水氣充沛，即使無正式警報仍可能出現強降雨、雷擊及強陣風。",
+      "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
     },
     {
       "rank": 5,
-      "title": "中央氣象台解除颱風藍色預警，科羅旺移出東海",
-      "dek": "中國氣象部門6日上午10時解除預警，隨風暴轉向東行，對中國沿海影響漸緩。",
-      "url": "https://www.jiemian.com/article/15059743.html"
+      "title": "重生後的沙德爾持續朝廣東移動　遠離台灣海峽",
+      "dek": "日本氣象資訊平台Weathernews分析指出，重新增強為熱帶風暴的沙德爾當時位於廣東汕尾東南方約190公里海面，於季風槽內朝東北東移動，預料將再度減弱並朝廣東內陸而非台灣移動，使台灣發布海上警報的機率偏低。",
+      "url": "https://sea.weathernews.com/resources/202609/216"
     },
     {
       "rank": 6,
-      "title": "科羅旺外圍環流未散，浙江沿海今明風雨仍猛",
-      "dek": "冷空氣疊加外圍雨帶，浙江局部暴雨，台灣以東海域及巴士海峽亦有6至9級強風。",
-      "url": "https://m.gmw.cn/2026-09/05/content_1304559528.htm"
+      "title": "豪雨引發土石流與擋土牆坍塌　屏東多處撤離",
+      "dek": "TaiwanPlus報導，受重組低壓系統（沙德爾殘餘）及西南季風影響，屏東縣連日豪雨造成土石流與一處擋土牆坍塌，居民被迫撤離住家，縣政府並將災害應變中心提升至第三級開設。",
+      "url": "https://www.taiwanplus.com/news/taiwan-news/climate-and-natural-disasters/260902011/heavy-rain-triggers-landslides-and-evacuations-in-southern-taiwan"
     },
     {
       "rank": 7,
-      "title": "熱帶低氣壓科羅旺即時路徑追蹤",
-      "dek": "衛星影像顯示風暴持續在遠洋減弱，路徑未接近台灣。",
-      "url": "https://zoom.earth/storms/krovanh-2026/"
+      "title": "颱風科羅旺生成於日本南方海面　朝沖繩本島移動",
+      "dek": "馬來西亞《星報》引述外電報導，科羅旺（日本今年第23或24號颱風）於沖繩本島東南方海面生成並緩慢朝其移動，生成時中心氣壓約990百帕，近中心最大風速每秒20公尺、陣風每秒30公尺。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
     },
     {
       "rank": 8,
-      "title": "入秋首波東北季風將至，秋颱是否接力仍待觀察",
-      "dek": "中央氣象署預告9日至11日東北季風增強，北部、東北部及東部氣溫略降、雨勢增加，秋颱說法仍屬媒體揣測。",
-      "url": "https://newtalk.tw/news/view/2026-09-06/1058091"
+      "title": "科羅旺料在奄美群島附近「U型迴轉」轉向南方",
+      "dek": "《星報》報導，科羅旺原預測將接近鹿兒島縣奄美大島，隨後罕見地迴轉南下、重返沖繩本島與大東群島一帶海域，並持續將水氣輸往本州上空的滯留鋒面，使日本廣泛地區至少到9月5日至7日面臨降雨及土石流風險。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
     },
     {
       "rank": 9,
-      "title": "東北季風9日報到，北部轉涼、降雨趨緩",
-      "dek": "TVBS報導指北部將有明顯涼意，但週日前部分地區仍須慎防大雨。",
-      "url": "https://news.tvbs.com.tw/life/4018064"
+      "title": "屋久島豪雨一度發布最高等級土石流警戒",
+      "dek": "《日本時報》報導，受熱帶風暴科羅旺水氣與滯留鋒面共同影響，鹿兒島縣屋久島町9月5日一度發布最高等級土石流警戒，顯示科羅旺即使未直接登陸，仍對日本西南部造成嚴重間接衝擊。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
     },
     {
       "rank": 10,
-      "title": "日本9月颱風接近數估計3.3個，氣象協會籲不可大意",
-      "dek": "日本氣象協會預測今年9月颱風活動接近平常值，但提醒仍可能出現強度較強的個案。",
-      "url": "https://ja.nativecamp.net/zh-tw/blog/20260902_september_typhoon_forecast/"
+      "title": "科羅旺（當地名Pilandok）脫離菲律賓責任區　西南季風續襲呂宋",
+      "dek": "菲律賓GMA新聞網報導，菲律賓大氣地球物理暨天文服務署（PAGASA）指出，熱帶風暴科羅旺（當地命名Pilandok）維持強度並已脫離菲律賓責任區、朝日本方向東北移動；西南季風仍為呂宋與米沙鄢群島（尚比列斯、巴丹）帶來強降雨與淹水風險。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
     }
   ]
 }
