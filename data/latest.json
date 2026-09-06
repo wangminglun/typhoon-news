@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T21:18:00+08:00",
+  "generated_at": "2026-09-06T22:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "氣象署最新資訊顯示，蘇迪勒與柯羅旺兩個颱風系統均已遠離台灣本島，情勢與稍早通報大致不變，全台未發布海上或陸上警報，僅四縣市維持大雨特報。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但科羅旺外圍環流仍為台南以北帶來局部大雨，本季第25號颱風「杜鵑」最快本週生成，預測路徑偏北遠離台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "台中無颱風直接侵襲影響，但和平區仍在今日下午3時25分發布的大雨特報範圍內，因颱風外圍雲系結合午後對流，有局部瞬間大雨及土石流、溪水暴漲之虞，預估持續至明日；目前尚無停班停課消息，狀態與前次通報相同。"
+    "text": "台中地區目前無颱風直接侵襲影響，僅受科羅旺外圍環流間接效應，暫無風雨特報，亦無停班停課疑慮，狀態與前次通報相同，「目前無直接影響」。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "雙颱皆已轉向　台灣情勢持平，僅四縣市大雨特報持續",
-    "dek": "氣象署最新資訊顯示，蘇迪勒與柯羅旺兩個颱風系統均已遠離台灣本島，情勢與稍早通報大致不變；中國莆田水患災情細節持續浮現，另有一熱帶擾動仍在觀察中，尚未正式命名。",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863734"
+    "title": "科羅旺琉球外海打轉、杜鵑醞釀成形　台灣暫無颱風警報壓境",
+    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但科羅旺外圍環流仍為台南以北帶來局部大雨，本季第25號颱風「杜鵑」最快本週生成，預測路徑偏北遠離台灣。",
+    "url": "https://sea.weathernews.com/resources/202609/220"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：蘇迪勒外圍環流減弱，海警機率偏低",
-      "dek": "預報員黃恩鴻表示，蘇迪勒外圍環流持續減弱，發布海上颱風警報的機率偏低。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863734"
+      "title": "科羅旺北轉直逼琉球　預測週日迴旋掠過沖繩上空",
+      "dek": "天氣新聞網報導，科羅旺中心氣壓989百帕，預計在南西諸島海域減速打轉，週末將以熱帶風暴強度通過沖繩。",
+      "url": "https://sea.weathernews.com/resources/202609/220"
     },
     {
       "rank": 2,
-      "title": "大雨特報涵蓋四縣市，台中和平區在列",
-      "dek": "氣象署下午3時25分發布大雨特報，範圍涵蓋台中市和平區、台北山區、新北北海岸及台東。",
-      "url": "https://udn.com/news/story/7266/9737702"
+      "title": "熱帶風暴科羅旺滯留南西諸島　強風豪雨齊襲日本西部與東部",
+      "dek": "天氣新聞網指出，奄美群島恐出現35節持續風、陣風達60節，滯留鋒面與科羅旺東側環流交互作用，恐為日本帶來持續性強降雨。",
+      "url": "https://sea.weathernews.com/resources/202609/226"
     },
     {
       "rank": 3,
-      "title": "四縣市大雨特報，估將持續至明日",
-      "dek": "氣象署評估，此波大雨特報範圍內降雨情勢預計延續至明日，籲請留意坡地災害。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5564970"
+      "title": "9月6日天氣大轉折　科羅旺外圍甩雨　杜鵑最快明日生成",
+      "dek": "Yahoo新聞報導，台灣今日台南以北出現局部大雨，熱帶擾動97W最快9月7日增強為颱風杜鵑，下週另有入秋首波東北季風接力報到。",
+      "url": "https://tw.news.yahoo.com/9-6%E5%A4%A9%E6%B0%A3%E5%A4%A7%E8%BD%89%E6%8A%98-%E7%A7%91%E7%BE%85%E6%97%BA%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E7%94%A9%E9%9B%A8-%E6%9D%9C%E9%B5%91%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E6%98%8E%E7%94%9F%E6%88%90-074048627.html"
     },
     {
       "rank": 4,
-      "title": "柯羅旺奄美群島外海轉向，預估南下遠離台灣",
-      "dek": "柯羅旺持續在沖繩以南海域打轉，預報路徑顯示其將轉向東北，逐漸遠離台灣。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
+      "title": "97W醞釀增強　專家：杜鵑最快兩天內成形",
+      "dek": "民視新聞報導，熱帶擾動97W預計約兩天內增強為颱風「杜鵑」，路徑偏北遠離台灣，但可能影響飛日班機，並與科羅旺在琉球群島附近互動。",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026905W0146"
     },
     {
       "rank": 5,
-      "title": "鹿兒島破紀錄豪雨，屋久島最高等級土石流警戒",
-      "dek": "日本媒體報導，鹿兒島縣降雨量創紀錄，屋久島已發布最高等級土石流警戒。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
+      "title": "沙德爾死灰復燃　科羅旺、杜鵑接力生成　路徑曝光",
+      "dek": "Yahoo新聞／聯合報報導，沙德爾在南海重新增強，科羅旺與潛在的杜鵑將接連形成，路徑圖顯示皆大致遠離台灣本島的直接侵襲路線。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E6%9C%80%E5%BF%AB%E4%BB%8A%E5%BE%A9%E6%B4%BB-%E7%A7%91%E7%BE%85%E6%97%BA-%E6%9D%9C%E9%B5%91%E5%B0%87%E6%8E%A5%E5%8A%9B%E7%94%9F%E6%88%90-%E8%B7%AF%E5%BE%91%E6%9B%9D%E5%85%89-090100078.html"
     },
     {
       "rank": 6,
-      "title": "蘇迪勒完成第三度登陸，侵襲中國東南沿岸",
-      "dek": "新華社報導，蘇迪勒完成本次路徑中第三次登陸，持續影響中國東南沿岸地區。",
-      "url": "https://english.news.cn/20260903/c3a64337751149df9bd96e62b4d9a52b/c.html"
-    },
-    {
-      "rank": 7,
-      "title": "蘇迪勒重創福建莆田，逾30萬人疏散",
-      "dek": "據報導，莆田24小時降雨量一度達416.5毫米，已有逾30萬人疏散，仍有多人失聯、逾百屋倒塌，搜救與復原工作持續進行。",
-      "url": "https://watchers.news/2026/09/04/multiple-people-missing-more-than-100-houses-collapse-in-putian-as-typhoon-saudel-floods-fujian-china/"
-    },
-    {
-      "rank": 8,
-      "title": "南華早報：蘇迪勒路徑「前所未見」",
-      "dek": "南華早報分析指出，蘇迪勒復活後侵襲中國東部及南部的路徑相當罕見。",
-      "url": "https://www.scmp.com/news/china/politics/article/3365946/unprecedented-path-revived-typhoon-saudel-eyes-eastern-and-southern-china"
-    },
-    {
-      "rank": 9,
-      "title": "蘇迪勒一度重新增強為輕度颱風，屏東首當其衝",
-      "dek": "中央社報導，蘇迪勒曾一度重新增強為輕度颱風，屏東地區當時首當其衝出現強降雨。",
+      "title": "沙德爾重新增強為熱帶風暴　屏東豪雨首當其衝",
+      "dek": "中央社英文新聞（Focus Taiwan）報導，氣象署預報員李孟軒表示沙德爾已增強為熱帶風暴，預計北轉後在中國沿岸減弱為熱帶低壓，屏東同時傳出強降雨災情。",
       "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
+      "rank": 7,
+      "title": "雙颱同時成形　南台灣嚴防豪雨",
+      "dek": "台北時報報導，沙德爾與新生成的科羅旺同時發展，促使氣象署密切監控對台灣南部可能造成的降雨衝擊。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
+    },
+    {
+      "rank": 8,
+      "title": "瀕臨消散的颱風重獲新生　氣象署：對台威脅偏低",
+      "dek": "台北時報報導，原已減弱為熱帶低壓的沙德爾在海南島東北方海面重新增強為熱帶風暴，氣象署表示其最接近台灣海峽的時間點已過，發布海上警報機率不高。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+    },
+    {
+      "rank": 9,
+      "title": "沙德爾捲土重來　對台灣影響有限",
+      "dek": "台北時報報導，沙德爾重新發展成形，但預報員研判其路徑將偏向中國沿岸，對台灣本島直接衝擊有限。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+    },
+    {
       "rank": 10,
-      "title": "颱風「復活」非首例，氣象署舉1986年韋恩、2021年圓規為例",
-      "dek": "中央社報導，氣象署指出颱風重新增強並非首見，過去曾有韋恩、圓規等前例可循。",
-      "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
+      "title": "沙德爾南海重整旗鼓　緩步飄向台灣海峽",
+      "dek": "天氣新聞網技術分析指出，沙德爾在南海重新發展後緩步飄向台灣海峽，其後於9月3日在中國福建第三度登陸，並遭中國氣象局除名。",
+      "url": "https://sea.weathernews.com/resources/202609/216"
     }
   ]
 }
