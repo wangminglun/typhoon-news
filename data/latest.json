@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T00:11:00+08:00",
+  "generated_at": "2026-09-07T01:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報。熱帶風暴科羅旺持續在琉球群島外海原地打轉、逐漸減弱，僅外圍環流為台灣北部帶來東北風與局部陰雨；沙德爾則已轉向廣東、福建沿岸並持續減弱，對台灣無直接威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。颱風科羅旺持續遠離台灣、朝日本外海移動並逐漸減弱，僅外圍環流為北台灣帶來局部降雨；沙德爾則已成舊聞，對台灣無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署並未對台中發布任何風雨警報或停班停課公告，至多受科羅旺外圍環流影響出現東北季風雲系與局部陰雨，程度遠低於停班停課標準。"
+    "text": "目前無直接影響。中央氣象署並未對台中發布任何風雨警報或停班停課公告，僅有一般性午後雷陣雨預報，與颱風系統無直接關聯。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "科羅旺原地打轉重創日本南部　台灣暫無颱風威脅僅邊緣雨帶影響",
-    "dek": "中央氣象署未發布任何颱風警報，科羅旺滯留琉球群島外海、沙德爾轉向中國沿岸，雙颱共同效應僅為台灣北部帶來局部降雨與東北風。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
+    "title": "無颱風直接威脅台灣 科羅旺外圍環流帶雨 重創反在日本",
+    "dek": "中央氣象署證實台灣目前未受任何海上或陸上颱風警報限制，颱風科羅旺主要威脅已轉向日本九州、四國及鹿兒島縣屋久島。",
+    "url": "https://focustaiwan.tw/society/202609050003"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺豪雨肆虐　鹿兒島城鎮一度發布最高等級土石流警戒",
-      "dek": "《日本時報》報導，滯留琉球群島附近的熱帶風暴科羅旺帶來持續強降雨，促使日本當局對鹿兒島縣一處城鎮發布最高等級的土石流警戒。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
+      "title": "科羅旺外圍環流周末襲北台灣 氣象署示警局部降雨",
+      "dek": "中央氣象署表示，徘徊沖繩附近的熱帶風暴科羅旺將為北台灣送來外圍雨帶，大台北、東部地區恐有局部短暫陣雨。",
+      "url": "https://focustaiwan.tw/society/202609050003"
     },
     {
       "rank": 2,
-      "title": "22號颱風科羅旺北上琉球群島　預期轉向九州以南海域",
-      "dek": "日本天氣新聞網站Weathernews分析指出，科羅旺因導引氣流薄弱，路徑呈現罕見迂迴，先北上通過琉球群島，再轉向東南往九州南方海域移動。",
-      "url": "https://sea.weathernews.com/resources/202609/220"
-    },
-    {
-      "rank": 3,
-      "title": "科羅旺持續在先島群島附近打轉　強烈雨帶威脅日本東西部",
-      "dek": "Weathernews最新更新指出，科羅旺持續在先島群島一帶原地徘徊，其外圍強烈雨帶已擴及日本本州西部與東部，豪雨與危險海象威脅預計持續至9月8日左右。",
-      "url": "https://sea.weathernews.com/resources/202609/226"
-    },
-    {
-      "rank": 4,
-      "title": "氣象署：台灣僅受科羅旺外圍雨帶影響　東北季風週中增強",
-      "dek": "《台北時報》報導，中央氣象署預測北部僅受科羅旺外圍雨帶影響、降雨週一起趨緩，另有增強東北季風本週中抵達，但氣溫不會明顯下降。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863734"
-    },
-    {
-      "rank": 5,
-      "title": "雙颱同時發展　氣象署示警南台灣防豪雨",
-      "dek": "《台北時報》報導，科羅旺於琉球群島附近形成之際，沙德爾同步在南海重新增強，形成「雙颱」局面，氣象署示警南台灣須防豪雨，但暫不足以發布海上警報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
-    },
-    {
-      "rank": 6,
-      "title": "減弱颱風沙德爾南海「重生」增強為熱帶風暴",
-      "dek": "《台北時報》報導，一度減弱為熱帶低壓的沙德爾在海南島附近重新增強為熱帶風暴並轉向東北，氣象署研判其接近中國沿岸後將再度減弱，發布海上警報機率偏低。",
+      "title": "減弱颱風「敗部復活」 科羅旺同時生成朝日本前進",
+      "dek": "已減弱為熱帶低氣壓的沙德爾殘餘環流在海南島附近再度增強為熱帶風暴，同一時間科羅旺在琉球群島東南方生成，預期將朝日本移動，不會直接衝擊台灣。",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
+      "rank": 3,
+      "title": "兩個熱帶風暴同時生成 南台灣嚴防豪雨",
+      "dek": "熱帶風暴沙德爾在華南重新成形，科羅旺同步於琉球群島東南方生成，中央氣象署示警南台灣有豪雨風險。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
+    },
+    {
+      "rank": 4,
+      "title": "科羅旺外圍環流疊加季風 氣象署發布南北大雨特報",
+      "dek": "中央氣象署針對北部與南部部分地區發布大雨特報，起因是科羅旺外圍環流與季節性雨型共伴效應，提高短時強降雨機率。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863626"
+    },
+    {
+      "rank": 5,
+      "title": "豪雨襲台北 單日釀41起災情通報",
+      "dek": "焦點台灣引述台北市消防局資料指出，受科羅旺外圍環流與季風水氣影響，台北市單日發生41起雨災通報，包含淹水與輕微財損。",
+      "url": "https://focustaiwan.tw/society/202609040017"
+    },
+    {
+      "rank": 6,
+      "title": "沙德爾殘餘環流重生為熱帶風暴 對台影響輕微",
+      "dek": "颱風沙德爾殘餘環流在台北東北方約630公里處重新增強為熱帶風暴，陣風達每小時162公里，中央氣象署表示其朝中國移動，對台直接衝擊有限。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+    },
+    {
       "rank": 7,
-      "title": "沙德爾重返熱帶風暴強度　屏東遭強降雨侵襲",
-      "dek": "焦點台灣報導，沙德爾在南海重新增強為熱帶風暴，其水氣為台灣南部屏東縣帶來強降雨，此前該風暴曾登陸中國南部後一度減弱。",
-      "url": "https://focustaiwan.tw/society/202609010017"
+      "title": "颱風科羅旺在日本南方太平洋生成 朝沖繩本島移動",
+      "dek": "科羅旺在沖繩本島東南方海域形成，緩慢向西北方朝琉球群島移動，日本氣象廳已針對當地發布相關警戒。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
     },
     {
       "rank": 8,
-      "title": "颱風沙德爾南海「回力鏢」路徑重生為熱帶風暴",
-      "dek": "中國官媒央視（CGTN）報導，沙德爾橫掃中國南部後在南海重新增強為熱帶風暴，其罕見的迴轉路徑隨後導致風暴在福建、廣東沿岸二度登陸。",
-      "url": "https://news.cgtn.com/news/2026-09-02/Typhoon-Saudel-regenerates-as-tropical-storm-over-South-China-Sea-1Q6N3ECgXgk/p.html"
+      "title": "颱風科羅旺周五在奄美群島一帶「大迴轉」轉向南方",
+      "dek": "日本氣象廳預測科羅旺將先接近奄美群島，隨後向南迴轉，再轉向東方遠離日本本土，雖降低登陸風險，卻延長外海海象威脅時間。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
     },
     {
       "rank": 9,
-      "title": "22W號熱帶風暴（科羅旺）在琉球群島東南方形成",
-      "dek": "美軍相關媒體《星條旗報》追蹤報導，新命名的22W號熱帶風暴科羅旺在琉球群島東南方海域形成，並提供其初期風速與氣壓資料。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-01/tropical-storm-22w-(krovanh),-"
+      "title": "鹿兒島小鎮一度發布最高等級土石流警戒",
+      "dek": "《日本時報》報導，日本氣象廳針對鹿兒島縣屋久島一度發布最高等級(第5級)土石流警戒，起因是科羅旺與滯留鋒面共伴帶來極端降雨，官員研判災害恐已發生。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
     },
     {
       "rank": 10,
-      "title": "太平洋颶風季達活躍高峰　三大風暴同時發展",
-      "dek": "《美國新聞與世界報導》報導，颶風卡莉娜、洛威爾與熱帶風暴瑪麗於墨西哥至夏威夷海域同時活躍，凸顯今年太平洋颶風季異常活躍，但均不影響台灣。",
-      "url": "https://www.usnews.com/news/national-news/articles/2026-09-04/pacific-hurricane-hits-peak-activity-as-major-storms-rapidly-intensify"
+      "title": "科羅旺外圍豪雨侵襲 日本鹿兒島外海屋久島示警土石流",
+      "dek": "馬來西亞《馬新社》綜合法新社報導證實屋久島土石流警戒，並指宮崎縣等地三天內降雨量恐超過1000毫米，肇因科羅旺與滯留秋雨鋒面共伴效應。",
+      "url": "https://www.malaymail.com/news/world/2026/09/05/japan-warns-of-landslides-on-yakushima-off-kagoshima-coast-as-typhoon-krovanh-brings-heavy-rain/233974"
     }
   ]
 }
