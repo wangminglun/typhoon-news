@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T20:11:00+08:00",
+  "generated_at": "2026-09-07T21:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "颱風科羅旺已於9月7日上午減弱為熱帶低壓，中央氣象署目前未發布海上或陸上颱風警報。",
+  "alert_desc": "中央氣象署目前未針對科羅旺或其他系統發布海上或陸上颱風警報，科羅旺持續在東海海面上打轉減弱中。",
   "region_watch": {
     "region": "台中",
-    "text": "台中並未列入今日大雨特報範圍（特報涵蓋南投、雲林、嘉義、高雄、屏東），目前颱風系統對台中無直接影響。"
+    "text": "目前無直接影響。科羅旺外圍雨帶影響集中於北台灣（大台北、基隆），中央氣象署未對台中發布颱風相關警報或停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風科羅旺減弱為熱帶低壓　台灣暫入颱風空窗期",
-    "dek": "中央氣象署證實原本在東海徘徊打轉的科羅旺已減弱為熱帶低壓，雖無海、陸颱風警報，但南部多縣市午後仍面臨強對流大雨威脅。",
-    "url": "https://www.right-media.news/archives/232097"
+    "title": "颱風科羅旺東海外海打轉減弱　對台無直接威脅　北部週末降雨",
+    "dek": "中央氣象台指出，科羅旺在沖繩附近海域罕見繞圈打轉並持續減弱，氣象署表示其外圍環流僅為台灣北部帶來降雨，杜鵑颱風生成後路徑預估偏北、不影響台灣。",
+    "url": "https://www.sina.cn/news/detail/5339465778206067.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺減弱為熱帶低壓　東海徘徊路徑畫下句點",
-      "dek": "《台中時報》引述睿傳媒與獨家報導指出，一度在東海近沖繩海域打轉的颱風科羅旺已於9月7日上午8時減弱為熱帶低壓，不再對台灣構成威脅。",
-      "url": "https://www.right-media.news/archives/232097"
+      "title": "科羅旺東海打轉路徑罕見　中央氣象台：持續減弱中",
+      "dek": "中央氣象台指出，科羅旺因自身環流攪動海水降溫，預料強度將進一步下滑。",
+      "url": "https://www.sina.cn/news/detail/5339465778206067.html"
     },
     {
       "rank": 2,
-      "title": "科羅旺外圍雨帶　曾為北台灣週末添雨",
-      "dek": "中央社（Focus Taiwan）報導，中央氣象署9月5日表示科羅旺位於台北東北東方約610公里、移動緩慢且不致登陸，但外圍雨帶一度增強大台北與基隆北海岸雨勢。",
+      "title": "氣象署：科羅旺外圍雨帶週末影響北台灣　本身不致直接侵台",
+      "dek": "中央氣象署表示，大台北與基隆北海岸雨勢較大，週日之後將逐漸趨緩。",
       "url": "https://focustaiwan.tw/society/202609050003"
     },
     {
       "rank": 3,
-      "title": "熱帶擾動97W受關注　有望成為今年颱風杜鵑",
-      "dek": "《聯合新聞網》報導，氣象專家賈新興指出，菲律賓以東的熱帶擾動97W可能於9月5、6日間增強為今年颱風杜鵑，惟預測路徑偏北偏東，對台灣直接影響有限。",
-      "url": "https://udn.com/news/story/7266/9734241"
+      "title": "科羅旺生成與桑德爾「共存不共舞」　對台影響曝光",
+      "dek": "聯合新聞網分析，兩颱風未出現藤原效應交互作用，科羅旺路徑偏向沖繩、對台衝擊有限。",
+      "url": "https://udn.com/news/story/7266/9726281"
     },
     {
       "rank": 4,
-      "title": "午後對流旺盛　中南部五縣市發布大雨特報",
-      "dek": "Newtalk新聞報導，中央氣象署9月7日下午3時15分針對南投、雲林、嘉義、高雄、屏東發布大雨特報，提醒留意短延時強降雨、雷擊及山區土石流風險。",
-      "url": "https://newtalk.tw/news/view/2026-09-07/1058288"
+      "title": "日媒預測：24號颱風科羅旺北上逼近琉球後轉向日本南方海域",
+      "dek": "Weathernews分析，科羅旺最快可能於9月7日晚間減弱為熱帶性低氣壓。",
+      "url": "https://sea.weathernews.com/resources/202609/220"
     },
     {
       "rank": 5,
-      "title": "入秋首波東北季風本週三南下　北台灣氣溫下探",
-      "dek": "Newtalk新聞報導，氣象預報指出今年入秋首波東北季風將於本週三抵台，北台灣低溫可能降至攝氏22度以下，天氣型態逐漸轉換。",
-      "url": "https://newtalk.tw/news/view/2026-09-07/1058270"
+      "title": "「瀕死颱風」再現生機　桑德爾南海上空罕見回魂",
+      "dek": "《台北時報》報導，桑德爾歷經減弱後重新增強，成為今年生命週期最長的熱帶氣旋之一，長達21天。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 6,
-      "title": "大西洋颶風季開局創六十年來最冷清紀錄",
-      "dek": "weather.com報導，大西洋今年截至9月4日已出現五個命名風暴卻無颶風生成，依累積氣旋能量計算為衛星觀測時代以來最慢開局。",
-      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
+      "title": "桑德爾南海重新發展　一度朝台灣海峽飄移後轉向減弱",
+      "dek": "Weathernews路徑更新顯示，桑德爾已於9月初在中國南方沿海附近完全消散。",
+      "url": "https://sea.weathernews.com/resources/202609/216"
     },
     {
       "rank": 7,
-      "title": "NOAA維持大西洋颶風季偏弱預測　歸因聖嬰現象",
-      "dek": "美國海洋暨大氣總署（NOAA）表示，受發展中的強聖嬰現象影響，大西洋熱帶海域風切變偏強，壓抑颶風發展，同時助長太平洋活動增強。",
-      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
+      "title": "桑德爾一度快速增強　曾傳恐威脅南韓",
+      "dek": "《中央日報》英文版報導了桑德爾在多階段生命週期中快速增強、一度被評估可能影響朝鮮半島的過程。",
+      "url": "https://www.koreajoongangdaily.com/korea/typhoon-saudel-may-threaten-korea-as-it-rapidly-intensifies/12834951"
     },
     {
       "rank": 8,
-      "title": "太平洋罕見「三颶風並存」　羅威爾、卡琳娜、瑪麗同時成形",
-      "dek": "EarthSky報導，受強聖嬰現象驅動，東／中太平洋9月初同時出現三個颶風，為觀測史上第二次紀錄，呼應2015年三颶風同框的先例。",
-      "url": "https://earthsky.org/todays-image/hurricane-triplets-pacific-ocean-lowell-karina-marie/"
+      "title": "菲律賓東側擾動醞釀成形　杜鵑颱風恐與科羅旺互動",
+      "dek": "氣象專家賈新興分析，熱帶擾動97W可能一兩日內發展為杜鵑颱風，路徑預估偏向日本而非台灣。",
+      "url": "https://udn.com/news/story/7266/9734241"
     },
     {
       "rank": 9,
-      "title": "夏威夷戒備四級颶風羅威爾　曾短暫達五級強度",
-      "dek": "《舊金山紀事報》與Fox Weather報導，颶風羅威爾一度增強至五級、為2018年以來中太平洋首見，隨後減弱為強烈四級，夏威夷部分地區已納入其預測路徑範圍。",
-      "url": "https://www.sfchronicle.com/weather/article/category-5-hurricane-lowell-karina-22414483.php"
+      "title": "颶風羅威爾維持強勢　夏威夷嚴陣以待",
+      "dek": "CNN報導，羅威爾一度達五級颶風強度，目前以主要颶風之姿逼近夏威夷南側。",
+      "url": "https://www.cnn.com/2026/09/04/weather/hurricane-lowell-hawaii-storm-path-climate"
     },
     {
       "rank": 10,
-      "title": "2026年西太平洋颱風季展望：生成風險偏向菲律賓以東、日本方向",
-      "dek": "Weathernews季節展望指出，9月起西北太平洋風暴生成熱區偏向菲律賓以東及日本南方海域，與科羅旺及97W／杜鵑遠離台灣本島的路徑趨勢相符。",
-      "url": "https://sea.weathernews.com/resources/202606/113"
+      "title": "颶風羅威爾促美國國家颶風中心對夏威夷發布熱帶風暴警報",
+      "dek": "據報導，羅威爾截至9月6日降為三級颶風，中心風速約每小時120英里，預計週一夜間最接近夏威夷西側。",
+      "url": "https://weather.com/2026/09/06/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
     }
   ]
 }
