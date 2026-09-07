@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T05:11:00+08:00",
+  "generated_at": "2026-09-08T06:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署目前未針對任何熱帶氣旋發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響台中之颱風威脅；今日大雨特報範圍涵蓋南投、雲林、嘉義、高雄、屏東及南投至台南山區，台中並未列入其中，當地亦無停班停課疑慮。"
+    "text": "目前無直接影響 — 目前無颱風系統直接影響台中，無風雨或停班停課相關資訊。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "科羅旺減弱為熱帶低壓 太平洋暫無颱風 夏威夷「羅威爾」颶風成全球焦點",
-    "dek": "中央氣象署未發布任何颱風警報，僅對台灣南部發布大雨特報；與此同時，三度增強至五級强度的颶風羅威爾正逼近夏威夷考艾島。",
-    "url": "https://www.taichungtimes.com/archives/199980"
+    "title": "颱風季罕見喘息：Saudel完成三度登陸曲折落幕，Krovanh殘骸北探日本",
+    "dek": "中央氣象署未對台灣發布任何颱風警報，隨著颱風Saudel在福建完成第三次登陸後消散、颱風Krovanh殘留低壓轉向日本四國，太平洋颱風季迎來短暫平靜期。",
+    "url": "https://weathernews.jp/news/202609/070051/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺減弱為熱帶低壓 太平洋暫無颱風",
-      "dek": "中央氣象署七日上午將科羅旺降編為熱帶性低氣壓，僅對台灣南部及山區發布大雨特報，提醒防範坍方與淹水",
-      "url": "https://www.taichungtimes.com/archives/199980"
+      "title": "Krovanh殘留低壓逼近四國，日本西部嚴防豪雨",
+      "dek": "根據日本Weathernews報導，原為颱風的Krovanh已減弱為熱帶低壓，預計9日前後逼近四國，為關東、東北太平洋岸及日本西部帶來強降雨，局部時雨量恐超過50毫米",
+      "url": "https://weathernews.jp/news/202609/070051/"
     },
     {
       "rank": 2,
-      "title": "雨區擴大！七縣市同發豪、大雨特報",
-      "dek": "科羅旺北移並與季風水氣交互作用，中央氣象署一度將豪雨與大雨特報範圍擴大至全台七縣市",
-      "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5558188"
+      "title": "「死而復生」的颱風Saudel罕見迴旋增強",
+      "dek": "台北時報報導，原被除名的颱風Saudel殘留低壓在海南島東北方海域重新增強為熱帶風暴，預計轉向北行後再度減弱，成為一場異常持久的風暴",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 3,
-      "title": "科羅旺路徑偏北 專家曾示警台中以北防雷雨",
-      "dek": "科羅旺北偏行進期間，氣象專家一度提醒台中以北地區留意外圍環流引發的局部雷雨",
-      "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5563970"
+      "title": "颱風Saudel第三度登陸福建",
+      "dek": "據人民網福建報導，Saudel以熱帶風暴強度於9月3日清晨6時30分左右在福建漳浦古雷鎮登陸，為其繼浙江、南海迴旋後的第三次登陸，多地宣布停課",
+      "url": "http://fj.people.com.cn/BIG5/n2/2026/0903/c181466-41685747.html"
     },
     {
       "rank": 4,
-      "title": "颱風科羅旺在日本南方海域生成 一度朝沖繩逼近",
-      "dek": "科羅旺原為熱帶低壓，九月三日在沖繩東南方形成並增強為颱風，起初預期直撲沖繩本島",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/01/typhoon-krovanh-forms-in-pacific-ocean-south-of-japan-moving-towards-okinawa-prefectures-main-island"
+      "title": "福建疏散8.37萬人迎戰Saudel回馬槍",
+      "dek": "香港文匯報報導，福建當局在Saudel異常迴旋路徑帶來強降雨前疏散8萬3700人，並實施停工停課停業停市，部分鄉鎮累積雨量超過500毫米",
+      "url": "https://www.wenweipo.com/a/202609/03/AP6a99222ce4b0c1e50027607d.html"
     },
     {
       "rank": 5,
-      "title": "科羅旺強風襲濟州 八十四航班延誤",
-      "dek": "科羅旺帶來強風使南韓濟州國際機場八十四架班機延誤、渡輪停駛，陣風一度逼近每秒27公尺",
-      "url": "https://en.sedaily.com/society/2026/09/04/typhoon-krovanh-winds-delay-84-flights-on-jeju"
+      "title": "熱帶風暴Krovanh強度穩定，脫離菲律賓責任區",
+      "dek": "根據菲律賓GMA新聞網報導，熱帶風暴Krovanh（當地名Pilandok）脫離菲律賓大氣地球物理天文局責任區，登陸菲國機率低，其後轉向日本南部，已於9月3日在鹿兒島伊仙町登陸",
+      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
     },
     {
       "rank": 6,
-      "title": "繞過南韓本島 濟州島仍不敢掉以輕心",
-      "dek": "科羅旺雖繞過朝鮮半島本土轉向日本，濟州島的強風與長浪特報預期仍將持續數日",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008740872"
+      "title": "Saudel遠離，氣象署解除海上颱風警報",
+      "dek": "中央社報導，中央氣象署於8月28日下午2時30分解除對颱風Saudel的海上颱風警報，惟中南部仍需慎防外圍低壓槽帶來的豪雨",
+      "url": "https://www.cna.com.tw/news/ahel/202608280142.aspx"
     },
     {
       "rank": 7,
-      "title": "颶風羅威爾維持三級強度 直逼夏威夷",
-      "dek": "曾兩度達五級強度的颶風羅威爾減弱為三級後逼近考艾島，當局已發布颶風觀察警戒",
-      "url": "https://www.staradvertiser.com/2026/09/04/breaking-news/hurricane-lowell-remains-category-3-as-it-tracks-south-of-hawaii/"
+      "title": "氣象署：颱風Saudel強度減弱",
+      "dek": "台北時報報導，中央氣象署指出Saudel在接近台灣海峽一帶時持續減弱，為這場後續歷經兩度登陸中國大陸、並罕見重新增強的複雜風暴揭開序幕",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
     },
     {
       "rank": 8,
-      "title": "羅威爾路徑轉向夏威夷 威脅升高",
-      "dek": "CNN報導，颶風羅威爾預測路徑已更貼近夏威夷群島，考艾島與尼豪島面臨大浪、暴雨與暴潮風險",
-      "url": "https://www.cnn.com/2026/09/06/weather/hurricane-lowell-turns-toward-hawaii-climate"
+      "title": "熱帶風暴紫檀（Narra）為本季第19號風暴",
+      "dek": "根據維基百科條目，紫檀與Saudel同時生成形成「雙颱效應」，路徑朝北部灣及粵桂沿海移動，中央氣象署估計其距台灣約1360公里，對台無直接影響",
+      "url": "https://zh.wikipedia.org/wiki/%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%B4%AB%E6%AA%80_(2026%E5%B9%B4)"
     },
     {
       "rank": 9,
-      "title": "颶風卡莉娜遠離陸地消散 未登陸即結束",
-      "dek": "曾達四級強度的颶風卡莉娜已在太平洋遠離陸地處消散，未對夏威夷或美國本土構成威脅",
-      "url": "https://www.pbs.org/newshour/nation/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm"
+      "title": "2026年太平洋颱風季總覽",
+      "dek": "維基百科頁面持續更新今年太平洋颱風季各編號風暴，從本季首個颱風兼首個超級颱風Sinlaku，到Saudel（18號）、紫檀（19號）、Gaenari（20號）與Krovanh，記錄了一個對台灣、中國、日本與菲律賓均造成影響的活躍汛期",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴瑪麗襲擾加州海岸 掀危險大浪",
-      "dek": "減弱為熱帶風暴的瑪麗雖未登陸，仍為加州沿岸帶來危險大浪與離岸流，並助長美國西南部季風水氣",
-      "url": "https://www.foxweather.com/weather-news/two-hurricanes-swirling-off-us-coast-pacific-ocean-what-impacts-california"
+      "title": "氣象署：年底前恐再有多達五個風暴",
+      "dek": "台北時報報導，中央氣象署年中展望預估到2026年底前恐再形成多達五個熱帶風暴或颱風，呼應了8、9月間Saudel、紫檀、Gaenari與Krovanh接連生成的活躍態勢",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/07/01/2003860030"
     }
   ]
 }
