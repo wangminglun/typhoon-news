@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T17:12:00+08:00",
+  "generated_at": "2026-09-07T18:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署未針對任何颱風發布海上或陸上警報，科羅旺已減弱為熱帶低氣壓，其殘留水氣仍為日本帶來破紀錄豪雨，台灣本身暫無颱風直接威脅。",
+  "alert_desc": "中央氣象署截至9月7日並未發布海上或陸上颱風警報，僅針對中南部部分地區發布大雨特報；科羅旺已減弱為熱帶低壓，菲律賓海熱帶擾動97W是否增強為颱風杜鵑仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風或熱帶低氣壓直接影響台中。今日台中大致多雲到晴、高溫約31至32度，僅週三（9日）東北季風增強後北部、東部迎風面可能降雨，台中受影響有限，無停班停課考量。"
+    "text": "目前無直接影響。中央氣象署9月7日下午發布的大雨特報示警範圍為南投至台南一帶山區及高雄、屏東，台中並未列入目標區域，亦無颱風警報或停班停課考量，僅可能受不穩定對流影響出現零星降雨。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "科羅旺減弱為熱帶低壓　日本豪雨釀一死　台灣暫無警戒",
-    "dek": "颱風科羅旺清晨減弱為熱帶低氣壓，殘留水氣持續衝擊日本至週四，福島一名婦人不幸罹難；太平洋熱帶擾動97W是否增強為今年第25號颱風「杜鵑」尚待官方證實，台灣目前未受直接影響。",
+    "title": "科羅旺減弱為低壓　新颱杜鵑恐與台灣擦身互動",
+    "dek": "中央氣象署尚未發布颱風警報，但菲律賓海熱帶擾動若增強為颱風杜鵑，恐與科羅旺環流交互作用，為台灣中南部添局部大雨。",
     "url": "https://weathernews.jp/news/202609/070141/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺降級為熱帶低壓　兩日內恐迫近四國",
-      "dek": "日本氣象機構ウェザーニュース報導，颱風科羅旺7日上午於沖繩南大東島附近減弱為熱帶低氣壓，仍持續北上，預計9日接近四國，西日本恐有強降雨。",
+      "title": "科羅旺減弱為熱帶低壓　估9日迫近四國",
+      "dek": "日本《Weathernews》報導，24號颱風科羅旺7日上午在南大東島附近減弱，預測北移逼近四國，西日本恐現強降雨。",
       "url": "https://weathernews.jp/news/202609/070141/"
     },
     {
       "rank": 2,
-      "title": "減弱仍危險　日本豪雨警戒至10日",
-      "dek": "日本氣象協會tenki.jp預報員藤川徹指出，科羅旺即便降為熱帶低氣壓，危險降雨仍將持續至9月10日前後，先前雨勢已使地面飽和，山區土石流風險升高。",
-      "url": "https://tenki.jp/forecaster/t_fujikawa/2026/09/07/40505.html"
+      "title": "福島暴雨釀災　一人遭積水淹沒喪生",
+      "dek": "新華社報導，福島縣磐城市7日晨間豪雨導致汽車遭積水淹沒，一名60多歲女性罹難，東京等地鐵路停駛、學校停課。",
+      "url": "https://english.news.cn/asiapacific/20260907/07c1e8e64ee84645b8acea1f6907b294/c.html"
     },
     {
       "rank": 3,
-      "title": "關東豪雨釀一死　福島婦人遭洪水沖沒",
-      "dek": "《日本時報》報導，滯留秋雨鋒面與科羅旺共同影響下，關東地區出現破紀錄雨量，福島縣磐城市一名60多歲婦人因座車陷入積水地下道不幸身亡。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/07/japan/rain-kanto-tokyo-floods/"
+      "title": "新颱杜鵑醞釀中　恐與科羅旺共舞",
+      "dek": "《聯合報》報導，菲律賓海熱帶擾動97W可能一兩天內增強為颱風杜鵑，並與科羅旺環流交互影響台灣降雨。",
+      "url": "https://udn.com/news/story/7266/9734241"
     },
     {
       "rank": 4,
-      "title": "日本氣象單位示警　關東甲信恐強降雨",
-      "dek": "《日本時報》報導，在科羅旺減弱前夕，日本氣象單位對關東甲信等地區發出強降雨警告，暖濕水氣持續灌入滯留鋒面。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/06/japan/heavy-rain-forecast-kanto-koshin/"
+      "title": "颶風羅威爾逼近夏威夷　恐釀致命巨浪",
+      "dek": "美國《NBC News》報導，颶風羅威爾一度達五級強度，掠過夏威夷群島西側，帶來強降雨、風暴潮與危險激浪。",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294"
     },
     {
       "rank": 5,
-      "title": "中央氣象署：科羅旺外圍雲雨影響北台灣",
-      "dek": "Focus Taiwan報導，中央氣象署表示科羅旺當時滯留沖繩附近，不會直接衝擊台灣，但外圍雨帶曾為大台北與基隆北海岸帶來降雨，預期週一、週二漸緩。",
-      "url": "https://focustaiwan.tw/society/202609050003"
+      "title": "颶風卡琳娜急速減弱　太平洋公海上消散中",
+      "dek": "《PBS新聞一小時》引述美聯社報導，卡琳娜曾達四級颶風強度，如今風速驟降，預料一天內轉為溫帶系統，僅在墨西哥外海掀巨浪。",
+      "url": "https://www.pbs.org/newshour/nation/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm"
     },
     {
       "rank": 6,
-      "title": "賈新興：97W恐增強為杜鵑颱風　未獲證實",
-      "dek": "《自由時報》報導，氣象評論員賈新興指出，隨科羅旺遠離，台灣天氣將明顯轉折，太平洋熱帶擾動97W有機會增強為今年第25號颱風「杜鵑」，惟截至目前官方尚未證實其生成。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562654"
+      "title": "颱風沙德爾罕見迴旋　二度登陸閩粵後減弱",
+      "dek": "《風傳媒》報導，沙德爾在南海異常增強並回轉逼近台灣海峽，9月3日於閩粵交界二度登陸，對台威脅機率降至零。",
+      "url": "https://www.storm.mg/lifestyle/11160884"
     },
     {
       "rank": 7,
-      "title": "科羅旺沖繩路徑罕見　南台灣週一起放晴",
-      "dek": "《聯合新聞網》報導，科羅旺在沖繩打轉後轉向九州的路徑相當罕見，南台灣預期自9月7日起逐漸放晴，今年首波增強東北季風將隨後抵達。",
-      "url": "https://udn.com/news/story/7266/9736135"
+      "title": "菲律賓氣象署估9月再增2至3個熱帶氣旋",
+      "dek": "《PhilNews》報導，菲律賓大氣地球物理暨天文服務署預測9月將有2至3個熱帶氣旋進入責任區，西南季風持續為呂宋帶來豪雨。",
+      "url": "https://philnews.ph/2026/09/03/pagasa-weather-forecast-2-3-tropical-cyclones-expected-enter-par-september-2026"
     },
     {
       "rank": 8,
-      "title": "Pilandok重返菲責任區　登陸機率低",
-      "dek": "菲律賓《Philstar》報導，PAGASA指出熱帶風暴Pilandok（國際名科羅旺）預計9月6日重新進入菲律賓責任區，但登陸菲律賓機率不高，仍持續增強西南季風。",
-      "url": "https://www.philstar.com/headlines/2026/09/06/2554347/pilandok-reenter-par"
+      "title": "對流旺盛　中南部大雨特報未含台中",
+      "dek": "《台中時報》報導，氣象署7日下午對高雄、屏東及南投至台南山區發布大雨特報，示警坡地災情，台中未列入示警範圍。",
+      "url": "https://www.taichungtimes.com/archives/199980"
     },
     {
       "rank": 9,
-      "title": "GMA：科羅旺強度持穩　離開菲責任區",
-      "dek": "菲律賓《GMA新聞網》報導，熱帶風暴科羅旺（Pilandok）移出菲律賓責任區時強度持穩，PAGASA持續監控其對菲律賓季風雨的間接影響。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+      "title": "NOAA維持大西洋颶風季偏弱預測",
+      "dek": "美國國家海洋暨大氣總署表示，今年大西洋颶風季預估僅產生7至13個命名風暴，未來一週大西洋、加勒比海及墨西哥灣均無新系統醞釀。",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
     },
     {
       "rank": 10,
-      "title": "中央社：科羅旺北上　估4日左右近沖繩",
-      "dek": "中央社報導，颱風科羅旺2日持續北上，預計4日左右接近日本沖繩，中心氣壓996百帕，將為四國、東海、近畿、九州西南部及奄美一帶帶來強降雨。",
-      "url": "https://www.cna.com.tw/news/aopl/202609020060.aspx"
+      "title": "今年西太平洋颱風季　活躍程度創1976年來新高",
+      "dek": "中文維基百科整理氣象機構資料指出，本季預估產生24至26個颱風，7月中已達11個，為1976年以來最活躍步調。",
+      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
     }
   ]
 }
