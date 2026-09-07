@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T08:14:00+08:00",
+  "generated_at": "2026-09-07T09:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未發布海上或陸上颱風警報；科羅旺已減弱為熱帶低氣壓，仍在琉球群島海域盤旋，對台灣本島無直接威脅，僅其外圍環流結合東北季風為北部、東部部分縣市帶來陣雨及強風，菲律賓海面熱帶擾動97W是否增強為杜鵑颱風仍待觀察。",
+  "alert_desc": "目前無海上或陸上颱風警報，惟熱帶擾動97W動向仍在觀察中。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。相關降雨與強風影響集中於北部、東部沿海地區，台中未見專屬豪雨特報或停班停課公告；氣象專家提醒週日台中以北仍須留意午後雷陣雨。"
+    "text": "目前無颱風系統對台中造成直接影響，當地僅受一般季風雲系影響，山區午後可能有零星降雨，尚無停班停課疑慮。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "科羅旺颱風減弱後仍在琉球群島徘徊　日本關東迎警報級豪雨",
-    "dek": "儘管科羅旺已減弱為熱帶低氣壓，其環流仍持續為日本東海、關東地區帶來破紀錄降雨，而台灣中央氣象署則表示，該系統目前對台灣本島並無威脅。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/07/japan/rain-kanto-tokyo-floods/"
+    "title": "西太平洋風暴齊發：科羅旺徘徊琉球、沙德爾襲閩　台灣暫無颱風威脅",
+    "dek": "中央氣象署尚未發布海上或陸上颱風警報，但氣象專家正密切觀察南方熱帶擾動97W是否將發展為今年颱風「杜鵑」。",
+    "url": "https://www.epochtimes.com/b5/26/9/5/n14843244.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "東京迎豪雨侵襲　新島發布最高等級土砂災害警戒",
-      "dek": "《日本時報》報導，科羅旺殘餘水氣與秋雨鋒面共同作用，週一清晨為關東地區帶來強降雨，日本氣象廳並於凌晨對東京新島發布五級土砂災害警戒。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/07/japan/rain-kanto-tokyo-floods/"
+      "title": "科羅旺颱風打轉琉球外海　路徑詭譎、暫不影響台灣",
+      "dek": "大紀元報導，科羅旺於9月1日生成後在東海上空徘徊不去，強度維持輕颱等級。",
+      "url": "https://www.epochtimes.com/b5/26/9/5/n14843244.htm"
     },
     {
       "rank": 2,
-      "title": "屋久島24小時雨量創新猷　氣象專家警告豪雨鋒面北移",
-      "dek": "日本天氣網站tenki.jp報導，鹿兒島屋久島町單日雨量寫下歷史新高，隨颱風與秋雨鋒面北移，東海、關東地區7日恐面臨警報級降雨。",
-      "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/05/40468.html"
+      "title": "鄭明典：科羅旺路徑生變　台灣將迎「共伴效應」降溫",
+      "dek": "氣象專家指出，科羅旺與南下東北季風產生共伴效應，首波入秋降溫估9月9日前後報到。",
+      "url": "https://news.videoland.com.tw/article/7c55b486-38cd-4e61-a490-4f3e5a811b0a.html"
     },
     {
       "rank": 3,
-      "title": "科羅旺減弱為熱帶低壓　專家示警不排除週末再度逼近日本",
-      "dek": "tenki.jp報導，日本氣象預報員指出，科羅旺雖預計7日減弱為熱帶低氣壓，其殘餘低壓系統仍可能於9日至10日前後回頭接近日本列島。",
-      "url": "https://tenki.jp/forecaster/y_maki/2026/09/06/40493.html"
+      "title": "科羅旺轉向九州外海　日本奄美、沖繩連日強風豪雨",
+      "dek": "日本氣象媒體Weathernews報導，科羅旺牽引水氣與滯留鋒面結合，為日本本土帶來持續性豪雨。",
+      "url": "https://sea.weathernews.com/resources/202609/220"
     },
     {
       "rank": 4,
-      "title": "科羅旺持續遠離菲律賓責任區　PAGASA估週一轉為熱帶低壓",
-      "dek": "菲律賓GMA新聞網報導，菲律賓大氣總署表示，科羅旺（當地稱Pilandok）持續朝東南方向遠離，登陸菲律賓機率低，對當地天氣無直接影響。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+      "title": "熱帶擾動97W蠢動　專家：最快本週可能增強為颱風「杜鵑」",
+      "dek": "自由時報報導，氣象專家賈新興表示97W最快9月5日至6日增強，9月6日恐為天氣轉換關鍵日。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562654"
     },
     {
       "rank": 5,
-      "title": "科羅旺結構鬆散如「裸奔」　北台灣外圍降雨仍未歇",
-      "dek": "Yahoo奇摩新聞報導，科羅旺因對流結構瓦解而呈「裸奔」狀態，外圍環流持續為北台灣帶來陣雨，惟降雨時程可望逐步趨緩。",
-      "url": "https://tw.news.yahoo.com/%E7%A7%91%E7%BE%85%E6%97%BA%E9%A2%B1%E9%A2%A8-%E8%A3%B8%E5%A5%94%E7%8B%80%E6%85%8B-%E5%8C%97%E5%8F%B0%E7%81%A3%E9%9B%A8%E5%BD%88%E4%BB%8D%E7%8B%82%E7%94%A9-%E9%9B%A8%E5%81%9C%E6%99%82%E9%96%93%E5%87%BA%E7%88%90-004700888.html"
+      "title": "97W持續發展　北台灣慎防強降雨",
+      "dek": "民視新聞網報導，熱帶擾動97W若增強為颱風「杜鵑」，雨帶恐滯留雙北地區。",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026905W0146"
     },
     {
       "rank": 6,
-      "title": "科羅旺路徑略偏北　專家：週日台中以北慎防午後雷雨",
-      "dek": "自由時報報導，氣象專家指出，科羅旺雖遠離台灣本島而未達發布警報標準，但其外圍環流疊加東北季風水氣，週日台中以北地區仍須留意午後雷陣雨。",
-      "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5563970"
+      "title": "沙德爾一度回神增強　對台灣海域威脅低",
+      "dek": "Taipei Times報導，中央氣象署預報員黃恩鴻表示，沙德爾再度增強為熱帶風暴後，對台灣發布海上警報機率不高。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
     },
     {
       "rank": 7,
-      "title": "沙德爾颱風豪雨引發江西山崩　死亡人數增至3人",
-      "dek": "《華盛頓郵報》引述美聯社報導，颱風沙德爾殘餘水氣引發江西省遂川縣山崩，罹難人數已增至3人，另有數人失聯、逾5300人緊急撤離。",
-      "url": "https://www.washingtonpost.com/world/2026/09/06/china-mudslide-jiang-xi-deaths-saudel-typhoon/22da7192-a9bc-11f1-9e38-f705d048bd5a_story.html"
+      "title": "雙颱共伴　南台灣豪雨特報一波接一波",
+      "dek": "Taipei Times報導，受沙德爾外圍環流與低壓帶影響，高雄、屏東等地曾發布超大豪雨警戒。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
     },
     {
       "rank": 8,
-      "title": "江西遂川山崩傳2死10失聯　沙德爾生命史長達逾15天",
-      "dek": "中央社報導，颱風沙德爾殘餘環流引發江西遂川縣山崩，初步統計2人罹難、10人失聯，該颱風生命史長達15天6小時，曾三度登陸浙江與福建沿岸。",
-      "url": "https://www.cna.com.tw/news/acn/202609060069.aspx"
+      "title": "沙德爾第三度登陸中國福建　莆田逾百屋倒塌、多人失蹤",
+      "dek": "The Watchers與《環球時報》綜合報導，沙德爾重新增強後在福建釀成嚴重淹水災情。",
+      "url": "https://watchers.news/2026/09/04/multiple-people-missing-more-than-100-houses-collapse-in-putian-as-typhoon-saudel-floods-fujian-china/"
     },
     {
       "rank": 9,
-      "title": "菲律賓海熱帶擾動97W引關注　專家估最快恐醞釀成杜鵑颱風",
-      "dek": "4gTV報導，台灣氣象專家指出，菲律賓以東的熱帶擾動97W有機會發展為今年的杜鵑颱風，惟截至目前尚未獲國際氣象機構正式升格認定。",
-      "url": "https://www.4gtv.tv/article/2026090510000004"
+      "title": "南台灣豪雨未歇　氣象署持續發布警戒",
+      "dek": "Taipei Times報導，南部地區持續受熱帶水氣影響，豪雨警報未見鬆綁跡象。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863564"
     },
     {
       "rank": 10,
-      "title": "賈新興：科羅旺降雨影響淡出　關注焦點轉向97W是否成形杜鵑",
-      "dek": "自由時報報導，氣象專家賈新興指出，科羅旺對台降雨影響將逐漸減弱，後續觀察重點在於97W能否增強為杜鵑颱風，目前預測路徑偏向北方或東北方，暫未直撲台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562654"
+      "title": "「雙颱共存」科羅旺、沙德爾同框　專家緊盯97W後續發展",
+      "dek": "Yahoo奇摩新聞綜合報導，西太平洋今年出現雙颱共存場面，氣象界同步關注新擾動97W動向。",
+      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%9B%99%E9%A2%B1%E5%85%B1%E5%AD%98-%E7%A7%91%E7%BE%85%E6%97%BA-%E9%A2%B1%E9%A2%A8%E7%94%9F%E6%88%90-%E6%9C%80%E6%96%B0%E9%A0%90%E6%B8%AC%E8%B7%AF%E5%BE%91-014300992.html"
     }
   ]
 }
