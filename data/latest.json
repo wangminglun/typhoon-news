@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T02:12:00+08:00",
+  "generated_at": "2026-09-08T03:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署目前未針對任何熱帶氣旋發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響。9月7日的強降雨特報主要集中於南投、雲林、嘉義、高雄、屏東等中南部縣市及山區，並非針對台中市；台中目前未見颱風或豪雨特報，也無停班停課情形。"
+    "text": "目前無直接影響。科羅旺颱風外圍環流雲雨已於9月7日起趨緩，中南部轉為時晴時雨，山區午後仍有局部短暫陣雨，但未達停班停課標準，台中無停班停課或直接風雨衝擊。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋颱風季創六十年最活躍紀錄 台灣本島暫無颱風警報",
-    "dek": "中央氣象署表示，原颱風科羅旺持續在日本外海徘徊減弱，台灣近日雨勢主要來自滯留鋒面與西南氣流，而非颱風直接侵襲。",
-    "url": "https://www.right-media.news/archives/232097"
+    "title": "科羅旺在琉球外海罕見打轉 日本屋久島發布最高級土石流警戒",
+    "dek": "台灣目前未受任何颱風警報影響，但科羅旺颱風徘徊日本南方、太平洋另一端的颶風羅威爾逼近夏威夷，讓西北太平洋與東太平洋同時進入活躍期。",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/06/japan-issues-highest-landslide-warning-for-yakushima-island-southwestern-japan-due-to-typhoon-krovanh"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺減弱為熱帶低氣壓 中南部午後對流雨仍需留意",
-      "dek": "颱風科羅旺在日本南西諸島外海打轉後即將降級，同時南投、雲林、嘉義、高雄、屏東等地因對流雲系出現局部大雨。",
-      "url": "https://www.right-media.news/archives/232097"
+      "title": "屋久島土石流警戒升至最高等級 科羅旺外海打轉釀豪雨",
+      "dek": "日本氣象廳因應颱風科羅旺帶來的強降雨，對鹿兒島縣屋久島發布第五級（最高等級）緊急土石流警戒。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/06/japan-issues-highest-landslide-warning-for-yakushima-island-southwestern-japan-due-to-typhoon-krovanh"
     },
     {
       "rank": 2,
-      "title": "科羅旺罕見打轉逼近日本 強降雨雨帶籠罩東西兩側",
-      "dek": "日本媒體報導，第24號熱帶風暴科羅旺在南西諸島附近出現異常繞行路徑，本週末雨勢持續威脅日本各地後才可望減弱。",
-      "url": "https://sea.weathernews.com/resources/202609/226"
+      "title": "科羅旺路徑罕見打轉 預計最終掠過四國、關西沿岸",
+      "dek": "氣象網站Weathernews指出，科羅旺自9月1日生成後在南西諸島一帶緩慢盤旋，而非直接北上撲向日本本土。",
+      "url": "https://sea.weathernews.com/resources/202609/220"
     },
     {
       "rank": 3,
-      "title": "科羅旺原訂北上奄美群島 週五轉向南下沖繩",
-      "dek": "馬來西亞《星報》報導，颱風科羅旺一度預計北上日本奄美群島，隨後轉向南下逼近沖繩本島與大東群島，日本太平洋沿岸持續受強降雨影響。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
+      "title": "雙颱共存：沙德爾減弱西移、科羅旺東側生成",
+      "dek": "三立新聞網報導，沙德爾與科羅旺一度形成罕見的「雙颱共存」局面，中央氣象署評估科羅旺遠在沖繩外海，對台灣無直接威脅。",
+      "url": "https://www.setn.com/news/1899553"
     },
     {
       "rank": 4,
-      "title": "熱帶風暴科羅旺（Pilandok）已離開菲律賓責任區",
-      "dek": "菲律賓氣象單位PAGASA表示，科羅旺目前位於北呂宋東北方約1,155公里海面，登陸風險低，但仍持續增強西南季風。",
-      "url": "https://www.pna.gov.ph/articles/1283024"
+      "title": "科羅旺外圍環流為台南以北帶來降雨 主體活動仍偏沖繩",
+      "dek": "NOWnews報導，科羅旺外圍雲雨系統9月6日為台灣部分地區帶來降雨，但颱風本體活動範圍仍集中於沖繩外海。",
+      "url": "https://www.nownews.com/news/6871017"
     },
     {
       "rank": 5,
-      "title": "西南季風增強 呂宋四省面臨淹水與土石流風險",
-      "dek": "受科羅旺環流加持的西南季風（habagat）為尚比利斯、巴丹、巴丹加斯與西民都洛帶來強降雨，儘管颱風本身未登陸菲律賓。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/07/2554605/heavy-habagat-rain-threatens-floods-4-luzon-provinces"
+      "title": "菲律賓海面熱帶擾動97W蓄勢待發 恐成今年颱風杜鵑",
+      "dek": "民視新聞網報導，專家評估菲律賓海面熱帶擾動97W數日內有中高機率發展為今年颱風「杜鵑」，台灣、日本、菲律賓與中國皆須關注。",
+      "url": "https://tw.news.yahoo.com/%E5%8F%88%E6%9C%89%E6%96%B0%E9%A2%B1%E9%A2%A8-97w%E6%81%90%E5%8D%87%E6%A0%BC-%E6%9D%9C%E9%B5%91-%E5%B0%88%E5%AE%B6%E6%9B%9D%E6%9C%80%E5%BF%AB%E9%80%99%E6%99%82%E7%94%9F%E6%88%90-015813237.html"
     },
     {
       "rank": 6,
-      "title": "氣象署發布北部南部豪雨特報 明確排除颱風直接侵台",
-      "dek": "《台北時報》報導，氣象署針對基隆、北海岸、宜蘭、屏東、台東及台北新北山區發布豪雨特報，並指出紹德、科羅旺均不會直接影響台灣。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863626"
-    },
-    {
-      "rank": 7,
-      "title": "「殘弱颱風重獲新生」紹德在海南島外海一度再增強",
-      "dek": "《台北時報》報導，颱風紹德殘餘環流在海南島附近重新增強為熱帶風暴，氣象署預報員表示其將北轉並在中國沿岸再度減弱，對台海上警報的可能性不高。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
-    },
-    {
-      "rank": 8,
-      "title": "熱帶風暴紹德「捲土重來」 氣象署估計對台影響輕微",
-      "dek": "中央社英文網報導，氣象署證實紹德殘餘環流已在南海重新組織為熱帶風暴，但預估對台灣不會造成直接顯著影響。",
-      "url": "https://focustaiwan.tw/society/202608310023"
-    },
-    {
-      "rank": 9,
-      "title": "颶風羅威爾轉向逼近夏威夷 考艾島、尼豪島發布颶風警報",
-      "dek": "CNN報導，一度達五級強度、目前為三級的颶風羅威爾以115英里時速強風逼近夏威夷，當地恐面臨破紀錄降雨、山崩與致命海浪威脅。",
+      "title": "颶風羅威爾轉向逼近夏威夷 考艾島拉高警戒",
+      "dek": "CNN報導，強度在三級至五級間波動的颶風羅威爾預測路徑已轉向夏威夷，最近恐僅距考艾島西方約75英里。",
       "url": "https://www.cnn.com/2026/09/06/weather/hurricane-lowell-turns-toward-hawaii-climate"
     },
     {
+      "rank": 7,
+      "title": "東北太平洋颶風季創紀錄活躍 已有15個命名風暴",
+      "dek": "美聯社報導，東北太平洋今年颶風季異常活躍，已產生15個命名風暴與6個颶風，遠高於歷年平均。",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-09-04/pacific-hurricane-hits-peak-activity-as-major-storms-rapidly-intensify"
+    },
+    {
+      "rank": 8,
+      "title": "颱風沙德爾減弱登陸浙江 台灣海上警報當日解除",
+      "dek": "《台北時報》報導，中央氣象署8月表示沙德爾颱風減弱北移，其後登陸中國浙江，對台灣的海上颱風警報隨即解除。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155"
+    },
+    {
+      "rank": 9,
+      "title": "美國國家颶風中心：大西洋未來一週無新系統生成跡象",
+      "dek": "根據美國國家颶風中心資料，未來七天大西洋、加勒比海及墨西哥灣均無熱帶氣旋生成跡象，中太平洋颶風羅威爾與熱帶風暴瑪莉持續受關注。",
+      "url": "https://stormw.wordpress.com/2026/09/07/tropical-weather-outlook-forecast-synopsis-issued-sep-07-2026-1220-p-m-edt/"
+    },
+    {
       "rank": 10,
-      "title": "西北太平洋颱風季創六十年最活躍紀錄",
-      "dek": "統計數據顯示，2026年西北太平洋颱風季8月單月即生成10個颱風，為1966年以來最多，聖嬰現象等有利條件被視為主要成因。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "NOAA維持大西洋颶風季「低於正常」預測",
+      "dek": "美國國家海洋暨大氣總署（NOAA）表示，聖嬰現象造成的風切效應持續抑制系統發展，維持今年大西洋颶風季屬低於正常等級的預測。",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season"
     }
   ]
 }
