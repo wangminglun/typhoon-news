@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T13:11:00+08:00",
+  "generated_at": "2026-09-07T14:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前無海上或陸上颱風警報，惟氣象專家提醒鋒面與西南氣流恐於本週末為中南部山區帶來豪雨。",
+  "alert_desc": "中央氣象署目前無海上或陸上颱風警報，颱風科羅旺已減弱為熱帶低氣壓並遠離台灣，惟入秋首波東北季風將於9月9日報到，北部與東部有降雨機會。",
   "region_watch": {
     "region": "台中",
-    "text": "台中今日無颱風相關警報或停班停課措施，但滯留鋒面與西南氣流可能於9月8日至9日為中部山區（含和平區）帶來大雨，須留意降雨動態，惟此為鋒面／季風雨勢，而非颱風直接侵襲。"
+    "text": "目前無直接影響。台中未受任何颱風或熱帶氣旋直接影響，僅受科羅旺外圍環流殘餘水氣及弱鋒面波及，週末局部零星降雨，9月7日至8日將轉為多雲到晴，未有停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風科羅旺遠離台灣轉往日本外海盤旋　熱帶擾動97W醞釀成杜鵑颱風",
-    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但氣象專家提醒鋒面與西南氣流恐於本週末為中南部山區帶來豪雨。",
-    "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+    "title": "颱風「科羅旺」減弱為熱帶低氣壓　對台無威脅　轉向日本四國逼近",
+    "dek": "在台灣東方海面盤旋數日後，第24號颱風科羅旺於9月7日上午減弱為熱帶低氣壓，路徑北轉直指日本四國、關西地區，當地面臨鋒面共伴的豪雨與淹水風險。",
+    "url": "https://tenki.jp/forecaster/deskpart/2026/09/07/40504.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺持續增強？菲律賓氣象署：已離開責任區，強度可望再維持36小時",
-      "dek": "PAGASA表示科羅旺7日凌晨位於呂宋島東北方約1155公里海面，預估週一起將逐漸減弱為熱帶低氣壓。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+      "title": "日本氣象協會：24號颱風科羅旺減弱為熱帶低氣壓",
+      "dek": "tenki.jp報導，科羅旺已於9月7日上午在沖繩南大東島附近降級，但預期仍將持續北上，週二左右逼近四國並帶來豪雨。",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/09/07/40504.html"
     },
     {
       "rank": 2,
-      "title": "24號颱風科羅旺琉球外海罕見打轉　暴風圈籠罩沖繩奄美",
-      "dek": "日本氣象業者Weathernews指出，科羅旺在南西諸島附近出現異常繞行路徑，威脅範圍逐步擴及東海與九州四國南方海域。",
-      "url": "https://sea.weathernews.com/resources/202609/226"
+      "title": "Weathernews：科羅旺減弱仍北上　四國周二恐迎豪雨",
+      "dek": "日本Weathernews報導指出，即使科羅旺已降為熱帶低氣壓，其近乎登陸四國的路徑仍可能在9日前後帶來顯著雨量。",
+      "url": "https://weathernews.jp/news/202609/070141/"
     },
     {
       "rank": 3,
-      "title": "日本關東甲信地區豪雨示警　氣象廳籲防淹水土石流",
-      "dek": "日本氣象廳針對關東甲信及本州其他地區發布豪雨預警，與南方熱帶系統帶來的水氣與不穩定天氣有關。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/06/japan/heavy-rain-forecast-kanto-koshin/"
+      "title": "京都新聞：關西面臨科羅旺殘餘系統帶來的警報級豪雨",
+      "dek": "京都新聞報導，近畿地區7日、8日下午至9日恐出現警報級降雨，當局戒備土石流與淹水風險。",
+      "url": "https://www.kyoto-np.co.jp/articles/-/1785840"
     },
     {
       "rank": 4,
-      "title": "科羅旺外圍環流甩雨　賈新興：杜鵑颱風最快明天生成",
-      "dek": "專家賈新興指出，科羅旺外圍環流6日為台南以北地區帶來間歇性大雨，熱帶擾動97W最快一兩天內恐增強為杜鵑颱風。",
-      "url": "https://tw.news.yahoo.com/9-6%E5%A4%A9%E6%B0%A3%E5%A4%A7%E8%BD%89%E6%8A%98-%E7%A7%91%E7%BE%85%E6%97%BA%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E7%94%A9%E9%9B%A8-%E6%9D%9C%E9%B5%91%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E6%98%8E%E7%94%9F%E6%88%90-074048627.html"
+      "title": "菲律賓西南季風引發橙色豪雨警報　呂宋四省恐淹水",
+      "dek": "Philstar報導，PAGASA針對三描禮士、巴丹、打拉及邦板牙發布橙色豪雨警報，多地面臨土石流與溪水暴漲風險。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/07/2554605/heavy-habagat-rain-threatens-floods-4-luzon-provinces"
     },
     {
       "rank": 5,
-      "title": "熱帶擾動97W恐升格杜鵑颱風　專家示警恐與科羅旺「雙颱共舞」",
-      "dek": "民視新聞與聯合新聞網報導，模式預估97W最快9月5日至7日間發展為今年第24號颱風杜鵑，路徑傾向北上日本，並可能與科羅旺產生藤原效應。",
-      "url": "https://www.ftvnews.com.tw/news/detail/2026905W0146"
+      "title": "PAGASA：九月底前恐再有二至三個熱帶氣旋進入菲律賓責任區",
+      "dek": "據PhilNews報導，菲律賓大氣署最新九月展望預估，月底前將有兩到三個新熱帶氣旋生成或進入其責任海域。",
+      "url": "https://philnews.ph/2026/09/03/pagasa-weather-forecast-2-3-tropical-cyclones-expected-enter-par-september-2026"
     },
     {
       "rank": 6,
-      "title": "中國解除颱風藍色預警　科羅旺減弱轉向偏東海域",
-      "dek": "中央氣象台表示，科羅旺已減弱為熱帶風暴等級並移出東海朝東而去，不再威脅中國沿海地區。",
-      "url": "http://weather.cma.cn/web/channel-376.html"
+      "title": "新熱帶擾動97W浮現　專家示警可能成為颱風「杜鵑」",
+      "dek": "自由時報報導，氣象專家賈新興指出，隨科羅旺外圍環流終於遠離台灣，新生系統97W有機會發展為下一個颱風，但尚待觀察確認。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562654"
     },
     {
       "rank": 7,
-      "title": "PAGASA：9月恐再有二至三個熱帶氣旋進入菲律賓責任區",
-      "dek": "菲律賓大氣署季節展望指出，未來將有新系統可能登陸呂宋或增強西南氣流，相關命名Queenie、Rosal、Samuel已預先保留。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-pilandok-southwest-monsoon-update-pagasa-forecast-september-3-2026-11am/"
+      "title": "中央社：颱風科羅旺形成　氣象署證實對台無直接影響",
+      "dek": "中央社報導，颱風沙德爾罕見「復活」之際，新颱風科羅旺同時生成，中央氣象署表示其形成不會對台灣造成直接衝擊。",
+      "url": "https://www.cna.com.tw/news/ahel/202609010033.aspx"
     },
     {
       "rank": 8,
-      "title": "賈新興：颱風窩大爆發　班朗、科羅旺、杜鵑接力醞釀",
-      "dek": "氣象專家賈新興指出，異常活躍的季風槽接連孕育多個系統，為南台灣帶來連續性強降雨，直至9月6日才略見趨緩。",
-      "url": "https://udn.com/news/story/7266/9719204"
+      "title": "中央社：科羅旺持續北上　估9月4日前後逼近沖繩",
+      "dek": "中央社報導，科羅旺預計北移接近琉球群島後轉向，往九州以南海域移動，路徑未涉台灣本島。",
+      "url": "https://www.cna.com.tw/news/aopl/202609020060.aspx"
     },
     {
       "rank": 9,
-      "title": "鋒面加西南氣流來襲　中央氣象署：中南部山區慎防豪雨",
-      "dek": "中央氣象署提醒，滯留鋒面結合西南氣流恐於9月8日至9日為台灣西部、宜蘭及花東山區帶來豪雨等級降雨，已啟動豪雨應變機制。",
-      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8B%A2%E5%8D%87%E7%B4%9A%EF%BC%8116%E7%B8%A3%E5%B8%82%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E5%8F%B0%E4%B8%AD%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-030349850.html"
+      "title": "環球時報：颱風沙德爾罕見三度登陸福建　創氣象紀錄",
+      "dek": "環球時報報導，沙德爾繼兩度登陸浙江後再度轉向登陸福建漳浦，專家稱此三度登陸路徑在中國大陸氣象史上前所未見。",
+      "url": "https://www.globaltimes.cn/page/202609/1369726.shtml"
     },
     {
       "rank": 10,
-      "title": "聖嬰現象發威　大西洋颶風季創60年來最冷清開局",
-      "dek": "美國國家海洋暨大氣總署（NOAA）資料顯示，2026年大西洋僅出現五個命名風暴、零颶風，為近60年來最遲緩開局，全年預估仍有7至13個命名風暴。",
-      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
+      "title": "新華社：沙德爾第三度登陸福建　逾8.3萬人疏散",
+      "dek": "新華社報導，本季第18號颱風沙德爾9月3日清晨以每秒23公尺風速三度登陸福建沿海，當局已提前疏散逾8.3萬居民。",
+      "url": "https://english.news.cn/20260903/c3a64337751149df9bd96e62b4d9a52b/c.html"
     }
   ]
 }
