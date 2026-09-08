@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T03:10:00+08:00",
+  "generated_at": "2026-09-09T04:10:00+08:00",
   "alert_level": "none",
-  "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島或外島發布海上或陸上颱風警報。颱風柯羅旺已於9月7日減弱為熱帶低氣壓，正在日本南方海面持續消散中。",
+  "alert_text": "目前無警報：科羅旺颱風在日本南方外海持續減弱、預計即將消散，無任何系統直接威脅台灣。",
+  "alert_desc": "目前無警報：科羅旺颱風在日本南方外海持續減弱、預計即將消散，無任何系統直接威脅台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風系統直接影響台中，市內今日並無風雨警報或停班停課措施。"
+    "text": "台中地區目前未受任何颱風警報影響，惟科羅旺颱風外圍環流仍可能為中部迎風面山區帶來零星陣雨，請留意天氣變化。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颶風羅威爾襲夏威夷考艾島　創1992年伊尼基以來最強侵襲紀錄",
-    "dek": "二級颶風羅威爾以逼近路徑掠過考艾郡，全郡多數地區停電，官員警告致命大浪與洪水風險將持續至週中；同時台灣則暫別熱帶氣旋威脅，柯羅旺已減弱消散，北台灣天氣回穩。",
-    "url": "https://www.cnn.com/2026/09/06/weather/hurricane-lowell-turns-toward-hawaii-climate"
+    "title": "太平洋三颶風齊發威、羅威爾重創夏威夷　台灣暫無風雨威脅",
+    "dek": "科羅旺颱風在日本南方外海原地打轉即將消散，太平洋彼端夏威夷才剛歷經罕見「三颶風齊發」的侵襲，而台灣本島目前未受任何警報籠罩。",
+    "url": "https://weather.com/2026/09/08/storms/hurricane/hurricane-lowell-hawaii-impacts-kauai-niihau"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風羅威爾襲夏威夷　考艾郡大部分地區停電",
-      "dek": "CNN報導指出，羅威爾以二級颶風強度掠過考艾郡外海，成為自1992年伊尼基以來侵襲夏威夷主要島嶼最強的颶風。",
-      "url": "https://www.cnn.com/2026/09/06/weather/hurricane-lowell-turns-toward-hawaii-climate"
+      "title": "颶風羅威爾重創夏威夷後減弱為一級颶風",
+      "dek": "考艾島與尼豆島遭強風豪雨侵襲、大範圍停電，當地警報已隨風暴北移而解除。",
+      "url": "https://weather.com/2026/09/08/storms/hurricane/hurricane-lowell-hawaii-impacts-kauai-niihau"
     },
     {
       "rank": 2,
-      "title": "羅威爾逼近夏威夷西側島嶼　掀起30英尺巨浪",
-      "dek": "NBC新聞報導，考艾郡已發布颶風警報，官員警告致命大浪與洪水風險。",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-forecast-hawaii-warnings-rcna596485"
+      "title": "科羅旺颱風在日本奄美群島外海「迴轉」後預計南折",
+      "dek": "這個路徑詭異的颱風目前徘徊於琉球群島一帶，受風切與地形影響，預料將在約24小時內迅速減弱消散。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/03/typhoon-krovanh-to-make-u-turn-around-japan039s-amami-islands-and-head-south-on-friday"
     },
     {
       "rank": 3,
-      "title": "颶風羅威爾威脅夏威夷群島　致命大浪來襲",
-      "dek": "NBC新聞報導羅威爾逼近考艾島前，對夏威夷外島構成的大浪與海岸災害威脅。",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294"
+      "title": "科羅旺颱風今上午8時生成、對台影響曝",
+      "dek": "氣象署指出，颱風核心將持續遠離台灣，僅外圍環流可能為中北部迎風面帶來零星降雨。",
+      "url": "https://udn.com/news/story/7266/9726281"
     },
     {
       "rank": 4,
-      "title": "羅威爾持續北移　週一傍晚完成最近距離掠過",
-      "dek": "夏威夷當地媒體Hawaii News Now報導證實，羅威爾已於週一晚間通過其最接近群島西側的路徑點。",
-      "url": "https://www.hawaiinewsnow.com/video/2026/09/07/september-6-2026-lowell-continues-track-north-closest-approach-just-west-monday-pm/"
+      "title": "沙德爾颱風持續減弱　預計今解除海警",
+      "dek": "歷經北台灣近海、浙江與福建三度登陸的罕見路徑後，沙德爾終告減弱消散，僅西南氣流為中南部帶來降雨。",
+      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%8C%81%E7%BA%8C%E6%B8%9B%E5%BC%B1-%E9%A0%90%E8%A8%88%E4%BB%8A%E8%A7%A3%E9%99%A4%E6%B5%B7%E8%AD%A6-%E5%98%89%E7%BE%A9%E4%BB%A5%E5%8D%97%E4%B8%8A%E5%8D%88%E5%9A%B4%E9%98%B2%E5%A4%A7%E9%9B%A8-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BC%B7%E5%BA%A6%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-002630029.html"
     },
     {
       "rank": 5,
-      "title": "美國國家颶風中心：羅威爾風速達每小時90英里　警報持續",
-      "dek": "NHC最新公告指出，羅威爾距利胡埃西北方約145英里，考艾郡颶風警報維持有效，閃洪與大浪威脅將持續至週中。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP4+html/312038.shtml"
+      "title": "颱風「紫檀」第3次登陸我國沿海　最新路徑公布",
+      "dek": "紫檀在海南、廣東沿岸連續三度登陸後消散，全程距台灣本島約1360公里，影響輕微。",
+      "url": "https://www.wenweipo.com/a/202608/26/AP6a8e630de4b0c1e500264880.html"
     },
     {
       "rank": 6,
-      "title": "中央氣象署：柯羅旺外圍環流將為北台灣帶來降雨",
-      "dek": "中央社報導，氣象署指出颱風柯羅旺雖未直接登陸，但外圍雨帶預計為大台北與基隆地區帶來降雨。",
-      "url": "https://focustaiwan.tw/society/202609050003"
+      "title": "大西洋颶風季首颶風遲遲未現　逼近歷史最晚紀錄",
+      "dek": "專家指出，逐漸增強的聖嬰現象正在抑制大西洋對流發展，本季恐追平甚至打破首颶風生成最晚的紀錄。",
+      "url": "https://www.foxweather.com/weather-news/atlantic-hurricane-season-late-first-hurricane-super-el-nino-2026"
     },
     {
       "rank": 7,
-      "title": "減弱中的熱帶系統意外重新增強",
-      "dek": "《台北時報》報導，原本預期消散的熱帶系統在西北太平洋重新組織增強，促使氣象署持續密切監測。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+      "title": "熱帶風暴卡蕊娜曾一度增強為颶風　隨後減弱",
+      "dek": "卡蕊娜在夏威夷東北方海面減弱回熱帶風暴等級，持續北移，對陸地無威脅。",
+      "url": "https://abcnews.com/Technology/wireStory/tropical-storm-karina-strengthens-hurricane-pacific-major-storm-136067970"
     },
     {
       "rank": 8,
-      "title": "氣象署對北部、南部台灣發布豪雨特報",
-      "dek": "《台北時報》報導，因應柯羅旺最接近台灣期間的降雨風險，氣象署針對北部與南部部分地區發布豪大雨特報。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863626"
+      "title": "溫帶氣旋瑪莉為加州沿岸帶來危險大浪　並助長西南部季風威脅",
+      "dek": "由颶風轉為溫帶氣旋的瑪莉持續遠離夏威夷與下加州，其水氣正助長美國西南部季風降雨。",
+      "url": "https://www.foxweather.com/weather-news/two-hurricanes-swirling-off-us-coast-pacific-ocean-what-impacts-california"
     },
     {
       "rank": 9,
-      "title": "兩個熱帶風暴生成　南台灣提防豪雨",
-      "dek": "《台北時報》報導，西太平洋與南海同時有兩個熱帶風暴形成，氣象署示警南台灣局部地區豪雨，但兩者均未預期直接侵台。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
+      "title": "太平洋颶風季迎來活動高峰　三颶風同時發威",
+      "dek": "卡蕊娜、羅威爾與瑪莉罕見同時在太平洋活動，NOAA預估本季中太平洋出現偏多熱帶氣旋的機率達七成。",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-09-04/pacific-hurricane-hits-peak-activity-as-major-storms-rapidly-intensify"
     },
     {
       "rank": 10,
-      "title": "2026年大西洋颶風季逼近「最晚首颶風」紀錄",
-      "dek": "Newsweek報導，大西洋海域今年異常平靜，至今尚未形成颶風，有望創下衛星觀測時代以來最晚紀錄。",
-      "url": "https://www.yahoo.com/news/weather-news/articles/2026-atlantic-hurricane-season-nears-104328217.html"
+      "title": "馬尼拉都會區因西南季風豪雨宣布9月8日停課　目前無熱帶氣旋醞釀",
+      "dek": "菲律賓氣象單位表示，目前並無低壓區正發展成熱帶氣旋，呂宋島與馬尼拉的強降雨主因是西南季風。",
+      "url": "https://time.news/metro-manila-class-suspensions-announced-for-sept-8-due-to-habagat-rains/"
     }
   ]
 }
