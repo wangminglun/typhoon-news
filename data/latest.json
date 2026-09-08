@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T16:14:00+08:00",
+  "generated_at": "2026-09-08T17:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "颱風科羅旺已減弱為熱帶性低氣壓並遠離台灣，中央氣象署截至9月8日未發布任何海上或陸上颱風警報。",
+  "alert_desc": "中央氣象署已將科羅旺降編為熱帶性低氣壓並解除警戒，截至9月8日未對台灣發布任何海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風系統直接影響台中，即將到來的東北季風降雨也將集中在北部與東北部，台中地區暫不受明顯衝擊。"
+    "text": "目前無颱風系統直接影響台中，近日多雲到晴，未有停班停課措施；即將到來的東北季風降雨也將集中在北部與東北部，台中地區暫不受明顯衝擊。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "科羅旺減弱遠離 台灣暫別颱風威脅，東北季風接棒報到",
-    "dek": "中央氣象署發布科羅旺颱風最後一次警報後，全台目前無颱風警報生效，但今年西北太平洋颱風生成數已追平歷史紀錄，未來降雨主要將由東北季風主導。",
-    "url": "https://udn.com/news/story/7266/9735824"
+    "title": "科羅旺減弱北去、杜鵑未見蹤影 台灣暫別颱風威脅，東北季風即將接棒",
+    "dek": "中央氣象署已解除科羅旺颱風海上及陸上警戒，菲律賓氣象單位也證實目前無熱帶系統在鄰近海域生成，台灣近日天氣趨於平靜，直到東北季風於本週稍晚增強南下。",
+    "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "科羅旺減弱為熱帶性低氣壓，氣象署發布最後公報",
-      "dek": "曾在沖繩附近徘徊的颱風科羅旺持續減弱，中央氣象署9月7日上午發布最後一次警報，系統已轉向日本方向移動。",
-      "url": "https://udn.com/news/story/7266/9735824"
+      "title": "颶風羅威爾減弱為二級 仍重創夏威夷考艾島與尼豪島",
+      "dek": "羅威爾帶來三十英尺巨浪、土石流風險與大規模停電，預計週三前減弱為熱帶風暴並北移遠離夏威夷群島。",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-forecast-hawaii-warnings-rcna596485"
     },
     {
       "rank": 2,
-      "title": "熱帶擾動97W醞釀成形，杜鵑颱風呼之欲出",
-      "dek": "氣象專家評估菲律賓東方熱帶擾動97W最快9月6日至7日增強為颱風杜鵑，主要威脅將落在日本沖繩與九州、四國一帶。",
-      "url": "https://udn.com/news/story/7266/9734241"
+      "title": "科羅旺殘留環流與鋒面共伴 日本九州至東京面臨強降雨",
+      "dek": "氣象單位警告，減弱後的科羅旺與滯留鋒面交互作用，恐為日本西南部至關東地區帶來持續性豪雨。",
+      "url": "https://udn.com/news/story/7266/9735824"
     },
     {
       "rank": 3,
-      "title": "「雙颱」罕見態勢浮現，第二系統緊跟科羅旺腳步",
-      "dek": "民視新聞報導，專家研判熱帶擾動97W數日內可能升級為颱風杜鵑，與科羅旺形成少見的雙颱同時存在局面，但兩者均朝日本方向移動，對台灣影響有限。",
-      "url": "https://www.ftvnews.com.tw/news/detail/2026905W0146"
+      "title": "中央氣象署解除科羅旺警戒 台灣目前無颱風警報",
+      "dek": "氣象署9月7日發布最終公告，將科羅旺降編為熱帶性低氣壓，全台未受海上或陸上颱風警報影響。",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
     },
     {
       "rank": 4,
-      "title": "氣象署證實：追平紀錄的颱風季帶來又濕又熱的夏天",
-      "dek": "中央氣象署確認今年7、8月西北太平洋共有14個颱風生成，追平歷史紀錄，台灣同期降雨量較常年偏多逾兩成。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863565"
+      "title": "「杜鵑颱風」未獲證實 菲律賓氣象署稱鄰近海域無系統生成",
+      "dek": "儘管台灣部分氣象評論者曾預測熱帶擾動97W將發展成颱風，PAGASA最新公報顯示菲律賓責任區內目前無熱帶氣旋活動。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/08/2554836/habagat-rains-persist-over-luzon-visayas"
     },
     {
       "rank": 5,
-      "title": "西北太平洋颱風生成數追平紀錄，今年來已達22個",
-      "dek": "中央社報導，西北太平洋今年前八個月已生成22個命名颱風，為1958年以來第三高紀錄，顯示今年颱風季異常活躍。",
-      "url": "https://focustaiwan.tw/society/202609020009"
+      "title": "大西洋颶風季創六十年來最晚首颶風紀錄",
+      "dek": "聖嬰現象增強抑制系統發展，今年大西洋至今僅出現五個命名風暴，尚無一個達到颶風強度。",
+      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
     },
     {
       "rank": 6,
-      "title": "「瀕死」颱風沙德爾死而復生，罕見二度登陸",
-      "dek": "一度減弱消散的颱風沙德爾在南海重新增強，繼登陸浙江後，於9月3日再度於中國福建登陸，走出罕見的「回力鏢」路徑。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+      "title": "熱帶風暴愛德華登陸德州、路易斯安那州交界",
+      "dek": "愛德華以每小時六十英里風速登陸強生灣附近，帶來八至十英寸降雨並引發嚴重淹水。",
+      "url": "https://www.washingtonpost.com/weather/2026/09/01/tropical-storm-edouard-expected-make-texas-landfall-soon-track-storm/"
     },
     {
       "rank": 7,
-      "title": "沙德爾捲土重來，氣象署預期對台威脅有限",
-      "dek": "中央氣象署預報員黃恩鴻表示，重新增強的沙德爾將維持較弱的熱帶風暴強度並轉向中國廣東移動，發布海上警報的可能性不高。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+      "title": "日本屋久島曾發布最高等級土石流警戒 逾六千人疏散",
+      "dek": "科羅旺與秋季鋒面共同帶來創紀錄降雨，鹿兒島縣一度發布五級緊急警戒，其後降為四級。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
     },
     {
       "rank": 8,
-      "title": "今年首波東北季風報到，9日起連下三天雨",
-      "dek": "聯合新聞網報導，入秋首波東北季風將於9月9日起影響台灣三天，其中9月11日基隆、北海岸及宜花地區雨勢最顯著，屬季節轉換降雨。",
-      "url": "https://udn.com/news/story/7266/9739835"
+      "title": "東北季風將至 台灣降雨型態轉為「北多南少」",
+      "dek": "氣象署資料顯示，9月8日後降雨集中北台灣，南部雨勢趨緩，轉換時程與東北季風抵達時間吻合。",
+      "url": "https://tw.news.yahoo.com/9-6%E5%A4%A9%E6%B0%A3%E5%A4%A7%E8%BD%89%E6%8A%98-%E7%A7%91%E7%BE%85%E6%97%BA%E5%A4%96%E5%9C%8D%E7%92%B0%E6%B5%81%E7%94%A9%E9%9B%A8-%E6%9D%9C%E9%B5%91%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E6%98%8E%E7%94%9F%E6%88%90-074048627.html"
     },
     {
       "rank": 9,
-      "title": "菲律賓氣象署：9月恐再有2至3個熱帶氣旋進入責任海域",
-      "dek": "菲律賓大氣地球物理與天文服務署預估9月將有兩到三個熱帶氣旋進入菲律賓責任海域，西南季風同時已為巴丹省與三描禮士省帶來橙色降雨警報。",
-      "url": "https://philnews.ph/2026/09/03/pagasa-weather-forecast-2-3-tropical-cyclones-expected-enter-par-september-2026"
+      "title": "「回力鏢」颱風沙德爾 登陸中國後正式消散",
+      "dek": "沙德爾曾罕見兩度登陸中國沿海，如今已完全消散，全台各縣市暴風侵襲機率降至零。",
+      "url": "https://www.bnext.com.tw/article/91976/saudel-typhoon-latest-updates"
     },
     {
       "rank": 10,
-      "title": "颶風羅威爾襲擊夏威夷，考艾島、尼豪島發布颶風警報",
-      "dek": "二級颶風羅威爾以時速110英里風力掠過考艾島與尼豪島，當局發布颶風警報並提醒低窪沿海居民做好撤離準備。",
-      "url": "https://abcnews.com/US/hawaii-braces-hurricane-lowell-amid-risk-dangerous-winds/story?id=136254131"
+      "title": "無熱帶氣旋活動 菲律賓西南季風雨勢持續",
+      "dek": "PAGASA指出，即使鄰近海域無颱風生成，呂宋與維薩亞斯部分地區仍將持續受西南季風影響出現中到大雨。",
+      "url": "https://www.rappler.com/philippines/weather/southwest-monsoon-update-pagasa-forecast-september-7-2026-5pm/"
     }
   ]
 }
