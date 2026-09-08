@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T20:13:00+08:00",
+  "generated_at": "2026-09-08T21:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署8日發布之天氣展望未提及任何颱風警報；上一波海上颱風警報（颱風沙德爾）已於8月底解除，沙德爾本身已於9月3日至4日在中國廣東內陸減弱消散。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；上一波海上警報（颱風沙德爾）已於8月底解除並消散。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署8日預報顯示台中地區以多雲到晴為主，無颱風相關的降雨或強風警報，也沒有停班停課疑慮；唯一將至的天氣變化是週三起入秋首波東北季風，屬正常季節轉換，與颱風無關。"
+    "text": "目前無直接影響。目前無颱風或熱帶氣旋系統影響台中，最近一次與颱風相關的停班停課紀錄為7月的颱風巴威，9月目前無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "台灣目前無颱風威脅　克羅旺牽動日本、羅威爾颶風襲夏威夷",
-    "dek": "中央氣象署表示台灣近日未有海上或陸上颱風警報生效，區域內多個系統分別牽動日本、夏威夷及太平洋公海，2026年颱風季整體仍偏活躍。",
+    "title": "科羅旺減弱、杜鵑成形　台灣暫無颱風威脅",
+    "dek": "氣象署稱東北風影響北台灣，日本沖繩九州仍須防強降雨與土石流",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風克羅旺日本外海罕見打轉　沖繩至近畿恐現豪雨強風",
-      "dek": "日本氣象業者Weathernews報導，24號颱風克羅旺在南西諸島附近緩慢繞行，預料持續至9月8日前後為日本西部及東部帶來猛烈暴雨、強陣風與危險海象。",
-      "url": "https://sea.weathernews.com/resources/202609/226"
-    },
-    {
-      "rank": 2,
-      "title": "克羅旺外圍環流掠過　北台灣僅見零星短暫陣雨",
-      "dek": "中央氣象署表示，颱風克羅旺對台灣不構成直接威脅，僅外圍雲雨帶為大台北及東部帶來局部短暫降雨，白天高溫仍達30至32度。",
+      "title": "氣象署：科羅旺外圍環流估將為北台灣帶來降雨",
+      "dek": "中央氣象署表示颱風本身不致直接侵台，但外圍雨帶周末可能影響北部。",
       "url": "https://focustaiwan.tw/society/202609050003"
     },
     {
+      "rank": 2,
+      "title": "科羅旺強度持穩　脫離菲律賓責任區北移",
+      "dek": "菲律賓大氣署指出颱風路徑持續北上，遠離菲律賓與台灣。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
+    },
+    {
       "rank": 3,
-      "title": "氣象署：週二全台多雲到晴　無颱風威脅",
-      "dek": "中央氣象署8日發布的天氣展望顯示，全台以多雲到晴天氣為主，預報內容未提及任何颱風或熱帶風暴，確認台灣目前未受任何熱帶氣旋直接影響。",
-      "url": "https://focustaiwan.tw/society/202609080005"
+      "title": "科羅旺減弱為熱帶低氣壓　逼近沖繩以南海域",
+      "dek": "日本氣象協會表示颱風歷經罕見迂迴路徑後減弱，殘餘水氣本週仍影響日本。",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/09/07/40504.html"
     },
     {
       "rank": 4,
-      "title": "入秋首波東北季風週三報到　北台灣、東半部將轉有雨",
-      "dek": "中央氣象署宣布，今年入秋首波東北季風將於週三至週五影響台灣，為東半部及桃園以北地區帶來局部降雨，夜間氣溫略降，屬季節轉換而非颱風效應。",
-      "url": "https://focustaiwan.tw/society/202609070019"
+      "title": "第24號颱風「杜鵑」生成　專家：路徑偏北不致侵台",
+      "dek": "氣象專家分析杜鵑恐與科羅旺交互影響，外圍環流估提高台灣降雨機率。",
+      "url": "https://udn.com/news/story/7266/9734241"
     },
     {
       "rank": 5,
-      "title": "颶風羅威爾減弱為二級　掠過夏威夷考艾島外海",
-      "dek": "美國媒體weather.com報導，一度達五級強度的颶風羅威爾已減弱為二級，於7日夜間至8日清晨通過考艾島外海，考艾及尼豪島發布颶風警報，歐胡島則發布熱帶風暴警報。",
-      "url": "https://weather.com/2026/09/07/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
+      "title": "鹿兒島一度發布最高等級土石流警戒",
+      "dek": "日本時報報導豪雨侵襲沖繩、九州及日本西部，坍方風險升高。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
     },
     {
       "rank": 6,
-      "title": "颱風沙德爾在廣東內陸消散　香港天文台解除所有熱帶氣旋警告",
-      "dek": "港媒《星島頭條》報導，沙德爾掠過台灣、香港近海後迅速減弱為低壓區，香港天文台已解除全部熱帶氣旋警告信號；台灣氣象署稍早也已解除相關海上警報。",
-      "url": "https://www.stheadline.com/society/3610707/%E6%B2%99%E5%BE%B7%E7%88%BE%E5%A4%A9%E6%96%87%E5%8F%B0%E5%8F%96%E6%B6%88%E6%89%80%E6%9C%89%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F-%E6%B2%99%E5%BE%B7%E7%88%BE%E5%B7%B2%E5%9C%A8%E5%BB%A3%E6%9D%B1%E5%85%A7%E9%99%B8%E6%B8%9B%E5%BC%B1%E7%82%BA%E4%BD%8E%E5%A3%93%E5%8D%80"
+      "title": "入秋首波東北風報到　氣象署估週三起北台灣降雨",
+      "dek": "中央氣象署表示東北季風非颱風系統，基隆北海岸宜花週五雨勢加劇。",
+      "url": "https://focustaiwan.tw/society/202609070019"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴Bang-lang增強為颱風　路徑遠在太平洋公海",
-      "dek": "追蹤風暴動態的Zoom Earth網站報導，Bang-lang在國際換日線附近的開闊洋面北上增強為颱風，浪高一度達5.5公尺，目前未對台灣或菲律賓構成威脅。",
-      "url": "https://zoom.earth/storms/bang-lang-2026/"
+      "title": "太平洋罕見「三颶風共舞」　羅威爾一度增強至五級",
+      "dek": "Weather.com報導近十年首見三颶風同時並存，羅威爾強度居首。",
+      "url": "https://weather.com/2026/09/03/storms/hurricane/three-hurricanes-pacific-same-time-lowell-karina-marie"
     },
     {
       "rank": 8,
-      "title": "西南季風「哈邦雨」持續　菲律賓呂宋、維薩亞斯降雨未歇",
-      "dek": "菲律賓《菲律賓星報》報導，PAGASA表示西南季風（哈邦雨）8日持續為大馬尼拉、黎剎、奎松、巴丹加斯及拉古納等地帶來時大時小的降雨，屬季風而非颱風系統。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/08/2554836/habagat-rains-persist-over-luzon-visayas"
+      "title": "颶風羅威爾威力略減　估將自尼豪島以西通過",
+      "dek": "檀香山廣告人報指出考艾島與尼豪島已發布熱帶風暴警報。",
+      "url": "https://www.staradvertiser.com/2026/09/03/breaking-news/major-hurricane-lowell-could-turn-toward-hawaii-early-next-week/"
     },
     {
       "rank": 9,
-      "title": "PAGASA對呂宋中西部多省發布第11號豪雨警報",
-      "dek": "《馬尼拉公報》報導，菲律賓大氣地球物理暨天文服務署8日下午發布黃色豪雨警報，涵蓋Zambales、Bataan、Tarlac、Pampanga及Nueva Ecija等省，預估24小時雨量達100至200毫米，並有淹水與土石流風險。",
-      "url": "https://mb.com.ph/2026/09/08/habagat-rains-to-continue-over-luzon-visayas-fewer-areas-may-be-affected-by-weekend"
+      "title": "卡莉娜減弱為熱帶風暴　太平洋恐現第四個系統",
+      "dek": "雅虎新聞報導瑪麗同步減弱，僅羅威爾維持颶風等級。",
+      "url": "https://www.yahoo.com/news/weather-news/article/three-hurricanes-are-still-churning-in-the-pacific-and-a-fourth-may-be-on-the-way-164427418.html"
     },
     {
       "rank": 10,
-      "title": "太平洋颱風季偏活躍　學者示警下半年恐有強烈風暴",
-      "dek": "維基百科彙整的2026年太平洋颱風季資料顯示，Weathernews估算今年累積氣旋能量約為常年1.4倍，已生成逾21個命名風暴，專家提醒下半年仍有出現強烈、長壽命颱風的風險。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "大西洋颶風季異常緩慢　恐創最晚首颶風紀錄",
+      "dek": "雅虎新聞報導截至9月8日大西洋僅生成五個熱帶風暴，尚無颶風。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/2026-atlantic-hurricane-season-nears-104328217.html"
     }
   ]
 }
