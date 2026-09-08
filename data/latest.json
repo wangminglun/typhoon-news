@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T11:12:00+08:00",
+  "generated_at": "2026-09-08T12:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "綜合多方新聞報導，中央氣象署目前未發布任何海上或陸上颱風警報。颱風紹德已在中國廣東境內完全減弱消散，科羅旺也已減弱並遠離台灣，氣象單位的關注焦點已轉向本季首波東北季風。",
+  "alert_desc": "中央氣象署目前未針對台灣海域或陸地發布任何海上或陸上颱風警報。颱風科羅旺已在琉球外海減弱北移，沙德爾則持續往中國廣東、浙江沿岸方向移動，均未對台灣構成直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中預期僅受東北季風一般性影響，週三起早晚氣溫略降至22至23度，白天高溫仍達29至32度，中部山區午後或有局部短暫陣雨，未達停班停課標準，亦無現行颱風系統直接影響台中。"
+    "text": "目前無直接影響。科羅旺颱風已減弱並在琉球、九州外海活動，沙德爾則往中國廣東、浙江方向移動，皆未對台中造成風雨威脅或停班停課情形；台中9月8日天氣預報為多雲到晴，午後山區局部短暫雷陣雨，屬正常天氣型態。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "入秋首波東北季風週三報到　台灣暫無颱風威脅　專家持續觀察熱帶擾動97W",
-    "dek": "中央氣象署預報，今年入秋首波東北季風將於週三（9日）南下，北台灣早晚低溫下探20度左右並轉為多雨；目前無海上或陸上颱風警報，另有一熱帶擾動97W是否發展為颱風「杜鵑」仍待觀察。",
-    "url": "https://news.nextapple.com/life/20260908/C8C3EF5F8CDA13D07D60FCB484E6B62A"
+    "title": "科羅旺原地迴轉減弱，台灣暫無風雨威脅",
+    "dek": "科羅旺颱風在琉球外海罕見打轉後減弱北移，沙德爾則西移廣東沿岸，兩颱均未對台灣構成威脅，中央氣象署未發布任何颱風警報。",
+    "url": "https://sea.weathernews.com/resources/202609/226"
   },
   "items": [
     {
       "rank": 1,
-      "title": "好天氣只剩1天！東北季風週三報到　北台灣低溫下探21°C連雨9天",
-      "dek": "壹蘋新聞網報導，氣象署預估好天氣僅剩一天，週三起東北季風將為北部、東部帶來長達約九天的間歇性降雨，北部低溫下探21度。",
-      "url": "https://news.nextapple.com/life/20260908/C8C3EF5F8CDA13D07D60FCB484E6B62A"
+      "title": "科羅旺颱風在琉球外海罕見打轉，減弱後轉向日本",
+      "dek": "據Weathernews報導，科羅旺因鞍型場氣流在琉球群島南方海域出現罕見的原地迴轉路徑，並為日本本州、九州帶來強降雨，預計9月8日凌晨減弱為熱帶低壓，對台灣無直接威脅。",
+      "url": "https://sea.weathernews.com/resources/202609/226"
     },
     {
       "rank": 2,
-      "title": "壹氣象／入秋首波東北季風報到！　最低溫恐下探20度",
-      "dek": "壹新聞報導，入秋首波東北季風預計週三南下，北部、東北部早晚低溫下探20度，白天高溫仍近30度，日夜溫差擴大。",
-      "url": "https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-09-08/2460560.html"
+      "title": "日本氣象廳曾預測科羅旺路徑逼近奄美大島，後轉向南方海域",
+      "dek": "據The Star（馬來西亞）引述美聯社報導，日本氣象廳9月2日曾預測科羅旺將於9月4日逼近奄美大島後轉向南方，該颱風於9月1日在沖繩那霸東南方生成，始終未接近台灣。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/02/typhoon-krovanh-continues-northwestward-met-agency-predicts-course-to-near-amami-oshima-island-on-friday-sept-4-turn-back-toward-south-of-japan"
     },
     {
       "rank": 3,
-      "title": "9/7一周天氣預報》東北季風來了！周三台北變天轉涼　早晚僅22度",
-      "dek": "NOWnews一週天氣預報顯示，東北季風週三抵台，台北早晚低溫降至22度，未來一週暫無颱風系統影響台灣。",
-      "url": "https://www.nownews.com/news/6872789"
+      "title": "科羅旺在沖繩南方海面原地大迴轉，專家：對台灣無威脅",
+      "dek": "聯合新聞網報導，科羅旺受鞍型場氣流影響於沖繩南方海面出現罕見迴轉路徑，氣象專家指出其主要影響區域轉往日本九州、四國，對台灣沒有直接威脅。",
+      "url": "https://udn.com/news/story/7266/9736135"
     },
     {
       "rank": 4,
-      "title": "夏天真的結束了！鄭明典：大陸冷高壓增強中　東北季風直衝台灣",
-      "dek": "前氣象局長鄭明典分析，大陸冷高壓持續增強，是本波東北季風直撲台灣的主要推手，季節轉換訊號明顯。",
-      "url": "https://www.nownews.com/news/6872938"
+      "title": "熱帶擾動97W是否成為「杜鵑」颱風仍待證實",
+      "dek": "自由時報報導，氣象專家賈新興指出熱帶擾動97W最快可能於9月5至6日增強為第24號颱風「杜鵑」，但截至9月6日JTWC展望顯示無明顯熱帶擾動活動，此說法尚屬未證實的推測。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562654"
     },
     {
       "rank": 5,
-      "title": "明天的天氣/首波大降溫來了！「連3天降溫轉雨」氣象署曝最濕涼時間",
-      "dek": "風傳媒報導，氣象署指出本波東北季風將帶來連續三天降溫轉雨，最濕冷時段集中在北部與東北部，中南部影響輕微。",
-      "url": "https://www.storm.mg/lifestyle/11162254"
+      "title": "沙德爾殘留環流在南海重新增強為熱帶風暴，趨向台灣海峽",
+      "dek": "據Weathernews報導，沙德爾殘留環流在海南島以南南海海域重新發展為熱帶風暴，一度朝台灣海峽方向移動，後再度停滯減弱。",
+      "url": "https://sea.weathernews.com/resources/202609/216"
     },
     {
       "rank": 6,
-      "title": "又有新颱風？97W恐升格「杜鵑」　專家曝最快這時生成",
-      "dek": "民視新聞網報導，氣象評論員賈新興指出熱帶擾動97W最快9月5、6日可能發展為颱風杜鵑，惟截至目前尚無報導證實已正式生成。",
-      "url": "https://www.ftvnews.com.tw/news/detail/2026905W0146"
+      "title": "中央氣象署解除沙德爾海上颱風警報",
+      "dek": "台北時報報導，中央氣象署8月28日解除針對第一輪沙德爾颱風的海上警報，該颱風當時已遠離台灣海域，但南部民眾仍被提醒留意強降雨與強浪。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863298"
     },
     {
       "rank": 7,
-      "title": "杜鵑颱風最快明生成　恐與科羅旺共舞？賈新興曝日本風雨搖滾區",
-      "dek": "聯合新聞網報導，97W是否演變為杜鵑仍待觀察，並不排除與颱風科羅旺產生交互作用，影響範圍恐偏向日本沖繩、九州。",
-      "url": "https://udn.com/news/story/7266/9734241"
+      "title": "沙德爾重新增強為熱帶風暴，屏東遭外圍雨帶強降雨侵襲",
+      "dek": "Focus Taiwan報導，沙德爾9月1日在南海重新增強為熱帶風暴，氣象單位評估台灣再發布海上警報的可能性不高，但屏東縣仍因其外圍環流出現顯著降雨。",
+      "url": "https://focustaiwan.tw/society/202609010017"
     },
     {
       "rank": 8,
-      "title": "Dying typhoon finds new life",
-      "dek": "台北時報報導，颱風紹德在減弱後一度「復活」，並與新生成的颱風科羅旺形成雙颱互旋的罕見天氣現象。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
+      "title": "颱風班朗生成，三颱共存但均未威脅台灣天氣",
+      "dek": "壹蘋新聞網報導，日本氣象廳8月28日將威克島附近熱帶低壓升格為今年第23號颱風班朗，其路徑朝東北遠洋前進，距台灣遙遠，無直接威脅。",
+      "url": "https://news.nextapple.com/life/20260828/87AF3111CFDC7B34A1537F234DC9F316"
     },
     {
       "rank": 9,
-      "title": "All signals cancelled as tropical depression Saudel weakens over Guangdong",
-      "dek": "香港點心日報報導，颱風紹德已在中國廣東地區完全減弱消散，當地相關警報信號已全數解除。",
-      "url": "https://www.dimsumdaily.hk/all-signals-cancelled-as-tropical-depression-saudel-weakens-over-guangdong/"
+      "title": "夏威夷面臨罕見「三颶風」局面，洛威爾、卡莉娜、瑪麗同現太平洋",
+      "dek": "Maui Now報導，颶風洛威爾以115英里時速風力逼近夏威夷，帶來致命海浪與洪水風險，熱帶風暴卡莉娜位於夏威夷東北方，颶風瑪麗則在墨西哥太平洋岸外活動。",
+      "url": "https://mauinow.com/2026/09/04/lowell-karina-marie-hawai%CA%BBi-stays-alert-with-three-hurricanes-in-the-pacific/"
     },
     {
       "rank": 10,
-      "title": "Atlantic hurricane season's least active start in 60 years",
-      "dek": "Weather.com報導，2026年大西洋颶風季受聖嬰現象抑制，開局為近60年來最平靜，目前僅五個命名風暴、尚無颶風生成。",
-      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
+      "title": "2026年太平洋颱風季總覽：預測全年生成24至26個颱風，強度偏強",
+      "dek": "颱風部屋網站彙整資料指出，2026年西北太平洋颱風季預計生成24至26個颱風，數量與強度均較常年偏多偏強，年度最強颱風為第4號颱風森拉克，峰值風速達每秒70公尺。",
+      "url": "https://tyroom.tw/2026ty/"
     }
   ]
 }
