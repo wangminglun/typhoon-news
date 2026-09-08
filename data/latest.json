@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T22:13:00+08:00",
+  "generated_at": "2026-09-08T23:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；上一波海上警報（颱風沙德爾）已於9月初解除並消散。",
+  "alert_desc": "綜合多方報導研判，中央氣象署目前並未對台灣發布任何海上或陸上颱風警報，近期亦無颱風系統對台灣構成直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風系統直接影響台中；9月8日風向以偏北風為主、天氣穩定，9日起將轉受東北季風影響，早晚氣溫轉涼。"
+    "text": "目前無颱風系統直接影響台中；9月8日天氣穩定，多雲到晴、風力微弱，9日起將轉受今年首波東北季風影響，早晚氣溫轉涼，屬例行季節轉換而非颱風效應。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颶風羅威爾重創夏威夷考艾島　台灣目前無颱風威脅",
-    "dek": "曾兩度增強至五級強度的颶風羅威爾週一深夜掠過夏威夷考艾島，造成大規模停電與危險巨浪；反觀西太平洋，颱風克羅旺與沙德爾均已遠離或消散，台灣本島目前未受任何熱帶氣旋直接威脅。",
+    "title": "颶風羅威爾重創夏威夷考艾島　太平洋三颶風罕見同框，台灣目前未列颱風警戒",
+    "dek": "二級颶風羅威爾夜襲考艾島與尼豪島，與卡琳娜、瑪麗同時盤據太平洋形成罕見「三颶風」局面，而西太平洋風暴皆未對台灣構成威脅，全台僅將迎來今年首波東北季風。",
     "url": "https://www.cbsnews.com/news/hurricane-lowell-hawaii-heavy-rain-strong-winds-waves/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風羅威爾掠夏威夷考艾島　強風豪雨釀大規模停電",
-      "dek": "這場二級颶風為考艾郡帶來30英尺巨浪與洪水土石流風險，近九成用戶一度斷電。",
+      "title": "颶風羅威爾襲考艾島　夏威夷離島陷入停電與土石流風險",
+      "dek": "二級颶風羅威爾夜間掠過考艾島與尼豪島外海，強風豪雨與九公尺巨浪迫使當地居民徹夜避難。",
       "url": "https://www.cbsnews.com/news/hurricane-lowell-hawaii-heavy-rain-strong-winds-waves/"
     },
     {
       "rank": 2,
-      "title": "羅威爾曾兩度增強至五級　為近八年來中太平洋首見",
-      "dek": "氣象學者指出，羅威爾風速一度在30小時內從時速70英里暴增至160英里，寫下罕見紀錄。",
-      "url": "https://weather.com/2026/09/07/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
+      "title": "太平洋罕見同框　三颶風齊聚成災難天氣紀錄",
+      "dek": "羅威爾、卡琳娜與瑪麗同時在太平洋盤旋，是有紀錄以來第二次出現三颶風並存的現象，夏威夷一度進入戒備。",
+      "url": "https://earthsky.org/todays-image/hurricane-triplets-pacific-ocean-lowell-karina-marie/"
     },
     {
       "rank": 3,
-      "title": "克羅旺外圍環流影響　北台灣周末迎降雨",
-      "dek": "中央氣象署表示颱風克羅旺不會直接侵台，僅外圍雨帶為大台北、基隆北海岸帶來降雨。",
-      "url": "https://focustaiwan.tw/society/202609050003"
+      "title": "颶風卡琳娜持續減弱　預料數日內轉為溫帶氣旋",
+      "dek": "位於夏威夷大島以東海面的卡琳娜已降為一級颶風，且對陸地不構成直接威脅。",
+      "url": "https://www.accuweather.com/en/hurricane/east-pacific/karina-2026"
     },
     {
       "rank": 4,
-      "title": "颱風克羅旺路徑飄忽　轉向日本南方海域減弱",
-      "dek": "克羅旺在琉球群島附近徘徊後北上，預測將迅速減弱為熱帶低氣壓並消散，不威脅台灣。",
-      "url": "https://sea.weathernews.com/resources/202609/220"
+      "title": "颶風瑪麗轉向遠離下加利福尼亞半島",
+      "dek": "二級颶風瑪麗持續向西北移動遠離陸地，先前外界對其北上侵襲加州的擔憂已明顯緩解。",
+      "url": "https://www.accuweather.com/en/hurricane/east-pacific/marie-2026"
     },
     {
       "rank": 5,
-      "title": "中國東南沿海嚴防克羅旺外圍效應　漁船緊急回港",
-      "dek": "浙江、福建等省份啟動防颱應變機制，因應颱風克羅旺周邊風雨可能帶來的影響。",
-      "url": "https://news.sina.com.cn/zx/gj/2026-09-05/doc-iniqtsqa5469134.shtml"
+      "title": "颱風科羅旺在日本南方打轉減弱　對台灣無直接影響",
+      "dek": "科羅旺在日本南西諸島附近徘徊後持續減弱，多方報導確認其路徑不會波及台灣。",
+      "url": "https://sea.weathernews.com/resources/202609/226"
     },
     {
       "rank": 6,
-      "title": "颱風沙德爾持續減弱　氣象署預告解除海上警報",
-      "dek": "沙德爾逼近廣東、福建沿海後強度銳減，氣象署同時提醒嘉義以南上午須防大雨。",
-      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%8C%81%E7%BA%8C%E6%B8%9B%E5%BC%B1-%E9%A0%90%E8%A8%88%E4%BB%8A%E8%A7%A3%E9%99%A4%E6%B5%B7%E8%AD%A6-%E5%98%89%E7%BE%A9%E4%BB%A5%E5%8D%97%E4%B8%8A%E5%8D%88%E5%9A%B4%E9%98%B2%E5%A4%A7%E9%9B%A8-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BC%B7%E5%BA%A6%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-002630029.html"
+      "title": "颱風沙德爾罕見「復活」三度登陸中國　現已消散",
+      "dek": "一度失去編號的沙德爾在南海重新增強並於福建漳浦第三度登陸，為溫州、寧德帶來破紀錄豪雨後已減弱消散。",
+      "url": "https://www.news.cn/politics/20260903/2744fe750ad04d06a4834193e8e038a2/c.html"
     },
     {
       "rank": 7,
-      "title": "沙德爾減弱消散　香港天文台解除所有熱帶氣旋警告信號",
-      "dek": "沙德爾在廣東上空減弱為低壓區，香港天文台於9月3日全面撤銷相關警告信號。",
-      "url": "https://www.singtaousa.com/2026/09/03/news/china/tropical-cyclone-saddel-warnings-cancelled/"
+      "title": "南海醞釀跡象受關注　尚無新風暴獲得正式確認",
+      "dek": "香港天文台等區域預報單位持續監測南海可能的新系統發展，但截至目前仍未有任何新風暴獲正式命名或編號。",
+      "url": "https://www.hko.gov.hk/tc/informtc/sound/tcname2026e.html"
     },
     {
       "rank": 8,
-      "title": "南海新熱帶低氣壓生成　華南嚴防未來強降雨",
-      "dek": "中國國家氣象中心表示，新生熱帶低氣壓恐於24小時內增強為熱帶風暴，但預料不影響台灣。",
-      "url": "https://www.weather.com.cn/index/lssj/09/372498.shtml"
-    },
-    {
-      "rank": 9,
-      "title": "大西洋颶風季開局罕見沉寂　逾一甲子最慢紀錄在望",
-      "dek": "截至9月初，大西洋今年僅出現五個熱帶風暴、尚無颶風生成，創六十年來最慢開局之一。",
+      "title": "大西洋今年至今無颶風　恐追平衛星時代最晚紀錄",
+      "dek": "若九月十一日前仍未形成颶風，大西洋本季將追平二〇〇二年與二〇一三年「最晚首颶風」的歷史紀錄。",
       "url": "https://www.yahoo.com/news/weather-news/articles/2026-atlantic-hurricane-season-nears-104328217.html"
     },
     {
+      "rank": 9,
+      "title": "台灣今年首波東北季風九日至十一日報到　與颱風無關",
+      "dek": "北部氣溫將下探攝氏廿二、廿三度，北部與東部降雨機率增加，屬例行季節轉換而非颱風效應。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5566451"
+    },
+    {
       "rank": 10,
-      "title": "氣象專家解析沙德爾、克羅旺路徑異常飄忽成因",
-      "dek": "Weathernews技術簡報指出，季風槽與弱導引氣流是兩颱風路徑複雜多變的主因。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20260902-01/"
+      "title": "2026西北太平洋颱風季展望：後半季恐現強烈長壽颱風",
+      "dek": "季節預報機構評估本年度颱風季整體能量約為常年一點四倍，儘管九月侵襲日本的頻率預估低於平均。",
+      "url": "https://stormgeo.com/insights/pacific-typhoon-season-forecast-2026"
     }
   ]
 }
