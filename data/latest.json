@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T06:13:00+08:00",
+  "generated_at": "2026-09-09T07:11:00+08:00",
   "alert_level": "none",
   "alert_text": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。",
   "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，今日天氣晴到多雲，氣溫約攝氏18至33度，僅山區午後可能出現零星降雨，未達停班停課標準。"
+    "text": "目前無颱風直接影響台中。近期最接近台灣的系統（颱風克羅旺）已北移遠離、逼近日本本州，中央氣象署目前未對台灣發布海上或陸上颱風警報，台中地區無因颱風而生的停班停課措施或顯著風雨威脅。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颶風羅威爾重創夏威夷　台灣周邊今無颱風威脅",
-    "dek": "中央氣象署未發布任何海上或陸上颱風警報，太平洋另一頭的颶風羅威爾則以破紀錄豪雨與史上首次龍捲風警戒襲擊考艾島。",
-    "url": "https://www.washingtonpost.com/weather/2026/09/08/hurricane-lowell-sideswipes-hawaii-drenching-niihau-kauai/"
+    "title": "颱風暫離台灣　太平洋東側「三颶風」罕見齊發，蘿薇爾重創夏威夷",
+    "dek": "中央氣象署未對台灣發布任何海上或陸上颱風警報，然而太平洋另一端風雨交加：颶風蘿薇爾（Lowell）為夏威夷考艾島帶來致命豪雨與強風，形成本季東太平洋罕見的三颶風並發格局。",
+    "url": "https://weather.com/2026/09/07/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風羅威爾掠過夏威夷　尼豪島、考艾島豪雨成災",
-      "dek": "羅威爾風眼週二上午自尼豪島與考艾島西側通過，帶來豪雨強風，考艾島出現歷史性淹水後風勢才逐漸減弱遠離。",
-      "url": "https://www.washingtonpost.com/weather/2026/09/08/hurricane-lowell-sideswipes-hawaii-drenching-niihau-kauai/"
+      "title": "颶風蘿薇爾掠過考艾島　夏威夷面臨致命豪雨與強風威脅",
+      "dek": "weather.com報導，蘿薇爾雖已從二級颶風減弱，仍為考艾郡與尼豪島帶來暴潮、大浪與危及生命的洪水風險。",
+      "url": "https://weather.com/2026/09/07/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
     },
     {
       "rank": 2,
-      "title": "考艾島雨量近18英寸　逾九成用戶停電",
-      "dek": "Weather.com報導，羅威爾帶來的強風陣風一度超過每小時90英里，並預測考艾島浪高可達30英尺。",
-      "url": "https://weather.com/2026/09/08/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
+      "title": "颱風克羅旺在日本南西諸島外海打轉　強降雨恐波及本州",
+      "dek": "日本氣象新聞網指出，克羅旺雖將於一天內減弱消散，滯留鋒面卻持續牽引水氣北上，為日本帶來劇烈雨勢；該系統早先通過台灣鄰近海域時並未觸發警報。",
+      "url": "https://sea.weathernews.com/resources/202609/226"
     },
     {
       "rank": 3,
-      "title": "檀香山氣象局史上首發龍捲風警戒　因應颶風羅威爾",
-      "dek": "該辦公室自1940年代成立以來首次針對考艾島發布龍捲風警戒，寫下夏威夷氣象史新頁。",
-      "url": "https://phys.org/news/2026-09-kauai-tornado-hurricane-lowell-nears.html"
+      "title": "熱帶風暴瑪莉外海減弱　美國國家颶風中心發布最後警報",
+      "dek": "瑪莉持續遠離墨西哥太平洋岸，風速降至每小時50英里，對陸地不構成威脅。",
+      "url": "https://www.wunderground.com/hurricane/eastern-pacific/2026/tropical-storm-marie"
     },
     {
       "rank": 4,
-      "title": "夏威夷州長宣布進入緊急狀態　羅威爾曾達五級颶風強度",
-      "dek": "ABC News報導，羅威爾9月2日巔峰時中心氣壓低至922百帕，為本季最強颶風之一。",
-      "url": "https://abcnews.com/US/hurricane-lowell-slams-hawaii-life-threatening-rain-prompts/story?id=136270131"
+      "title": "一度達四級的颶風卡琳娜　在中太平洋逐漸消散為溫帶低壓",
+      "dek": "美國國家颶風中心資料顯示，卡琳娜巔峰風速曾達每小時130英里，如今於希洛外海冷水域減弱，未影響任何陸地。",
+      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/232037.shtml"
     },
     {
       "rank": 5,
-      "title": "羅威爾減弱北移　夏威夷颶風警報全數解除",
-      "dek": "KHON2報導，羅威爾降為一級颶風並持續北移，但當局警告閃洪與高浪風險將持續至傍晚。",
-      "url": "https://www.khon2.com/tracking-lowell/hurricane-lowell-warnings-discontinued/"
+      "title": "大西洋颶風季持續沉寂　恐追平史上最晚首颶風紀錄",
+      "dek": "《新聞週刊》引述美國國家颶風中心資料，今年大西洋僅生成五個編號風暴、無一達颶風強度，若9月11日前仍無變化將追平2002與2013年紀錄。",
+      "url": "https://www.newsweek.com/atlantic-hurricane-season-nears-record-as-el-nino-keeps-storms-at-bay-12416416"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴瑪麗減弱為溫帶氣旋",
-      "dek": "美國國家颶風中心表示，瑪麗9月8日已轉為溫帶氣旋，但下加利福尼亞與南加州沿岸仍有危險裂流。",
-      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/080233.shtml"
+      "title": "中央氣象署：台灣目前無任何颱風警報生效",
+      "dek": "官方資料顯示，隨著颱風克羅旺北移遠離並逼近日本，台灣海上與陸上颱風警報均未發布。",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
     },
     {
       "rank": 7,
-      "title": "前四級颶風卡琳娜減弱　中太平洋將轉為溫帶低壓",
-      "dek": "美國國家颶風中心指出，卡琳娜風速已降至每小時50英里，預料轉為溫帶低壓，不致威脅陸地。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP5+html/061447.shtml"
+      "title": "一度為颱風的梭德爾殘餘系統　在中國沿岸外海再度增強",
+      "dek": "《台北時報》報導，梭德爾殘餘熱帶低壓於海南島東北方重新增強為熱帶風暴，中央氣象署評估台灣發布海上警報機率偏低，惟強調將持續觀察。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 8,
-      "title": "颱風沙德爾南海異常再生　一度飄向台灣海峽",
-      "dek": "Weathernews報導，沙德爾穿越中國大陸後再生為熱帶風暴，日本氣象廳預估其將於9月5日前後減弱為熱帶低壓。",
-      "url": "https://sea.weathernews.com/resources/202609/216"
+      "title": "熱帶風暴榜勒在太平洋開闊海域完成「副熱帶轉性」",
+      "dek": "全球災害預警系統（GDACS）資料顯示，榜勒遠離陸地、於威克島以北約1,558公里處達到巔峰強度後逐漸轉性，未對任何陸地造成影響。",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1001311&episodeid=6&eventtype=TC"
     },
     {
       "rank": 9,
-      "title": "沙德爾恐再起　氣象署估計對台灣影響低",
-      "dek": "《台北時報》報導，氣象署評估沙德爾即使重新增強逼近台灣海峽，發布海上警報機率仍低，路徑偏向廣東。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490"
+      "title": "熱帶風暴艾陶遠海生成又消散　全程未曾威脅陸地",
+      "dek": "維基百科資料顯示，艾陶8月底於東京東南方約3,200公里處生成，強度始終偏弱，如今已完全消散。",
+      "url": "https://en.wikipedia.org/wiki/List_of_storms_named_Etau"
     },
     {
       "rank": 10,
-      "title": "颱風桂那利生成於琉球宮古島　最終轉向登陸福建",
-      "dek": "桂那利初期一度被認為可能朝台灣移動，最終於8月24日在中國福建登陸，兩天後在廣東消散，未直接影響台灣。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/typhoon-gaenari-forms-near-japans-miyako-island-saudel-could-hit-okinawa-on-wednesday"
+      "title": "墨西哥太平洋岸外醞釀新熱帶低壓　東太平洋活躍態勢恐延續",
+      "dek": "福斯天氣援引美國國家颶風中心報導，一片廣泛低壓區48小時內有四成機率發展成形，可能延續蘿薇爾、瑪莉、卡琳娜接連生成的活躍紀錄。",
+      "url": "https://www.foxweather.com/weather-news/tropics-awaken-first-area-watch-tropical-development-eastern-pacific"
     }
   ]
 }
