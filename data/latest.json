@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T02:11:00+08:00",
+  "generated_at": "2026-09-09T03:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島或外島發布海上或陸上颱風警報，最近一次與颱風相關的示警為8月下旬的桑達颱風，此後未再發布新警報。",
+  "alert_desc": "中央氣象署目前未對台灣本島或外島發布海上或陸上颱風警報。颱風柯羅旺已於9月7日減弱為熱帶低氣壓，正在日本南方海面持續消散中。",
   "region_watch": {
     "region": "台中",
     "text": "目前無颱風系統直接影響台中，市內今日並無風雨警報或停班停課措施。"
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颶風羅威爾重創夏威夷考艾島　太平洋多颱風齊發、台灣暫未受影響",
-    "dek": "颶風羅威爾以二級強度掃過夏威夷考艾島，造成大規模停電與豪雨成災，同一時間西太平洋與南海週邊多個熱帶氣旋接連肆虐，但中央氣象署目前並未對台灣發布任何海上或陸上颱風警報。",
-    "url": "https://weather.com/2026/09/08/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
+    "title": "颶風羅威爾襲夏威夷考艾島　創1992年伊尼基以來最強侵襲紀錄",
+    "dek": "二級颶風羅威爾以逼近路徑掠過考艾郡，全郡多數地區停電，官員警告致命大浪與洪水風險將持續至週中；同時台灣則暫別熱帶氣旋威脅，柯羅旺已減弱消散，北台灣天氣回穩。",
+    "url": "https://www.cnn.com/2026/09/06/weather/hurricane-lowell-turns-toward-hawaii-climate"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風羅威爾重創夏威夷　帶來豪雨強風",
-      "dek": "二級颶風羅威爾掠過考艾島與尼豪島，導致考艾郡近九成用戶停電，山區降雨逼近18英吋。",
-      "url": "https://weather.com/2026/09/08/storms/hurricane/hurricane-lowell-forecast-hawaii-kauai"
-    },
-    {
-      "rank": 2,
-      "title": "颶風羅威爾侵襲夏威夷　考艾島大規模停電",
-      "dek": "CNN報導羅威爾轉向逼近考艾島，觸發夏威夷州史上首次龍捲風觀察警戒，並帶來危險暴潮與巨浪。",
+      "title": "颶風羅威爾襲夏威夷　考艾郡大部分地區停電",
+      "dek": "CNN報導指出，羅威爾以二級颶風強度掠過考艾郡外海，成為自1992年伊尼基以來侵襲夏威夷主要島嶼最強的颶風。",
       "url": "https://www.cnn.com/2026/09/06/weather/hurricane-lowell-turns-toward-hawaii-climate"
     },
     {
+      "rank": 2,
+      "title": "羅威爾逼近夏威夷西側島嶼　掀起30英尺巨浪",
+      "dek": "NBC新聞報導，考艾郡已發布颶風警報，官員警告致命大浪與洪水風險。",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-forecast-hawaii-warnings-rcna596485"
+    },
+    {
       "rank": 3,
-      "title": "美國國家颶風中心：羅威爾公告",
-      "dek": "NHC最新公告指出羅威爾中心風速每小時90英里，預期36小時內減弱為熱帶風暴並遠離夏威夷。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP4+html/312038.shtml"
+      "title": "颶風羅威爾威脅夏威夷群島　致命大浪來襲",
+      "dek": "NBC新聞報導羅威爾逼近考艾島前，對夏威夷外島構成的大浪與海岸災害威脅。",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294"
     },
     {
       "rank": 4,
-      "title": "颱風柯羅旺威脅日本屋久島　當局發布最高等級土砂警戒",
-      "dek": "柯羅旺在琉球群島附近路徑異常打轉，促使日本對屋久島發布第五級土砂災害警戒。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/06/japan-issues-highest-landslide-warning-for-yakushima-island-southwestern-japan-due-to-typhoon-krovanh"
+      "title": "羅威爾持續北移　週一傍晚完成最近距離掠過",
+      "dek": "夏威夷當地媒體Hawaii News Now報導證實，羅威爾已於週一晚間通過其最接近群島西側的路徑點。",
+      "url": "https://www.hawaiinewsnow.com/video/2026/09/07/september-6-2026-lowell-continues-track-north-closest-approach-just-west-monday-pm/"
     },
     {
       "rank": 5,
-      "title": "鹿兒島縣一度發布最高等級土砂災害警戒",
-      "dek": "《日本時報》報導，柯羅旺外圍雨帶為屋久島町帶來豪雨，當局短暫發布最高層級警戒。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
+      "title": "美國國家颶風中心：羅威爾風速達每小時90英里　警報持續",
+      "dek": "NHC最新公告指出，羅威爾距利胡埃西北方約145英里，考艾郡颶風警報維持有效，閃洪與大浪威脅將持續至週中。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP4+html/312038.shtml"
     },
     {
       "rank": 6,
-      "title": "颱風桑達外圍雨帶釀中國土石流　死亡人數增至3人",
-      "dek": "《華盛頓郵報》報導，江西遂川縣土石流造成3死9失蹤，逾5300人撤離，湖南另有2人罹難。",
-      "url": "https://www.washingtonpost.com/world/2026/09/06/china-mudslide-jiang-xi-deaths-saudel-typhoon/22da7192-a9bc-11f1-9e38-f705d048bd5a_story.html"
+      "title": "中央氣象署：柯羅旺外圍環流將為北台灣帶來降雨",
+      "dek": "中央社報導，氣象署指出颱風柯羅旺雖未直接登陸，但外圍雨帶預計為大台北與基隆地區帶來降雨。",
+      "url": "https://focustaiwan.tw/society/202609050003"
     },
     {
       "rank": 7,
-      "title": "中國土石流死亡人數增至3人　9人仍失蹤",
-      "dek": "《台北時報》引述美聯社報導，江西遂川縣土石流損毀十餘棟房屋，湖南同波雨勢再添2死。",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/09/07/2003863829"
+      "title": "減弱中的熱帶系統意外重新增強",
+      "dek": "《台北時報》報導，原本預期消散的熱帶系統在西北太平洋重新組織增強，促使氣象署持續密切監測。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 8,
-      "title": "颱風桑達橫越中國後意外增強　氣象專家大感意外",
-      "dek": "桑達在海南減弱為熱帶低壓後又於中國沿海重新增強為熱帶風暴，稍早曾掠近台灣馬祖引發短暫警戒。",
-      "url": "https://www.visiontimes.com/2026/09/03/typhoon-saudel-re-forms-after-crossing-china-stunning-veteran-meteorologist.html"
+      "title": "氣象署對北部、南部台灣發布豪雨特報",
+      "dek": "《台北時報》報導，因應柯羅旺最接近台灣期間的降雨風險，氣象署針對北部與南部部分地區發布豪大雨特報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863626"
     },
     {
       "rank": 9,
-      "title": "颱風娜拉為中國、越南帶來強降雨與水患",
-      "dek": "半島電視台報導，娜拉滯留北部灣期間重創越南北部與中國廣西，兩地合計數萬人受影響。",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam"
+      "title": "兩個熱帶風暴生成　南台灣提防豪雨",
+      "dek": "《台北時報》報導，西太平洋與南海同時有兩個熱帶風暴形成，氣象署示警南台灣局部地區豪雨，但兩者均未預期直接侵台。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863500"
     },
     {
       "rank": 10,
-      "title": "台灣今日天氣多雲到晴　僅零星短暫陣雨",
-      "dek": "《台北時報》報導，中央氣象署預報今日台灣以多雲到晴為主，並無颱風影響跡象。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/08/2003863896"
+      "title": "2026年大西洋颶風季逼近「最晚首颶風」紀錄",
+      "dek": "Newsweek報導，大西洋海域今年異常平靜，至今尚未形成颶風，有望創下衛星觀測時代以來最晚紀錄。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/2026-atlantic-hurricane-season-nears-104328217.html"
     }
   ]
 }
