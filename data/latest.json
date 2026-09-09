@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T13:12:00+08:00",
+  "generated_at": "2026-09-09T14:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "台灣本島海上及陸上目前均未發布颱風警報。中央氣象署9日僅針對雙北、桃園、宜蘭發布大雷雨即時訊息，係西南氣流與低壓槽共伴效應所致，並非颱風系統；熱帶風暴卡努已在日本外海減弱停滯，對台灣無直接威脅。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，颱風沙德爾與科羅旺均已減弱遠離台灣，PAGASA亦確認周邊海域無低壓區受到監測。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風海上或陸上警報對台中構成影響；中央氣象署9/9僅針對北台灣及部分山區發布大雷雨即時訊息，提醒慎防局部大雨、雷擊與溪水暴漲，未達台中停班停課標準，目前無直接颱風影響。"
+    "text": "目前無颱風直接影響台中，未達停班停課標準，上班上課正常；近期天氣主要受9月9日報到的入秋首波東北季風影響，以北部、東部降雨及氣溫小降1至3度為主，台中受影響輕微。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "無颱風直接威脅台灣 北部強降雨示警、日本仍受卡努餘威重創",
-    "dek": "中央氣象署9日僅對北台灣發布大雷雨即時訊息，未發布颱風警報；西太平洋熱帶風暴卡努在日本引發致命豪雨，太平洋各地熱帶氣旋活動仍相當活躍。",
-    "url": "https://www.nownews.com/news/6867549"
+    "title": "颱風靜默期 台灣入秋首波東北季風報到",
+    "dek": "中央氣象署未發布任何颱風警報，太平洋另一端的露威爾颶風重創夏威夷考艾島，而台灣則迎來今年首波東北季風。",
+    "url": "https://www.staradvertiser.com/2026/09/08/breaking-news/hurricane-lowell-weakens-as-it-heads-north-of-kauai/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "大雷雨示警發布 雙北、桃園、宜蘭慎防午後強降雨與雷擊",
-      "dek": "中央氣象署指出，西南氣流與低壓槽共伴效應恐引發局部豪雨與強陣風，籲請民眾遠離山區與溪流。",
-      "url": "https://www.nownews.com/news/6867549"
-    },
-    {
-      "rank": 2,
-      "title": "氣象署：卡努外圍環流將為北台灣帶來降雨",
-      "dek": "中央氣象署表示，熱帶風暴卡努雖不會直接侵襲台灣，但其外圍雨帶仍將影響北部天氣型態。",
-      "url": "https://focustaiwan.tw/society/202609050003"
-    },
-    {
-      "rank": 3,
-      "title": "颱風沙德爾南海迴旋「復活」 海上警報機率偏低",
-      "dek": "氣象專家指出，沙德爾雖罕見重新增強，但發布台灣海上警報的可能性不高，中南部及台東仍需防豪雨。",
-      "url": "https://udn.com/news/story/7266/9725178"
-    },
-    {
-      "rank": 4,
-      "title": "氣象署回顧：今年颱風季破紀錄活躍 夏季雨量明顯偏多",
-      "dek": "中央氣象署指出，巴威、璨樹、白海豚與貝碧佳等颱風接連生成，使今年夏季降雨量創下與歷史相當的高紀錄。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863565"
-    },
-    {
-      "rank": 5,
-      "title": "破紀錄豪雨襲日本 東京近郊一人罹難、伊豆群島發布最高土石流警戒",
-      "dek": "日本氣象廳資料顯示，新島24小時降雨量創下歷史新高，當局已對三處社區發布第五級土石流緊急警戒。",
-      "url": "https://www.techtimes.com/articles/326853/20260907/record-rain-kills-one-near-tokyo-triggers-level-5-landslide-alerts-three-izu-islands.htm"
-    },
-    {
-      "rank": 6,
-      "title": "強降雨襲擊東京及周邊地區 新幹線班次受擾",
-      "dek": "卡努水氣與滯留鋒面共伴效應為關東地區帶來單小時破百毫米豪雨，多處發布撤離與土石流警報。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/07/japan/rain-kanto-tokyo-floods/"
-    },
-    {
-      "rank": 7,
-      "title": "PAGASA：季風豪雨持續 呂宋恐再形成新低壓區",
-      "dek": "菲律賓氣象機構表示，卡努殘留槽線持續增強西南季風，本週菲律賓責任區內可能再有低壓區生成。",
-      "url": "https://mb.com.ph/2026/09/09/pagasa-says-another-lpa-could-form-as-habagat-rains-persist"
-    },
-    {
-      "rank": 8,
-      "title": "颶風洛威爾北移遠離 考艾島、歐胡島颶風警報全數解除",
-      "dek": "洛威爾曾一度達五級強度並重創夏威夷兩島，如今北移減弱，當地颶風與熱帶風暴警報已全部取消。",
+      "title": "露威爾颶風減弱北移 考艾島警報解除",
+      "dek": "曾兩度達五級強度的露威爾颶風掠過考艾島後持續減弱北移，當地警報已全數解除。",
       "url": "https://www.staradvertiser.com/2026/09/08/breaking-news/hurricane-lowell-weakens-as-it-heads-north-of-kauai/"
     },
     {
+      "rank": 2,
+      "title": "考艾郡確認無風災死亡個案",
+      "dek": "露威爾颶風重創考艾郡電力設施，逾九成用戶斷電，但當局表示暫無死亡報告。",
+      "url": "https://kauainownews.com/2026/09/08/no-storm-related-deaths-reported-following-impacts-of-hurricane-lowell-in-kauai-county/"
+    },
+    {
+      "rank": 3,
+      "title": "科羅旺盤旋沖繩 九州四國豪雨示警",
+      "dek": "第24號颱風科羅旺在沖繩外海徘徊後轉向九州，結合秋雨鋒面釀成強降雨，數百航班取消。",
+      "url": "https://udn.com/news/story/7266/9731121"
+    },
+    {
+      "rank": 4,
+      "title": "沙德爾罕見回馬槍路徑 台灣海上警報解除",
+      "dek": "颱風沙德爾兩度登陸中國東南沿海，氣象署評估其對台灣風力機率降至零後解除海上警報。",
+      "url": "https://news.tvbs.com.tw/life/4011700"
+    },
+    {
+      "rank": 5,
+      "title": "白海豚颱風掠過沖繩 台灣外島一度提高警戒",
+      "dek": "今年第13號颱風白海豚巔峰時逼近沖繩造成災損，金門、馬祖一度面臨較高暴風機率後隨即遠離。",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3022126"
+    },
+    {
+      "rank": 6,
+      "title": "大西洋颶風季開局創六十年最冷清紀錄",
+      "dek": "受厄爾尼諾影響，今年大西洋至今僅5個命名風暴、零颶風生成，為衛星觀測時代最緩慢開局之一。",
+      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
+    },
+    {
+      "rank": 7,
+      "title": "太平洋颶風季進入高峰 強風暴接連快速增強",
+      "dek": "厄爾尼諾助長下，東北與中太平洋今年颶風活動遠高於平均，累積氣旋能量增加約五成。",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-09-04/pacific-hurricane-hits-peak-activity-as-major-storms-rapidly-intensify"
+    },
+    {
+      "rank": 8,
+      "title": "NHC：大西洋未來一週不見熱帶氣旋生成",
+      "dek": "美國國家颶風中心最新展望指出，儘管有零星對流活動，大西洋一週內仍無風暴發展跡象。",
+      "url": "https://www.nhc.noaa.gov/gtwo.php"
+    },
+    {
       "rank": 9,
-      "title": "洛威爾減弱為一級颶風 夏威夷警報解除但淹水警戒持續",
-      "dek": "洛威爾風速降至每小時80英里，夏威夷警報雖已解除，但當局提醒考艾島仍可能迎來額外強降雨。",
-      "url": "https://www.khon2.com/tracking-lowell/hurricane-lowell-warnings-discontinued/"
+      "title": "PAGASA：無低壓區受監測 西南季風仍活躍",
+      "dek": "菲律賓氣象機構表示，科羅旺離境後責任海域內暫無低壓區，惟西南季風持續為部分地區帶來降雨。",
+      "url": "https://www.pagasa.dost.gov.ph/tropical-cyclone-advisory-iframe"
     },
     {
       "rank": 10,
-      "title": "2026大西洋颶風季逼近史上最晚首颶風紀錄",
-      "dek": "氣象學家指出，聖嬰現象增強帶來的強烈風切與乾燥空氣，可能是今年大西洋遲遲未出現颶風的主因。",
-      "url": "https://www.foxweather.com/weather-news/atlantic-hurricane-season-late-first-hurricane-super-el-nino-2026"
+      "title": "台灣入秋首波東北季風9日報到",
+      "dek": "在無颱風威脅之下，台灣本週天氣焦點轉為首波東北季風，北部、東部將有降雨與降溫。",
+      "url": "https://newtalk.tw/news/view/2026-09-05/1058017"
     }
   ]
 }
