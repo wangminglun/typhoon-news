@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T04:09:00+08:00",
+  "generated_at": "2026-09-13T05:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前未對台灣發布海上或陸上颱風警報，前一波「沙德爾」與「克羅旺」颱風均已消散，關島以東熱帶擾動仍在觀察組織中。",
+  "alert_desc": "中央氣象署目前尚未針對台灣發布海上或陸上颱風警報，關島附近熱帶擾動仍處於成形前階段，動向言之過早。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接受颱風系統影響的跡象，也未有停班停課消息，當地天氣未受任何熱帶系統左右。"
+    "text": "台中目前未受任何熱帶系統直接影響，也無停班停課措施，僅隨東北季風增強，北部與東部降雨機率較高，對台中影響相對輕微。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "台灣暫無颱風警報 關島熱帶擾動恐成「杜鵑」牽動未來路徑",
-    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但關島以東熱帶擾動與南海系統正受到氣象單位密切觀察。",
+    "title": "關島東側擾動醞釀成颱「杜鵑」　台灣暫無警戒但路徑未定",
+    "dek": "中央氣象署尚未發布海陸颱風警報，反倒是週一報到的增強東北季風，才是本週對台灣更直接、更確定的天氣變數。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "關島熱帶擾動成形在即 「杜鵑」最快9月14日誕生",
-      "dek": "據ETtoday新聞雲報導，關島以東熱帶擾動可能於9月14日至16日間發展成颱風杜鵑，初步路徑預測偏向沖繩、日本而非台灣。",
-      "url": "https://www.ettoday.net/news/20260912/3236000.htm"
+      "title": "杜鵑颱風最快下週生成　專家曝路徑仍有變數",
+      "dek": "據中央社報導，關島以東熱帶擾動預計9月14至16日增強為今年第22號颱風「杜鵑」，對台灣直接影響研判較低但不排除。",
+      "url": "https://tw.news.yahoo.com/%E6%96%B0%E9%A2%B1%E9%A2%A8-%E6%9D%9C%E9%B5%91-%E6%9C%80%E5%BF%AB%E4%B8%8B%E9%80%B1%E7%94%9F%E6%88%90-%E5%B0%88%E5%AE%B6%E6%9B%9D%E9%A0%90%E4%BC%B0%E8%B7%AF%E5%BE%91-%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%BD%B1%E9%9F%BF-045236171.html"
     },
     {
       "rank": 2,
-      "title": "熱帶系統即時追蹤：關島擾動是否威脅台灣仍待觀察",
-      "dek": "蘋果仁報導持續追蹤關島熱帶擾動的組織進度，並同步關注南海另一波動態對區域天氣的潛在影響。",
-      "url": "https://applealmond.com/posts/325680"
+      "title": "97W恐升格「杜鵑」　專家：路徑高度不確定",
+      "dek": "據民視新聞網報導，關島附近熱帶擾動97W有機會數日內發展為颱風杜鵑，但最終強度與移動方向仍難確定。",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026905W0146"
     },
     {
       "rank": 3,
-      "title": "賈新興：杜鵑颱風估9月16日後生成 台灣乾旱恐延至月底",
-      "dek": "聯合新聞網報導，氣象專家賈新興分析副熱帶高壓與高空槽將左右杜鵑颱風路徑，台灣降雨要到10月上旬才會明顯增加。",
-      "url": "https://udn.com/news/story/7266/9750208"
+      "title": "杜鵑最快下週一生成　部分模式指向強颱路徑逼近台灣",
+      "dek": "據NOWnews今日新聞報導，預報模式顯示系統可能向西北移動並增強至強颱等級，不排除路徑較貼近台灣。",
+      "url": "https://www.nownews.com/news/6874118"
     },
     {
       "rank": 4,
-      "title": "南海熱帶擾動醞釀成形 越南、海南恐迎豪雨",
-      "dek": "聯合新聞網報導，南海一熱帶擾動預計9月12日至13日間有三至四成機率發展為熱帶低壓，對台灣無影響，但越南與海南沿海雨勢將增強。",
-      "url": "https://udn.com/news/story/7266/9747726"
+      "title": "東北季風週一增強變天　與杜鵑無關的降溫先報到",
+      "dek": "據Newtalk新聞報導，增強東北季風9月14日起南下，北台灣氣溫降至28至30度、北部東部雨勢增多，情況將持續至9月16日。",
+      "url": "https://newtalk.tw/news/view/2026-09-12/1059302"
     },
     {
       "rank": 5,
-      "title": "中國氣象單位示警：南海熱帶低壓恐衝擊越南北部",
-      "dek": "世界氣象中心（北京）公告指出，南海一熱帶低壓系統移動路徑將影響越南北部，海南、廣東、廣西沿海也將出現強降雨。",
-      "url": "https://www.wmc-bj.net/publish/cms/view/431c2b07-0c5b-336d-8200-fc97d788c7fb.html"
+      "title": "杜鵑、舒力基恐接力生成　西太平洋恐現雙颱局面",
+      "dek": "據中時新聞網報導，除關島系統可能發展為杜鵑外，另一波擾動也可能在其後成為今年第23號颱風「舒力基」。",
+      "url": "https://www.chinatimes.com/realtimenews/20260909002357-260405"
     },
     {
       "rank": 6,
-      "title": "東太平洋熱帶風暴諾伯特增強 但升格颶風機率降低",
-      "dek": "據夏威夷《檀香山星報》報導，熱帶風暴諾伯特因受乾空氣與風切影響，美國國家颶風中心已下修其升格颶風的預期，沿岸暫無警戒。",
-      "url": "https://www.staradvertiser.com/2026/09/11/breaking-news/tropical-storm-norbert-strengthens-in-east-pacific-as-trades-return/"
+      "title": "南海熱帶低壓奔向越南　海南沿海風雨增強",
+      "dek": "據中國新聞網報導，南海熱帶低壓預計9月13日於越南中部登陸，9月12日至15日海南沿海將出現6至7級風、局部大暴雨。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695208.shtml"
     },
     {
       "rank": 7,
-      "title": "考艾島災後復原持續 洛威爾颶風損害恐超越伊尼基",
-      "dek": "《檀香山星報》報導，考艾島在洛威爾颶風重創後已完成301戶勘災，其中57戶重損、至少7戶全毀，災情可能超過1992年伊尼基颶風。",
-      "url": "https://www.staradvertiser.com/2026/09/12/hawaii-news/kauai-marks-34-years-since-iniki-recovers-from-lowell/"
+      "title": "海南啟動四級應急響應　部分鄉鎮24小時雨量破百",
+      "dek": "據中國新聞網報導，因南海熱帶低壓來襲，海南省啟動防汛防風四級應急響應，萬寧市禮紀鎮24小時降雨達184.4毫米。",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695195.shtml"
     },
     {
       "rank": 8,
-      "title": "夏威夷州長格林請求聯邦援助 考艾島停電比例仍偏高",
-      "dek": "據《檀香山星報》報導，州長格林已正式為考艾與茂宜兩郡申請聯邦災害援助，考艾島電力用戶目前約三分之二已恢復供電。",
-      "url": "https://www.staradvertiser.com/2026/09/11/hawaii-news/kauai-recovery-continues-as-green-seeks-federal-aid-after-lowell/"
+      "title": "PAGASA示警：9月恐有二至三個熱帶氣旋牽動菲律賓",
+      "dek": "據GMA News Online報導，菲律賓氣象機構PAGASA預測本月將有多個熱帶氣旋生成或進入該國責任區，今年累計已達16個。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1000675/two-or-three-tropical-cyclones-may-be-inside-par-this-sept-2026-pagasa/story/"
     },
     {
       "rank": 9,
-      "title": "大西洋颶風季創六十年來最平靜開局",
-      "dek": "weather.com報導指出，2026年大西洋颶風季至今僅生成五個命名風暴、尚無颶風出現，累積氣旋能量創逾一甲子新低。",
-      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
+      "title": "呂宋島低壓槽挾雨勢　PAGASA同步觀察責任區外兩系統",
+      "dek": "據菲律賓Abante報導，PAGASA指低壓槽正影響呂宋島西北部，另兩個責任區外低壓區的發展前景與路徑仍待觀察。",
+      "url": "https://tnt.abante.com.ph/2026/09/12/lpa-habagat-magdadala-ng-ulan-sa-luzon/news/"
     },
     {
       "rank": 10,
-      "title": "PAGASA緊盯兩處低壓區 一區恐24小時內成形但不進入菲責任區",
-      "dek": "《菲律賓每日詢問者報》報導，菲律賓氣象署觀察到兩個低壓區，其中一區生成熱帶氣旋機率極高，但預期不會進入或直接影響菲律賓。",
-      "url": "https://newsinfo.inquirer.net/1829359/two-lpas-on-pagasas-radar-one-inside-par/amp"
+      "title": "熱帶風暴諾伯特增強在即　東太平洋週末恐升格颶風",
+      "dek": "據檀香山星報報導，諾伯特預計週末增強為颶風、週一減弱，各模式對其是否長期威脅夏威夷意見分歧。",
+      "url": "https://www.staradvertiser.com/2026/09/11/breaking-news/tropical-storm-norbert-strengthens-in-east-pacific-as-trades-return/"
     }
   ]
 }
