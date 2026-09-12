@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T14:13:00+08:00",
+  "generated_at": "2026-09-12T17:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，颱風沙德爾與科羅旺均已減弱遠離台灣，PAGASA亦確認周邊海域無低壓區受到監測。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；氣象專家指出，關島附近一處熱帶擾動最快下週一發展為今年的杜鵑颱風，後續路徑是否牽動台灣仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，未達停班停課標準，上班上課正常；近期天氣主要受9月9日報到的入秋首波東北季風影響，以北部、東部降雨及氣溫小降1至3度為主，台中受影響輕微。"
+    "text": "目前無任何颱風系統直接影響台中，中央氣象署也未針對當地發布相關警報或停班停課措施；今日台中及中台灣天氣以溫暖、局部乾燥為主，僅有一般午後對流性降雨的可能，與熱帶系統無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風靜默期 台灣入秋首波東北季風報到",
-    "dek": "中央氣象署未發布任何颱風警報，太平洋另一端的露威爾颶風重創夏威夷考艾島，而台灣則迎來今年首波東北季風。",
-    "url": "https://www.staradvertiser.com/2026/09/08/breaking-news/hurricane-lowell-weakens-as-it-heads-north-of-kauai/"
+    "title": "關島外海熱帶擾動蠢動　氣象專家：最快週一成杜鵑颱風，是否牽動台灣仍待觀察",
+    "dek": "台灣今日並無颱風警報，但多名氣象專家指出，關島附近一處熱帶擾動最快下週一增強為今年的杜鵑颱風，其後續路徑能否逼近台灣尚無定論。",
+    "url": "https://applealmond.com/posts/325680"
   },
   "items": [
     {
       "rank": 1,
-      "title": "露威爾颶風減弱北移 考艾島警報解除",
-      "dek": "曾兩度達五級強度的露威爾颶風掠過考艾島後持續減弱北移，當地警報已全數解除。",
-      "url": "https://www.staradvertiser.com/2026/09/08/breaking-news/hurricane-lowell-weakens-as-it-heads-north-of-kauai/"
+      "title": "杜鵑颱風觀察日誌：關島熱帶系統持續發展，路徑是否牽動台灣尚待觀察",
+      "dek": "蘋果仁即時追蹤關島附近熱帶擾動的最新動態，聚焦其能否發展為颱風、又是否可能影響台灣。",
+      "url": "https://applealmond.com/posts/325680"
     },
     {
       "rank": 2,
-      "title": "考艾郡確認無風災死亡個案",
-      "dek": "露威爾颶風重創考艾郡電力設施，逾九成用戶斷電，但當局表示暫無死亡報告。",
-      "url": "https://kauainownews.com/2026/09/08/no-storm-related-deaths-reported-following-impacts-of-hurricane-lowell-in-kauai-county/"
+      "title": "杜鵑颱風最快下週一生成　模式估將轉強颱西北挺進，不排除接近台灣",
+      "dek": "NOWnews報導指出，關島系統最快下週一成形為颱風杜鵑，預測路徑轉向西北，是否逼近台灣仍待觀察。",
+      "url": "https://www.nownews.com/news/6874118"
     },
     {
       "rank": 3,
-      "title": "科羅旺盤旋沖繩 九州四國豪雨示警",
-      "dek": "第24號颱風科羅旺在沖繩外海徘徊後轉向九州，結合秋雨鋒面釀成強降雨，數百航班取消。",
-      "url": "https://udn.com/news/story/7266/9731121"
+      "title": "賈新興：9月底前台灣秋高氣爽，杜鵑颱風最快下週一生成",
+      "dek": "聯合新聞網引述氣象專家賈新興分析，台灣本月底前將維持乾爽天氣，同時關注關島熱帶系統的發展進度。",
+      "url": "https://udn.com/news/story/7266/9747931"
     },
     {
       "rank": 4,
-      "title": "沙德爾罕見回馬槍路徑 台灣海上警報解除",
-      "dek": "颱風沙德爾兩度登陸中國東南沿海，氣象署評估其對台灣風力機率降至零後解除海上警報。",
-      "url": "https://news.tvbs.com.tw/life/4011700"
+      "title": "「杜鵑」颱風最快下週生成　台灣另迎轉雨降溫變化",
+      "dek": "ETtoday報導指出，除了關注杜鵑颱風可能生成的時間點，下週東北風增強也將為台灣部分地區帶來降雨與降溫。",
+      "url": "https://www.ettoday.net/news/20260912/3236000.htm"
     },
     {
       "rank": 5,
-      "title": "白海豚颱風掠過沖繩 台灣外島一度提高警戒",
-      "dek": "今年第13號颱風白海豚巔峰時逼近沖繩造成災損，金門、馬祖一度面臨較高暴風機率後隨即遠離。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022126"
+      "title": "杜鵑颱風估下週一生成　最新模式路徑先偏西，後續走向仍是觀察重點",
+      "dek": "TVBS氣象中心報導，早期模式顯示系統形成後將先偏西移動，能否轉向沖繩、日本或更貼近台灣尚無定論。",
+      "url": "https://news.tvbs.com.tw/life/4020664"
     },
     {
       "rank": 6,
-      "title": "大西洋颶風季開局創六十年最冷清紀錄",
-      "dek": "受厄爾尼諾影響，今年大西洋至今僅5個命名風暴、零颶風生成，為衛星觀測時代最緩慢開局之一。",
-      "url": "https://weather.com/2026/09/04/storms/hurricane/atlantic-hurricane-season-least-active-start-in-60-years"
+      "title": "關島熱帶擾動恐發展成杜鵑颱風　賈新興：台灣月底前偏乾，10月北部雨勢增加",
+      "dek": "自由時報報導，氣象專家賈新興將今年颱風型態歸因於強聖嬰現象，並預期北台灣降雨要到10月才會明顯增多。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5568981"
     },
     {
       "rank": 7,
-      "title": "太平洋颶風季進入高峰 強風暴接連快速增強",
-      "dek": "厄爾尼諾助長下，東北與中太平洋今年颶風活動遠高於平均，累積氣旋能量增加約五成。",
-      "url": "https://www.usnews.com/news/national-news/articles/2026-09-04/pacific-hurricane-hits-peak-activity-as-major-storms-rapidly-intensify"
+      "title": "週末高溫上看36度　下週東北風轉涼，關島以東另有系統醞釀中",
+      "dek": "PChome新聞彙整近日天氣脈動，並提醒9月16日後關島以東可能出現另一波熱帶系統發展，惟評估台灣影響仍言之過早。",
+      "url": "https://news.pchome.com.tw/living/m00361/20260912/index-78916383758232361009.html"
     },
     {
       "rank": 8,
-      "title": "NHC：大西洋未來一週不見熱帶氣旋生成",
-      "dek": "美國國家颶風中心最新展望指出，儘管有零星對流活動，大西洋一週內仍無風暴發展跡象。",
-      "url": "https://www.nhc.noaa.gov/gtwo.php"
+      "title": "一度減弱的颱風「死而復生」　沙德爾最終於中國福建第三度登陸",
+      "dek": "Taipei Times報導，中央氣象署觀測到南海一股減弱殘留環流重新增強為熱帶風暴，雖不排除路徑貼近台灣海峽，但風暴最終轉向中國，對台灣未造成直接影響。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     },
     {
       "rank": 9,
-      "title": "PAGASA：無低壓區受監測 西南季風仍活躍",
-      "dek": "菲律賓氣象機構表示，科羅旺離境後責任海域內暫無低壓區，惟西南季風持續為部分地區帶來降雨。",
-      "url": "https://www.pagasa.dost.gov.ph/tropical-cyclone-advisory-iframe"
+      "title": "颶風羅威爾急速增強至五級　創中太平洋觀測史紀錄並直襲夏威夷",
+      "dek": "Maui Now報導，羅威爾成為中太平洋觀測史上第八個五級颶風，並自1992年以來首度有颶風直接侵襲考艾島。",
+      "url": "https://mauinow.com/2026/09/02/lowell-rapidly-intensifies-to-category-5-forecast-to-remain-major-hurricane-for-several-days/"
     },
     {
       "rank": 10,
-      "title": "台灣入秋首波東北季風9日報到",
-      "dek": "在無颱風威脅之下，台灣本週天氣焦點轉為首波東北季風，北部、東部將有降雨與降溫。",
-      "url": "https://newtalk.tw/news/view/2026-09-05/1058017"
+      "title": "颶風卡莉娜增強至四級　遠離陸地仍為墨西哥沿岸帶來危險大浪",
+      "dek": "ABC News與U.S. News報導，卡莉娜在東太平洋外海迅速增強，雖未直接威脅陸地，但沿岸出現危險離岸流與大浪。",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-08-31/hurricane-karina-intensifies-to-category-4-pacific-track-and-coastal-threat"
     }
   ]
 }
