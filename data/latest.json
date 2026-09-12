@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T22:10:00+08:00",
+  "generated_at": "2026-09-12T23:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對任何颱風系統發布海上或陸上颱風警報，東北季風漸弱，週末天氣轉為溫暖穩定。",
+  "alert_desc": "中央氣象署目前未針對任何颱風系統發布海上或陸上颱風警報，關島及南海附近熱帶系統仍在發展階段，尚無明確路徑指向台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風系統或熱帶擾動直接影響台中，東北季風減弱、天氣回暖，白天高溫可達32至33度；台中目前無風雨警報或停班停課疑慮。"
+    "text": "目前無直接影響。中央氣象署尚未針對任何颱風發布海上或陸上警報，關島及南海附近的熱帶系統仍在發展階段，尚無明確路徑指向台灣，台中地區無停班停課或風雨警戒，未來動態仍待觀察。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風杜鵑醞釀關島外海　台灣暫無警戒仍需留意路徑",
-    "dek": "中央氣象署未發布任何颱風警報，但關島附近熱帶擾動可能發展為杜鵑，南海低壓則將於週日登陸越南中部。",
-    "url": "https://www.nownews.com/news/6874118"
+    "title": "關島熱帶擾動醞釀　杜鵑颱風呼之欲出",
+    "dek": "中央氣象署密切觀察關島附近熱帶系統動態，預估最快下週一增強為今年下一個編號颱風「杜鵑」，其未來是否轉向台灣仍是未定之數。",
+    "url": "https://applealmond.com/posts/325680"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶擾動醞釀成杜鵑颱風　路徑是否觸及台灣仍有變數",
-      "dek": "據NOWnews報導，關島東南方擾動最快週一發展為杜鵑颱風，多數模式指向沖繩、日本，但不排除部分路徑接近台灣。",
-      "url": "https://www.nownews.com/news/6874118"
+      "title": "關島熱帶擾動醞釀成形　恐為今年下一個颱風杜鵑",
+      "dek": "蘋果仁報導，中央氣象署正追蹤關島東側熱帶擾動，預估9月14至15日左右有機會增強為杜鵑颱風，惟目前尚無警報、路徑走向未定。",
+      "url": "https://applealmond.com/posts/325680"
     },
     {
       "rank": 2,
-      "title": "南海低壓週日撲向越南中部　海南已現豪雨",
-      "dek": "根據中新網報導，前身為沙德爾颱風的南海熱帶低壓已為海南帶來單日184.4毫米豪雨，預計9月13日登陸越南中部。",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695208.shtml"
+      "title": "氣象署：東北季風今日減弱　兩熱帶系統列入觀察名單",
+      "dek": "NOWnews報導，中央氣象署指東北季風今日趨緩、14至16日將有新一波增強，南海與關島附近各有一熱帶系統可能發展為颱風。",
+      "url": "https://www.nownews.com/news/6874346"
     },
     {
       "rank": 3,
-      "title": "東北季風減弱　台灣週末回溫轉穩定",
-      "dek": "華視新聞網報導指出，東北季風影響漸緩，週末台灣西半部白天高溫可達32至33度，僅迎風面地區有零星降雨。",
-      "url": "https://news.cts.com.tw/cts/weather/202609/202609123077899.html"
+      "title": "氣象專家：杜鵑颱風最快下週一成形　路徑仍待觀察",
+      "dek": "聯合新聞網報導，氣象專家賈新興表示台灣本島9月底前將維持晴朗乾燥，關島擾動最快下週一整合為杜鵑颱風，但長期路徑仍不明朗。",
+      "url": "https://udn.com/news/story/7266/9747931"
     },
     {
       "rank": 4,
-      "title": "關島外海醞釀第二熱帶擾動　舒力基蓄勢待發",
-      "dek": "聯合新聞網報導，氣象預報員關注關島附近下週四可能生成的新擾動，預料將成為本季第26號颱風舒力基。",
-      "url": "https://udn.com/news/story/7266/9747726"
+      "title": "關島擾動恐成杜鵑颱風　分析指台灣9月將持續乾燥",
+      "dek": "自由時報報導，關島附近熱帶擾動有機會發展為杜鵑颱風，預測路徑偏向日本東南海域，台灣本島9月將持續少雨，10月北部降雨才會增加。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5570181"
     },
     {
       "rank": 5,
-      "title": "科羅旺颱風結束琉球外海徘徊　強度明顯減弱",
-      "dek": "據日本Weathernews報導，曾在琉球群島附近罕見打轉數日的科羅旺颱風已減弱至颱風強度以下，不再構成活躍威脅。",
+      "title": "柯羅旺颱風減弱後徘徊琉球群島　日本仍受強降雨威脅",
+      "dek": "日本Weathernews報導，原颱風柯羅旺已減弱為熱帶風暴等級，在日本南西諸島附近徘徊打轉，外圍雨帶持續對日本東西部構成豪雨威脅。",
       "url": "https://sea.weathernews.com/resources/202609/226"
     },
     {
       "rank": 6,
-      "title": "東太平洋諾伯特颱風增強　可能週六升格颶風",
-      "dek": "The Garden Island報導，熱帶風暴諾伯特風速已接近每小時65英里，預計週六增強為颶風，但是否影響夏威夷本島仍有10天以上變數。",
-      "url": "https://www.thegardenisland.com/2026/09/12/hawaii-news/tropical-storm-norbert-maintains-strength-in-east-pacific/"
+      "title": "柯羅旺飄出菲律賓責任區　未對台菲構成直接威脅",
+      "dek": "菲律賓GMA新聞報導，PAGASA指出熱帶風暴柯羅旺維持強度並已飄出菲律賓大氣責任區，先前曾在沖繩與奄美群島間徘徊，對台灣及菲律賓均無直接威脅。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1001306/tropical-storm-krovanh-maintains-strength-drifts-out-of-par/story/"
     },
     {
       "rank": 7,
-      "title": "夏威夷外海另一擾動　發展機率僅兩成",
-      "dek": "根據Big Island Now報導，希洛東南方數百英里處的熱帶擾動未來一週發展成熱帶氣旋的機率，美國國家颶風中心評估僅為20%。",
-      "url": "https://bigislandnow.com/2026/09/11/hawaii-county-weather-forecast-for-september-12-2026/"
+      "title": "颶風羅威爾重創夏威夷　損失估逾4億美元",
+      "dek": "半島電視台報導，颶風羅威爾巔峰曾達五級強度，以二級強度掠過考艾島，造成約3萬戶停電、300人撤離，州長格林估計損失超過4億美元。",
+      "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power"
     },
     {
       "rank": 8,
-      "title": "大西洋颶風季創下最晚首颶風紀錄",
-      "dek": "據Yahoo News報導，截至9月12日大西洋今年尚未出現颶風，創下衛星觀測時代最晚紀錄，專家歸因於強聖嬰現象抑制風暴發展。",
-      "url": "https://www.yahoo.com/news/weather-news/articles/atlantic-hurricane-season-2026-sets-100212628.html"
+      "title": "羅威爾肆虐考艾島　民宅沖離地基、飯店車輛遭沖散",
+      "dek": "NBC新聞報導，颶風羅威爾在考艾島南岸將一棟民宅沖離地基，並沖散濱海飯店停車場內車輛、摧毀海景餐廳，並帶來夏威夷史上首次龍捲風警戒。",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-flooding-destruction-hawaii-kauai-rcna596804"
     },
     {
       "rank": 9,
-      "title": "威克島附近擾動91W　受美軍聯合颱風警報中心關注",
-      "dek": "太平洋災害中心報導，威克島西北方一處擾動91W環流尚不明顯，但低風切、良好流出及暖海溫等條件有利其緩慢發展。",
-      "url": "https://www.pdc.org/weather-wall-updates/tropical-cyclone-23w-invest-90w-invest-91w-pacific/"
+      "title": "太平洋罕見三颶風同時並存　卡莉娜、羅威爾、瑪莉齊發威",
+      "dek": "美聯社／雅虎新聞報導，卡莉娜、羅威爾與瑪莉三個颶風九月初罕見同時在東／中太平洋盤旋，為逾十年來首見；卡莉娜與瑪莉其後已減弱消散，羅威爾則重創夏威夷。",
+      "url": "https://www.yahoo.com/news/weather-news/article/three-hurricanes-are-still-churning-in-the-pacific-and-a-fourth-may-be-on-the-way-164427418.html"
     },
     {
       "rank": 10,
-      "title": "北印度洋雨季至今零氣旋生成　史上首見",
-      "dek": "Argus English報導，孟加拉灣自今年7月至9月未生成任何熱帶低壓或風暴，氣象學家期待9月下旬MJO活躍有助氣旋生成。",
-      "url": "https://argusenglish.in/weather-calamities/mjo-comes-over-bay-of-bengal-in-september-last-will-its-spark-cyclone-genesis-in-october"
+      "title": "「回馬槍」沙德爾颱風徘徊台灣海峽後於中國二度登陸消散",
+      "dek": "台北時報報導，一度減弱的沙德爾颱風在南海罕見重新增強、徘徊台灣海峽南側，為南台灣帶來強風豪雨後於中國二度登陸，目前已完全消散不再影響台灣。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863550"
     }
   ]
 }
