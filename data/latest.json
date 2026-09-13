@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T02:11:00+08:00",
+  "generated_at": "2026-09-14T03:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。氣象單位正密切觀察關島東南方一股熱帶擾動（90W），最快週三發展為今年第25號颱風「杜鵑」，侵台路徑仍高度不確定；東北季風將先於9月14日增強，為北部與東半部帶來降雨。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。氣象單位正密切觀察關島附近一股熱帶擾動，最快週三（9月16日）發展為颱風「杜鵑」，路徑初估偏向日本沖繩，對台影響仍高度不確定；東北季風已增強，為北部與東北部帶來降雨。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風或熱帶系統直接影響；即將到來的東北季風降雨主要集中於北部、宜蘭及東半部，預期不及於中彰投一帶，當地目前也未發布停班停課或風雨警報。"
+    "text": "台中目前未受任何颱風或熱帶系統直接影響，當地天氣普遍乾燥穩定、日間高溫上看攝氏35度；增強的東北季風降雨集中在北部與東北部迎風面，未及於中彰投一帶，也未發布停班停課或風雨警報。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "太平洋醞釀新颱杜鵑 東北季風先為台灣北部帶來降雨",
-    "dek": "氣象單位指關島東南方熱帶擾動最快週三發展為今年第25號颱風「杜鵑」，但侵台路徑仍高度不確定；台灣目前無颱風警報。",
+    "title": "颱風尚未成形 東北季風先帶雨勢報到",
+    "dek": "關島外海熱帶擾動醞釀「杜鵑」颱風，路徑初估偏向琉球，對台灣影響仍具高度不確定性。",
     "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "新颱「杜鵑」最快週三生成 路徑初估朝西北、侵台可能性待觀察",
-      "dek": "Newtalk新聞報導，關島外海熱帶擾動持續增強，預報單位表示是否威脅台灣仍需本週稍晚才能確認。",
+      "title": "「杜鵑」最快週三成形 初估路徑偏西北",
+      "dek": "Newtalk新聞報導，關島外海擾動增強，可能週三發展為颱風杜鵑。",
       "url": "https://newtalk.tw/news/view/2026-09-13/1059450"
     },
     {
       "rank": 2,
-      "title": "東北季風週二雨勢最強 「杜鵑」颱風最快週三成形",
-      "dek": "Newtalk新聞報導，新一波東北季風9月14日增強，桃園以北及東部地區降雨機率提高，同時關島海域擾動仍朝颱風發展。",
-      "url": "https://newtalk.tw/news/view/2026-09-13/1059416"
+      "title": "秋颱蠢動 「颱風窩」再度活躍",
+      "dek": "TVBS新聞網指出，關島附近熱帶系統活躍，杜鵑颱風路徑仍高度不確定。",
+      "url": "https://news.tvbs.com.tw/life/4021278"
     },
     {
       "rank": 3,
-      "title": "西太平洋「颱風窩」重現活躍 「杜鵑」最快週三生成仍存變數",
-      "dek": "華視新聞網報導，氣象專家指出關島附近系統雖有望週三成颱，但模式對強度與路徑預測歧異仍大。",
+      "title": "颱風窩再活化 杜鵑最快週三生成",
+      "dek": "華視新聞網報導，杜鵑最快週三形成，但強度與路徑變數仍多。",
       "url": "https://news.cts.com.tw/cts/weather/202609/202609133078161.html"
     },
     {
       "rank": 4,
-      "title": "「杜鵑」颱風最快下週生成 降雨降溫同步登場",
-      "dek": "ETtoday新聞雲報導，預報單位重申關島附近擾動下週有機會發展為颱風杜鵑，屆時將與增強東北季風共同帶來降雨降溫。",
-      "url": "https://www.ettoday.net/news/20260912/3236000.htm"
+      "title": "賈新興析路徑：杜鵑醞釀期看14日至16日",
+      "dek": "三立新聞網引述氣象專家賈新興分析，杜鵑路徑可能偏向日本沖繩。",
+      "url": "https://www.setn.com/news/1904947"
     },
     {
       "rank": 5,
-      "title": "杜鵑颱風最快下週一生成 部分模式估路徑不排除逼近台灣",
-      "dek": "NOWnews今日新聞報導，部分數值模式顯示系統有機會快速增強並偏西北移動，接近台灣的可能性尚未排除，惟仍屬多種情境之一。",
-      "url": "https://www.nownews.com/news/6874118"
+      "title": "東北季風明起增強 北部雨勢加劇",
+      "dek": "壹蘋新聞網報導，東北季風週一增強，恰逢杜鵑可能成形時間點。",
+      "url": "https://news.nextapple.com/life/20260913/AACDC1665DABC2380CBBFBDBCE2B6948"
     },
     {
       "rank": 6,
-      "title": "南海熱帶低壓登陸越南中部 海南持續強降雨",
-      "dek": "中新網報導，該低壓13日傍晚於越南廣治省登陸並逐漸減弱，海南部分地區累積雨量恐超過800毫米。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695540.shtml"
+      "title": "氣象署：新颱風路徑估偏日本 非直撲台灣",
+      "dek": "聯合新聞網引述中央氣象署說法，東北季風帶雨，新颱風路徑暫估朝日本。",
+      "url": "https://udn.com/news/story/7266/9748117"
     },
     {
       "rank": 7,
-      "title": "南海熱帶低壓登陸越南後 海南多項氣象預警持續生效",
-      "dek": "中新網報導，海南多個縣市兩日內雨量超過百毫米，萬寧市長豐鎮測得405.9毫米為最高紀錄。",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695745.shtml"
+      "title": "東北季風增強 四縣市發布大雨特報",
+      "dek": "TVBS新聞網報導，北部及迎風面地區發布大雨特報，屬季風雨非颱風警戒。",
+      "url": "https://news.tvbs.com.tw/life/4021146"
     },
     {
       "rank": 8,
-      "title": "美國國家颶風中心監測大西洋擾動 研判近期不致威脅美國本土",
-      "dek": "美國國家颶風中心表示，百慕達東南方擾動組織鬆散，7天內發展機率約二成，若成形將命名為「菲伊」。",
-      "url": "https://news.wfsu.org/2026-09-13/national-hurricane-center-monitors-atlantic-disturbance-but-no-u-s-threat-expected"
+      "title": "NHC監測百慕達擾動 對美國本土無威脅",
+      "dek": "WUFT報導，美國國家颶風中心稱該系統發展機率低，若成形將命名為Fay。",
+      "url": "https://www.wuft.org/weather/2026-09-13/national-hurricane-center-monitors-atlantic-disturbance-but-no-u-s-threat-expected"
     },
     {
       "rank": 9,
-      "title": "颶風羅威爾降級為溫帶系統 夏威夷州政府公布復原進度",
-      "dek": "夏威夷州政府表示，重創考艾島的五級颶風羅威爾已降級，當地電力搶修與道路清理持續進行，損失初估逾4億美元。",
-      "url": "https://governor.hawaii.gov/newsroom/news-release-state-of-hawai%CA%BBi-update-on-hurricane-lowell-response-efforts-and-impacts/"
+      "title": "越南中部熱帶低壓將登陸 河靜至廣治恐豪雨",
+      "dek": "DTiNews報導，南海熱帶低氣壓預計13日晚間登陸，局部雨量上看350毫米。",
+      "url": "https://dtinews.dantri.com.vn/vietnam-today/tropical-depression-nears-central-vietnam-coast-20260913161706061.htm"
     },
     {
       "rank": 10,
-      "title": "東北季風增強來襲 北台灣、東北部兩天強降雨、氣溫下探",
-      "dek": "中時新聞網報導，東北季風9月14日起增強，北部與宜蘭將連續兩天出現大雨，氣溫同步下滑。",
-      "url": "https://www.chinatimes.com/realtimenews/20260913002614-260405"
+      "title": "後熱帶氣旋羅威爾持續減弱 預計下週初消散",
+      "dek": "美國國家颶風中心公告，重創考艾島的羅威爾穩定減弱，當地復原持續進行。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/HFOTCPCP4+html/070240.shtml"
     }
   ]
 }
