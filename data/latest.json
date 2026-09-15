@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T09:11:00+08:00",
+  "generated_at": "2026-09-15T10:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未針對杜鵑發布海上或陸上颱風警報，該系統本身也還未正式生成為颱風。",
+  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報，杜鵑颱風路徑預估轉向日本，對台無直接影響。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前不在強降雨或強風的重點影響範圍內，截至目前也未有停班停課公告；本輪風雨效應仍集中於北部與東部地區。"
+    "text": "台中目前無直接影響，現階段降雨集中於基隆、宜蘭及台北山區等迎風面地區，中部未列入任何降雨或風力警戒範圍，截至9月15日未有停班停課相關報告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風杜鵑醞釀成形轉向日本　北台灣今受東北季風影響雨勢增強",
-    "dek": "關島東側熱帶性低氣壓最快今天升格為今年第24號颱風杜鵑，但各國模式路徑一致顯示將北轉直奔琉球群島與日本本土，對台灣無直接威脅。",
-    "url": "https://www.nownews.com/news/6874991"
+    "title": "杜鵑颱風北轉直撲日本　台灣今仍受東北季風影響",
+    "dek": "中央氣象署預估杜鵑颱風最快今日生成並北轉日本，對台無直接影響，北台灣須慎防東北季風豪雨。",
+    "url": "https://newtalk.tw/news/view/2026-09-14/1059714"
   },
   "items": [
     {
       "rank": 1,
-      "title": "杜鵑颱風醞釀生成 今北台灣迎最大雨勢",
-      "dek": "氣象單位預測關島東側系統最快今天增強為颱風杜鵑，路徑朝西北推進，今天北台灣將出現本週最強降雨。",
-      "url": "https://www.nownews.com/news/6874991"
+      "title": "杜鵑颱風強度上看中颱 週末南移日本海域",
+      "dek": "位於關島東方的熱帶擾動最快今日發展為杜鵑颱風，預估週末移向日本南方海面後轉北。",
+      "url": "https://newtalk.tw/news/view/2026-09-14/1059714"
     },
     {
       "rank": 2,
-      "title": "颱風杜鵑估明生成 氣象單位：對台無直接影響",
-      "dek": "預報顯示關島附近的低壓系統可能於一天內增強為颱風杜鵑，但路徑將轉向日本，不會直接衝擊台灣。",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%9D%9C%E9%B5%91%E6%9C%80%E5%BF%AB%E6%98%8E%E5%A4%A9%E7%94%9F%E6%88%90-%E5%B0%8D%E5%8F%B0%E7%84%A1%E7%9B%B4%E6%8E%A5%E5%BD%B1%E9%9F%BF-094010324.html"
+      "title": "杜鵑颱風最快今生成 路徑朝西北衝、北台灣雨最大",
+      "dek": "中央氣象署預估熱帶低壓今日增強為杜鵑颱風，沿高壓脊外圍北轉逼近日本，北台灣今日迎本週最大降雨。",
+      "url": "https://www.nownews.com/news/6874991"
     },
     {
       "rank": 3,
-      "title": "準颱風杜鵑最快明晨生成 週末外圍效應最明顯",
-      "dek": "預測杜鵑颱風可能於明天上午生成，其對台灣的外圍風雨效應預期在本週末最為顯著，隨後將靠近琉球群島。",
-      "url": "https://newtalk.tw/news/view/2026-09-14/1059628"
+      "title": "強聖嬰年強颱來了 杜鵑颱風最快明生成",
+      "dek": "氣象專家吳德榮分析，在強聖嬰現象背景下杜鵑颱風恐發展為強颱，路徑仍偏向日本。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5573101"
     },
     {
       "rank": 4,
-      "title": "杜鵑颱風成形在即 預期下週主要影響日本",
-      "dek": "氣象預報指出杜鵑颱風下週主要威脅範圍將落在日本，北台灣與東部則因東北季風自今起降雨增多。",
-      "url": "https://www.mirrormedia.mg/story/20260914edi048"
+      "title": "東北季風雨勢最猛 杜鵑颱風對台影響曝",
+      "dek": "北部宜蘭慎防大雨，報導確認杜鵑颱風生成不會直接影響台灣，惟沿海將自9月20日起出現長浪。",
+      "url": "https://news.nextapple.com/life/20260915/8AB3F9C26D768CE620EC5CCBF03A7F23"
     },
     {
       "rank": 5,
-      "title": "杜鵑生成前夕北台灣夜間強降雨 大台北三區列熱區",
-      "dek": "颱風杜鵑正式生成前，北台灣已因季風與外圍水氣交互作用出現強降雨，大台北地區三處被列為大雨熱區。",
-      "url": "https://www.setn.com/news/1906985"
+      "title": "颱風杜鵑最快今生成 路徑轉向日本",
+      "dek": "杜鵑颱風預估朝琉球群島前進，下週一起影響日本當地天氣，現階段對台無直接影響。",
+      "url": "https://www.heatalk.com/20260915/15925/"
     },
     {
       "rank": 6,
-      "title": "降溫轉雨連續三天 杜鵑颱風間接效應為主因",
-      "dek": "台灣近日氣溫下降、降雨持續三天，氣象單位說明此屬杜鵑颱風外圍水氣與東北季風共同作用，並非颱風直接侵襲。",
-      "url": "https://www.storm.mg/lifestyle/11164462"
+      "title": "日本旅遊警示 杜鵑颱風最快下週衝擊日本",
+      "dek": "報導警示杜鵑颱風下週一可能侵襲沖繩，風力或達超強颱風級，並恐與秋雨鋒面共伴增強雨勢。",
+      "url": "https://eastweek.stheadline.com/witness/21503/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E9%A2%B1%E9%A2%A8%E6%9D%9C%E9%B5%91%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E6%89%93%E5%88%B0%E6%97%A5%E6%9C%AC-%E9%A2%A8%E5%8A%9B%E6%88%96%E9%81%94%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A"
     },
     {
       "rank": 7,
-      "title": "杜鵑最快今日生成 東北季風夾帶雨勢襲四縣市",
-      "dek": "杜鵑颱風可能於今天生成，雖然其本體遠離台灣，但配合東北季風已為北部四縣市帶來明顯降雨。",
-      "url": "https://news.nextapple.com/life/20260915/CA1F362329B8041B69864B46617AE0F3"
+      "title": "北北基宜大雨特報 東北季風週四趨緩",
+      "dek": "中央氣象署對台北、新北、基隆、宜蘭發布大雨特報，東北季風影響預計週四減弱。",
+      "url": "https://newtalk.tw/news/view/2026-09-15/1059775"
     },
     {
       "rank": 8,
-      "title": "菲律賓外海生成新熱帶低壓 預期不會顯著影響菲國",
-      "dek": "菲律賓氣象機構PAGASA證實菲律賓責任區外一熱帶性低氣壓已生成，距東維薩亞斯甚遠，預期影響有限。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-depression-easterlies-update-pagasa-forecast-september-14-2026-4pm/"
+      "title": "南海熱帶低壓登陸越南 海南持續多項預警",
+      "dek": "曾為海南帶來豪雨的南海熱帶低壓已於9月13日登陸越南廣治省並逐漸減弱，海南仍維持多項暴雨風力預警。",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695745.shtml"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴諾伯特持續減弱 逼近中太平洋",
-      "dek": "熱帶風暴諾伯特在風切與水氣不足影響下持續減弱，美國國家颶風中心預期其將轉為低壓殘餘系統。",
-      "url": "https://www.staradvertiser.com/2026/09/14/breaking-news/tropical-storm-norbert-continues-to-weaken-as-it-nears-central-pacific/"
+      "title": "菲律賓責任區外新熱帶低壓 預料不影響菲國",
+      "dek": "PAGASA表示新生成熱帶低壓遠在菲律賓責任區外快速西移，預料不會登陸或顯著影響菲律賓。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-depression-easterlies-update-pagasa-forecast-september-14-2026-4pm/"
     },
     {
       "rank": 10,
-      "title": "東太平洋新增熱帶低壓Fifteen-E 諾伯特同步減弱",
-      "dek": "墨西哥下加利福尼亞半島外海生成新熱帶性低氣壓Fifteen-E，預測下週初增強為熱帶風暴。",
-      "url": "https://dailycaller.com/2026/09/14/tropical-depression-fifteen-e-eastern-pacific-norbert-weather/"
+      "title": "強聖嬰效應加持 太平洋颱風季恐創活躍紀錄",
+      "dek": "彭博社報導指出，受強聖嬰現象驅動，2026年西太平洋颱風季活動量估將遠高於歷史均值。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/pacific-typhoon-season-forecast-to-be-among-most-active-ever"
     }
   ]
 }
