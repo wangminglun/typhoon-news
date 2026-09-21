@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T04:08:00+08:00",
+  "generated_at": "2026-09-22T05:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，颱風杜鵑正衝擊日本關東地區，另關島附近熱帶擾動最快本週三增強為熱帶低氣壓，是否發展為颱風「舒力基」並影響台灣仍待觀察。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，颱風杜鵑正衝擊日本關東地區，另菲律賓海一股熱帶擾動預計本週內發展成形，是否增強為颱風「舒力基」並於中秋連假後影響台灣仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署尚未對台灣發布任何颱風警報，台中地區現階段無風雨影響、警戒或停班停課疑慮。後續是否受關島附近熱帶擾動（可能發展為颱風「舒力基」）牽動，須視其9月23日後是否生成及路徑而定，請留意氣象署最新發布。"
+    "text": "目前無直接影響。台中地區未受任何颱風相關特報影響，亦無停班停課疑慮，僅東北季風可能為中部山區帶來局部短暫陣雨。後續是否受菲律賓海熱帶擾動（可能發展為颱風「舒力基」）牽動，須視其本週後續生成及路徑而定，請留意氣象署最新發布。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風杜鵑重創東瀛 舒力基醞釀牽動台灣連假",
-    "dek": "杜鵑颱風狂掃日本關東逾百六十萬人撤離，另一熱帶擾動最快週三成形，路徑是否逼近台灣仍待觀察。",
+    "title": "杜鵑颱風重創東京 「舒力基」醞釀恐擾中秋連假",
+    "dek": "杜鵑颱風為日本關東帶來破紀錄豪雨與大規模停班停課，同時菲律賓海一股熱帶擾動可能於中秋節後逼近台灣。",
     "url": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱杜鵑狂掃東京首都圈",
-      "dek": "東京及周邊地區21日遭杜鵑颱風暴雨強風侵襲，多地發布避難指示。",
+      "title": "杜鵑颱風重創東京豪雨破紀錄",
+      "dek": "杜鵑颱風掠過千葉外海，為東京都會區帶來破紀錄豪雨與強風警戒。",
       "url": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
     },
     {
       "rank": 2,
-      "title": "日本東部多縣發布撤離令",
-      "dek": "消防廳示警洪水與土石流風險，宮崎縣傳一死一輕傷。",
+      "title": "東京周邊逾160萬人獲避難勸告",
+      "dek": "杜鵑颱風來襲，東京周邊逾160萬居民收到避難勸告，宮崎縣先前已一死一傷。",
       "url": "https://www.upi.com/Top_News/World-News/2026/09/21/Japan-typhoon-triggers-flood-landslides-alerts/1481789978655/"
     },
     {
       "rank": 3,
-      "title": "逾167萬人遭令撤離",
-      "dek": "杜鵑陣風飆194公里，五縣市大規模避難、雨量恐達350毫米。",
-      "url": "https://www.yahoo.com/news/weather-news/articles/over-1-6-million-people-121416897.html"
+      "title": "東京機場取消500航班",
+      "dek": "羽田、成田機場合計取消500班航班，首相高市早苗赴紐約行程受延誤。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/typhoon-dujuan-threatens-tokyo-with-rains-winds-as-flights-hit"
     },
     {
       "rank": 4,
-      "title": "大島雨量破紀錄 發布最高警戒",
-      "dek": "24小時累積雨量達600毫米，日本氣象廳發布第五級土石流警報。",
-      "url": "https://watchers.news/2026/09/21/typhoon-dujuan-brings-record-rainfall-to-eastern-japan-jma-issues-level-5-landslide-warning-for-oshima/"
+      "title": "亞運馬術賽事延期一天",
+      "dek": "愛知亞運馬術三項賽事因杜鵑颱風預期惡化天候延至週二舉行。",
+      "url": "https://www.freepressjournal.in/sports/asian-games-2026-hit-by-typhoon-dujuan-as-equestrian-events-postponed-in-japan"
     },
     {
       "rank": 5,
-      "title": "銀色週遇颱風 航班大亂",
-      "dek": "日航、全日空共取消275架次班機，東京近郊逾九千戶停電。",
-      "url": "https://www.nationthailand.com/news/world/40071271"
+      "title": "杜鵑外圍環流掀台灣沿海浪高",
+      "dek": "杜鵑颱風未登陸台灣，惟外圍環流為北海岸、馬祖、蘭嶼等地帶來湧浪。",
+      "url": "https://www.newsy-today.com/typhoon-dujuan-track-taiwan-affected-with-heavy-rain-in-areas/"
     },
     {
       "rank": 6,
-      "title": "千葉住宅受災 鎌倉站周邊淹水",
-      "dek": "至少21戶淹水或遭土石流侵襲，報導指杜鵑不影響台灣天氣。",
-      "url": "https://udn.com/news/story/6812/9768652"
+      "title": "舒力基最快週三生成",
+      "dek": "熱帶擾動最快週三發展，恐於9月28日前後最接近台灣。",
+      "url": "https://udn.com/news/story/7266/9768750"
     },
     {
       "rank": 7,
-      "title": "167萬人撤離 最高警報齊發",
-      "dek": "五縣市發布避難指示，陣風最大194公里創新高。",
-      "url": "https://news.nextapple.com/international/20260921/27FAFCDD719939478CC798CE1B51C265"
+      "title": "舒力基兩情境估恐中秋後襲台",
+      "dek": "氣象專家指出舒力基路徑有兩種可能，其一將經巴士海峽逼近台灣。",
+      "url": "https://www.nownews.com/news/6876743"
     },
     {
       "rank": 8,
-      "title": "舒力基最快週四生成",
-      "dek": "關島附近擾動增強中，下週是否逼近台灣仍待觀察。",
-      "url": "https://www.ettoday.net/news/20260921/3241413.htm"
+      "title": "舒力基最快週三成形一路徑近台",
+      "dek": "報導證實熱帶系統最快週三生成，其中一情境路徑接近台灣，惟預測信心仍低。",
+      "url": "https://www.chinatimes.com/realtimenews/20260921001787-260405"
     },
     {
       "rank": 9,
-      "title": "舒力基路徑三派分歧",
-      "dek": "AI模式預測北轉、登陸或轉向巴士海峽，中秋連假成關鍵。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5580786"
+      "title": "氣象署估中秋天氣穩定宜賞月",
+      "dek": "中央氣象署預測9月26日前台灣天氣多雲到晴、有利中秋賞月。",
+      "url": "https://focustaiwan.tw/society/202609200010"
     },
     {
       "rank": 10,
-      "title": "舒力基估週三生成",
-      "dek": "生成時間略提前，未來走勢是否逼近台灣尚未確認。",
-      "url": "https://www.chinatimes.com/realtimenews/20260921001787-260405"
+      "title": "中秋賞月天氣穩定可期",
+      "dek": "報導重申氣象署近期天氣預測良好，同時提醒關注關島附近醞釀中的系統。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864632"
     }
   ]
 }
