@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T08:08:00+08:00",
+  "generated_at": "2026-09-22T09:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，颱風杜鵑已遠離日本本土並轉化為溫帶氣旋；關島附近一股熱帶擾動可望發展為今年第25號颱風「舒力基」，惟形成時間略為延後至週四、五，是否影響台灣中秋連假仍待觀察。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。颱風杜鵑已遠離日本本土並持續轉化為溫帶氣旋；關島附近一股熱帶擾動最快週三（23日）發展為熱帶低氣壓，並可能於24日前後增強為今年第25號颱風「舒力基」，是否影響台灣中秋連假後段仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響。台中市為約十個縣市之一，因增強的季風環流被納入中央氣象署陸上強風特報範圍，預計持續至9月22日晚間，可能出現8級以上陣風，但無颱風警報生效，亦無停班停課消息。後續是否受關島附近熱帶擾動（可能發展為颱風「舒力基」）牽動，須視其9月24、25日後的生成與路徑而定，請留意氣象署最新發布。"
+    "text": "目前無颱風直接影響。台中與台灣西半部地區預計中秋連假期間（9月25、26日）以晴到多雲為主，天氣穩定，無風雨警報，亦無停班停課消息。後續是否受關島附近熱帶擾動（可能發展為颱風「舒力基」）牽動，須視其9月23、24日後的生成與路徑而定，若逼近巴士海峽，影響範圍預估以東半部及恆春半島為主，請留意氣象署最新發布。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "杜鵑轉性外海 舒力基待生成",
-    "dek": "杜鵑颱風重創東京都會區後轉為溫帶氣旋，關島附近熱帶擾動可望發展為今年第25號颱風「舒力基」，但形成時間略為延後，是否影響台灣仍待觀察。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
+    "title": "杜鵑出海遠離 舒力基醞釀恐擾中秋",
+    "dek": "杜鵑轉性帶走日本豪雨威脅，關島附近熱帶擾動最快週三增強，能否影響台灣中秋連假仍待觀察。",
+    "url": "https://udn.com/news/story/7266/9768750"
   },
   "items": [
     {
       "rank": 1,
-      "title": "杜鵑重創東京都會區",
-      "dek": "杜鵑颱風以強風豪雨橫掃東京都會區與伊豆諸島，交通大受影響。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
+      "title": "舒力基恐現巴士海峽",
+      "dek": "潛在颱風若逼近，恐影響中秋連假東部天氣。",
+      "url": "https://udn.com/news/story/7266/9768750"
     },
     {
       "rank": 2,
-      "title": "大島破紀錄雨量",
-      "dek": "伊豆大島24小時降雨600毫米，日本氣象廳發布最高等級土石流警戒。",
-      "url": "https://watchers.news/2026/09/21/typhoon-dujuan-brings-record-rainfall-to-eastern-japan-jma-issues-level-5-landslide-warning-for-oshima/"
-    },
-    {
-      "rank": 3,
-      "title": "杜鵑展開溫帶轉化",
-      "dek": "杜鵑已移至北海道以東海面，最快24小時內完成溫帶氣旋轉化。",
-      "url": "https://sea.weathernews.com/resources/202609/245"
-    },
-    {
-      "rank": 4,
-      "title": "杜鵑對台無直接影響",
-      "dek": "氣象署最新資料顯示杜鵑位置與路徑，證實對台灣無風雨威脅。",
+      "title": "杜鵑轉性出海對台無威脅",
+      "dek": "氣象署估杜鵑約120小時內完成溫帶化。",
       "url": "https://www.bnext.com.tw/article/92246/typhoon-dujuan-path-japan-taiwan-impact"
     },
     {
+      "rank": 3,
+      "title": "杜鵑重創日本166萬人撤離",
+      "dek": "強降雨引發土石流，關東五縣發布撤離令。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/over-1-6-million-people-121416897.html"
+    },
+    {
+      "rank": 4,
+      "title": "大島創紀錄豪雨發布最高警戒",
+      "dek": "日本氣象廳對伊豆大島發布五級土石流警報。",
+      "url": "https://watchers.news/2026/09/21/typhoon-dujuan-brings-record-rainfall-to-eastern-japan-jma-issues-level-5-landslide-warning-for-oshima/"
+    },
+    {
       "rank": 5,
-      "title": "舒力基醞釀中",
-      "dek": "關島附近熱帶擾動恐發展成颱風，周日外圍環流影響台灣東半部。",
-      "url": "https://www.nownews.com/news/6876586"
+      "title": "關島熱帶擾動醞釀成形",
+      "dek": "最快週三增強為今年第25號颱風舒力基。",
+      "url": "https://www.chinatimes.com/realtimenews/20260921001787-260405"
     },
     {
       "rank": 6,
-      "title": "生成時間估最快週三",
-      "dek": "舒力基最快週三生成，能否接近台灣取決於太平洋高壓強弱位置。",
-      "url": "https://www.ettoday.net/news/20260921/3241040.htm"
+      "title": "颶風波羅劇烈增強",
+      "dek": "預測週三逼近五級強度直撲墨西哥太平洋岸。",
+      "url": "https://mexiconewsdaily.com/news/hurricane-polo-category-5-mexico-pacific-coast/"
     },
     {
       "rank": 7,
-      "title": "連假尾聲天氣添變數",
-      "dek": "舒力基生成時間估延至週四，中秋連假後段天氣仍待觀察。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581360"
+      "title": "墨西哥沿岸恐發布颶風警戒",
+      "dek": "波羅帶來強降雨與危險大浪威脅格雷羅州。",
+      "url": "https://www.accuweather.com/en/hurricane/tropical-storm-polo-to-rapidly-strengthen-and-threaten-mexicos-west-coast/1936067"
     },
     {
       "rank": 8,
-      "title": "估28日近巴士海峽",
-      "dek": "準颱風舒力基9月24至25日生成，28日左右才可能接近菲律賓一帶。",
-      "url": "https://hakkanews.tw/2026/09/21/304524/"
+      "title": "熱帶風暴菲伊漸減弱",
+      "dek": "大西洋風暴預估轉為低壓不威脅陸地。",
+      "url": "https://www.accuweather.com/en/hurricane/tropical-storm-fay-becomes-sixth-named-storm-of-atlantic-hurricane-season/1935940"
     },
     {
       "rank": 9,
-      "title": "颶風波羅恐達五級",
-      "dek": "颶風波羅在墨西哥外海快速增強，可能威脅太平洋沿岸多州。",
-      "url": "https://www.accuweather.com/en/hurricane/hurricane-polo-to-rapidly-strengthen-into-category-5-storm-threaten-mexicos-pacficic-coast/1936067"
+      "title": "東太平洋生成奧達莉絲",
+      "dek": "預估週中增強為颶風，路徑不威脅夏威夷。",
+      "url": "https://www.bigislandvideonews.com/2026/09/20/tropical-storm-odalys-forms-in-pacific/"
     },
     {
       "rank": 10,
-      "title": "大西洋第六風暴菲伊",
-      "dek": "熱帶風暴菲伊生成，成為異常平靜大西洋颶風季的第六個命名風暴。",
-      "url": "https://www.accuweather.com/en/hurricane/tropical-storm-fay-becomes-sixth-named-storm-of-atlantic-hurricane-season/1935940"
+      "title": "太平洋大西洋風暴同受追蹤",
+      "dek": "波羅、菲伊、奧達莉絲三系統同時牽動氣象界。",
+      "url": "https://weather.com/2026/09/21/storms/hurricane/hurricane-season-maps-tracker-polo-fay-odalys-hawaii"
     }
   ]
 }
