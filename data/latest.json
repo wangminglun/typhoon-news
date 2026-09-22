@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T23:09:00+08:00",
+  "generated_at": "2026-09-23T00:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報。關島附近熱帶性低氣壓（原TD29/91W）最快9月23日增強為今年颱風「舒力基」，但各國模式對其後續路徑分歧甚大，最快接近台灣的時間點初步評估落在9月29日前後；日本關東則仍在統計颱風杜鵑重創災情，該系統已減弱轉為溫帶氣旋。",
+  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報。關島附近熱帶性低氣壓（原TD29/91W）預計最快9月23日或24日發布首份正式路徑預測，各國模式對後續是否轉向台灣分歧甚大；日本關東則仍在統計颱風杜鵑重創災情，該系統已減弱為溫帶低氣壓。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。關島附近的熱帶性低氣壓（準颱風舒力基）尚未正式生成為颱風，對台中未有任何風雨、停班停課相關訊息；已過境日本的杜鵑颱風也與台中無關。"
+    "text": "目前無直接影響。關島附近的熱帶性低氣壓（準颱風舒力基）尚未正式生成為颱風，對台中未有任何風雨、停班停課相關訊息；若後續朝台灣移動，最快也要9月29日至10月1日左右才可能顯現影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "杜鵑重創日本關東釀多人死亡 台灣密切關注準颱風舒力基路徑分歧",
-    "dek": "日本關東地區在颱風杜鵑侵襲後傳出多人死傷，而在關島附近醞釀的熱帶低氣壓可能發展為今年颱風舒力基，但各國模式對其是否轉向台灣仍高度分歧。",
+    "title": "準颱風舒力基路徑未定 專家籲留意週六關鍵轉折 杜鵑重創日本關東增至4死6失蹤",
+    "dek": "中央氣象署尚未發布警報，台中目前無直接影響，但多份模式對「舒力基」是否直撲台灣仍高度分歧。",
     "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基路徑模擬現分歧 專家：恐發展為強颱",
-      "dek": "各國最新模式對尚未生成的舒力基路徑判斷不一，有模式指向台灣，也有模式顯示北轉，但普遍認為其強度將偏強。",
-      "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
-    },
-    {
-      "rank": 2,
-      "title": "氣象署首發路徑指引 賈新興：系統有朝台灣移動趨勢",
-      "dek": "中央氣象署發布的初步路徑顯示，最快週三生成的熱帶系統有向台灣移動的傾向，但專家強調路徑仍存在高度不確定性。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581860"
-    },
-    {
-      "rank": 3,
-      "title": "關島附近系統最快週三成颱 一路徑恐接近台灣",
-      "dek": "氣象專家指出，關島周邊的熱帶擾動最快本週三發展為颱風舒力基，其中一種可能路徑將使其接近台灣，但仍取決於太平洋高壓強弱。",
-      "url": "https://www.chinatimes.com/realtimenews/20260921001787-260405"
-    },
-    {
-      "rank": 4,
-      "title": "準舒力基模擬路徑曝光 民間預報粉專：抵台灣東方後恐大角度轉向",
-      "dek": "一民間氣象粉絲專頁的模擬顯示，尚未成形的系統可能先接近台灣東方海域，再大幅轉向，但該粉專強調此僅為多種情境之一。",
+      "title": "準舒力基路徑曝光 粉專模擬：抵台灣東方後大角度轉向",
+      "dek": "一氣象粉專引用AI模式模擬，準颱風舒力基恐先逼近台灣東南方海域，再北轉遠離。",
       "url": "https://udn.com/news/story/7266/9770369"
     },
     {
+      "rank": 2,
+      "title": "舒力基模擬路徑大分歧 歐洲模式示警直撲台灣",
+      "dek": "各國模式對舒力基走向意見不一，但普遍認同其形成後強度不容小覷。",
+      "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
+    },
+    {
+      "rank": 3,
+      "title": "舒力基最快明生成 氣象署首份路徑預測將出爐",
+      "dek": "專家賈新興指出系統已現朝台灣移動趨勢，但路徑仍待觀察。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581860"
+    },
+    {
+      "rank": 4,
+      "title": "鄭明典示警：舒力基下週二前後恐相當接近台灣",
+      "dek": "前氣象局官員提醒，系統若如期生成，下週二左右是觀察重點。",
+      "url": "https://udn.com/news/story/7266/9769947"
+    },
+    {
       "rank": 5,
-      "title": "舒力基恐直撲台灣 部分情境不排除登陸花東",
-      "dek": "報導指出，舒力基若朝台灣移動，不排除登陸花蓮台東地區的可能性，但此仍屬眾多模擬情境之一，尚未確定。",
-      "url": "https://www.mirrormedia.mg/external/setn_1911209"
+      "title": "舒力基下週最接近台灣 兩種路徑情境曝光",
+      "dek": "太平洋高壓強弱將左右系統走向，專家提出兩套可能劇本。",
+      "url": "https://www.mirrormedia.mg/story/20260922edi014"
     },
     {
       "rank": 6,
-      "title": "颱風杜鵑重創日本關東 至少四死六失聯",
-      "dek": "日本消防廳通報，颱風杜鵑侵襲千葉、神奈川與宮崎等地，造成多人死亡與失蹤，並帶來破紀錄的暴雨與土石流災情。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/22/japan/japan-typhoon-dujuan-damages-update/"
+      "title": "轉向或直撲台灣？專家：本週六是關鍵分水嶺",
+      "dek": "太平洋高壓延伸範圍將決定舒力基最終是否轉向遠離台灣。",
+      "url": "https://www.setn.com/news/1911049"
     },
     {
       "rank": 7,
-      "title": "杜鵑造成日本兩死 逾四萬六千戶停電",
-      "dek": "外電報導指出，颱風杜鵑已造成至少兩人死亡，並使日本約四萬六千戶家庭停電，目前風暴已逐漸減弱並遠離陸地。",
-      "url": "https://www.abs-cbn.com/news/weather-traffic/2026/9/22/typhoon-dujuan-leaves-two-dead-46-000-houses-without-power-in-japan-1058"
+      "title": "舒力基最快週三生成 中秋連假後不排除登陸台灣",
+      "dek": "預測劇本之一指向連假後登陸可能，惟報導強調現階段仍屬初步推估。",
+      "url": "https://www.nownews.com/news/6876743"
     },
     {
       "rank": 8,
-      "title": "杜鵑強襲日本關東 土石流釀至少兩死四失聯",
-      "dek": "颱風杜鵑帶來的豪雨在神奈川與千葉引發土石流，造成至少兩人死亡、四人失聯，其中包含一名清理災損時罹難的工人。",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5581755"
+      "title": "杜鵑重創關東 日本時報：至少4死6人下落不明",
+      "dek": "破紀錄豪雨引發土石流與淹水，千葉、神奈川搜救行動仍在持續。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/22/japan/japan-typhoon-dujuan-damages-update/"
     },
     {
       "rank": 9,
-      "title": "杜鵑衝擊東京航空交通 近九百航班取消",
-      "dek": "受颱風杜鵑及日本「銀週」連假出遊潮影響，全日本近890班航班取消、逾4600班次延誤，羽田與成田機場受創最重。",
-      "url": "https://www.travelmarketreport.com/news/articles/hundreds-of-flights-canceled-as-typhoon-dujuan-lashes-tokyo"
+      "title": "杜鵑襲日釀4死 東京周邊交通癱瘓、4.5萬戶停電",
+      "dek": "半島電視台報導成田機場旅客受困，伊豆大島雨量創新高紀錄。",
+      "url": "https://www.aljazeera.com/amp/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
     },
     {
       "rank": 10,
-      "title": "AI氣象模式預測下週新颱風生成 但路徑分歧仍大",
-      "dek": "多個人工智慧氣象模式一致預測舒力基即將生成，但對其最終路徑看法不一，涵蓋轉向日本、逼近台灣及進入南海等不同情境。",
-      "url": "https://www.thestandard.com.hk/news/article/332644/AI-weather-models-predict-new-typhoon-next-week-but-potential-paths-vary-widely"
+      "title": "NHK證實杜鵑豪雨釀4死 日本各地搜救持續",
+      "dek": "颱風杜鵑已減弱為溫帶系統，但關東地區災後搜救工作尚未結束。",
+      "url": "https://www.nbcnews.com/world/asia/torrential-rains-brought-japan-typhoon-kill-four-nhk-says-rcna599150"
     }
   ]
 }
