@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T11:09:00+08:00",
+  "generated_at": "2026-09-22T12:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未發布海上或陸上颱風警報。重創日本的強颱杜鵑已在日本以東海面轉向、逐漸遠離陸地，不再構成威脅；氣象單位正密切關注關島附近一個熱帶擾動，預計最快本週四、五（9月24日至25日）發展為颱風「舒力基」，其是否影響台灣、路徑仍高度不確定。",
+  "alert_desc": "中央氣象署截至9月22日尚未發布海上或陸上颱風警報，舒力基預估最快9月23日至24日才會形成，對台影響仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中今日未受任何颱風系統影響，也無強風特報或颱風警報，無停班停課消息；後續是否受可能形成的颱風舒力基影響，仍待下週路徑明朗。"
+    "text": "目前無直接影響，尚無任何台中相關的天氣特報或停班停課訊息，因舒力基尚未成形，後續是否影響台中仍待觀察。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "杜鵑轉向遠離日本 關島海域醞釀新颱舒力基恐襲台",
-    "dek": "中央氣象署尚未發布警報，但氣象單位已密切關注下週一個可能形成的新颱風是否會在中秋連假前後接近台灣。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
+    "title": "杜鵑遠離無虞 舒力基醞釀恐擾中秋連假",
+    "dek": "中央氣象署尚未發布警報，賈新興指出舒力基最快週三成形，最快週一逼近台灣，路徑仍高度不確定。",
+    "url": "https://www.chinatimes.com/realtimenews/20260921001787-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱杜鵑重創東京地區 關東甲信豪雨成災",
-      "dek": "《日本時報》報導，杜鵑以陣風時速180公里掠過關東甲信與伊豆群島，多處發布撤離指示。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
+      "title": "關島海面擾動恐發展為舒力基",
+      "dek": "中時新聞網報導，該系統最快週三、四成形，後續路徑因太平洋高壓強弱而分歧。",
+      "url": "https://www.chinatimes.com/realtimenews/20260921001787-260405"
     },
     {
       "rank": 2,
-      "title": "杜鵑狂降破紀錄雨量 大島土石流警報拉至最高等級",
-      "dek": "The Watchers報導指出，伊豆群島大島24小時降雨達600毫米，日本氣象廳發布最高等級土石流特別警報。",
-      "url": "https://watchers.news/2026/09/21/typhoon-dujuan-brings-record-rainfall-to-eastern-japan-jma-issues-level-5-landslide-warning-for-oshima/"
-    },
-    {
-      "rank": 3,
-      "title": "陣風飆180公里 日本嚴陣以待杜鵑侵襲",
-      "dek": "Nation Thailand報導，杜鵑來襲期間關東甲信沿岸發布避難勸告，海象惡劣、交通受阻。",
-      "url": "https://www.nationthailand.com/news/world/40071271"
-    },
-    {
-      "rank": 4,
-      "title": "舒力基颱風最快週四生成 下週恐接近台灣",
-      "dek": "ETtoday報導，關島附近熱帶擾動91W預計本週增強為颱風「舒力基」，下週初路徑恐逼近台灣。",
+      "title": "舒力基最快週三生成 牽動路徑因素曝",
+      "dek": "ETtoday報導，舒力基若逼近台灣，時間點將落在中秋連假之後。",
       "url": "https://www.ettoday.net/news/20260921/3241413.htm"
     },
     {
-      "rank": 5,
-      "title": "舒力基颱風最快週三生成 兩劇本路徑牽動中秋連假後動向",
-      "dek": "NOWnews報導，氣象專家分析舒力基兩種可能路徑，一說偏北遠離台灣，一說恐通過巴士海峽。",
+      "rank": 3,
+      "title": "舒力基兩情境推演 連假後恐登陸",
+      "dek": "NOWnews報導，氣象單位提出兩種路徑劇本，一種可能於連假後接近或登陸台灣。",
       "url": "https://www.nownews.com/news/6876743"
     },
     {
+      "rank": 4,
+      "title": "賈新興：舒力基週三、四成形",
+      "dek": "聯合新聞網報導，賈新興指出中秋節當天穩定炎熱，連假尾聲須留意颱風動向。",
+      "url": "https://udn.com/news/story/7266/9767187"
+    },
+    {
+      "rank": 5,
+      "title": "舒力基最近距離估在9月28日",
+      "dek": "聯合新聞網報導，路徑恐轉向琉球或穿越巴士海峽，仍存在高度不確定性。",
+      "url": "https://udn.com/news/story/7266/9769420"
+    },
+    {
       "rank": 6,
-      "title": "舒力基最接近台灣時間點曝光 中秋賞月機率仍佳",
-      "dek": "聯合新聞網報導，模式顯示舒力基約於9月28日最接近台灣，但中秋節當晚多數地區仍可賞月。",
-      "url": "https://udn.com/news/story/7266/9768750"
+      "title": "專家估連假後段為天氣關鍵期",
+      "dek": "Newtalk新聞報導，9月27日至29日是台灣天氣變化觀察重點，中秋節當天仍穩定。",
+      "url": "https://newtalk.tw/news/view/2026-09-21/1060944"
     },
     {
       "rank": 7,
-      "title": "準舒力基颱風有望挑戰強颱等級 一路徑恐登陸台灣",
-      "dek": "三立新聞網報導，部分模式模擬顯示不排除颱風增強為強颱並在台東南部或恆春一帶登陸。",
-      "url": "https://www.setn.com/news/1910699"
+      "title": "舒力基恐在台灣周邊徘徊",
+      "dek": "三立新聞網報導，兩情境之一顯示風暴可能於連假期間在台灣附近減速盤旋。",
+      "url": "https://www.setn.com/news/1910442"
     },
     {
       "rank": 8,
-      "title": "舒力基估中秋前後生成 路徑恐落在台灣附近海域",
-      "dek": "自由時報報導，氣象署密切關注關島附近低壓系統，預期中秋節前後發展為颱風並牽動台灣周邊海象。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581619"
+      "title": "杜鵑完成溫帶轉性 不再威脅台日",
+      "dek": "據Weathernews等媒體報導，杜鵑已在北海道以東海域轉性，日本氣象廳預估9月23日上午完成程序。",
+      "url": "https://sea.weathernews.com/resources/202609/245"
     },
     {
       "rank": 9,
-      "title": "印度氣象局示警 孟加拉灣窪地增強恐成今年首個氣旋",
-      "dek": "《The Week》報導，印度氣象局預測孟加拉灣系統將於22日增強，為奧里薩、安德拉等四邦帶來豪雨。",
-      "url": "https://www.theweek.in/news/india/2026/09/21/imd-alert-deep-depression-in-bay-of-bengal-to-intensify-heavy-rain-in-four-states.html"
+      "title": "孟加拉灣低壓恐成印度首個編號氣旋",
+      "dek": "Down To Earth報導，印度氣象局觀測系統若增強將命名為Arnab。",
+      "url": "https://www.downtoearth.org.in/natural-disasters/possible-cyclone-in-bay-of-bengal-next-week"
     },
     {
       "rank": 10,
-      "title": "大西洋今年第六個命名風暴菲伊生成 對陸地無威脅",
-      "dek": "KBTX報導，熱帶風暴菲伊在亞速爾群島外海形成，預料短期內將減弱為溫帶殘餘低壓。",
-      "url": "https://www.kbtx.com/2026/09/20/tropical-cyclone-fay-makes-sixth-named-storm-2026-atlantic-season/"
+      "title": "大西洋熱帶風暴費伊形成 不威脅陸地",
+      "dek": "FOX Weather報導，費伊為今年第六個編號風暴，移動緩慢且預估將減弱。",
+      "url": "https://www.foxweather.com/weather-news/tropical-depression-six-forms-atlantic-el-nino-september-2026"
     }
   ]
 }
