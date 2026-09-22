@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T18:11:00+08:00",
+  "generated_at": "2026-09-22T19:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報，僅因東北季風增強對台中等多縣市發布陸上強風特報（黃色燈號），有效至9月23日晚間，與新生熱帶低壓「準蘇力」無關。",
+  "alert_desc": "中央氣象署目前尚未發布海上或陸上颱風警報，本季第25號颱風「舒力基」尚未正式生成；台中等多縣市因東北季風增強持續陸上強風特報（黃色燈號），有效至9月23日晚間，與舒力基無關。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前處於陸上強風特報警戒範圍內（9月22日上午至23日晚間），主因是東北季風增強，並非颱風警報；蘇力尚未達颱風強度且距台灣尚遠，目前對台中無直接影響。"
+    "text": "台中目前無颱風直接影響；因東北季風增強，持續陸上強風特報（警戒至9月23日晚間，陣風上看8級），與尚未生成的舒力基颱風無關，目前無停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "熱帶低壓生成 蘇力颱風下週恐逼近台灣東部海域",
-    "dek": "中央氣象署證實菲律賓東方熱帶性低氣壓已增強為熱帶低壓，最快本週三成颱，路徑仍有變數，登台機率未排除。",
-    "url": "https://udn.com/news/story/7266/9769842"
+    "title": "颱風舒力基路徑未定 週末見分曉",
+    "dek": "氣象模式對尚未生成的舒力基走向分歧不一，專家籲週末密切觀察；日本杜鵑颱風已釀重大傷亡。",
+    "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "杜鵑颱風重創關東 4死6失蹤",
-      "dek": "日本時報報導，杜鵑颱風破紀錄豪雨引發土石流與淹水，橫須賀、袖ケ浦、鴨川、山武等地災情慘重。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/22/japan/japan-typhoon-dujuan-damages-update/"
+      "title": "模式路徑分歧 舒力基是否直撲台灣仍難定論",
+      "dek": "中時新聞網報導，最新模式模擬結果對即將生成的颱風舒力基路徑出現明顯分歧，部分模式指向台灣，但共識認為其強度將不弱。",
+      "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
     },
     {
       "rank": 2,
-      "title": "東京大阪新幹線一度中斷",
-      "dek": "半島電視台報導，杜鵑颱風造成4人死亡、災情廣泛，新幹線部分停駛、多條高速公路交通受阻。",
-      "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
+      "title": "專家：本週末是判斷舒力基威脅程度的關鍵",
+      "dek": "中時新聞網引述氣象專家指出，本週末將是確認舒力基是否逼近台灣的重要觀測時間點，目前不確定性仍高。",
+      "url": "https://www.chinatimes.com/realtimenews/20260922003131-260405"
     },
     {
       "rank": 3,
-      "title": "伊豆大島48小時雨量破紀錄",
-      "dek": "NHK報導，關東地區4死6失蹤、逾430戶房屋受損，伊豆大島雨量達平均月雨量2.4倍。",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51778"
+      "title": "三情境推演 舒力基路徑恐牽動中秋天氣",
+      "dek": "壹蘋新聞網報導，舒力基路徑依太平洋高壓強弱可分北轉沖繩、西行巴士海峽或直接掠台三種情境，系統預計中秋前生成。",
+      "url": "https://news.nextapple.com/life/20260922/1DD4FF975D6F03EE4F7153D3F381E301"
     },
     {
       "rank": 4,
-      "title": "杜鵑颱風轉向 遠離日本本土",
-      "dek": "Weathernews報導，第25號颱風杜鵑逐漸遠離日本本土、轉向以東海面，預計將轉化為溫帶低氣壓。",
-      "url": "https://weathernews.jp/news/202609/220021/"
+      "title": "氣象署發布首份潛勢圖 舒力基最快明日成形",
+      "dek": "自由時報報導，中央氣象署公布首份路徑預測潛勢圖，專家賈新興指出路徑趨勢逐漸偏向台灣，系統最快一天內編號生成。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581860"
     },
     {
       "rank": 5,
-      "title": "熱帶低壓生成 最快週三成颱",
-      "dek": "聯合新聞網報導，氣象署證實菲律賓東方熱帶性低氣壓已增強為熱帶低壓，登台不排除。",
-      "url": "https://udn.com/news/story/7266/9769842"
+      "title": "颱風論壇估舒力基至少達中度颱風等級",
+      "dek": "自由時報報導，颱風論壇分析舒力基生成後強度上看中度颱風，氣象人員並標出對台灣影響風險最高的時段。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581938"
     },
     {
       "rank": 6,
-      "title": "蘇力路徑兩情境 牽動登台機率",
-      "dek": "中時新聞網報導，新生熱帶低壓未來走向視太平洋高壓強弱而定，最快9月28日接近台灣東部海域。",
-      "url": "https://www.chinatimes.com/realtimenews/20260922001896-260405"
+      "title": "中秋賞月恐生變 舒力基最快週四成形",
+      "dek": "聯合新聞網報導，舒力基最快週四生成，外圍雲雨系統可能影響各地中秋賞月天氣。",
+      "url": "https://udn.com/news/story/7266/9768750"
     },
     {
       "rank": 7,
-      "title": "中秋連假天氣穩定 賞月無虞",
-      "dek": "聯合新聞網報導，氣象署預估9月25日至27日全台天氣晴朗穩定，蘇力外圍環流連假尾聲才會影響台灣。",
-      "url": "https://udn.com/news/story/7266/9768714"
+      "title": "東北季風增強 台中等9縣市發布陸上強風特報",
+      "dek": "鏡週刊報導，東北季風增強促使氣象署對桃園至雲林、屏東、台東及澎湖等地發布陸上強風特報，警戒與尚未生成的颱風無關。",
+      "url": "https://www.mirrormedia.mg/story/20260922edi009"
     },
     {
       "rank": 8,
-      "title": "陸上強風特報 9縣市拉警報",
-      "dek": "中天新聞網報導，氣象署因東北季風增強發布陸上強風特報，桃園至屏東等9縣市在列，與蘇力颱風無關。",
-      "url": "https://ctinews.com/news/items/bKxrXLOLW9"
+      "title": "杜鵑颱風重創日本關東 至少4死6失聯",
+      "dek": "日本時報報導，伊豆群島大島48小時降雨逾800毫米，杜鵑颱風引發之土石流與淹水造成關東地區傷亡慘重。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/22/japan/japan-typhoon-dujuan-damages-update/"
     },
     {
       "rank": 9,
-      "title": "成田機場癱瘓 逾2600人受困",
-      "dek": "東森新聞報導，杜鵑颱風導致成田機場地面交通中斷，日航與全日空合計取消約275航班。",
-      "url": "https://news.ebc.net.tw/news/world/572373"
+      "title": "杜鵑颱風釀東京交通大亂 新幹線一度停駛",
+      "dek": "半島電視台報導，杜鵑颱風造成東京至大阪新幹線服務中斷、多班航班取消，風暴目前正轉化為溫帶氣旋。",
+      "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
     },
     {
       "rank": 10,
-      "title": "蘇力最快9月28日逼近台灣東部",
-      "dek": "中時新聞網報導，氣象署最新預測指出，蘇力颱風將於中秋連假尾聲接近台灣東部海域，外圍環流影響至10月1日。",
-      "url": "https://www.chinatimes.com/realtimenews/20260922000952-260405"
+      "title": "PAGASA：菲律賓東方低壓區高機率發展為熱帶性低氣壓",
+      "dek": "Philstar.com報導，菲律賓大氣署指出東方海面另一低壓區有很高機率增強為熱帶性低氣壓，將為維薩亞斯等地帶來降雨。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/22/2558086/pagasa-lpa-east-philippines-has-high-chance-developing-tropical-depression"
     }
   ]
 }
