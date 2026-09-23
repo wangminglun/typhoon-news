@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T22:10:00+08:00",
+  "generated_at": "2026-09-23T23:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未對準颱風「舒力基」發布海上或陸上颱風警報，該系統距台灣仍達2180公里，評估最快本週末（26、27日）前後才可能發布警報。",
+  "alert_desc": "中央氣象署尚未對颱風「舒力基」發布海上或陸上颱風警報，該系統剛生成、距台灣仍遠，最快週五（25日）增強為中度颱風，後續是否發布警報視路徑發展而定。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署尚未對台中發布任何降雨特報或停班停課公告，預報中提及外圍環流可能帶來降雨的地區集中於宜蘭與桃園以北，台中等中部地區目前未列入預警範圍，後續仍需視路徑明朗化再觀察。"
+    "text": "目前無直接影響。舒力基颱風剛生成於關島西北方海面，距離台灣仍遠，暴風圈尚未接近台灣本島，中央氣象署尚未針對台灣發布任何海上或陸上颱風警報，台中市目前無風雨影響，也無停班停課疑慮；後續是否影響台中需視周末至下週初（9月28、29日前後）颱風實際路徑（北轉或偏西）而定。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基最快今生成 模式估週二登陸台灣東南部",
-    "dek": "日本杜鵑颱風已釀9死4失蹤，菲律賓另有熱帶系統將成颱",
-    "url": "https://www.chinatimes.com/realtimenews/20260923004444-260405"
+    "title": "颱風舒力基生成逼近關島 路徑分歧 氣象署暫未發布警報",
+    "dek": "日本杜鵑颱風已釀九死四失蹤，菲律賓外海另一熱帶系統醞釀成形",
+    "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基最快明生成！日氣象廳揭路徑「朝台灣」靠近",
-      "dek": "日本、台灣氣象單位皆估系統最快今明生成。",
-      "url": "https://www.chinatimes.com/realtimenews/20260923004444-260405"
+      "title": "颱風舒力基最快23日生成 估中颱強度逼近台灣",
+      "dek": "中央氣象署稱路徑仍待觀察，強度估達中度颱風。",
+      "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
     },
     {
       "rank": 2,
-      "title": "準舒力基上看強颱 歐、美模式預測下周二登陸東南部",
-      "dek": "氣象署估颱風將在台灣東側鞍型場明顯減速。",
-      "url": "https://www.chinatimes.com/realtimenews/20260923001135-260405"
+      "title": "舒力基生成 估週五增強為中颱",
+      "dek": "自由時報稱對台影響路徑仍具高度不確定性。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5584230"
     },
     {
       "rank": 3,
-      "title": "舒力基颱風最快周三生成！預估路徑2劇本 中秋連假後恐登陸台灣",
-      "dek": "北轉遠離或西行登陸兩情境並存，不確定性仍高。",
-      "url": "https://www.nownews.com/news/6876743"
+      "title": "舒力基模擬路徑大分歧 一派直撲台灣",
+      "dek": "中時報導模式分歧仍大，僅一點獲共識。",
+      "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
     },
     {
       "rank": 4,
-      "title": "天氣／日氣象廳發烈風警報！準颱風「舒力基」最快今生成 1走法直衝台灣",
-      "dek": "其中一版路徑模擬顯示系統直撲台灣本島。",
-      "url": "https://news.tvbs.com.tw/life/4026147"
+      "title": "準舒力基兩路徑並陳 專家示警恐直接侵台",
+      "dek": "專家指沖繩轉北或偏西侵台兩情境仍待確認。",
+      "url": "https://www.chinatimes.com/realtimenews/20260923002859-260405"
     },
     {
       "rank": 5,
-      "title": "杜鵑颱風重創日本9死4失蹤！淹水車輛旁驚見60歲男屍 2萬戶停電",
-      "dek": "千葉、神奈川兩縣合計逾500戶房屋受損。",
-      "url": "https://www.ettoday.net/news/20260923/3242467.htm"
+      "title": "舒力基估北轉機率較高 不排除偏西近台",
+      "dek": "華視稱中秋連假天氣預期仍大致晴朗。",
+      "url": "https://news.cts.com.tw/cts/weather/202609/202609233081941.html"
     },
     {
       "rank": 6,
-      "title": "杜鵑颱風今起加速遠離日本！明晨變身溫帶氣旋 專家曝原因",
-      "dek": "專家指未來仍不排除再度發展出熱帶性質。",
-      "url": "https://udn.com/news/story/7266/9769411"
+      "title": "颱風杜鵑重創東京周邊 已釀九死四失蹤",
+      "dek": "日本時報稱千葉、神奈川災情最慘重。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 7,
-      "title": "Tropical Depression to enter PAR on Thursday, intensifies into typhoon — PAGASA",
-      "dek": "熱帶低氣壓估24日進入菲律賓責任區並增強為颱風。",
-      "url": "http://bworldonline.com/the-nation/2026/09/23/780745/tropical-depression-to-enter-par-on-thursday-intensifies-into-typhoon-pagasa/"
+      "title": "杜鵑颱風重創日本 已知四人罹難",
+      "dek": "台北時報報導日本疏散與交通中斷情形嚴重。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/23/2003864735"
     },
     {
       "rank": 8,
-      "title": "Tropical depression may enter PAR Thursday, to be called 'Queenie'",
-      "dek": "Queenie為PAGASA今年命名的第17個熱帶氣旋。",
-      "url": "https://cebudailynews.inquirer.net/768956/td-may-enter-par-thursday"
+      "title": "菲律賓外海熱帶系統成形 尚未進入責任區",
+      "dek": "PAGASA稱系統若進入將命名為Queenie。",
+      "url": "https://www.philstar.com/headlines/2026/09/23/2558341/cyclone-develops-outside-par"
     },
     {
       "rank": 9,
-      "title": "颱風最新動態｜舒力基颱風路徑、強度、對台影響一次看",
-      "dek": "彙整各模式北轉與直撲台灣兩派預測分歧。",
-      "url": "https://www.bnext.com.tw/article/92354/surigae-typhoon-path"
+      "title": "美軍追蹤系統25W 確認即舒力基",
+      "dek": "星條旗報稱系統距沖繩約920英里、路徑未明。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),-"
     },
     {
       "rank": 10,
-      "title": "舒力基颱風即將生成！歐美模式預測「登陸台灣這一區」",
-      "dek": "花蓮、台東一帶為模式聚焦可能登陸範圍。",
-      "url": "https://news.nextapple.com/life/20260923/36C0D7230965C1E3E696199B097227A7"
+      "title": "日本列為26號颱風 估朝沖繩以南海域移動",
+      "dek": "Weathernews稱週末後走向仍高度不確定。",
+      "url": "https://weathernews.jp/news/202609/230221/"
     }
   ]
 }
