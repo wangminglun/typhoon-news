@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T20:12:00+08:00",
+  "generated_at": "2026-09-23T21:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至9月23日尚未針對逐漸增強中的熱帶性低氣壓TD29（準颱風舒力基）發布海上或陸上颱風警報，主要原因是該系統尚未正式生成颱風，仍在持續觀測中。",
+  "alert_desc": "中央氣象署表示，TD29尚未增強為颱風，且距台灣仍遠，預估最快要到9月28、29日才可能影響台灣，目前並未發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。現階段預報指出，桃園以北及台灣東半部降雨將自9月28日起明顯增多，尚未見台中專屬的風雨警戒或停班停課公告，台中暫不受舒力基颱風直接影響。"
+    "text": "氣象署指出，舒力基外圍環流雨勢預計集中於桃園以北及花東地區，台中等中部地區受影響輕微，本週維持高溫、無風雨警報，目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "準颱風舒力基醞釀 路徑成謎",
-    "dek": "中央氣象署估周一、周二為觀察關鍵期",
-    "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
+    "title": "低壓區醞釀成颱 舒力基路徑未明",
+    "dek": "杜鵑重創日本釀9死4失蹤 台灣尚無警報",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5583072"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風舒力基最快23日生成 估中颱強度接近台灣",
-      "dek": "中央氣象署估最快今日生成，強度中颱、路徑未定。",
-      "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
+      "title": "TD29增強在即 氣象署估24小時內成颱舒力基",
+      "dek": "中心氣壓1004百帕，預測27日前後轉強為中度颱風。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5583072"
     },
     {
       "rank": 2,
-      "title": "準舒力基上看強颱 歐美模式估下周二登陸東南部",
-      "dek": "歐美模式估東南部登陸，AI模式估北轉外海。",
-      "url": "https://www.chinatimes.com/realtimenews/20260923001135-260405"
-    },
-    {
-      "rank": 3,
-      "title": "舒力基即將生成 日本氣象廳發烈風警報",
-      "dek": "日本氣象廳對增強中系統發布烈風警報。",
-      "url": "https://www.nownews.com/news/6877298"
-    },
-    {
-      "rank": 4,
-      "title": "舒力基登陸或北轉 傳統模式對決AI模式",
-      "dek": "周六周日為關鍵決定期，太平洋高壓左右路徑。",
+      "title": "舒力基路徑分歧 AI模式估登陸花東、歐洲模式估偏南",
+      "dek": "太平洋高壓強弱成關鍵變數，各國模式預測仍未收斂。",
       "url": "https://www.ettoday.net/news/20260923/3242395.htm"
     },
     {
-      "rank": 5,
-      "title": "杜鵑颱風重創東京 至少九死四失蹤",
-      "dek": "關東及伊豆群島遭洪災山崩襲擊，千葉神奈川受創最重。",
+      "rank": 3,
+      "title": "杜鵑肆虐日本關東 死亡人數增至9人、4人失蹤",
+      "dek": "伊豆大島48小時雨量832毫米創紀錄，千葉縣災情最重。",
       "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
+      "rank": 4,
+      "title": "杜鵑重創日本交通 逾270班航班取消",
+      "dek": "東京大阪新幹線一度停駛，颱風已轉向阿留申群島。",
+      "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
+    },
+    {
+      "rank": 5,
+      "title": "菲律賓周四恐迎「琴妮」 低壓區不登陸但帶來降雨",
+      "dek": "PAGASA預估路徑北轉、周末前可能增強為颱風。",
+      "url": "https://bworldonline.com/the-nation/2026/09/23/780788/tropical-depression-may-enter-par-on-thursday-bring-rains-to-four-areas-pagasa/"
+    },
+    {
       "rank": 6,
-      "title": "杜鵑重創日本九死四失蹤 兩萬戶停電",
-      "dek": "千葉佐倉市24小時降雨量創新高，逾五百戶房屋受損。",
-      "url": "https://www.ettoday.net/news/20260923/3242467.htm"
+      "title": "氣象署：目前未對台發布海上、陸上颱風警報",
+      "dek": "TD29尚未成颱，預估影響時間落在28、29日前後。",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
     },
     {
       "rank": 7,
-      "title": "菲律賓責任區外熱帶低壓生成",
-      "dek": "系統距呂宋東南方逾千公里，可望命名Queenie。",
-      "url": "https://www.philstar.com/headlines/2026/09/23/2558341/cyclone-develops-outside-par"
+      "title": "舒力基外圍環流下週來襲 雨勢集中北台、花東",
+      "dek": "中南部影響輕微，本週西半部高溫上看34度。",
+      "url": "https://www.ettoday.net/news/20260922/3242170.htm"
     },
     {
       "rank": 8,
-      "title": "熱帶低壓週四進入菲律賓責任區 估週末增強為颱風",
-      "dek": "PAGASA預估Queenie週末前增強，多地將降雨。",
-      "url": "https://bworldonline.com/the-nation/2026/09/23/780745/tropical-depression-to-enter-par-on-thursday-intensifies-into-typhoon-pagasa/"
+      "title": "大西洋颶風季異常平靜 112年來首見9月未生成颶風",
+      "dek": "專家歸因聖嬰現象造成強風切變抑制颱風發展。",
+      "url": "https://www.wcax.com/2026/09/21/first-atlantic-hurricane-season-without-hurricane-by-sept-21-112-years/"
     },
     {
       "rank": 9,
-      "title": "大西洋颶風季首颶風創史上最晚紀錄",
-      "dek": "超級厄爾尼諾增強風切，首颶風遲遲未現。",
-      "url": "https://www.foxweather.com/weather-news/atlantic-hurricane-season-late-first-hurricane-super-el-nino-2026"
+      "title": "全球熱帶氣旋動態一覽 東太平洋4級颶風「波羅」活躍",
+      "dek": "全球現有約7個活躍系統，均未對台灣構成威脅。",
+      "url": "https://www.tropicalstormrisk.com/"
     },
     {
       "rank": 10,
-      "title": "南海醞釀熱帶系統 AI模型估秋颱迫近香港",
-      "dek": "大陸氣象台估南海將有系統生成，伏羲模型示警月底。",
-      "url": "https://www.stheadline.com/society/3616422/9%E6%9C%88%E5%B0%BE%E6%89%93%E9%A2%A8%E5%85%A7%E5%9C%B0%E6%B0%A3%E8%B1%A1%E5%8F%B0%E4%BC%B0%E8%A8%88%E5%8D%97%E6%B5%B7%E6%9C%89%E7%86%B1%E5%B8%B6%E7%B3%BB%E7%B5%B1%E7%94%9F%E6%88%90-%E5%A4%A9%E6%96%87%E5%8F%B0AI%E6%A8%A1%E5%9E%8B%E4%BC%8F%E7%BE%B2%E6%96%99%E7%A7%8B%E9%A2%B1%E8%BF%AB%E6%B8%AF"
+      "title": "專家彙整舒力基時間表 27日前後強度達顛峰",
+      "dek": "是否轉向北方遠離台灣，仍待太平洋高壓態勢明朗。",
+      "url": "https://www.ctwant.com/article/499356/"
     }
   ]
 }
