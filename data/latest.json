@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T21:09:00+08:00",
+  "generated_at": "2026-09-23T22:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署表示，TD29尚未增強為颱風，且距台灣仍遠，預估最快要到9月28、29日才可能影響台灣，目前並未發布海上或陸上颱風警報。",
+  "alert_desc": "中央氣象署尚未對準颱風「舒力基」發布海上或陸上颱風警報，該系統距台灣仍達2180公里，評估最快本週末（26、27日）前後才可能發布警報。",
   "region_watch": {
     "region": "台中",
-    "text": "氣象署指出，舒力基外圍環流雨勢預計集中於桃園以北及花東地區，台中等中部地區受影響輕微，本週維持高溫、無風雨警報，目前無直接影響。"
+    "text": "目前無直接影響。中央氣象署尚未對台中發布任何降雨特報或停班停課公告，預報中提及外圍環流可能帶來降雨的地區集中於宜蘭與桃園以北，台中等中部地區目前未列入預警範圍，後續仍需視路徑明朗化再觀察。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "低壓區醞釀成颱 舒力基路徑未明",
-    "dek": "杜鵑重創日本釀9死4失蹤 台灣尚無警報",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5583072"
+    "title": "颱風舒力基最快今生成 模式估週二登陸台灣東南部",
+    "dek": "日本杜鵑颱風已釀9死4失蹤，菲律賓另有熱帶系統將成颱",
+    "url": "https://www.chinatimes.com/realtimenews/20260923004444-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "TD29增強在即 氣象署估24小時內成颱舒力基",
-      "dek": "中心氣壓1004百帕，預測27日前後轉強為中度颱風。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5583072"
+      "title": "舒力基最快明生成！日氣象廳揭路徑「朝台灣」靠近",
+      "dek": "日本、台灣氣象單位皆估系統最快今明生成。",
+      "url": "https://www.chinatimes.com/realtimenews/20260923004444-260405"
     },
     {
       "rank": 2,
-      "title": "舒力基路徑分歧 AI模式估登陸花東、歐洲模式估偏南",
-      "dek": "太平洋高壓強弱成關鍵變數，各國模式預測仍未收斂。",
-      "url": "https://www.ettoday.net/news/20260923/3242395.htm"
+      "title": "準舒力基上看強颱 歐、美模式預測下周二登陸東南部",
+      "dek": "氣象署估颱風將在台灣東側鞍型場明顯減速。",
+      "url": "https://www.chinatimes.com/realtimenews/20260923001135-260405"
     },
     {
       "rank": 3,
-      "title": "杜鵑肆虐日本關東 死亡人數增至9人、4人失蹤",
-      "dek": "伊豆大島48小時雨量832毫米創紀錄，千葉縣災情最重。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
+      "title": "舒力基颱風最快周三生成！預估路徑2劇本 中秋連假後恐登陸台灣",
+      "dek": "北轉遠離或西行登陸兩情境並存，不確定性仍高。",
+      "url": "https://www.nownews.com/news/6876743"
     },
     {
       "rank": 4,
-      "title": "杜鵑重創日本交通 逾270班航班取消",
-      "dek": "東京大阪新幹線一度停駛，颱風已轉向阿留申群島。",
-      "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
+      "title": "天氣／日氣象廳發烈風警報！準颱風「舒力基」最快今生成 1走法直衝台灣",
+      "dek": "其中一版路徑模擬顯示系統直撲台灣本島。",
+      "url": "https://news.tvbs.com.tw/life/4026147"
     },
     {
       "rank": 5,
-      "title": "菲律賓周四恐迎「琴妮」 低壓區不登陸但帶來降雨",
-      "dek": "PAGASA預估路徑北轉、周末前可能增強為颱風。",
-      "url": "https://bworldonline.com/the-nation/2026/09/23/780788/tropical-depression-may-enter-par-on-thursday-bring-rains-to-four-areas-pagasa/"
+      "title": "杜鵑颱風重創日本9死4失蹤！淹水車輛旁驚見60歲男屍 2萬戶停電",
+      "dek": "千葉、神奈川兩縣合計逾500戶房屋受損。",
+      "url": "https://www.ettoday.net/news/20260923/3242467.htm"
     },
     {
       "rank": 6,
-      "title": "氣象署：目前未對台發布海上、陸上颱風警報",
-      "dek": "TD29尚未成颱，預估影響時間落在28、29日前後。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+      "title": "杜鵑颱風今起加速遠離日本！明晨變身溫帶氣旋 專家曝原因",
+      "dek": "專家指未來仍不排除再度發展出熱帶性質。",
+      "url": "https://udn.com/news/story/7266/9769411"
     },
     {
       "rank": 7,
-      "title": "舒力基外圍環流下週來襲 雨勢集中北台、花東",
-      "dek": "中南部影響輕微，本週西半部高溫上看34度。",
-      "url": "https://www.ettoday.net/news/20260922/3242170.htm"
+      "title": "Tropical Depression to enter PAR on Thursday, intensifies into typhoon — PAGASA",
+      "dek": "熱帶低氣壓估24日進入菲律賓責任區並增強為颱風。",
+      "url": "http://bworldonline.com/the-nation/2026/09/23/780745/tropical-depression-to-enter-par-on-thursday-intensifies-into-typhoon-pagasa/"
     },
     {
       "rank": 8,
-      "title": "大西洋颶風季異常平靜 112年來首見9月未生成颶風",
-      "dek": "專家歸因聖嬰現象造成強風切變抑制颱風發展。",
-      "url": "https://www.wcax.com/2026/09/21/first-atlantic-hurricane-season-without-hurricane-by-sept-21-112-years/"
+      "title": "Tropical depression may enter PAR Thursday, to be called 'Queenie'",
+      "dek": "Queenie為PAGASA今年命名的第17個熱帶氣旋。",
+      "url": "https://cebudailynews.inquirer.net/768956/td-may-enter-par-thursday"
     },
     {
       "rank": 9,
-      "title": "全球熱帶氣旋動態一覽 東太平洋4級颶風「波羅」活躍",
-      "dek": "全球現有約7個活躍系統，均未對台灣構成威脅。",
-      "url": "https://www.tropicalstormrisk.com/"
+      "title": "颱風最新動態｜舒力基颱風路徑、強度、對台影響一次看",
+      "dek": "彙整各模式北轉與直撲台灣兩派預測分歧。",
+      "url": "https://www.bnext.com.tw/article/92354/surigae-typhoon-path"
     },
     {
       "rank": 10,
-      "title": "專家彙整舒力基時間表 27日前後強度達顛峰",
-      "dek": "是否轉向北方遠離台灣，仍待太平洋高壓態勢明朗。",
-      "url": "https://www.ctwant.com/article/499356/"
+      "title": "舒力基颱風即將生成！歐美模式預測「登陸台灣這一區」",
+      "dek": "花蓮、台東一帶為模式聚焦可能登陸範圍。",
+      "url": "https://news.nextapple.com/life/20260923/36C0D7230965C1E3E696199B097227A7"
     }
   ]
 }
