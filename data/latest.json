@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T07:09:00+08:00",
+  "generated_at": "2026-09-24T08:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未針對颱風舒力基發布海上或陸上颱風警報，並評估近期發布警報的機率偏低，惟仍將視路徑變化持續觀察，是否北轉仍待未來數日確認。",
+  "alert_desc": "中央氣象署目前仍未對任何系統發布海上或陸上颱風警報；杜鵑已減弱遠離台灣，舒力基仍在台灣東南方遠海發展，距離尚未達發布警報門檻。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。截至目前，台中地區尚未受到颱風舒力基任何直接風雨影響，當地並無風雨警報或停班停課相關公告；氣象預報中提及的降雨效應現階段預期集中在桃園以北及宜蘭一帶，尚未觸及中台灣。"
+    "text": "目前無直接影響，延續前次更新的判斷；氣象署預測本週台中大致多雲到晴，僅山區午後可能有局部短暫陣雨，若舒力基持續西行，其外圍環流影響預期集中於北部及東北部，台中受影響機率暫時較低，仍待後續路徑進一步明朗。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基生成　侵台路徑仍待觀察",
-    "dek": "今年第25號颱風舒力基於馬里亞納群島以西生成，北轉或西移仍未定，中央氣象署評估近期發布颱風警報機率偏低。",
-    "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
+    "title": "杜鵑颱風重創東京之際　新颱風「舒力基」生成　侵台路徑仍成謎",
+    "dek": "日本氣象廳預測舒力基將於9月28日在沖繩南方增強為強颱，但傳統數值模式與新興AI模式對其是否登陸台灣東南部仍意見分歧。",
+    "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "準颱風舒力基最快今生成 估朝中颱強度發展",
-      "dek": "中央社報導，關島附近熱帶低壓最快九月二十三日增強為颱風舒力基，氣象署稱路徑仍待觀察。",
-      "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
-    },
-    {
-      "rank": 2,
-      "title": "歐美模式估舒力基下週二登陸東南部",
-      "dek": "中時新聞網報導，歐美預報模式顯示舒力基恐增強為強颱，並可能於下週二登陸台灣東南部。",
-      "url": "https://www.chinatimes.com/realtimenews/20260923001135-260405"
-    },
-    {
-      "rank": 3,
-      "title": "粉專引歐美模式 示警舒力基恐週二侵台",
-      "dek": "聯合新聞網報導，氣象粉專分析歐美模式指出，舒力基有機會於下週二前後登陸台灣東南部，惟情境仍分歧。",
-      "url": "https://udn.com/news/story/7266/9772010"
-    },
-    {
-      "rank": 4,
-      "title": "舒力基正式生成 估週五增強為中颱",
-      "dek": "自由時報報導，舒力基已於晚間八時生成，預估週五轉強為中度颱風，轉向時間點仍未定。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5584230"
-    },
-    {
-      "rank": 5,
-      "title": "氣象署估北轉機率大 不排除偏西侵台",
-      "dek": "華視新聞網報導，氣象署評估舒力基北轉機率較高，但不排除偏西接近台灣，近期發布警報機率偏低。",
-      "url": "https://news.cts.com.tw/cts/weather/202609/202609233081941.html"
-    },
-    {
-      "rank": 6,
-      "title": "舒力基最快生成 台灣中秋賞月不受影響",
-      "dek": "大紀元報導，舒力基雖最快生成，但台灣中秋節多數地區仍可正常賞月，風雨影響要到假期尾聲才顯現。",
-      "url": "https://www.epochtimes.com/gb/26/9/23/n14855607.htm"
-    },
-    {
-      "rank": 7,
-      "title": "颱風逼近未礙中秋 台灣多數地區可賞月",
-      "dek": "《台北時報》報導，儘管舒力基持續發展，台灣多數地區中秋節仍預期天氣良好，適合賞月。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
-    },
-    {
-      "rank": 8,
-      "title": "美軍追蹤熱帶低壓25W 路徑多指沖繩",
-      "dek": "《星條旗報》報導，美軍聯合颱風警報中心追蹤的25W系統以時速十六公里朝西北移動，預測路徑多指向沖繩。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),-"
-    },
-    {
-      "rank": 9,
-      "title": "杜鵑重創東京近郊 至少九死四失蹤",
-      "dek": "《日本時報》報導，颱風杜鵑為關東帶來破紀錄豪雨，伊豆大島釀土石流與淹水，已知九人罹難、四人失蹤。",
+      "title": "杜鵑颱風重創東京 已知至少9死4人失蹤",
+      "dek": "《日本時報》報導，杜鵑颱風豪雨引發首都圈土石流與淹水，多處房屋與基礎設施受損。",
       "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
-      "rank": 10,
-      "title": "杜鵑襲日交通大亂 東京周邊災情擴大",
-      "dek": "半島電視台報導，颱風杜鵑造成日本至少四人罹難，東京周邊航班大量取消、新幹線部分停駛，數萬戶停電。",
+      "rank": 2,
+      "title": "死亡人數上修至10人 日本持續搜救杜鵑颱風4名失蹤者",
+      "dek": "雅虎新聞報導，救難人員仍在東京周邊土石流與淹水災區搜尋失蹤者。",
+      "url": "https://sg.news.yahoo.com/japan-typhoon-dujuan-leaves-10-070719544.html"
+    },
+    {
+      "rank": 3,
+      "title": "杜鵑颱風襲日 至少4死並癱瘓東京交通",
+      "dek": "半島電視台報導，江戶川區24小時降雨282.5毫米創紀錄，航空與新幹線大規模停駛。",
       "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
+    },
+    {
+      "rank": 4,
+      "title": "熱帶風暴舒力基最快本週四進入菲律賓警戒區",
+      "dek": "菲律賓媒體Rappler報導，該系統預計不會登陸菲律賓，但將帶來局部降雨。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-surigae-update-pagasa-forecast-september-24-2026-5am/"
+    },
+    {
+      "rank": 5,
+      "title": "26號颱風舒力基生成 日本氣象單位示警後續路徑仍待觀察",
+      "dek": "Weathernews報導，舒力基預計9月28日於沖繩南方增強為「強颱」等級。",
+      "url": "https://weathernews.jp/news/202609/230221/"
+    },
+    {
+      "rank": 6,
+      "title": "日本氣象廳：舒力基28日將於沖繩南方發展為強颱",
+      "dek": "佐賀新聞報導，該署最新公報提醒其後續路徑仍具不確定性。",
+      "url": "https://www.saga-s.co.jp/articles/-/1797104"
+    },
+    {
+      "rank": 7,
+      "title": "「舒力基」最快明生成 氣象署首報路徑 專家：有朝台灣移動趨勢",
+      "dek": "自由時報報導，氣象專家賈新興指出，模式對其後續轉向仍看法分歧。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5581860"
+    },
+    {
+      "rank": 8,
+      "title": "舒力基上看強颱 粉專分析：歐美模式估下週二登陸台灣東南部",
+      "dek": "聯合新聞網報導，此為多種模擬情境之一，中央氣象署尚未證實此路徑。",
+      "url": "https://udn.com/news/story/7266/9772010"
+    },
+    {
+      "rank": 9,
+      "title": "登陸或北轉？舒力基路徑預測 傳統模式與AI模式各有判斷",
+      "dek": "ETtoday報導，數值模式與AI預報系統目前對台灣是否受影響意見分歧。",
+      "url": "https://www.ettoday.net/news/20260923/3242395.htm"
+    },
+    {
+      "rank": 10,
+      "title": "舒力基颱風即將生成 日本氣象廳發布烈風警報",
+      "dek": "NOWnews報導，該署預測路徑顯示風暴增強後將逼近台灣、沖繩周邊海域。",
+      "url": "https://www.nownews.com/news/6877298"
     }
   ]
 }
