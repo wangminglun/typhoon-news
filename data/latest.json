@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T17:09:00+08:00",
+  "generated_at": "2026-09-24T18:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "台灣海上及陸上颱風警報均尚未發布，中央氣象署研判舒力基發布警報機率目前偏低，惟仍取決於颱風北轉的時間點與角度。",
+  "alert_desc": "中央氣象署目前並未發布海上或陸上颱風警報，多家媒體引述氣象署研判，因預測模式趨向舒力基北轉琉球，警報發布機率偏低，但路徑仍持續觀測中。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。舒力基仍在菲律賓東方海面，距台灣尚遠，台中及中部地區目前未受任何風雨影響，亦無停班停課相關公告；颱風最快可能影響台灣的時間點為9月29日至10月1日，且仍取決於尚未確定的北轉路徑。"
+    "text": "目前無直接影響。舒力基距台灣仍有約1,600公里以上，且預測路徑轉向北方，台中地區暫無相關停班停課或風雨警示。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基形成朝沖繩逼近　路徑仍存變數　氣象署評估發布警報機率偏低",
-    "dek": "國際命名編號26號的颱風舒力基於菲律賓外海生成，預計增強為中度以上颱風並逼近沖繩南方海域，但其是否轉向侵襲台灣仍待觀察；與此同時，重創日本關東的颱風杜鵑死亡人數已升至9至10人。",
+    "title": "颱風舒力基北轉機率升高　杜鵑重創日本已10死",
+    "dek": "氣象署評估警報機率偏低，但路徑仍有變數；日本關東杜鵑颱風災情持續擴大",
     "url": "https://newtalk.tw/news/view/2026-09-24/1061650"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風舒力基菲律賓外海生成　北轉機率上升但路徑仍待觀察",
-      "dek": "Newtalk新聞報導，今年第26號颱風舒力基已於9月23日晚間形成，預報單位評估其北轉遠離台灣的機率上升，惟轉向時間點與角度仍有不確定性。",
+      "title": "舒力基生成　北轉機率提高",
+      "dek": "天氣特急報導颱風舒力基已生成，北轉遠離台灣機率提高，但路徑仍有變數。",
       "url": "https://newtalk.tw/news/view/2026-09-24/1061650"
     },
     {
       "rank": 2,
-      "title": "日媒：舒力基將以強颱強度逼近沖繩　不排除影響日本本土",
-      "dek": "日本Weathernews報導，第26號颱風舒力基預計9月28日前後以強颱等級逼近沖繩本島南方，最大風速每秒40公尺、陣風55公尺，下週或持續北上影響本州。",
-      "url": "https://weathernews.jp/news/202609/240181/"
+      "title": "氣象署估北轉機率大",
+      "dek": "華視報導氣象署預期舒力基北轉朝日本沖繩，惟不排除路徑偏西靠近台灣。",
+      "url": "https://news.cts.com.tw/cts/weather/202609/202609233081941.html"
     },
     {
       "rank": 3,
-      "title": "舒力基進入菲律賓責任區　當地命名「Queenie」",
-      "dek": "菲律賓大氣地球物理暨天文服務署（PAGASA）表示，熱帶風暴舒力基已進入菲律賓責任區並獲當地名稱「Queenie」，預料不會登陸菲律賓，但外圍雨帶將為比里蘭、雷伊泰及民答那峨部分地區帶來降雨。",
-      "url": "https://www.rappler.com/philippines/weather/tropical-storm-surigae-update-pagasa-forecast-september-24-2026-5am/"
+      "title": "模式趨一致　警報機率降",
+      "dek": "NOWnews彙整指出歐洲與AI模式趨向一致，預期颱風轉向琉球群島。",
+      "url": "https://www.nownews.com/news/6877698"
     },
     {
       "rank": 4,
-      "title": "舒力基是否襲台關鍵期鎖定下週二至四　氣象界示警兩種情境",
-      "dek": "NOWnews今日新聞分析指出，太平洋高壓強弱將決定舒力基路徑偏北遠離或轉進巴士海峽逼近台灣，9月29日至10月1日為觀察重點時段。",
-      "url": "https://www.nownews.com/news/6877636"
+      "title": "舒力基估週五增強中颱",
+      "dek": "自由時報報導颱風預計25日增強為中度颱風，警報機率仍偏低。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5584230"
     },
     {
       "rank": 5,
-      "title": "氣象署：舒力基本週增強北轉　發布颱風警報機率目前偏低",
-      "dek": "經濟日報引述中央氣象署說法指出，舒力基預計9月25、26日左右增強為中度颱風並逐漸北轉，惟氣象署強調此研判仍可能隨颱風轉向時間點而改變。",
-      "url": "https://money.udn.com/money/story/5648/9774039"
+      "title": "日氣象廳曾示路徑朝台",
+      "dek": "中時新聞網引述日本氣象廳較早路徑資料，顯示預報一度趨向台灣。",
+      "url": "https://www.chinatimes.com/realtimenews/20260923004444-260405"
     },
     {
       "rank": 6,
-      "title": "颱風杜鵑重創日本　死亡人數增至9至10人　4人仍失聯",
-      "dek": "《日本時報》報導，颱風杜鵑侵襲東京周邊地區後已造成至少9人罹難、4人下落不明，其中千葉縣6死、神奈川縣3死，豪雨並引發多處土石流與淹水。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
+      "title": "颱風動態即時彙整",
+      "dek": "數位時代持續更新舒力基路徑、強度與對台影響評估。",
+      "url": "https://www.bnext.com.tw/article/92354/surigae-typhoon-path"
     },
     {
       "rank": 7,
-      "title": "杜鵑豪雨破紀錄　東京電玩展提前閉展　逾270航班取消",
-      "dek": "半島電視台報導，颱風杜鵑為東京伊豆大島帶來48小時832毫米破紀錄雨量，日本氣象廳警告地質鬆軟風險未解除，並導致東京電玩展提前結束、日航與全日空合計取消275班航班。",
-      "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
+      "title": "熱帶風暴進入菲責任區",
+      "dek": "PAGASA證實風暴進入菲國責任區並命名Queenie，不致登陸菲律賓。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/24/2558618/tropical-storm-queenie-enters-par-pagasa"
     },
     {
       "rank": 8,
-      "title": "杜鵑肆虐關東　約2.5萬戶停電　多處土石流畫面曝光",
-      "dek": "TVBS新聞網報導，颱風杜鵑造成日本9死4失蹤，關東地區多處出現土石流災情，並有約2.5萬戶家庭一度停電。",
-      "url": "https://news.tvbs.com.tw/world/4026460"
+      "title": "PAGASA公布官方路徑預測",
+      "dek": "Rappler報導官方預測路徑週末轉向北方，週二前脫離菲國責任區。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-surigae-update-pagasa-forecast-september-24-2026-5am/"
     },
     {
       "rank": 9,
-      "title": "熱帶低壓Arnab登陸印度東岸　奧迪沙邦疏散逾千居民",
-      "dek": "《商業標準報》報導，熱帶低壓Arnab於9月24日凌晨在印度安得拉邦與奧迪沙邦交界的卡林加帕特南一帶登陸，奧迪沙邦加賈帕蒂縣已有約1,500名居民提前撤離，該系統與台灣天氣無關。",
-      "url": "https://www.business-standard.com/amp/india-news/cyclone-arnab-crosses-andhra-odisha-coast-1-500-evacuated-from-gajapati-nc-126092400408_1.html"
+      "title": "杜鵑重創日本增至9死",
+      "dek": "ETtoday報導杜鵑颱風死亡人數升至9人，另4人失聯、2萬戶停電。",
+      "url": "https://www.ettoday.net/news/20260923/3242467.htm"
     },
     {
       "rank": 10,
-      "title": "日氣象廳最新公報：舒力基恐帶55公尺強陣風　不排除轉向關東",
-      "dek": "Yahoo!ニュース引述日本氣象廳9月24日凌晨公報指出，第26號颱風舒力基逼近沖繩時將帶來每秒55公尺陣風，模擬情境並顯示其有可能於下週初轉向威脅包含東京在內的關東地區。",
-      "url": "https://news.yahoo.co.jp/articles/785882c030e34e5abb01f64427596f2ad59a0a1e"
+      "title": "關東洪災死亡增至10人",
+      "dek": "TVB報導杜鵑颱風關東洪水及土石流已致10死，逾600棟住宅受損。",
+      "url": "https://news.tvb.com/tc/1196927-%E9%A2%A8%E6%9A%B4%E6%9D%9C%E9%B5%91%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E6%B4%AA%E6%B0%B4%E5%8F%8A%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%A2%9E%E8%87%B310%E6%AD%BB%E9%80%BE600%E6%A3%9F%E4%BD%8F%E5%AE%85%E5%8F%97%E6%90%8D"
     }
   ]
 }
