@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T13:08:00+08:00",
+  "generated_at": "2026-09-24T14:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報，發布機率目前研判偏低。",
+  "alert_desc": "中央氣象署尚未發布海上或陸上颱風警報，因舒力基預測路徑偏向台灣東方外海，發布機率目前研判偏低。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響；本次風雨關注範圍集中在基隆、東部海岸、綠島、蘭嶼一帶的長浪，以及澎湖的異常大潮淹水風險，桃園以北、宜蘭下週初或有零星降雨，台中及中部地區目前未被納入任何風雨預測範圍。"
+    "text": "目前無直接影響；本次風雨關注範圍集中在花蓮、台東一帶的局部降雨及山區午後雷陣雨，以及沖繩方向的颱風路徑，台中及中部地區目前未被納入任何風雨預測範圍。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基生成　氣象署估北轉機率高但路徑仍存變數",
-    "dek": "今年第25號颱風舒力基23日晚間生成，中央氣象署研判其北轉遠離台灣的機率較高，但尚未排除路徑偏西、更接近台灣的可能。",
-    "url": "https://money.udn.com/money/story/5648/9774039"
+    "title": "颱風舒力基生成　北轉角度成侵台與否關鍵",
+    "dek": "中央氣象署表示，今年第25號颱風舒力基已於本週二晚間生成，最快週五增強為中度颱風，但由於預期將轉向朝日本沖繩方向北上，目前發布海上或陸上颱風警報的機率偏低。",
+    "url": "https://udn.com/news/story/7266/9773955"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風舒力基生成　最快9/25增強中颱、發布警報機會低",
-      "dek": "根據《經濟日報》報導，氣象署預報員鄭皆仁表示，因颱風北轉後預期與台灣保持距離，目前發布海陸警報機率不高。",
-      "url": "https://money.udn.com/money/story/5648/9774039"
+      "title": "舒力基颱風生成！關注周六北轉角度及距台遠近　不排除侵台",
+      "dek": "中央氣象署宣布舒力基已於9月23日晚間8時生成並增強為輕度颱風，強調週六的北轉角度與距台遠近是預報關鍵，尚未排除侵台可能。",
+      "url": "https://udn.com/news/story/7266/9773955"
     },
     {
       "rank": 2,
-      "title": "颱風「舒力基」晚間生成　天氣特急：北轉機率提高、路徑仍有變數",
-      "dek": "根據Newtalk新聞報導，舒力基於9月23日晚間生成，氣象粉專「天氣特急」指出北轉機率雖提高，但路徑仍具重大不確定性。",
-      "url": "https://newtalk.tw/news/view/2026-09-24/1061650"
+      "title": "舒力基「最新模擬路徑大分歧」！這模式直撲台灣　但有1共識",
+      "dek": "報導指出各數值預報模式對舒力基路徑分歧明顯，部分模式顯示颱風直撲台灣，但多數模式共同呈現西北轉北的路徑趨勢。",
+      "url": "https://www.chinatimes.com/realtimenews/20260922003509-260405"
     },
     {
       "rank": 3,
-      "title": "準颱風「舒力基」最新路徑曝　氣象署估「北轉機率大」不排除偏西靠近台灣",
-      "dek": "根據華視新聞網報導，氣象署最新研判北轉機率較大，但尚未排除路徑偏西、更靠近台灣的可能性。",
-      "url": "https://news.cts.com.tw/cts/weather/202609/202609233081941.html"
+      "title": "颱風「舒力基」晚間生成！天氣特急：北轉機率提高、路徑仍有變數",
+      "dek": "報導證實舒力基已於晚間生成，並指出最新模式顯示颱風北轉機率提高，但確切路徑進入週末後仍有相當變數。",
+      "url": "https://newtalk.tw/news/view/2026-09-24/1061650"
     },
     {
       "rank": 4,
-      "title": "有機會放颱風假？舒力基最快明升中颱　氣象署揭海陸警機率",
-      "dek": "根據三立新聞網報導，舒力基最快9月25日增強為中度颱風，氣象署表示目前海陸警報發布機率偏低。",
-      "url": "https://www.setn.com/news/1912139"
+      "title": "舒力基颱風提早北轉　最新路徑曝",
+      "dek": "中央氣象署最新路徑顯示舒力基提早北轉，預計沿台灣東側外海北上朝琉球、沖繩方向移動，而非直接接近台灣本島。",
+      "url": "https://www.ettoday.net/news/20260924/3243186.htm"
     },
     {
       "rank": 5,
-      "title": "準舒力基上看強颱　「1可能路徑」恐直接侵台　下週這天影響最大",
-      "dek": "根據三立新聞網稍早報導，模式模擬其中一種情境顯示舒力基可能增強為強颱並直接影響台灣，下週初為潛在影響最大時段。",
-      "url": "https://www.setn.com/news/1911934"
+      "title": "颱風舒力基生成　最快9/25增強中颱、發布警報機會低",
+      "dek": "中央氣象署預估舒力基最快9月25日增強為中度颱風，但因預期路徑偏向外海，目前發布海上或陸上颱風警報的機率偏低。",
+      "url": "https://money.udn.com/money/story/5648/9774039"
     },
     {
       "rank": 6,
-      "title": "颱風舒力基最快24日生成　台灣人中秋節仍可賞月",
-      "dek": "根據《大紀元》報導，舒力基預期24日生成，但因距台尚遠，台灣民眾中秋賞月活動不致受到明顯干擾。",
-      "url": "https://www.epochtimes.com/gb/26/9/23/n14855607.htm"
+      "title": "舒力基颱風即將生成！日本氣象廳發烈風警報　預測路徑出爐",
+      "dek": "日本氣象廳在舒力基正式生成前已發布烈風警報，並公布其自身版本的預測路徑。",
+      "url": "https://www.nownews.com/news/6877298"
     },
     {
       "rank": 7,
-      "title": "Potential tropical storm could affect Taiwan by the weekend: CWA",
-      "dek": "Focus Taiwan引述中央氣象署報導，這個發展中的熱帶系統可能於週末開始影響台灣天氣。",
-      "url": "https://focustaiwan.tw/society/202607220009"
+      "title": "舒力基將增強、暴風圈擴大！週一沖繩南方大轉向　往西靠台灣「機率極低」",
+      "dek": "報導指出舒力基預計持續增強並擴大暴風圈，週一將在沖繩南方大幅轉向，往西偏向台灣的機率目前評估為極低。",
+      "url": "https://www.mirrormedia.mg/story/20260924edi046"
     },
     {
       "rank": 8,
       "title": "Mid-Autumn Festival moon to be visible, despite expected storm",
-      "dek": "Taipei Times報導指出，儘管颱風舒力基在外海發展，台灣中秋節當晚民眾仍可正常賞月，風雨影響預期在後續幾天才會顯現。",
+      "dek": "英文媒體報導舒力基預計增強為中度颱風並從台灣南方、東方通過，最接近時間落在週日至週一，但多數地區中秋賞月天氣不受明顯影響。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
     },
     {
       "rank": 9,
-      "title": "Tropical Storm Surigae LIVE Tracker, Updates & Forecast",
-      "dek": "國際監測平台Zoom Earth即時追蹤顯示，舒力基位於沖繩嘉手納基地東南方約1,348公里，未來2至3天有快速增強可能，各國模式路徑預測仍存分歧。",
-      "url": "https://zoom.earth/storms/surigae-2026/"
+      "title": "Stable weather forecast for most of Taiwan over holiday weekend",
+      "dek": "中央社英文網報導，儘管舒力基存在，台灣多數地區連假期間天氣預期大致穩定，僅有局部降雨風險。",
+      "url": "https://focustaiwan.tw/society/202609230019"
     },
     {
       "rank": 10,
-      "title": "Typhoon 'Queenie' maintains strength, exits PAR Friday",
-      "dek": "菲律賓通訊社（PNA）引述PAGASA報導，舒力基（當地命名Queenie）24日上午進入菲律賓責任區，預計25日週五離境，且不會在菲律賓登陸。",
-      "url": "https://www.pna.gov.ph/articles/1049824"
+      "title": "Typhoon Dujuan leaves four people dead in Japan",
+      "dek": "颱風杜鵑於9月21日至22日侵襲日本關東地區，造成至少4人罹難、多人失蹤，逾460戶房屋受損，4萬5千多戶一度停電，目前已減弱為熱帶低壓。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/23/2003864735"
     }
   ]
 }
