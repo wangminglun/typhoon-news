@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T19:10:00+08:00",
+  "generated_at": "2026-09-24T20:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對颱風舒力基發布海上或陸上颱風警報，官方評估發布機率偏低，但路徑仍待觀測確認。",
+  "alert_desc": "中央氣象署目前未針對颱風舒力基發布海上或陸上颱風警報，評估發布機率偏低，但表示週六（9月26日）的轉向角度將是後續發展的關鍵觀察點。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何主動颱風系統直接影響台中；舒力基颱風仍在台灣東方約1,300公里以外海面，氣象署預估其北轉後多從台灣東方外海通過，尚未有停班停課相關公告。"
+    "text": "目前無任何主動颱風系統直接影響台中；舒力基颱風仍在鵝鑾鼻東南方約1,620公里外海，氣象署預估其偏向北轉後多從台灣東方海面通過，尚未有風雨或停班停課相關公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基路徑生變　北轉機率增仍不排除逼台",
-    "dek": "東京杜鵑颱風死亡人數增至9人，另一颱風舒力基路徑仍待觀察",
-    "url": "https://www.philstar.com/headlines/weather/2026/09/24/2558618/tropical-storm-queenie-enters-par-pagasa"
+    "title": "颱風「舒力基」生成朝台灣接近　氣象署：週六轉向是關鍵",
+    "dek": "中央氣象署表示，目前研判海上、陸上颱風警報發布機率偏低，但不排除路徑仍有變數；同時日本關東杜鵑颱風災情持續擴大，已知9死4失蹤。",
+    "url": "https://www.rappler.com/philippines/weather/tropical-storm-surigae-update-pagasa-forecast-september-24-2026-5am/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基進入菲律賓警戒區",
-      "dek": "PAGASA證實熱帶風暴舒力基進入責任區，未來三天不影響菲國天氣。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/24/2558618/tropical-storm-queenie-enters-par-pagasa"
-    },
-    {
-      "rank": 2,
-      "title": "舒力基週四清晨路徑更新",
-      "dek": "Rappler報導舒力基以每小時30公里西北移動，估週末轉向北方。",
+      "title": "熱帶風暴Surigae進入菲律賓責任區　獲命名Queenie",
+      "dek": "Rappler報導，Surigae於9月24日進入PAGASA責任區並獲命名Queenie，向西北西移動，預期為民答那峨部分地區帶來降雨但不直接登陸。",
       "url": "https://www.rappler.com/philippines/weather/tropical-storm-surigae-update-pagasa-forecast-september-24-2026-5am/"
     },
     {
+      "rank": 2,
+      "title": "PAGASA：Surigae強度持穩　有機會增強為颱風",
+      "dek": "《商業世界》引述PAGASA報導，Surigae預計26日轉向西北、28日轉向北，可能於週一以颱風強度離開責任區。",
+      "url": "https://bworldonline.com/the-nation/2026/09/24/781232/tropical-storm-surigae-maintains-strength-may-intensify-into-typhoon-pagasa/"
+    },
+    {
       "rank": 3,
-      "title": "熱帶風暴奎妮增強進入菲國",
-      "dek": "菲律賓媒體報導奎妮（舒力基）增強為熱帶風暴，估週日達颱風強度。",
-      "url": "https://newsinfo.inquirer.net/1687703/queenie-turns-into-tropical-storm-as-it-enters-ph"
+      "title": "Surigae外圍雨帶為民答那峨多地帶來降雨",
+      "dek": "《商業世界》報導，PAGASA指出Surigae外圍雨帶已為比利蘭、萊特、南萊特等省帶來局部降雨與雷雨，暴風中心仍遠離登陸。",
+      "url": "https://bworldonline.com/the-nation/2026/09/24/781135/tropical-storm-surigae-enters-par-brings-rain-over-parts-of-mindanao-pagasa/"
     },
     {
       "rank": 4,
-      "title": "舒力基生成　發布警報機率低",
-      "dek": "中央社報導颱風舒力基生成，氣象署估25日增強為中颱，警報機率偏低。",
-      "url": "https://www.cna.com.tw/news/ahel/202609230359.aspx"
+      "title": "Queenie升級為熱帶風暴並進入菲律賓",
+      "dek": "《菲律賓每日詢問者報》證實該風暴升格為熱帶風暴並以Queenie之名進入責任區，PAGASA預估最快週日達颱風強度。",
+      "url": "https://newsinfo.inquirer.net/1687703/queenie-turns-into-tropical-storm-as-it-enters-ph"
     },
     {
       "rank": 5,
-      "title": "舒力基路徑現兩劇本",
-      "dek": "NOWnews指歐美模式與AI模式預測分歧，不排除連假後襲台。",
-      "url": "https://www.nownews.com/news/6877636"
-    },
-    {
-      "rank": 6,
-      "title": "氣象署估北轉機率大",
-      "dek": "華視新聞網報導氣象署評估舒力基北轉機率高，但不排除偏西靠近台灣。",
-      "url": "https://news.cts.com.tw/cts/weather/202609/202609233081941.html"
-    },
-    {
-      "rank": 7,
-      "title": "舒力基生成　路徑仍有變數",
-      "dek": "Newtalk報導颱風舒力基晚間生成，北轉機率提高但路徑未定。",
+      "title": "颱風舒力基晚間生成　北轉機率提高但路徑仍有變數",
+      "dek": "Newtalk新聞報導，舒力基於23日晚間至24日生成，為台灣今年第25號颱風，北轉機率提高但確切轉向點仍不確定。",
       "url": "https://newtalk.tw/news/view/2026-09-24/1061650"
     },
     {
+      "rank": 6,
+      "title": "舒力基估最快明增強為中颱　氣象署曝海陸警發布機率",
+      "dek": "壹蘋新聞網（Mirror Media）報導，氣象署表示舒力基距台灣仍遠，因預期路徑偏離台灣，海陸警報發布機率偏低。",
+      "url": "https://news.nextapple.com/life/20260924/343F8BDD18E78134A6CF1FAF6350543B"
+    },
+    {
+      "rank": 7,
+      "title": "「舒力基」生成　估週五變中颱　對台影響曝",
+      "dek": "自由時報報導，舒力基24日清晨位於鵝鑾鼻東南方約1620公里，短期對台無影響，9月28日前後北部及宜蘭可能有零星陣雨。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5584230"
+    },
+    {
       "rank": 8,
-      "title": "杜鵑重創日本　9死4失蹤",
-      "dek": "日本時報報導颱風杜鵑在千葉、神奈川造成9死4失蹤，多處潰堤。",
+      "title": "颱風杜鵑釀東京近郊至少9死4失蹤",
+      "dek": "《日本時報》報導，杜鵑颱風在關東地區死亡人數上升至9人（千葉6人、神奈川3人），另有4人失蹤，數百戶房屋受損。",
       "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 9,
-      "title": "杜鵑災情反映日本降雨隱患",
-      "dek": "日本時報後續報導指杜鵑災損凸顯日本反覆遭強降雨侵襲的風險。",
+      "title": "杜鵑颱風災情凸顯日本連續豪雨災害衝擊",
+      "dek": "《日本時報》後續分析報導指出，杜鵑颱風造成的死傷凸顯日本近年反覆遭遇嚴重豪雨災害的模式，當地搜救行動仍在進行。",
       "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
     },
     {
       "rank": 10,
-      "title": "美軍系統首度追蹤舒力基",
-      "dek": "Stars and Stripes首次公告25W熱帶低氣壓，估將經沖繩以東海域。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),-"
+      "title": "杜鵑颱風日本釀災9死4失蹤　多地土石流、2.5萬戶停電",
+      "dek": "TVBS新聞報導，杜鵑颱風在日本造成千葉縣鴨川市等地土石流掩埋民宅，伊豆大島48小時累積雨量達832毫米。",
+      "url": "https://news.tvbs.com.tw/world/4026460"
     }
   ]
 }
