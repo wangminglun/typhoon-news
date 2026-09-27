@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T03:10:00+08:00",
+  "generated_at": "2026-09-28T04:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，強颱舒力基持續逼近沖繩並朝日本南方海域移動，對台灣本島無直接風雨威脅。",
+  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，強颱舒力基持續增強並朝沖繩、遠離台灣的路徑移動，對台灣本島無直接風雨威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "颱風舒力基持續朝日本南方海域移動，路徑遠離台灣，對台中不具風雨或安全威脅，市府亦未發布停班停課；台中目前無直接影響。"
+    "text": "颱風舒力基持續朝日本沖繩方向遠離台灣，對台中不具風雨或安全威脅，市府亦未發布停班停課；台中目前無直接影響，28日天氣多雲到晴，高溫上看攝氏35度。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱舒力基逼近沖繩　對台威脅仍低",
-    "dek": "中央氣象署與日本氣象廳皆預測舒力基將於28日至29日達到巔峰強度，但路徑持續偏向日本南方海域，台灣暫未受直接威脅。",
-    "url": "https://weathernews.jp/news/202609/270021/"
+    "title": "舒力基增強逼近沖繩　台灣無直接威脅",
+    "dek": "颱風路徑北彎轉向日本外海，氣象署研判海警機率低，同時關注馬里亞納群島新生熱帶系統。",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基逼近沖繩　日氣象廳估28、29日達顛峰",
-      "dek": "據Weathernews報導，27日晚間颱風中心距那霸東北東方約140公里，中心氣壓945百帕，正以時速20公里北移。",
-      "url": "https://weathernews.jp/news/202609/270021/"
+      "title": "台風26號急發展　逼近沖繩奄美",
+      "dek": "NHK報導，強颱26號（舒力基）持續增強，預計28日前後接近沖繩與奄美群島，日本北部至西部發布暴風豪雨警報。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641"
     },
     {
       "rank": 2,
-      "title": "中央氣象署：舒力基升級強颱　結構緊實如「口袋火箭」",
-      "dek": "中時新聞網報導，氣象署測得中心氣壓926百帕、瞬間陣風每秒63公尺，暴風圈僅100至120公里，預料北轉朝日本移動。",
-      "url": "https://www.chinatimes.com/realtimenews/20260927002683-260405"
-    },
-    {
-      "rank": 3,
-      "title": "舒力基持續增強　氣象署：路徑遠離台灣",
-      "dek": "ETtoday新聞雲報導，颱風將持續朝東北移動趨向日本南方海域，對台侵襲機率維持極低。",
-      "url": "https://www.ettoday.net/news/20260927/3244959.htm"
-    },
-    {
-      "rank": 4,
-      "title": "PAGASA：颱風Queenie增強　即將脫離菲律賓責任區",
-      "dek": "Philstar報導，Queenie最大持續風速達每小時130公里、陣風160公里，預料不會登陸菲律賓。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
-    },
-    {
-      "rank": 5,
-      "title": "Queenie正式脫離菲律賓責任區",
-      "dek": "Rappler報導，菲律賓全程未針對此系統發布任何颱風警報信號。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/"
-    },
-    {
-      "rank": 6,
-      "title": "日本迎來1966年以來颱風生成數最多一年",
-      "dek": "《日本時報》報導，舒力基是本季最新考驗，緊接在造成十餘人死亡的颱風杜鵑之後侵襲日本。",
+      "title": "日本時報：颱風季創1966年新高",
+      "dek": "日本時報報導，舒力基是今年以來第11個威脅日本的風暴，8月更創下1966年以來單月10個颱風的最高紀錄。",
       "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
     },
     {
+      "rank": 3,
+      "title": "新華社：沖繩將見強風巨浪",
+      "dek": "新華社報導，日本氣象廳已就沖繩沿海發布強風與長浪警報，因應舒力基逼近。",
+      "url": "https://english.news.cn/20260926/97f2ab11ef7b4bb8b0106e5ebacb09d7/c.html"
+    },
+    {
+      "rank": 4,
+      "title": "舒力基升級強颱　遠離台灣",
+      "dek": "ETtoday報導，舒力基在那霸附近增強為強颱，以時速16公里向東北遠離台灣，對台灣天氣無直接影響。",
+      "url": "https://www.ettoday.net/news/20260927/3244959.htm"
+    },
+    {
+      "rank": 5,
+      "title": "舒力基生成　估週五轉中颱",
+      "dek": "自由時報報導舒力基生成初期的路徑預測，聚焦其北轉時機及與台灣的距離。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5584230"
+    },
+    {
+      "rank": 6,
+      "title": "氣象署：海警機率偏低",
+      "dek": "中時新聞網報導，中央氣象署預報員表示，舒力基路徑北彎、遠離台灣，發布海上或陸上警報機率不高。",
+      "url": "https://www.chinatimes.com/realtimenews/20260924001483-260405"
+    },
+    {
       "rank": 7,
-      "title": "舒力基外圍影響有限　中秋賞月不受阻",
-      "dek": "《台北時報》報導，氣象署預期颱風路徑偏東，僅為北北部與宜蘭帶來零星降雨。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
+      "title": "大東島戒備強颱26號",
+      "dek": "日本Weathernews報導，強颱26號（舒力基）逼近大東島須嚴防惡劣天氣，下週將轉向本州南方海域。",
+      "url": "https://weathernews.jp/news/202609/270161/"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴舒力基生成　預測增強為颱風",
-      "dek": "ICRT電台報導，氣象署當時預期暴風將轉向北方，對台僅有間接降雨影響。",
-      "url": "https://www.icrt.com.tw/info_details.php?mlevel1=6&mlevel2=12&news_id=309249"
+      "title": "Queenie脫離菲律賓責任區",
+      "dek": "菲律賓Rappler報導，PAGASA證實颱風Queenie（舒力基）27日晚間已脫離菲律賓責任區，惟ITCZ仍為菲國部分地區帶來降雨。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/"
     },
     {
       "rank": 9,
-      "title": "氣象評論：國慶連假前恐現「三颱共舞」",
-      "dek": "TyphoonSays指出，馬里亞納群島附近熱帶擾動仍具發展潛力，惟尚未成形。",
-      "url": "https://taifengshuo.com/en/news/2026-09-24-pm"
+      "title": "颶風諾洛掠過夏威夷南方",
+      "dek": "檀香山星報報導，二至三級颶風諾洛通過夏威夷群島南方海域，雖不致降雨，仍引發強風與大浪警報。",
+      "url": "https://www.staradvertiser.com/2026/09/27/breaking-news/hurricane-nolo-passing-south-of-hawaii-brings-strong-winds-high-surf/"
     },
     {
       "rank": 10,
-      "title": "颱風杜鵑重創東京周邊　至少9人罹難",
-      "dek": "《日本時報》報導，杜鵑帶來48小時832毫米破紀錄雨量，釀成嚴重水患與土石流，後續統計死亡人數上修。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
+      "title": "馬里亞納海域醞釀新系統",
+      "dek": "日本山口電視台經Yahoo新聞報導，GFS模式顯示新熱帶低氣壓最快27日夜間於北馬里亞納群島東側形成，恐成第27號颱風。",
+      "url": "https://news.yahoo.co.jp/articles/0ea0617cd2579c4d741d113120e951cd89c8d7d5"
     }
   ]
 }
