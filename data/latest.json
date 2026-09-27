@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T05:10:00+08:00",
+  "generated_at": "2026-09-28T06:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，舒力基路徑持續北轉逼近日本沖繩，對台灣本島無直接風雨威脅，僅東部與恆春半島有零星降雨。",
+  "alert_desc": "中央氣象署評估舒力基路徑北轉並明顯偏東，全台未來120小時暴風侵襲機率為零，尚未發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。舒力基持續朝日本沖繩方向遠離台灣，台中天氣以多雲到晴為主，僅山區午後可能有零星短暫陣雨，最高溫達攝氏31至36度，市府未發布停班停課。"
+    "text": "台中地區目前無直接影響，因舒力基持續向東北遠離台灣本島，氣象署亦未針對台中發布相關風雨警報或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "舒力基增強逼近沖繩　氣象署：台灣無颱風警報疑慮",
-    "dek": "中央氣象署表示，舒力基路徑持續偏北通過日本外海，對台灣本島影響有限，僅東部與恆春半島有零星降雨，但仍籲請民眾避免靠近海邊戲水。",
-    "url": "https://udn.com/news/story/7266/9775245"
+    "title": "舒力基增強為強颱　掠過沖繩轉向遠離台灣",
+    "dek": "颱風舒力基27日增強為強烈颱風，逼近沖繩那霸海域後將轉北北東遠離台灣，中央氣象署評估侵襲機率極低，但日本已因近期颱風杜鵑重創而戒備未解。",
+    "url": "https://www.ettoday.net/news/20260927/3244959.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基轉向日本　氣象署：台灣無虞",
-      "dek": "中央氣象署證實舒力基持續增強並轉向日本沖繩，對台灣本島影響有限，但呼籲民眾勿靠近海邊戲水。",
-      "url": "https://udn.com/news/story/7266/9775245"
+      "title": "26號颱風急速增強　28日將接近沖繩奄美",
+      "dek": "NHK報導指出，舒力基快速發展，預計28日逼近沖繩與奄美地區，日本本州以北至以西恐有強降雨風險。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641"
     },
     {
       "rank": 2,
-      "title": "中秋連假前期宜賞月　東部週末轉雨",
-      "dek": "經濟日報報導，舒力基外圍環流9月27日起影響台灣，東部及恆春半島將出現零星降雨，其餘地區仍乾熱穩定。",
-      "url": "https://money.udn.com/money/story/5648/9766470"
+      "title": "快訊／舒力基升級強颱　最新路徑曝光",
+      "dek": "ETtoday報導，舒力基27日晚間升格強烈颱風，持續朝東北方遠離台灣，近中心瞬間陣風達每秒63公尺。",
+      "url": "https://www.ettoday.net/news/20260927/3244959.htm"
     },
     {
       "rank": 3,
-      "title": "舒力基逼近沖繩　九州拉警報",
-      "dek": "星洲日報引述外電報導，颱風舒力基持續逼近日本沖繩與九州，琉球群島已因此發布強風警戒。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
+      "title": "強颱舒力基逼近　大東群島嚴防惡劣海象",
+      "dek": "日本Weathernews報導，舒力基已增強為強颱，中心氣壓約945百帕，大東群島周邊將出現強風巨浪。",
+      "url": "https://weathernews.jp/news/202609/270161/"
     },
     {
       "rank": 4,
-      "title": "日本氣象機構：舒力基南方增強",
-      "dek": "日本Weathernews報導，25號颱風舒力基在南西諸島南方海面增強，預測逼近沖繩時將達颱風強度。",
-      "url": "https://sea.weathernews.com/resources/202609/254"
+      "title": "颱風接連侵日　創1966年以來最活躍紀錄",
+      "dek": "彭博社報導，舒力基是六月以來第11個逼近日本的熱帶氣旋，遠超歷史平均，今年為近60年颱風最活躍一年。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/storm-menaces-japan-after-highest-cyclone-tally-since-1966"
     },
     {
       "rank": 5,
-      "title": "今年颱風數創1966年來新高",
-      "dek": "《日本時報》報導，舒力基是今年6月以來第11個接近日本的熱帶系統，西太平洋颱風季異常活躍。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "颱風杜鵑釀重大死傷　凸顯日本連續水患風險",
+      "dek": "日本時報報導，杜鵑颱風重創千葉、神奈川並造成多人罹難，分析指出日本正面臨接連強降雨災害的高度脆弱性。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
     },
     {
       "rank": 6,
-      "title": "即時路徑：舒力基將轉性溫帶",
-      "dek": "Zoom Earth即時追蹤顯示，舒力基距沖繩嘉手納基地約131公里，預估3至4天後開始溫帶轉化。",
-      "url": "https://zoom.earth/storms/surigae-2026/"
+      "title": "颱風杜鵑重創日本　已知四人罹難",
+      "dek": "台北時報報導，杜鵑颱風在日本造成至少四人死亡，千葉降雨破紀錄，約200萬人一度被要求撤離。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/23/2003864735"
     },
     {
       "rank": 7,
-      "title": "美軍追蹤系統列25W舒力基",
-      "dek": "美軍《星條旗報》以JTWC編號25W追蹤舒力基動態，關注其對沖繩嘉手納基地等美軍設施的影響。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),-"
+      "title": "舒力基升級強颱　直撲那霸海域估不影響台灣",
+      "dek": "中天新聞網報導，舒力基增強為強烈颱風並逼近沖繩那霸海域，因路徑東移北轉，預估對台灣無直接影響。",
+      "url": "https://ctinews.com/news/items/ogxwXEGqnG"
     },
     {
       "rank": 8,
-      "title": "颶風諾羅重創夏威夷　豪雨成災",
-      "dek": "據夏威夷論壇先驅報報導，颶風諾羅以史上最近距離掠過夏威夷大島，降下最多35吋豪雨引發嚴重淹水。",
-      "url": "https://www.hawaiitribune-herald.com/2026/09/26/hawaii-news/hurricane-nolo-meanders-south-of-hawaii-island/"
+      "title": "颱風再逼近　沖繩嚴防強風巨浪",
+      "dek": "新華社報導，沖繩在颱風杜鵑過境數日後，又須面對舒力基帶來的強風與惡劣海象，復原工作面臨新考驗。",
+      "url": "https://english.news.cn/20260926/97f2ab11ef7b4bb8b0106e5ebacb09d7/c.html"
     },
     {
       "rank": 9,
-      "title": "諾羅西移　恐增強為四級颶風",
-      "dek": "據Weather Channel報導，颶風諾羅預估下週一前增強至四級、風速達每小時140英里，持續遠離夏威夷群島。",
-      "url": "https://weather.com/2026/09/26/storms/hurricane/hawaii-hurricane-nolo-flooding-wind-forecast"
+      "title": "颱風動態總整理　舒力基侵台機率、中秋天氣一次看",
+      "dek": "NOWnews報導，中央氣象署最新預報顯示，全台未來120小時暴風侵襲機率為零，僅東部與恆春沿岸有長浪風險。",
+      "url": "https://www.nownews.com/news/6877698"
     },
     {
       "rank": 10,
-      "title": "太平洋颶風季活躍　四系統並存",
-      "dek": "Weather Channel彙整指出，東太平洋同時有颶風波羅、諾羅、熱帶風暴奧達莉絲等四個系統活躍，大西洋季則異常平靜。",
-      "url": "https://weather.com/2026/09/27/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
+      "title": "大西洋熱帶風暴菲伊生成　預期維持弱勢留在海上",
+      "dek": "福斯天氣網報導，熱帶風暴菲伊在亞速爾群島附近形成，強度預估偏弱且不登陸，今年大西洋颶風季為1960年以來最平靜開局。",
+      "url": "https://www.foxweather.com/weather-news/tropical-depression-six-forms-atlantic-el-nino-september-2026"
     }
   ]
 }
