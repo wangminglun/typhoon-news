@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T21:12:00+08:00",
+  "generated_at": "2026-09-27T22:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署評估颱風舒力基將北轉遠離台灣，全台各縣市未來120小時暴風機率均為0%，目前並未發布海上或陸上颱風警報。",
+  "alert_desc": "中央氣象署目前並未發布海上或陸上颱風警報。颱風舒力基已於27日上午北轉，持續遠離台灣朝琉球群島與日本方向移動。",
   "region_watch": {
     "region": "台中",
-    "text": "目前未受舒力基直接影響。由於颱風路徑持續北移、通過沖繩海域，台中僅可能因外圍環流出現些微降雨機率，風雨與停班停課均無影響，氣象預報顯示台中將延續乾燥高溫的「秋老虎」天氣，西半部部分地區氣溫可能逼近攝氏34度。"
+    "text": "目前無直接影響。台中地區未受任何颱風系統直接影響，天氣持平，高溫約32度、低溫約18度，並無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱舒力基逼近沖繩　台灣氣象署確認無直接威脅",
-    "dek": "颱風杜鵑重創關東僅一週後　沖繩再度戒備",
-    "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+    "title": "颱風舒力基增強為強颱北轉遠離台灣　沖繩、日本南部嚴防風雨",
+    "dek": "日本氣象廳將舒力基升格為「非常強」颱風並持續北上逼近沖繩與奄美地區，而台灣本島目前未發布任何颱風警報，僅東部沿海出現長浪。",
+    "url": "https://weathernews.jp/news/202609/270251/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "日媒：颱風數創60年新高",
-      "dek": "舒力基為第11個逼日系統",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "颱風26號舒力基增強為「非常強」颱風　大東群島明日嚴防惡劣天候",
+      "dek": "Weathernews報導，舒力基前進速度預測仍有落差，逼近日本外島的確切時間點尚難精準掌握。",
+      "url": "https://weathernews.jp/news/202609/270251/"
     },
     {
       "rank": 2,
-      "title": "颱風杜鵑重創關東　9死4失聯",
-      "dek": "伊豆大島雨量破紀錄",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
+      "title": "颱風26號快速增強　二十八日前逼近沖繩與奄美　日本本州同時面臨豪雨風險",
+      "dek": "NHK新聞報導，另一波降雨系統同步為日本北部到西部帶來強降雨，全國多地拉高淹水與土石流警戒。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641"
     },
     {
       "rank": 3,
-      "title": "沖繩本島今發布波浪警報",
-      "dek": "暴風警報恐隨後發布",
-      "url": "https://ryukyushimpo.jp/news/entry-5525991.html"
+      "title": "沖繩多市町村依暴風警報生效與否　宣布彈性停課",
+      "dek": "沖繩時報彙整各市町村最新公告，停課與否將視九月二十八日清晨六時前後暴風警報是否發布而定。",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1931659"
     },
     {
       "rank": 4,
-      "title": "NHK：沖繩27日將現大浪",
-      "dek": "氣象廳曝28日增強預測",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52272"
+      "title": "「奎妮」增強逼近菲律賓責任區邊界",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，奎妮（國際命名舒力基）持續增強，近中心風速已達每小時130公里、陣風可達160公里。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
     },
     {
       "rank": 5,
-      "title": "大東群島戒備強颱來襲",
-      "dek": "下週轉向本州南方海域",
-      "url": "https://weathernews.jp/news/202609/270161/"
+      "title": "奎妮今日離開菲律賓責任區　未在菲國登陸",
+      "dek": "菲律賓大氣地球物理暨天文服務署證實，奎妮已加速轉向東北朝日本南方海域移動，菲國未發布任何地方風力警示。",
+      "url": "https://www.philstar.com/headlines/2026/09/27/2559207/queenie-exit-par-today"
     },
     {
       "rank": 6,
-      "title": "林得恩：舒力基確定不來",
-      "dek": "西半部秋老虎飆34度",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5585667"
+      "title": "舒力基增強為中度颱風　台灣東部沿海現長浪",
+      "dek": "台灣媒體報導，舒力基九月二十七日清晨升格為中度颱風，持續朝東北方向遠離台灣，本島尚未發布颱風警報。",
+      "url": "https://tw.news.yahoo.com/20260927%E8%88%92%E5%8A%9B%E5%9F%BA%E8%AE%8A%E4%B8%AD%E9%A2%B1-%E9%80%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%B2%BF%E6%B5%B7%E6%9C%89%E9%95%B7%E6%B5%AA-043443448.html"
     },
     {
       "rank": 7,
-      "title": "舒力基增強中颱北轉",
-      "dek": "華航調整沖繩班機",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5587193"
+      "title": "舒力基路徑北轉　日本氣象廳升格「強颱風」",
+      "dek": "TVBS新聞報導，隨著路徑轉向北方，舒力基對台灣的直接威脅降低，轉而朝琉球群島與日本本土逼近。",
+      "url": "https://news.tvbs.com.tw/world/4026929"
     },
     {
       "rank": 8,
-      "title": "氣象署示警長浪來襲",
-      "dek": "籲勿在海邊逗留",
-      "url": "https://udn.com/news/story/7266/9775245"
+      "title": "颱風生成前夕　部分模式一度示警恐登陸台灣",
+      "dek": "風傳媒回顧，中秋連假前夕人工智慧氣象模式曾推演舒力基可能登陸台灣的情境，凸顯當時預報的高度不確定性。",
+      "url": "https://www.storm.mg/lifestyle/11166990"
     },
     {
       "rank": 9,
-      "title": "中秋賞月不受颱風影響",
-      "dek": "舒力基效應僅在海上",
+      "title": "儘管風暴逼近　中秋滿月預期仍可如常賞月",
+      "dek": "台北時報報導，官員預期舒力基將從台灣南方及東方海域通過後轉向琉球群島，桃園以北及宜蘭地區僅見零星降雨。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
     },
     {
       "rank": 10,
-      "title": "菲氣象署追蹤舒力基",
-      "dek": "一度可能增強為颱風",
-      "url": "https://bworldonline.com/the-nation/2026/09/24/781232/tropical-storm-surigae-maintains-strength-may-intensify-into-typhoon-pagasa/"
+      "title": "2026年北太平洋颱風季創紀錄活躍　八月十颱創六十年新高",
+      "dek": "馬尼拉時報報導，今年一月至九月連續每月均有颱風生成，為1951年以來第三次出現此紀錄，八月單月十個颱風更創1966年以來新高。",
+      "url": "https://www.manilatimes.net/2026/09/26/news/queenie-nears-typhoon-category-pagasa-says/2433360"
     }
   ]
 }
