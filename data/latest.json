@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T20:12:00+08:00",
+  "generated_at": "2026-09-27T21:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已將舒力基升級為中度颱風，並研判其路徑將先偏西北、隨後轉向北方，沿台灣以東海面北上；120小時暴風侵襲機率全台各縣市均為0%，目前並未發布海上或陸上颱風警報。",
+  "alert_desc": "中央氣象署評估颱風舒力基將北轉遠離台灣，全台各縣市未來120小時暴風機率均為0%，目前並未發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前並未受到直接影響。由於舒力基持續遠離台灣、朝日本方向北上，中央氣象署的暴風侵襲機率顯示台中與全台其他縣市相同，均為零，當地也未接獲任何停班停課評估或警戒訊息；即便東北季風增強，預期降雨仍將集中於北海岸與宜蘭一帶，中部地區短期內無明顯風雨疑慮。"
+    "text": "目前未受舒力基直接影響。由於颱風路徑持續北移、通過沖繩海域，台中僅可能因外圍環流出現些微降雨機率，風雨與停班停課均無影響，氣象預報顯示台中將延續乾燥高溫的「秋老虎」天氣，西半部部分地區氣溫可能逼近攝氏34度。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "舒力基增強為中颱　轉向日本沖繩逼近",
-    "dek": "中央氣象署維持零警戒　東北角雨勢將增強",
+    "title": "強颱舒力基逼近沖繩　台灣氣象署確認無直接威脅",
+    "dek": "颱風杜鵑重創關東僅一週後　沖繩再度戒備",
     "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沖繩拉警報　颱風襲日創新高",
-      "dek": "日本颱風數創1966年新高",
+      "title": "日媒：颱風數創60年新高",
+      "dek": "舒力基為第11個逼日系統",
       "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
     },
     {
       "rank": 2,
-      "title": "舒力基逼近沖繩、九州",
-      "dek": "強風豪雨恐釀班機停飛",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
+      "title": "颱風杜鵑重創關東　9死4失聯",
+      "dek": "伊豆大島雨量破紀錄",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 3,
-      "title": "亞運閉幕前　颱風威脅愛知",
-      "dek": "舒力基恐10月初逼近中部",
-      "url": "https://www.koreajoongangdaily.com/korea/weather-threat-looms-over-asian-games-as-typhoon-surigae-moves-toward-honshu/12893004"
+      "title": "沖繩本島今發布波浪警報",
+      "dek": "暴風警報恐隨後發布",
+      "url": "https://ryukyushimpo.jp/news/entry-5525991.html"
     },
     {
       "rank": 4,
-      "title": "菲律賓：奎妮增強出責任區",
-      "dek": "預計增強為颱風北探日本",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/26/2559054/queenie-keeps-strength-may-become-typhoon-it-exits-par-sunday"
+      "title": "NHK：沖繩27日將現大浪",
+      "dek": "氣象廳曝28日增強預測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52272"
     },
     {
       "rank": 5,
-      "title": "中央氣象署：舒力基增強中颱",
-      "dek": "各縣市暴風機率均為0%",
-      "url": "https://www.chinatimes.com/realtimenews/20260926002841-260405"
+      "title": "大東群島戒備強颱來襲",
+      "dek": "下週轉向本州南方海域",
+      "url": "https://weathernews.jp/news/202609/270161/"
     },
     {
       "rank": 6,
-      "title": "舒力基外圍加東北季風",
-      "dek": "北海岸、宜蘭下週雨勢增",
-      "url": "https://www.ettoday.net/news/20260926/3244311.htm"
+      "title": "林得恩：舒力基確定不來",
+      "dek": "西半部秋老虎飆34度",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5585667"
     },
     {
       "rank": 7,
-      "title": "舒力基轉中颱直撲日本",
-      "dek": "沖繩航班籲旅客留意動態",
+      "title": "舒力基增強中颱北轉",
+      "dek": "華航調整沖繩班機",
       "url": "https://news.ltn.com.tw/news/life/breakingnews/5587193"
     },
     {
       "rank": 8,
-      "title": "杜鵑重創東京　至少9死",
-      "dek": "千葉神奈川淹水土石流",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
+      "title": "氣象署示警長浪來襲",
+      "dek": "籲勿在海邊逗留",
+      "url": "https://udn.com/news/story/7266/9775245"
     },
     {
       "rank": 9,
-      "title": "杜鵑餘波未平　日本反思",
-      "dek": "頻繁豪雨災情再受關注",
-      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
+      "title": "中秋賞月不受颱風影響",
+      "dek": "舒力基效應僅在海上",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
     },
     {
       "rank": 10,
-      "title": "大西洋反常平靜　太平洋忙",
-      "dek": "聖嬰現象致颶風季創紀錄冷清",
-      "url": "https://www.bostonglobe.com/2026/09/22/metro/record-quiet-2026-atlantic-hurricane-season/"
+      "title": "菲氣象署追蹤舒力基",
+      "dek": "一度可能增強為颱風",
+      "url": "https://bworldonline.com/the-nation/2026/09/24/781232/tropical-storm-surigae-maintains-strength-may-intensify-into-typhoon-pagasa/"
     }
   ]
 }
