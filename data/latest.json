@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T19:16:00+08:00",
+  "generated_at": "2026-09-27T20:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至27日尚未對颱風舒力基發布海上或陸上颱風警報，隨舒力基持續北轉遠離，暴風圈預測路徑與台灣本島距離約600至700公里，發布警報機率偏低；但今日受年度大潮疊加颱風外圍環流湧浪影響，台灣沿岸仍有淹水風險。",
+  "alert_desc": "中央氣象署已將舒力基升級為中度颱風，並研判其路徑將先偏西北、隨後轉向北方，沿台灣以東海面北上；120小時暴風侵襲機率全台各縣市均為0%，目前並未發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。截至27日的預報顯示，台中天氣大致為多雲到晴，午後山區有零星降雨，日間高溫約攝氏30至34度，沒有颱風相關風雨衝擊，也沒有傳出或預期會有停班停課措施。"
+    "text": "目前並未受到直接影響。由於舒力基持續遠離台灣、朝日本方向北上，中央氣象署的暴風侵襲機率顯示台中與全台其他縣市相同，均為零，當地也未接獲任何停班停課評估或警戒訊息；即便東北季風增強，預期降雨仍將集中於北海岸與宜蘭一帶，中部地區短期內無明顯風雨疑慮。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基增強為中颱　北轉遠離台灣海域",
-    "dek": "氣象署未發颱風警報　今日大潮仍增沿海淹水風險",
-    "url": "https://news.nextapple.com/life/20260927/36DC1841BA2392E12F2B4631BF26E870"
+    "title": "舒力基增強為中颱　轉向日本沖繩逼近",
+    "dek": "中央氣象署維持零警戒　東北角雨勢將增強",
+    "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基增強中颱　沿海防大潮淹水",
-      "dek": "週四天氣可能出現轉變",
-      "url": "https://news.nextapple.com/life/20260927/36DC1841BA2392E12F2B4631BF26E870"
-    },
-    {
-      "rank": 2,
-      "title": "舒力基升級中颱　最新路徑曝光",
-      "dek": "氣壓975百帕　陣風達43公尺",
-      "url": "https://www.ettoday.net/news/20260926/3244409.htm"
-    },
-    {
-      "rank": 3,
-      "title": "氣象署數據曝　颱風不影響台灣",
-      "dek": "120小時強風機率預報為零",
-      "url": "https://www.chinatimes.com/realtimenews/20260926002841-260405"
-    },
-    {
-      "rank": 4,
-      "title": "舒力基颱風生成　北轉角度受關注",
-      "dek": "早期預測不排除侵台可能",
-      "url": "https://udn.com/news/story/7266/9773955"
-    },
-    {
-      "rank": 5,
-      "title": "舒力基逼近沖繩九州　強度看漲",
-      "dek": "估將達一級颶風等級風力",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
-    },
-    {
-      "rank": 6,
-      "title": "日本今年颱風數創1966年新高",
-      "dek": "舒力基來襲再添新威脅",
+      "title": "沖繩拉警報　颱風襲日創新高",
+      "dek": "日本颱風數創1966年新高",
       "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
     },
     {
+      "rank": 2,
+      "title": "舒力基逼近沖繩、九州",
+      "dek": "強風豪雨恐釀班機停飛",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
+    },
+    {
+      "rank": 3,
+      "title": "亞運閉幕前　颱風威脅愛知",
+      "dek": "舒力基恐10月初逼近中部",
+      "url": "https://www.koreajoongangdaily.com/korea/weather-threat-looms-over-asian-games-as-typhoon-surigae-moves-toward-honshu/12893004"
+    },
+    {
+      "rank": 4,
+      "title": "菲律賓：奎妮增強出責任區",
+      "dek": "預計增強為颱風北探日本",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/26/2559054/queenie-keeps-strength-may-become-typhoon-it-exits-par-sunday"
+    },
+    {
+      "rank": 5,
+      "title": "中央氣象署：舒力基增強中颱",
+      "dek": "各縣市暴風機率均為0%",
+      "url": "https://www.chinatimes.com/realtimenews/20260926002841-260405"
+    },
+    {
+      "rank": 6,
+      "title": "舒力基外圍加東北季風",
+      "dek": "北海岸、宜蘭下週雨勢增",
+      "url": "https://www.ettoday.net/news/20260926/3244311.htm"
+    },
+    {
       "rank": 7,
-      "title": "第26號颱風舒力基生成",
-      "dek": "日本氣象廳估28日近沖繩",
-      "url": "https://en.fnnews.com/news/202609232258583827"
+      "title": "舒力基轉中颱直撲日本",
+      "dek": "沖繩航班籲旅客留意動態",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5587193"
     },
     {
       "rank": 8,
-      "title": "又一颱風南方接近日本沖繩",
-      "dek": "今年風季一波接一波來襲",
-      "url": "https://www.bernama.com/en/world/news.php?id=2611598"
+      "title": "杜鵑重創東京　至少9死",
+      "dek": "千葉神奈川淹水土石流",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 9,
-      "title": "沖繩本島發布暴潮強降雨警戒",
-      "dek": "27至28日風雨風險升高",
-      "url": "https://sea.weathernews.com/resources/202609/254"
+      "title": "杜鵑餘波未平　日本反思",
+      "dek": "頻繁豪雨災情再受關注",
+      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
     },
     {
       "rank": 10,
-      "title": "杜鵑颱風重創東京　9死4失蹤",
-      "dek": "近200萬人一度遭下令撤離",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
+      "title": "大西洋反常平靜　太平洋忙",
+      "dek": "聖嬰現象致颶風季創紀錄冷清",
+      "url": "https://www.bostonglobe.com/2026/09/22/metro/record-quiet-2026-atlantic-hurricane-season/"
     }
   ]
 }
