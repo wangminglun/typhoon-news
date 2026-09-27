@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T22:10:00+08:00",
+  "generated_at": "2026-09-27T23:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未發布海上或陸上颱風警報。颱風舒力基已於27日上午北轉，持續遠離台灣朝琉球群島與日本方向移動。",
+  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報。颱風舒力基持續遠離台灣，朝日本沖繩以南海域移動。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區未受任何颱風系統直接影響，天氣持平，高溫約32度、低溫約18度，並無停班停課公告。"
+    "text": "台中市目前無直接影響，未有因舒力基而發布的停班停課訊息；坊間流傳的台中颱風停班紀錄屬今年7月颱風巴威事件，與本次情勢無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基增強為強颱北轉遠離台灣　沖繩、日本南部嚴防風雨",
-    "dek": "日本氣象廳將舒力基升格為「非常強」颱風並持續北上逼近沖繩與奄美地區，而台灣本島目前未發布任何颱風警報，僅東部沿海出現長浪。",
-    "url": "https://weathernews.jp/news/202609/270251/"
+    "title": "颱風舒力基增強為強颱　轉向日本外海　台灣暫無直接威脅",
+    "dek": "中央氣象署表示，舒力基持續遠離台灣本島，目前未發布海上或陸上颱風警報。",
+    "url": "https://ctinews.com/news/items/ogxwXEGqnG"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風26號舒力基增強為「非常強」颱風　大東群島明日嚴防惡劣天候",
-      "dek": "Weathernews報導，舒力基前進速度預測仍有落差，逼近日本外島的確切時間點尚難精準掌握。",
-      "url": "https://weathernews.jp/news/202609/270251/"
+      "title": "舒力基增強為強烈颱風　逼近沖繩那霸海域",
+      "dek": "中天新聞網引述最新資料指出，舒力基已於27日晚間升級為強烈颱風，持續朝東北方遠離台灣。",
+      "url": "https://ctinews.com/news/items/ogxwXEGqnG"
     },
     {
       "rank": 2,
-      "title": "颱風26號快速增強　二十八日前逼近沖繩與奄美　日本本州同時面臨豪雨風險",
-      "dek": "NHK新聞報導，另一波降雨系統同步為日本北部到西部帶來強降雨，全國多地拉高淹水與土石流警戒。",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641"
+      "title": "颱風路徑北偏　北台灣周四轉涼轉濕",
+      "dek": "TVBS新聞報導，舒力基升級為強颱後路徑持續北移，僅鋒面接近可能為北部、東部帶來降雨降溫。",
+      "url": "https://news.tvbs.com.tw/life/4028391"
     },
     {
       "rank": 3,
-      "title": "沖繩多市町村依暴風警報生效與否　宣布彈性停課",
-      "dek": "沖繩時報彙整各市町村最新公告，停課與否將視九月二十八日清晨六時前後暴風警報是否發布而定。",
-      "url": "https://www.okinawatimes.co.jp/articles/-/1931659"
+      "title": "陸媒證實舒力基增強為颱風等級　趨向日本以南海域",
+      "dek": "光明網報導指出，舒力基已加強為颱風強度，並將逐漸趨向日本以南洋面，與台灣氣象單位研判一致。",
+      "url": "https://m.gmw.cn/2026-09/27/content_1304568607.htm"
     },
     {
       "rank": 4,
-      "title": "「奎妮」增強逼近菲律賓責任區邊界",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，奎妮（國際命名舒力基）持續增強，近中心風速已達每小時130公里、陣風可達160公里。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
+      "title": "舒力基增強同時　年度大潮沿海防淹水",
+      "dek": "壹蘋新聞網報導，舒力基27日一度增強為中度颱風之際，適逢年度天文大潮，沿海地區須提防高潮位淹水。",
+      "url": "https://news.nextapple.com/life/20260927/36DC1841BA2392E12F2B4631BF26E870"
     },
     {
       "rank": 5,
-      "title": "奎妮今日離開菲律賓責任區　未在菲國登陸",
-      "dek": "菲律賓大氣地球物理暨天文服務署證實，奎妮已加速轉向東北朝日本南方海域移動，菲國未發布任何地方風力警示。",
-      "url": "https://www.philstar.com/headlines/2026/09/27/2559207/queenie-exit-par-today"
-    },
-    {
-      "rank": 6,
-      "title": "舒力基增強為中度颱風　台灣東部沿海現長浪",
-      "dek": "台灣媒體報導，舒力基九月二十七日清晨升格為中度颱風，持續朝東北方向遠離台灣，本島尚未發布颱風警報。",
+      "title": "東部沿海現長浪　蘭嶼綠島恆春半島籲留意戲水安全",
+      "dek": "Yahoo奇摩新聞報導，舒力基雖未直接侵襲台灣，蘭嶼、綠島及恆春半島沿海仍可能出現長浪。",
       "url": "https://tw.news.yahoo.com/20260927%E8%88%92%E5%8A%9B%E5%9F%BA%E8%AE%8A%E4%B8%AD%E9%A2%B1-%E9%80%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%B2%BF%E6%B5%B7%E6%9C%89%E9%95%B7%E6%B5%AA-043443448.html"
     },
     {
+      "rank": 6,
+      "title": "氣象署：舒力基升格中颱　對台影響有限",
+      "dek": "三立新聞網報導，中央氣象署27日稍早說明，舒力基升級為中度颱風時對台灣直接影響有限，僅提醒留意鋒面降雨時段。",
+      "url": "https://www.setn.com/news/1913393"
+    },
+    {
       "rank": 7,
-      "title": "舒力基路徑北轉　日本氣象廳升格「強颱風」",
-      "dek": "TVBS新聞報導，隨著路徑轉向北方，舒力基對台灣的直接威脅降低，轉而朝琉球群島與日本本土逼近。",
-      "url": "https://news.tvbs.com.tw/world/4026929"
+      "title": "菲律賓：颱風Queenie增強　逼近巴丹群島外海",
+      "dek": "菲律賓媒體Abante報導，Queenie（即舒力基）增強為颱風等級，中心風速達每小時150公里，位於巴丹群島東北方海面。",
+      "url": "https://tnt.abante.com.ph/2026/09/27/bagyong-queenie-lumakas-bilang-typhoon/news/"
     },
     {
       "rank": 8,
-      "title": "颱風生成前夕　部分模式一度示警恐登陸台灣",
-      "dek": "風傳媒回顧，中秋連假前夕人工智慧氣象模式曾推演舒力基可能登陸台灣的情境，凸顯當時預報的高度不確定性。",
-      "url": "https://www.storm.mg/lifestyle/11166990"
+      "title": "Queenie離開菲律賓責任區前持續增強",
+      "dek": "Abante後續報導指出，Queenie在脫離菲律賓大氣地球物理天文局責任區之際仍持續增強，呂宋部分地區外圍環流警戒仍未解除。",
+      "url": "https://tnt.abante.com.ph/2026/09/27/bagyong-queenie-lalo-pang-lumakas-habang-palabas-ng-par/news/"
     },
     {
       "rank": 9,
-      "title": "儘管風暴逼近　中秋滿月預期仍可如常賞月",
-      "dek": "台北時報報導，官員預期舒力基將從台灣南方及東方海域通過後轉向琉球群島，桃園以北及宜蘭地區僅見零星降雨。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
+      "title": "沖繩面臨航班船班干擾　舒力基逼近日本外海",
+      "dek": "英語旅遊媒體Travel And Tour World報導，舒力基逼近沖繩外海之際，恐衝擊當地航班與渡輪班次。",
+      "url": "https://www.travelandtourworld.com/news/article/xiazr7pw80kj/"
     },
     {
       "rank": 10,
-      "title": "2026年北太平洋颱風季創紀錄活躍　八月十颱創六十年新高",
-      "dek": "馬尼拉時報報導，今年一月至九月連續每月均有颱風生成，為1951年以來第三次出現此紀錄，八月單月十個颱風更創1966年以來新高。",
-      "url": "https://www.manilatimes.net/2026/09/26/news/queenie-nears-typhoon-category-pagasa-says/2433360"
+      "title": "舒力基環流擴大　路徑預告轉向大迴轉",
+      "dek": "ETtoday新聞雲早前報導，舒力基環流擴大進入中颱中段班，並預告兩天後將出現北轉的大迴轉路徑，後續獲證實趨向沖繩及日本南方海域。",
+      "url": "https://www.ettoday.net/news/20260924/3243727.htm"
     }
   ]
 }
