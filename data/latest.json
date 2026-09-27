@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T01:09:00+08:00",
+  "generated_at": "2026-09-28T02:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，因颱風舒力基已轉向沖繩方向遠離台灣，120小時預報顯示全台各縣市強風侵襲機率為0%。",
+  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，颱風舒力基持續在沖繩本島東方海面加速北上，遠離台灣，對台灣本島無直接風雨威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "颱風舒力基環流通過台灣東方遙遠的沖繩海域，對台中不具風雨或安全威脅，市府亦未發布停班停課；台中目前維持晴朗炎熱的中秋連假天氣型態。"
+    "text": "颱風舒力基持續在沖繩本島東方海面北上，環流距離台灣尚遠，對台中不具風雨或安全威脅，市府亦未發布停班停課；台中目前維持晴朗炎熱天氣型態。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基轉向沖繩外海　對台無威脅但沖繩嚴防強風豪雨",
-    "dek": "今年太平洋第26號颱風「舒力基」已飄離菲律賓警戒範圍，路徑北轉直逼日本沖繩，台灣中央氣象署評估無直接影響。",
-    "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
+    "title": "颱風舒力基急速增強逼近沖繩　台灣仍在警戒範圍外",
+    "dek": "中央氣象署尚未針對此一氣旋發布海上或陸上警報，但日本沖繩地區已進入強風豪浪戒備。",
+    "url": "https://weathernews.jp/news/202609/270271/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風「奎妮」增強逼近菲律賓警戒區邊緣",
-      "dek": "PAGASA表示，奎妮風力增強，中心位於巴丹群島東北方約675公里海面。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
+      "title": "颱風26號舒力基颱風眼清晰　沖繩本島以東急速增強",
+      "dek": "日本氣象媒體Weathernews指出，衛星雲圖顯示颱風眼輪廓清晰，顯示暴風環流組織完整。",
+      "url": "https://weathernews.jp/news/202609/270271/"
     },
     {
       "rank": 2,
-      "title": "奎妮颱風27日將離開菲律賓責任區",
-      "dek": "菲律賓氣象單位預測，颱風當天稍晚飄出警戒範圍，未直接侵襲菲國本島。",
-      "url": "https://www.philstar.com/headlines/2026/09/27/2559207/queenie-exit-par-today"
+      "title": "颱風26號增強至945百帕　27日持續北上通過沖繩東方",
+      "dek": "《西日本新聞》報導，颱風中心氣壓降至945百帕、最大瞬間風速每秒50公尺，預計28日晚間接近大東群島，30日通過日本本土南方海域。",
+      "url": "https://www.nishinippon.co.jp/item/1542342/"
     },
     {
       "rank": 3,
-      "title": "輻合帶影響菲國多地　奎妮已飄離責任區",
-      "dek": "Rappler報導，奎妮晚間已離開菲律賓警戒範圍，另一輻合帶仍為部分地區帶來降雨。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/"
+      "title": "沖繩本島今日恐發布暴風警報　海上航班多已停駛",
+      "dek": "《琉球新報》報導，颱風持續增強北上，沖繩本島已發布波浪警報，本島與離島間渡輪多數停駛。",
+      "url": "https://ryukyushimpo.jp/news/entry-5525991.html"
     },
     {
       "rank": 4,
-      "title": "奎妮遠離菲律賓　輻合帶仍將局部降雨",
-      "dek": "《馬尼拉時報》指出，颱風未直接衝擊菲律賓本島，惟熱帶輻合帶另致部分地區降雨。",
-      "url": "https://www.manilatimes.net/2026/09/27/news/queenie-exits-itcz-to-bring-rain-in-some-parts-of-ph/2433635"
+      "title": "颱風舒力基增強　沖繩籠罩強風巨浪",
+      "dek": "Weathernews提醒，颱風已發展為強烈颱風，為沖繩地區帶來強風與高浪，籲請持續留意下週動向。",
+      "url": "https://weathernews.jp/news/202609/270021/"
     },
     {
       "rank": 5,
-      "title": "日本今年颱風生成數創1966年來新高",
-      "dek": "《日本時報》報導，西北太平洋今年颱風數量創60年新高，舒力基持續逼近日本。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "氣象專家：颱風26號28日前以「非常強」等級逼近沖繩",
+      "dek": "日本氣象協會tenki.jp預報士藤川徹分析，颱風將以非常強等級持續逼近琉球及大東群島，需嚴防高浪侵襲。",
+      "url": "https://tenki.jp/forecaster/t_fujikawa/2026/09/27/40770.html"
     },
     {
       "rank": 6,
-      "title": "沖繩嚴防強風豪浪　26號颱風持續增強",
-      "dek": "News On Japan報導，沖繩當局警戒強風、巨浪、山崩與淹水風險，籲居民提高警覺。",
-      "url": "https://newsonjapan.com/article/150843.php"
+      "title": "颱風奎妮（舒力基）已離開菲律賓責任區　呂宋東北方持續增強",
+      "dek": "根據《Rappler》報導，菲律賓大氣地球物理暨天文服務署證實奎妮已離開責任區，同時熱帶輻合帶持續為菲國部分地區帶來降雨。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/"
     },
     {
       "rank": 7,
-      "title": "沖繩航班恐再度受阻　舒力基持續增強",
-      "dek": "Travel And Tour World報導，颱風增強恐導致沖繩地區班機延誤或取消。",
-      "url": "https://www.travelandtourworld.com/news/article/xiazr7pw80kj/"
+      "title": "奎妮出境前再增強　為今年侵菲第17個熱帶氣旋",
+      "dek": "《菲律賓星報》報導，奎妮在離開菲律賓責任區前持續增強，成為今年第17個侵襲菲律賓的熱帶氣旋，24日進入、27日離開責任區。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
     },
     {
       "rank": 8,
-      "title": "全日空停飛部分沖繩航線　因應颱風舒力基",
-      "dek": "日本安全旅遊引述全日空公告，27、28日沖繩國內線恐取消、延誤或轉降。",
-      "url": "https://x.com/JapanSafeTravel/status/2103401458221867453"
+      "title": "PAGASA正式宣布奎妮離開責任區　持續朝琉球群島前進",
+      "dek": "《GMA新聞網》報導，菲律賓氣象單位於下午五時公告奎妮已離開責任區，持續向東北移動朝日本琉球群島方向前進。",
+      "url": "https://gmanetwork.com/news/weather/content/1003888/typhoon-queenie-exits-par/story/?just_in="
     },
     {
       "rank": 9,
-      "title": "台灣持續高溫至36度　舒力基北轉無影響",
-      "dek": "NOWnews報導，颱風轉向沖繩海域，台灣維持晴熱，下週轉受東北季風影響。",
-      "url": "https://www.nownews.com/news/6878209"
+      "title": "中秋賞月不受影響　氣象署：颱風雲系未遮蔽台灣夜空",
+      "dek": "《台北時報》報導，中央氣象署表示儘管颱風舒力基在區域內活動，中秋滿月當晚台灣仍可清楚賞月。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
     },
     {
       "rank": 10,
-      "title": "專家示警下週末恐見雙颱　路徑仍待觀察",
-      "dek": "中時新聞網報導，氣象專家賈新興指出，下週末不排除另有新颱風生成。",
-      "url": "https://www.chinatimes.com/realtimenews/20260924002455-260405"
+      "title": "大西洋112年來首見　9月21日仍無颶風生成",
+      "dek": "美國CBS聯播網WCAX報導，今年大西洋颶風季異常平靜，截至9月21日僅出現六個熱帶風暴、尚無颶風，與西太平洋活躍的颱風季形成對比。",
+      "url": "https://www.wcax.com/2026/09/21/first-atlantic-hurricane-season-without-hurricane-by-sept-21-112-years/"
     }
   ]
 }
