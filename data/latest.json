@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T10:10:00+08:00",
-  "alert_level": "sea",
-  "alert_text": "海上颱風警報",
-  "alert_desc": "颱風沙德爾27日中午最接近馬祖後持續遠離，中央氣象署已宣布海上颱風警報預定於28日下午2時30分解除，全程未發布陸上颱風警報。",
+  "generated_at": "2026-09-28T11:12:00+08:00",
+  "alert_level": "none",
+  "alert_text": "目前無警報",
+  "alert_desc": "中央氣象署目前未針對舒力基颱風發布海上或陸上颱風警報，因其環流持續偏向台灣東方外海並已北轉沖繩方向。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。沙德爾全程在外海活動，暴風圈未觸及台灣本島，中央氣象署評估對台中無直接影響；氣象單位提醒中南部及山區留意外圍雨帶與西南季風共同作用下的降雨風險，台中目前未見任何停班停課相關公告。"
+    "text": "台中地區目前無直接影響，舒力基外圍環流預估僅為北部、宜蘭與花東帶來零星降雨，台中未被列為受影響地區，且全台仍處於穩定炎熱的高壓天氣型態。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "沙德爾颱風掠過馬祖外海　氣象署預告今日午後解除海上警報",
-    "dek": "中央氣象署表示，颱風沙德爾27日中午最接近馬祖後持續遠離，海上颱風警報預定於28日下午2時30分解除，而威力更強的颱風舒力基則正逼近日本沖繩與奄美一帶，成為區域內更受矚目的風暴。",
-    "url": "https://news.tvbs.com.tw/life/4011700"
+    "title": "強颱舒力基北轉逼近沖繩　台灣僥倖未發颱風警報",
+    "dek": "颱風舒力基掠過台灣東側後轉北逼近沖繩，中央氣象署未發布警報，日本仍在統計杜鵑颱風致死人數。",
+    "url": "https://www.philstar.com/headlines/2026/09/28/2559407/typhoon-queenie-exits-par"
   },
   "items": [
     {
       "rank": 1,
-      "title": "沙德爾海警預告解除　最新路徑與影響範圍一次看",
-      "dek": "中央氣象署宣布，颱風沙德爾海上颱風警報將於9月28日下午2時30分解除；根據TVBS報導，沙德爾當天中午最接近馬祖，距離約250公里，隨後持續朝西北方遠離。",
-      "url": "https://news.tvbs.com.tw/life/4011700"
-    },
-    {
-      "rank": 2,
-      "title": "沙德爾颱風動態：路徑、侵襲機率與對台影響整理",
-      "dek": "數位時代報導指出，沙德爾外圍雨帶掠過馬祖，並與西南季風共同作用，使中南部尤其嘉義以南地區降雨風險升高。",
-      "url": "https://www.bnext.com.tw/article/91976/saudel-typhoon-latest-updates"
-    },
-    {
-      "rank": 3,
-      "title": "沙德爾今午最接近台灣　海警估傍晚解除、颱風假機率低",
-      "dek": "商周報導分析，沙德爾於9月28日中午最接近台灣，海上警報預估傍晚前解除，由於暴風圈始終遠在外海，研判發布颱風假的機率不高。",
-      "url": "https://www.businessweekly.com.tw/focus/blog/3022336"
-    },
-    {
-      "rank": 4,
-      "title": "颱風舒力基脫離菲律賓責任區　持續朝日本移動",
-      "dek": "據Philstar.com報導，菲律賓大氣地球物理暨天文服務署證實颱風舒力基（菲律賓命名Queenie）已於9月27日上午脫離菲律賓責任區，不再直接影響菲國天氣，但持續朝日本琉球群島前進。",
+      "title": "颱風奎妮（舒力基）脫離菲律賓責任區",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，奎妮已於前一天上午離開菲律賓責任區，預料週一起減弱。",
       "url": "https://www.philstar.com/headlines/2026/09/28/2559407/typhoon-queenie-exits-par"
     },
     {
+      "rank": 2,
+      "title": "奎妮遠離菲律賓　熱帶輻合帶仍為當地帶來降雨",
+      "dek": "PAGASA晚間公報指出，奎妮持續遠離菲律賓，熱帶輻合帶另為部分地區帶來降雨，當時無新熱帶氣旋在責任區內。",
+      "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/"
+    },
+    {
+      "rank": 3,
+      "title": "「非常強」颱風第26號逼近沖繩、奄美　掀巨浪",
+      "dek": "日本氣象協會報導，颱風中心氣壓降至945百帕、最大風速每秒50公尺，沖繩與奄美持續受強風巨浪影響。",
+      "url": "https://tenki.jp/forecaster/yosh_ika/2026/09/28/40771.html"
+    },
+    {
+      "rank": 4,
+      "title": "颱風26號強勢逼近沖繩奄美　關東需慎防豪雨",
+      "dek": "東北放送報導，颱風預計二十八日以強勁威力接近沖繩、奄美後轉向北方，關東地區後續有豪雨風險。",
+      "url": "https://news.yahoo.co.jp/articles/0b7ff913ba9fc09f6821516a50725a45da476a34"
+    },
+    {
       "rank": 5,
-      "title": "舒力基逼近沖繩、九州　日本發布強風豪雨警戒",
-      "dek": "The Star引述外電報導，颱風舒力基在逼近日本沖繩與九州途中持續增強，當局已針對強風、巨浪與豪雨發布警戒，預計先接近沖繩再轉向日本本島。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/25/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
+      "title": "日本颱風生成數創1966年以來新高　舒力基來勢洶洶",
+      "dek": "彭博社報導，日本氣象廳統計今年八月西太平洋颱風生成數為1966年以來最多，舒力基是六月以來第11個逼近日本的系統。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/storm-menaces-japan-after-highest-cyclone-tally-since-1966"
     },
     {
       "rank": 6,
-      "title": "日本創1966年來最多颱風紀錄　舒力基再添威脅",
-      "dek": "《日本時報》報導，日本今年生成的熱帶氣旋數量創下1966年以來新高，颱風舒力基是最新逼近的系統，緊接在稍早侵襲日本的颱風杜鵑之後。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "杜鵑颱風致命衝擊　凸顯日本豪雨災害頻傳隱憂",
+      "dek": "《日本時報》後續報導檢視杜鵑颱風在關東引發土石流與淹水後，日本今年反覆遭遇嚴重豪雨災害的累積衝擊。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
     },
     {
       "rank": 7,
-      "title": "氣象廳最新公報：舒力基逼近南大東島　中心氣壓945百帕",
-      "dek": "根據Okinawa Times引述日本氣象廳9月28日清晨5時06分發布的公報，舒力基當時位於南大東島西北方約110公里處，屬於中心氣壓945百帕、最大瞬間風速近每秒50公尺的「非常強」颱風，預測將掠過大東群島並帶來高浪。",
-      "url": "https://www.okinawatimes.co.jp/articles/-/1932577"
+      "title": "杜鵑颱風重創東京周邊　至少九死四失蹤",
+      "dek": "《日本時報》報導，杜鵑颱風為千葉、神奈川等地帶來破紀錄豪雨並引發土石流，造成至少九人死亡、四人失蹤，近五百棟房屋受損。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 8,
-      "title": "舒力基路徑預測：9月底至10月初掠過日本南方海域",
-      "dek": "日本氣象協會tenki.jp的最新追蹤顯示，第26號颱風舒力基將於9月29日至10月1日持續向東北移動、掠過日本本州以南海域，並可能在10月3日前後於千島群島附近轉化為溫帶氣旋，沖繩、奄美地區仍須留意強風、巨浪與突發豪雨。",
-      "url": "https://tenki.jp/bousai/typhoon/2626/"
+      "title": "舒力基轉北貼近沖繩　台灣「就在旁邊」躲過直擊",
+      "dek": "SETN報導，舒力基增強為中度颱風後從台灣東側掠過並轉向沖繩方向，環流未直接影響台灣，假期後氣溫將回升至約36度。",
+      "url": "https://www.setn.com/news/1913462"
     },
     {
       "rank": 9,
-      "title": "「昆妮」逼近颱風強度　菲律賓氣象署示警",
-      "dek": "據The Manila Times報導，菲律賓大氣地球物理暨天文服務署9月26日表示，熱帶風暴昆妮（即舒力基）當時位於台灣以東海域、逼近颱風強度，並可能持續增強呂宋島季風雨勢。",
-      "url": "https://www.manilatimes.net/2026/09/26/news/queenie-nears-typhoon-category-pagasa-says/2433360"
+      "title": "舒力基不來了　九月底仍可能有秋颱醞釀",
+      "dek": "Newtalk新聞報導，舒力基確定經沖繩北上後，氣象人士提醒九月底至十月初熱帶低緯度海面仍可能醞釀新秋颱，但目前機率偏低。",
+      "url": "https://newtalk.tw/news/view/2026-09-25/1061914"
     },
     {
       "rank": 10,
-      "title": "沙德爾南海重生　一度朝台灣海峽方向漂移",
-      "dek": "Weathernews報導指出，沙德爾早先於中國大陸登陸減弱後，在南海重新增強並一度朝台灣海峽方向漂移，其後轉向東北，最終依9月27、28日各方報導路徑掠過台灣、馬祖附近海域。",
-      "url": "https://sea.weathernews.com/resources/202609/216"
+      "title": "強聖嬰效應助長東太平洋颶風季　大西洋反顯平靜",
+      "dek": "NPR報導，強聖嬰現象帶動東太平洋出現罕見活躍颶風季，五級颶風波羅重創墨西哥、颶風諾羅威脅夏威夷帶來嚴重暴雨。",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino"
     }
   ]
 }
