@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T22:12:00+08:00",
+  "generated_at": "2026-09-28T23:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對颱風舒力基發布海上或陸上颱風警報，因其路徑明顯偏東直撲沖繩與日本本土，發布海警機率評估偏低。",
+  "alert_desc": "中央氣象署截至28日並未對台灣發布任何海上或陸上颱風警報；颱風蘇力蓋路徑偏東北上撲向日本，未直接威脅台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。舒力基颱風路徑持續轉向日本，台中維持晴到多雲的「秋老虎」型態，高溫約攝氏32至36度，未因任何風暴出現停班停課。"
+    "text": "目前無直接影響。無任何風暴系統對台中造成風雨效應，當地未發布任何警報或停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "舒力基創最小暴風圈紀錄後轉向沖繩　台灣未列警戒、台中天氣如常",
-    "dek": "今年太平洋第26號颱風舒力基一度增強為暴風半徑僅120公里的「迷你強颱」，寫下中央氣象署歷史紀錄，但路徑東移直撲日本沖繩，中央氣象署評估對台灣發布海上颱風警報的機率偏低，台中等地維持乾熱「秋老虎」天氣。",
-    "url": "https://newtalk.tw/news/view/2026-09-28/1062258"
+    "title": "強颱蘇力蓋掠過沖繩北上　災後關東再繃緊神經",
+    "dek": "氣象單位示警沖繩外離島恐現巨浪強風，風暴不排除轉向東京都會區；台灣中央氣象署表示目前無立即威脅。",
+    "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "史上最迷你強颱　舒力基暴風半徑僅120公里刷新氣象署紀錄",
-      "dek": "Newtalk新聞報導，颱風舒力基一度以每秒51公尺持續風速增強為強颱，但七級暴風半徑僅120公里，創下中央氣象署史上最小強颱紀錄，且目前對台灣無直接影響。",
-      "url": "https://newtalk.tw/news/view/2026-09-28/1062258"
-    },
-    {
-      "rank": 2,
-      "title": "前氣象局副局長鄭明典：暴風圈超迷你、慶幸舒力基未襲台",
-      "dek": "TVBS新聞網報導，前中央氣象局副局長鄭明典指出舒力基的暴風圈結構異常緊實、創下紀錄，並表示慶幸這場颱風未侵襲台灣。",
-      "url": "https://news.tvbs.com.tw/life/4028450"
-    },
-    {
-      "rank": 3,
-      "title": "一度衝上強颱　舒力基已減弱為中颱仍保紀錄",
-      "dek": "鏡週刊報導，舒力基在快速增強後已由強颱減弱為中度颱風，但仍保有中央氣象署史上最小強颱環流紀錄，且路徑持續遠離台灣、轉向日本。",
-      "url": "https://www.mirrormedia.mg/story/20260928edi031"
-    },
-    {
-      "rank": 4,
-      "title": "強颱逼近沖繩　恐轉向侵襲飽受風雨摧殘的關東地區",
-      "dek": "《日本時報》報導，日本編號「台風26号」的舒力基正以猛烈風力掠過沖繩與大東群島，預測模式顯示其後續可能轉向關東，東京與千葉已展開預防性疏散。",
+      "title": "強颱逼近沖繩　恐再襲受創關東",
+      "dek": "《日本時報》報道，氣象廳示警大東群島巨浪強風，風暴不排除轉向東京都會區。",
       "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
+      "rank": 2,
+      "title": "颱風「昆妮」已離開菲律賓責任區",
+      "dek": "菲律賓大氣部門證實，昆妮風速每小時155公里，朝東北遠離呂宋島，為今年第17個襲菲氣旋。",
+      "url": "https://www.philstar.com/headlines/2026/09/28/2559407/typhoon-queenie-exits-par"
+    },
+    {
+      "rank": 3,
+      "title": "今年襲日熱帶氣旋數創60年新高",
+      "dek": "《日本時報》報道，蘇力蓋成形之際，日本本年遭侵襲的熱帶氣旋數量已創1966年以來最高紀錄。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+    },
+    {
+      "rank": 4,
+      "title": "颱風杜鵑釀12死　千葉溃堤淹水",
+      "dek": "《日本時報》報道，消防廳統計杜鵑已致12死3失蹤，千葉縣堤防潰決創下紀錄水位，約500棟房屋受損。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
+    },
+    {
       "rank": 5,
-      "title": "舒力基威脅沖繩航班　全日空開放免費改期",
-      "dek": "Travel Daily與RUS Tourism News報導，因應颱風舒力基逼近沖繩可能造成航班中斷，日本航空公司全日空（ANA）已開放來往沖繩航班的乘客免費改期。",
-      "url": "https://www.rustourismnews.com/2026/09/28/typhoon-surigae-threatens-okinawa-flights-as-ana-offers-free-changes/"
+      "title": "強烈颶風波羅逼近下加利福尼亞",
+      "dek": "美聯社報道，五級颶風波羅風速每小時125英里，預計穿越半島進入索諾拉州，為本季第三個五級颶風。",
+      "url": "https://www.opb.org/article/2026/09/27/mexico-s-baja-california-braces-for-major-hurricane-polo-as-hurricane-nolo-still-threatens-hawaii/"
     },
     {
       "rank": 6,
-      "title": "「Queenie」增強逼近菲律賓責任區邊界",
-      "dek": "《Philstar》報導，菲律賓大氣地理天文服務署（PAGASA）指出本地命名為「Queenie」的舒力基在逼近菲律賓責任區邊界時持續增強，並往北北東方向移動，先前已為菲國部分地區帶來增強雨勢。",
-      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
+      "title": "颶風諾洛遠離夏威夷　風險未除",
+      "dek": "美國公共電視網報道，諾洛一度增強至四級並逼近五級，雖已遠離大島，當地仍有強風與暴洪風險。",
+      "url": "https://www.pbs.org/newshour/nation/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk"
     },
     {
       "rank": 7,
-      "title": "颶風波羅恐在墨西哥下加利福尼亞引發致命洪災",
-      "dek": "美聯社透過News4Jax報導，颶風波羅以近每小時120英里風速的三級颶風強度在墨西哥下加利福尼亞南州登陸，預報單位警告當地山區恐出現致命性洪水與土石流，沿岸並有危險暴潮。",
-      "url": "https://www.news4jax.com/news/world/2026/09/28/hurricane-polo-could-produce-life-threatening-flooding-in-mexicos-baja-california/"
+      "title": "全球六個熱帶氣旋同時活躍",
+      "dek": "氣象頻道報道，太平洋颶風波羅、諾洛與熱帶風暴瑞秋，加上大西洋菲伊，全球共六系統同步發展。",
+      "url": "https://weather.com/2026/09/28/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
     },
     {
       "rank": 8,
-      "title": "颶風波羅曾衝上五級　如今以三級之姿逼近墨西哥太平洋岸",
-      "dek": "CBS News報導，颶風波羅曾以892百帕氣壓迅速增強為罕見的五級颶風、為東太平洋史上第二強紀錄，目前減弱為三級颶風，持續朝下加利福尼亞南州登陸路徑前進，先前已在哈利斯科州造成洪災與房屋損壞。",
-      "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/"
+      "title": "熱帶風暴菲伊迅速減弱未成颶風",
+      "dek": "邁阿密WPLG電視台報道，菲伊一度逼近颶風強度旋即減弱，美國國家颶風中心稱其不會登陸。",
+      "url": "https://www.local10.com/weather/hurricane/2026/09/21/fast-forming-fay-nearly-ends-record-atlantic-hurricane-drought-now-quickly-fading/"
     },
     {
       "rank": 9,
-      "title": "颶風波羅鎖定週一登陸下加利福尼亞",
-      "dek": "UPI報導，颶風波羅預測路徑指向9月28日週一以主要颶風強度登陸墨西哥下加利福尼亞，美墨兩國官方已針對沿岸地區發布警戒。",
-      "url": "https://www.upi.com/Top_News/World-News/2026/09/26/mexico-hurricane-polo-forecast/6371790098673/"
+      "title": "國際媒體關注蘇力蓋動向東京",
+      "dek": "塔斯社報道，蘇力蓋逼近沖繩並可能北轉東京，適逢日本剛遭杜鵑重創，外界憂心災情累加。",
+      "url": "https://tass.com/emergencies/2193197"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴瑞秋墨西哥太平洋岸外增強　預測週二升級颶風",
-      "dek": "Weathernews引用美國國家颶風中心（NHC）資料報導，位於墨西哥南部外海、風速每小時45英里的熱帶風暴瑞秋預計持續增強，最快於週二成為颶風，並將以西北西方向移動、大致遠離墨西哥海岸，惟部分沿岸地區已發布熱帶風暴觀察警戒。",
-      "url": "https://sea.weathernews.com/resources/202609/256"
+      "title": "中秋滿月不受風暴干擾　清晰可見",
+      "dek": "《台北時報》報道，中央氣象署預測中秋滿月不受蘇力蓋影響，顯示其路徑預估將明顯偏離台灣。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
     }
   ]
 }
