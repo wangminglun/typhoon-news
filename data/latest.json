@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T21:10:00+08:00",
+  "generated_at": "2026-09-28T22:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對颱風舒力基發布海上或陸上颱風警報，僅針對台灣東部沿海及恆春半島發布長浪戲水安全提醒。",
+  "alert_desc": "中央氣象署目前並未對颱風舒力基發布海上或陸上颱風警報，因其路徑明顯偏東直撲沖繩與日本本土，發布海警機率評估偏低。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。舒力基颱風持續遠離台灣本島，台中未發布任何風雨警報或停班停課公告，中秋、教師節連假期間天氣大致穩定。"
+    "text": "目前無直接影響。舒力基颱風路徑持續轉向日本，台中維持晴到多雲的「秋老虎」型態，高溫約攝氏32至36度，未因任何風暴出現停班停課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "超級颱風舒力基減弱轉向　直逼災後未癒的日本關東",
-    "dek": "颱風舒力基一度增強為超級颱風，如今減弱北轉逼近東京南方海域，而台灣則因風暴持續遠離而僅需留意東部長浪。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+    "title": "舒力基創最小暴風圈紀錄後轉向沖繩　台灣未列警戒、台中天氣如常",
+    "dek": "今年太平洋第26號颱風舒力基一度增強為暴風半徑僅120公里的「迷你強颱」，寫下中央氣象署歷史紀錄，但路徑東移直撲日本沖繩，中央氣象署評估對台灣發布海上颱風警報的機率偏低，台中等地維持乾熱「秋老虎」天氣。",
+    "url": "https://newtalk.tw/news/view/2026-09-28/1062258"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基逼近沖繩　恐再襲受災未癒的關東",
-      "dek": "《日本時報》報導，颱風舒力基廿八日逼近沖繩與奄美群島後可能轉向關東，當地才剛經歷颱風杜鵑釀成的致命淹水與土石流。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+      "title": "史上最迷你強颱　舒力基暴風半徑僅120公里刷新氣象署紀錄",
+      "dek": "Newtalk新聞報導，颱風舒力基一度以每秒51公尺持續風速增強為強颱，但七級暴風半徑僅120公里，創下中央氣象署史上最小強颱紀錄，且目前對台灣無直接影響。",
+      "url": "https://newtalk.tw/news/view/2026-09-28/1062258"
     },
     {
       "rank": 2,
-      "title": "舒力基週四前後逼近伊豆群島　預估減弱為強烈熱帶風暴",
-      "dek": "據Nippon.com引述時事通信社報導，舒力基預計本週經四國、東海外海後北轉，週四左右接近東京以南的伊豆群島，屆時強度可能已減弱。",
-      "url": "https://www.nippon.com/en/news/yjj2026092800279/"
+      "title": "前氣象局副局長鄭明典：暴風圈超迷你、慶幸舒力基未襲台",
+      "dek": "TVBS新聞網報導，前中央氣象局副局長鄭明典指出舒力基的暴風圈結構異常緊實、創下紀錄，並表示慶幸這場颱風未侵襲台灣。",
+      "url": "https://news.tvbs.com.tw/life/4028450"
     },
     {
       "rank": 3,
-      "title": "颱風杜鵑日本死亡人數增至14人",
-      "dek": "據時事通信社報導，神奈川縣三浦市一名婦女與千葉縣市原市一名男子的死亡近日獲確認，杜鵑死亡人數升至十四人，千葉縣一名男子仍失蹤，印旛沼周邊持續淹水。",
-      "url": "https://www.nippon.com/en/news/yjj2026092800881/"
+      "title": "一度衝上強颱　舒力基已減弱為中颱仍保紀錄",
+      "dek": "鏡週刊報導，舒力基在快速增強後已由強颱減弱為中度颱風，但仍保有中央氣象署史上最小強颱環流紀錄，且路徑持續遠離台灣、轉向日本。",
+      "url": "https://www.mirrormedia.mg/story/20260928edi031"
     },
     {
       "rank": 4,
-      "title": "舒力基衝擊沖繩航班　全日空祭免費改簽措施",
-      "dek": "據RUS Tourism News報導，全日空往返沖繩那霸等機場的多個航班因舒力基延誤、取消或改降，公司已開放受影響旅客免費改簽或退票。",
-      "url": "https://www.rustourismnews.com/2026/09/28/typhoon-surigae-threatens-okinawa-flights-as-ana-offers-free-changes/"
+      "title": "強颱逼近沖繩　恐轉向侵襲飽受風雨摧殘的關東地區",
+      "dek": "《日本時報》報導，日本編號「台風26号」的舒力基正以猛烈風力掠過沖繩與大東群島，預測模式顯示其後續可能轉向關東，東京與千葉已展開預防性疏散。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 5,
-      "title": "舒力基曾一度增強為超級颱風",
-      "dek": "據日本Weathernews報導，舒力基在南西諸島南方海面增強，九月廿七日一度依JTWC標準達到超級颱風等級，風速達每小時二四一公里，其後開始減弱。",
-      "url": "https://sea.weathernews.com/resources/202609/254"
+      "title": "舒力基威脅沖繩航班　全日空開放免費改期",
+      "dek": "Travel Daily與RUS Tourism News報導，因應颱風舒力基逼近沖繩可能造成航班中斷，日本航空公司全日空（ANA）已開放來往沖繩航班的乘客免費改期。",
+      "url": "https://www.rustourismnews.com/2026/09/28/typhoon-surigae-threatens-okinawa-flights-as-ana-offers-free-changes/"
     },
     {
       "rank": 6,
-      "title": "中央氣象署：舒力基周末轉向日本　不致直接影響台灣",
-      "dek": "據聯合新聞網報導，中央氣象署表示舒力基將在沖繩南方轉向北上並沿台灣東方海域通過，無登陸威脅，但提醒民眾勿在海邊逗留。",
-      "url": "https://udn.com/news/story/7266/9775245"
+      "title": "「Queenie」增強逼近菲律賓責任區邊界",
+      "dek": "《Philstar》報導，菲律賓大氣地理天文服務署（PAGASA）指出本地命名為「Queenie」的舒力基在逼近菲律賓責任區邊界時持續增強，並往北北東方向移動，先前已為菲國部分地區帶來增強雨勢。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit"
     },
     {
       "rank": 7,
-      "title": "連假注意長浪　台灣東岸三處海域受舒力基外圍影響",
-      "dek": "聯合新聞網報導，蘭嶼、綠島及恆春半島廿七、廿八日因舒力基外圍環流出現長浪風險，氣象署未對台灣發布海上或陸上颱風警報，僅發布戲水安全提醒。",
-      "url": "https://udn.com/news/story/7266/9775888"
+      "title": "颶風波羅恐在墨西哥下加利福尼亞引發致命洪災",
+      "dek": "美聯社透過News4Jax報導，颶風波羅以近每小時120英里風速的三級颶風強度在墨西哥下加利福尼亞南州登陸，預報單位警告當地山區恐出現致命性洪水與土石流，沿岸並有危險暴潮。",
+      "url": "https://www.news4jax.com/news/world/2026/09/28/hurricane-polo-could-produce-life-threatening-flooding-in-mexicos-baja-california/"
     },
     {
       "rank": 8,
-      "title": "舒力基減弱為中颱　台灣東部沿海仍有長浪",
-      "dek": "雅虎新聞報導，舒力基北掠沖繩後由強颱減弱為中度颱風，綠島、蘭嶼與恆春半島沿海持續出現長浪，台灣本島未發布任何警報。",
-      "url": "https://tw.news.yahoo.com/20260927%E8%88%92%E5%8A%9B%E5%9F%BA%E8%AE%8A%E4%B8%AD%E9%A2%B1-%E9%80%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%B2%BF%E6%B5%B7%E6%9C%89%E9%95%B7%E6%B5%AA-043443448.html"
+      "title": "颶風波羅曾衝上五級　如今以三級之姿逼近墨西哥太平洋岸",
+      "dek": "CBS News報導，颶風波羅曾以892百帕氣壓迅速增強為罕見的五級颶風、為東太平洋史上第二強紀錄，目前減弱為三級颶風，持續朝下加利福尼亞南州登陸路徑前進，先前已在哈利斯科州造成洪災與房屋損壞。",
+      "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/"
     },
     {
       "rank": 9,
-      "title": "舒力基持續遠離台灣　中秋連假天氣維持穩定",
-      "dek": "雅虎新聞引述氣象署資料指出，截至廿八日上午八時，舒力基中心已在台北東北東方約九六〇公里海面並持續遠離，台灣中秋、教師節連假天氣大致晴朗穩定至三十日。",
-      "url": "https://tw.news.yahoo.com/20260928%E8%88%92%E5%8A%9B%E5%9F%BA%E9%9B%A2%E8%87%BA%E6%BC%B8%E9%81%A0-%E4%B8%AD%E7%A7%8B%E6%95%99%E5%B8%AB%E7%AF%80%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A%E7%B6%AD%E6%8C%81%E8%87%B30930-042811772.html"
+      "title": "颶風波羅鎖定週一登陸下加利福尼亞",
+      "dek": "UPI報導，颶風波羅預測路徑指向9月28日週一以主要颶風強度登陸墨西哥下加利福尼亞，美墨兩國官方已針對沿岸地區發布警戒。",
+      "url": "https://www.upi.com/Top_News/World-News/2026/09/26/mexico-hurricane-polo-forecast/6371790098673/"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季異常平靜　唯一活躍系統遠在亞速爾群島外海",
-      "dek": "據weather.com報導，受強聖嬰現象壓抑，2026年大西洋颶風季迄今極度不活躍，目前僅有掙扎中的熱帶低氣壓「菲伊」，未對任何陸地構成威脅。",
-      "url": "https://weather.com/2026/09/28/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
+      "title": "熱帶風暴瑞秋墨西哥太平洋岸外增強　預測週二升級颶風",
+      "dek": "Weathernews引用美國國家颶風中心（NHC）資料報導，位於墨西哥南部外海、風速每小時45英里的熱帶風暴瑞秋預計持續增強，最快於週二成為颶風，並將以西北西方向移動、大致遠離墨西哥海岸，惟部分沿岸地區已發布熱帶風暴觀察警戒。",
+      "url": "https://sea.weathernews.com/resources/202609/256"
     }
   ]
 }
