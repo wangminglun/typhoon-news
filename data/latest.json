@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T23:11:00+08:00",
+  "generated_at": "2026-09-29T00:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至28日並未對台灣發布任何海上或陸上颱風警報；颱風蘇力蓋路徑偏東北上撲向日本，未直接威脅台灣。",
+  "alert_desc": "中央氣象署尚未對舒力基發布任何海上或陸上颱風警報；其路徑沿台灣東部外海持續北上，正遠離本島朝沖繩逼近。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無任何風暴系統對台中造成風雨效應，當地未發布任何警報或停班停課措施。"
+    "text": "目前無直接影響。氣象署並未預期台中有停班停課情形，連假期間天氣將維持晴時多雲，僅山區午後可能有局部短暫陣雨，舒力基環流仍遠在沖繩外海。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱蘇力蓋掠過沖繩北上　災後關東再繃緊神經",
-    "dek": "氣象單位示警沖繩外離島恐現巨浪強風，風暴不排除轉向東京都會區；台灣中央氣象署表示目前無立即威脅。",
+    "title": "颱風舒力基逼近沖繩　恐轉向撲襲水患未平的關東",
+    "dek": "舒力基在沖繩外海一夜暴增為強颱後持續北移，日本擔憂風暴恐轉向直撲甫遭颱風杜鵑重創的關東地區，而台灣本島則維持穩定乾爽的中秋連假天氣，氣象署評估發布警報機率偏低。",
     "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱逼近沖繩　恐再襲受創關東",
-      "dek": "《日本時報》報道，氣象廳示警大東群島巨浪強風，風暴不排除轉向東京都會區。",
+      "title": "強颱舒力基逼近沖繩　恐轉向撲襲水患未平的關東",
+      "dek": "《日本時報》報道，颱風舒力基以近每秒45公尺強風掠過沖繩與奄美群島，預測路徑顯示可能於本週稍晚轉向東海與關東地區。",
       "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 2,
-      "title": "颱風「昆妮」已離開菲律賓責任區",
-      "dek": "菲律賓大氣部門證實，昆妮風速每小時155公里，朝東北遠離呂宋島，為今年第17個襲菲氣旋。",
-      "url": "https://www.philstar.com/headlines/2026/09/28/2559407/typhoon-queenie-exits-par"
+      "title": "舒力基持續遠離台灣　中秋教師節連假天氣穩定至30日",
+      "dek": "觀測顯示28日上午舒力基中心位於台北東北東方960公里海面，強度略減為中度颱風，並持續遠離台灣。",
+      "url": "https://tw.news.yahoo.com/20260928%E8%88%92%E5%8A%9B%E5%9F%BA%E9%9B%A2%E8%87%BA%E6%BC%B8%E9%81%A0-%E4%B8%AD%E7%A7%8B%E6%95%99%E5%B8%AB%E7%AF%80%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A%E7%B6%AD%E6%8C%81%E8%87%B30930-042811772.html"
     },
     {
       "rank": 3,
-      "title": "今年襲日熱帶氣旋數創60年新高",
-      "dek": "《日本時報》報道，蘇力蓋成形之際，日本本年遭侵襲的熱帶氣旋數量已創1966年以來最高紀錄。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "沖繩航班拉警報　全日空祭出免費改期因應舒力基",
+      "dek": "隨著舒力基逼近沖繩，日本全日空航空公司宣布往返琉球群島的航班可免費改期，以因應可能的班機延誤與取消。",
+      "url": "https://www.rustourismnews.com/2026/09/28/typhoon-surigae-threatens-okinawa-flights-as-ana-offers-free-changes/"
     },
     {
       "rank": 4,
-      "title": "颱風杜鵑釀12死　千葉溃堤淹水",
-      "dek": "《日本時報》報道，消防廳統計杜鵑已致12死3失蹤，千葉縣堤防潰決創下紀錄水位，約500棟房屋受損。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
+      "title": "沖繩外海「魔幻變身」　舒力基一日暴增為強颱創罕見紀錄",
+      "dek": "今日新聞報道，舒力基在沖繩外海一天內從輕度颱風暴增為強颱，其增強速度與緊實的暴風圈結構皆被氣象專家認為異常罕見。",
+      "url": "https://www.nownews.com/news/6878628"
     },
     {
       "rank": 5,
-      "title": "強烈颶風波羅逼近下加利福尼亞",
-      "dek": "美聯社報道，五級颶風波羅風速每小時125英里，預計穿越半島進入索諾拉州，為本季第三個五級颶風。",
-      "url": "https://www.opb.org/article/2026/09/27/mexico-s-baja-california-braces-for-major-hurricane-polo-as-hurricane-nolo-still-threatens-hawaii/"
+      "title": "日本氣象廳：舒力基27日升格強颱　路徑北轉直指沖繩",
+      "dek": "TVBS新聞報道，日本氣象廳27日將舒力基上調為「強颱風」等級，最新預測路徑顯示暴風圈將北轉逼近琉球群島，持續遠離台灣。",
+      "url": "https://news.tvbs.com.tw/world/4026929"
     },
     {
       "rank": 6,
-      "title": "颶風諾洛遠離夏威夷　風險未除",
-      "dek": "美國公共電視網報道，諾洛一度增強至四級並逼近五級，雖已遠離大島，當地仍有強風與暴洪風險。",
-      "url": "https://www.pbs.org/newshour/nation/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk"
+      "title": "中秋飆高溫與舒力基有關　氣象署籲留意日本沖繩航班",
+      "dek": "聯合新聞網報道，舒力基外圍環流挾帶暖空氣，是台灣中秋連假異常高溫的原因之一，颱風本身則持續朝沖繩方向移動。",
+      "url": "https://udn.com/news/story/7266/9776879"
     },
     {
       "rank": 7,
-      "title": "全球六個熱帶氣旋同時活躍",
-      "dek": "氣象頻道報道，太平洋颶風波羅、諾洛與熱帶風暴瑞秋，加上大西洋菲伊，全球共六系統同步發展。",
-      "url": "https://weather.com/2026/09/28/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
+      "title": "舒力基最快本週升格中颱　氣象署：海警發布機率偏低",
+      "dek": "中時新聞網報道，中央氣象署表示舒力基最快隔日增強為中度颱風，但因路徑偏向台灣東部外海北上，發布海上颱風警報的機率不高。",
+      "url": "https://www.chinatimes.com/realtimenews/20260924001483-260405"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴菲伊迅速減弱未成颶風",
-      "dek": "邁阿密WPLG電視台報道，菲伊一度逼近颶風強度旋即減弱，美國國家颶風中心稱其不會登陸。",
-      "url": "https://www.local10.com/weather/hurricane/2026/09/21/fast-forming-fay-nearly-ends-record-atlantic-hurricane-drought-now-quickly-fading/"
+      "title": "中秋連假前台灣轉暖　氣象署預告多為晴朗少雨",
+      "dek": "Focus Taiwan報道，中央氣象署預測台灣近日將轉為溫暖乾燥天氣，與舒力基持續遠離本島的路徑一致，連假前無颱風威脅。",
+      "url": "https://focustaiwan.tw/society/202609240007"
     },
     {
       "rank": 9,
-      "title": "國際媒體關注蘇力蓋動向東京",
-      "dek": "塔斯社報道，蘇力蓋逼近沖繩並可能北轉東京，適逢日本剛遭杜鵑重創，外界憂心災情累加。",
-      "url": "https://tass.com/emergencies/2193197"
+      "title": "颱風杜鵑重創東京周邊　罹難人數增至9人、4人失聯",
+      "dek": "《日本時報》報道，颱風杜鵑日前在千葉與神奈川縣造成嚴重水患，印旛沼堤防潰堤，至少9人罹難、4人下落不明。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 10,
-      "title": "中秋滿月不受風暴干擾　清晰可見",
-      "dek": "《台北時報》報道，中央氣象署預測中秋滿月不受蘇力蓋影響，顯示其路徑預估將明顯偏離台灣。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864798"
+      "title": "大西洋異常平靜　美國國家颶風中心監測中大西洋擾動",
+      "dek": "美國國家颶風中心持續觀察中大西洋一處可能發展的擾動天氣系統，今年大西洋颶風季截至目前尚未出現颶風等級風暴，創下近百年來罕見紀錄。",
+      "url": "https://www.witn.com/2026/09/27/national-hurricane-center-is-watching-an-area-central-atlantic/"
     }
   ]
 }
