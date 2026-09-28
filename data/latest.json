@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T14:12:00+08:00",
+  "generated_at": "2026-09-28T15:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署表示，颱風舒力基已轉向日本沖繩方向遠離台灣，目前並未對台灣發布海上或陸上颱風警報，僅提醒民眾慎防外圍環流引發的長浪。",
+  "alert_desc": "中央氣象署表示，颱風舒力基持續北上遠離台灣，沿沖繩本島與大東群島一帶朝日本本土前進，目前並未對台灣發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。颱風舒力基環流已遠在琉球群島、日本南部一帶並持續遠離，對台中並無風雨或停班停課影響；氣象署僅針對全台沿海發布長浪示警，並非台中專屬警戒。"
+    "text": "目前無直接影響。颱風舒力基持續北上遠離台灣，沿沖繩本島與大東群島一帶朝日本本土前進，對台中並無風雨或停班停課疑慮；中央氣象署目前也未針對全台發布颱風警報。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基轉向遠離台灣　太平洋罕見同時出現三個強颶風",
-    "dek": "中央氣象署表示，「舒力基」已轉向日本沖繩方向，對台灣本島已無直接威脅，但太平洋東側同時有三個颶風活躍，凸顯今年異常活躍的熱帶氣旋季節。",
-    "url": "https://newtalk.tw/news/view/2026-09-28/1062258"
+    "title": "颱風舒力基掠過沖繩轉向日本本土　中央氣象署：未對台灣構成威脅",
+    "dek": "舒力基一度增強為強颱、暴風圈創下歷來最小紀錄，但路徑持續北彎遠離台灣，氣象署表示發布海陸颱風警報的機率偏低。",
+    "url": "https://www.mirrormedia.mg/story/20260928edi016"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基寫下紀錄：中央氣象署史上暴風半徑最小的強烈颱風",
-      "dek": "颱風舒力基雖以創紀錄的緊實結構增強為強烈颱風，但因環流範圍極小，對台灣影響有限。",
-      "url": "https://newtalk.tw/news/view/2026-09-28/1062258"
+      "title": "舒力基暴風圈創史上最小紀錄　一夜增強又減弱",
+      "dek": "颱風舒力基27日夜間急速增強為強颱，28日晨已減弱為中度颱風，氣象專家稱其結構罕見緊湊。",
+      "url": "https://www.mirrormedia.mg/story/20260928edi016"
     },
     {
       "rank": 2,
-      "title": "日本熱帶氣旋數創1966年以來新高，舒力基逼近沖繩",
-      "dek": "沖繩縣因舒力基逼近發布浪高警戒與豪雨示警，凸顯日本今年異常密集的颱風季。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "史上最小強颱？舒力基暴風圈僅120公里創紀錄",
+      "dek": "中央氣象署指出舒力基暴風圈半徑創下歷來「強颱」等級最小紀錄，乾燥外圍環境是主因。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588182"
     },
     {
       "rank": 3,
-      "title": "氣象署：舒力基轉向日本，籲民眾慎防海邊長浪",
-      "dek": "中央氣象署表示舒力基將於週末轉向日本，對台灣本島直接影響機率低，但仍提醒避免前往海邊戲水。",
-      "url": "https://udn.com/news/story/7266/9775245"
+      "title": "日本今年颱風季創1966年以來最活躍紀錄",
+      "dek": "《日本時報》報導，舒力基是六月以來第11個逼近日本的熱帶氣旋，分析指向強聖嬰現象。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
     },
     {
       "rank": 4,
-      "title": "三級颶風波羅逼近墨西哥，預計週一登陸",
-      "dek": "強颶風波羅以125英里時速逼近下加利福尼亞半島，墨西哥當局已展開撤離與封港措施。",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-27/category-3-hurricane-polo-threatens-mexicos-coast-landfall-expected-monday"
+      "title": "舒力基逼近大東群島　沖繩本島籲防強風高浪",
+      "dek": "日本氣象媒體Weathernews通報，舒力基28日中午通過南大東島以北海域，恐挾雨勢激化本州秋雨鋒面。",
+      "url": "https://weathernews.jp/news/202609/280051/"
     },
     {
       "rank": 5,
-      "title": "太平洋「颶風工廠」全開動：波羅成今年第七個五級風暴",
-      "dek": "分析指出，波羅、諾羅與奧達莉絲同時活躍，使2026年成為太平洋熱帶氣旋異常活躍的一年。",
-      "url": "https://yaleclimateconnections.org/2026/09/pacifics-cyclone-factory-is-working-overtime-as-multiple-hurricanes-roar-across-the-basin/"
+      "title": "颱風杜鵑重創關東　東京大島48小時雨量刷新紀錄",
+      "dek": "《日本時報》報導，颱風杜鵑造成至少12人死亡、逾160萬人一度收到避難指示，凸顯連續豪雨災害衝擊。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/24/japan/typhoon-dujuan-aftermath/"
     },
     {
       "rank": 6,
-      "title": "颶風諾羅增強至四級，掠過夏威夷南側帶來強風巨浪",
-      "dek": "諾羅雖未直撲夏威夷群島，仍促使多個島嶼發布強風與大浪警報。",
-      "url": "https://www.staradvertiser.com/2026/09/27/breaking-news/hurricane-nolo-passing-south-of-hawaii-brings-strong-winds-high-surf/"
+      "title": "五級颶風波羅減弱後登陸墨西哥　當局疏散逾百處避難所",
+      "dek": "美聯社報導，颶風波羅曾創下東太平洋史上第二低氣壓紀錄，登陸下加利福尼亞南州前減弱至三級。",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-27/category-3-hurricane-polo-threatens-mexicos-coast-landfall-expected-monday"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴瑞秋在墨西哥外海形成，暫無登陸威脅",
-      "dek": "瑞秋成為東太平洋同時活躍的第三個編號風暴，預報顯示目前不至於直接威脅陸地。",
-      "url": "https://www.opb.org/article/2026/09/27/mexico-s-baja-california-braces-for-major-hurricane-polo-as-hurricane-nolo-still-threatens-hawaii/"
+      "title": "四級颶風諾羅掠過夏威夷南方海域　多島發布強風特報",
+      "dek": "《檀香山星報》報導，颶風諾羅雖未直撲夏威夷，但已為當地帶來強風與大浪威脅。",
+      "url": "https://www.staradvertiser.com/2026/09/27/breaking-news/hurricane-nolo-passing-south-of-hawaii-brings-strong-winds-high-surf/"
     },
     {
       "rank": 8,
-      "title": "NASA衛星捕捉太平洋三颶風同框畫面",
-      "dek": "美國太空總署地球觀測站公布的衛星影像，呈現太平洋盆地罕見的三風暴並存景象。",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+      "title": "東太平洋今年第17個風暴瑞秋生成　暫無陸地威脅",
+      "dek": "AccuWeather報導，熱帶風暴瑞秋27日在墨西哥外海形成，預測路徑將持續遠離海岸。",
+      "url": "https://www.accuweather.com/en/hurricane/east-pacific/rachel-2026"
     },
     {
       "rank": 9,
-      "title": "大西洋熱帶風暴岡薩羅形成，「無颶風」乾旱仍未終結",
-      "dek": "岡薩羅在維德角外海生成，但預報顯示風切與乾空氣將阻止其增強為颶風。",
-      "url": "https://www.wuft.org/weather/2026-09-25/tropical-storm-gonzalo-forms-as-historic-atlantic-hurricane-drought-continues"
+      "title": "大西洋熱帶低壓菲伊趨於減弱　預估週二轉為殘留低壓",
+      "dek": "美國佛州媒體WFTV報導，菲伊因乾空氣與風切減弱，預料不會對陸地造成影響。",
+      "url": "https://www.wftv.com/news/local/tropical-depression-fay-is-expected-become-remnant-low-by-tuesday/Q662SVBJ4RCVTNW4NPCFHIG2GQ/"
     },
     {
       "rank": 10,
-      "title": "2026年大西洋颶風季異常平靜，旺季已過仍零颶風",
-      "dek": "儘管預報原先看好活躍季節，大西洋至今未產生任何颶風，與太平洋的活躍形成強烈對比。",
-      "url": "https://www.yahoo.com/news/weather-news/articles/2026-atlantic-hurricane-season-remains-205220186.html"
+      "title": "西太平洋醞釀新系統　專家：對台威脅機率仍低",
+      "dek": "氣象專家指出，下週琉球群島附近可能生成新的熱帶系統，但目前模式顯示直接侵台機率不高。",
+      "url": "https://www.4gtv.tv/article/2026091305000021"
     }
   ]
 }
