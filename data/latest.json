@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T03:11:00+08:00",
+  "generated_at": "2026-09-29T04:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報。超級颱風舒力基路徑持續北轉遠離台灣，轉往日本方向移動。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報。超強颱風舒力基持續遠離台灣、轉向日本關東地區，台灣發布警報的機率偏低。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。舒力基颱風路徑持續遠離台灣並朝日本方向移動，台中及全台今日以多雲到晴為主，白天高溫約32至36度，無停班停課措施，天氣預報顯示中秋教師節連假（至9/30）天氣持續穩定。"
+    "text": "目前無直接影響。舒力基颱風持續遠離台灣並朝日本方向移動，包括台中在內的中台灣連假期間（至9/30）天氣預期維持穩定，晴到多雲、僅山區午後零星短暫陣雨，未見任何風雨或停班停課影響的跡象。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "超級颱風舒力基轉向日本　台灣暫無警報、連假天氣穩定",
-    "dek": "中央氣象署證實舒力基對台灣本島無直接威脅，其路徑北轉遠離台灣海域，反而牽動剛遭颱風杜蘇芮重創的日本關東地區。",
+    "title": "超強颱風舒力基掠過沖繩轉向日本關東　台灣中秋連假天氣維持穩定",
+    "dek": "美國聯合颱風警報中心已將舒力基升格為超強颱風等級，其路徑持續遠離台灣、直撲仍在颱風杜鵑重創後復原中的日本關東地區，中央氣象署評估台灣發布海上或陸上警報的機率偏低。",
     "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "超強颱風舒力基逼近沖繩　恐再襲受災未癒的關東地區",
-      "dek": "根據《日本時報》報導，今年第26號颱風舒力基已被日本氣象廳列為「非常強」颱風，美國聯合颱風警報中心並將其升級為超級颱風，預測路徑將經伊豆群島，週四前後以減弱後的熱帶風暴姿態影響東海與關東——當地才剛遭颱風杜蘇芮重創。",
+      "title": "強颱掠過沖繩後　恐再襲仍在復原中的日本關東",
+      "dek": "舒力基通過沖繩與南西諸島後，預測轉向伊豆諸島與關東地區，而關東才剛因颱風杜鵑受創；日本氣象廳稱其為「非常強烈颱風」，美方已於27日晚間將其升格為超強颱風。",
       "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 2,
-      "title": "舒力基一度逼近台灣東部海域　路徑轉向東北掠過那霸南方",
-      "dek": "《聯合新聞網》報導指出，颱風舒力基逼近台灣東部海域時一度增強，但預測路徑隨後轉向東北，將從日本那霸南方海域通過，逐漸遠離台灣。",
-      "url": "https://udn.com/news/story/7266/9779532"
+      "title": "「舒力基」路徑追蹤：2026年第26號颱風官方紀錄",
+      "dek": "日本國立情報學研究所「Digital Typhoon」資料庫持續更新舒力基的編號、強度與移動路徑等追蹤紀錄。",
+      "url": "https://agora.ex.nii.ac.jp/digital-typhoon/news/2026/TC2626/"
     },
     {
       "rank": 3,
-      "title": "舒力基持續遠離台灣　中秋教師節連假天氣穩定",
-      "dek": "《Yahoo奇摩新聞》報導，截至28日上午8時，中度颱風舒力基中心位於台北東北方約960公里海面，以每小時16公里速度向東北移動並持續遠離台灣；中央氣象署證實目前未對台灣本島發布颱風警報，連假期間天氣將持續晴朗炎熱。",
-      "url": "https://tw.news.yahoo.com/20260928%E8%88%92%E5%8A%9B%E5%9F%BA%E9%9B%A2%E8%87%BA%E6%BC%B8%E9%81%A0-%E4%B8%AD%E7%A7%8B%E6%95%99%E5%B8%AB%E7%AF%80%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A%E7%B6%AD%E6%8C%81%E8%87%B30930-042811772.html"
+      "title": "舒力基在南西諸島南方增強　預測逼近沖繩達颱風強度",
+      "dek": "日本氣象新聞公司Weathernews分析指出，舒力基在南西諸島南方持續增強且移動緩慢，恐延長沖繩周邊受風雨影響的時間。",
+      "url": "https://sea.weathernews.com/resources/202609/254"
     },
     {
       "rank": 4,
-      "title": "千葉縣逾800戶淹水　印旛沼堤防潰決創新高水位",
-      "dek": "根據時事通信社（Jiji Press）經Nippon.com刊登的報導，颱風杜蘇芮帶來的豪雨造成日本千葉縣884棟住宅淹水，印旛沼堤防潰決，水位一度飆升至5.04公尺，遠超4.25公尺的安全基準。",
-      "url": "https://www.nippon.com/en/news/yjj2026092400910/"
+      "title": "舒力基朝本州逼近　亞洲運動會賽程添變數",
+      "dek": "南韓《中央日報英文版》報導，舒力基朝本州移動的路徑，引發外界對愛知、名古屋2026年亞洲運動會賽事可能受風雨干擾的擔憂。",
+      "url": "https://www.koreajoongangdaily.com/korea/weather-threat-looms-over-asian-games-as-typhoon-surigae-moves-toward-honshu/12893004"
     },
     {
       "rank": 5,
-      "title": "颱風杜蘇芮重創日本　至少12死3失蹤",
-      "dek": "氣象媒體《The Watchers》報導，今年太平洋第25號颱風杜蘇芮為日本帶來破紀錄豪雨、洪水與土石流，造成至少12人罹難、3人失蹤，千葉、宮崎與神奈川等縣受創最深。",
-      "url": "https://watchers.news/2026/09/24/typhoon-dujuan-leaves-12-dead-and-3-missing-record-rain-floods-and-landslides-hit-japan/"
+      "title": "舒力基持續遠離台灣　中秋教師節連假天氣穩定至30日",
+      "dek": "Yahoo奇摩新聞報導，舒力基28日持續朝東北遠離台灣，中秋節、教師節連假期間全台天氣預期維持穩定。",
+      "url": "https://tw.news.yahoo.com/20260928%E8%88%92%E5%8A%9B%E5%9F%BA%E9%9B%A2%E8%87%BA%E6%BC%B8%E9%81%A0-%E4%B8%AD%E7%A7%8B%E6%95%99%E5%B8%AB%E7%AF%80%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A%E7%B6%AD%E6%8C%81%E8%87%B30930-042811772.html"
     },
     {
       "rank": 6,
-      "title": "杜蘇芮重創千葉漁業與稻作　十萬觀賞魚幾乎全滅",
-      "dek": "《日本時報》後續報導指出，颱風杜蘇芮的豪雨重創千葉縣漁業與稻米生產，印旛沼附近一處養殖場逾10萬尾錦鯉與金魚幾乎全數因淹水1.5公尺而喪失。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/japan-chiba-heavy-rain-damage-farming/"
+      "title": "舒力基最快明日升級中颱　氣象單位揭海上警報發布機率",
+      "dek": "中時新聞網報導，台灣氣象單位評估舒力基即將升級為中度颱風，但因距離台灣尚遠，發布海上颱風警報的機率偏低。",
+      "url": "https://www.chinatimes.com/realtimenews/20260924001483-260405"
     },
     {
       "rank": 7,
-      "title": "菲律賓氣象署：熱帶風暴舒力基（Queenie）維持強度　可能增強為颱風",
-      "dek": "《BusinessWorld Online》引述菲律賓大氣地球物理暨天文服務署（PAGASA）報導，舒力基（菲律賓當地命名Queenie）為菲國今年第17個熱帶氣旋，9月24日進入菲律賓責任區，預期增強但不會直接登陸菲律賓本土。",
-      "url": "https://bworldonline.com/the-nation/2026/09/24/781232/tropical-storm-surigae-maintains-strength-may-intensify-into-typhoon-pagasa/"
+      "title": "颱風杜鵑侵襲東京周邊　已釀至少9死4失蹤",
+      "dek": "《日本時報》23日報導，颱風杜鵑重創東京與關東地區，當時統計已造成至少9人死亡、4人失蹤。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴Queenie進入菲律賓責任區　菲國未發布風力警報",
-      "dek": "《ASTIG.ph》報導，強烈熱帶風暴Queenie（即舒力基）當時緩慢向北移動，於台灣以東海面增強為颱風，菲律賓未發布風力警報，僅南部民答那峨部分省份可能出現強陣風。",
-      "url": "https://astig.ph/tropical-storm-queenie-surigae-enters-par-2026/"
+      "title": "杜鵑侵襲日本增至12死3失蹤　創紀錄豪雨引發洪災與土石流",
+      "dek": "氣象媒體The Watchers報導，根據日本總務省消防廳更新統計，颱風杜鵑全國累計12人死亡、3人失蹤，伊豆諸島大島48小時累積雨量832毫米創紀錄，多地爆發洪水與土石流。",
+      "url": "https://watchers.news/2026/09/24/typhoon-dujuan-leaves-12-dead-and-3-missing-record-rain-floods-and-landslides-hit-japan/"
     },
     {
       "rank": 9,
-      "title": "颶風Nolo逼近五級強度　遠離夏威夷主要島嶼但風浪仍強",
-      "dek": "夏威夷新聞台（Hawaii News Now）報導，颶風Nolo已增強為接近五級的強烈四級颶風，最大風速逼近每小時145英里，通過夏威夷大島西南方海域；大島的熱帶風暴警報仍然有效，強風與危險巨浪持續，但直接洪水威脅正逐漸減弱。",
-      "url": "https://www.hawaiinewsnow.com/video/2026/09/28/hurricane-nolo-close-category-5-intensity-track-away-main-hawaiian-islands/"
+      "title": "颱風杜鵑釀至少5死　日本大規模撤離居民",
+      "dek": "weather.com報導，颱風杜鵑逼近關東地區之際已造成至少5人死亡，日本多地展開大規模撤離行動以因應洪水與土石流威脅。",
+      "url": "https://weather.com/2026/09/22/news/weather/video/typhoon-dujuan-japan-flooding-landslides-deaths"
     },
     {
       "rank": 10,
-      "title": "颶風Polo恐襲墨西哥下加利福尼亞　水氣將為美國西南部帶來嚴重洪災風險",
-      "dek": "《華盛頓郵報》報導，四級颶風Polo預計登陸墨西哥下加利福尼亞，其水氣與另一颱風Odalys殘留水氣結合，將為美國亞利桑那、新墨西哥、科羅拉多、德州與奧克拉荷馬州帶來持續數日的嚴重洪災威脅，部分地區恐出現十至廿五年一遇的驚人雨量。",
-      "url": "https://www.washingtonpost.com/weather/2026/09/28/hurricane-polo-remnants-bring-serious-flood-threat-southwest-central-us/"
+      "title": "菲律賓氣象署示警：菲律賓海西北部一週內恐生成新擾動",
+      "dek": "菲律賓大氣地球物理暨天文服務署（PAGASA）展望報告指出，9月20日後一週內菲律賓海西北部海域有「高機率」形成新熱帶擾動，預測路徑朝中國東南部與越南北部移動，非台灣或日本方向。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/tcthreat/TC_Threat_and_S2S_Forecast.pdf"
     }
   ]
 }
