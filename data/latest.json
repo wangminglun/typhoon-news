@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T01:11:00+08:00",
+  "generated_at": "2026-09-30T02:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未針對颱風舒力基發布海上或陸上颱風警報。該颱風已轉向日本，對台灣本島無直接威脅，僅東部與恆春半島沿海需留意長浪。",
+  "alert_desc": "中央氣象署尚未針對颱風舒力基發布海上或陸上颱風警報。該颱風已大幅減弱並持續北轉遠離台灣，僅東部沿海需留意長浪。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。颱風舒力基已轉向日本，對台灣本島無威脅，中央氣象署及台中市政府均未發布任何颱風相關風雨警報或停班停課公告；台中與雙北等十一縣市今日同受36度高溫影響，但屬一般高溫示警，非颱風相關措施。"
+    "text": "目前無颱風直接影響。台中唯一生效的天氣警示為高溫燈號（黃燈，氣象署約於9月29日上午7時17分發布），日間最高氣溫預估達32至36度；目前並無任何颱風相關風雨警報或停班停課公告，台中亦不在舒力基或新生擾動93W的預測路徑上。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "舒力基颱風轉向撲日本　台灣今無警報僅高溫示警",
-    "dek": "中央氣象署表示颱風舒力基對台灣無直接影響，南部與東部週末仍受長浪威脅，而全台目前真正的天氣焦點是攝氏36度高溫與十月將至的東北季風。",
-    "url": "https://www.cna.com.tw/news/ahel/202609290021.aspx"
+    "title": "颱風舒力基持續減弱遠離台灣　氣象署未發警報　熱浪才是眼前挑戰",
+    "dek": "中央氣象署表示舒力基對台灣無直接威脅，僅提醒東部海邊慎防長浪衝擊；全台逾十縣市仍籠罩在36度以上高溫中，另一波醞釀中的熱帶擾動則成為下一個觀察焦點。",
+    "url": "https://www.chinatimes.com/realtimenews/20260929001622-260405"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基逼近沖繩　恐轉襲受風災重創的關東地區",
-      "dek": "《日本時報》報導，舒力基通過沖繩、奄美群島附近後一度被美方升級為超級颱風強度，路徑指向仍在復原中的東京、關東一帶。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+      "title": "雙颱醞釀中：彩雲最快10月2日生成　專家曝最新路徑",
+      "dek": "關島以東熱帶擾動93W發展中，專家預測路徑偏向日本，暫未見直接威脅台灣跡象。",
+      "url": "https://www.chinatimes.com/realtimenews/20260929001622-260405"
     },
     {
       "rank": 2,
-      "title": "日本今年颱風生成數創1966年以來新高　舒力基添變數",
-      "dek": "《日本時報》指出，舒力基逼近之際，日本今年已出現自1966年以來最多的颱風生成紀錄，加深外界對災情累積的憂慮。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
-    },
-    {
-      "rank": 3,
-      "title": "舒力基持續逼近沖繩、九州　強度朝顛峰邁進",
-      "dek": "馬來西亞《星報》報導，舒力基沿南西諸島路徑逼近沖繩與九州，當時強度仍持續增強中。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
-    },
-    {
-      "rank": 4,
-      "title": "舒力基威脅日本亞運賽程　逼近本州引發調度隱憂",
-      "dek": "《韓國中央日報》報導，舒力基逐漸朝本州逼近的路徑，恐衝擊正在日本舉行的2026年亞洲運動會賽程安排。",
-      "url": "https://www.koreajoongangdaily.com/korea/weather-threat-looms-over-asian-games-as-typhoon-surigae-moves-toward-honshu/12893004"
-    },
-    {
-      "rank": 5,
-      "title": "舒力基穩定增強週末轉向日本　氣象署：對台無直接影響",
-      "dek": "聯合新聞網報導，氣象署表示舒力基不會直接侵襲台灣，但提醒民眾留意長浪與強勁海流，避免在海邊逗留。",
+      "title": "舒力基轉向日本　氣象署：對台無直接影響　籲東部海邊勿逗留",
+      "dek": "氣象署表示舒力基增強並轉向日本期間對台灣無直接威脅，僅提醒慎防長浪衝擊海岸。",
       "url": "https://udn.com/news/story/7266/9775245"
     },
     {
+      "rank": 3,
+      "title": "高溫燈號亮警　11縣市飆破36度　3地連續橙燈",
+      "dek": "氣象署發布多縣市高溫警示，台中亮黃燈，雲林、台南、屏東亮橙燈恐連日高溫。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5589050"
+    },
+    {
+      "rank": 4,
+      "title": "彩雲颱風最快10月2日生成　93W路徑與10月東北季風一次看",
+      "dek": "報導整理93W發展前景、跨界颱風可能性，以及10月1日東北季風對台影響。",
+      "url": "https://supertaste.tvbs.com.tw/hot/361713"
+    },
+    {
+      "rank": 5,
+      "title": "舒力基減弱為輕度颱風　趨向日本東南洋面",
+      "dek": "中央氣象台資料顯示舒力基一夜間減弱，預測將持續減弱並轉為溫帶氣旋。",
+      "url": "https://m.gmw.cn/2026-09/29/content_1304569664.htm"
+    },
+    {
       "rank": 6,
-      "title": "舒力基路徑北轉閃過台灣　中秋連假天氣可望穩定",
-      "dek": "《遠見雜誌》分析指出，舒力基路徑北轉，未直撲台灣，使中秋連假期間得以維持良好天氣。",
-      "url": "https://www.gvm.com.tw/article/133250"
+      "title": "曾為強颱　舒力基急速減弱創氣象署罕見紀錄",
+      "dek": "氣象粉專分析指出，舒力基由強颱迅速減弱為中颱的速度打破氣象署觀測特例。",
+      "url": "https://www.mirrormedia.mg/story/20260928edi031"
     },
     {
       "rank": 7,
-      "title": "舒力基明顯減弱　粉專估未來仍有一至二颱風醞釀",
-      "dek": "自由時報報導，舒力基已於9月29日明顯減弱，氣象粉專提醒西北太平洋未來一週可能再有一至二個颱風生成，惟目前均未威脅台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5589182"
+      "title": "強颱逼近沖繩後　恐再襲風雨未歇的日本關東",
+      "dek": "《日本時報》報導，舒力基為沖繩帶來強風巨浪後北移，關東地區恐面臨後續影響。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 8,
-      "title": "十一縣市防36度高溫　10月1日東北季風轉雨降溫",
-      "dek": "中央社報導，氣象署對雙北等十一縣市發布高溫特報，並預告10月1日起東北季風增強，將為部分地區帶來降雨與較涼氣溫。",
-      "url": "https://www.cna.com.tw/news/ahel/202609280189.aspx"
+      "title": "舒力基巔峰後急速減弱　關東地區觀察後續路徑",
+      "dek": "Nature World News報導，舒力基在約30小時內從超級颱風降為輕度熱帶風暴，仍掀七米巨浪。",
+      "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
     },
     {
       "rank": 9,
-      "title": "舒力基減弱為中颱且對台無影響　東北季風10/5再增強",
-      "dek": "中央社報導，氣象署證實舒力基已減弱為中度颱風且將在日本南方外海轉化為溫帶低壓，對台無影響；另一波東北季風預計10月5日增強、帶來涼意。",
-      "url": "https://www.cna.com.tw/news/ahel/202609290021.aspx"
+      "title": "舒力基掠過大東群島　持續朝本州以南海面移動",
+      "dek": "Weathernews觀測指出，舒力基預計10月3日前後完成溫帶轉化，結構將轉為冷心低壓。",
+      "url": "https://sea.weathernews.com/resources/202609/257"
     },
     {
       "rank": 10,
-      "title": "大西洋112年來首見九月無颶風紀錄",
-      "dek": "《Tico Times》報導，大西洋今年僅生成六個未達颶風強度的編號風暴，創下112年來罕見的零颶風紀錄，與活躍的西太平洋颱風季形成對比。",
-      "url": "https://ticotimes.net/2026/09/24/atlantic-hurricane-season-2026-no-hurricanes"
+      "title": "舒力基衝擊沖繩航班　全日空提供免費改期",
+      "dek": "全日空等航空公司因舒力基取消或延誤沖繩往返班機，並開放旅客免費改期或退票。",
+      "url": "https://www.rustourismnews.com/2026/09/28/typhoon-surigae-threatens-okinawa-flights-as-ana-offers-free-changes/"
     }
   ]
 }
