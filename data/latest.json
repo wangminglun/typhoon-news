@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T23:12:00+08:00",
+  "generated_at": "2026-09-30T00:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基持續北轉遠離台灣，全台暴風侵襲機率預測維持零機率。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基持續轉向遠離台灣，本島暫無風雨威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響——舒力基路徑已北轉遠離台灣，台中未受任何熱帶系統直接影響。本週台中天氣晴朗炎熱，高溫約攝氏32至36度，僅山區午後有局部短暫陣雨，未發布停班停課公告。"
+    "text": "目前無直接影響——舒力基已轉向遠離台灣，台中未受任何熱帶系統直接影響，未發布停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基轉向遠離　台灣暫無颱風警戒",
-    "dek": "中央氣象署宣布暴風侵襲台灣機率為零，舒力基已轉向朝日本沖繩、本州方向遠離",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5589182"
+    "title": "颱風舒力基轉向遠離台灣 太平洋風季仍處活躍高峰",
+    "dek": "中央氣象署未對台灣發布任何颱風警報，但日本、夏威夷與墨西哥沿岸正同時面對多個強烈熱帶氣旋的威脅。",
+    "url": "https://udn.com/news/story/7266/9781004"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基減弱北轉　台灣威脅解除",
-      "dek": "據《自由時報》報導，颱風舒力基已明顯減弱並轉向東北遠離台灣，氣象專家指出暴風侵襲機率為零，但不排除颱風季稍後仍有一至兩個熱帶氣旋生成。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5589182"
+      "title": "颱風舒力基減弱轉向 朝日本外海遠離台灣",
+      "dek": "聯合新聞網報導，舒力基已由強颱減弱，並以時速約二十公里持續北轉遠離台灣，預期不會對本島造成風雨威脅。",
+      "url": "https://udn.com/news/story/7266/9781004"
     },
     {
       "rank": 2,
-      "title": "舒力基逼近沖繩　下一步瞄準關東",
-      "dek": "據《日本時報》報導，26號颱風舒力基已接近沖繩縣，為大東與南方諸島帶來最高7公尺巨浪與強風，日本氣象廳警告山崩與強風災害，不排除下一步影響關東地區。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+      "title": "颱風季未歇 氣象界示警關島海域恐再醞釀一兩個新颱",
+      "dek": "自由時報報導，隨舒力基逐漸淡出，西太平洋洋面依然活躍，關島附近海域未來數日仍有機會生成新的熱帶系統，惟目前無一路徑指向台灣。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5589182"
     },
     {
       "rank": 3,
-      "title": "舒力基一度衝上超級颱風強度",
-      "dek": "據日本Weathernews報導，26號颱風舒力基9月27日巔峰風速達每小時241公里、中心氣壓929百帕，達超級颱風強度，隨後減弱至約185公里並朝本州以南海域移動。",
-      "url": "https://sea.weathernews.com/resources/202609/257"
+      "title": "颱風杜鵑重創日本 破紀錄豪雨迫167萬人避難",
+      "dek": "點新聞報導，杜鵑為日本關東、東海地區帶來破紀錄降雨，促使氣象廳發布最高等級特別警報，但路徑偏北未直接影響台灣。",
+      "url": "https://www.dotdotnews.com/a/202609/22/AP6ab244abe4b02724bdb543bd.html"
     },
     {
       "rank": 4,
-      "title": "氣象署：無颱風警報　天氣持穩晴熱",
-      "dek": "據中央氣象署官方颱風消息網頁公告，目前無海上或陸上颱風警報，台灣本週維持晴朗炎熱天氣，溫度介於32至36度，僅山區午後有零星降雨機率。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_NEWS.html"
+      "title": "颶風諾洛增強至四級 掠過夏威夷大島南方海域",
+      "dek": "美國氣象網站weather.com報導，強颶風諾洛以逼近每小時一百四十五英里風速貼近夏威夷，雖未直接登陸，豪雨與強浪已衝擊當地。",
+      "url": "https://weather.com/2026/09/28/storms/hurricane/hawaii-hurricane-nolo-flooding-wind-forecast"
     },
     {
       "rank": 5,
-      "title": "昆妮（舒力基）已離開菲律賓責任區",
-      "dek": "據菲律賓大氣地球物理與天文管理局（PAGASA）公告，颱風昆妮（國際名舒力基）已於9月27日離開該國責任區，另有一道風切線為巴丹省與三巴萊斯省帶來強降雨與雷擊警示。",
-      "url": "https://www.pagasa.dost.gov.ph/weather/weather-outlook-selected-philippine-cities"
+      "title": "颶風波羅登陸墨西哥下加利福尼亞州 致命風雨威脅擴及美國西南",
+      "dek": "《美國新聞與世界報導》指出，波羅曾一度達五級強度，以二級颶風登陸下加州南部，成為東太平洋史上最強颶風之一。",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-29/hurricane-polo-makes-landfall-in-baja-california-with-forecast-of-life-threatening-winds"
     },
     {
       "rank": 6,
-      "title": "颶風波羅登陸墨西哥　殘餘水氣將襲美西南",
-      "dek": "據《The Weather Channel》（weather.com）報導，颶風波羅曾快速增強至180英里時速的極端強度，已以強烈二級颶風登陸下加利福尼亞半島南端並逐漸減弱，殘餘水氣預計為美國亞利桑那與新墨西哥州帶來洪災風險。",
-      "url": "https://weather.com/2026/09/29/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
+      "title": "熱帶風暴瑞秋緊追波羅生成 威脅墨西哥米卻肯與科利馬沿岸",
+      "dek": "里約時報報導，瑞秋為本季第十七個編號風暴，預期週中增強為颶風，墨西哥沿岸當局已發布新警戒。",
+      "url": "https://www.riotimesonline.com/tropical-storm-rachel-mexico-pacific-coast-2026/"
     },
     {
       "rank": 7,
-      "title": "四級颶風諾洛遠離夏威夷　危險長浪未歇",
-      "dek": "據《檀香山星報》（Honolulu Star-Advertiser）報導，四級颶風諾洛已朝西北方向遠離夏威夷主要島鏈，但考艾郡仍受外圍雨帶影響，南向海岸持續出現具生命危險的長浪與離岸流。",
-      "url": "https://www.staradvertiser.com/2026/09/28/breaking-news/hurricane-nolo-remains-category-4-far-southwest-of-hawaii/"
+      "title": "熱帶風暴漢娜盤旋大西洋開闊海域 陸地威脅有限",
+      "dek": "福斯天氣報導，漢娜遠離陸地逾一千英里，預期不會顯著增強，今年大西洋風季在強聖嬰影響下異常平靜。",
+      "url": "https://www.foxweather.com/weather-news/tropical-storm-hanna-fay-atlantic-super-el-nino"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴瑞秋料增強為颶風　威脅墨西哥西南岸",
-      "dek": "據美國國家颶風中心（NHC）最新公告，熱帶風暴瑞秋預計一天內增強為颶風，將平行於墨西哥西南岸外海移動，可能帶來3至6吋、局部8吋降雨，提高洪水與土石流風險。",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP3+html/291144.shtml"
+      "title": "熱帶風暴菲伊預估減弱為溫帶系統",
+      "dek": "WFLA新聞頻道報導，菲伊位於大西洋中部遠洋，預計約三十六小時內轉化為溫帶氣旋，目前沿岸無任何警戒。",
+      "url": "https://www.wfla.com/weather/tracking-the-tropics/tropical-storm-fay-hanna-continue-to-move-across-atlantic-nhc/"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋風暴季堪稱史上最活躍之一",
-      "dek": "據《FoxWeather》報導，今年太平洋颶風與颱風季異常活躍，颶風波羅一度躋身太平洋史上第二強颶風，颶風諾洛逼近夏威夷達四級強度，西北太平洋則已出現多個超級颱風，包括舒力基。",
-      "url": "https://www.foxweather.com/weather-news/hurricane-nolo-hawaii-catastrophic-flooding-rain-september-2026"
+      "title": "颱風沙德爾罕見「復活」二度登陸中國 學者比擬歷史強颱",
+      "dek": "中央社報導，沙德爾先登陸浙江減弱，又於南海意外重組並二度登陸福建，氣象學者將此路徑與1986年韋恩、2021年圓規颱風相提並論；該颱風並未登陸台灣。",
+      "url": "https://www.cna.com.tw/news/ahel/202609015002.aspx"
     },
     {
       "rank": 10,
-      "title": "越南氣象局：南海暫無新風暴形成徵兆",
-      "dek": "據《越南網》（VietnamNet）報導，越南氣象部門表示9月29日全國持續晴朗炎熱，南海目前無熱帶風暴生成跡象，惟一股弱冷空氣將自9月30日起為北部帶來零星降雨。",
-      "url": "https://vietnamnet.vn/du-bao-thoi-tiet-29-9-2026-mien-bac-nang-nhu-mua-he-truoc-2-dot-khong-khi-lanh-2555503.html"
+      "title": "東太平洋風季空前活躍 諾洛、波羅雙颶風夾擊廣大區域",
+      "dek": "Yale Climate Connections分析指出，颶風諾洛逼近夏威夷之際，波羅殘餘水氣同步為美國西南沙漠帶來強降雨，凸顯今年東太平洋颶風季的異常活躍程度。",
+      "url": "https://yaleclimateconnections.org/2026/09/hurricane-nolo-takes-another-turn-polo-to-bring-deep-tropical-moisture-to-southwest-desert/"
     }
   ]
 }
