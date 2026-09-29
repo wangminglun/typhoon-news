@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T16:10:00+08:00",
+  "generated_at": "2026-09-29T17:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。原本受關注的颱風舒力基已轉向北方並加速遠離台灣本島，威脅解除。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基持續朝東北方向遠離台灣，路徑轉向日本沖繩、關東一帶。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受任何颱風系統影響，唯9月29日至30日與雙北等11縣市同列36度以上高溫特報，屬單純高溫議題，非颱風相關警示。"
+    "text": "目前無直接影響。台中未受任何颱風系統風雨波及，唯與其他10縣市同列9月29日高溫特報（32至36度），屬單純高溫議題，非颱風相關警示，10月1日東北季風增強後轉涼轉雨。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "舒力基持續北彎遠離　中央氣象署未發布颱風警報",
-    "dek": "一度被視為可能襲擊花東的颱風舒力基已轉向外海並逐漸減弱，台灣目前無颱風警戒，但高溫與即將到來的東北季風成為新焦點。",
-    "url": "https://tw.news.yahoo.com/20260928%E8%88%92%E5%8A%9B%E5%9F%BA%E9%9B%A2%E8%87%BA%E6%BC%B8%E9%81%A0-%E4%B8%AD%E7%A7%8B%E6%95%99%E5%B8%AB%E7%AF%80%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A%E7%B6%AD%E6%8C%81%E8%87%B30930-042811772.html"
+    "title": "舒力基颱風轉向直撲日本　台灣暫無警報仍籠罩高溫",
+    "dek": "中央氣象署未對台灣發布任何海上或陸上颱風警報，本週天氣仍受高溫支配，但西北太平洋與東太平洋同時有多個強烈熱帶氣旋活躍，凸顯今年颱風季的不尋常態勢。",
+    "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "舒力基持續遠離台灣　減弱並朝溫帶氣旋轉化",
-      "dek": "中央氣象署預測，舒力基將在約120小時內完成溫帶氣旋轉化，對台灣不構成直接威脅。",
-      "url": "https://tw.news.yahoo.com/20260928%E8%88%92%E5%8A%9B%E5%9F%BA%E9%9B%A2%E8%87%BA%E6%BC%B8%E9%81%A0-%E4%B8%AD%E7%A7%8B%E6%95%99%E5%B8%AB%E7%AF%80%E9%80%A3%E5%81%87%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A%E7%B6%AD%E6%8C%81%E8%87%B30930-042811772.html"
+      "title": "強颱舒力基逼近沖繩　恐再襲風雨未歇的關東",
+      "dek": "《日本時報》報導，舒力基以強烈颱風之姿掠過沖繩外海掀起巨浪，預測減弱後仍可能影響尚未從颱風Dujuan災情中復原的關東地區。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 2,
-      "title": "颱風昆妮（舒力基）脫離菲律賓責任區",
-      "dek": "昆妮於9月27日增強至風速每小時155公里後，離開菲律賓大氣地球物理與天文服務署劃定的責任區並持續增強。",
-      "url": "https://gmanetwork.com/news/weather/content/1003888/typhoon-queenie-exits-par/story/?just_in="
+      "title": "舒力基掠過大東群島　逐漸轉向本州南方海面",
+      "dek": "日本氣象網站Weathernews指出，舒力基強度已於9月27、28日達到顛峰，目前呈減弱趨勢，並將遠離台灣與菲律賓。",
+      "url": "https://sea.weathernews.com/resources/202609/257"
     },
     {
       "rank": 3,
-      "title": "昆妮遠離後　間熱帶輻合區為菲律賓帶來降雨",
-      "dek": "菲律賓大氣地球物理與天文服務署表示，隨昆妮離境，暫未監測到新的低壓區或潛在熱帶氣旋。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/"
+      "title": "舒力基減弱為颱風級　持續北轉朝日本東南洋面移動",
+      "dek": "中國官媒《光明網》報導，舒力基中心風速降至每秒33公尺，預測將在日本東南方洋面完成溫帶氣旋轉化，對台灣已無威脅。",
+      "url": "https://m.gmw.cn/2026-09/29/content_1304569664.htm"
     },
     {
       "rank": 4,
-      "title": "關島附近熱帶系統活躍　專家示警未來一週恐有新颱風",
-      "dek": "氣象專家指出西北太平洋熱帶系統活動力偏高，同時台灣自10月1日起將受東北季風分階段影響。",
-      "url": "https://news.tvbs.com.tw/life/4028826"
+      "title": "氣象署證實舒力基遠離台灣　本週轉受偏南氣流影響",
+      "dek": "中央氣象署表示，舒力基持續遠離台灣本島，對台無直接威脅，本週天氣將先晴熱後轉為東北季風影響。",
+      "url": "https://tw.news.yahoo.com/topic/typhoon"
     },
     {
       "rank": 5,
-      "title": "菲律賓氣象單位展望第四季：熱帶氣旋數量減少但強度增強",
-      "dek": "菲律賓大氣地球物理與天文服務署預期10至12月生成的熱帶氣旋數量低於平均，但個別系統可能更為強烈。",
-      "url": "https://www.pna.gov.ph/articles/1284604"
+      "title": "雙北等11縣市29日發布高溫特報　10月1日起東北季風轉雨",
+      "dek": "中央社報導，中央氣象署針對11縣市發布高溫特報，最高溫上看36度，強調此波高溫與熱帶氣旋無關。",
+      "url": "https://www.cna.com.tw/news/ahel/202609280189.aspx"
     },
     {
       "rank": 6,
-      "title": "颶風波羅重創墨西哥太平洋沿岸　為該海域史上最強風暴之一",
-      "dek": "波羅以每小時180英里的巔峰風速侵襲下加利福尼亞州，哈利斯科州傳出兩名兒童罹難。",
-      "url": "https://www.nbcnews.com/news/us-news/hurricane-polo-one-strongest-storms-ever-churning-mexicos-pacific-coas-rcna599354"
+      "title": "颶風Polo逼近墨西哥　近5級強度重創太平洋岸",
+      "dek": "耶魯氣候連線報導，颶風Polo以接近5級的強度持續衝擊墨西哥下加利福尼亞南部與哈利斯科海岸。",
+      "url": "https://yaleclimateconnections.org/2026/09/hurricane-polo-approaches-mexico-as-coastal-storm-grips-northeast-new-england/"
     },
     {
       "rank": 7,
-      "title": "颶風諾羅釀夏威夷大島洪災　國民兵展開救援",
-      "dek": "諾羅為夏威夷大島南部及東南部帶來強降雨並致公路封閉，國民兵週末救出19人。",
-      "url": "https://abc7ny.com/story/mexicos-baja-california-braces-major-hurricane-polo-nolo-threatens-hawaii/19883136/"
+      "title": "4級颶風Nolo逼近夏威夷　Polo殘餘水氣將襲美國西南沙漠",
+      "dek": "耶魯氣候連線報導，強烈颶風Nolo持續威脅夏威夷群島並帶來豪雨強風，另一颶風Polo的水氣則預測將吹向美國西南部沙漠地區。",
+      "url": "https://yaleclimateconnections.org/2026/09/hurricane-nolo-takes-another-turn-polo-to-bring-deep-tropical-moisture-to-southwest-desert/"
     },
     {
       "rank": 8,
-      "title": "2026年太平洋颶風季追平三個五級颶風歷史紀錄",
-      "dek": "美聯社報導指出，異常溫暖的海水與強勢聖嬰現象是今年太平洋颶風季活躍的主因，颶風季至11月30日才結束。",
-      "url": "https://phys.org/news/2026-09-intense-hurricane-season-pacific.html"
+      "title": "大西洋颶風荒逼近歷史紀錄　聖嬰現象成關鍵抑制因素",
+      "dek": "《福斯天氣》報導，大西洋盆地今年遲遲未生成颶風，已逼近史上最晚首颶風紀錄，專家指聖嬰現象是主要壓抑因素。",
+      "url": "https://www.foxweather.com/weather-news/atlantic-hurricane-drought-near-historic-milestone"
     },
     {
       "rank": 9,
-      "title": "大西洋颶風季創六十年來最長無颶風紀錄",
-      "dek": "強勁風切與乾燥空氣抑制風暴發展，使大西洋自衛星觀測時代以來首度出現如此長時間未產生颶風等級風暴。",
-      "url": "https://www.cbsnews.com/news/atlantic-hurricane-season-activity-record-low-el-nino/"
+      "title": "熱帶風暴Gonzalo生成　大西洋創紀錄的無颶風紀錄仍在持續",
+      "dek": "《福斯天氣》報導，熱帶風暴Gonzalo在維德角群島附近生成，預測路徑偏向非洲、強度不會達到颶風等級。",
+      "url": "https://www.foxweather.com/weather-news/tropical-storm-gonzalo-cabo-fay-el-nino-atlantic-hurricane-season.amp"
     },
     {
       "rank": 10,
-      "title": "颱風威脅解除　台灣仍受36度以上高溫特報籠罩",
-      "dek": "雙北等11縣市9月29日至30日發布高溫特報，10月1日東北季風到來後北部及東部將轉為降雨、氣溫下滑。",
-      "url": "https://tw.news.yahoo.com/9-29%E9%9B%99%E5%8C%97%E7%AD%8911%E7%B8%A3%E5%B8%82%E9%98%B2%E9%AB%98%E6%BA%AB-10-1%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%BD%B1%E9%9F%BF%E8%BD%89%E9%9B%A8-095954908.html"
+      "title": "颱風Queenie（舒力基）飛離菲律賓責任區　未在菲登陸",
+      "dek": "菲律賓大氣地球物理暨天文服務署表示，該系統已加速朝日本南方海域移動，未對菲律賓造成登陸衝擊。",
+      "url": "https://www.philstar.com/headlines/2026/09/27/2559207/queenie-exit-par-today"
     }
   ]
 }
