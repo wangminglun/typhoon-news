@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T21:09:00+08:00",
+  "generated_at": "2026-09-29T23:04:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基以罕見緊密結構逼近日本本州，暴風圈始終未觸及台灣，全台暴風機率預測維持零機率。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基路徑持續北轉遠離台灣，全台暴風侵襲機率預測維持零機率。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響——舒力基暴風圈未觸及台灣，台中未受任何熱帶系統直接影響。9月29日台中天氣多雲，氣溫約攝氏18至32度，無風雨相關警報，未發布停班停課公告。"
+    "text": "目前無直接影響——舒力基路徑已北轉遠離台灣，台中未受任何熱帶系統直接影響。本週台中天氣晴朗炎熱，高溫約攝氏32至36度，僅山區午後有局部短暫陣雨，未發布停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風舒力基以罕見緊密結構逼近日本關東　台灣本島全境未受影響",
-    "dek": "氣象單位表示，今年最強颱風舒力基掠過沖繩後轉向日本本州，關東地區恐在杜鵑颱風重創之後再度面臨風雨威脅，而台灣中央氣象署則表示，暴風圈預測機率圖上，全台無一縣市列入警戒範圍。",
+    "title": "強颱舒力基北轉遠離台灣，氣象署持續預告暴風侵襲機率為零",
+    "dek": "儘管西太平洋今年最強風暴之一一度達到超級颱風的巔峰強度，但舒力基的路徑已明顯北轉、遠離台灣，轉而朝日本本州外海逼近。",
     "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風舒力基掠過沖繩　恐衝擊尚未復原的關東地區",
-      "dek": "據《日本時報》報導，今年第26號颱風舒力基已被日本氣象廳列為「非常強」等級，正逼近數週前遭颱風杜鵑重創、造成至少10死的千葉與神奈川一帶。",
+      "title": "強颱掠過沖繩海域，恐於本週四逼近風災未歇的關東地區",
+      "dek": "據《日本時報》報導，舒力基以「非常強」等級掠過日本大東群島，掀起最高7公尺巨浪並在沖繩外島帶來強烈陣風；若路徑不變，減弱後的風暴預計週四（10月1日）左右影響東海與關東地區，包括伊豆群島。",
       "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 2,
-      "title": "舒力基周四恐掠過伊豆群島　屆時強度料已減弱",
-      "dek": "據共同社報導，舒力基預估將先偏離日本，再轉向伊豆群島，本週四前後可能觸及東海至關東沿岸，屆時已減弱為強烈熱帶風暴。",
-      "url": "https://www.nippon.com/en/news/yjj2026092800279/"
+      "title": "26號颱風舒力基掠過大東群島，路徑指向本州以南海域",
+      "dek": "根據日本氣象網站Weathernews報導，舒力基持續朝東北東方向移動，於大東群島北側掠過，沖繩外島仍面臨最高7公尺巨浪與暴風等級陣風，風暴路徑將持續遠離台灣、朝本州以南海域前進。",
+      "url": "https://sea.weathernews.com/resources/202609/257"
     },
     {
       "rank": 3,
-      "title": "暴風半徑僅百公里　舒力基創下罕見緊密結構紀錄",
-      "dek": "據壹蘋新聞網報導，舒力基一夜暴增為暴風半徑僅約100公里的強颱，氣象學者鄭明典指出其外圍環流始終未觸及台灣。",
-      "url": "https://news.nextapple.com/life/20260928/D9904A62A573FD071234284D8330A9A9"
+      "title": "舒力基升級強烈颱風，路徑北轉遠離台灣本島",
+      "dek": "據自由時報／NOWnews綜合台灣媒體報導，舒力基已於9月27日晚間8時升級為強烈颱風，近中心最大風速達每秒51公尺；中央氣象署路徑預測顯示風暴已轉向北北東至東北方向，台灣各縣市未來120小時暴風侵襲機率均為零。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5587979"
     },
     {
       "rank": 4,
-      "title": "中央氣象署：舒力基暴風機率全台為零",
-      "dek": "據數位時代報導，中央氣象署120小時暴風機率預測圖顯示全台縣市均為零機率，颱風中心距台灣逾600公里，本週台灣以晴朗高溫為主。",
-      "url": "https://www.bnext.com.tw/article/92354/surigae-typhoon-path"
+      "title": "颱風昆妮（舒力基）已駛離菲律賓責任區",
+      "dek": "據菲律賓《Philstar》報導，菲律賓大氣地球物理暨天文服務署（PAGASA）證實，颱風昆妮已於9月28日上午11時左右駛離菲律賓責任區，當時位於呂宋島東北方約865公里處，風速每小時155公里；菲國仍受間熱帶輻合帶影響而有零星降雨，但已不再受昆妮直接影響。",
+      "url": "https://www.philstar.com/headlines/2026/09/28/2559407/typhoon-queenie-exits-par"
     },
     {
       "rank": 5,
-      "title": "回顧颱風杜鵑：日本三縣至少10人死亡",
-      "dek": "據數位時代報導，颱風杜鵑9月中旬掠過日本南部雖未直接侵襲台灣，卻在千葉、宮崎與神奈川造成嚴重災損及至少10人罹難。",
-      "url": "https://www.bnext.com.tw/article/92246/typhoon-dujuan-path-japan-taiwan-impact"
+      "title": "超級颱風舒力基達到顛峰強度，成今年西太平洋最強風暴之一",
+      "dek": "根據獨立氣象觀測平台Fred Pickhardt's Tropical Weather分析，舒力基已於9月27日晚間（世界協調時18時）達到超級颱風強度，近中心最大風速每小時241公里、中心氣壓低至929百帕，為2026年西太平洋颱風季最強風暴之一，目前已因進入較冷海域及強風切而開始減弱。",
+      "url": "https://fredpickhardt.substack.com/p/super-typhoon-surigae-reaches-peak"
     },
     {
       "rank": 6,
-      "title": "颶風波羅登陸下加利福尼亞南部後持續減弱",
-      "dek": "據墨西哥新聞日報報導，一度逼近時速180英里的颶風波羅在登陸下加利福尼亞南部前已明顯減弱，目前於墨西哥內陸持續減弱中。",
-      "url": "https://mexiconewsdaily.com/news/polo-landfall-baja-california-sur-what-to-know/"
+      "title": "預測：舒力基將於10月3日至4日完成溫帶化",
+      "dek": "根據Zoom Earth與Weathernews的追蹤預測，舒力基將於世界協調時10月1日午夜前減弱為強烈熱帶風暴（風速55節），並在穿越攝氏26度海溫等溫線、遭遇乾空氣與每小時25至30節風切後，於10月3日至4日在北太平洋副極區完成溫帶轉化。",
+      "url": "https://zoom.earth/storms/surigae-2026/"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴瑞秋沿墨西哥太平洋岸增強　恐成颶風",
-      "dek": "據UPI報導，美國國家颶風中心預測熱帶風暴瑞秋本週中前可望增強為一至二級颶風，中心料將平行下加利福尼亞外海通過，卡波聖盧卡斯一帶仍可能受風浪影響。",
-      "url": "https://www.upi.com/Top_News/World-News/2026/09/29/latam-storm-rachel-hurricane/9571790620313"
+      "title": "颶風波羅登陸墨西哥下加利福尼亞，帶來「致命」強風",
+      "dek": "據《NBC新聞》報導，二級颶風波羅已在墨西哥下加利福尼亞蘇爾州拉斯巴蘭卡斯附近登陸，最大持續風速達每小時177公里（每小時110英里），為當地太平洋沿岸帶來閃洪與致命強風，登陸時風暴正以每小時13英里速度向東北移動。",
+      "url": "https://www.nbcnews.com/news/us-news/wind-whips-mexicos-northern-pacific-coast-streets-flood-hurricane-polo-rcna600420"
     },
     {
       "rank": 8,
-      "title": "東太平洋罕見三颶風並存　諾羅為夏威夷帶來大浪",
-      "dek": "據Surfline報導，颶風波羅、諾羅與熱帶風暴瑞秋同時活躍於東太平洋與中太平洋，其中颶風諾羅雖未登陸，仍為夏威夷帶來大浪。",
-      "url": "https://www.surfline.com/surf-news/epac-signals-tropics-polo-nolo-rachel-hurricane-tropical-storm/5u5b2HhBmePy5BFseGtIg3"
+      "title": "四級颶風諾羅轉向遠離夏威夷，強風洪水風險仍未解除",
+      "dek": "據《PBS新聞》報導，威力強大的四級颶風諾羅一度逼近夏威夷群島西南方，所幸風暴轉向西行，使大島躲過繼颶風拉拉之後再度淹水的疑慮；儘管如此，當地強風與閃洪風險仍持續存在。",
+      "url": "https://www.pbs.org/newshour/nation/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk"
     },
     {
       "rank": 9,
-      "title": "大西洋9月恐現零颶風紀錄　太平洋卻異常活躍",
-      "dek": "據weather.com報導，大西洋今年9月僅有熱帶風暴活動且預期留在外海，可能創下整月零颶風生成的罕見紀錄，形成與活躍太平洋的強烈對比。",
-      "url": "https://weather.com/2026/09/29/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
+      "title": "熱帶風暴瑞秋與颶風波羅夾擊，美國西南部面臨洪水威脅",
+      "dek": "據氣象網站Radar Watch HQ報導，新生成的熱帶風暴瑞秋路徑與颶風波羅相近，兩者挾帶的水氣持續深入內陸，恐為墨西哥太平洋沿岸及美國西南部沙漠地區帶來新一波洪水疑慮。",
+      "url": "https://radarwatchhq.com/tropical-storm-rachel-hurricane-polo-bring-southwest-flood-threat-september-28-2026/"
     },
     {
       "rank": 10,
-      "title": "東京發布高度警戒　因應舒力基逼近",
-      "dek": "據《週日守護者》報導，鑑於舒力基的強度與逼近路徑，日本氣象廳已對東京及關東地區發布高度警戒。",
-      "url": "https://sundayguardianlive.com/world/japan-weather-alert-strong-typhoon-surrigae-nears-okinawa-prefecture-jma-places-tokyo-on-high-alert-check-affected-areas-weather-advisory-more-294539/"
+      "title": "大西洋風暴菲與漢娜預計轉為溫帶氣旋，均不影響陸地",
+      "dek": "據美國電視台WJBF氣象報導，熱帶風暴菲（近北緯25.0度、西經46.8度，風速每小時64公里）預計36小時內轉為溫帶氣旋，熱帶風暴漢娜（近北緯35.2度、西經46.2度，風速每小時72公里）則預計本週稍晚轉化；兩者皆將持續留在海上，不會侵襲陸地。",
+      "url": "https://www.wjbf.com/weather/tropical-update-for-tuesday-september-29-2026/"
     }
   ]
 }
