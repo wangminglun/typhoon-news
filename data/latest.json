@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T23:04:00+08:00",
+  "generated_at": "2026-09-29T23:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基路徑持續北轉遠離台灣，全台暴風侵襲機率預測維持零機率。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上颱風警報或陸上颱風警報。颱風舒力基持續北轉遠離台灣，全台暴風侵襲機率預測維持零機率。",
   "region_watch": {
     "region": "台中",
     "text": "目前無直接影響——舒力基路徑已北轉遠離台灣，台中未受任何熱帶系統直接影響。本週台中天氣晴朗炎熱，高溫約攝氏32至36度，僅山區午後有局部短暫陣雨，未發布停班停課公告。"
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱舒力基北轉遠離台灣，氣象署持續預告暴風侵襲機率為零",
-    "dek": "儘管西太平洋今年最強風暴之一一度達到超級颱風的巔峰強度，但舒力基的路徑已明顯北轉、遠離台灣，轉而朝日本本州外海逼近。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+    "title": "颱風舒力基轉向遠離　台灣暫無颱風警戒",
+    "dek": "中央氣象署宣布暴風侵襲台灣機率為零，舒力基已轉向朝日本沖繩、本州方向遠離",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5589182"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱掠過沖繩海域，恐於本週四逼近風災未歇的關東地區",
-      "dek": "據《日本時報》報導，舒力基以「非常強」等級掠過日本大東群島，掀起最高7公尺巨浪並在沖繩外島帶來強烈陣風；若路徑不變，減弱後的風暴預計週四（10月1日）左右影響東海與關東地區，包括伊豆群島。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+      "title": "舒力基減弱北轉　台灣威脅解除",
+      "dek": "據《自由時報》報導，颱風舒力基已明顯減弱並轉向東北遠離台灣，氣象專家指出暴風侵襲機率為零，但不排除颱風季稍後仍有一至兩個熱帶氣旋生成。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5589182"
     },
     {
       "rank": 2,
-      "title": "26號颱風舒力基掠過大東群島，路徑指向本州以南海域",
-      "dek": "根據日本氣象網站Weathernews報導，舒力基持續朝東北東方向移動，於大東群島北側掠過，沖繩外島仍面臨最高7公尺巨浪與暴風等級陣風，風暴路徑將持續遠離台灣、朝本州以南海域前進。",
-      "url": "https://sea.weathernews.com/resources/202609/257"
+      "title": "舒力基逼近沖繩　下一步瞄準關東",
+      "dek": "據《日本時報》報導，26號颱風舒力基已接近沖繩縣，為大東與南方諸島帶來最高7公尺巨浪與強風，日本氣象廳警告山崩與強風災害，不排除下一步影響關東地區。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 3,
-      "title": "舒力基升級強烈颱風，路徑北轉遠離台灣本島",
-      "dek": "據自由時報／NOWnews綜合台灣媒體報導，舒力基已於9月27日晚間8時升級為強烈颱風，近中心最大風速達每秒51公尺；中央氣象署路徑預測顯示風暴已轉向北北東至東北方向，台灣各縣市未來120小時暴風侵襲機率均為零。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5587979"
+      "title": "舒力基一度衝上超級颱風強度",
+      "dek": "據日本Weathernews報導，26號颱風舒力基9月27日巔峰風速達每小時241公里、中心氣壓929百帕，達超級颱風強度，隨後減弱至約185公里並朝本州以南海域移動。",
+      "url": "https://sea.weathernews.com/resources/202609/257"
     },
     {
       "rank": 4,
-      "title": "颱風昆妮（舒力基）已駛離菲律賓責任區",
-      "dek": "據菲律賓《Philstar》報導，菲律賓大氣地球物理暨天文服務署（PAGASA）證實，颱風昆妮已於9月28日上午11時左右駛離菲律賓責任區，當時位於呂宋島東北方約865公里處，風速每小時155公里；菲國仍受間熱帶輻合帶影響而有零星降雨，但已不再受昆妮直接影響。",
-      "url": "https://www.philstar.com/headlines/2026/09/28/2559407/typhoon-queenie-exits-par"
+      "title": "氣象署：無颱風警報　天氣持穩晴熱",
+      "dek": "據中央氣象署官方颱風消息網頁公告，目前無海上或陸上颱風警報，台灣本週維持晴朗炎熱天氣，溫度介於32至36度，僅山區午後有零星降雨機率。",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_NEWS.html"
     },
     {
       "rank": 5,
-      "title": "超級颱風舒力基達到顛峰強度，成今年西太平洋最強風暴之一",
-      "dek": "根據獨立氣象觀測平台Fred Pickhardt's Tropical Weather分析，舒力基已於9月27日晚間（世界協調時18時）達到超級颱風強度，近中心最大風速每小時241公里、中心氣壓低至929百帕，為2026年西太平洋颱風季最強風暴之一，目前已因進入較冷海域及強風切而開始減弱。",
-      "url": "https://fredpickhardt.substack.com/p/super-typhoon-surigae-reaches-peak"
+      "title": "昆妮（舒力基）已離開菲律賓責任區",
+      "dek": "據菲律賓大氣地球物理與天文管理局（PAGASA）公告，颱風昆妮（國際名舒力基）已於9月27日離開該國責任區，另有一道風切線為巴丹省與三巴萊斯省帶來強降雨與雷擊警示。",
+      "url": "https://www.pagasa.dost.gov.ph/weather/weather-outlook-selected-philippine-cities"
     },
     {
       "rank": 6,
-      "title": "預測：舒力基將於10月3日至4日完成溫帶化",
-      "dek": "根據Zoom Earth與Weathernews的追蹤預測，舒力基將於世界協調時10月1日午夜前減弱為強烈熱帶風暴（風速55節），並在穿越攝氏26度海溫等溫線、遭遇乾空氣與每小時25至30節風切後，於10月3日至4日在北太平洋副極區完成溫帶轉化。",
-      "url": "https://zoom.earth/storms/surigae-2026/"
+      "title": "颶風波羅登陸墨西哥　殘餘水氣將襲美西南",
+      "dek": "據《The Weather Channel》（weather.com）報導，颶風波羅曾快速增強至180英里時速的極端強度，已以強烈二級颶風登陸下加利福尼亞半島南端並逐漸減弱，殘餘水氣預計為美國亞利桑那與新墨西哥州帶來洪災風險。",
+      "url": "https://weather.com/2026/09/29/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
     },
     {
       "rank": 7,
-      "title": "颶風波羅登陸墨西哥下加利福尼亞，帶來「致命」強風",
-      "dek": "據《NBC新聞》報導，二級颶風波羅已在墨西哥下加利福尼亞蘇爾州拉斯巴蘭卡斯附近登陸，最大持續風速達每小時177公里（每小時110英里），為當地太平洋沿岸帶來閃洪與致命強風，登陸時風暴正以每小時13英里速度向東北移動。",
-      "url": "https://www.nbcnews.com/news/us-news/wind-whips-mexicos-northern-pacific-coast-streets-flood-hurricane-polo-rcna600420"
+      "title": "四級颶風諾洛遠離夏威夷　危險長浪未歇",
+      "dek": "據《檀香山星報》（Honolulu Star-Advertiser）報導，四級颶風諾洛已朝西北方向遠離夏威夷主要島鏈，但考艾郡仍受外圍雨帶影響，南向海岸持續出現具生命危險的長浪與離岸流。",
+      "url": "https://www.staradvertiser.com/2026/09/28/breaking-news/hurricane-nolo-remains-category-4-far-southwest-of-hawaii/"
     },
     {
       "rank": 8,
-      "title": "四級颶風諾羅轉向遠離夏威夷，強風洪水風險仍未解除",
-      "dek": "據《PBS新聞》報導，威力強大的四級颶風諾羅一度逼近夏威夷群島西南方，所幸風暴轉向西行，使大島躲過繼颶風拉拉之後再度淹水的疑慮；儘管如此，當地強風與閃洪風險仍持續存在。",
-      "url": "https://www.pbs.org/newshour/nation/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk"
+      "title": "熱帶風暴瑞秋料增強為颶風　威脅墨西哥西南岸",
+      "dek": "據美國國家颶風中心（NHC）最新公告，熱帶風暴瑞秋預計一天內增強為颶風，將平行於墨西哥西南岸外海移動，可能帶來3至6吋、局部8吋降雨，提高洪水與土石流風險。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP3+html/291144.shtml"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴瑞秋與颶風波羅夾擊，美國西南部面臨洪水威脅",
-      "dek": "據氣象網站Radar Watch HQ報導，新生成的熱帶風暴瑞秋路徑與颶風波羅相近，兩者挾帶的水氣持續深入內陸，恐為墨西哥太平洋沿岸及美國西南部沙漠地區帶來新一波洪水疑慮。",
-      "url": "https://radarwatchhq.com/tropical-storm-rachel-hurricane-polo-bring-southwest-flood-threat-september-28-2026/"
+      "title": "2026年太平洋風暴季堪稱史上最活躍之一",
+      "dek": "據《FoxWeather》報導，今年太平洋颶風與颱風季異常活躍，颶風波羅一度躋身太平洋史上第二強颶風，颶風諾洛逼近夏威夷達四級強度，西北太平洋則已出現多個超級颱風，包括舒力基。",
+      "url": "https://www.foxweather.com/weather-news/hurricane-nolo-hawaii-catastrophic-flooding-rain-september-2026"
     },
     {
       "rank": 10,
-      "title": "大西洋風暴菲與漢娜預計轉為溫帶氣旋，均不影響陸地",
-      "dek": "據美國電視台WJBF氣象報導，熱帶風暴菲（近北緯25.0度、西經46.8度，風速每小時64公里）預計36小時內轉為溫帶氣旋，熱帶風暴漢娜（近北緯35.2度、西經46.2度，風速每小時72公里）則預計本週稍晚轉化；兩者皆將持續留在海上，不會侵襲陸地。",
-      "url": "https://www.wjbf.com/weather/tropical-update-for-tuesday-september-29-2026/"
+      "title": "越南氣象局：南海暫無新風暴形成徵兆",
+      "dek": "據《越南網》（VietnamNet）報導，越南氣象部門表示9月29日全國持續晴朗炎熱，南海目前無熱帶風暴生成跡象，惟一股弱冷空氣將自9月30日起為北部帶來零星降雨。",
+      "url": "https://vietnamnet.vn/du-bao-thoi-tiet-29-9-2026-mien-bac-nang-nhu-mua-he-truoc-2-dot-khong-khi-lanh-2555503.html"
     }
   ]
 }
