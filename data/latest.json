@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T03:09:00+08:00",
+  "generated_at": "2026-09-30T04:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未針對颱風蘇力奇或熱帶擾動93W發布海上或陸上颱風警報。蘇力奇已大幅減弱並持續朝日本本州以南海域移動，93W則仍在關島東方海面醞釀，暫無跡象將直接影響台灣。",
+  "alert_desc": "中央氣象署目前未針對颱風舒力基（日本編號第26號颱風）發布海上或陸上颱風警報。舒力基已北轉朝日本關東外海及伊豆群島逼近，對台灣本島僅構成長浪威脅，氣象署籲請民眾勿在海邊逗留。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。台中並未列在今日（9月29日）氣象署高溫特報明確點名的橙燈縣市清單中（台北、新北、桃園、雲林、台南、屏東），但西半部平地同樣籠罩在32至36度的炎熱天氣下；目前沒有任何颱風相關風雨警報或停班停課公告，台中也不在蘇力奇或新生擾動93W的預測路徑上。"
+    "text": "目前無颱風直接影響台中。台中列在9月29日氣象署高溫特報的黃燈縣市名單中（36度以上），但未達連續多日高溫的橙燈標準；目前沒有任何颱風相關風雨警報或停班停課公告，台中也不在舒力基或觀測中熱帶系統的預測路徑上。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風蘇力奇減弱轉向日本　台灣暫無威脅但「彩雲」醞釀中、秋老虎持續發威",
-    "dek": "中央氣象署尚未對台發布颱風警報，氣象單位目前將焦點轉向關島東方海域的熱帶擾動93W，以及持續籠罩台灣西半部的36度高溫。",
-    "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
+    "title": "颱風舒力基轉向日本　台灣本島無警戒　中南部11縣市持續高溫逾36度",
+    "dek": "今年第26號颱風舒力基已明顯減弱並北轉逼近日本關東外海，中央氣象署表示對台灣僅構成長浪威脅，本島今日真正的天氣焦點仍是11縣市發布的高溫燈號與即將到來的東北季風。",
+    "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "蘇力奇短暫增強至超級颱風後迅速減弱　沖繩以東海域掠過，日本關東留意週末外圍影響",
-      "dek": "蘇力奇9月27日一度達到超級颱風等級，隨後迅速減弱並轉向東北東，已不再威脅台灣。",
-      "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
+      "title": "強颱舒力基逼近沖繩後轉向　恐為災後關東再添風雨",
+      "dek": "日本時報報導，第26號颱風舒力基通過沖繩、奄美海域後持續增強，尚未從颱風杜鵑復原的關東地區正嚴陣以待。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 2,
-      "title": "26號颱風蘇力奇掠過大東群島　朝本州以南海域前進",
-      "dek": "日本氣象媒體預測蘇力奇將於週四減弱為強烈熱帶風暴，週六轉化為溫帶氣旋。",
-      "url": "https://sea.weathernews.com/resources/202609/257"
+      "title": "舒力基掠過沖繩後轉弱　關東緊盯本週末路徑變化",
+      "dek": "舒力基在沖繩以東一度達到近超級颱風強度後，因海溫與風切影響於9月29日起減弱，關東地區持續關注後續動向。",
+      "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
     },
     {
       "rank": 3,
-      "title": "彩雲颱風最快10/2生成　93W醞釀中、10月東北季風接力來襲",
-      "dek": "關島東方熱帶擾動93W最快週五發展為今年第26號颱風彩雲，路徑預測偏向日本、暫不威脅台灣。",
-      "url": "https://supertaste.tvbs.com.tw/hot/361713"
+      "title": "舒力基掠過大東群島　掀7公尺巨浪朝本州南方海域前進",
+      "dek": "Weathernews報導，第26號颱風通過大東群島北側，為西南諸島帶來最高7公尺危險浪高與強陣風。",
+      "url": "https://sea.weathernews.com/resources/202609/257"
     },
     {
       "rank": 4,
-      "title": "雙颱醞釀中　彩雲最快週五生成　專家曝最新路徑預測",
-      "dek": "中時新聞網報導，氣象專家預期彩雲颱風路徑將偏離台灣、轉向日本方向移動。",
-      "url": "https://www.chinatimes.com/realtimenews/20260929001622-260405"
+      "title": "颱風26號估10月1日前後逼近伊豆群島　關東南部提前示警豪雨",
+      "dek": "tenki.jp報導，颱風26號預計9月30日通過八丈島西南方海域，逼近前即為關東南部帶來警戒級豪雨風險。",
+      "url": "https://tenki.jp/forecaster/gureweather/2026/09/29/40796.html"
     },
     {
       "rank": 5,
-      "title": "雙颱來了？彩雲颱風最快週五生成　預測路徑不會直撲台灣",
-      "dek": "ETtoday新聞雲報導，93W被列為潛在第二颱「彩雲」，預測路徑不會直接侵襲台灣。",
-      "url": "https://www.ettoday.net/news/20260929/3245513.htm"
+      "title": "舒力基穩定增強轉向日本　氣象署：對台僅長浪影響",
+      "dek": "聯合新聞網報導，中央氣象署證實舒力基周末將轉向日本，對台灣僅帶來海邊長浪與瘋狗浪威脅。",
+      "url": "https://udn.com/news/story/7266/9775245"
     },
     {
       "rank": 6,
-      "title": "颱風季未結束！彩雲恐生成　專家再示警不排除「跨界颱風」",
-      "dek": "TVBS News報導，除彩雲外，中央太平洋另一系統恐於10月4日至5日跨越國際換日線，須持續觀察。",
-      "url": "https://news.tvbs.com.tw/life/4028844"
+      "title": "舒力基雛型階段登陸台灣或北轉分歧　傳統模式對決AI預測",
+      "dek": "ETtoday報導，颱風舒力基形成初期，傳統數值模式與人工智慧模式對其路徑一度出現明顯分歧。",
+      "url": "https://www.ettoday.net/news/20260923/3242395.htm"
     },
     {
       "rank": 7,
-      "title": "中秋收假秋老虎飆36度　10/1東北季風接力降雨、93W恐增強為彩雲颱風",
-      "dek": "窩客島報導，中秋節後高溫將持續至月底，10月1日起東北季風南下降雨降溫，同時93W有望增強為颱風。",
-      "url": "https://www.walkerland.com.tw/subject/view/425166"
+      "title": "準舒力基一度看強颱侵台　歐美模式曾預測下週二登陸東南部",
+      "dek": "中時新聞網報導，颱風形成初期歐美模式一度預測其將登陸台灣東南部，惟後續路徑已明顯北轉。",
+      "url": "https://www.chinatimes.com/realtimenews/20260923001135-260405"
     },
     {
       "rank": 8,
-      "title": "6縣市高溫炙烤　氣象署發布橙色警示籲防熱衰竭",
-      "dek": "Newtalk新聞報導，中央氣象署針對台北、新北、桃園、雲林、台南、屏東發布高溫橙燈警示。",
-      "url": "https://newtalk.tw/news/view/2026-09-29/1062560"
+      "title": "颱風杜鵑重創日本　關東土石流釀至少4死6失聯",
+      "dek": "半島電視台報導，颱風杜鵑侵襲日本引發土石流與洪災，並導致大規模停電與航班、鐵路大亂。",
+      "url": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo"
     },
     {
       "rank": 9,
-      "title": "9/29雙北等11縣市防高溫　10/1東北季風到位轉雨轉涼",
-      "dek": "經濟日報報導，11縣市持續受高溫影響，預計10月1日東北季風南下帶來降雨與降溫。",
-      "url": "https://money.udn.com/money/story/5648/9781718"
+      "title": "熱爆全台！11縣市飆逾36度　3地連日高溫亮橙燈",
+      "dek": "自由時報報導，中央氣象署9月29日對全台11縣市發布高溫燈號，雲林、台南、屏東因連續高溫亮橙燈。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5589050"
     },
     {
       "rank": 10,
-      "title": "今日仍炎熱難耐　週四變天、兩波東北季風時程曝光",
-      "dek": "自由時報報導，西半部今日仍達34至36度高溫，週四起兩波東北季風將接連影響北部及東半部。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588956"
+      "title": "雙北等11縣市今防高溫　10月1日東北季風報到轉有雨",
+      "dek": "中央社報導，氣象署預估高溫將持續至9月30日，10月1日東北季風增強後北部與東半部氣溫將轉雨降溫。",
+      "url": "https://www.cna.com.tw/news/ahel/202609280189.aspx"
     }
   ]
 }
