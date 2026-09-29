@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T09:09:00+08:00",
+  "generated_at": "2026-09-29T10:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島發布海上或陸上颱風警報，颱風舒力基持續遠離台灣朝日本本州逼近，僅籲請民眾勿在沿岸海邊逗留以防長浪。",
+  "alert_desc": "中央氣象署表示，舒力基颱風路徑遠離台灣，本島暫無發布海上或陸上颱風警報之必要，僅東部及恆春半島外海有長浪威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。舒力基颱風路徑已遠離台灣並持續朝日本本州方向移動，台中地區沒有明顯風雨，也沒有相關停班停課資訊；全台大致晴朗炎熱，高溫普遍落在攝氏32至36度之間，與此颱風系統無關。"
+    "text": "目前無直接影響。舒力基颱風持續北轉朝日本本州移動，路徑遠離台灣本島，中央氣象署並未針對台中發布任何風雨或停班停課相關訊息，當地天氣預期維持平穩。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱舒力基掠過沖繩轉向日本本州　台灣氣象署：無警戒、無直接影響",
-    "dek": "這個西太平洋今年最強風暴之一持續遠離台灣北上，沖繩與已受創的關東地區嚴陣以待，而台灣中部依舊晴熱如常。",
+    "title": "舒力基颱風北轉撲日　台灣暫無風雨威脅",
+    "dek": "中央氣象署稱陸警機率低，僅東部與恆春外海將現危險長浪，籲勿戲水逗留",
     "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱掠過沖繩後　恐轉襲已飽受風災的關東地區",
-      "dek": "日本氣象廳已對關東發布高度警戒，該區才剛從造成十死的颱風杜鵑中復原。",
+      "title": "舒力基逼近沖繩　恐撲向災後關東",
+      "dek": "強颱路徑北轉，威脅尚未復原的關東地區。",
       "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 2,
-      "title": "舒力基路徑鎖定伊豆群島　週四逼近日本本土",
-      "dek": "通過南西諸島後轉向東北，這個風暴系統成為中央日本本週天氣的最大變數。",
-      "url": "https://www.nippon.com/en/news/yjj2026092800279/"
+      "title": "26號颱風南方增強　直逼沖繩颱風等級",
+      "dek": "中心氣壓約955百帕，風速估達每秒80節。",
+      "url": "https://sea.weathernews.com/resources/202609/254"
     },
     {
       "rank": 3,
-      "title": "舒力基「牛步」逼近沖繩　九州同步遭豪雨猛灌",
-      "dek": "移動速度僅時速10至15公里，緩慢步伐恐讓沖繩與大東地區承受更長時間的強風豪雨衝擊。",
-      "url": "https://www.nownews.com/news/6878463"
+      "title": "日本颱風數創六十年新高　舒力基再添壓力",
+      "dek": "今年侵襲日本颱風數為1966年以來最多。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
     },
     {
       "rank": 4,
-      "title": "舒力基急速增強創紀錄　台灣天氣週四轉變",
-      "dek": "這個風暴的爆發性增強寫下罕見紀錄，而台灣即將到來的降雨其實源自另一波鋒面與季風變化，並非颱風直撲。",
-      "url": "https://news.nextapple.com/life/20260928/1776F9BAA9058EF3F68AF40FECC9438F"
+      "title": "舒力基逼近沖繩、九州　日本示警",
+      "dek": "日本氣象廳將其列為「非常強」颱風。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/typhoon-surigae-moves-closer-to-japans-okinawa-kyushu"
     },
     {
       "rank": 5,
-      "title": "舒力基週末轉向日本　氣象署提醒：別在海邊逗留",
-      "dek": "中央氣象署證實這個持續增強的颱風不會直接衝擊台灣，僅示警外圍湧浪風險。",
-      "url": "https://udn.com/news/story/7266/9775245"
+      "title": "舒力基週四恐掠過伊豆群島",
+      "dek": "國土交通省警告東西日本恐發布大雨警報。",
+      "url": "https://www.nippon.com/en/news/yjj2026092800279/typhoon-surigae-likely-to-travel-near-izu-island-chain-thursday.html"
     },
     {
       "rank": 6,
-      "title": "「舒力基」增強為強熱帶風暴　趨向日本以南洋面",
-      "dek": "9月25日的早期觀測顯示，這個系統當時已增強至強熱帶風暴等級，為後續急速升級埋下伏筆。",
-      "url": "https://view.inews.qq.com/a/20260925A09HLJ00"
+      "title": "杜鵑颱風死亡人數增至14人",
+      "dek": "千葉印旛沼潰堤災區嚴防舒力基來襲。",
+      "url": "https://www.nippon.com/en/news/yjj2026092800881/"
     },
     {
       "rank": 7,
-      "title": "舒力基加速前行　預測機構：日本天氣將由它主導",
-      "dek": "颱風論壇分析指出，這個逼近中的風暴系統將左右未來數日日本的整體天氣型態。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588366"
+      "title": "「奎妮」增強逼近颱風等級　週日出責任區",
+      "dek": "菲律賓氣象署稱不致直撲菲國陸地。",
+      "url": "https://www.philstar.com/headlines/weather/2026/09/26/2559054/queenie-keeps-strength-may-become-typhoon-it-exits-par-sunday"
     },
     {
       "rank": 8,
-      "title": "舒力基升級為強颱　最新預測路徑出爐",
-      "dek": "隨著風暴逼近沖繩，氣象單位同步更新其未來動向的預測路徑圖。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5587979"
+      "title": "熱帶風暴奎妮偏離菲律賓陸地",
+      "dek": "菲律賓氣象署稱風暴將持續遠離陸地。",
+      "url": "https://www.rappler.com/philippines/weather/tropical-storm-queenie-update-pagasa-forecast-september-24-2026-5pm/"
     },
     {
       "rank": 9,
-      "title": "中秋飆高溫竟與舒力基有關　專家籲留意赴日航班動態",
-      "dek": "颱風外圍環流被指是台灣中秋節異常高溫的推手，而其未來兩天恐直接衝擊沖繩地區。",
-      "url": "https://udn.com/news/story/7266/9776879"
+      "title": "舒力基週末轉向日本　氣象署籲勿逗留海邊",
+      "dek": "台灣陸警機率低，東部、恆春將有危險長浪。",
+      "url": "https://udn.com/news/story/7266/9775245"
     },
     {
       "rank": 10,
-      "title": "強颱舒力基逼近沖繩　日本氣象廳對東京發布高度警戒",
-      "dek": "國際媒體關注這個風暴系統東北轉向後，恐使日本首都圈進入緊戒狀態。",
-      "url": "https://sundayguardianlive.com/world/japan-weather-alert-strong-typhoon-surrigae-nears-okinawa-prefecture-jma-places-tokyo-on-high-alert-check-affected-areas-weather-advisory-more-294539/"
+      "title": "舒力基北轉遠離台灣　東北季風下週報到",
+      "dek": "北部、東部及恆春恐迎入秋後首波降雨。",
+      "url": "https://tw.news.yahoo.com/%E9%80%B1%E5%A4%A9%E6%B0%A3-%E8%88%92%E5%8A%9B%E5%9F%BA%E9%A2%B1%E9%A2%A8%E6%81%90%E5%8D%87%E4%B8%AD%E9%A2%B1-%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E4%B8%8B%E9%80%B1%E4%BE%86%E8%A5%B2-%E9%80%99%E4%BA%9B%E5%9C%B0%E5%8D%80-%E6%9C%89%E9%9B%A8-023600372.html"
     }
   ]
 }
