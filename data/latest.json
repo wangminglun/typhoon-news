@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T23:12:00+08:00",
+  "generated_at": "2026-10-01T00:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署尚未針對台灣發布任何海上或陸上颱風警報；關島外海系統雖預計24小時內增強為颱風「彩雲」，但預測路徑持續遠離台灣本島。",
+  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報；關島外海熱帶性低氣壓26W雖預計最快明日增強為颱風「彩雲」，但預測路徑持續偏北遠離台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中30日持續晴朗炎熱，無颱風相關風雨或停班停課措施；10月1日起的東北季風降雨主要影響北部與東北部（基隆、宜蘭），台中不在受影響範圍內。"
+    "text": "目前無直接影響：台中如同全台其他地區，本週持續受偏南風影響，維持晴朗炎熱天氣，日高溫約32至35度，局部地區可能更高；無論是彩雲的前身熱帶性低氣壓26W，或颱風舒力基，目前預測路徑均未涉及台中，當地無風雨影響、警報或停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "關島外海熱帶低壓恐24小時內增強為颱風「彩雲」　塞班島已發布警戒　台灣暫無風雨威脅",
-    "dek": "氣象單位預測，關島附近一個熱帶低壓系統最快明天就會發展為今年第27號颱風「彩雲」，北馬里亞納群島已因此發布熱帶風暴警戒，但目前各國預測路徑均顯示這個系統將遠離台灣。",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5590307"
+    "title": "關島外海熱帶性低氣壓估最快明日增強為颱風彩雲　北馬里亞納群島發布警戒　台灣暫無直接威脅",
+    "dek": "美國國家氣象局關島辦公室與台灣氣象單位均預測，目前編號熱帶性低氣壓26W的系統可能在24小時內增強為颱風彩雲，賽班島、天寧島等北馬里亞納群島已進入熱帶風暴警戒範圍，但預測路徑偏北，中央氣象署目前並未對台灣發布海上或陸上颱風警報。",
+    "url": "https://www.mvariety.com/news/local/tropical-depression-26w-forms-watch-issued-for-northern-islands/article_8b044f93-5ccb-4f48-aa6b-75f2aa6c5c92.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風最快明日生成　粉專估強度上看強烈颱風",
-      "dek": "關島外海熱帶低壓增強在即，氣象粉專分析其路徑將偏北遠離台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5590307"
+      "title": "熱帶性低氣壓26W在賽班島外海成形　北馬里亞納群島發布熱帶風暴警戒",
+      "dek": "當地媒體《馬里亞納紀事報》報導，阿拉馬甘、帕甘、阿格里罕、賽班與天寧等島嶼已列入警戒範圍，該系統預計週五、六增強為颱風，並可能命名為彩雲。",
+      "url": "https://www.mvariety.com/news/local/tropical-depression-26w-forms-watch-issued-for-northern-islands/article_8b044f93-5ccb-4f48-aa6b-75f2aa6c5c92.html"
     },
     {
       "rank": 2,
-      "title": "26W增強在即　美國關島氣象辦公室對塞班、天寧發布熱帶風暴警戒",
-      "dek": "美國國家氣象局關島辦公室預告，強風、大浪將於未來一日內襲擊北馬里亞納群島北部島嶼。",
+      "title": "美國國家氣象局關島辦公室最新公報：26W持續逼近　風速達每小時35英里",
+      "dek": "截至週三晚間9時，26W中心位於帕甘島東南方約340英里處，以每小時8英里速度向西移動，預測路徑將於週五掠過阿納塔漢島北側後轉向西北。",
       "url": "https://www.defconlevel.com/alert/2026-09-30-nws-noaa-weather-tropical-storm-watch-issued-september-30-at-10-11pm-chst-by-nws-tiyan-gu"
     },
     {
       "rank": 3,
-      "title": "菲律賓大氣責任區外低壓區增強為熱帶低壓",
-      "dek": "菲律賓氣象署證實，關島附近系統已增強，惟仍在責任區外，持續監控中。",
-      "url": "https://tnt.abante.com.ph/2026/09/30/lpa-sa-labas-ng-par-naging-tropical-depression-3/news/"
+      "title": "彩雲最快24小時內成形　台灣氣象專家：路徑偏北　暫無直接威脅",
+      "dek": "台灣《ETtoday》報導，關島東方的熱帶性低氣壓最快10月1日增強為颱風彩雲，強度上限可能達強烈颱風，但預測路徑偏向西北轉北，暫不影響台灣。",
+      "url": "https://www.ettoday.net/news/20260930/3246251.htm"
     },
     {
       "rank": 4,
-      "title": "日本氣象廳預告新颱風將於馬里亞納群島附近生成　編號「台風27号」",
-      "dek": "日本氣象廳確認關島外海系統即將成為入10月後首個颱風，銜接先前的26號颱風舒力基。",
-      "url": "https://weathernews.jp/news/202609/300241/"
+      "title": "日本氣象廳對關島外海發展中系統發布強風警報",
+      "dek": "《中國時報》報導，日本氣象廳週三晚間針對這個預計24小時內增強為颱風的系統發布強風警報，預測其將持續向西北、北方向移動，與台灣保持相當距離。",
+      "url": "https://www.chinatimes.com/realtimenews/20260930005069-260405"
     },
     {
       "rank": 5,
-      "title": "台風26号（舒力基）逼近伊豆諸島　日方今起發布風雨警戒",
-      "dek": "日本氣象廳仍將舒力基列為颱風等級，對八丈島、青ヶ島發布大雨與暴風警戒，與台灣的認定出現落差。",
-      "url": "https://weathernews.jp/news/202609/300051/"
+      "title": "颱風舒力基逼近沖繩　關東恐再迎風雨　居民記憶猶新杜鵑水患",
+      "dek": "《日本時報》報導，舒力基一度在沖繩以東海域達到超級颱風強度，目前朝伊豆群島移動，可能波及仍在杜鵑颱風水患中復原的關東地區，千葉、東京部分風險區已展開預防性疏散。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 6,
-      "title": "舒力基減弱為熱帶性低氣壓　另一熱帶低壓現增強成颱趨勢",
-      "dek": "台灣氣象報導指出，舒力基已不再具威脅，關島附近新系統成為下一個觀察焦點。",
-      "url": "https://tw.news.yahoo.com/20260930%E8%88%92%E5%8A%9B%E5%9F%BA%E6%B8%9B%E5%BC%B1%E6%88%90%E7%86%B1%E5%B8%B6%E6%80%A7%E4%BD%8E%E6%B0%A3%E5%A3%93-%E5%8F%A6-td%E6%9C%89%E7%99%BC%E5%B1%95%E6%88%90%E9%A2%B1%E8%B6%A8%E5%8B%A2-073412293.html"
+      "title": "舒力基急速減弱　仍將為伊豆群島與關東海域帶來強風豪雨",
+      "dek": "《Nature World News》報導，舒力基約30小時內從130節超級颱風強度驟降至熱帶風暴等級，預計10月3日前後轉為溫帶氣旋前，仍將對八丈島等地帶來強降雨。",
+      "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
     },
     {
       "rank": 7,
-      "title": "颱風杜鵑重創日本　死亡人數升至13人　仍有2人失聯",
-      "dek": "千葉、神奈川兩縣災情慘重，印旛沼堤防出現57年來首次潰堤。",
-      "url": "https://news.ebc.net.tw/news/world/573287"
+      "title": "杜鵑颱風日本死亡人數增至14人　搜救行動持續逾一週",
+      "dek": "《nippon.com》引述時事通信社報導，千葉與神奈川兩縣因杜鵑颱風破紀錄豪雨導致的死亡人數已上升至14人，搜救工作仍在進行。",
+      "url": "https://www.nippon.com/en/news/yjj2026092800881/death-toll-from-typhoon-dujuan-rises-to-14-in-japan-a-week-on.html"
     },
     {
       "rank": 8,
-      "title": "大西洋熱帶風暴漢娜生成　預估周末前減弱為溫帶系統",
-      "dek": "美國國家颶風中心研判漢娜將於開闊海域逐漸消散，暫無陸地受威脅。",
-      "url": "https://www.cbs17.com/weather/tracking-the-tropics/eighth-named-storm-of-2026-atlantic-hurricane-season-forms/"
+      "title": "杜鵑颱風重創千葉　印旛沼潰堤逾800戶住宅泡水",
+      "dek": "《nippon.com》引述時事通信社報導，千葉縣印旛沼堤防因杜鵑颱風強降雨潰決，884棟住宅與周邊稻田淹水，當局已調派最多30輛抽水車緊急搶修。",
+      "url": "https://www.nippon.com/en/news/yjj2026092400910/"
     },
     {
       "rank": 9,
-      "title": "Weathernews期中展望：2026年西北太平洋颱風季估生成約28個熱帶氣旋",
-      "dek": "較長期平均多出3至4個，反映下半季風季活躍度偏高。",
-      "url": "https://sea.weathernews.com/resources/202609/232"
+      "title": "本週持續高溫乾燥　北台灣下週轉涼轉濕　氣象署：與颱風無關",
+      "dek": "中央社英文新聞網《Focus Taiwan》報導，中央氣象署預測台灣本週偏南風影響下持續高溫乾燥，下週北部及東半部將隨東北季風增強轉為涼濕天氣，屬季節轉換而非颱風效應。",
+      "url": "https://focustaiwan.tw/society/202609300017"
     },
     {
       "rank": 10,
-      "title": "東北季風周五起分兩波南下　北台灣將迎降雨降溫",
-      "dek": "氣象單位表示，10月1日起的降雨屬季節性東北季風轉換，與颱風無關，中南部持續晴熱。",
-      "url": "https://www.nownews.com/news/6879035"
+      "title": "瑞秋颶風在墨西哥太平洋岸增強　豪雨恐引發洪患與土石流",
+      "dek": "美國合眾國際社（UPI）報導，熱帶風暴瑞秋在墨西哥西南太平洋岸外增強為颶風，預測最快週四達主要颶風強度，雖不致登陸，但格雷羅、米卻肯等州恐面臨強降雨及淹水土石流風險。",
+      "url": "https://www.upi.com/Top_News/World-News/2026/09/30/latam-storm-rachel-hurricane/9571790620313"
     }
   ]
 }
