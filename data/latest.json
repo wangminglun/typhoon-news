@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T14:07:00+08:00",
+  "generated_at": "2026-09-30T15:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "據中央氣象署及台灣多家媒體綜合報導，目前尚未發布任何海上或陸上颱風警報，強颱舒力基持續遠離台灣，全台維持晴朗炎熱天氣。",
+  "alert_desc": "中央氣象署目前未對颱風舒力基（國際命名 Surigae）發布海上或陸上颱風警報。該颱風路徑始終偏向台灣以東海域，正轉向逼近日本，對台灣本島無直接影響。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，中部地區今日晴朗炎熱，未受任何颱風系統波及，亦無停班停課相關公告。"
+    "text": "目前無直接影響。搜尋結果未發現任何現行系統對台中造成風雨衝擊，中央氣象署及台中市政府均未發布相關停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱舒力基逼近伊豆群島　日本關東再度戒備；台灣暫無颱風威脅",
-    "dek": "儘管舒力基持續遠離台灣、中央氣象署未發布任何警報，關島附近另一熱帶系統最快明日恐發展為今年的颱風彩雲，成為本季第二個牽動台灣周邊海域的系統。",
-    "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+    "title": "颱風舒力基轉向逼近日本關東　台灣氣象署未發布警報",
+    "dek": "颱風舒力基掠過沖繩後轉向日本關東外海，衝擊剛遭豪雨重創的千葉；中央氣象署稱台灣本島無直接影響，僅東部海域有長浪。",
+    "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱舒力基掠近沖繩　恐轉向已受創的關東地區",
-      "dek": "《日本時報》報導，舒力基一度達超級颱風強度後減弱，氣象單位密切觀察其是否影響近期已受風災重創的關東地區。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+      "title": "中央氣象署：舒力基最快9月23日生成，強度路徑仍待觀察",
+      "dek": "中央社報導，中央氣象署預測熱帶低氣壓最快於9月23日增強為今年第25號颱風舒力基，並以中度颱風強度朝台灣以東海域移動，確切路徑仍有變數。",
+      "url": "https://www.cna.com.tw/news/ahel/202609230036.aspx"
     },
     {
       "rank": 2,
-      "title": "舒力基逼近伊豆群島　今起南部島嶼風雨齊發",
-      "dek": "日本《Weathernews》報導，截至30日上午9時，舒力基中心氣壓1000百帕、最大風速每秒18公尺，八丈島、青島等伊豆群島南部預計風雨將於當天急速增強。",
-      "url": "https://weathernews.jp/news/202609/300051/"
+      "title": "舒力基周末轉向日本　氣象署：台灣無直接影響但慎防長浪",
+      "dek": "聯合新聞網報導，颱風舒力基持續增強後於周末轉向日本，中央氣象署表示對台灣無直接衝擊，僅提醒民眾避免在東部海岸與恆春半島海邊逗留。",
+      "url": "https://udn.com/news/story/7266/9775245"
     },
     {
       "rank": 3,
-      "title": "舒力基週四恐掠過伊豆群島　是否登陸關東東海地區尚有分歧",
-      "dek": "《Nippon.com》報導，日本氣象廳預測舒力基週四將以緩慢速度掠過伊豆群島，但對其是否登陸關東、東海地區仍有預報分歧。",
-      "url": "https://www.nippon.com/en/news/yjj2026092800279/"
+      "title": "日本今年颱風數創1966年來新高　舒力基再添威脅",
+      "dek": "《日本時報》報導，日本今年侵襲的熱帶氣旋數量創下1966年以來新高，熱帶風暴舒力基的逼近進一步加深各界憂慮。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
     },
     {
       "rank": 4,
-      "title": "舒力基減弱後仍受關注　預計週六轉化為溫帶氣旋",
-      "dek": "據《Nature World News》報導，舒力基在沖繩以東一度達超級颱風強度，預計週四清晨減弱至約55節，掠過伊豆群島後於10月3日轉化為溫帶低氣壓。",
-      "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
-    },
-    {
-      "rank": 5,
-      "title": "關島附近熱帶低壓蠢蠢欲動　最快明日成形為颱風彩雲",
-      "dek": "據《ETtoday》報導，關島附近的熱帶低壓最快10月1日增強為今年的颱風彩雲，初期路徑預測將先朝西北移動，遠離台灣。",
-      "url": "https://www.ettoday.net/news/20260930/3246161.htm"
-    },
-    {
-      "rank": 6,
-      "title": "快訊：又一熱帶低壓現身　彩雲生成時間與路徑出爐",
-      "dek": "《ETtoday》報導，氣象界代號「93W」的熱帶低壓預計週四發展為颱風彩雲，多數模式模擬其路徑轉向東北，不至朝菲律賓或台灣靠近。",
-      "url": "https://www.ettoday.net/news/20260930/3246251.htm"
-    },
-    {
-      "rank": 7,
-      "title": "彩雲恐成大型颱風　模擬路徑未見侵台機率",
-      "dek": "《ETtoday》報導，歐洲系集模式顯示該系統未來可能發展為大型颱風，但模擬路徑集中偏北，目前未見侵襲台灣的機率。",
-      "url": "https://www.ettoday.net/news/20260930/3246100.htm"
-    },
-    {
-      "rank": 8,
-      "title": "杜鵑颱風肆虐東京周邊　至少九死四失蹤",
-      "dek": "《日本時報》報導，杜鵑颱風帶來的破紀錄豪雨（大島48小時累積雨量832毫米，創歷史紀錄）引發山崩與洪水，造成關東地區至少九人死亡、四人失蹤，數萬戶一度停電。",
+      "title": "颱風杜鵑重創東京周邊　至少9死4失蹤",
+      "dek": "《日本時報》報導，颱風杜鵑帶來破紀錄豪雨，在千葉、神奈川等地引發水災與土石流，造成至少9人死亡、4人失蹤。",
       "url": "https://www.japantimes.co.jp/news/2026/09/23/japan/typhoon-dujuan-nine-dead/"
     },
     {
+      "rank": 5,
+      "title": "杜鵑颱風死亡人數增至12人　千葉堤防潰堤",
+      "dek": "Nature World News報導，颱風杜鵑造成的死亡人數已升至12人、3人失蹤，千葉部分地區48小時降雨量超過800毫米，約500戶房屋受損。",
+      "url": "https://www.natureworldnews.com/articles/73385/20260929/typhoon-dujuan-death-toll-reaches-12-japan-after-record-rain-breaches-chiba-embankments.htm"
+    },
+    {
+      "rank": 6,
+      "title": "強颱掠過沖繩　恐再襲已受創的關東地區",
+      "dek": "《日本時報》報導，颱風舒力基（日方稱第26號颱風）逼近沖繩與九州，預估路徑可能轉向仍在颱風杜鵑重創後復原中的關東地區。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
+    },
+    {
+      "rank": 7,
+      "title": "舒力基曾一度增強為超級颱風　如今減弱轉向本州以南",
+      "dek": "Nature World News報導，舒力基在沖繩以東海域一度被美方評為超級颱風、日本氣象廳列為「非常強」颱風，目前已減弱並轉向本州以南海域，雨勢未歇的關東地區持續警戒。",
+      "url": "https://www.natureworldnews.com/articles/73397/20260929/surigae-weakens-after-brief-super-typhoon-peak-east-okinawa-rain-soaked-kanto-watches-its.htm"
+    },
+    {
+      "rank": 8,
+      "title": "日本氣象協會：颱風逼近前　關東南部已有豪雨警報風險",
+      "dek": "日本氣象協會預報員石榑亜紀子撰文指出，第26號颱風預計10月1日前逼近伊豆諸島，關東南部（含千葉）在颱風最接近前即可能出現警報等級豪雨，颱風預計10月2日在日本以東轉化為溫帶氣旋。",
+      "url": "https://tenki.jp/forecaster/gureweather/2026/09/29/40796.html"
+    },
+    {
       "rank": 9,
-      "title": "太平洋風暴頻傳　大西洋卻創111年來首見的「無颶風」紀錄",
-      "dek": "據《Weather.com》報導，東太平洋與中太平洋目前有Odalys、Polo、Nolo等多個熱帶氣旋活躍，大西洋卻因聖嬰現象導致風切增強，截至9月底罕見地尚未出現今年首個颶風，為1914年以來首見。",
-      "url": "https://weather.com/2026/09/27/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo"
+      "title": "菲律賓「Queenie」逼近颱風等級　未對菲國發布警報信號",
+      "dek": "《馬尼拉時報》報導，菲律賓大氣署將同一系統命名為Queenie，其最大持續風速達每小時110公里，逼近巴丹群島東北方海域，但菲國未發布熱帶氣旋警報信號，該系統預計周末離開菲律賓責任區並轉向沖繩以南海域。",
+      "url": "https://www.manilatimes.net/2026/09/26/news/queenie-nears-typhoon-category-pagasa-says/2433360"
     },
     {
       "rank": 10,
-      "title": "兩波東北季風週四夜起接力襲台　北台灣迎風雨",
-      "dek": "《NOWnews》報導，隨著舒力基持續遠離，台灣本週維持晴朗炎熱，但週四晚間起將有兩波東北季風接續影響北部與東北部，同時提醒今日大潮致新北至彰化、澎湖一帶沿海水位偏高。",
-      "url": "https://www.nownews.com/news/6879035"
+      "title": "新熱帶低氣壓恐成颱風「彩雲」　氣象署：對台無影響",
+      "dek": "NOWnews報導，中央氣象署觀測到馬里亞納群島附近新生成的熱帶低氣壓，最快本週四增強為颱風「彩雲」，預估路徑朝日本移動，對台灣沒有影響。",
+      "url": "https://www.nownews.com/news/6879226"
     }
   ]
 }
