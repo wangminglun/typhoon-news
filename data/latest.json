@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T19:11:00+08:00",
+  "generated_at": "2026-10-03T20:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報；太平洋上彩雲颱風增強北轉、颶風諾羅跨越換日線等活躍系統，經評估均未直接威脅台灣。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報；颱風彩雲增強逼近日本小笠原群島、颶風諾羅可能跨越換日線等活躍系統，經評估均未直接威脅台灣。",
   "region_watch": {
     "region": "台中",
     "text": "台中目前未受任何颱風直接影響；中央氣象署因東北季風增強對台中發布陸上強風黃色特報（6級風、8級強陣風），但此特報純屬季風系統所致，與颱風無關，台中無停班停課措施。"
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋三颱醞釀　台灣目前無颱風警報",
-    "dek": "彩雲在馬里亞納群島海域增強北轉、諾羅跨越國際換日線，不排除第三個系統隨後生成，但中央氣象署強調三者均未預測將直接影響台灣。",
-    "url": "https://sea.weathernews.com/resources/202610/260"
+    "title": "西太平洋三颱蠢動　台灣目前無虞",
+    "dek": "颱風彩雲增強逼近日本小笠原群島，颶風諾羅可能跨越國際換日線成為颱風，氣象部門密切觀察是否出現罕見三颱共舞局面，但預測路徑均未直接威脅台灣。",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲增強　北轉小笠原",
-      "dek": "Weathernews報導，27號颱風彩雲在馬里亞納群島北方海域生成，預測將快速增強並轉向日本小笠原群島。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "彩雲北轉逼近小笠原",
+      "dek": "根據《The Star》報導，颱風彩雲10月3日正午於馬里亞納群島北側增強、風速達每小時180公里，預測10月4日正午逼近日本小笠原群島海域。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 2,
-      "title": "小笠原將現高浪　日本示警",
-      "dek": "NHK報導，27號颱風彩雲中心氣壓960百帕、風速每秒40公尺，10月4日起小笠原海域將出現高浪。",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54005"
+      "title": "彩雲增強為颱風等級",
+      "dek": "菲律賓《GMA Network》報導，彩雲10月2日夜間在菲律賓責任區外增強為颱風等級，PAGASA與日本氣象廳持續追蹤其後續發展。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1004586/choi-wan-strengthens-into-typhoon-outside-par/story/"
     },
     {
       "rank": 3,
-      "title": "關島發布熱帶風暴警報",
-      "dek": "美國關島國家氣象局指出，彩雲中心已接近阿格里漢島，預測一夜之間增強至三級颱風強度。",
-      "url": "https://www.defconlevel.com/alert/2026-10-03-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-3-23pm-chst-by-nws-tiyan-gu"
+      "title": "27號風暴北轉增強",
+      "dek": "日本《Weathernews》報導，第27號熱帶風暴彩雲在馬里亞納群島北側形成後轉向北北東，預測將持續增強並朝小笠原群島移動。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 4,
-      "title": "彩雲升格颱風　編號27號",
-      "dek": "《中時新聞網》報導，彩雲9月30日生成，10月1日凌晨升格為颱風，日本同步發布海上警報。",
-      "url": "https://www.chinatimes.com/realtimenews/20260930005069-260405"
+      "title": "諾羅週末跨界成颱風",
+      "dek": "美國《Weather.com》報導，颶風諾羅減弱後預計本週末跨越國際換日線進入西太平洋，依命名慣例將更名為颱風諾羅。",
+      "url": "https://weather.com/2026/10/02/storms/hurricane/why-hurricane-nolo-could-turn-into-typhoon"
     },
     {
       "rank": 5,
-      "title": "菲律賓：彩雲不致進入責任區",
-      "dek": "PAGASA評估彩雲雖可能增強為颱風，但預測不會進入菲律賓大氣地理天文服務署劃定的責任海域。",
-      "url": "https://newsinfo.inquirer.net/2315572/choi-wan-may-intensify-into-typhoon-unlikely-to-enter-par"
+      "title": "諾羅換線屬命名重整",
+      "dek": "雅虎新聞轉載《Weather.com》報導指出，諾羅跨越換日線屬預報責任轉移與命名重新分類，氣旋本身結構並未改變。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/why-hurricane-nolo-could-become-154500962.html"
     },
     {
       "rank": 6,
-      "title": "颶風諾羅將跨換日線",
-      "dek": "《聯合新聞網》報導，中太平洋颶風諾羅預計週末跨越國際換日線，成為罕見跨洋系統。",
-      "url": "https://udn.com/news/story/7266/9790169"
-    },
-    {
-      "rank": 7,
-      "title": "諾羅或成「越境颱風」",
-      "dek": "Weathernews Japan報導，諾羅跨越180度經線後可能被日本氣象廳列為越境颱風觀測對象。",
-      "url": "https://weathernews.jp/news/202610/030081"
-    },
-    {
-      "rank": 8,
-      "title": "西太平洋現三颱共存態勢",
-      "dek": "《中天新聞網》報導，彩雲、諾羅與可能生成的「小熊」下週可能同時存在，但皆未預測影響台灣。",
+      "title": "西太平洋現三颱共舞",
+      "dek": "《中時新聞網》報導，彩雲生成後，諾羅與暫稱「小熊」的系統預計下週接力形成，西太平洋可能出現罕見三颱共存局面。",
       "url": "https://ctinews.com/news/items/q9WPPDNQWm"
     },
     {
+      "rank": 7,
+      "title": "賈新興評估侵台機率低",
+      "dek": "《聯合新聞網》報導，氣象專家賈新興分析三颱共存情境下侵台機率偏低，並預測下週北部氣溫明顯下降及國慶連假天氣狀況。",
+      "url": "https://udn.com/news/story/7266/9791979"
+    },
+    {
+      "rank": 8,
+      "title": "三颱動向對台影響曝光",
+      "dek": "《三立新聞網》報導，太平洋海域恐同時出現三個熱帶系統，台灣氣象專家表示現有模式顯示對台灣均無直接影響。",
+      "url": "https://mirrormedia.mg/external/setn_1916422"
+    },
+    {
       "rank": 9,
-      "title": "小熊醞釀　東北季風增強",
-      "dek": "氣象專家賈新興預測下週一另一熱帶系統「小熊」可能生成，同時強烈東北季風將使北部氣溫下探攝氏18度。",
-      "url": "https://www.nownews.com/news/6879916"
+      "title": "氣象署曝彩雲北轉路徑",
+      "dek": "《NowNews》報導，中央氣象署證實彩雲10月1日生成，預測路徑將北轉逼近日本，對台灣無直接影響。",
+      "url": "https://www.nownews.com/news/6879384"
     },
     {
       "rank": 10,
-      "title": "台中等5縣市發強風特報",
-      "dek": "中央氣象署因東北季風增強，對台中、桃園等5縣市發布陸上強風黃色特報，與任何颱風系統無關。",
-      "url": "https://www.chinatimes.com/realtimenews/20261002004433-260405"
+      "title": "舒力基掠過伊豆群島",
+      "dek": "日本《Weathernews》報導，第26號颱風舒力基9月30日夜間最接近伊豆群島，八丈町發布三級土砂災害警報後颱風減弱遠離。",
+      "url": "https://weathernews.jp/news/202609/300231/"
     }
   ]
 }
