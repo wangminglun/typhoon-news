@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T08:09:00+08:00",
+  "generated_at": "2026-10-04T09:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未對台灣發布海上或陸上颱風警報，颱風彩雲持續北轉遠離台灣，當前天氣以東北季風及午後對流降雨為主。",
+  "alert_desc": "中央氣象署截至目前尚未對台灣本島、澎湖、金門或馬祖發布海上或陸上颱風警報，颱風彩雲持續北轉逼近關島與日本小笠原群島，台灣天氣轉為東北季風型態。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，氣象署資料顯示本波豪雨主要集中在北部、東部及南部山區，台中僅有受午後對流波及的可能性，尚未達到警戒等級，亦無停班停課公告。"
+    "text": "目前無颱風直接影響台中，氣象署資料顯示台中天氣多雲到晴，僅受東北季風影響有局部降雨機率，尚未達到警戒等級，亦無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "彩雲颱風北轉日本 台灣暫無警報",
-    "dek": "中央氣象署證實颱風路徑偏離，台灣僅受東北季風影響",
+    "title": "彩雲颱風北轉逼日 台灣無虞",
+    "dek": "中央氣象署：陸海警報均未發布，北部東部僅季風降雨",
     "url": "https://www.nownews.com/news/6879384"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風生成北轉 氣象署稱對台無影響",
-      "dek": "氣象署證實彩雲颱風路徑偏向日本，台灣天氣不受影響。",
+      "title": "彩雲颱風最快今生成 氣象署：北轉逼近日本對台無影響",
+      "dek": "氣象署證實熱帶性低氣壓增強，路徑偏向日本。",
       "url": "https://www.nownews.com/news/6879384"
     },
     {
       "rank": 2,
-      "title": "颱風季延後 氣象署籲10月仍須警戒",
-      "dek": "氣象署指出7至10月皆應視為颱風活躍期。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593922"
+      "title": "彩雲颱風凌晨生成 最新路徑曝光",
+      "dek": "今年第二十六號颱風生成，預測北轉遠離台灣。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5591428"
     },
     {
       "rank": 3,
-      "title": "彩雲增強為颱風 PAR外洋面活動",
-      "dek": "菲律賓氣象署稱彩雲不會進入菲律賓責任海域。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1004586/choi-wan-strengthens-into-typhoon-outside-par/story/"
+      "title": "彩雲颱風最快明生成 強度上看強烈颱風",
+      "dek": "氣象專家估風暴將增強，對台影響有限。",
+      "url": "https://www.setn.com/news/1915005"
     },
     {
       "rank": 4,
-      "title": "彩雲恐增強為颱風 菲律賓料不受侵襲",
-      "dek": "PAGASA稱其外圍雨帶仍為菲南部帶來強降雨風險。",
-      "url": "https://newsinfo.inquirer.net/2315572/choi-wan-may-intensify-into-typhoon-unlikely-to-enter-par"
+      "title": "彩雲颱風北北東移動 逼近日本小笠原群島",
+      "dek": "中心氣壓965百帕，預計四日逼近小笠原海域。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 5,
-      "title": "彩雲生成於馬里亞納群島以北",
-      "dek": "日媒報導其路徑北彎朝小笠原群島增強前進。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "日本氣象廳：27號颱風將增強為非常強颱風 威脅小笠原群島",
+      "dek": "氣壓估降至925百帕，帶來強風巨浪。",
+      "url": "https://newsonjapan.com/article/150921.php"
     },
     {
       "rank": 6,
-      "title": "高溫36度後 東北季風將轉雨",
-      "dek": "彩雲颱風路徑曝光，東北季風增強影響四地。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5591433"
+      "title": "美國關島氣象局發布熱帶風暴警報",
+      "dek": "彩雲侵襲馬里亞納群島，發布最直接陸地警報。",
+      "url": "https://www.defconlevel.com/alert/2026-10-03-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-3-23pm-chst-by-nws-tiyan-gu"
     },
     {
       "rank": 7,
-      "title": "太平洋熱鬧 恐現三颱風系統",
-      "dek": "多系統正被觀測，惟距台灣遙遠無直接影響。",
-      "url": "https://www.mirrormedia.mg/external/setn_1916422"
+      "title": "彩雲外圍雲雨帶 為維薩亞斯及民答那峨帶來降雨",
+      "dek": "PAGASA證實颱風未進入菲律賓責任海域。",
+      "url": "https://newsinfo.inquirer.net/2316477/typhoon-choi-wans-trough-to-bring-scattered-rains-to-visayas-mindanao"
     },
     {
       "rank": 8,
-      "title": "8縣市發布豪大雨特報 防雷擊強風",
-      "dek": "東北季風共伴對流，氣象署籲防坍方積水。",
-      "url": "https://setn.com/news/1916829"
+      "title": "颶風諾洛本週末可能跨越換日線成為颱風",
+      "dek": "依世界氣象組織規則，同一風暴沿用原名。",
+      "url": "https://weather.com/2026/10/02/storms/hurricane/why-hurricane-nolo-could-turn-into-typhoon"
     },
     {
       "rank": 9,
-      "title": "雨彈狂炸1縣市 氣象署籲防坍方",
-      "dek": "東北季風對流增強，防積水與土石流風險。",
-      "url": "https://newtalk.tw/news/view/2026-10-03/1063334"
+      "title": "諾洛重新增強為三級颶風 於偏遠太平洋海域活動",
+      "dek": "風速達每小時185公里，曾掠過夏威夷。",
+      "url": "https://www.clickondetroit.com/news/national/2026/10/03/nolo-becomes-a-category-3-hurricane-in-the-remote-pacific-ocean/"
     },
     {
       "rank": 10,
-      "title": "8縣市大雨特報下探至晚間 3地防雷雨",
-      "dek": "東北季風共伴對流持續，3地另發大雷雨提醒。",
-      "url": "https://www.chinatimes.com/realtimenews/20261003002393-260405"
+      "title": "十月能否終結大西洋史上罕見的無颶風紀錄？",
+      "dek": "已有八個命名風暴卻無一達颶風強度。",
+      "url": "https://www.wgcu.org/2026-10-02/will-october-end-the-atlantics-historic-hurricane-pause"
     }
   ]
 }
