@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T09:11:00+08:00",
+  "generated_at": "2026-10-04T10:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前尚未對台灣本島、澎湖、金門或馬祖發布海上或陸上颱風警報，颱風彩雲持續北轉逼近關島與日本小笠原群島，台灣天氣轉為東北季風型態。",
+  "alert_desc": "中央氣象署目前未針對台灣本島或離島發布任何海上或陸上颱風警報，彩雲颱風路徑偏向日本東北方向，暫無發布警報之必要。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，氣象署資料顯示台中天氣多雲到晴，僅受東北季風影響有局部降雨機率，尚未達到警戒等級，亦無停班停課公告。"
+    "text": "台中目前未受任何颱風系統直接影響，天氣主要受東北季風增強牽動，氣溫將逐漸下降，但尚無停班停課等因應措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "彩雲颱風北轉逼日 台灣無虞",
-    "dek": "中央氣象署：陸海警報均未發布，北部東部僅季風降雨",
-    "url": "https://www.nownews.com/news/6879384"
+    "title": "彩雲增強轉向 台灣無虞",
+    "dek": "東北季風接棒南下，國慶連假前轉涼",
+    "url": "https://news.tvbs.com.tw/world/4031006"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風最快今生成 氣象署：北轉逼近日本對台無影響",
-      "dek": "氣象署證實熱帶性低氣壓增強，路徑偏向日本。",
-      "url": "https://www.nownews.com/news/6879384"
+      "title": "彩雲颱風增強北上 瞬間風速飆70米",
+      "dek": "日本氣象廳預測10月5日強度達到頂峰",
+      "url": "https://news.tvbs.com.tw/world/4031006"
     },
     {
       "rank": 2,
-      "title": "彩雲颱風凌晨生成 最新路徑曝光",
-      "dek": "今年第二十六號颱風生成，預測北轉遠離台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5591428"
+      "title": "颱風彩雲逼近小笠原群島 日警戒大浪",
+      "dek": "浪高預計由6公尺增至8公尺",
+      "url": "https://cna.com.tw/news/aopl/202610030182.aspx"
     },
     {
       "rank": 3,
-      "title": "彩雲颱風最快明生成 強度上看強烈颱風",
-      "dek": "氣象專家估風暴將增強，對台影響有限。",
-      "url": "https://www.setn.com/news/1915005"
+      "title": "彩雲將北轉遠離 對台灣天氣無影響",
+      "dek": "台灣氣象專家證實颱風路徑偏東北",
+      "url": "https://news.cts.com.tw/cts/weather/202610/202610033085694.html"
     },
     {
       "rank": 4,
-      "title": "彩雲颱風北北東移動 逼近日本小笠原群島",
-      "dek": "中心氣壓965百帕，預計四日逼近小笠原海域。",
+      "title": "彩雲北上馬里亞納 轉向小笠原海域",
+      "dek": "外媒報導颱風最快10月4日中午逼近",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 5,
-      "title": "日本氣象廳：27號颱風將增強為非常強颱風 威脅小笠原群島",
-      "dek": "氣壓估降至925百帕，帶來強風巨浪。",
+      "title": "日本示警27號颱風將轉強颱 威脅小笠原",
+      "dek": "當地將面臨強風豪雨與8米巨浪",
       "url": "https://newsonjapan.com/article/150921.php"
     },
     {
       "rank": 6,
-      "title": "美國關島氣象局發布熱帶風暴警報",
-      "dek": "彩雲侵襲馬里亞納群島，發布最直接陸地警報。",
-      "url": "https://www.defconlevel.com/alert/2026-10-03-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-3-23pm-chst-by-nws-tiyan-gu"
+      "title": "颶風諾洛增強為三級 現身中太平洋",
+      "dek": "夏威夷以西海域發布熱帶風暴警告",
+      "url": "https://www.news4jax.com/news/national/2026/10/03/nolo-becomes-a-category-3-hurricane-in-the-remote-pacific-ocean/"
     },
     {
       "rank": 7,
-      "title": "彩雲外圍雲雨帶 為維薩亞斯及民答那峨帶來降雨",
-      "dek": "PAGASA證實颱風未進入菲律賓責任海域。",
-      "url": "https://newsinfo.inquirer.net/2316477/typhoon-choi-wans-trough-to-bring-scattered-rains-to-visayas-mindanao"
+      "title": "又要三颱共存？諾洛明越過換日線",
+      "dek": "專家吳聖宇解析西北太平洋變數",
+      "url": "https://udn.com/news/story/7266/9793358"
     },
     {
       "rank": 8,
-      "title": "颶風諾洛本週末可能跨越換日線成為颱風",
-      "dek": "依世界氣象組織規則，同一風暴沿用原名。",
-      "url": "https://weather.com/2026/10/02/storms/hurricane/why-hurricane-nolo-could-turn-into-typhoon"
+      "title": "颶風瑞秋增強三級 墨西哥沿岸戒備",
+      "dek": "瘋浪與離岸流衝擊度假勝地",
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-rachel-strengthens-category-3-storm-mexico-pacific-coast-rcna601077"
     },
     {
       "rank": 9,
-      "title": "諾洛重新增強為三級颶風 於偏遠太平洋海域活動",
-      "dek": "風速達每小時185公里，曾掠過夏威夷。",
-      "url": "https://www.clickondetroit.com/news/national/2026/10/03/nolo-becomes-a-category-3-hurricane-in-the-remote-pacific-ocean/"
+      "title": "下周三颱共存？北部後天起探18度",
+      "dek": "氣象專家強調無颱風直接威脅台灣",
+      "url": "https://ettoday.net/news/20261003/3248191.htm"
     },
     {
       "rank": 10,
-      "title": "十月能否終結大西洋史上罕見的無颶風紀錄？",
-      "dek": "已有八個命名風暴卻無一達颶風強度。",
-      "url": "https://www.wgcu.org/2026-10-02/will-october-end-the-atlantics-historic-hurricane-pause"
+      "title": "賈新興評估侵台機率低 國慶將急凍",
+      "dek": "東北季風主導連假天氣非颱風",
+      "url": "https://udn.com/news/story/7266/9791979"
     }
   ]
 }
