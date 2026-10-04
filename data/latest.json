@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T11:10:00+08:00",
+  "generated_at": "2026-10-04T12:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對台灣本島或離島發布任何海上或陸上颱風警報，彩雲颱風路徑偏向日本小笠原群島方向，暫無發布警報之必要。",
+  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報，台灣本島暫無颱風直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受任何颱風系統直接影響，當地僅因東北季風出現10月3日至4日的午後短暫雨，氣溫將自10月5日起隨季風增強逐漸下降，無停班停課決定。"
+    "text": "目前無直接影響。台中地區未受任何颱風系統影響，亦無因颱風發布的風雨警報或停班停課公告，近期天氣變化主要來自東北季風增強所致的季節性降溫。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西北太平洋罕見「三颱共舞」　彩雲增強奔日本　台灣暫無威脅",
-    "dek": "颱風彩雲持續增強逼近日本小笠原群島，同時跨洋颶風諾羅與醞釀中的小熊颱風接連現身西北太平洋，但中央氣象署與多位氣象專家強調，目前沒有任何系統直撲台灣。",
-    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+    "title": "強颱彩雲逼近小笠原群島　專家稱對台無威脅",
+    "dek": "今年第27號颱風彩雲持續增強北上，日本氣象廳示警強風大浪，但台灣氣象專家一致表示，這個西太平洋最強系統不會直接影響台灣。",
+    "url": "https://news.tvbs.com.tw/world/4031006"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風北轉逼近馬里亞納群島　預測週日越入小笠原海域",
-      "dek": "美聯社報導，彩雲颱風以每小時15公里速度向北北東移動，中心風速達每小時180公里，預計10月4日正午前後進入日本小笠原群島周邊海域。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+      "title": "彩雲增強北上　氣象廳估週一凌晨達巔峰強度",
+      "dek": "TVBS新聞網報導，日本氣象廳預測彩雲颱風10月5日凌晨將達最強，中心氣壓925百帕、瞬間風速每秒70公尺，持續朝小笠原群島方向移動。",
+      "url": "https://news.tvbs.com.tw/world/4031006"
     },
     {
       "rank": 2,
-      "title": "颱風彩雲逼近小笠原群島　日本氣象廳示警8公尺巨浪",
-      "dek": "中央社報導，日本氣象廳針對小笠原群島發布大浪特報，預測彩雲周邊將出現6至8公尺巨浪，形容這場風暴範圍大且強度強。",
-      "url": "https://cna.com.tw/news/aopl/202610030182.aspx"
+      "title": "彩雲恐增強為非常強颱　數日後逼近日本關東外海",
+      "dek": "TVBS新聞網報導，日本氣象廳評估彩雲颱風可能增強為「非常強」等級，預期數日後接近關東外海，當地籲防強風豪雨。",
+      "url": "https://news.tvbs.com.tw/world/4030600"
     },
     {
       "rank": 3,
-      "title": "彩雲路徑曝光　中央氣象署：對台無直接影響",
-      "dek": "ETtoday報導，中央氣象署指出彩雲颱風形成後將先轉西、再北轉近90度，若持續增強，有望成為今年第七個強烈颱風，但不會直撲台灣。",
-      "url": "https://www.ettoday.net/news/20261001/3246849.htm"
+      "title": "彩雲逼近小笠原群島　日氣象廳示警大浪",
+      "dek": "中央社報導，日本氣象廳就颱風彩雲接近小笠原群島發出強風大浪示警，並指出此系統對台灣無直接影響。",
+      "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
     },
     {
       "rank": 4,
-      "title": "罕見跨洋颱風現身　中太平洋颶風諾羅本週末跨越換日線",
-      "dek": "自由時報報導，原在夏威夷以西的颶風諾羅預計本週末越過國際換日線進入西北太平洋，成為少見的跨洋颱風，但不影響台灣與日本。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5592866"
+      "title": "彩雲增強北北東移　預計週日正午抵小笠原海域",
+      "dek": "根據共同社與馬新社消息、馬來西亞《星報》轉引報導，強颱彩雲以時速15公里北北東移動，最大持續風速每小時180公里，預計10月4日正午抵小笠原群島附近海域後北轉減弱。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 5,
-      "title": "下週三颱共存？賈新興：侵台機率低，北部將轉涼迎國慶連假",
-      "dek": "聯合新聞網報導，氣象專家賈新興分析彩雲、跨洋諾羅與醞釀中的小熊颱風下週可能同時並存，但評估三者侵襲台灣機率均低，國慶連假天氣以降溫為主。",
-      "url": "https://udn.com/news/story/7266/9791979"
+      "title": "彩雲在菲律賓責任區外增強為颱風　PAGASA稱不會進入責任區",
+      "dek": "菲律賓GMA News報導，菲律賓氣象局PAGASA指出彩雲已在責任區外增強為颱風，位於北呂宋以東2425公里，最大持續風速每小時120公里，預期不會進入責任區。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1004586/choi-wan-strengthens-into-typhoon-outside-par/story/"
     },
     {
       "rank": 6,
-      "title": "東北季風增強　北部下週低溫下探18度，小熊颱風醞釀成形",
-      "dek": "聯合新聞網報導，氣象專家賈新興指出下週東北季風增強將使北部低溫探至攝氏18度，同時預期小熊颱風生成、跨洋諾羅颱風移入，但均不致直撲台灣。",
-      "url": "https://udn.com/news/story/7266/9789842"
+      "title": "彩雲路徑轉向北方　專家稱侵台機率低",
+      "dek": "壹蘋新聞網報導，氣象專家分析彩雲颱風路徑將轉向北方，高機率發展為大型強颱，但侵襲台灣機率低，主要影響日本南方海域。",
+      "url": "https://news.nextapple.com/life/20261001/93837D88EE1752409AA0618AB4FF97E5"
     },
     {
       "rank": 7,
-      "title": "26號颱風蘇利蓋掠過伊豆群島減弱　27號彩雲接棒增強",
-      "dek": "News On Japan報導，26號颱風蘇利蓋通過伊豆群島南端八丈島附近後減弱，影響當地渡輪與航空班次，目前已逐漸轉化為溫帶氣旋，未傳出重大災情。",
-      "url": "https://newsonjapan.com/article/150843.php"
+      "title": "馬里亞納群島北側熱帶低壓發展　估增強為颱風彩雲",
+      "dek": "ETtoday報導，氣象專家指出馬里亞納群島以北熱帶低壓發展迅速，估增強為第27號颱風彩雲，路徑初估朝北至東北方向移動、遠離台灣。",
+      "url": "https://www.ettoday.net/news/20260930/3246251.htm"
     },
     {
       "rank": 8,
-      "title": "大西洋颶風季罕見沉寂　邁入10月仍無一個颶風級風暴",
-      "dek": "坦帕灣時報報導，2026年大西洋颶風季進入10月仍未出現達颶風強度的風暴，是衛星觀測時代以來首見，儘管該海域已有八個獲命名的熱帶風暴生成。",
-      "url": "https://tampabay.com/hurricane/2026/10/01/atlantic-gulf-storm-season-tropics-el-nino-weather-forecast"
+      "title": "太平洋兩熱帶系統同步發展　專家估無直接威脅台灣",
+      "dek": "中時新聞網報導，氣象專家表示太平洋上同時有兩個熱帶系統發展，其中一個最快增強為颱風彩雲，分析其路徑對台灣無直接威脅。",
+      "url": "https://www.chinatimes.com/realtimenews/20260929001622-260405"
     },
     {
       "rank": 9,
-      "title": "27號颱風彩雲將增強為「非常強」等級　威脅小笠原群島",
-      "dek": "News On Japan報導，彩雲颱風中心氣壓預計10月4日至5日降至925百帕，5日至6日將對小笠原群島帶來強風、豪雨與6至8公尺巨浪，但太平洋高壓可望阻其接近本州。",
-      "url": "https://newsonjapan.com/article/150921.php"
+      "title": "下週太平洋恐現三颱共存　北部週五起降溫探18度",
+      "dek": "ETtoday報導，氣象專家指出下週太平洋可能出現三颱共存現象，但對台灣均無直接影響；受東北季風影響，北部將轉涼、低溫下探18度。",
+      "url": "https://www.ettoday.net/news/20261003/3248191.htm"
     },
     {
       "rank": 10,
-      "title": "彩雲持續增強　路徑大轉彎北上，對台影響曝光",
-      "dek": "鏡週刊報導，彩雲颱風持續增強，抵達中太平洋高壓邊緣後將急轉近90度轉向北方，朝日本東南方海域前進，台灣並不在其直接路徑上。",
-      "url": "https://www.mirrormedia.mg/story/20261002-172soc-105733"
+      "title": "賈新興：下週三颱共存機率存在　侵台機率低、國慶連假將降溫",
+      "dek": "聯合新聞網報導，氣象專家賈新興分析下週太平洋可能出現三颱共存情形，路徑均偏離台灣，國慶連假期間北部將因東北季風增強而明顯降溫。",
+      "url": "https://udn.com/news/story/7266/9791979"
     }
   ]
 }
