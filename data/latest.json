@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T13:09:00+08:00",
+  "generated_at": "2026-10-04T14:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報，台灣本島暫無颱風直接威脅。",
+  "alert_desc": "目前中央氣象署未發布海上颱風警報或陸上颱風警報，台灣本島暫無颱風直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。彩雲颱風預測路徑偏北轉向日本小笠原群島方向，對台灣本島（含台中）沒有直接威脅；台灣僅受東北季風增強影響，降雨集中在北部及東半部，台中市目前未達停班停課標準，亦無相關公告。"
+    "text": "台中目前未受任何颱風系統直接影響，天氣以東北季風為主，無停班停課風險。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱「彩雲」橫掃馬里亞納群島北轉日本　台灣暫無威脅僅受東北季風影響",
-    "dek": "中央氣象署尚未發布海上或陸上颱風警報，今年太平洋第27號颱風彩雲預計本週內以「非常強颱」強度逼近日本小笠原群島，氣象單位研判其路徑將明顯北轉，對台灣本島不構成直接威脅。",
-    "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
+    "title": "彩雲颱風北轉逼近小笠原群島　太平洋罕見「颶風變颱風」現象同步上演",
+    "dek": "日本氣象廳示警彩雲颱風將於小笠原群島近海增強至巔峰強度，同一時間颶風諾洛預計跨越換日線變身「颱風諾洛」，而台灣目前仍未受任何系統直接影響。",
+    "url": "https://chugoku-np.co.jp/articles/-/904439"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲北北東掠過馬里亞納群島　預測周日逼近日本小笠原海域",
-      "dek": "日本氣象廳資料顯示，彩雲以時速15公里移動，中心氣壓965百帕、最大風速達每小時180公里，仍持續增強。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
-    },
-    {
-      "rank": 2,
-      "title": "彩雲恐逼近小笠原群島　日本氣象廳示警巨浪來襲",
-      "dek": "中央社報導，日本氣象廳預測彩雲將於10月5日至6日以「非常強颱」強度接近小笠原群島，當地浪高恐達6至8公尺。",
-      "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
-    },
-    {
-      "rank": 3,
-      "title": "彩雲肆虐北馬里亞納群島　停電與淹水風險升高",
-      "dek": "紐西蘭廣播電台報導，塞班島遭強風侵襲並出現間歇性停電，天寧島全島斷電，三島已發布防洪警戒。",
-      "url": "https://www.rnz.co.nz/news/pacific/1695341/northern-marianas-battered-by-choi-wan-as-outages-and-flood-threat-grow"
-    },
-    {
-      "rank": 4,
-      "title": "彩雲來襲前　北馬里亞納群島學校機關提前停班停課",
-      "dek": "報導指出，塞班島與天寧島學校、政府機關因應風暴提前停止運作，一場州長候選人辯論會也因停電中斷。",
-      "url": "https://www.rnz.co.nz/news/pacific/1679395/tropical-storm-choi-wan-closes-schools-offices-in-northern-marianas"
-    },
-    {
-      "rank": 5,
-      "title": "彩雲尾隨低壓槽影響菲律賓　民答那峨、維薩亞斯部分地區有淹水風險",
-      "dek": "菲律賓大氣地球物理暨天文服務署表示，彩雲本身不會進入菲律賓責任區，但低壓槽恐帶來間歇降雨與土石流風險。",
-      "url": "https://philstar.com/headlines/weather/2026/10/04/2560875/choi-wan-trough-affect-mindanao-parts-visayas"
-    },
-    {
-      "rank": 6,
-      "title": "彩雲增強可能性高　菲律賓氣象署研判不致進入責任區",
-      "dek": "菲律賓大氣地球物理暨天文服務署指出，當時仍為熱帶風暴的彩雲位於呂宋島以東逾2500公里處，預料將轉向日本而非菲律賓海域。",
-      "url": "https://newsinfo.inquirer.net/2315572/choi-wan-may-intensify-into-typhoon-unlikely-to-enter-par"
-    },
-    {
-      "rank": 7,
-      "title": "日本氣象協會：27號颱風彩雲逼近小笠原　強度持續攀升",
-      "dek": "tenki.jp報導，截至10月4日上午9時，彩雲中心氣壓已降至935百帕，日本氣象廳預測隔日將進一步增強。",
-      "url": "https://tenki.jp/bousai/typhoon/2627/"
-    },
-    {
-      "rank": 8,
-      "title": "彩雲在馬里亞納群島北方生成　預測增強為颱風直撲小笠原",
-      "dek": "Weathernews報導，彩雲形成後預計迅速增強為颱風並持續北上，小笠原群島將面臨強風與巨浪威脅。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
-    },
-    {
-      "rank": 9,
-      "title": "彩雲路徑大轉彎北上　台灣本島影響有限",
-      "dek": "鏡週刊報導，彩雲抵達副熱帶高壓邊緣後預計近90度轉向日本，台灣僅東北季風增強，北部與東部降雨機率上升。",
+      "title": "彩雲颱風持續增強！路徑將大轉彎北上　對台影響曝光",
+      "dek": "鏡週刊報導指出，彩雲颱風預測將大幅北轉遠離台灣，預報人員強調台灣不會受到直接衝擊。",
       "url": "https://www.mirrormedia.mg/story/20261002-172soc-105733"
     },
     {
+      "rank": 2,
+      "title": "「彩雲」颱風凌晨生成！最新路徑曝光",
+      "dek": "自由時報報導，今年第27號颱風彩雲於10月1日凌晨2時生成，預測路徑北上朝日本移動，台灣僅受東北季風增強影響。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5591428"
+    },
+    {
+      "rank": 3,
+      "title": "颱風季愈拖愈晚！氣象署：10月也要提高警覺",
+      "dek": "自由時報引述中央氣象署說法，今年颱風季異常延後，提醒民眾即使目前無系統威脅仍應保持警覺。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593922"
+    },
+    {
+      "rank": 4,
+      "title": "彩雲颱風持續北北東移動　預估4日中午逼近小笠原群島海域",
+      "dek": "馬來西亞星報引述法新社消息，彩雲颱風最大持續風速達每小時180公里，預估4日正午前後接近小笠原群島海域。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+    },
+    {
+      "rank": 5,
+      "title": "台風27號「彩雲」在小笠原近海以時速15公里北東進　氣象廳發布最新消息",
+      "dek": "日本中國新聞引述氣象廳資料指出，彩雲颱風中心氣壓已降至945百帕，預估5日前後達到巔峰強度。",
+      "url": "https://chugoku-np.co.jp/articles/-/904439"
+    },
+    {
+      "rank": 6,
+      "title": "第27號颱風4日起接近小笠原近海　籲警戒高浪並持續關注最新資訊",
+      "dek": "NHK報導，小笠原群島居民須留意颱風接近帶來的長浪沖擊，籲持續關注後續氣象資訊。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54072"
+    },
+    {
+      "rank": 7,
+      "title": "第27號颱風增強　威脅小笠原群島強風侵襲",
+      "dek": "日本英文新聞網站newsonjapan.com報導，彩雲颱風持續增強，將為小笠原群島帶來強風與巨浪，但預期轉向遠離日本本土。",
+      "url": "https://newsonjapan.com/article/150921.php"
+    },
+    {
+      "rank": 8,
+      "title": "颶風諾洛本週末為何可能變身「颱風諾洛」",
+      "dek": "美國氣象頻道分析，颶風諾洛預計跨越國際換日線進入西太平洋，屆時將依命名規則更名為颱風諾洛。",
+      "url": "https://weather.com/2026/10/02/storms/hurricane/why-hurricane-nolo-could-turn-into-typhoon"
+    },
+    {
+      "rank": 9,
+      "title": "諾洛在太平洋偏遠海域增強為三級颶風",
+      "dek": "美聯社報導，颶風諾洛在遠離夏威夷主要島嶼的太平洋海域增強為三級強烈颶風，對有人居住地區不構成威脅。",
+      "url": "https://www.news4jax.com/news/national/2026/10/03/nolo-becomes-a-category-3-hurricane-in-the-remote-pacific-ocean/"
+    },
+    {
       "rank": 10,
-      "title": "彩雲恐增強為「非常強颱」　逼近日本關東地區",
-      "dek": "TVBS報導，日本氣象廳最新預測顯示彩雲將以非常強颱強度接近小笠原及關東海域，並公布最新路徑預測。",
-      "url": "https://news.tvbs.com.tw/world/4030600"
+      "title": "熱帶擾動94W將經過或穿越馬里亞納群島海域",
+      "dek": "Mariana's Press報導，美軍聯合颱風警報中心已將熱帶擾動94W發展機率評為中等，不排除成為今年第28號颱風。",
+      "url": "https://marianaspress.com/news/article/tropical-disturbance-invest-94w-to-pass-near-or-through-the-marianas"
     }
   ]
 }
