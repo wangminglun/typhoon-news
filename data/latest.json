@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T04:11:00+08:00",
+  "generated_at": "2026-10-05T05:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。今年第27號颱風「彩雲」持續增強並朝日本小笠原群島逼近，對台灣沒有直接威脅，但氣象署提醒十月仍可能有颱風生成，籲請民眾保持警覺。",
+  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。彩雲、仍在醞釀中的小熊、以及跨界的颶風諾魯三個系統均距台灣遙遠，「皆不直接影響天氣」；真正值得留意的是10月5日起南下的東北季風，將帶來降雨並伴隨明顯降溫。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風系統對台中造成直接影響，當地天氣及日常作息維持正常，暫無停班停課相關訊息。"
+    "text": "目前無任何颱風系統對台中造成直接影響，當地天氣及日常作息維持正常，照常上班上課；台中梧棲漁港因應彩雲颱風生成已有漁船陸續返港避風，屬例行性防範作為，暫無停班停課相關訊息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風「彩雲」增強逼近日本 小熊颱風接力成形 台灣暫無警戒",
-    "dek": "中央氣象署表示目前未發布海陸颱風警報，西太平洋同時有三個系統活動，但均未對台灣構成威脅。",
-    "url": "https://news.cts.com.tw/cna/international/202610/202610033085905.html"
+    "title": "太平洋罕見三颱同框 氣象署：對台無直接威脅，東北季風才是近期變數",
+    "dek": "強烈颱風彩雲逼近日本小笠原群島、關島海域醞釀中的小熊、以及罕見跨越換日線的颶風諾魯同時牽動西太平洋，但中央氣象署表示三者皆距台灣遙遠，未來兩天南下的東北季風才是真正影響台灣天氣的因素。",
+    "url": "https://www.setn.com/news/1916422"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風「彩雲」逼近日本小笠原群島，日本氣象廳警告長浪風險",
-      "dek": "根據華視新聞網（中央社）報導，颱風彩雲持續北北東移動，預計10月5日晚間至6日以「非常強」強度接近小笠原群島，日方已就長浪與湧浪發出警戒。",
-      "url": "https://news.cts.com.tw/cna/international/202610/202610033085905.html"
+      "title": "強烈颱風彩雲增強逼近日本小笠原群島",
+      "dek": "氣壓降至約九百四十五百帕的彩雲持續北上，預計十月四日正午前後接近小笠原群島，當地將出現八公尺巨浪。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 2,
-      "title": "彩雲升級為「非常強」颱風，路徑顯示將逼近關東外海",
-      "dek": "根據TVBS新聞網報導，日本氣象廳最新資料顯示彩雲中心氣壓約935百帕、最大風速每秒45公尺，預計10月7日左右經過關東外海，但不致登陸本州。",
-      "url": "https://news.tvbs.com.tw/world/4030600"
+      "title": "杜鵑颱風千葉神奈川死亡人數升至15人",
+      "dek": "千葉縣一處土石流現場再尋獲一名遺體，官員形容基礎設施受損程度超越歷史性水災。",
+      "url": "https://news.cgtn.com/news/2026-10-03/news-1QWmolQSsog/p.html"
     },
     {
       "rank": 3,
-      "title": "關島外海新熱帶低氣壓最快本週增強為颱風小熊，對台無直接影響",
-      "dek": "根據中時新聞網報導，日本氣象廳已對關島附近新生成的熱帶低氣壓發出強風警報，預估最快10月5日增強為第28號颱風小熊，路徑偏北、遠離台灣。",
-      "url": "https://www.chinatimes.com/realtimenews/20261004002944-260405"
+      "title": "千葉印旛沼堤防緊急封堵工程完成",
+      "dek": "關東地方整備局完成一處潰堤的緊急封堵，結束持續性洪水，但堤防全面修復仍待進行。",
+      "url": "https://news.web.nhk.or.jp/newsweb/na/nd-20261003de54039"
     },
     {
       "rank": 4,
-      "title": "氣象專家示警：下週西太平洋可能同時出現三個颱風",
-      "dek": "根據NOWnews今日新聞報導，氣象專家賈新興指出東北季風南下將使北台灣氣溫降至約攝氏18度，同時彩雲、小熊與諾洛可能在太平洋同時活躍。",
-      "url": "https://www.nownews.com/news/6879916"
+      "title": "颱風蘇利凱擦過沖繩逼近關東，牽動愛知名古屋亞運賽程",
+      "dek": "一度被評為超級颱風的蘇利凱掠過本州南方海域後轉向東北，約十月三日轉化為溫帶氣旋，未直接登陸。",
+      "url": "https://www.japantimes.co.jp/news/2026/09/28/japan/okinawa-kanto-typhoon-storm-26/"
     },
     {
       "rank": 5,
-      "title": "颶風諾洛預計跨越換日線，轉型為颱風",
-      "dek": "根據The Watchers報導，颶風諾洛預計10月4日前後跨越180度經線並依世界氣象組織規則轉列為颱風，是三年來首見的颶風轉型颱風案例。",
-      "url": "https://watchers.news/2026/10/04/hurricane-nolo-forecast-to-cross-international-date-line-into-western-north-pacific-transitioning-into-a-typhoon/"
+      "title": "關島附近熱帶低壓成形，第28號颱風小熊可望10月5日生成",
+      "dek": "日本氣象廳已發布海上強風警告，該系統路徑偏西北，預料將遠離台灣。",
+      "url": "https://www.ettoday.net/news/20261004/3249003.htm"
     },
     {
       "rank": 6,
-      "title": "颶風瑞秋減弱為一級，墨西哥太平洋沿岸仍戒備豪雨與洪水",
-      "dek": "根據NBC News報導，颶風瑞秋在墨西哥太平洋沿岸一度增強至三級後減弱為一級，當地政府持續對豪雨、洪水及坡地災害保持警戒。",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-rachel-strengthens-category-3-storm-mexico-pacific-coast-rcna601077"
+      "title": "跨界颱風諾魯預計10月5日跨越換日線進入西太平洋",
+      "dek": "強度接近三級颶風的諾魯若維持現有強度跨界，可能成為歷來最強的跨界個案，對台日均無直接影響。",
+      "url": "https://weathernews.jp/news/202610/030081/"
     },
     {
       "rank": 7,
-      "title": "大西洋颶風季邁入十月仍無一個颶風，創衛星觀測時代首例",
-      "dek": "根據坦帕灣時報報導，今年大西洋已有八個命名風暴生成但無一達颶風強度，在強勢厄爾尼諾與高風切作用下延續罕見的颶風荒。",
-      "url": "https://www.tampabay.com/hurricane/2026/10/01/atlantic-gulf-storm-season-tropics-el-nino-weather-forecast/"
+      "title": "太平洋同時三颱風醞釀，氣象署：皆不影響台灣",
+      "dek": "中央氣象署表示，十月五、六日的東北季風才是近期影響台灣天氣的主要因素，北部低溫將下探攝氏十八度左右。",
+      "url": "https://www.setn.com/news/1916422"
     },
     {
       "rank": 8,
-      "title": "彩雲外圍雲雨影響菲律賓民答那峨與維薩亞斯部分地區",
-      "dek": "根據菲律賓Philstar報導，菲律賓氣象機構PAGASA指出彩雲外圍雲雨帶正為民答那峨及維薩亞斯部分地區帶來降雨與坡地災害風險，但颱風本體預期不會進入菲律賓責任海域。",
-      "url": "https://www.philstar.com/headlines/weather/2026/10/04/2560875/choi-wan-trough-affect-mindanao-parts-visayas"
+      "title": "彩雲外圍環流為菲律賓中南部帶來強降雨、土石流風險",
+      "dek": "民答那峨、維薩亞斯等地出現間歇性降雨與雷陣雨，當地政府示警閃洪與土石流風險。",
+      "url": "https://ph.usembassy.gov/weather-alert-typhoon-season-in-the-philippines-2026/"
     },
     {
       "rank": 9,
-      "title": "中央氣象署：颱風季有延後趨勢，十月仍應保持警覺",
-      "dek": "根據自由時報報導，中央氣象署預報中心官員指出近年颱風季有延後現象，十月平均仍可能出現颱風，提醒民眾即使颱風高峰期已過也不應掉以輕心。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593922"
+      "title": "台中梧棲漁港漁船陸續返港避風",
+      "dek": "台中市政府強調此為例行性防範作為，當地目前未受任何颱風系統直接影響。",
+      "url": "https://www.taichung.gov.tw/1801249/post"
     },
     {
       "rank": 10,
-      "title": "彩雲逼近小笠原群島發布強風警報，三颱共存情境受關注",
-      "dek": "根據經濟日報（udn money）報導，日本氣象廳已對小笠原群島發布強風警報因應彩雲逼近，氣象界同時關注彩雲、小熊與諾洛可能同時存在的罕見情境。",
-      "url": "https://money.udn.com/money/story/5599/9792901"
+      "title": "美國國家颶風中心持續監測中太平洋颶風諾魯動態",
+      "dek": "NOAA官網持續追蹤諾魯即將跨越換日線的動向，同期大西洋海域並無活躍熱帶氣旋。",
+      "url": "https://www.nhc.noaa.gov/?cpac="
     }
   ]
 }
