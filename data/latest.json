@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T16:10:00+08:00",
+  "generated_at": "2026-10-04T17:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署目前未針對任何系統發布海上颱風警報或陸上颱風警報，台灣本島暫無颱風直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無任何颱風系統直接影響，僅受東北季風影響氣溫略降，尚無停班停課公告，目前無直接影響。"
+    "text": "台中目前無任何颱風系統直接影響，僅受東北季風背景水氣影響，尚無停班停課公告，目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "彩雲颱風北上轉彎　台灣今秋未受威脅",
-    "dek": "西太平洋颱風彩雲增強直逼小笠原群島後轉向日本，中央氣象署證實台灣未發警報，秋季降溫才是這幾天的主角。",
-    "url": "https://news.tvbs.com.tw/world/4031006"
+    "title": "颱風彩雲逼近小笠原　台灣不受影響",
+    "dek": "日本氣象廳預測彩雲將於本週末增強至巔峰強度並掠過小笠原群島，中央氣象署重申此颱風北轉侵日、對台灣無直接威脅。",
+    "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲急速增強　日氣象廳估瞬間風速衝上每秒70公尺",
-      "dek": "日本氣象廳預測颱風彩雲接近小笠原群島時強度將達到頂峰，但路徑持續遠離台灣。",
-      "url": "https://news.tvbs.com.tw/world/4031006"
-    },
-    {
-      "rank": 2,
-      "title": "彩雲逼近小笠原群島　日本示警恐見危險大浪",
-      "dek": "中央社報導，日本氣象廳對小笠原群島發布大浪警戒，預估彩雲將於10月5日晚間至6日最接近該群島。",
+      "title": "颱風彩雲恐接近小笠原群島　日本氣象廳示警有大浪",
+      "dek": "中央社報導，日本氣象廳警告彩雲颱風可能於10月5日至6日以強烈強度接近小笠原群島，並帶來危險巨浪。",
       "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
     },
     {
+      "rank": 2,
+      "title": "彩雲颱風增強北上　瞬間風速飆70米",
+      "dek": "TVBS報導，日本氣象廳預測彩雲將於10月5日前後達到巔峰強度，瞬間風速可能高達每秒70公尺。",
+      "url": "https://news.tvbs.com.tw/world/4031006"
+    },
+    {
       "rank": 3,
-      "title": "日媒：彩雲中心氣壓探至945百帕　北北東速移近小笠原",
-      "dek": "中國新聞引述日本氣象廳觀測指出，彩雲最大風速已達每秒45公尺、陣風60公尺，預測隔日將再增強。",
-      "url": "https://www.chugoku-np.co.jp/articles/-/904439"
+      "title": "第27號颱風彩雲形成　恐現雙颱共舞",
+      "dek": "TVBS報導第27號颱風彩雲生成，並轉述日本氣象廳公布的預測路徑及雙颱互動的可能性。",
+      "url": "https://news.tvbs.com.tw/world/4029984"
     },
     {
       "rank": 4,
-      "title": "颶風諾洛恐跨越換日線　變身颱風諾洛",
-      "dek": "Weather.com報導，中太平洋強烈颶風諾洛預計本週末進入西太平洋，屆時將被重新歸類為颱風但名稱不變。",
-      "url": "https://weather.com/2026/10/02/storms/hurricane/why-hurricane-nolo-could-turn-into-typhoon"
+      "title": "彩雲颱風生成　氣象署：將北轉逼近日本　對台無影響",
+      "dek": "NOWnews報導，中央氣象署宣布彩雲於10月1日生成，並明確表示颱風將北轉接近日本，對台灣無直接影響。",
+      "url": "https://www.nownews.com/news/6879384"
     },
     {
       "rank": 5,
-      "title": "諾洛再增強為三級颶風　逼近西北夏威夷群島",
-      "dek": "檀香山星報報導，颶風諾洛在西北夏威夷群島附近再度增強為時速115英里的強烈颶風，美國氣象機構持續發布警報。",
-      "url": "https://www.staradvertiser.com/2026/10/03/breaking-news/nolo-grows-to-major-hurricane-again-near-northwestern-hawaiian-islands/"
+      "title": "輕颱彩雲生成　專家估將發展為大型颱風",
+      "dek": "UDN報導，氣象專家評估彩雲可能發展為暴風半徑達200至250公里的大型颱風，但路徑將偏向日本而非台灣。",
+      "url": "https://money.udn.com/money/story/122328/9787167"
     },
     {
       "rank": 6,
-      "title": "彩雲上看強颱等級　氣象署：路徑偏向外海不侵台",
-      "dek": "udn報導，中央氣象署預測彩雲可能增強至強颱等級，但今晚起兩波東北季風才是台灣這波降溫的主因。",
-      "url": "https://udn.com/news/story/7266/9787364"
+      "title": "彩雲增強為颱風　仍在菲律賓責任海域外",
+      "dek": "GMA News報導，菲律賓大氣地理天文服務管理局證實彩雲已增強為颱風，但持續留在該國責任海域之外。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1004586/choi-wan-strengthens-into-typhoon-outside-par/story/"
     },
     {
       "rank": 7,
-      "title": "太平洋現三颱共存態勢　專家：無一威脅台灣",
-      "dek": "udn報導，氣象專家賈新興分析彩雲、諾洛與一股發展中擾動並存的可能性，強調三者皆無侵台機率。",
-      "url": "https://udn.com/news/story/7266/9791979"
+      "title": "彩雲外圍雲系尾流影響民答那峨與維薩亞斯部分地區",
+      "dek": "Philstar報導，彩雲本體雖留在菲律賓責任海域外，其尾隨雲雨帶仍為民答那峨及維薩亞斯部分地區帶來降雨。",
+      "url": "https://www.philstar.com/headlines/weather/2026/10/04/2560875/choi-wan-trough-affect-mindanao-parts-visayas"
     },
     {
       "rank": 8,
-      "title": "彩雲路徑北修　對日本本土威脅降低",
-      "dek": "udn報導，最新模擬顯示彩雲雖可能挑戰強颱強度，但轉向路徑將使其對日本本土的直接威脅較先前預測大幅下降。",
-      "url": "https://udn.com/news/story/7266/9792366"
+      "title": "第27號颱風增強　威脅小笠原群島強風豪雨",
+      "dek": "News On Japan報導，彩雲已發展為暴風半徑逾1300公里的大型強颱，10月4日起對小笠原群島構成強風豪雨與巨浪威脅。",
+      "url": "https://newsonjapan.com/article/150921.php"
     },
     {
       "rank": 9,
-      "title": "關島東方熱帶擾動醞釀　專家：侵台機率為零",
-      "dek": "Newtalk報導，一股關島東方的熱帶擾動（彩雲前身）及馬紹爾群島附近另一股擾動受到關注，但專家評估均不會侵襲台灣。",
-      "url": "https://newtalk.tw/news/view/2026-09-30/1062643"
+      "title": "颶風諾羅重新增強至三級　於太平洋偏遠海域移動",
+      "dek": "美聯社經WSLS報導，颶風諾羅重新增強為三級颶風，持續向西加速遠離夏威夷主要島嶼，預計10月6日前後越過國際換日線。",
+      "url": "https://www.wsls.com/news/national/2026/10/03/nolo-becomes-a-category-3-hurricane-in-the-remote-pacific-ocean/"
     },
     {
       "rank": 10,
-      "title": "大西洋罕見零颶風入10月　專家關注月中新擾動",
-      "dek": "WUFT報導，2026年大西洋颶風季至今尚未出現任何颶風，創下衛星觀測時代首例，氣象界正留意墨西哥南方一股可能成形的擾動。",
-      "url": "https://wuft.org/weather/2026-10-02/will-october-end-the-atlantics-historic-hurricane-pause"
+      "title": "颶風諾羅重新增強　夏威夷曾遭洪患侵襲",
+      "dek": "Rolling Out報導，諾羅此前已在毛伊島與夏威夷島降下逾12英寸豪雨並引發土石流，此後重新增強為主要颶風並向西遠離。",
+      "url": "https://rollingout.com/2026/10/04/hurricane-nolo-regains-its-fury-floods/"
     }
   ]
 }
