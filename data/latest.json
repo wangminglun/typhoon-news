@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T22:10:00+08:00",
+  "generated_at": "2026-10-04T23:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未針對任何系統發布海上或陸上颱風警報；彩雲路徑偏向日本小笠原群島，對台灣無直接影響。",
+  "alert_desc": "中央氣象署目前未針對任何系統發布海上或陸上颱風警報；彩雲路徑持續北轉逼近日本小笠原群島，對台灣無直接影響。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響：現階段無颱風系統朝台灣或台中逼近，僅下週東北季風南下將使北部轉涼，與颱風無直接關聯，中央氣象署亦未對台中發布任何風雨警戒或停班停課公告。"
+    "text": "台中目前無直接影響：現階段無任何颱風系統的風雨範圍觸及台中，今日天氣僅受東北季風與中部空氣品質橙色提醒影響，與颱風無直接關聯，中央氣象署亦未對台中發布任何風雨警戒或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱彩雲逼近小笠原群島 日本多縣發布海上警報",
-    "dek": "中央氣象署指出，彩雲目前路徑偏向日本，對台灣無直接影響，但太平洋同時有三個熱帶系統活躍。",
-    "url": "https://cna.com.tw/news/aopl/202610030182.aspx"
+    "title": "颱風彩雲北上逼近小笠原群島 對台無直接威脅",
+    "dek": "日本氣象廳對小笠原群島發布強風巨浪警戒，中央氣象署證實台灣本島不受影響，而菲律賓中南部仍因外圍雲系面臨強降雨風險，北太平洋另有多個系統蓄勢待發。",
+    "url": "https://weathernews.jp/news/202610/040041"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲逼近小笠原　日本示警大浪",
-      "dek": "中央社報導，日本氣象廳對當地海域發布大浪警戒。",
-      "url": "https://cna.com.tw/news/aopl/202610030182.aspx"
+      "title": "日本氣象廳：強颱彩雲北上逼近小笠原群島",
+      "dek": "中心氣壓935百帕、最大風速每秒45公尺，小笠原群島10月5至6日將面臨強風巨浪警戒。",
+      "url": "https://weathernews.jp/news/202610/040041"
     },
     {
       "rank": 2,
-      "title": "日媒估彩雲將增強至925百帕",
-      "dek": "tenki.jp預測彩雲逼近巔峰強度，關東沿海也需防強風大浪。",
-      "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/03/40842.html"
+      "title": "氣象廳第3報：彩雲持續逼近小笠原海域",
+      "dek": "日本氣象廳4日清晨發布定期警報，持續追蹤颱風彩雲動向並示警強風巨浪風險。",
+      "url": "https://okinawatimes.co.jp/articles/-/1937555"
     },
     {
       "rank": 3,
-      "title": "氣象廳：彩雲增強北轉　多縣警戒",
-      "dek": "中國新聞報導，彩雲氣壓約935百帕，東京神奈川等地發布警報。",
-      "url": "https://chugoku-np.co.jp/articles/-/904439"
+      "title": "NHK：彩雲4日起進入小笠原近海　籲注意巨浪",
+      "dek": "NHK報導颱風彩雲即將逼近巔峰強度，呼籲當地居民持續關注最新預報資訊。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54005"
     },
     {
       "rank": 4,
-      "title": "彩雲外圍雲系影響菲律賓",
-      "dek": "菲律賓氣象署指出，彩雲外圍雨帶將為民答那峨及維薩亞斯帶來降雨。",
-      "url": "https://philstar.com/headlines/weather/2026/10/04/2560875/choi-wan-trough-affect-mindanao-parts-visayas"
+      "title": "PAGASA：彩雲外圍槽線影響民答那峨、維薩亞斯",
+      "dek": "菲律賓氣象機構指出，彩雲雖遠在外海，其雲系仍為菲律賓中南部帶來強降雨與暴洪風險。",
+      "url": "https://www.philstar.com/headlines/weather/2026/10/04/2560875/choi-wan-trough-affect-mindanao-parts-visayas"
     },
     {
       "rank": 5,
-      "title": "颱風杜鵑日本死亡人數持續攀升",
-      "dek": "香港商報報導，杜鵑重創千葉神奈川，死亡人數已增至13至15人。",
-      "url": "https://www.hkcna.hk/hk/content/s6abb206be4b08c6106ce020f.html"
+      "title": "彩雲槽線持續影響維薩亞斯與民答那峨",
+      "dek": "GMA News報導指出，菲律賓中南部地區仍可能出現間歇性強降雨，當局提醒防範山崩與淹水。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1004640/trough-of-typhoon-choi-wan-affecting-visayas-mindanao/story/"
     },
     {
       "rank": 6,
-      "title": "下週恐現「三颱共舞」局面",
-      "dek": "中時新聞網指出，彩雲、新生颱風與諾羅恐同時現身太平洋。",
-      "url": "https://www.chinatimes.com/realtimenews/20261002002240-260405"
+      "title": "北馬里亞納群島解除彩雲警戒　法院恢復正常上班",
+      "dek": "塞班島與天寧島威脅解除，美國聯邦地方法院宣布恢復正常辦公時間。",
+      "url": "https://www.nmid.uscourts.gov/news/court-resuming-business-hours-after-typhoon-choi-wan"
     },
     {
       "rank": 7,
-      "title": "小熊颱風醞釀　北台灣轉涼探18度",
-      "dek": "聯合新聞網報導，賈新興預測東北季風南下，諾羅同時跨界移入。",
-      "url": "https://udn.com/news/story/7266/9789842"
+      "title": "颶風諾羅跨越換日線　將更名為颱風諾羅",
+      "dek": "美國國家颶風中心預測諾羅10月4日跨越180度經線，交由日本氣象廳東京中心接手監測並持續增強。",
+      "url": "https://watchers.news/2026/10/04/hurricane-nolo-forecast-to-cross-international-date-line-into-western-north-pacific-transitioning-into-a-typhoon/"
     },
     {
       "rank": 8,
-      "title": "關島外海熱帶系統發展活躍",
-      "dek": "關島民防辦公室表示，新生擾動恐為當地帶來強降雨。",
-      "url": "https://ghs.guam.gov/td25w-93w-forms-nw-marshall-islands-invest-94w-pass-guam-sunday-and-monday"
+      "title": "颶風諾羅一夜增強至時速185公里",
+      "dek": "諾羅在跨越換日線前夕再度增強，夏威夷當局嚴防外圍環流帶來的淹水風險。",
+      "url": "https://rollingout.com/2026/10/04/hurricane-nolo-surges-back-with-winds/"
     },
     {
       "rank": 9,
-      "title": "颶風諾羅增強　跨越國際換日線",
-      "dek": "Rolling Out報導，諾羅達三級颶風強度，預計更名為颱風諾羅。",
-      "url": "https://rollingout.com/2026/10/04/hurricane-nolo-regains-its-fury-floods/"
+      "title": "熱帶低氣壓25W形成　94W擾動逼近關島",
+      "dek": "關島民防單位指出，25W可能於週二至週三增強為輕度颱風，94W同時為關島帶來強降雨與陣風。",
+      "url": "https://ghs.guam.gov/td25w-93w-forms-nw-marshall-islands-invest-94w-pass-guam-sunday-and-monday"
     },
     {
       "rank": 10,
-      "title": "大西洋今年無颶風形成創紀錄",
-      "dek": "Forbes專欄指出，強聖嬰現象抑制大西洋活動、助長太平洋颱風生成。",
-      "url": "https://www.forbes.com/sites/marshallshepherd/2026/10/01/its-october-and-not-a-single-atlantic-hurricane-has-formed/"
+      "title": "大西洋今年尚無颶風　逾百年來首見",
+      "dek": "CBS12報導指出，聖嬰現象抑制海盆發展，大西洋已過颶風季高峰卻仍未出現任何颶風。",
+      "url": "https://cbs12.com/weather/hurricane-stories/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
     }
   ]
 }
