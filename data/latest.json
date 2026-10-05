@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T06:21:00+08:00",
+  "generated_at": "2026-10-06T07:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據現有新聞報導彙整，中央氣象署目前未對任何熱帶氣旋發布海上或陸上颱風警報。",
+  "alert_desc": "中央氣象署目前未對任何熱帶氣旋發布海上或陸上颱風警報，全台天氣轉由東北季風主導。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響；颱風彩雲路徑持續遠離台灣朝小笠原群島移動，關島附近新生成的熱帶性低氣壓（暫稱小熊）依專家說法亦對台灣沒有直接影響。"
+    "text": "目前無直接影響；台中未受任何颱風系統波及，近期天氣主要受東北季風降溫影響，無颱風相關停班停課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風彩雲增強趨近小笠原群島　專家稱對台灣無直接影響",
-    "dek": "今年第27號颱風彩雲持續北上接近日本小笠原群島，關島附近另有一熱帶性低氣壓蓄勢待發，但氣象專家指出兩者均未對台灣構成直接威脅，台灣本島則另受一般秋雨降溫天氣影響。",
-    "url": "https://tw.news.yahoo.com/2026%E5%B9%B410%E6%9C%88%E9%A0%AD-%E5%A4%A9-%E5%BD%A9%E9%9B%B2%E9%A2%B1%E9%A2%A8%E5%B0%B1%E7%94%9F%E6%88%90-065851010.html"
+    "title": "目前無活躍颱風　台灣轉受東北季風降溫影響",
+    "dek": "中央氣象署未發布任何海上或陸上颱風警報，全台天氣轉由東北季風主導，氣象界則持續關注十月中下旬菲律賓以東可能形成的熱帶擾動。",
+    "url": "https://www.taiwannews.com.tw/en/topic/Autumn%20Tiger"
   },
   "items": [
     {
       "rank": 1,
-      "title": "西太平洋今年第27號颱風「彩雲」生成　為10月首個颱風",
-      "dek": "關島東南方海面熱帶性低氣壓於10月1日發展為颱風彩雲，預測將偏北移動，遠離台灣與菲律賓。",
-      "url": "https://tw.news.yahoo.com/2026%E5%B9%B410%E6%9C%88%E9%A0%AD-%E5%A4%A9-%E5%BD%A9%E9%9B%B2%E9%A2%B1%E9%A2%A8%E5%B0%B1%E7%94%9F%E6%88%90-065851010.html"
+      "title": "「秋老虎」退場　東北季風讓北台灣驟降10度",
+      "dek": "隨著東北季風增強抵達，北台灣在連日高溫後氣溫急轉直下，降溫態勢可望持續到國慶假期前後。",
+      "url": "https://www.taiwannews.com.tw/en/topic/Autumn%20Tiger"
     },
     {
       "rank": 2,
-      "title": "關島附近新熱帶低氣壓有望增強為颱風「小熊」　專家稱對台無直接影響",
-      "dek": "鏡週刊報導，關島附近熱帶低氣壓最快10月5日可能增強為颱風，暫稱「小熊」，但名稱尚待官方確認，台灣專家強調不會直接影響台灣。",
-      "url": "https://www.mirrormedia.mg/story/20261004edi023"
+      "title": "大西洋颶風季打破百年紀錄　首颶至今仍未現身",
+      "dek": "截至10月2日，大西洋今年已有8個命名風暴卻無一達颶風強度，為衛星觀測時代最晚紀錄，逼近1905年舊紀錄。",
+      "url": "https://www.wsmv.com/2026/09/23/where-are-hurricanes-atlantic-just-broke-century-old-record/"
     },
     {
       "rank": 3,
-      "title": "影音報導：颱風彩雲10月首日生成　路徑初判偏離台灣",
-      "dek": "新頭條報導確認彩雲於10月1日生成，初期路徑經菲律賓以北朝開闊太平洋移動，未影響台灣。",
-      "url": "https://www.thehubnews.net/archives/670553"
+      "title": "孟加拉灣系統與「Arnab」氣旋擦身而過　印度氣象局維持深度低壓判定",
+      "dek": "儘管美國JTWC已將其列為01B號熱帶氣旋，印度氣象局仍認定該系統未達氣旋強度，登陸時僅以深度低壓收場。",
+      "url": "https://odishabytes.com/cyclone-arnab-ruled-out-imd-maintains-deep-depression-status-as-jtwc-classifies-bay-system-as-cyclone-01b/amp/"
     },
     {
       "rank": 4,
-      "title": "今日11縣市有大雨　本週氣溫降至攝氏16度",
-      "dek": "壹蘋新聞網報導，中央氣象署預測10月5日11個縣市將降大雨，本週稍晚氣溫將降至約16度，屬秋季鋒面降雨，與颱風無關。",
-      "url": "https://news.nextapple.com/life/20261005/C4F7A358EC6A9B8D3007FA34715E7623"
+      "title": "今年第26號颱風蘇力蓋轉向沖繩　未威脅台灣即轉化為溫帶氣旋",
+      "dek": "蘇力蓋9月下旬北轉逼近沖繩與大東群島，10月3日掠過日本後正式轉化為溫帶氣旋，全程未影響台灣。",
+      "url": "https://ground.news/article/typhoon-no-26-to-approach-the-main-island-tomorrow"
     },
     {
       "rank": 5,
-      "title": "颱風彩雲生成　預測將增強並轉向北方移動",
-      "dek": "日本氣象機構Weathernews報導彩雲生成及初期北轉路徑，並對其是否進一步接近日本提出觀測重點。",
-      "url": "https://weathernews.jp/news/202610/010021/"
+      "title": "氣象專家關注菲律賓以東洋面　10月中下旬可能醞釀新熱帶系統",
+      "dek": "專家指出該潛在熱帶擾動路徑與強度仍高度不確定，近期台灣天氣仍以東北季風降溫為主。",
+      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202510120016/"
     },
     {
       "rank": 6,
-      "title": "颱風彩雲預測以「非常強」等級逼近小笠原群島",
-      "dek": "Weathernews指出，彩雲強度快速增強，預測將以「非常強」等級持續朝小笠原群島方向移動。",
-      "url": "https://weathernews.jp/news/202610/010261/"
+      "title": "2026年西太平洋颱風季已生成9颱　4個達超級颱風等級",
+      "dek": "統計資料顯示，今年西太平洋颱風季截至10月初已造成逾100億美元損失，10月後活躍重心可能轉往日本與南海一帶。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 7,
-      "title": "颱風彩雲預測急速增強至「非常強」等級　小笠原群島發布警戒",
-      "dek": "隨著環流持續擴大，Weathernews報導彩雲預測將急速增強，小笠原群島發布海象惡化警戒。",
-      "url": "https://weathernews.jp/news/202610/020181/"
+      "title": "TSR預測：今年西北太平洋颱風活躍度高出常年近四成",
+      "dek": "英國機構Tropical Storm Risk指出，今年颱風季活躍程度遠超1991至2020年氣候平均值，與目前觀測到的生成數量相符。",
+      "url": "https://www.tropicalstormrisk.com/docs/TSRNWPForecastJuly2026.pdf"
     },
     {
       "rank": 8,
-      "title": "大型強颱彩雲持續朝小笠原群島逼近　預估強度維持高峰",
-      "dek": "Weathernews報導，截至10月3日彩雲已發展為大型強颱，持續接近小笠原群島，巔峰強度預估出現在10月4日至5日，中心氣壓約950百帕。",
-      "url": "https://weathernews.jp/news/202610/030051/"
+      "title": "菲律賓氣象局估10月僅1至2個熱帶氣旋生成或進入其責任區",
+      "dek": "PAGASA指出，受強厄爾尼諾現象壓抑熱帶系統發展，10月生成量將低於正常水準。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
     },
     {
       "rank": 9,
-      "title": "颱風彩雲逼近馬里亞納群島　塞班機場發布強風強雨警告",
-      "dek": "Weathernews英文版報導，彩雲經過馬里亞納群島附近時，塞班島國際機場因外圍環流一度發布強風強雨警告，隨後颱風轉向北行。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "回顧：強颱「海豚」8月重創沖繩　展現今年颱風季威力",
+      "dek": "作為今年第13號風暴、第5個颱風，海豚以強勁風力襲擊沖繩並一度關閉機場，凸顯本季風暴強度偏強的特徵。",
+      "url": "https://wxtech.weathernews.com/en/news/20260805-01/"
     },
     {
       "rank": 10,
-      "title": "即時颱風路徑追蹤：彩雲目前位置與預測路徑",
-      "dek": "zoom.earth即時路徑圖顯示，彩雲預計經小笠原群島東側海域後轉向北太平洋開闊海域，遠離台灣與日本本土。",
-      "url": "https://zoom.earth/storms/26w-2026/"
+      "title": "回顧：東太平洋首颶風「Fausto」形成　全程遠離陸地",
+      "dek": "Fausto今年7月成為東太平洋首個颶風，一路北轉遠離墨西哥海岸，未對任何沿岸地區發布警戒。",
+      "url": "https://www.thegardenisland.com/?p=422719"
     }
   ]
 }
