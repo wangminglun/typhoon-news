@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T09:10:00+08:00",
+  "generated_at": "2026-10-05T10:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；受東北季風增強影響，已對14縣市發布陸上強風特報。",
+  "alert_desc": "目前無海上颱風警報或陸上颱風警報。中央氣象署因東北季風增強，自10月4日晚間起至5日晚間發布陸上強風特報，範圍涵蓋新北市、桃園市、新竹市、新竹縣、苗栗縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、屏東縣、臺東縣（含蘭嶼、綠島）、澎湖縣及連江縣等14縣市，平均風力達6級以上或陣風8級以上，威力直逼輕颱。",
   "region_watch": {
     "region": "台中",
-    "text": "台中列入中央氣象署陸上強風特報範圍（10月4日晚間至10月5日晚間），入夜後陣風可達8級，但無颱風警報、無停班停課，目前無直接颱風影響。"
+    "text": "台中市目前未受任何颱風直接影響，中央氣象署亦未對台中發布海上或陸上颱風警報；但因東北季風增強，台中已被列入強風特報範圍，今（10/5）晚起風力明顯增強（平均6級以上、陣風可達8級）、氣溫下降，外出與沿岸活動請注意強風，惟尚無停班停課訊息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "東北風增強 14縣市發強風特報",
-    "dek": "中央氣象署未發颱風警報，台中等14縣市列入陸上強風特報；外海三颱共舞均不致影響台灣。",
-    "url": "https://ctinews.com/news/items/gGaMkPrBnK"
+    "title": "三颱共舞不犯台 東北季風發威",
+    "dek": "彩雲、小熊與諾羅三颱同時現身太平洋，均未直撲台灣，真正牽動全台風雨的是增強中的東北季風。",
+    "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-8%E7%B4%9A%E5%BC%B7%E9%A2%A8%E7%8B%A0%E9%A2%B3-14%E7%B8%A3%E5%B8%82-%E5%A8%81%E5%8A%9B%E7%9B%B4%E9%80%BC%E8%BC%95%E9%A2%B1-085953565.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風彩雲升級成強颱 氣象署揭最新路徑",
-      "dek": "彩雲10月4日午後增強為今年第7個強颱，路徑北轉東北遠離台灣。",
-      "url": "https://www.chinatimes.com/realtimenews/20261004001968-260405"
+      "title": "東北季風增強 14縣市發布強風特報",
+      "dek": "中央氣象署指平均風力6級以上，陣風上看8級，威力直逼輕颱。",
+      "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-8%E7%B4%9A%E5%BC%B7%E9%A2%A8%E7%8B%A0%E9%A2%B3-14%E7%B8%A3%E5%B8%82-%E5%A8%81%E5%8A%9B%E7%9B%B4%E9%80%BC%E8%BC%95%E9%A2%B1-085953565.html"
     },
     {
       "rank": 2,
-      "title": "彩雲北北東向移動 逼近日本小笠原群島",
-      "dek": "外媒報導彩雲掠過馬里亞納群島後持續增強，預估10月4日中午逼近小笠原群島海域。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+      "title": "8級強陣風來襲 氣溫驟降6度",
+      "dek": "東北季風增強帶來此次事件最強降雨，影響範圍涵蓋台灣多處。",
+      "url": "https://ettoday.net/news/20261005/3249062.htm"
     },
     {
       "rank": 3,
-      "title": "三颱共舞？彩雲轉強颱、小熊將生成 還有颶風跨界而來",
-      "dek": "自由時報報導太平洋同時出現三個熱帶系統，但均不直接威脅台灣。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595258"
+      "title": "三颱共舞罕見現身 小熊颱風生成",
+      "dek": "關島外海熱帶性低氣壓增強為颱風小熊，與彩雲、諾羅同框。",
+      "url": "https://www.nownews.com/news/6880663"
     },
     {
       "rank": 4,
-      "title": "颶風跨界變身！諾羅跨越換日線成為颱風",
-      "dek": "美聯社報導中太平洋颶風諾羅跨越國際換日線後更名颱風，持續遠離陸地西進。",
-      "url": "https://washingtontimes.com/news/2026/oct/4/nolo-becomes-typhoon-pacific-hurricane-crosses-international-dateline"
+      "title": "小熊颱風即將生成 專家示警共伴效應",
+      "dek": "氣象專家表示雖不致直撲台灣，但降雨效應仍須持續觀察。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595619"
     },
     {
       "rank": 5,
-      "title": "新熱帶低壓生成 最快今增強為小熊颱風",
-      "dek": "Yahoo新聞報導關島附近新熱帶低壓可能10月5日增強為小熊颱風，專家稱對台無直接影響。",
-      "url": "https://tw.news.yahoo.com/%E6%96%B0%E7%86%B1%E5%B8%B6%E4%BD%8E%E5%A3%93%E7%94%9F%E6%88%90-%E6%9C%80%E5%BF%AB%E6%98%8E%E5%A2%9E%E5%BC%B7%E7%82%BA-%E5%B0%8F%E7%86%8A-%E9%A2%B1%E9%A2%A8-%E5%B0%88%E5%AE%B6-143700608.html"
+      "title": "彩雲颱風增強為強颱 持續遠離台灣",
+      "dek": "中央氣象署資料顯示彩雲中心氣壓探至910百帕，路徑北轉。",
+      "url": "https://www.chinatimes.com/realtimenews/20261004001968-260405"
     },
     {
       "rank": 6,
-      "title": "東北風發威！8級強風狠颳14縣市 威力直逼輕颱",
-      "dek": "中天新聞網報導氣象署對14縣市發布強風特報，台中等地陣風可達8級。",
-      "url": "https://ctinews.com/news/items/gGaMkPrBnK"
+      "title": "彩雲颱風最大風速估達每小時155英里",
+      "dek": "國際氣象網站即時追蹤顯示彩雲強度逼近最高等級，路徑轉向東北。",
+      "url": "https://www.wunderground.com/hurricane/western-pacific/2026/typhoon-choi-wan"
     },
     {
       "rank": 7,
-      "title": "第27號颱風彩雲生成 預估增強朝小笠原逼近",
-      "dek": "Weathernews報導彩雲在馬里亞納群島北側生成，增強後將朝小笠原群島方向移動。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "彩雲颱風北移 逼近日本小笠原群島",
+      "dek": "馬來西亞《星報》報導彩雲在馬里亞納群島上空持續北移。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 8,
-      "title": "彩雲逼近小笠原 危險巨浪持續增強",
-      "dek": "NewsOnJapan報導彩雲以強烈風勢逼近小笠原群島，10月5至6日最接近並掀起危險巨浪。",
-      "url": "https://newsonjapan.com/article/150921.php"
+      "title": "彩雲颱風幾乎停滯 塞班天寧仍受風雨侵襲",
+      "dek": "關島地方媒體報導彩雲移動緩慢，當地熱帶風暴等級風雨持續。",
+      "url": "https://www.mvariety.com/news/local/choi-wan-nearly-stalls-tropical-storm-conditions-linger-over-saipan-tinian/article_a789681f-b74b-43dd-8862-47219156fb56.html"
     },
     {
       "rank": 9,
-      "title": "颱風彩雲恐接近小笠原群島 日本氣象廳示警大浪",
-      "dek": "中央社報導日本氣象廳對小笠原群島發出大浪警示，彩雲不致影響台灣。",
-      "url": "https://cna.com.tw/news/aopl/202610030182.aspx"
+      "title": "颶風諾羅跨越換日線 將轉型為颱風",
+      "dek": "美國氣象媒體預測諾羅風力約每小時205公里，後續將減弱。",
+      "url": "https://watchers.news/2026/10/04/hurricane-nolo-forecast-to-cross-international-date-line-into-western-north-pacific-transitioning-into-a-typhoon/"
     },
     {
       "rank": 10,
-      "title": "彩雲持續增強 朝日本方向移動",
-      "dek": "Borneo Bulletin報導彩雲增強並北上進逼日本海域，外島及航運面臨風浪威脅。",
-      "url": "https://borneobulletin.com.bn/typhoon-choi-wan-intensifies-moves-towards-japan/"
+      "title": "諾羅再度增強為颶風 持續向西逼近換日線",
+      "dek": "美聯社報導諾羅在太平洋上重新增強，朝國際換日線移動。",
+      "url": "https://abcnews.com/US/wireStory/nolo-strengthens-hurricane-pacific-ocean-136961624"
     }
   ]
 }
