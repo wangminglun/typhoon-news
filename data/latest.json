@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T17:11:00+08:00",
+  "generated_at": "2026-10-05T18:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，僅因東北季風增強對14縣市發布陸上強風特報，陣風可達8級。",
+  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報，僅因入秋最強東北季風對14縣市（含台中）發布陸上強風特報，瞬間風力上看8級。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前沒有颱風直接影響，僅受東北季風強風特報影響可能出現8級陣風，並未發布停班停課。"
+    "text": "台中市目前沒有颱風直接影響，僅列入東北季風強風特報範圍，瞬間風力上看8級，並未發布停班停課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西北太平洋罕見「三颱共舞」　台灣未受影響僅東北季風增強",
-    "dek": "超級颱風彩雲、跨越國際換日線而生的颱風諾洛，與新生成的熱帶系統小熊同時盤據西北太平洋，但中央氣象署表示三者皆距台灣遙遠，目前無颱風警報，僅因東北季風增強而對14縣市發布強風特報。",
-    "url": "https://newtalk.tw/news/view/2026-10-05/1063645"
+    "title": "西太平洋三颱共存　國慶前夕第四颱醞釀成形",
+    "dek": "聯合新聞網報導，氣象專家賈新興示警，10日國慶前後菲律賓海域可能生成第四颱「薔琵」。",
+    "url": "https://udn.com/news/story/7266/9794963"
   },
   "items": [
     {
       "rank": 1,
-      "title": "專家關注「薔琵」10月10日前後生成　恰逢台灣國慶連假",
-      "dek": "氣象專家賈新興等人正觀察一個暫定代號「薔琵」的熱帶系統，最快可能10月10日於菲律賓東側生成，時間點與國慶連假重疊，惟路徑尚未明朗。",
-      "url": "https://newtalk.tw/news/view/2026-10-05/1063645"
+      "title": "三颱共存未息　國慶前再醞釀第四颱「薔琵」",
+      "dek": "聯合新聞網報導，氣象專家賈新興示警，10日國慶前後菲律賓海域可能生成第四颱「薔琵」。",
+      "url": "https://udn.com/news/story/7266/9794963"
     },
     {
       "rank": 2,
-      "title": "東北季風增強　中央氣象署對14縣市發布強風特報",
-      "dek": "中央氣象署發布陸上強風特報，新北、桃園、台中、台南、澎湖、馬祖等14縣市陣風可達8級，部分報導稱其威力直逼輕颱，但非颱風警報。",
-      "url": "https://tw.news.yahoo.com/%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-8%E7%B4%9A%E5%BC%B7%E9%A2%A8%E7%8B%A0%E9%A2%B3-14%E7%B8%A3%E5%B8%82-%E5%A8%81%E5%8A%9B%E7%9B%B4%E9%80%BC%E8%BC%95%E9%A2%B1-085953565.html"
+      "title": "準颱風「薔琵」最快10日生成　國慶連假添變數",
+      "dek": "新頭殼報導指出，薔琵生成機率與路徑仍待觀察，恰逢國慶連假將為天氣增添變數。",
+      "url": "https://newtalk.tw/news/view/2026-10-05/1063645"
     },
     {
       "rank": 3,
-      "title": "彩雲、諾洛、小熊三颱共舞　皆暫無威脅台灣",
-      "dek": "自由時報報導，超級颱風彩雲增強為強颱，熱帶系統小熊正在生成，跨換日線而生的颱風諾洛亦已納入西北太平洋，三者目前均距台灣遙遠。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595258"
+      "title": "諾洛跨越換日線　正式升格為颱風",
+      "dek": "ETtoday報導，原東太平洋颶風諾洛5日跨過換日線轉為颱風，路徑西移不影響台灣。",
+      "url": "https://ettoday.net/news/20261005/3249114.htm"
     },
     {
       "rank": 4,
-      "title": "氣象署：颱風季延後　10月仍須保持警戒",
-      "dek": "自由時報報導，中央氣象署指出近年颱風生成時間有延後趨勢，已將警戒期延伸至整個10月，呼籲民眾持續留意天氣變化。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593922"
-    },
-    {
-      "rank": 5,
-      "title": "超級颱風彩雲逼近日本小笠原群島　強度緩步減弱",
-      "dek": "彩雲一度增強至「非常強」等級，風速達每小時180公里，向北北東逼近日本小笠原群島，預計10月5至6日最接近，隨後逐漸減弱。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
-    },
-    {
-      "rank": 6,
-      "title": "彩雲雖減弱仍維持超級颱風強度　48至60小時內將轉化為溫帶氣旋",
-      "dek": "即時追蹤顯示彩雲中心氣壓916毫巴、最大風速每小時241公里，預計加速北東行，並於48至60小時內在本州附近轉化為溫帶氣旋。",
-      "url": "https://zoom.earth/storms/choi-wan-2026/"
-    },
-    {
-      "rank": 7,
-      "title": "颶風跨越國際換日線　「諾洛」罕見變身颱風",
-      "dek": "NBC News報導，颶風諾洛周一清晨（日本時間10月5日）跨越國際換日線後重新命名為颱風諾洛，是相對罕見的跨洋域事件。",
+      "title": "本季最長壽風暴諾洛　跨國際換日線變身颱風",
+      "dek": "NBC News報導，諾洛歷時三週，以時速162公里跨海重生為西太平洋颱風。",
       "url": "https://www.nbcnews.com/weather/storms/nolo-changes-hurricane-typhoon-crossing-international-date-line-rcna601560"
     },
     {
+      "rank": 5,
+      "title": "第28號颱風小熊成形　路徑料北轉不侵台",
+      "dek": "自由時報報導，小熊路徑近似彩雲，北轉機率高，論壇持續關注是否出現共伴效應。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595619"
+    },
+    {
+      "rank": 6,
+      "title": "日氣象廳預告小熊將生成　專家：對台無直接影響",
+      "dek": "東森新聞報導，小熊僅是西北太平洋三颱共存格局的一部分，路徑不致波及台灣。",
+      "url": "https://news.ebc.net.tw/news/living/574231"
+    },
+    {
+      "rank": 7,
+      "title": "小熊颱風正式生成　氣象署：侵台機率低",
+      "dek": "民視新聞網報導，小熊5日上午由熱帶低壓增強為今年第28號颱風，侵台機率低。",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026A05W0144"
+    },
+    {
       "rank": 8,
-      "title": "颱風諾洛預估不會登陸本州　10月8日前將在千島群島附近轉化為溫帶氣旋",
-      "dek": "The Weather Network報導，諾洛登陸日本本州機率低，可能擦過小笠原群島後北轉，並於10月8日前在千島群島東側轉化為溫帶氣旋。",
-      "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/a-rare-feat-hurricane-nolo-will-soon-transition-into-a-typhoon"
+      "title": "彩雲環流擴大　有望挑戰強烈颱風等級",
+      "dek": "聯合新聞網報導，彩雲路徑北轉確立，對日本本土威脅大減，主要衝擊小笠原群島海域。",
+      "url": "https://udn.com/news/story/7266/9792366"
     },
     {
       "rank": 9,
-      "title": "西北太平洋新生熱帶系統「小熊」形成　路徑預測分歧",
-      "dek": "氣象學者Ryan Maue指出，熱帶性低氣壓小熊已在馬里亞納群島附近形成，美日模式對其未來是否轉向日本或偏離陸地的預測仍有分歧。",
-      "url": "https://weather.substack.com/p/october-4-2026-sunday-tropical-update"
+      "title": "彩雲逼近小笠原群島　日氣象廳警大浪8米",
+      "dek": "中央社報導，日本氣象廳示警彩雲5日至6日將接近小笠原，瞬間風速達每秒35米。",
+      "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
     },
     {
       "rank": 10,
-      "title": "彩雲外圍環流為菲律賓維薩亞斯、民答那峨帶來降雨",
-      "dek": "BusinessWorld引述菲律賓氣象局報導，超級颱風彩雲雖中心遠在外海，其外圍雲雨帶已為維薩亞斯及民答那峨地區帶來降雨與土石流風險。",
-      "url": "https://bworldonline.com/the-nation/2026/10/05/784397/trough-of-super-typhoon-choi-wan-brings-rain-over-visayas-mindanao-pagasa/"
+      "title": "東北季風增強　14縣市發布強風特報",
+      "dek": "中天新聞網報導，入秋最強東北季風襲台，中央氣象署對含台中等14縣市發布強風特報，威力直逼輕颱。",
+      "url": "https://ctinews.com/news/items/2BnEBNrrWJ"
     }
   ]
 }
