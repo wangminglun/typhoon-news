@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T13:13:00+08:00",
+  "generated_at": "2026-10-05T14:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報。西太平洋同時有彩雲、諾洛、小熊三個颱風活躍，但三者路徑均遠離台灣，無直接影響；台灣十月五日屬一般秋季天氣。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報，西太平洋同時存在的三個颱風系統路徑均遠離台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前未受任何颱風直接影響，天氣晴到多雲，氣溫約攝氏二十至三十度，降雨機率為零，沒有停班停課公告。"
+    "text": "台中目前未受颱風直接影響；市府因東北季風與對流雲系發布大雨特報，屬獨立的降雨事件，與現有颱風系統無關，目前未有停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋罕見「三颱共存」 氣象署：皆未對台構成威脅",
-    "dek": "彩雲、諾洛、小熊三個颱風同時現身西北太平洋，路徑均遠離台灣，中央氣象署尚未發布海上或陸上颱風警報。",
-    "url": "https://ettoday.net/news/20261005/3249135.htm"
+    "title": "西太平洋三颱共存 台灣未發警報 氣象專家示警第四颱醞釀中",
+    "dek": "中央氣象署表示，同時活躍的三個颱風系統路徑均遠離台灣，但一個可能在國慶連假前逼近菲律賓以東海域的新系統已進入觀察名單。",
+    "url": "https://udn.com/news/story/7266/9795051"
   },
   "items": [
     {
       "rank": 1,
-      "title": "第27號熱帶風暴「彩雲」於馬里亞納群島北方生成 預測增強為颱風朝小笠原群島前進",
-      "dek": "Weathernews報導，彩雲在馬里亞納群島北方形成後持續增強，後續迅速發展為非常強或超強颱風。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
-    },
-    {
-      "rank": 2,
-      "title": "颱風彩雲恐接近小笠原群島 日本氣象廳示警有大浪",
-      "dek": "中央社報導，彩雲持續增強並向北移動，預計十月五日至六日接近小笠原群島，日本氣象廳警告浪高可能達八公尺。",
-      "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
-    },
-    {
-      "rank": 3,
-      "title": "第27號颱風逼近小笠原群島 危險浪高持續升高",
-      "dek": "NewsOnJapan報導，彩雲逐步接近小笠原群島，日本當局在其最接近前持續示警危險海象。",
-      "url": "https://newsonjapan.com/article/150921.php"
-    },
-    {
-      "rank": 4,
-      "title": "颱風彩雲北北東行經馬里亞納群島 預計十月四日中午抵達日本小笠原群島海域",
-      "dek": "馬來西亞《星報》報導，彩雲向北北東移動並持續增強，預估十月四日中午左右到達小笠原群島附近海域。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
-    },
-    {
-      "rank": 5,
-      "title": "太平洋颶風跨越國際換日線 更名為颱風諾洛",
-      "dek": "美聯社報導，原為颶風的諾洛跨越國際換日線後依命名慣例轉為颱風，預測強度將逐漸減弱。",
-      "url": "https://www.ksat.com/news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline/"
-    },
-    {
-      "rank": 6,
-      "title": "3颱共存！諾洛今早跨境成中颱、輕颱小熊同時出現 對台影響曝光",
-      "dek": "聯合新聞網報導，諾洛跨越換日線成為颱風，與新生成的小熊、原有的彩雲同時並存，三者皆遠離台灣無直接影響。",
+      "title": "三颱共存：諾洛跨換日線成中颱、小熊同時生成，對台影響曝光",
+      "dek": "中央氣象署指出，巧克、諾洛、小熊三颱均遠離台灣，暫無直接影響。",
       "url": "https://udn.com/news/story/7266/9795051"
     },
     {
-      "rank": 7,
-      "title": "快訊／「小熊」颱風也生成了 又見3颱共存",
-      "dek": "ETtoday報導，威克島附近熱帶性低氣壓增強為颱風小熊，與彩雲、諾洛同時成為第三個並存的颱風系統。",
-      "url": "https://ettoday.net/news/20261005/3249135.htm"
-    },
-    {
-      "rank": 8,
-      "title": "3颱共存！「小熊」颱風生成了 影響台灣機率曝",
-      "dek": "民視新聞網報導，小熊颱風生成後預測向西北移動，對台灣造成影響的機率極低。",
-      "url": "https://www.ftvnews.com.tw/news/detail/2026A05W0144"
-    },
-    {
-      "rank": 9,
-      "title": "快訊／「諾洛」跨過換日線成為颱風 最新路徑曝",
-      "dek": "ETtoday報導，諾洛由颶風轉為颱風後預測先向西移動，隨後在東經150度附近轉向北，屬遠洋颱風不影響台灣與日本。",
+      "rank": 2,
+      "title": "諾洛跨越換日線轉為颱風，最新路徑曝光",
+      "dek": "諾洛由颶風轉為西太平洋颱風後，預報路徑將持續停留在台灣與日本外海。",
       "url": "https://ettoday.net/news/20261005/3249114.htm"
     },
     {
+      "rank": 3,
+      "title": "三颱共舞：小熊颱風生成、諾洛跨換日線，最新路徑及對台影響",
+      "dek": "小熊與諾洛相繼成形，加上原有的巧克，形成三颱並存局面，惟均無直接威脅台灣。",
+      "url": "https://news.tvbs.com.tw/life/4031613"
+    },
+    {
+      "rank": 4,
+      "title": "諾洛跨越換日線、小熊颱風生成，強度與路徑最新公布",
+      "dek": "報導指出諾洛中心氣壓約915百帕、最大風速約每秒53公尺，路徑持續遠離台灣。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595737"
+    },
+    {
+      "rank": 5,
+      "title": "新熱帶低壓生成，最快次日增強為小熊颱風，專家稱對台無直接影響",
+      "dek": "關島附近生成的熱帶低壓後續發展為小熊颱風，專家自始即表示不會直接影響台灣。",
+      "url": "https://www.mirrormedia.mg/story/20261004edi023"
+    },
+    {
+      "rank": 6,
+      "title": "諾洛、小熊接力生成，三颱共存對台影響評估",
+      "dek": "報導彙整三颱同時存在的最新動態，並確認對台灣天氣無直接關聯。",
+      "url": "https://www.chinatimes.com/realtimenews/20261005001400-260405"
+    },
+    {
+      "rank": 7,
+      "title": "颱風巧克北北東行經馬里亞納群島，預計逼近日本小笠原群島海域",
+      "dek": "巧克持續北上，預報將於10月4日中午前抵達小笠原群島附近海域。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+    },
+    {
+      "rank": 8,
+      "title": "大型強颱27號巧克持續北上，日本小笠原群島戒備強風與高浪",
+      "dek": "日本氣象廳資料顯示巧克中心氣壓935百帕，預期不會直接登陸本州，但高浪風險持續至10月6日。",
+      "url": "https://weathernews.jp/news/202610/040091/"
+    },
+    {
+      "rank": 9,
+      "title": "日本氣象廳編號29號颱風小熊生成，三連休期間恐接近日本近海",
+      "dek": "Weathernews引述日本氣象廳資料指出，小熊與27號巧克、28號諾洛共同構成三颱並存局面。",
+      "url": "https://weathernews.jp/news/202610/050101/"
+    },
+    {
       "rank": 10,
-      "title": "PAGASA預告菲國海域十月下旬可能再有兩個熱帶氣旋",
-      "dek": "《菲律賓星報》報導，菲律賓大氣地理天文服務管理局預測十月下旬或有兩個熱帶氣旋生成或進入其責任海域，並指彩雲預料不會進入該海域。",
-      "url": "https://www.philstar.com/headlines/2026/10/05/2561047/pagasa-sees-2-cyclones-ahead"
+      "title": "三颱共舞只是開始？準颱風薔琵最快10月10日生成，國慶連假添變數",
+      "dek": "防災專家賈新興表示，新系統可能較現有三颱更靠近台灣，但實際影響尚待觀察。",
+      "url": "https://newtalk.tw/news/view/2026-10-05/1063645"
     }
   ]
 }
