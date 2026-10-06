@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T05:15:00+08:00",
+  "generated_at": "2026-10-07T06:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未針對任何颱風發布海上或陸上颱風警報，距上一次颱風警報（8月下旬的沙德爾颱風）已逾一個月。台灣今日天氣主軸是東北季風南下，與颱風無關。颱風喬伊彎已掃過小笠原群島，持續北上進入日本以東海域，對台灣不構成威脅。",
+  "alert_desc": "交通部中央氣象署目前並未針對台灣本島發布海上或陸上颱風警報。西太平洋現有兩個強颱風「喬伊彎」與「諾羅」同時活動，但雙方路徑均遠離台灣，持續朝日本以東、以南的開闊海域移動，對台灣不構成威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無颱風系統影響台中，今日天氣主要受東北季風外圍影響，台中地區多雲到晴，午後氣溫約攝氏二十度出頭至二十多度中段，無因颱風停班停課消息。"
+    "text": "目前無直接影響。台中地區截至10月6日並未出現與喬伊彎或諾羅兩個活躍颱風相關的風雨或停班停課情形，當地天氣變化來自與颱風無關的鋒面系統。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "喬伊彎颱風掃過小笠原群島後轉向日本外海，台灣不受威脅",
-    "dek": "今年太平洋第二十七號颱風喬伊彎（Choi-wan）在重創小笠原群島後北上進入日本東方海域，氣象機構評估其登陸日本本土的機率極低，而台灣今日的天氣焦點則是東北季風南下帶來的十天降溫與降雨。",
-    "url": "https://weathernews.jp/news/202610/030051/"
+    "title": "雙颱並行北轉日本外海 台灣未受影響 氣象署未發布颱風警報",
+    "dek": "颱風「喬伊彎」增強為非常強颱風後轉向遠離日本本土，第二個系統「諾羅」隨後進入日本氣象廳責任海域，兩者路徑均偏離台灣，台中地區目前無直接衝擊。",
+    "url": "https://sea.weathernews.com/resources/202610/263"
   },
   "items": [
     {
       "rank": 1,
-      "title": "喬伊彎颱風重創小笠原群島後，進入日本以東海域",
-      "dek": "Weathernews報導，第二十七號颱風喬伊彎在小笠原群島附近增強為「非常強」等級後，已於六日下午抵達日本本州以東海域，對關東太平洋沿岸的影響機率極低。",
-      "url": "https://weathernews.jp/news/202610/030051/"
+      "title": "颱風27號喬伊彎逼近巔峰強度 小笠原群島以東掀危險浪高",
+      "dek": "Weathernews報導指出，喬伊彎已增強為大型且非常強的颱風，在小笠原群島以東海域掀起約八公尺高浪。",
+      "url": "https://sea.weathernews.com/resources/202610/263"
     },
     {
       "rank": 2,
-      "title": "喬伊彎颱風逼近小笠原群島前急速增強，當地籲民眾戒備",
-      "dek": "Weathernews指出，體型龐大的喬伊彎颱風在接近小笠原群島前迅速增強至「非常強」等級，當地居民獲警告需防範強風與高浪。",
-      "url": "https://weathernews.jp/news/202610/020181/"
+      "title": "日本假期週遭三颱風逼近 反映西太平洋異常活躍態勢",
+      "dek": "南韓《首爾經濟日報》報導，三個熱帶氣旋系統同時影響日本周邊海域，凸顯今年颱風季的活躍程度。",
+      "url": "https://en.sedaily.com/international/2026/10/05/three-typhoons-close-in-on-japan-during-holiday-week"
     },
     {
       "rank": 3,
-      "title": "喬伊彎颱風逼近馬里亞納群島，塞班機場示警風雨增強",
-      "dek": "Weathernews（wxtech）報導，剛命名的喬伊彎颱風逼近馬里亞納群島時中心氣壓為998百帕，最大持續風速約三十五節，塞班國際機場獲警示風雨將持續增強。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
+      "title": "颱風28號諾羅進入日本氣象廳責任海域 預測減弱後朝日本以南移動",
+      "dek": "Weathernews報導，第二個強颱風諾羅已以非常強度進入日方責任海域，預計強度將逐漸減弱。",
+      "url": "https://sea.weathernews.com/resources/202610/262"
     },
     {
       "rank": 4,
-      "title": "喬伊彎颱風於馬里亞納群島以東生成，預報員關注北轉路徑",
-      "dek": "Weathernews報導，本季第二十七個熱帶氣旋在馬里亞納群島以東海域組織成颱風喬伊彎，預報員隨即示警其北轉路徑並持續追蹤其朝小笠原群島移動的動向。",
-      "url": "https://weathernews.jp/news/202610/010021/"
+      "title": "喬伊彎北北東穿越馬里亞納群島 預測10月4日中午抵小笠原群島海域",
+      "dek": "美聯社系統報導（經《星報》轉載）指出，喬伊彎於馬里亞納群島上空持續增強並轉向小笠原方向。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 5,
-      "title": "颱風古超遠離，華南熱帶氣旋警報全面解除",
-      "dek": "香港《The Standard》報導，橫掃海南島、一度威脅北部灣與廣東沿岸的颱風古超減弱遠離後，中國氣象當局解除了相關熱帶氣旋警報，該系統現已完全消散。",
-      "url": "https://www.thestandard.com.hk/news/article/174463/Tropical-cyclone-warnings-cancelled-as-Koguma-departs"
+      "title": "超強颱風喬伊彎重創北馬里亞納群島與關島 旅遊業發布中斷警告",
+      "dek": "Travel And Tour World報導，喬伊彎增強期間對關島及北馬里亞納群島造成風速劇增與旅遊中斷。",
+      "url": "https://travelandtourworld.com/news/article/ul28xqbsru02"
     },
     {
       "rank": 6,
-      "title": "香港天文台：本季颱風數量可能創紀錄，季末前仍可能有新系統",
-      "dek": "香港《The Standard》報導，天文台指出二零二六年西太平洋熱帶氣旋生成數量異常偏高，並提醒即使目前相對平靜，季末前仍可能有新系統進入香港五百公里警戒範圍。",
-      "url": "https://www.thestandard.com.hk/news/article/313780/HK-faces-record-breaking-typhoon-season-with-more-storms-looming"
+      "title": "喬伊彎航運與商業衝擊指南：馬里亞納、小笠原到東日本沿線風險評估",
+      "dek": "Datasurfr發布的商業中斷指南，追蹤喬伊彎自馬里亞納群島至東日本沿線對物流與航運的潛在影響。",
+      "url": "https://datasurfr.ai/advisories/typhoon-choi-wan-2026-track-and-business-disruption-guide-for-the-mariana-islands-ogasawara-islands-and-eastern-japan/"
     },
     {
       "rank": 7,
-      "title": "天文台曾示警菲律賓以東系統可能增強並威脅香港烈風——後演變為喬伊彎颱風",
-      "dek": "香港《The Standard》報導，該系統命名前，天文台已示警其可能增強為熱帶氣旋並為香港帶來八號風球等級烈風，但該系統最終北轉遠離華南，演變為颱風喬伊彎。",
-      "url": "https://www.thestandard.com.hk/news/article/312926/HKO-warns-of-gale-force-winds-by-Sun-amid-hot-Mid-Autumn-lead-up"
+      "title": "熱帶風暴27號喬伊彎在馬里亞納群島北側生成 預測增強並轉向小笠原",
+      "dek": "Weathernews報導喬伊彎的生成始末，指其以35節風速於馬里亞納群島以北形成，隨後快速增強。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴諾洛在中太平洋遠海消散，未曾威脅陸地",
-      "dek": "美國國家海洋暨大氣總署（NOAA）中太平洋颶風中心資料顯示，熱帶風暴諾洛九月下旬於夏威夷以南遠海形成並一度增強，隨後在開闊海域減弱消散，全程未威脅陸地。",
-      "url": "https://www.nhc.noaa.gov/archive/2026/NOLO.shtml"
+      "title": "大型強颱27號喬伊彎以非常強勢力朝小笠原群島方向推進",
+      "dek": "日本Weathernews日文報導指出，喬伊彎體型龐大且強度持續增強，逼近小笠原群島周邊海域。",
+      "url": "https://weathernews.jp/news/202610/030051/"
     },
     {
       "rank": 9,
-      "title": "二零二六年太平洋颱風季異常活躍，連續十個月皆有颱風形成",
-      "dek": "Weathernews指出，本季西太平洋預計將生成約二十八個命名風暴，遠高於歷史平均，且自一月以來每月均有颱風形成，此現象自一九五一年以來僅在一九六五年與二零一五年出現過。",
-      "url": "https://weathernews.jp/news/202606/020081/"
+      "title": "颱風27號喬伊彎接近馬里亞納群島 塞班國際機場籲防強風強雨",
+      "dek": "日本Weathernews報導，喬伊彎逼近馬里亞納群島之際，提醒塞班國際機場留意強風與降雨干擾。",
+      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
     },
     {
       "rank": 10,
-      "title": "颱風梅梅（國際名Kujira）登陸菲律賓伊洛戈斯蘇省，重創呂宋島北部",
-      "dek": "菲律賓DZRH與PAGASA報導，熱帶風暴梅梅以每小時約六十五公里風速、陣風達一百一十公里登陸伊洛戈斯蘇省馬辛加，呂宋島多地發布風力警戒，該系統現已減弱消散，僅供本季脈絡參考。",
-      "url": "https://www.dzrh.com.ph/post/tropical-storm-maymay-makes-landfall-in-ilocos-sur-pagasa"
+      "title": "2026年太平洋颱風季綜覽：強颱頻發的一年",
+      "dek": "維基百科條目指出，受厄爾尼諾現象影響，2026年西太平洋颱風季呈現偏多活躍態勢，喬伊彎與諾羅為最新命名系統。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
