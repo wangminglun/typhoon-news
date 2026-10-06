@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T23:33:00+08:00",
+  "generated_at": "2026-10-07T00:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。第27號颱風「彩雲」持續偏東朝日本太平洋沿岸移動，對台灣無直接威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。西太平洋颱風彩雲持續北轉朝日本方向移動，對台灣無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。彩雲颱風持續遠離台灣，朝日本方向移動，台中地區風雨皆未受影響。"
+    "text": "目前並無任何活動中的熱帶氣旋直接影響台中；中央氣象署未對台中或台灣任何地區發布海上或陸上颱風警報，台中地區目前沒有因颱風導致的風雨或停班停課情形。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "彩雲颱風轉向日本外海北上 台灣本島暫無颱風威脅",
-    "dek": "氣象機構監測顯示，今年第27號颱風彩雲持續遠離台灣、朝日本太平洋沿岸移動，中央氣象署目前未對台灣發布任何海上或陸上颱風警報。",
-    "url": "https://weathernews.jp/news/202610/010261/"
+    "title": "颱風彩雲北轉趨日本，台灣今無颱風警報",
+    "dek": "中央氣象署未對台灣發布海上或陸上颱風警報，西太平洋颱風彩雲已達巔峰並轉向日本沿岸減弱。",
+    "url": "https://zoom.earth/storms/26w-2026/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風在馬里亞納群島海域生成 為今年第27個命名風暴",
-      "dek": "氣象新聞網報導，彩雲於10月1日凌晨增強為輕度颱風，預測將先西行再轉北，今年西北太平洋颱風季活躍程度已超出平均值。",
-      "url": "https://weathernews.jp/news/202610/010021/"
-    },
-    {
-      "rank": 2,
-      "title": "彩雲增強為大型強颱 北轉朝小笠原群島逼近",
-      "dek": "報導指出，彩雲至10月3日已發展為大型強颱，以時速約15公里向北移動，預測將進一步增強為「非常強」等級並接近小笠原群島。",
-      "url": "https://weathernews.jp/news/202610/030051/"
-    },
-    {
-      "rank": 3,
-      "title": "預測顯示彩雲5、6日逼近小笠原群島 日本關東地區將受外圍影響",
-      "dek": "氣象新聞網預測彩雲將以接近巔峰強度（中心氣壓約950百帕、風速約每小時150公里）通過小笠原群島東側海域，並於6日至7日為關東地區帶來外圍雨帶及強風。",
-      "url": "https://weathernews.jp/news/202610/010261/"
-    },
-    {
-      "rank": 4,
-      "title": "美國國家氣象局關島台對彩雲發布熱帶風暴警報",
-      "dek": "據報導，彩雲發展初期掠過馬里亞納群島時，美國國家氣象局關島台一度發布熱帶風暴警報。",
-      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-3-33am-chst-by-nws-tiyan-gu"
-    },
-    {
-      "rank": 5,
-      "title": "颱風蘇力佳掠過伊豆群島 預測約10月3日完成溫壓轉換",
-      "dek": "報導指出，蘇力佳颱風在9月底掠過沖繩後，於10月1日接近伊豆群島，預測加速朝東北方向移動，並未在台灣、沖繩或日本本土登陸。",
-      "url": "https://weathernews.jp/news/202610/010121/"
-    },
-    {
-      "rank": 6,
-      "title": "熱帶低氣壓25W在菲律賓以東生成 後發展為颱風蘇力佳",
-      "dek": "美軍太平洋風暴追蹤系統Stars and Stripes於9月23日記錄該系統生成，之後北轉朝沖繩及日本方向移動。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),"
-    },
-    {
-      "rank": 7,
-      "title": "即時追蹤系統確認彩雲颱風路徑持續偏東、遠離台灣",
-      "dek": "Zoom Earth即時風暴追蹤頁面顯示，彩雲（國際編號26W）持續在日本以東海域活動。",
+      "title": "彩雲颱風即時路徑追蹤：於馬里亞納群島北側轉向",
+      "dek": "追蹤網站Zoom.earth顯示，颱風彩雲（26W）沿副熱帶高壓邊緣移動後趨於停滯並轉向極地，風場範圍持續擴大。",
       "url": "https://zoom.earth/storms/26w-2026/"
     },
     {
+      "rank": 2,
+      "title": "彩雲逼近馬里亞納群島，關島與北馬里亞納發布熱帶風暴警報",
+      "dek": "美國國家氣象局關島提安站10月3日公告，提尼安島、塞班島發布熱帶風暴警報，阿拉馬甘、阿古伊甘與帕崗發布颱風警報，當地並同時發布洪水警戒。",
+      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-8-26am-chst-by-nws-tiyan-gu"
+    },
+    {
+      "rank": 3,
+      "title": "NASA地球觀測系統確認熱帶風暴彩雲為活躍天然事件",
+      "dek": "根據NASA EONET系統10月1日的紀錄，衛星觀測獨立確認彩雲在馬里亞納群島附近持續活躍。",
+      "url": "https://defconlevel.com/alert/2026-10-01-nasa-eonet-events-tropical-storm-choi-wan"
+    },
+    {
+      "rank": 4,
+      "title": "Weathernews技術公告：彩雲快速增強，預測轉向小笠原群島",
+      "dek": "日本氣象新聞機構Weathernews指出，彩雲在馬里亞納群島以北快速發展，預測將持續增強並轉向小笠原群島方向。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+    },
+    {
+      "rank": 5,
+      "title": "Weathernews SEA更新彩雲預測路徑與強度資訊",
+      "dek": "Weathernews SEA資料顯示，彩雲預計於10月上中旬向北橫越菲律賓海，朝小笠原群島海域轉向。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
+    },
+    {
+      "rank": 6,
+      "title": "日本「數位颱風」資料庫建檔追蹤彩雲（TC2615）",
+      "dek": "日本國立情報學研究所的數位颱風資料庫以編號TC2615，收錄彩雲的位置、強度與衛星影像，納入2026年西太平洋颱風季檔案。",
+      "url": "https://agora.ex.nii.ac.jp/digital-typhoon/news/2026/TC2615/"
+    },
+    {
+      "rank": 7,
+      "title": "StormAtlasX即時地圖追蹤彩雲北移動向",
+      "dek": "StormAtlasX的即時追蹤頁面持續更新彩雲2026年的路徑、位置、預測圈與強度變化，顯示系統持續北移朝日本方向前進。",
+      "url": "https://stormatlasx.com/storms/choi-wan-2026"
+    },
+    {
       "rank": 8,
-      "title": "大西洋颶風季達氣候高峰期 卻異常平靜未出現颶風",
-      "dek": "報導指出，截至9月10日的氣候高峰期，大西洋颶風季仍未出現任何颶風，為近年罕見的遲緩起步。",
-      "url": "https://www.cfpublic.org/2026-09-10/atlantic-basin-hurricane-season-reaches-climatological-peak"
+      "title": "維基百科：2026年太平洋颱風季活動高於正常，彩雲為最新系統",
+      "dek": "維基百科資料顯示，本季已生成約26個命名風暴、9個颱風與4個超級強颱，造成逾百億美元損失與300多人死亡；彩雲為最新在馬里亞納群島以北形成並預測轉向日本的系統。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 9,
-      "title": "大西洋已有八個命名風暴卻無一達颶風強度 創衛星時代最晚紀錄",
-      "dek": "WeatherBug報導，截至10月2日大西洋僅剩熱帶風暴羅倫佐活躍，撒哈拉沙塵與風切作用持續抑制風暴增強。",
-      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
+      "title": "2026太平洋颱風季指南：PAGASA預估10月僅增1至2個熱帶氣旋",
+      "dek": "旅遊媒體Wego整理的颱風季指南指出，菲律賓大氣地球物理和天文服務署預期10月僅有1至2個熱帶氣旋形成或進入責任海域，東北季風與厄爾尼諾現象抑制了活動。",
+      "url": "https://blog.wego.com/pacific-typhoon-season/"
     },
     {
       "rank": 10,
-      "title": "展望報告預估西北太平洋颱風季將較往年活躍四至六成",
-      "dek": "氣象新聞網東南亞版報導，受強烈厄爾尼諾現象影響，今年颱風季活動量預估較歷史均值高出40%至60%，全年恐生成約20個颱風、其中13個為強烈颱風。",
-      "url": "https://sea.weathernews.com/resources/202609/232"
+      "title": "中央氣象署最近一筆颱風警報紀錄：颱風沙德爾（已失效）",
+      "dek": "國家災害防救科技中心示警平台保存的中央氣象署公告顯示，台灣最近一次颱風警報是今年8月27日針對颱風沙德爾發布，此後未有新警報。",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
     }
   ]
 }
