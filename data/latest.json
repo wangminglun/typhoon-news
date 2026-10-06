@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T15:17:00+08:00",
+  "generated_at": "2026-10-06T16:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據多方搜尋結果及颱風彩雲路徑研判，中央氣象署目前並未發布海上或陸上颱風警報；惟氣象署官網即時頁面於查證時無法直接存取，此判斷係根據公開資訊彙整所得，請讀者仍以官方公告為準。",
+  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報；受東北季風影響，北部及東北部地區有大雨特報，中西部與南部地區（含台中）則發布陸上強風特報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中市截至目前未受任何現行風暴系統影響，市府尚無發布停班停課訊息；上次因颱風停班停課為今年7月巴威颱風來襲期間。"
+    "text": "台中目前無任何颱風直接影響，僅因東北季風發布陸上強風特報（10月6日上午至10月7日晚間，平均風力6級以上、陣風8級以上），屬季節性例行天氣系統，無停班停課疑慮。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風彩雲北轉逼近日本 台灣暫無威脅",
-    "dek": "今年第27號颱風彩雲持續增強並轉向日本小笠原群島海域，氣象署目前未發布台灣海陸颱風警報，台中亦無停班停課之虞。",
+    "title": "全球僅存颱風「彩雲」北翹遠離台灣 東北季風才是這週焦點",
+    "dek": "今年第27號颱風彩雲以「非常強」等級逼近日本小笠原群島，但路徑持續北轉東行，對台灣未構成威脅，中央氣象署目前僅因東北季風發布大雨與強風特報。",
     "url": "https://weathernews.jp/news/202610/030051/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲在馬里亞納群島附近生成 預測北轉增強",
-      "dek": "熱帶低氣壓10月1日增強為今年第27號颱風彩雲，氣象機構預期其將轉向北方並持續增強。",
-      "url": "https://weathernews.jp/news/202610/010021/"
-    },
-    {
-      "rank": 2,
-      "title": "彩雲估將增強至「非常強」等級 逼近小笠原群島",
-      "dek": "日本氣象媒體預測彩雲最大風速將於10月4日前後達每秒45公尺，並於10月5至6日接近小笠原群島海域。",
-      "url": "https://weathernews.jp/news/202610/020081/"
-    },
-    {
-      "rank": 3,
-      "title": "體型龐大的彩雲持續北上 小笠原群島周邊海象轉劇",
-      "dek": "報導指出，彩雲範圍廣且強度強勁，即便未直接經過某地，仍可能帶來風雨與海象惡化。",
+      "title": "大型強烈颱風彩雲以非常強勢力逼近日本小笠原群島",
+      "dek": "Weathernews報導，彩雲持續朝小笠原群島方向北上，預測將快速增強為非常強颱風等級。",
       "url": "https://weathernews.jp/news/202610/030051/"
     },
     {
+      "rank": 2,
+      "title": "第27號颱風彩雲生成 後續北上路徑待觀察",
+      "dek": "Weathernews報導彩雲在馬里亞納群島附近生成，未來發展及轉向路徑仍需持續關注。",
+      "url": "https://weathernews.jp/news/202610/010021/"
+    },
+    {
+      "rank": 3,
+      "title": "彩雲預測急速增強為非常強 小笠原群島發布惡劣天候警戒",
+      "dek": "Weathernews報導，彩雲最大風速預估於10月4日前增至每秒45公尺，小笠原群島需防強風豪雨及長浪。",
+      "url": "https://weathernews.jp/news/202610/020181/"
+    },
+    {
       "rank": 4,
-      "title": "彩雲逼近馬里亞納群島 塞班國際機場發布強風豪雨示警",
-      "dek": "氣象科技媒體針對彩雲接近期間，示警塞班國際機場可能受強風豪雨影響飛航作業。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
+      "title": "彩雲逼近馬里亞納群島 塞班國際機場籲防強風豪雨",
+      "dek": "Weathernews旗下wxtech報導，彩雲接近馬里亞納群島，塞班國際機場營運恐受強風降雨干擾。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
     },
     {
       "rank": 5,
-      "title": "外媒引JTWC預測資料：彩雲估10月4至5日達最大強度",
-      "dek": "綜合報導引述聯合颱風警報中心預測資料，指彩雲可能於10月4、5日達約每小時150公里的最大強度後持續北轉。",
-      "url": "https://jayhobgood.com/?p=12221"
+      "title": "菲律賓氣象署官方頁面持續追蹤彩雲動態",
+      "dek": "PAGASA的SEACM路徑追蹤系統將彩雲列為監測對象，惟研判其路徑偏東，不致侵襲菲律賓陸地。",
+      "url": "https://seacm.pagasa.dost.gov.ph/tracks/2103_CHOI-WAN"
     },
     {
       "rank": 6,
-      "title": "颱風蘇利蓋生成 伴隨強風圈經過沖繩以南海域",
-      "dek": "今年第26號颱風蘇利蓋於9月23日形成，在彩雲發展前約一週經過沖繩南方海域。",
-      "url": "https://weathernews.jp/news/202609/230221/"
+      "title": "南韓媒體關注第27號颱風彩雲是否影響朝鮮半島",
+      "dek": "Wikitree報導指出，由於彩雲路徑偏向日本外海，對韓國造成直接衝擊的可能性不高。",
+      "url": "https://www.wikitree.co.kr/articles/1163095"
     },
     {
       "rank": 7,
-      "title": "蘇利蓋接近沖繩 那霸機場發布側風示警",
-      "dek": "隨蘇利蓋逼近沖繩，氣象科技媒體針對那霸機場發布側風影響飛航的例行示警。",
-      "url": "https://wxtech.weathernews.com/news/sky20260925-02/"
+      "title": "10月首日再添颱風 彩雲生成牽動南韓關注",
+      "dek": "Wikitree追蹤報導彩雲生成過程，並持續評估其對韓國沿海的潛在影響。",
+      "url": "https://www.wikitree.co.kr/articles/1163168"
     },
     {
       "rank": 8,
-      "title": "美國關島氣象分台發布熱帶風暴警報 因應彩雲前期影響",
-      "dek": "氣象警報彙整網站轉述，美國國家氣象局關島分台（NWS Tiyan）10月3日清晨對當地發布熱帶風暴警報。",
-      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-4-01am-chst-by-nws-tiyan-gu"
+      "title": "即時路徑追蹤平台持續更新彩雲最新預測",
+      "dek": "StormAtlasX即時追蹤頁面顯示彩雲位置、強度及未來路徑預測，與其他機構資料相符。",
+      "url": "https://stormatlasx.com/ja/storms/choi-wan-2026"
     },
     {
       "rank": 9,
-      "title": "菲律賓氣象局觀察呂宋島以東低壓區 評估是否發展為熱帶性低氣壓",
-      "dek": "菲律賓氣象局PAGASA持續關注呂宋島以東一處低壓區，研判數日內是否增強，目前尚未形成，也未對台灣構成威脅。",
-      "url": "https://mb.com.ph/tag/-maring?page=5"
+      "title": "衛星即時影像顯示彩雲持續北上轉向",
+      "dek": "Zoom.Earth互動式衛星與路徑頁面顯示，彩雲自塞班島東北方海面持續北上，預期轉向遠離台灣與菲律賓。",
+      "url": "https://zoom.earth/storms/26w-2026/"
     },
     {
       "rank": 10,
-      "title": "大西洋颶風季維持平靜 NOAA偏弱預測大致應驗",
-      "dek": "美國國家海洋暨大氣總署今年預測大西洋颶風季因厄爾尼諾偏弱，目前觀察顯示該預測大致應驗，尚無活躍命名風暴。",
-      "url": "https://abc6onyourside.com/news/nation-world/noaa-releases-2026-hurricane-season-outlook-8-14-named-storms-3-6-hurricanes-1-3-major-hurricanes-national-hurricane-center-florida-tropics-storms-"
+      "title": "無颱風直接威脅 台灣本週天氣主要受東北季風影響",
+      "dek": "中央氣象署目前未發布任何颱風警報，基隆、新北、宜蘭有大雨特報，中西部及南部（含台中）則發布陸上強風特報，皆屬季節性東北季風系統，與颱風無關。",
+      "url": "https://www.cwa.gov.tw/V8/C/W/index.html"
     }
   ]
 }
