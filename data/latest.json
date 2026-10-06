@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T16:13:00+08:00",
+  "generated_at": "2026-10-06T17:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報；受東北季風影響，北部及東北部地區有大雨特報，中西部與南部地區（含台中）則發布陸上強風特報。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；全球各大洋盆地（西北太平洋、大西洋、東太平洋、印度洋）均無活躍的具名熱帶氣旋。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無任何颱風直接影響，僅因東北季風發布陸上強風特報（10月6日上午至10月7日晚間，平均風力6級以上、陣風8級以上），屬季節性例行天氣系統，無停班停課疑慮。"
+    "text": "台中目前無任何颱風直接影響，目前無相關天氣特報或停班停課訊息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "全球僅存颱風「彩雲」北翹遠離台灣 東北季風才是這週焦點",
-    "dek": "今年第27號颱風彩雲以「非常強」等級逼近日本小笠原群島，但路徑持續北轉東行，對台灣未構成威脅，中央氣象署目前僅因東北季風發布大雨與強風特報。",
-    "url": "https://weathernews.jp/news/202610/030051/"
+    "title": "全球目前無活躍颱風　「舒力基」轉性外帶出平靜10月",
+    "dek": "今年第26號颱風舒力基(菲律賓名Queenie)已於10月3日轉化為溫帶氣旋，中央氣象署未發布任何海上或陸上颱風警報，台中地區目前不受影響。",
+    "url": "https://stormatlasx.com/storms/surigae-2026"
   },
   "items": [
     {
       "rank": 1,
-      "title": "大型強烈颱風彩雲以非常強勢力逼近日本小笠原群島",
-      "dek": "Weathernews報導，彩雲持續朝小笠原群島方向北上，預測將快速增強為非常強颱風等級。",
-      "url": "https://weathernews.jp/news/202610/030051/"
+      "title": "StormAtlasX即時追蹤：今年第26號颱風舒力基生成經過",
+      "dek": "追蹤頁面記錄舒力基自形成以來的位置、強度與預測路徑，呈現其北北東移動穿越菲律賓海的過程。",
+      "url": "https://stormatlasx.com/storms/surigae-2026"
     },
     {
       "rank": 2,
-      "title": "第27號颱風彩雲生成 後續北上路徑待觀察",
-      "dek": "Weathernews報導彩雲在馬里亞納群島附近生成，未來發展及轉向路徑仍需持續關注。",
-      "url": "https://weathernews.jp/news/202610/010021/"
+      "title": "天氣新聞：舒力基西北行經菲律賓海，預測將增強為颱風",
+      "dek": "報導指出舒力基9月下旬於南西諸島以南海域持續西北移動，氣象機構預期其強度將穩定增強。",
+      "url": "https://sea.weathernews.com/resources/202609/254"
     },
     {
       "rank": 3,
-      "title": "彩雲預測急速增強為非常強 小笠原群島發布惡劣天候警戒",
-      "dek": "Weathernews報導，彩雲最大風速預估於10月4日前增至每秒45公尺，小笠原群島需防強風豪雨及長浪。",
-      "url": "https://weathernews.jp/news/202610/020181/"
+      "title": "舒力基增強為「非常強」颱風，大東群島北方掀7公尺浪",
+      "dek": "9月28日舒力基中心氣壓降至955百帕，最大風速每小時165公里，預測將掠過伊豆群島後於10月3日轉為溫帶氣旋。",
+      "url": "https://sea.weathernews.com/resources/202609/257"
     },
     {
       "rank": 4,
-      "title": "彩雲逼近馬里亞納群島 塞班國際機場籲防強風豪雨",
-      "dek": "Weathernews旗下wxtech報導，彩雲接近馬里亞納群島，塞班國際機場營運恐受強風降雨干擾。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "舒力基逼近沖繩，那霸機場側風風險引發航空警示",
+      "dek": "天氣新聞航空氣象單位警示，舒力基最接近沖繩時距離約101公里，可能影響那霸機場起降作業。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20260925-02/"
     },
     {
       "rank": 5,
-      "title": "菲律賓氣象署官方頁面持續追蹤彩雲動態",
-      "dek": "PAGASA的SEACM路徑追蹤系統將彩雲列為監測對象，惟研判其路徑偏東，不致侵襲菲律賓陸地。",
-      "url": "https://seacm.pagasa.dost.gov.ph/tracks/2103_CHOI-WAN"
+      "title": "美軍太平洋戰區報告：熱帶低氣壓25W（即舒力基前身）",
+      "dek": "《星條旗報》風暴追蹤專欄於舒力基仍為熱帶低氣壓階段時發布快報，提醒駐日美軍與沖繩當地注意後續發展。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),-"
     },
     {
       "rank": 6,
-      "title": "南韓媒體關注第27號颱風彩雲是否影響朝鮮半島",
-      "dek": "Wikitree報導指出，由於彩雲路徑偏向日本外海，對韓國造成直接衝擊的可能性不高。",
-      "url": "https://www.wikitree.co.kr/articles/1163095"
+      "title": "Queenie進入菲律賓責任海域，PAGASA預測周日前增強為颱風",
+      "dek": "菲律賓《每日論壇報》報導，該熱帶氣旋進入責任海域時距呂宋島東方約1,310公里，風速每小時75公里。",
+      "url": "https://tribune.net.ph/2026/09/24/queenieph-enters-par-may-become-typhoon-by-sunday"
     },
     {
       "rank": 7,
-      "title": "10月首日再添颱風 彩雲生成牽動南韓關注",
-      "dek": "Wikitree追蹤報導彩雲生成過程，並持續評估其對韓國沿海的潛在影響。",
-      "url": "https://www.wikitree.co.kr/articles/1163168"
+      "title": "GMA新聞：熱帶風暴進入責任海域，獲命名Queenie",
+      "dek": "報導引述PAGASA預測，Queenie將於9月27日左右離開責任海域，對菲律賓本土無直接登陸威脅。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1003505/tropical-storm-enters-par-now-called-queenie/story/"
     },
     {
       "rank": 8,
-      "title": "即時路徑追蹤平台持續更新彩雲最新預測",
-      "dek": "StormAtlasX即時追蹤頁面顯示彩雲位置、強度及未來路徑預測，與其他機構資料相符。",
-      "url": "https://stormatlasx.com/ja/storms/choi-wan-2026"
+      "title": "儘管Queenie生成，菲律賓多地天氣仍晴朗",
+      "dek": "《每日論壇報》指出，雖然Queenie已進入責任海域，菲律賓本土多數地區維持晴朗天氣，主要威脅方向指向日本與沖繩。",
+      "url": "https://tribune.net.ph/2026/09/24/clear-skies-despite-queenie"
     },
     {
       "rank": 9,
-      "title": "衛星即時影像顯示彩雲持續北上轉向",
-      "dek": "Zoom.Earth互動式衛星與路徑頁面顯示，彩雲自塞班島東北方海面持續北上，預期轉向遠離台灣與菲律賓。",
-      "url": "https://zoom.earth/storms/26w-2026/"
+      "title": "Zoom Earth衛星圖集：舒力基完整路徑與溫帶轉性過程",
+      "dek": "衛星追蹤頁面完整呈現舒力基自生成至10月初在日本本州南方完成溫帶轉性的全程軌跡。",
+      "url": "https://zoom.earth/storms/surigae-2026/"
     },
     {
       "rank": 10,
-      "title": "無颱風直接威脅 台灣本週天氣主要受東北季風影響",
-      "dek": "中央氣象署目前未發布任何颱風警報，基隆、新北、宜蘭有大雨特報，中西部及南部（含台中）則發布陸上強風特報，皆屬季節性東北季風系統，與颱風無關。",
-      "url": "https://www.cwa.gov.tw/V8/C/W/index.html"
+      "title": "Storm2K論壇：日本氣象廳確認舒力基已轉為「後熱帶」系統",
+      "dek": "論壇引述日本氣象廳與美國聯合颱風警報中心資料，確認舒力基已於本州南方海域結束熱帶氣旋分類，約在10月3日完成轉性。",
+      "url": "https://www.storm2k.org/phpbb2/viewtopic.php?p=2901592"
     }
   ]
 }
