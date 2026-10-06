@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T11:11:00+08:00",
+  "generated_at": "2026-10-06T12:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未針對任何颱風系統發布海上或陸上颱風警報；台灣10月6日的大雨與強風特報皆屬東北季風相關的季節性示警，非颱風警報。",
+  "alert_desc": "中央氣象署目前並未針對任何颱風系統發布海上或陸上颱風警報。西太平洋現有三個颱風同時活動，但依預測路徑均未直接威脅台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中市未受任何颱風系統影響，僅因東北季風增強被納入中央氣象署陸上強風特報（黃色燈級）範圍，並無停班停課措施。"
+    "text": "目前無直接影響。三個現行颱風（彩雲、諾洛、小熊）路徑皆未接近台灣，無海上/陸上警報，台中無風雨警戒，無停班停課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "彩雲颱風北轉遠台 太平洋罕見三颱共舞",
-    "dek": "彩雲颱風增強為超級颱風後轉向日本小笠原群島，台灣本島目前無颱風威脅，天氣主要受東北季風增強影響。",
-    "url": "https://sea.weathernews.com/resources/202610/260"
+    "title": "西太平洋三颱共舞 台灣未受直接威脅",
+    "dek": "彩雲、諾洛、小熊同時成形，氣象機構示警另有第四個熱帶系統正在觀察中。",
+    "url": "https://www.ettoday.net/news/20261005/3249135.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "第27號風暴「彩雲」生成 預測北轉增強為颱風",
-      "dek": "根據Weathernews報導，熱帶風暴彩雲在馬里亞納群島以北海域生成，預測將增強為颱風並轉向日本小笠原群島，對台灣及菲律賓無直接威脅。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "關島附近生成颱風小熊 西太平洋第三個颱風報到",
+      "dek": "氣象機構路徑預測顯示，新生颱風小熊將朝西北移動，預期遠離台灣。",
+      "url": "https://www.ettoday.net/news/20261005/3249135.htm"
     },
     {
       "rank": 2,
-      "title": "彩雲增強為超級颱風 菲律賓氣象署持續監測",
-      "dek": "根據Cebu Daily News報導，彩雲已於10月4日增強為超級颱風，風速達每小時185公里，雖未進入菲律賓責任區，仍受PAGASA密切觀察。",
-      "url": "https://cebudailynews.inquirer.net/772245/choi-wan-now-a-super-typhoon"
+      "title": "颶風諾洛跨越換日線變身颱風 西太平洋再現三颱共舞",
+      "dek": "諾洛重新歸類為颱風並與小熊幾乎同時生成，另有一處擾動正受關注，恐於國慶前後成形。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5595677"
     },
     {
       "rank": 3,
-      "title": "太平洋颶風諾羅跨越換日線 更名為颱風",
-      "dek": "根據華盛頓時報報導，原太平洋颶風諾羅跨越國際換日線後重新命名為今年第28號颱風，目前於開闊海域活動，未威脅陸地。",
-      "url": "https://washingtontimes.com/news/2026/oct/4/nolo-becomes-typhoon-pacific-hurricane-crosses-international-dateline"
+      "title": "諾洛、小熊接連生成 三颱並存但均不直接影響台灣",
+      "dek": "報導證實彩雲、諾洛與小熊三個系統目前路徑皆未對台灣構成直接威脅。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%AB%BE%E6%B4%9B%E3%80%81%E5%B0%8F%E7%86%8A%E7%94%9F%E6%88%90-%E5%8A%A0%E4%B8%8A%E5%BD%A9%E9%9B%B2-%E5%A4%AA%E5%B9%B3%E6%B4%8B3%E9%A2%B1%E5%85%B1%E5%AD%98%E5%B0%8D%E5%8F%B0%E7%81%A3%E7%84%A1%E7%9B%B4%E6%8E%A5%E5%BD%B1%E9%9F%BF-023851847.html"
     },
     {
       "rank": 4,
-      "title": "日本氣象廳示警 彩雲可能帶來大浪侵襲小笠原",
-      "dek": "根據《中央社》報導，日本氣象廳警告「非常強」颱風彩雲可能接近小笠原群島，並可能引發最高8公尺大浪。",
-      "url": "https://www.cna.com.tw/news/aopl/202610030182.aspx"
+      "title": "諾洛、小熊相繼生成 三颱共存對台灣影響程度曝光",
+      "dek": "報導指出三個颱風均不致直接影響台灣，但外圍水氣效應仍在監測中。",
+      "url": "https://www.chinatimes.com/realtimenews/20261005001400-260405"
     },
     {
       "rank": 5,
-      "title": "彩雲生成挑戰強颱等級 氣象署：路徑遠離台灣",
-      "dek": "根據EBC報導，彩雲生成之初即被評估有機會達到強颱等級，但中央氣象署當時已指出其路徑將偏離台灣。",
-      "url": "https://news.ebc.net.tw/news/living/573629"
+      "title": "三颱共存之際 第四個可能颱風「薔琵」受關注",
+      "dek": "氣象人員正觀察菲律賓海域一處擾動，是否於國慶前後發展成另一颱風，名稱與路徑均待確認。",
+      "url": "https://udn.com/news/story/7266/9794963"
     },
     {
       "rank": 6,
-      "title": "彩雲旁現小跟班低壓 前氣象署長解析成因",
-      "dek": "根據UDN報導，前中央氣象署局長鄭明典分析彩雲旁伴隨的小型低壓系統，與冷高壓及北風交互作用有關，屬氣象型態觀察而非對台威脅。",
-      "url": "https://udn.com/news/story/7266/9797054"
+      "title": "小熊生成「三颱共舞」持續 國慶連假天氣展望公布",
+      "dek": "報導指出小熊路徑遠離台灣，國慶連假天氣雖不穩定但暫無明顯危害。",
+      "url": "https://news.nextapple.com/life/20261005/BA6F00DA94E96662E13FE5A5FAB7C6F9"
     },
     {
       "rank": 7,
-      "title": "彩雲估達強颱等級 氣象署指路徑朝日本偏移",
-      "dek": "根據SETN報導，彩雲生成後估計有機會達強烈颱風強度，中央氣象署指出其路徑將朝馬里亞納群島與日本方向移動，遠離台灣。",
-      "url": "https://www.setn.com/news/1915005"
+      "title": "「兩個大洋的故事」大西洋颶風季逼近高峰卻零颶風 打破百年紀錄",
+      "dek": "強勢厄爾尼諾現象造成的風切效應，使大西洋今年遲遲未出現颶風等級風暴，創下自一九一四年以來同期新低。",
+      "url": "https://www.wsmv.com/2026/09/23/where-are-hurricanes-atlantic-just-broke-century-old-record/"
     },
     {
       "rank": 8,
-      "title": "赴日旅客留意 彩雲將為小笠原群島帶來強風大浪",
-      "dek": "根據點新聞報導，前往日本的旅客應留意颱風彩雲將為小笠原群島帶來強風與大浪的天氣提醒。",
-      "url": "https://dotdotnews.com/a/202610/04/AP6ac2030ee4b02724bdb662ad.html"
+      "title": "2026大西洋颶風季「創下歷史」卻是反方向紀錄",
+      "dek": "截至九月十一日，大西洋已生成五個熱帶風暴但無一達颶風強度，創下衛星觀測時代紀錄。",
+      "url": "https://www.wsmv.com/2026/09/11/2026-atlantic-hurricane-season-could-make-history-just-not-way-youd-think/"
     },
     {
       "rank": 9,
-      "title": "東北季風夾擊降溫 太平洋罕現三颱並存",
-      "dek": "根據ulifestyle.com.hk報導，太平洋罕見出現三個颱風系統同時存在，恰逢東北季風帶來降溫，但皆未預測直接影響香港或台灣。",
-      "url": "https://hk.ulifestyle.com.hk/topic/detail/20112495/東北季候風-降溫23度-三颱共存-香港天氣-轉涼預測"
+      "title": "颶風洛威爾增強為三級 跨入中太平洋逼近夏威夷海域",
+      "dek": "洛威爾曾以三級颶風強度掠過夏威夷西北群島保護區後逐漸減弱消散，目前已不再活躍。",
+      "url": "https://www.hawaiitribune-herald.com/?p=376345"
     },
     {
       "rank": 10,
-      "title": "氣象署證實彩雲生成 明確表示對台無直接影響",
-      "dek": "根據壹蘋新聞網報導，中央氣象署確認輕颱彩雲在關島東北方生成，預測路徑將先向西後轉北，並明確表示對台灣無直接影響。",
-      "url": "https://news.nextapple.com/life/20261001/903230E8B8A1A66BAF234AEB91A99E93"
+      "title": "2026年颱風季展望 厄爾尼諾增強推升西太平洋活躍度",
+      "dek": "氣象機構預測報告顯示，西太平洋今年颱風活動明顯高於歷史平均，與大西洋的沉寂形成對比。",
+      "url": "https://sea.weathernews.com/resources/202609/232"
     }
   ]
 }
