@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T20:14:00+08:00",
+  "generated_at": "2026-10-06T21:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，因現存颱風彩雲路徑遠離台灣，且前一個系統圓規已轉化為溫帶氣旋。",
+  "alert_desc": "中央氣象署目前未針對台灣發布任何海上或陸上颱風警報，因第27號颱風「獅子座」路徑遠離台灣，正朝日本小笠原群島移動。",
   "region_watch": {
     "region": "台中",
-    "text": "由於颱風彩雲及已轉化為溫帶氣旋的圓規路徑均遠離台灣本島，目前對台中地區無直接影響，當地亦未有停班停課相關公告。"
+    "text": "目前無直接影響，獅子座環流中心位於日本小笠原群島附近，距台中及台灣本島甚遠，無相關風雨威脅。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "第27號颱風彩雲增強北轉 直撲小笠原群島海域",
-    "dek": "根據日本氣象新聞網站Weathernews報導，颱風彩雲已增強為「非常強」等級，預計於24至36小時內轉化為強烈溫帶氣旋，為日本關東地區帶來風雨，台灣沿海目前未受影響。",
-    "url": "https://sea.weathernews.com/resources/202610/260"
+    "title": "颱風「獅子座」北轉趨日本小笠原群島，台灣暫無警戒",
+    "dek": "西北太平洋今年第27號颱風「獅子座」持續增強並北上接近日本小笠原群島，氣象機構表示其路徑遠離台灣，中央氣象署目前未發布任何颱風警報。",
+    "url": "https://weathernews.jp/news/202610/030051/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "第27號颱風彩雲生成 馬里亞納群島北側醞釀增強",
-      "dek": "根據日本氣象新聞網站Weathernews報導，熱帶系統在馬里亞納群島附近發展為今年第27號颱風彩雲，預測將快速增強並轉向小笠原群島。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
-    },
-    {
-      "rank": 2,
-      "title": "颱風彩雲生成西移 中心氣壓998百帕持續增強",
-      "dek": "根據Weathernews.jp報導，第27號颱風彩雲以約14節速度向西移動，氣象機構示警其路徑將轉北並持續增強。",
+      "title": "馬里亞納群島北側生成第27號颱風「獅子座」，預測將快速增強",
+      "dek": "一熱帶低氣壓在馬里亞納群島附近發展為今年第27號颱風「獅子座」，成為10月首個颱風，氣象機構預測其將於緩慢北轉過程中持續增強。",
       "url": "https://weathernews.jp/news/202610/010021/"
     },
     {
+      "rank": 2,
+      "title": "獅子座接近馬里亞納群島，塞班機場示警強風強雨",
+      "dek": "獅子座逼近塞班島東北方海域，中心氣壓998百帕、持續風速35節，當地機場獲警告留意天候轉差。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+    },
+    {
       "rank": 3,
-      "title": "彩雲增強步調加快 預測4日前後達「非常強」等級",
-      "dek": "根據Weathernews.jp報導，颱風彩雲預計於10月4日前快速增強為「非常強」等級，並持續北上朝小笠原群島前進。",
+      "title": "獅子座預測增強為「非常強」颱風，路徑指向小笠原群島",
+      "dek": "最新預報顯示獅子座將緩慢北轉穿越菲律賓海，朝日本小笠原群島移動，但東西向路徑仍存在較大不確定性。",
       "url": "https://weathernews.jp/news/202610/020081/"
     },
     {
       "rank": 4,
-      "title": "強颱彩雲逼近小笠原群島 風雨及巨浪威脅加劇",
-      "dek": "根據Weathernews.jp報導，颱風彩雲已發展為大型強颱，預計10月5日至6日以猛烈強度接近小笠原群島，帶來強風與高浪。",
-      "url": "https://weathernews.jp/news/202610/030051/"
+      "title": "大型強颱獅子座快速增強，小笠原群島獲告知留意暴風天氣",
+      "dek": "獅子座預測將快速增強至「猛烈」強度，因暴風圈範圍廣大，小笠原群島已被提醒提防惡劣天候。",
+      "url": "https://weathernews.jp/news/202610/020181/"
     },
     {
       "rank": 5,
-      "title": "彩雲掠馬里亞納群島 塞班機場發布強風雨特報",
-      "dek": "根據Weathernews旗下航空氣象網站報導，颱風彩雲掠過馬里亞納群島期間，塞班國際機場發布強側風及降雨特報，影響航班起降。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "大型強颱獅子座以「非常強」強度朝小笠原群島前進",
+      "dek": "截至10月3日凌晨，獅子座已發展為大型強颱，中心氣壓970百帕、持續風速每秒35公尺，預計4、5日左右達到巔峰強度並經小笠原群島東側海域。",
+      "url": "https://weathernews.jp/news/202610/030051/"
     },
     {
       "rank": 6,
-      "title": "追蹤顯示彩雲轉向北北東 將轉化強烈溫帶氣旋",
-      "dek": "根據氣象追蹤網站Zoom Earth最新資料，截至10月5日彩雲位於硫黃島東北方約578公里海域，預計24至36小時內完成溫帶氣旋化。",
-      "url": "https://zoom.earth/storms/choi-wan-2026/"
+      "title": "2026年太平洋颱風季活躍度遠超常態，已釀逾百億美元損失",
+      "dek": "Tropical Storm Risk評估顯示，今年西北太平洋已生成逾26個風暴、9個颱風與4個超級颱風，活躍程度在強烈厄爾尼諾影響下較長期平均高出約四成。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 7,
-      "title": "AccuWeather列彩雲為「猛烈」等級西太平洋颱風",
-      "dek": "根據美國氣象網站AccuWeather即時追蹤頁面，颱風彩雲在掠過馬里亞納群島並北轉過程中已增強至「猛烈」等級。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/choi-wan-2026"
+      "title": "10月能否終結大西洋颶風乾旱？",
+      "dek": "大西洋今年已出現8個命名風暴，卻遲遲未有颶風生成，分析指出10月將是打破這波異常沉寂的最後關鍵時機。",
+      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
     },
     {
       "rank": 8,
-      "title": "Weather Underground追蹤彩雲達超級颱風強度",
-      "dek": "根據美國氣象網站Weather Underground追蹤頁面，颱風彩雲於10月4日至5日前後達到巔峰強度，相當於超級颱風等級。",
-      "url": "https://www.wunderground.com/hurricane/western-pacific/2026/super-typhoon-choi-wan"
+      "title": "大西洋颶風季可能打破121年紀錄",
+      "dek": "截至10月2日大西洋仍無颶風生成，逼近1905年創下的「首個颶風最晚出現」紀錄，NOAA歸因於厄爾尼諾現象並維持「低於正常」展望。",
+      "url": "https://www.accuweather.com/en/hurricane/a-121-year-old-atlantic-hurricane-record-could-be-broken-in-october/1940402"
     },
     {
       "rank": 9,
-      "title": "日本週間預報示警 彩雲逼近添風雨影響關東",
-      "dek": "根據Weathernews.jp週間天氣預報報導，颱風彩雲接近小笠原群島之際，日本部分地區下週初轉為多雲多雨，影響可能延伸至關東地區。",
-      "url": "https://weathernews.jp/news/202610/030031/"
+      "title": "PAGASA展望：10月至12月菲律賓責任海域可能再生3至6個熱帶氣旋",
+      "dek": "菲律賓氣象機構指出，隨東北季風過渡期展開及強烈厄爾尼諾持續影響，今年第四季仍有多個熱帶氣旋生成的高機率。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
     },
     {
       "rank": 10,
-      "title": "回顧颱風圓規轉化溫帶氣旋 台灣無警報背景脈絡",
-      "dek": "根據美國軍方媒體《星條旗報》報導，先前的颱風圓規掠過日本大東群島後加速北上，已於10月初完成溫帶氣旋化，為當前台灣無警報狀態提供背景脈絡。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-09-23/tropical-depression-25w-(surigae),-"
+      "title": "2026年太平洋颱風季展望：厄爾尼諾增強下活動偏多",
+      "dek": "截至8月中已有19個颱風在西北太平洋及南海生成，較氣候平均值多約5個，機構預測全年還將再有11至12個風暴形成。",
+      "url": "https://sea.weathernews.com/resources/202609/232"
     }
   ]
 }
