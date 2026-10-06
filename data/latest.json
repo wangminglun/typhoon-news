@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T03:15:00+08:00",
+  "generated_at": "2026-10-07T04:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未針對任何颱風發布海上或陸上颱風警報；台灣本週天氣主要受今年首波東北季風影響，北部、東部多雲有雨，中南部仍溫暖晴朗，與颱風無關。",
+  "alert_desc": "中央氣象署目前並未針對任何颱風發布海上或陸上颱風警報；台灣近日天氣主要受東北季風影響，北部、東部局部有雨，中南部仍晴朗溫暖，與颱風無關。颱風彩雲已北轉遠離台灣及菲律賓海域，持續減弱中。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。中央氣象署資料顯示，10月6日至9日台灣中南部天氣以多雲到晴為主，白天高溫約31°C，僅北部、東部因東北季風影響有局部雨，無停班停課消息。彩雲、諾洛、小熊三個系統目前皆在日本以東、以南遠洋活動，對台灣本島（包括台中）沒有風雨或停班停課影響。"
+    "text": "目前無颱風直接影響台中。中央氣象署評估颱風彩雲將沿太平洋高壓邊緣北轉，不會侵襲台灣本島；台中本週天氣主要受東北季風外圍影響，無停班停課消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋罕見三颱並存 皆不威脅台灣 本島轉受今秋首波東北季風影響",
-    "dek": "日本氣象當局指出，彩雲、諾洛與小熊三個熱帶系統同時出現在西太平洋，為近五年來首見的十月三颱同框，但三者路徑均遠離台灣，中央氣象署亦未對台灣發布任何海上或陸上颱風警報。",
-    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+    "title": "彩雲颱風北轉遠離 中央氣象署稱台灣目前無颱風威脅，天氣變化全由東北季風主導",
+    "dek": "中央氣象署指出，今年第27號颱風彩雲雖一度增強至颱風強度並逼近小笠原群島，但路徑持續北轉入海，對台灣不構成直接威脅，近日降雨主要來自東北季風。",
+    "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "三颱同時發威 日本列入近五年來首見十月組合",
-      "dek": "日本氣象協會指出，彩雲、諾洛與小熊三個熱帶系統同時活躍於西太平洋，為近五年來首見的十月三颱並存景象，但三者均未觸及日本本土。",
-      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+      "title": "彩雲颱風逼近馬里亞納群島 塞班國際機場示警強風強雨",
+      "dek": "Weathernews報導，颱風彩雲在馬里亞納群島以北海面生成後預期將快速增強，途經塞班國際機場時可能帶來強風強雨。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
     },
     {
       "rank": 2,
-      "title": "連假將至 三颱同步逼近日本外海",
-      "dek": "南韓《首爾經濟日報》報導，三個熱帶系統在日本國定連假週同時出現於西太平洋，目前皆在海上活動，尚未傳出登陸風險。",
-      "url": "https://en.sedaily.com/international/2026/10/05/three-typhoons-close-in-on-japan-during-holiday-week"
-    },
-    {
-      "rank": 3,
-      "title": "三颱夾擊 日本三天連假恐添變數",
-      "dek": "《News On Japan》報導，彩雲以「很強」等級掠過小笠原海域、諾洛持續向西移動，小熊則預計9日至10日接近南鳥島，為日本假期天氣增添不確定性。",
-      "url": "https://newsonjapan.com/article/150951.php"
-    },
-    {
-      "rank": 4,
-      "title": "彩雲生成軌跡曝光 一度逼近強烈颱風等級",
-      "dek": "日本《Weathernews》技術公告指出，彩雲在馬里亞納群島以北生成後持續增強，中心氣壓最低曾達約950百帕，隨後轉向東北、遠離日本陸地。",
+      "title": "Weathernews追蹤10月西太平洋颱風動態 彩雲路徑成焦點",
+      "dek": "區域氣象資源頁持續更新彩雲颱風的生成、路徑與強度變化，追蹤其北轉朝小笠原群島移動的過程。",
       "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
-      "rank": 5,
-      "title": "彩雲最新路徑一覽 多國氣象資料同步更新",
-      "dek": "追蹤網站StormAtlasX整合日、美、中、韓多方氣象機構資料，提供彩雲即時位置與強度變化的持續更新。",
-      "url": "https://stormatlasx.com/storms/choi-wan-2026"
+      "rank": 3,
+      "title": "關島美國國家氣象局對塞班、天寧發布熱帶風暴警報",
+      "dek": "隨著彩雲颱風北側逼近北馬里亞納群島，美國國家氣象局關島分部發布並延續熱帶風暴警報，並對阿拉馬岸等島嶼發出颱風觀測警戒。",
+      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-3-33am-chst-by-nws-tiyan-gu"
     },
     {
-      "rank": 6,
-      "title": "諾洛動向持續追蹤 預計接近日本以東海域",
-      "dek": "同一追蹤平台同步更新諾洛路徑，據日本氣象協會描述其強度仍屬「很強」等級，預計10日前後接近日本以東海面。",
-      "url": "https://stormatlasx.com/storms/nolo-2026"
-    },
-    {
-      "rank": 7,
-      "title": "衛星畫面直擊西太平洋熱帶系統26W",
-      "dek": "衛星追蹤網站Zoom Earth提供2026年編號26W熱帶系統的即時雲系動態，為本輪三颱群中的其中一員。",
-      "url": "https://zoom.earth/storms/26w-2026/"
-    },
-    {
-      "rank": 8,
-      "title": "墨西哥灣熱帶雨帶增強 美國灣岸週末拉警報",
-      "dek": "美國《AccuWeather》報導，墨西哥灣一處組織鬆散的熱帶雨帶可能增強為大西洋本季下一個命名風暴，預計週末為飽受水患之苦的美國灣岸再添強降雨風險。",
-      "url": "https://www.accuweather.com/en/hurricane/gulf-tropical-rainstorm-likely-to-strengthen-before-reaching-flood-weary-us-coast-this-weekend/1941938"
-    },
-    {
-      "rank": 9,
-      "title": "2026年太平洋颱風季已釀逾300死 損失估逾百億美元",
-      "dek": "根據維基百科彙整的季節統計，今年太平洋颱風季至今已出現約26個命名風暴、9個颱風與4個超強颱風，數字為概略彙整，仍須以氣象機構正式資料為準。",
+      "rank": 4,
+      "title": "2026年太平洋颱風季統計 活躍程度遠超歷史平均",
+      "dek": "維基百科季節總覽顯示，2026年西太平洋至今已出現38個熱帶系統與4個超級颱風，活躍度較常年高出約四成，研判與強勢厄爾尼諾現象有關。",
       "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
+      "rank": 5,
+      "title": "東北季風週五報到轉雨 氣象署：彩雲颱風侵台機率低",
+      "dek": "民報報導，中央氣象署評估颱風彩雲將沿太平洋高壓邊緣北轉，直接影響台灣的可能性低，北部與東部的降雨主要來自東北季風。",
+      "url": "https://www.peoplenews.tw/articles/lifestyle/58465"
+    },
+    {
+      "rank": 6,
+      "title": "氣象署證實：彩雲颱風不會直接影響台灣",
+      "dek": "自由時報引述中央氣象署說法，指出彩雲颱風雖在關島附近增強，但不會對台灣造成直接衝擊，氣象署將持續觀察其北行路徑。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5591604"
+    },
+    {
+      "rank": 7,
+      "title": "彩雲颱風即時路徑追蹤圖上線",
+      "dek": "StormAtlasX提供彩雲颱風即時定位與預測路徑，呈現其中心氣壓與風速數據，供外界追蹤其北轉入海的動向。",
+      "url": "https://stormatlasx.com/storms/choi-wan-2026"
+    },
+    {
+      "rank": 8,
+      "title": "Zoom Earth衛星影像持續監測彩雲颱風",
+      "dek": "互動式衛星追蹤頁面顯示彩雲颱風於10月4日至5日達到最強，其後逐漸減弱並朝小笠原群島方向移動，與其他觀測結果一致。",
+      "url": "https://zoom.earth/storms/26w-2026/"
+    },
+    {
+      "rank": 9,
+      "title": "氣象署最新颱風警報存檔仍為8月沙德爾颱風紀錄",
+      "dek": "中央氣象署官方警報存檔顯示，最近一次發布的海上颱風警報為8月27日針對沙德爾颱風所發，該警報早已解除，顯示目前並無新警報生效。",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
+    },
+    {
       "rank": 10,
-      "title": "首波東北季風報到 北東轉涼有雨 中南部仍溫暖晴朗",
-      "dek": "《台灣英文新聞》報導，中央氣象署預測本週台灣天氣由入秋首波東北季風主導而非颱風，北部與東部雲量增多有局部雨，中南部維持晴朗溫暖，雙十節前後將逐漸好轉。",
-      "url": "https://www.taiwannews.com.tw/en/news/5947804"
+      "title": "關島氣象局發布2026年西北太平洋颱風季展望",
+      "dek": "美國國家氣象局關島分部的季節展望預測，今年關島、北馬里亞納群島及密克羅尼西亞地區颱風活動將高於正常水準，解釋了當地對彩雲颱風的高度關注。",
+      "url": "https://www.weather.gov/media/gum/2026_Western_North_Pacific_Tropical_Cyclone_Outlook_for_the_U.S._Affiliated_Pacific_Islands.pdf"
     }
   ]
 }
