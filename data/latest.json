@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T13:13:00+08:00",
+  "generated_at": "2026-10-06T14:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據多方搜尋結果，中央氣象署目前並未發布任何海上或陸上颱風警報；僅因東北季風增強，對基隆、新北、宜蘭發布大雨特報，並對台中等西部縣市發布陸上強風特報，兩者均屬季風性示警，非颱風警報。",
+  "alert_desc": "根據多方搜尋結果，中央氣象署目前並未發布任何海上或陸上颱風警報；今日台灣各地天氣以減弱的東北季風為主，並無颱風相關示警。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接颱風影響。台中因東北季風增強被列入中央氣象署「陸上強風特報」警戒範圍（平均風力6級以上或陣風8級以上，10/6上午至10/7晚間），但這屬於季風性強風特報，並非颱風警報，目前沒有颱風直接影響台中，也沒有停班停課措施。"
+    "text": "目前無直接影響。台中今日在減弱的東北季風影響下，天氣以晴到多雲為主，並無颱風相關風雨或停班停課訊息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "超級颱風「彩雲」北轉趨日本外海，台灣目前未受直接威脅",
-    "dek": "今年第27號颱風「彩雲」在馬里亞納群島以北增強後持續北轉，氣象機構預測其將在遠離台灣、日本本土的開闊洋面上轉化為溫帶氣旋。",
-    "url": "https://sea.weathernews.com/resources/202610/260"
+    "title": "颱風彩雲增強至猛烈等級後轉向外海 台灣暫未發布警報",
+    "dek": "今年第27號颱風「彩雲」（Choi-wan）一度在日本小笠原群島外海急速增強為猛烈等級的超強颱風，如今已轉向日本東方海域並逐漸展開溫帶變性，持續遠離台灣，中央氣象署目前未發布任何海上或陸上颱風警報。",
+    "url": "https://weathernews.jp/news/202610/030051/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "第27號颱風「彩雲」於馬里亞納群島以北形成，預測增強為颱風並趨向小笠原群島",
-      "dek": "Weathernews報導，彩雲為日本今年第27個命名系統，預測將快速增強並緩慢北轉穿越菲律賓海，朝小笠原群島方向移動。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "颱風彩雲急速增強至「猛烈」等級，直撲小笠原群島",
+      "dek": "日本氣象媒體Weathernews報導，第27號颱風彩雲範圍廣、強度高，預測將快速增強至近中心最大風速約每秒45公尺的「非常強」等級，並北上逼近小笠原群島，帶來強風與高浪。",
+      "url": "https://weathernews.jp/news/202610/030051/"
     },
     {
       "rank": 2,
-      "title": "颱風27號「彩雲」逼近馬里亞納群島，塞班國際機場示警強風強雨",
-      "dek": "Weathernews日文報導指出，彩雲逼近馬里亞納群島，當地已針對塞班國際機場發布強風與降雨警示。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
+      "title": "彩雲預測增強至猛烈級，小笠原群島籲防範",
+      "dek": "Weathernews報導指出，彩雲急速增強路徑確認，預計10月4日至5日中心氣壓降至約950百帕、風速達每小時150公里的巔峰強度，並從小笠原群島附近或東側海域通過。",
+      "url": "https://weathernews.jp/news/202610/020181/"
     },
     {
       "rank": 3,
-      "title": "颱風27號以強勁強度逼近小笠原群島",
-      "dek": "News On Japan報導，第26號颱風「蘇力蓋」10月1日最接近關東地區時未登陸，而新生成的27號颱風「彩雲」正增強並朝小笠原群島逼近，日本各地持續受不穩定天氣影響。",
-      "url": "https://newsonjapan.com/article/150921.php"
+      "title": "日本氣象廳官方路徑：彩雲今日位於日本東方海域",
+      "dek": "日本氣象廳資料彙整網站tenki.jp顯示，彩雲於10月4日接近小笠原群島後持續北上外海，截至10月6日下午3時已移至日本東方海域，預報路徑顯示其不會登陸本州。",
+      "url": "https://tenki.jp/bousai/typhoon/2627/"
     },
     {
       "rank": 4,
-      "title": "超級颱風「彩雲」外圍雨帶為維薩亞斯、民答那峨帶來降雨——菲律賓大氣署",
-      "dek": "PAGASA表示，即便彩雲中心遠在東方洋面，其外圍雨帶仍為菲律賓維薩亞斯與民答那峨地區帶來降雨，當地有洪水與土石流風險。",
-      "url": "https://bworldonline.com/the-nation/2026/10/05/784397/trough-of-super-typhoon-choi-wan-brings-rain-over-visayas-mindanao-pagasa/"
+      "title": "第27號颱風「彩雲」在馬里亞納群島附近生成",
+      "dek": "Weathernews報導，原在馬里亞納群島附近的熱帶性低氣壓於10月1日凌晨3時升格為第27號颱風並命名為彩雲，預測將轉向北行並持續增強。",
+      "url": "https://weathernews.jp/news/202610/010021/"
     },
     {
       "rank": 5,
-      "title": "超級颱風「彩雲」雨帶影響維薩亞斯、民答那峨地區",
-      "dek": "菲語媒體Remate Online同步報導PAGASA發布的彩雲外圍雨帶影響維薩亞斯與民答那峨地區的警示。",
-      "url": "https://remate.ph/trough-of-super-typhoon-choi-wan-nakakaapekto-sa-visayas-mindanao/"
+      "title": "彩雲逼近馬里亞納群島，塞班機場示警強風強雨",
+      "dek": "Weathernews報導，彩雲掠過馬里亞納群島期間，塞班國際機場已被列入強風強雨警示範圍，為這場風暴展開漫長北轉路徑前最早波及的區域。",
+      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
     },
     {
       "rank": 6,
-      "title": "彩雲持續北轉，維持超級颱風強度",
-      "dek": "菲律賓當地媒體Pulilan News Hub報導，彩雲維持超級颱風強度並持續北轉，逐漸遠離菲律賓本土，仍為開闊洋面上的強烈系統。",
-      "url": "https://www.pulilannewshub.com/post/choi-wan-tracks-northward-remains-super-typhoon-status"
+      "title": "颱風「蘇利奇」先行掠過關東以南，為彩雲鋪陳活躍風季",
+      "dek": "Weathernews報導，第26號颱風蘇利奇曾在南大東島一帶帶來超過每秒30公尺強風，預計於10月1日前後通過關東以南海域，直接影響有限，但顯示10月初西太平洋颱風活動頻繁。",
+      "url": "https://weathernews.jp/news/202609/280121/"
     },
     {
       "rank": 7,
-      "title": "超級颱風「彩雲」遠離馬里亞納群島，關島航班延誤仍未解除",
-      "dek": "Rust Tourism News報導，關島與北馬里亞納群島正從彩雲帶來的數日強風、豪雨與惡劣海象中復原，航班延誤情況持續。",
-      "url": "https://www.rustourismnews.com/2026/10/05/super-typhoon-choi-wan-moves-away-from-marianas-as-guam-flights-remain-disrupted/"
+      "title": "2026年大西洋颶風季逼近121年來最晚首颶風紀錄",
+      "dek": "AccuWeather報導，截至10月初，大西洋雖已出現多個命名風暴卻仍無一個增強為颶風，打破衛星觀測時代紀錄，正逐步逼近1905年10月8日創下的歷史最晚首颶風紀錄。",
+      "url": "https://www.accuweather.com/en/hurricane/a-121-year-old-atlantic-hurricane-record-could-be-broken-in-october/1940402"
     },
     {
       "rank": 8,
-      "title": "西太平洋「颱風高速公路」車流增加",
-      "dek": "《星條旗報》報導，第26號颱風「蘇力蓋」與彩雲前後相接通過西太平洋，對美軍部署與太平洋島嶼社群造成影響。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "厄爾尼諾現象壓抑風暴，大西洋颶風季異常平靜逼近紀錄",
+      "dek": "Newsweek報導，強烈厄爾尼諾現象持續抑制風暴增強，使2026年大西洋颶風季呈現罕見平靜態勢，逼近歷史紀錄。",
+      "url": "https://www.newsweek.com/atlantic-hurricane-season-nears-record-as-el-nino-keeps-storms-at-bay-12416416"
     },
     {
       "rank": 9,
-      "title": "超級颱風「彩雲」即時路徑追蹤",
-      "dek": "Weather Underground即時追蹤頁面顯示，彩雲位於小笠原群島以東，正北轉穿越開闊太平洋，預測將在千島群島附近轉化為溫帶氣旋而不登陸日本。",
-      "url": "https://www.wunderground.com/hurricane/western-pacific/2026/super-typhoon-choi-wan"
+      "title": "印度氣象局關注孟加拉灣新氣旋發展動向",
+      "dek": "Deccan Herald報導，印度氣象局指出孟加拉灣中西部海域出現擾動，可能在10月稍後發展為低壓或氣旋性風暴，屬季風後典型天氣型態。",
+      "url": "https://www.deccanherald.com/india/tropical-cyclone-likely-to-form-over-west-central-bay-of-bengal-warns-imd-1154716"
     },
     {
       "rank": 10,
-      "title": "Digital Typhoon資料庫：第202615號颱風「彩雲」",
-      "dek": "日本國立情報學研究所「Digital Typhoon」資料庫持續彙整彩雲的最佳路徑資料、衛星影像與強度歷史，供研究與媒體參考。",
-      "url": "https://agora.ex.nii.ac.jp/digital-typhoon/news/2026/TC2615/"
+      "title": "2026年太平洋颱風季已達26個命名風暴，森拉克最強",
+      "dek": "維基百科彙整資料顯示，西太平洋今年已生成逾26個命名風暴、9個颱風及4個超級颱風，其中颱風森拉克以時速215公里、中心氣壓905百帕成為今年最強颱風。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
