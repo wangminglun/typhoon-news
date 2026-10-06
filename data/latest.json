@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T01:24:00+08:00",
+  "generated_at": "2026-10-07T02:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。西北太平洋強烈颱風喬伊彎持續北轉朝日本方向移動，台灣本週風雨主因是增強中的東北季風。",
+  "alert_desc": "中央氣象署尚未對任何颱風發布海上或陸上警報，西北太平洋雖有彩雲、諾洛、小熊三颱同時活動，但均未朝台灣移動，台灣近期天氣主要受東北季風增強影響。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何活動中的熱帶氣旋直接影響；中央氣象署因東北季風增強，已對台中等全台15縣市發布陸上強風特報（黃色燈號），有效期間自10月6日上午至10月7日晚間，但此為季風而非颱風所致，台中地區目前沒有因颱風導致的停班停課情形。"
+    "text": "台中目前未受任何活動中的熱帶氣旋直接影響，天氣晴朗、氣溫約攝氏25度，降雨機率僅一成，僅受東北季風影響午後山區有局部短暫雨的機率，目前沒有因颱風而停班停課的疑慮。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱喬伊彎掠日本外海 台灣無警報僅東北季風影響",
-    "dek": "西北太平洋今年第27號颱風喬伊彎以近五級強度北轉逼近日本小笠原群島，但台灣中央氣象署表示目前並無颱風警報，本週風雨主因是增強中的東北季風。",
-    "url": "https://weathernews.jp/news/202610/030051/"
+    "title": "西太平洋罕見三颱共存 台灣暫無威脅",
+    "dek": "彩雲、諾洛、小熊三颱同時現身西北太平洋，其中諾洛跨洋由颶風變身颱風實屬罕見，但三者均未威脅台灣。",
+    "url": "https://news.tvbs.com.tw/world/4029984"
   },
   "items": [
     {
       "rank": 1,
-      "title": "強颱喬伊彎逼近小笠原群島 強度達「非常強」等級",
-      "dek": "據日本氣象新聞機構Weathernews報導，大型颱風喬伊彎以非常強的勢力向北挺進，預計10月5日前後以猛烈強度掠過小笠原群島東側海域。",
-      "url": "https://weathernews.jp/news/202610/030051/"
+      "title": "彩雲生成為今年第27號颱風 展開北轉路徑",
+      "dek": "日本氣象廳確認彩雲颱風生成，預報路徑顯示其將掠過小笠原群島後轉向東北方向。",
+      "url": "https://news.tvbs.com.tw/world/4029984"
     },
     {
       "rank": 2,
-      "title": "颱風喬伊彎在馬里亞納群島附近生成 北轉路徑受關注",
-      "dek": "據日本氣象新聞機構Weathernews報導，熱帶性低氣壓10月1日於馬里亞納群島附近增強為颱風喬伊彎，預料將轉向北方並迅速增強，對台灣無直接威脅。",
-      "url": "https://weathernews.jp/news/202610/010021/"
+      "title": "彩雲增強逼近「非常強」等級 直撲日本關東外海",
+      "dek": "最新資料顯示彩雲中心氣壓降至950百帕，陣風每秒60公尺，在小笠原群島周邊掀起8公尺巨浪。",
+      "url": "https://news.tvbs.com.tw/world/4030600"
     },
     {
       "rank": 3,
-      "title": "喬伊彎逼近馬里亞納群島 塞班國際機場示警強風強雨",
-      "dek": "據日本氣象新聞機構Weathernews旗下wxtech報導，颱風喬伊彎掠過馬里亞納群島期間，塞班國際機場發布強風強雨警示，該機場位於颱風中心西南方。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
+      "title": "三颱罕見同時現身西太平洋 日本連假前嚴陣以待",
+      "dek": "《日本時報》報導指出，彩雲、諾洛與小熊三颱接連生成實屬罕見，恐影響日本秋季三連休天氣。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 4,
-      "title": "喬伊彎急速增強為非常強颱 外圍雨帶可能波及日本關東",
-      "dek": "據日本氣象新聞機構Weathernews報導，喬伊彎預料將急速增強至非常強等級，其外圍雨帶10月6日至7日可能掃過東京、千葉等關東地區，但颱風中心仍將停留外海。",
-      "url": "https://weathernews.jp/news/202610/020181/"
+      "title": "颶風諾洛跨越國際換日線 搖身一變成為颱風",
+      "dek": "原於墨西哥外海生成的三級颶風諾洛，10月4日越過換日線後依規定更名為颱風，目前對關島與日本本土均無威脅。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/hurricane-nolo-crosses-international-date-143557715.html"
     },
     {
       "rank": 5,
-      "title": "美國氣象學者：喬伊彎已達五級颶風強度 將轉化為溫帶氣旋",
-      "dek": "氣象學者萊恩・莫伊在其氣象通訊《Weather》中指出，超級颱風喬伊彎已達到相當於五級颶風的強度，預計本週四在北太平洋轉化為溫帶氣旋，殘餘低氣壓可能在阿拉斯加附近再度增強。",
-      "url": "https://weather.substack.com/p/october-4-2026-sunday-tropical-update"
+      "title": "跨越半個太平洋 諾洛變身背後的預報接力",
+      "dek": "美國奧勒岡公共廣播電台報導，諾洛歷經三週橫越太平洋，預報責任自美國國家颶風中心交棒日本氣象廳與關島氣象單位。",
+      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
     },
     {
       "rank": 6,
-      "title": "美國航太總署地球觀測系統記錄熱帶風暴喬伊彎生成",
-      "dek": "根據美國航太總署「地球觀測自然事件追蹤器」資料，熱帶風暴喬伊彎於10月1日在馬里亞納群島以北形成，與日本氣象機構的通報一致。",
-      "url": "https://defconlevel.com/alert/2026-10-01-nasa-eonet-events-tropical-storm-choi-wan"
+      "title": "馬紹爾群島外海熱帶低壓增強 可望成為颱風小熊",
+      "dek": "預報指出該系統最快10月9日前後增強為強烈颱風，並持續朝西北方向移動。",
+      "url": "https://www.ettoday.net/news/20261004/3249003.htm"
     },
     {
       "rank": 7,
-      "title": "2026年太平洋颱風季活動量超出歷史平均六成",
-      "dek": "維基百科資料顯示，截至10月初，2026年西北太平洋颱風季已生成約26至27個命名風暴、9個颱風與4個超級颱風，是1951年以來第三個1月至10月每月皆有颱風生成的年份。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "第29號颱風小熊正式生成 氣象署：對台無直接影響",
+      "dek": "中央氣象署證實小熊10月5日在馬紹爾群島附近生成，強調其路徑不會直接影響台灣。",
+      "url": "https://news.ttv.com.tw/news/11006120002500W/amp"
     },
     {
       "rank": 8,
-      "title": "中央氣象署發布大雨及強風特報 非颱風直接影響",
-      "dek": "據台灣媒體NOWnews與聯合新聞網引述中央氣象署公告，氣象署因東北季風增強對基隆、新北、宜蘭發布大雨特報，並對台中等15縣市發布陸上強風黃色特報，明確表示與颱風無關。",
-      "url": "https://www.nownews.com/news/6792946"
+      "title": "諾洛變身、小熊生成 三颱共存但均未朝台灣而來",
+      "dek": "聯合新聞網報導，在現行導引氣流下，三個西北太平洋颱風預期都不會接近台灣。",
+      "url": "https://udn.com/news/story/7266/9795051"
     },
     {
       "rank": 9,
-      "title": "大西洋颶風季異常平靜 創下現代紀錄最晚首颶風出現日",
-      "dek": "美國廣播公司加盟電視台WLOS引述美國國家颶風中心與AccuWeather資料報導，2026年大西洋颶風季雖已命名8個風暴，卻尚無一個達到颶風強度，打破衛星觀測時代紀錄。",
-      "url": "https://wlos.com/newsletter-daily/atlantic-hurricane-season-record-latest-first-hurricane-modern-era-satellite-weather-storms-tropical-oceans-winds-el-nino-arthur-bertha-cristobal-dolly-edouard"
+      "title": "國慶連假水氣增多轉涼 氣象署：與三颱無關",
+      "dek": "東北季風增強為連假帶來降雨與降溫，北部低溫下探攝氏16度，三颱仍遠在外海。",
+      "url": "https://udn.com/news/story/7266/9796224"
     },
     {
       "rank": 10,
-      "title": "美國國家颶風中心監測墨西哥灣新擾動 另有颶風陶莉殘餘接近佛州",
-      "dek": "據美國電視台Fox 35 Orlando報導，美國國家颶風中心正監測墨西哥灣中北部一股發展機率偏低的擾動，同時熱帶風暴陶莉殘餘雲系正朝巴哈馬方向移動，可能為佛羅里達半島帶來強降雨。",
-      "url": "https://www.fox35orlando.com/news/tropical-disturbance-now-has-50-chance-further-development-new-system-emerges-atlantic-nhc"
+      "title": "大西洋罕見零颶風入秋 墨西哥灣擾動蓄勢待發",
+      "dek": "今年大西洋颶風季已有八個風暴卻至今未見颶風，美國國家颶風中心正觀察墨西哥灣一個高機率發展的擾動，暫稱「艾莎」。",
+      "url": "https://www.cnn.com/2026/10/05/weather/storm-isaias-hurricane-path-gulf-climate"
     }
   ]
 }
