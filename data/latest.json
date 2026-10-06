@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T06:12:00+08:00",
+  "generated_at": "2026-10-07T07:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "交通部中央氣象署目前並未針對台灣本島發布海上或陸上颱風警報。西太平洋現有兩個強颱風「喬伊彎」與「諾羅」同時活動，但雙方路徑均遠離台灣，持續朝日本以東、以南的開闊海域移動，對台灣不構成威脅。",
+  "alert_desc": "綜合台灣多家媒體連日報導研判，中央氣象署目前應未針對彩雲、Nolo或小熊發布海上或陸上颱風警報，惟此判斷並非直接查核氣象署官方公告，仍建議以氣象署最新資訊為準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區截至10月6日並未出現與喬伊彎或諾羅兩個活躍颱風相關的風雨或停班停課情形，當地天氣變化來自與颱風無關的鋒面系統。"
+    "text": "目前無直接影響，三個活躍颱風（彩雲、Nolo、小熊）預測路徑均偏離台灣，目前未見台中地區有風雨或停班停課相關報導。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "雙颱並行北轉日本外海 台灣未受影響 氣象署未發布颱風警報",
-    "dek": "颱風「喬伊彎」增強為非常強颱風後轉向遠離日本本土，第二個系統「諾羅」隨後進入日本氣象廳責任海域，兩者路徑均偏離台灣，台中地區目前無直接衝擊。",
+    "title": "西太平洋「三颱共舞」彩雲逼近巔峰強度 路徑均偏離台灣",
+    "dek": "今年第27、28、29號颱風彩雲（Choi-wan）、Nolo與小熊同時現身西太平洋，據台灣及日本多家媒體綜合報導，三者預測路徑均偏離台灣與日本本土，暫無迫切威脅。",
     "url": "https://sea.weathernews.com/resources/202610/263"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風27號喬伊彎逼近巔峰強度 小笠原群島以東掀危險浪高",
-      "dek": "Weathernews報導指出，喬伊彎已增強為大型且非常強的颱風，在小笠原群島以東海域掀起約八公尺高浪。",
+      "title": "彩雲颱風逼近巔峰強度 行經小笠原群島東側掀危險湧浪",
+      "dek": "據Weathernews報導，彩雲以近似強烈颱風巔峰強度通過小笠原群島東側海域，預計轉向北、再加速東北遠離，不威脅日本本土或台灣。",
       "url": "https://sea.weathernews.com/resources/202610/263"
     },
     {
       "rank": 2,
-      "title": "日本假期週遭三颱風逼近 反映西太平洋異常活躍態勢",
-      "dek": "南韓《首爾經濟日報》報導，三個熱帶氣旋系統同時影響日本周邊海域，凸顯今年颱風季的活躍程度。",
-      "url": "https://en.sedaily.com/international/2026/10/05/three-typhoons-close-in-on-japan-during-holiday-week"
+      "title": "強颱彩雲通過本州以東 日本太平洋沿岸仍須防高浪",
+      "dek": "Weathernews Japan報導指出，彩雲雖未直撲日本本土，但其龐大環流仍可能為太平洋沿岸帶來明顯湧浪與高浪。",
+      "url": "https://weathernews.jp/news/202610/060071"
     },
     {
       "rank": 3,
-      "title": "颱風28號諾羅進入日本氣象廳責任海域 預測減弱後朝日本以南移動",
-      "dek": "Weathernews報導，第二個強颱風諾羅已以非常強度進入日方責任海域，預計強度將逐漸減弱。",
+      "title": "颱風Nolo越過換日線進入日本氣象廳責任區 預測將逐漸減弱",
+      "dek": "據Weathernews報導，原為颶風的Nolo越過國際換日線後轉為強烈颱風，日本氣象廳預測其將在日本以東、以南海域減弱，不致登陸。",
       "url": "https://sea.weathernews.com/resources/202610/262"
     },
     {
       "rank": 4,
-      "title": "喬伊彎北北東穿越馬里亞納群島 預測10月4日中午抵小笠原群島海域",
-      "dek": "美聯社系統報導（經《星報》轉載）指出，喬伊彎於馬里亞納群島上空持續增強並轉向小笠原方向。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+      "title": "西太平洋罕見同時出現三個熱帶氣旋",
+      "dek": "日本時報報導，彩雲、Nolo與新生成的小熊同時活躍於西太平洋，但三者均無登陸日本的預測路徑。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 5,
-      "title": "超強颱風喬伊彎重創北馬里亞納群島與關島 旅遊業發布中斷警告",
-      "dek": "Travel And Tour World報導，喬伊彎增強期間對關島及北馬里亞納群島造成風速劇增與旅遊中斷。",
-      "url": "https://travelandtourworld.com/news/article/ul28xqbsru02"
+      "title": "颶風Nolo越過國際換日線 轉編為西太平洋颱風",
+      "dek": "AccuWeather報導，Nolo自中太平洋颶風轉為西太平洋颱風後仍維持強勁勢力，預測路徑遠離陸地。",
+      "url": "https://www.accuweather.com/en/hurricane/hurricane-nolo-crosses-international-date-line-becomes-typhoon-nolo/1941971"
     },
     {
       "rank": 6,
-      "title": "喬伊彎航運與商業衝擊指南：馬里亞納、小笠原到東日本沿線風險評估",
-      "dek": "Datasurfr發布的商業中斷指南，追蹤喬伊彎自馬里亞納群島至東日本沿線對物流與航運的潛在影響。",
-      "url": "https://datasurfr.ai/advisories/typhoon-choi-wan-2026-track-and-business-disruption-guide-for-the-mariana-islands-ogasawara-islands-and-eastern-japan/"
+      "title": "Nolo持續增強 正式轉型為西太平洋颱風",
+      "dek": "夏威夷新聞網報導，Nolo在轉入西太平洋後仍維持強度，目前觀測重點在於其是否對日本有長期影響，惟現階段預測路徑仍偏離陸地。",
+      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴27號喬伊彎在馬里亞納群島北側生成 預測增強並轉向小笠原",
-      "dek": "Weathernews報導喬伊彎的生成始末，指其以35節風速於馬里亞納群島以北形成，隨後快速增強。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "快訊／「小熊」颱風生成 西太平洋再現三颱共存局面",
+      "dek": "ETtoday報導，第29號颱風小熊於馬里亞納群島、關島附近海面形成，預測北轉後朝日本東南方海域移動，對台灣無直接影響。",
+      "url": "https://www.ettoday.net/news/20261005/3249135.htm"
     },
     {
       "rank": 8,
-      "title": "大型強颱27號喬伊彎以非常強勢力朝小笠原群島方向推進",
-      "dek": "日本Weathernews日文報導指出，喬伊彎體型龐大且強度持續增強，逼近小笠原群島周邊海域。",
-      "url": "https://weathernews.jp/news/202610/030051/"
+      "title": "三颱共舞！輕颱小熊生成 氣象粉專曝未來路徑",
+      "dek": "鏡週刊報導，氣象專家分析小熊及另兩個同時活躍的颱風，預測路徑均沿太平洋高壓邊緣遠離台灣。",
+      "url": "https://www.mirrormedia.mg/story/20261005edi016"
     },
     {
       "rank": 9,
-      "title": "颱風27號喬伊彎接近馬里亞納群島 塞班國際機場籲防強風強雨",
-      "dek": "日本Weathernews報導，喬伊彎逼近馬里亞納群島之際，提醒塞班國際機場留意強風與降雨干擾。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
+      "title": "彩雲外圍雲雨帶為菲律賓維薩亞斯、民答那峨帶來降雨",
+      "dek": "據BusinessWorld報導，菲律賓大氣象局PAGASA指出，即便彩雲中心遠在馬里亞納群島一帶，其外圍雲雨帶仍為菲律賓部分地區帶來零星降雨。",
+      "url": "https://bworldonline.com/the-nation/2026/10/05/784397/trough-of-super-typhoon-choi-wan-brings-rain-over-visayas-mindanao-pagasa/"
     },
     {
       "rank": 10,
-      "title": "2026年太平洋颱風季綜覽：強颱頻發的一年",
-      "dek": "維基百科條目指出，受厄爾尼諾現象影響，2026年西太平洋颱風季呈現偏多活躍態勢，喬伊彎與諾羅為最新命名系統。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "小熊颱風生成！西北太平洋「三颱共舞」再現",
+      "dek": "NOWnews報導彩雲、Nolo、小熊三颱最新位置與預測路徑，三者預測路徑圈均未涵蓋台灣。",
+      "url": "https://www.nownews.com/news/6880663"
     }
   ]
 }
