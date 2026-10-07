@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T17:13:00+08:00",
+  "generated_at": "2026-10-07T18:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署今天未對台灣發布任何海上或陸上颱風警報,西太平洋的強颱彩雲正轉向北太平洋外海、對台灣不構成威脅,而大西洋颶風季則罕見地逼近121年來最晚才出現首個颶風的紀錄。",
+  "alert_desc": "西太平洋今年最強颱風「彩雲」在小笠原群島海域增強後轉向日本外海，台灣中央氣象署目前未發布任何海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響:台中目前並無任何活躍熱帶氣旋影響,天氣由一般東北季風型態主導(大致乾燥、早晚溫差明顯),未發布風雨警報或停班停課公告。"
+    "text": "目前無直接影響：台中目前並無任何活躍颱風或中央氣象署警報影響，東北季風主要影響北部、東部與東北部，中南部（包括台中）天氣以多雲到晴、乾燥為主，未發布風雨特報或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "超級颱風彩雲轉向外海遠離台灣 大西洋同步出現逾百年來最晚首颶風紀錄",
-    "dek": "中央氣象署今天未對台灣發布任何海上或陸上颱風警報,西太平洋的強颱彩雲正轉向北太平洋外海、對台灣不構成威脅,而大西洋颶風季則罕見地逼近121年來最晚才出現首個颶風的紀錄。",
-    "url": "https://zoom.earth/storms/CHOI-WAN-2026/"
+    "title": "颱風彩雲巔峰轉向遠離台灣 大西洋颶風荒將創百年紀錄",
+    "dek": "西太平洋今年最強颱風「彩雲」在小笠原群島海域增強後轉向日本外海，台灣中央氣象署目前未發布任何海上或陸上颱風警報。",
+    "url": "https://zoom.earth/storms/26w-2026/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風彩雲即時路徑追蹤:增強為「強烈」颱風後將轉化為溫帶氣旋",
-      "dek": "即時衛星與路徑整合平台顯示,彩雲在小笠原群島以東增強至中心氣壓約925百帕、近中心最大風速約95節的強烈颱風強度,預測將轉向東北,最快於10月8日前後轉化為溫帶氣旋,路徑遠離台灣、日本本土及菲律賓。",
-      "url": "https://zoom.earth/storms/CHOI-WAN-2026/"
+      "title": "颱風彩雲巔峰強度掠過小笠原群島，轉向遠離日台",
+      "dek": "風暴追蹤網站zoom.earth顯示，彩雲在小笠原群島附近達到最大風速約每小時150公里後，正轉向東北外海並展開溫帶轉化。",
+      "url": "https://zoom.earth/storms/26w-2026/"
     },
     {
       "rank": 2,
-      "title": "彩雲已出菲律賓責任區 尾隨雲系仍為米沙鄢、民答那峨帶來降雨",
-      "dek": "菲律賓大氣地球物理暨天文服務署(PAGASA)表示,彩雲當時位於呂宋島以東約2610公里外海,近中心最大風速每小時175公里、陣風可達215公里,已移出菲律賓責任區,但其外圍雲系仍為中南部帶來局部陰雨。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1004640/trough-of-typhoon-choi-wan-affecting-visayas-mindanao/story/"
+      "title": "NASA地球觀測系統10月初已將彩雲列為活躍熱帶風暴",
+      "dek": "美國國家航空暨太空總署EONET系統於10月1日記錄彩雲位於塞班島東北方約230公里處，當時風速仍屬熱帶風暴等級。",
+      "url": "https://defconlevel.com/alert/2026-10-01-nasa-eonet-events-tropical-storm-choi-wan"
     },
     {
       "rank": 3,
-      "title": "PAGASA:彩雲外圍雲系持續影響 馬尼拉大都會僅零星短暫陣雨",
-      "dek": "菲律賓氣象機構最新公告指出,受彩雲牽引的雲系影響,米沙鄢與民答那峨地區將持續出現多雲與局部降雨,首都馬尼拉大都會僅預期零星、非劇烈的陣雨。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1004711/cloudy-skies-scattered-rains-expected-in-visayas-mindanao-due-to-trough/story/"
+      "title": "Weathernews預報彩雲將快速增強後北轉小笠原",
+      "dek": "日本氣象企業Weathernews指出，彩雲減速北轉後迅速增強，10月3日升格颱風、4日至5日達到巔峰強度，路徑偏北遠離菲律賓與台灣。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
     },
     {
       "rank": 4,
-      "title": "颱風彩雲逼近馬里亞納群島 塞班國際機場籲防強風",
-      "dek": "日本氣象資訊公司 Weathernews 報導,當時仍處於發展初期的第27號颱風彩雲接近馬里亞納群島,為塞班國際機場帶來強風與降雨,是這個系統後續增強並北轉接近日本前最早的紀錄階段。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
-    },
-    {
-      "rank": 5,
-      "title": "獨立追蹤平台證實:彩雲在馬里亞納群島以北快速增強 路徑轉向開放北太平洋",
-      "dek": "另一追蹤平台 StormAtlasX 的資料與官方機構相互印證,顯示彩雲在馬里亞納群島以北形成並迅速增強後,預測路徑將轉向開放北太平洋海域,不會登陸任何主要陸地。",
+      "title": "即時地圖確認彩雲路徑遠在台灣以東",
+      "dek": "追蹤平台StormAtlasX的多語地圖顯示，彩雲作為西太平洋活躍系統持續受到監測，其路徑明顯偏離台灣。",
       "url": "https://stormatlasx.com/storms/choi-wan-2026"
     },
     {
-      "rank": 6,
-      "title": "另一熱帶系統「小熊」生成 位於關島以南 強度弱、移動緩慢",
-      "dek": "日本國立情報學研究所「Digital Typhoon」資料顯示,編號TC2615的熱帶系統小熊(Koguma)位於馬紹爾群島夸賈林環礁以北約257公里處,以時速約9公里緩慢北移,近中心風速僅約每小時65公里,暫未對任何陸地構成威脅。",
-      "url": "https://agora.ex.nii.ac.jp/digital-typhoon/news/2026/TC2615/"
+      "rank": 5,
+      "title": "Weathernews東南亞10月快報點名彩雲為本週主要風暴",
+      "dek": "Weathernews東南亞分部的10月資訊通報，將彩雲列為本週西太平洋海盆唯一具代表性的活躍熱帶氣旋。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
-      "rank": 7,
-      "title": "大西洋121年紀錄恐遭打破 今年至今尚未出現颶風",
-      "dek": "據 AccuWeather 報導,2026年大西洋颶風季至今已生成八個命名風暴,卻尚無一個增強為颶風,若情況持續,將追平甚至打破1905年締造、季節首個颶風出現最晚的121年紀錄。",
+      "rank": 6,
+      "title": "大西洋颶風季逼近121年來最晚首颶風紀錄",
+      "dek": "AccuWeather報導，由於今年大西洋至今尚無颶風形成，衛星觀測時代紀錄已被打破，若10月8日前仍無颶風，將追平1905年創下的歷史紀錄。",
       "url": "https://www.accuweather.com/en/hurricane/a-121-year-old-atlantic-hurricane-record-could-be-broken-in-october/1940402"
     },
     {
+      "rank": 7,
+      "title": "美國媒體關注大西洋現代史上最晚首颶風紀錄",
+      "dek": "ABC附屬台WLOS報導，今年大西洋已出現八個命名風暴卻無一達颶風強度，強烈厄爾尼諾與風切變被視為主因。",
+      "url": "https://wlos.com/newsletter-daily/atlantic-hurricane-season-record-latest-first-hurricane-modern-era-satellite-weather-storms-tropical-oceans-winds-el-nino-arthur-bertha-cristobal-dolly-edouard"
+    },
+    {
       "rank": 8,
-      "title": "颶風都去哪了?科學家指強聖嬰現象是大西洋風暴季「降溫」主因",
-      "dek": "IFLScience 報導指出,異常強勁的聖嬰現象使太平洋增溫,進而增強大西洋上空風切變、抑制風暴增強,今年八個命名風暴中已有五個僅止於熱帶風暴強度便消散。",
-      "url": "https://www.iflscience.com/where-are-all-the-atlantic-hurricanes-in-2026-you-can-thank-an-angry-el-nino-for-the-chilled-storm-season-84794"
+      "title": "熱帶風暴漢娜成大西洋本季第八個命名風暴，颶風荒持續",
+      "dek": "AccuWeather指出，漢娜在百慕達東北方約850英里處形成，最大風速約每小時72公里，大西洋仍未出現本季首個颶風。",
+      "url": "https://www.accuweather.com/en/hurricane/tropical-storm-hanna-forms-over-atlantic-ocean/1939874"
     },
     {
       "rank": 9,
-      "title": "美國佛州媒體關注:本週會是大西洋打破無颶風紀錄的關鍵時刻嗎",
-      "dek": "美國佛羅里達州 FOX 35 Orlando 電視台報導,氣象學家正密切觀察是否有擾動在歷史性的10月8日期限前增強為颶風,打破或追平逾百年紀錄。",
-      "url": "https://www.fox35orlando.com/news/no-hurricanes-yet-atlantic-could-set-new-record-week-heres-how"
+      "title": "熱帶風暴菲伊曾一度威脅終結大西洋颶風荒，但迅速減弱",
+      "dek": "美國休士頓FOX 26報導，菲伊是本季第六個命名風暴，一度逼近颶風強度後迅速減弱，延續今年大西洋風暴偏弱的格局。",
+      "url": "https://www.fox26houston.com/weather/tropical-storm-fay-forms-atlantic"
     },
     {
       "rank": 10,
-      "title": "WeatherBug:十月能否終結今年大西洋罕見的「無颶風乾旱」",
-      "dek": "WeatherBug 進一步報導2026年大西洋颶風季至今罕見的無颶風紀錄,並分析未來須具備哪些條件,才可能在十月催生出今年首個真正的颶風。",
-      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
+      "title": "台灣東北季風增強，北部東部降溫有雨但無颱風威脅",
+      "dek": "TVBS報導，10月7日至8日東北季風增強將為北部與東部帶來降溫及短暫陣雨，預期國慶假期前後天氣好轉，全台未見颱風警報。",
+      "url": "https://news.tvbs.com.tw/english/3009848"
     }
   ]
 }
