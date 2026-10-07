@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T15:12:00+08:00",
+  "generated_at": "2026-10-07T16:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上颱風警報或陸上颱風警報。西太平洋颱風Choi-wan正北轉遠離台灣，台灣近日天氣主要受東北季風牽動。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上颱風警報或陸上颱風警報。西太平洋彩雲、諾洛、小熊三颱同時活躍，但路徑均遠離台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中地區預報持續高溫少雨（約攝氏34至35度），東北季風帶來的降溫降雨主要集中在北部、東北部與東部，台中未發布風雨警報或停班停課公告，氣象單位評估無任何熱帶系統對台中構成直接威脅。"
+    "text": "目前無直接影響：三個西太平洋颱風系統預測路徑均遠離台灣，台中並未發布風雨警報或停班停課公告。台中曾在10月5日前後因增強的東北季風發布強風特報，但並非颱風直接造成的影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風Choi-wan北轉遠離台灣 當前變天主因是東北季風",
-    "dek": "這個在馬里亞納群島附近生成、持續增強的西太平洋系統預測將北彎通過日本小笠原群島外海，對台灣不構成直接威脅，台灣近日的降溫降雨主要來自增強中的東北季風。",
-    "url": "https://stormatlasx.com/storms/choi-wan-2026"
+    "title": "西太平洋三颱共存 皆未影響台灣",
+    "dek": "彩雲、諾洛與小熊三個颱風近日在西太平洋罕見同時活躍，但路徑均遠離台灣，中央氣象署目前未發布任何颱風警報。",
+    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴Choi-wan於馬里亞納群島近海生成 預測將快速增強",
-      "dek": "Weathernews報導指出，Choi-wan於馬里亞納群島以北海域生成時中心氣壓998百帕、持續風速35節，預期持續增強並向北移動，塞班島風力將顯著增強直到10月5日左右。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "西太平洋罕見三颱共存",
+      "dek": "日本氣象協會指出，彩雲、諾洛與小熊三颱同時活躍，為五年來10月首見，彩雲預計轉向東北、不登陸日本，但湧浪週末將為夏威夷帶來中等浪高。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 2,
-      "title": "Choi-wan逼近 美國關島氣象辦公室對天寧島、塞班島發布熱帶風暴警報",
-      "dek": "美國國家氣象局關島辦公室於10月1日晚間發布熱帶風暴警報，並對關島及北馬里亞納群島全境發布洪水警戒。",
-      "url": "https://defconlevel.com/alert/2026-10-01-nws-noaa-weather-tropical-storm-warning-issued-october-1-at-9-22pm-chst-by-nws-tiyan-gu"
+      "title": "彩雲颱風凌晨生成 路徑曝光",
+      "dek": "關島東北方熱帶低壓於10月1日凌晨發展為輕度颱風彩雲，氣象署指其路徑將先西後北，對台灣無直接影響。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5591428"
     },
     {
       "rank": 3,
-      "title": "Choi-wan升級為颱風 阿拉馬甘、阿格里漢、帕甘三島發布颱風警報",
-      "dek": "美國國家氣象局關島辦公室表示，Choi-wan在帕甘島以西增強為颱風，當地24小時內將出現颱風強度風力，塞班島與天寧島則維持熱帶風暴警報。",
-      "url": "https://defconlevel.com/alert/2026-10-03-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-3-23pm-chst-by-nws-tiyan-gu"
+      "title": "彩雲增強 挑戰今年第七個強颱",
+      "dek": "受海溫偏暖、水氣充足及風切有利等條件影響，彩雲快速增強，有望成為西北太平洋今年第七個強颱，路徑仍遠離台灣。",
+      "url": "https://www.ettoday.net/news/20261001/3246849.htm"
     },
     {
       "rank": 4,
-      "title": "即時路徑圖：颱風Choi-wan（26W）持續北移",
-      "dek": "氣象追蹤平台Zoom.earth顯示，Choi-wan通過馬里亞納群島後路徑明顯北彎，逐漸遠離菲律賓與台灣海域，轉向北太平洋開放海域及日本方向。",
-      "url": "https://zoom.earth/storms/26w-2026/"
+      "title": "彩雲升級強颱 暴風圈達300公里",
+      "dek": "彩雲升格強颱，暴風半徑擴大至約300公里，中心氣壓降至910百帕，持續向北移動，不影響台灣。",
+      "url": "https://ctinews.com/news/items/pRnYgb3EaY"
     },
     {
       "rank": 5,
-      "title": "預測Choi-wan將在小笠原群島近海達到最強 隨後轉向日本",
-      "dek": "根據StormAtlasX分析，Choi-wan預計10月4日至5日以中心氣壓約950百帕、持續風速約80節的巔峰強度通過小笠原群島東側，之後沿日本太平洋岸外海北上，對台灣及菲律賓不構成直接威脅。",
-      "url": "https://stormatlasx.com/storms/choi-wan-2026"
+      "title": "小熊生成、諾洛跨線 三颱共存",
+      "dek": "新熱帶低壓於10月5日增強為今年第28號颱風小熊，原颶風諾洛同日跨越國際換日線成為第27號颱風，三颱同時活躍但均未威脅台灣。",
+      "url": "https://news.ttv.com.tw/news/11510050000900W"
     },
     {
       "rank": 6,
-      "title": "日本「數位颱風」資料庫建檔編號TC2615（Choi-wan）",
-      "dek": "日本國立情報學研究所的數位颱風專案，彙整了這個在馬里亞納群島以北海域生成、持續北移系統的衛星影像與路徑資料。",
-      "url": "https://agora.ex.nii.ac.jp/digital-typhoon/news/2026/TC2615/"
+      "title": "輕颱小熊生成 路徑曝光",
+      "dek": "小熊於10月5日在關島以南海面生成，以時速11至14公里向北北西移動，預測路徑主要經過日本東南方海域，對台灣無影響。",
+      "url": "https://www.mirrormedia.mg/story/20261005edi016"
     },
     {
       "rank": 7,
-      "title": "東北季風增強 全台轉涼降雨 下一個颱風是否成形受關注",
-      "dek": "中央氣象署表示，增強的東北季風將為北部及東北部帶來降溫與較大雨勢，中南部維持溫暖少雨，預報人員也留意西太平洋是否有新熱帶系統醞釀生成。",
-      "url": "https://health.tvbs.com.tw/nutrition/365819"
+      "title": "小熊颱風生成 再現三颱共存",
+      "dek": "ETtoday證實小熊颱風生成，這是今年第二度出現三颱共存局面，連同彩雲、諾洛皆不直接威脅台灣。",
+      "url": "https://www.ettoday.net/news/20261005/3249135.htm"
     },
     {
       "rank": 8,
-      "title": "東北季風持續發威 北台灣低溫探19.4度 新颱風生成動向待觀察",
-      "dek": "根據中央氣象署資料整理報導，東北季風持續影響下北台灣低溫下探攝氏19.4度，氣象人員正密切觀察西太平洋是否醞釀新系統，但目前台灣並無颱風警報。",
-      "url": "https://health.tvbs.com.tw/nutrition/365891"
+      "title": "諾洛升格中颱 三颱齊聚",
+      "dek": "諾洛於10月6日跨境增強為中度颱風，中心氣壓915百帕，鄰近威克島向西移動，與彩雲、小熊皆遠離台灣。",
+      "url": "https://udn.com/news/story/7266/9795051"
     },
     {
       "rank": 9,
-      "title": "大西洋颶風季罕見平靜 10月能否打破「無颶風」紀錄？",
-      "dek": "WeatherBug報導，截至10月2日大西洋已出現八個命名風暴卻無一達到颶風強度，創下現代衛星觀測時代首個颶風生成最晚的紀錄。",
-      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
+      "title": "颶風諾洛跨線變身颱風",
+      "dek": "原中太平洋颶風諾洛於10月5日跨越國際換日線轉編為西北太平洋颱風，預測持續西行後於東經150度附近轉北，對台灣及日本均無影響。",
+      "url": "https://www.nownews.com/news/6880655"
     },
     {
       "rank": 10,
-      "title": "菲律賓氣象局PAGASA公布2026年熱帶氣旋本地命名清單",
-      "dek": "菲律賓大氣地理天文服務管理局（PAGASA）公布了今年進入菲律賓責任海域熱帶氣旋的官方命名清單，目前尚無10月上旬新系統的公告。",
-      "url": "https://plus.inquirer.net/news/pagasa-unveils-2026-cyclone-names/"
+      "title": "三颱共存外 恐再增第四颱薔琵",
+      "dek": "氣象專家關注菲律賓東方海面，預料10日前後可能生成第四個熱帶系統「薔琵」，其路徑及是否影響台灣仍待觀察。",
+      "url": "https://udn.com/news/story/7266/9794963"
     }
   ]
 }
