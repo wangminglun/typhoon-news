@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T23:15:00+08:00",
+  "generated_at": "2026-10-08T00:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。西太平洋最受矚目的系統「彩雲」已北轉遠離，台灣轉而迎來今年首波東北季風，對台無直接威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。西太平洋雖罕見同時有三個熱帶氣旋活動，但均未威脅台灣，台灣當前天氣主要受鋒面與東北季風影響。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。東北季風雖為北部與東北部帶來降雨降溫，但台中地區大致維持晴到多雲、午後可能有局部雷陣雨，無風雨警報或停班停課相關措施。"
+    "text": "目前無直接影響。台中並未受到西太平洋任何現役熱帶氣旋影響，近日天氣主要受鋒面與東北季風牽動，無風雨警報或停班停課相關措施；今年最近一次停班停課紀錄為七月颱風巴比，屬三個月前的背景事件。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風彩雲轉向日本外海，台灣暫無威脅但東北季風週三起報到",
-    "dek": "中央氣象署表示，目前並未對台灣發布任何海上或陸上颱風警報，西太平洋最受矚目的系統「彩雲」已北轉遠離，台灣轉而迎來今年首波東北季風。",
-    "url": "https://sea.weathernews.com/resources/202610/260"
+    "title": "西太平洋罕見三颱並行 路徑均未涉台 當前天氣主角是鋒面與東北季風",
+    "dek": "氣象機構證實三個熱帶氣旋同時在西太平洋活動，為五年來首見，但路徑皆未指向台灣，中央氣象署目前未發布任何海上或陸上颱風警報。",
+    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風彩雲在馬里亞納群島附近形成，預測將迅速增強",
-      "dek": "日本氣象廳第27號颱風彩雲10月1日於馬里亞納群島以北海域生成，Weathernews預測其將快速增強為強烈颱風，並緩慢北轉朝小笠原群島方向移動。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "西太平洋三颱齊聚 日本氣象協會稱五年來首見",
+      "dek": "《日本時報》報導，三個熱帶氣旋同時出現在西太平洋，已在日本部分沿岸掀起高浪。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 2,
-      "title": "彩雲逼近北馬里亞納群島，美國國家氣象局發布颱風與熱帶風暴警報",
-      "dek": "關島提岩氣象局對阿拉馬岸、阿格里漢島與帕甘島發布颱風警報，並對天寧島與塞班島發布熱帶風暴警報，當時彩雲持續增強，最大持續風速已達每小時約137公里。",
-      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-8-26am-chst-by-nws-tiyan-gu"
+      "title": "娜克莉、彩雲、小熊同時活躍 位置與動向曝光",
+      "dek": "報導指出三個系統目前皆未威脅陸地，颱風彩雲正轉向遠離日本，也未朝台灣移動。",
+      "url": "https://news.ssbcrack.com/three-storms-active-in-western-pacific-unusual-october-clustering-observed/"
     },
     {
       "rank": 3,
-      "title": "彩雲一度朝台灣移動後北轉遠離",
-      "dek": "氣象部落格Jay Hobgood Weather指出，彩雲曾一度位於台灣南南西方約300公里處，台灣氣象專家評估其直撲台灣機率低，但不排除為南台灣帶來局部強降雨與淹水風險。",
-      "url": "https://jayhobgood.com/?p=12221"
+      "title": "美軍報紙：西太平洋「颱風高速公路」車流增加",
+      "dek": "《星條旗報》風暴追蹤專欄形容多個系統排列於西太平洋洋面，無一指向台灣。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
     },
     {
       "rank": 4,
-      "title": "彩雲在小笠原群島附近增強至猛烈颱風強度，轉向日本外海",
-      "dek": "日本氣象廳預測，彩雲在小笠原群島附近達到最高強度後將轉向東方，沿日本太平洋沿岸海域移動並逐漸減弱，最終可能轉化為溫帶氣旋，遠離台灣與菲律賓。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "颱風彩雲在馬里亞納群島以北形成 一度逼近颱風巔峰強度",
+      "dek": "Weathernews資料顯示，彩雲九月底生成後持續增強，預估十月初達到最強階段。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 5,
-      "title": "美國航太總署地球觀測系統將彩雲列入追蹤名單",
-      "dek": "NASA「地球觀測站自然事件追蹤器」(EONET)於10月1日將熱帶風暴彩雲列為追蹤中的自然事件，持續以衛星監測其在馬里亞納群島以北海域的發展。",
-      "url": "https://defconlevel.com/alert/2026-10-01-nasa-eonet-events-tropical-storm-choi-wan"
+      "title": "彩雲路徑北轉 掠過小笠原群島後遠離台灣",
+      "dek": "風暴追蹤平台zoom.earth顯示，彩雲最終轉向日本太平洋沿岸外海，未接近台灣。",
+      "url": "https://zoom.earth/storms/26w-2026/"
     },
     {
       "rank": 6,
-      "title": "今年首波東北季風週三起報到，氣象署：無颱風牽涉其中",
-      "dek": "中央氣象署預測今年首波東北季風將為全台帶來降溫，北部與東北部降雨最顯著；預報人員正關注月底是否有新熱帶系統發展，但目前並無任何颱風警報生效。",
-      "url": "https://health.tvbs.com.tw/nutrition/365819"
+      "title": "鋒面南下、東北季風增強 中部多縣市發布豪雨特報",
+      "dek": "《新頭殼》報導，苗栗至彰化等七縣市因鋒面與季風影響發布豪雨警示，台東則有焚風高溫。",
+      "url": "https://newtalk.tw/news/view/2024-10-05/939030"
     },
     {
       "rank": 7,
-      "title": "氣象署：北部東北部週一至週三轉涼有雨，無颱風活動",
-      "dek": "中央氣象署預報10月7日至9日北部、東部、澎湖與連江雲量增多並有降雨，低溫下探22至24度，中南部包括台中仍以多雲到晴、高溫看31度為主，預報中未提及任何颱風因素。",
-      "url": "https://www.taiwannews.com.tw/en/news/5947804"
+      "title": "2026年西北太平洋颱風季已產生逾二十六個命名風暴",
+      "dek": "維基百科彙整資料顯示，今年颱風季已出現九個颱風與四個超級颱風，活動量明顯偏高。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 8,
-      "title": "受厄爾尼諾現象助長，2026年太平洋颱風季明顯高於常年",
-      "dek": "Weathernews季節展望指出，截至8月中已有約19個颱風生成，較氣候平均值多出約5個，全季颱風總數預估可達28至29個，主因是強勁的厄爾尼諾現象。",
-      "url": "https://sea.weathernews.com/resources/202609/232"
+      "title": "今年颱風季累計逾三百死、損失破百億美元",
+      "dek": "統計顯示2026年西北太平洋颱風季至今造成逾三百零五人死亡，經濟損失超過一百億美元。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 9,
-      "title": "2026年大西洋颶風季步入10月仍顯平靜",
-      "dek": "美國國家海洋暨大氣總署(NOAA)原預測本季將有8至14個命名風暴、3至6個颶風，但截至10月初為止，大西洋僅出現數個命名風暴，尚未產生任何一個颶風，為少見的平靜年份。",
-      "url": "https://kutv.com/news/nation-world/noaa-releases-2026-hurricane-season-outlook-8-14-named-storms-3-6-hurricanes-1-3-major-hurricanes-national-hurricane-center-florida-tropics-storms-"
+      "title": "美國氣象局關島辦公室：今年西太平洋活動將高於正常",
+      "dek": "NWS關島辦公室發布季節展望，預期西太平洋對美屬太平洋島嶼的影響將較常年活躍。",
+      "url": "https://www.weather.gov/media/gum/2026_Western_North_Pacific_Tropical_Cyclone_Outlook_for_the_U.S._Affiliated_Pacific_Islands.pdf"
     },
     {
       "rank": 10,
-      "title": "呂宋島東側熱帶系統94W受到持續觀察",
-      "dek": "追蹤網站Zoom Earth顯示，一個編號「94W」的熱帶擾動在菲律賓呂宋島以東海域受到監測，當地海溫偏暖、風切偏弱，具備緩慢發展為熱帶低氣壓或輕度颱風的條件，但確切時間點尚待確認。",
-      "url": "https://zoom.earth/storms/94w-2026/"
+      "title": "回顧：七月颱風巴比曾致台中停班停課",
+      "dek": "台中市今年最近一次因颱風停班停課的紀錄為七月颱風巴比來襲，屬三個月前的背景事件。",
+      "url": "https://www.nownews.com/news/6849025"
     }
   ]
 }
