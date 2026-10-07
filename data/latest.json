@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T13:12:00+08:00",
+  "generated_at": "2026-10-07T14:19:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報。颱風麥德姆已在中國大陸完全消散，而颱風喬娃路徑偏向日本外海，均未對台灣構成威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上颱風警報或陸上颱風警報。西太平洋暫無活躍颱風，台灣本週天氣主要受東北季風牽動。",
   "region_watch": {
     "region": "台中",
-    "text": "台中地區目前無風雨警報或停班停課公告；麥德姆已完全消散、喬娃路徑偏向日本外海，氣象單位評估現有系統對台中無直接影響。"
+    "text": "目前無直接影響：台中地區本週多雲到晴，受東北季風影響降雨機率偏低，無風雨警報或停班停課公告，氣象單位評估無任何熱帶系統對台中構成直接威脅。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風喬娃北逼日本關東外海 台灣暫無警戒",
-    "dek": "麥德姆在中國大陸雙度登陸後已完全消散，2026年太平洋颱風季仍創下活躍紀錄，但中央氣象署目前未對台灣發布任何颱風警報。",
-    "url": "https://weathernews.jp/news/202610/050061/"
+    "title": "西太平洋暫無活躍颱風 台灣本週轉受東北季風影響",
+    "dek": "「橋後姬」颱風北離消散後，西太平洋進入罕見空窗期，台灣中央氣象署目前未發布任何颱風警報，但預報員仍在觀察一股可能週末於南海成形、路徑偏向海南島的熱帶系統。",
+    "url": "https://news.pts.org.tw/article/755192"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風喬娃生成 成為2026年第27號颱風",
-      "dek": "熱帶低氣壓在馬里亞納群島附近增強為颱風，刷新該季節風暴生成速度紀錄。",
-      "url": "https://weathernews.jp/news/202610/010021/"
+      "title": "「橋後姬」轉向北離，菲律賓多地意外放晴",
+      "dek": "儘管熱帶風暴橋後姬進入責任海域，菲律賓多數地區本週仍迎來晴朗天氣，因其路徑偏向東北遠離陸地。",
+      "url": "https://tribune.net.ph/2026/09/24/clear-skies-despite-queenie"
     },
     {
       "rank": 2,
-      "title": "喬娃預測增強至「猛烈」等級 逼近小笠原群島",
-      "dek": "日本氣象廳與Weathernews預測喬娃將以最強等級掠過小笠原群島東側海域。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "熱帶風暴進入責任海域，菲律賓大氣署命名「橋後姬」",
+      "dek": "菲律賓大氣地理天文服務署證實，一股熱帶風暴已進入責任海域並命名為Queenie，初期風速達每小時75公里，預估可能增強至颱風等級。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1003505/tropical-storm-enters-par-now-called-queenie/story/"
     },
     {
       "rank": 3,
-      "title": "喬娃轉向北北東 預計10月4日正午抵小笠原群島海域",
-      "dek": "綜合外電報導，喬娃路徑由原先偏西修正為北北東，持續增強逼近日本離島。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+      "title": "菲律賓公布2026年熱帶氣旋命名清單",
+      "dek": "菲律賓大氣地理天文服務署公布本季命名序列，確認「橋後姬」與下一個系統「Rosal」為目前進度。",
+      "url": "https://www.gmanetwork.com/news/weather/content/971342/list-names-of-ph-tropical-cyclones-for-2026/story"
     },
     {
       "rank": 4,
-      "title": "喬娃中心氣壓降至925百帕 達「非常強」颱風等級",
-      "dek": "喬娃在10月5日掠過小笠原群島附近海域時，達到此次生命週期的巔峰強度。",
-      "url": "https://weathernews.jp/news/202610/050061/"
-    },
-    {
-      "rank": 5,
-      "title": "喬娃外圍環流逼近關東 千葉沿岸將見強風高浪",
-      "dek": "喬娃轉化為溫帶氣旋前，雨帶與湧浪預計於10月6日至7日影響日本關東太平洋沿岸。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
-    },
-    {
-      "rank": 6,
-      "title": "即時追蹤平台顯示喬娃持續遠離台灣與菲律賓",
-      "dek": "路徑監測資料證實，喬娃全程朝北太平洋開闊海域移動，未對台灣構成威脅。",
-      "url": "https://stormatlasx.com/ja/storms/choi-wan-2026"
-    },
-    {
-      "rank": 7,
-      "title": "颱風麥德姆雙度登陸中國大陸後完全消散",
-      "dek": "麥德姆先後登陸廣東與廣西，10月6日已瓦解為殘留低壓，對台灣已無威脅。",
-      "url": "https://satlib.cira.colostate.edu/event/typhoon-matmo"
-    },
-    {
-      "rank": 8,
-      "title": "2026年太平洋颱風季活躍程度創近年新高",
-      "dek": "維基百科綜合官方氣象資料指出，今年已生成27個命名風暴，造成逾305人死亡。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
-    },
-    {
-      "rank": 9,
-      "title": "氣象機構預測El Niño持續推升今年颱風活躍度",
-      "dek": "Weathernews與熱帶風暴風險機構預估全年風暴數上看28個，遠高於長期平均。",
+      "title": "氣象業者：厄爾尼諾推升2026年颱風季活躍度",
+      "dek": "Weathernews季節分析指出，受強勁厄爾尼諾現象影響，西北太平洋今年颱風生成數量遠高於氣候平均，8月中已逾19個。",
       "url": "https://sea.weathernews.com/resources/202609/232"
     },
     {
+      "rank": 5,
+      "title": "公視：10月中旬南海西側恐生熱帶低氣壓，路徑指向海南",
+      "dek": "台灣公共電視報導，預報模式顯示呂宋島以西海域約10日前後可能形成熱帶低氣壓，但最可能路徑偏向中國海南島、廣西一帶，非台灣。",
+      "url": "https://news.pts.org.tw/article/755192"
+    },
+    {
+      "rank": 6,
+      "title": "回顧：今年第22號風暴「艾陶」8月底完成生命週期",
+      "dek": "風暴追蹤資料庫顯示，熱帶風暴艾陶為本季第22個命名系統，最後觀測時間為8月29日，是夏季活躍群集的尾聲之一。",
+      "url": "https://meteo365.es/storms/tc_2026_WP_22/"
+    },
+    {
+      "rank": 7,
+      "title": "StormGeo：2026年全年颱風季展望偏向強勢",
+      "dek": "氣象顧問機構StormGeo發布的年度展望指出，西太平洋2026年颱風季整體活躍度高於長期平均，為當前空窗期提供季節背景。",
+      "url": "https://stormgeo.com/full-typhoon-season-forecast-2026/QVKJLQ2GJZpw"
+    },
+    {
+      "rank": 8,
+      "title": "保險業者警示：太平洋颱風活動升溫推升巨災風險",
+      "dek": "產業報告Beinsure指出，隨太平洋颱風活躍度上升，保險業面臨的巨災理賠風險與承保壓力同步攀升。",
+      "url": "https://beinsure.com/news/insurers-face-higher-catastrophe-risk-as-pacific-typhoon-activity-rises/"
+    },
+    {
+      "rank": 9,
+      "title": "Guy Carpenter發布颱風「巴威」事後分析報告",
+      "dek": "再保險顧問機構Guy Carpenter的事後報告回顧7月颱風巴威對台灣造成的海陸警報與停班停課衝擊，作為本季背景對照。",
+      "url": "https://www.guycarp.com/insights/2026/07/post-event-report-2026-western-north-pacific-typhoon-Bavi.html"
+    },
+    {
       "rank": 10,
-      "title": "菲律賓氣象署：10月菲律賓責任區僅估1至2個熱帶氣旋",
-      "dek": "PAGASA官方季節展望顯示南側海域目前無系統威脅，與喬娃北偏路徑互相呼應。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "中央社：中央氣象署曾示警，熱帶系統周末前恐影響台灣",
+      "dek": "英文中央社報導回顧今年7月中央氣象署對一波潛在熱帶風暴的示警，呈現本季較早期的警戒基調。",
+      "url": "https://focustaiwan.tw/society/202607220009"
     }
   ]
 }
