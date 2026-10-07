@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T07:10:00+08:00",
+  "generated_at": "2026-10-07T08:17:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "綜合台灣多家媒體連日報導研判，中央氣象署目前應未針對彩雲、Nolo或小熊發布海上或陸上颱風警報，惟此判斷並非直接查核氣象署官方公告，仍建議以氣象署最新資訊為準。",
+  "alert_desc": "中央氣象署目前並未發布任何海上或陸上颱風警報。由於本次查證過程中未能直接讀取中央氣象署官方網站，此「無警報」判斷是根據外部新聞報導及目前無颱風系統進入台灣周邊海域的綜合推論得出，可信度屬中等，仍建議以氣象署最新公告為準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，三個活躍颱風（彩雲、Nolo、小熊）預測路徑均偏離台灣，目前未見台中地區有風雨或停班停課相關報導。"
+    "text": "目前無直接影響，西太平洋現存的颱風系統（彩雲、蘇力蓋）路徑均遠離台灣，台中地區未受風雨影響，沒有停班停課之虞。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋「三颱共舞」彩雲逼近巔峰強度 路徑均偏離台灣",
-    "dek": "今年第27、28、29號颱風彩雲（Choi-wan）、Nolo與小熊同時現身西太平洋，據台灣及日本多家媒體綜合報導，三者預測路徑均偏離台灣與日本本土，暫無迫切威脅。",
-    "url": "https://sea.weathernews.com/resources/202610/263"
+    "title": "颱風彩雲遠離台灣 中央氣象署未發警報",
+    "dek": "西太平洋今年最強颱風彩雲掠過日本小笠原群島後轉向外海減弱，台灣目前未受任何颱風直接威脅。",
+    "url": "https://weathernews.jp/news/202610/020081/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風逼近巔峰強度 行經小笠原群島東側掀危險湧浪",
-      "dek": "據Weathernews報導，彩雲以近似強烈颱風巔峰強度通過小笠原群島東側海域，預計轉向北、再加速東北遠離，不威脅日本本土或台灣。",
-      "url": "https://sea.weathernews.com/resources/202610/263"
+      "title": "颱風彩雲生成 馬里亞納群島外海醞釀北上",
+      "dek": "第27號颱風彩雲10月1日在馬里亞納群島附近形成，預測將持續增強並轉向北行，未來路徑仍待觀察。",
+      "url": "https://weathernews.jp/news/202610/010021/"
     },
     {
       "rank": 2,
-      "title": "強颱彩雲通過本州以東 日本太平洋沿岸仍須防高浪",
-      "dek": "Weathernews Japan報導指出，彩雲雖未直撲日本本土，但其龐大環流仍可能為太平洋沿岸帶來明顯湧浪與高浪。",
-      "url": "https://weathernews.jp/news/202610/060071"
+      "title": "彩雲逼近馬里亞納 塞班機場示警強風大雨",
+      "dek": "彩雲接近馬里亞納群島之際，塞班國際機場因強風與強降雨發布警戒，當時風暴正向西南移動，預期稍後轉向北行。",
+      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
     },
     {
       "rank": 3,
-      "title": "颱風Nolo越過換日線進入日本氣象廳責任區 預測將逐漸減弱",
-      "dek": "據Weathernews報導，原為颶風的Nolo越過國際換日線後轉為強烈颱風，日本氣象廳預測其將在日本以東、以南海域減弱，不致登陸。",
-      "url": "https://sea.weathernews.com/resources/202610/262"
+      "title": "彩雲急速增強為「非常強」颱風 直逼小笠原群島",
+      "dek": "氣象單位預測彩雲將快速增強至「非常強」等級，中心氣壓約950百帕、風速約80節的巔峰強度預計於10月4日至5日出現在小笠原群島附近。",
+      "url": "https://weathernews.jp/news/202610/020181/"
     },
     {
       "rank": 4,
-      "title": "西太平洋罕見同時出現三個熱帶氣旋",
-      "dek": "日本時報報導，彩雲、Nolo與新生成的小熊同時活躍於西太平洋，但三者均無登陸日本的預測路徑。",
-      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+      "title": "大型強颱彩雲直撲小笠原 當地示警風浪加劇",
+      "dek": "彩雲發展為大型強烈颱風並持續北上接近小笠原群島，氣象預報員警告當地將出現強風與高浪。",
+      "url": "https://weathernews.jp/news/202610/030051/"
     },
     {
       "rank": 5,
-      "title": "颶風Nolo越過國際換日線 轉編為西太平洋颱風",
-      "dek": "AccuWeather報導，Nolo自中太平洋颶風轉為西太平洋颱風後仍維持強勁勢力，預測路徑遠離陸地。",
-      "url": "https://www.accuweather.com/en/hurricane/hurricane-nolo-crosses-international-date-line-becomes-typhoon-nolo/1941971"
+      "title": "彩雲掠過小笠原後轉向外海 關東千葉受外圍雨帶影響",
+      "dek": "彩雲10月5日前後以接近巔峰強度通過小笠原群島東側後轉向東行，10月6日至7日外圍雨帶為關東與千葉沿岸帶來風雨增強，但已遠離台灣。",
+      "url": "https://weathernews.jp/news/202610/020081/"
     },
     {
       "rank": 6,
-      "title": "Nolo持續增強 正式轉型為西太平洋颱風",
-      "dek": "夏威夷新聞網報導，Nolo在轉入西太平洋後仍維持強度，目前觀測重點在於其是否對日本有長期影響，惟現階段預測路徑仍偏離陸地。",
-      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
+      "title": "颱風蘇力蓋北轉通過八丈島外海 強度持續減弱",
+      "dek": "10月1日上午，第26號颱風蘇力蓋位於八丈島東方約110公里海面，中心氣壓1002百帕，以每小時20公里速度向東北移動，已逐漸脫離日本本土並減弱。",
+      "url": "https://weathernews.jp/news/202610/010121/"
     },
     {
       "rank": 7,
-      "title": "快訊／「小熊」颱風生成 西太平洋再現三颱共存局面",
-      "dek": "ETtoday報導，第29號颱風小熊於馬里亞納群島、關島附近海面形成，預測北轉後朝日本東南方海域移動，對台灣無直接影響。",
-      "url": "https://www.ettoday.net/news/20261005/3249135.htm"
+      "title": "蘇力蓋增強為強颱掠過沖繩 當地受強風高浪侵襲",
+      "dek": "蘇力蓋在轉向本州之前，9月下旬以強颱等級通過沖繩以南海域，為琉球群島帶來強風與高浪，台灣未曾被納入警戒範圍。",
+      "url": "https://weathernews.jp/news/202609/270021/"
     },
     {
       "rank": 8,
-      "title": "三颱共舞！輕颱小熊生成 氣象粉專曝未來路徑",
-      "dek": "鏡週刊報導，氣象專家分析小熊及另兩個同時活躍的颱風，預測路徑均沿太平洋高壓邊緣遠離台灣。",
-      "url": "https://www.mirrormedia.mg/story/20261005edi016"
+      "title": "菲律賓氣象局預估10月再生1至2個熱帶氣旋",
+      "dek": "菲律賓大氣地理天文服務管理局表示，隨著責任海域逐漸轉入東北季風季節，本月仍可能有一至兩個熱帶氣旋形成或進入該海域。",
+      "url": "https://palawandailynews.com/weather-update/pagasa-forecasts-four-weather-disturbances-this-october/"
     },
     {
       "rank": 9,
-      "title": "彩雲外圍雲雨帶為菲律賓維薩亞斯、民答那峨帶來降雨",
-      "dek": "據BusinessWorld報導，菲律賓大氣象局PAGASA指出，即便彩雲中心遠在馬里亞納群島一帶，其外圍雲雨帶仍為菲律賓部分地區帶來零星降雨。",
-      "url": "https://bworldonline.com/the-nation/2026/10/05/784397/trough-of-super-typhoon-choi-wan-brings-rain-over-visayas-mindanao-pagasa/"
+      "title": "2026年颱風季異常活躍 專家示警秋季仍可能再現強颱",
+      "dek": "北海道新聞報導，今年西太平洋8月單月生成10個颱風，為1966年以來首見，預報機構提醒秋季仍不能排除強烈颱風生成的可能性。",
+      "url": "https://www.hokkaido-np.co.jp/article/1317071/"
     },
     {
       "rank": 10,
-      "title": "小熊颱風生成！西北太平洋「三颱共舞」再現",
-      "dek": "NOWnews報導彩雲、Nolo、小熊三颱最新位置與預測路徑，三者預測路徑圈均未涵蓋台灣。",
-      "url": "https://www.nownews.com/news/6880663"
+      "title": "彩雲預報更新 下週初將以強勢逼近小笠原群島",
+      "dek": "10月1日的早期預報指出，彩雲預計於隔週初以強烈颱風等級接近小笠原群島，其路徑與強度變化持續受到關注。",
+      "url": "https://weathernews.jp/news/202610/010131/"
     }
   ]
 }
