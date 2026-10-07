@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T03:14:00+08:00",
+  "generated_at": "2026-10-08T04:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署上一次發布颱風警報已是8月27日，至今逾一個月未再發布任何海上或陸上颱風警報，近日台灣部分地區的降雨示警屬季節性雨型，與熱帶氣旋無關。",
+  "alert_desc": "截至目前查證，中央氣象署並未對台灣發布海上或陸上颱風警報，西太平洋三個活躍系統皆無直接影響台灣的跡象。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無任何颱風系統直接影響，近期大雨示警屬季節性雨型，與熱帶氣旋無關。"
+    "text": "台中目前無任何颱風系統直接影響，當地亦無相關停班停課或風雨警報公告，最近一次因颱風發布停課紀錄為今年7月的颱風巴威。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風季出現空窗 台灣今秋暫無警報",
-    "dek": "中央氣象署逾一個月未發布新的颱風警報，西太平洋颱風季雖整體異常活躍，但目前並無任何風暴直接威脅台灣本島",
-    "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
+    "title": "西太平洋罕見「三颱共舞」牽動秋季天氣，台灣暫無直接威脅，仍待國慶連假前觀察",
+    "dek": "三個熱帶氣旋同時在西太平洋活躍，為五年來首見的十月罕見現象，但路徑均偏向日本外海，台灣與香港氣象機構均表示目前無直接威脅。",
+    "url": "https://japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons"
   },
   "items": [
     {
       "rank": 1,
-      "title": "台灣部分地區發布大雨特報，氣象署稱屬季節性雨型",
-      "dek": "《台北時報》10月5日報導，此次豪雨示警與熱帶系統無關，台中等中部地區目前未受直接影響。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/05/2003865435"
+      "title": "西太平洋罕見「三颱共舞」，日本氣象協會稱五年來十月首見",
+      "dek": "白海豚、浪卡與小熊三個系統同時活躍，雖均未預測登陸日本，但已在部分海域掀起高浪。",
+      "url": "https://japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons"
     },
     {
       "rank": 2,
-      "title": "中央氣象署最近一次颱風警報：8月27日馬祖海上警戒",
-      "dek": "中央氣象署紀錄顯示，上一次颱風警報已逾一個月未再發布，當時系統中心氣壓965百帕、最大風速每秒35公尺。",
-      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
+      "title": "颱風白海豚轉向東北遠離日本，不致登陸",
+      "dek": "白海豚於9月底在馬里亞納群島以北形成，10月6日已北轉東北方向，逐漸遠離日本本土。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 3,
-      "title": "颱風「蘇利蓋」掠過伊豆群島東側，未威脅台灣",
-      "dek": "日本Weathernews報導，蘇利蓋10月1日已減弱為熱帶風暴等級，預計轉化為溫帶低氣壓，僅對日本沿岸構成高浪影響。",
-      "url": "https://weathernews.jp/news/202610/010121/"
+      "title": "颱風浪卡跨越換日線後增強為「非常強」等級",
+      "dek": "原為中太平洋颶風的浪卡轉入西北太平洋後被日本氣象廳列為「非常強」，預測將於10月7、8日逐漸減弱，主要影響航運。",
+      "url": "https://www.wdbj7.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
     },
     {
       "rank": 4,
-      "title": "回顧：今年第26號颱風「蘇利蓋」9月底生成",
-      "dek": "Weathernews指出，蘇利蓋於9月23日在菲律賓以北、沖繩附近海域生成，是9月出現的第三個颱風，緊接「杜鵑」之後。",
-      "url": "https://weathernews.jp/news/202609/230221/"
+      "title": "熱帶風暴小熊估增強為強颱，10月12日前後接近小笠原群島",
+      "dek": "Weathernews預測小熊將於10月10日左右達「非常強」等級，是三個系統中最值得關注的潛在增強颱風。",
+      "url": "https://sea.weathernews.com/resources/202610/262"
     },
     {
       "rank": 5,
-      "title": "回顧：颱風「紅霞」7月24日最接近台灣，花東外圍風雨增強",
-      "dek": "中央氣象署曾為紅霞發布海上颱風警報，警戒範圍涵蓋巴士海峽與東沙島海面，暴風圈外圍為花東、恆春半島帶來明顯降雨。",
-      "url": "https://www.storm.mg/article/11150901"
+      "title": "三颱共同攪動，日本太平洋沿岸出現高浪與湧浪",
+      "dek": "日本氣象協會網站tenki.jp警告伊豆群島、關東沿海波浪明顯升高，但預期本州天氣將自10月7日起轉趨晴朗。",
+      "url": "https://tenki.jp/bousai/typhoon/2627/"
     },
     {
       "rank": 6,
-      "title": "回顧：颱風「巴威」掠過台灣北部，疏散逾萬人",
-      "dek": "巴威7月11日自北部海面掠過台灣，當局疏散超過1.4萬居民，恆春半島出現局部12級強風。",
-      "url": "https://www.thestar.com.my/news/world/2026/07/11/typhoon-bavi-lashes-japan039s-southern-islands-taiwan-evacuates-thousands"
+      "title": "台灣確認不受三颱共舞直接影響，氣象界關注國慶連假前變化",
+      "dek": "風傳媒報導指出台灣與香港氣象機構均表示三個西太平洋系統不致直接威脅，但預報人員仍關注新颱風醞釀可能性。",
+      "url": "https://storm.mg/lifestyle/11170068"
     },
     {
       "rank": 7,
-      "title": "2026年太平洋颱風季異常活躍，強烈厄爾尼諾現象是主因",
-      "dek": "維基百科彙整資料顯示，本季西太平洋已出現約26個命名風暴、9個颱風與4個強烈颱風級系統，造成逾300人死亡及超過100億美元損失。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "美國國家颶風中心監測墨西哥灣擾動發展潛力",
+      "dek": "多家美國媒體持續追蹤一處熱帶擾動，發展機率約兩成以上，惟尚未正式命名成形。",
+      "url": "https://www.wlox.com/2026/10/02/gulf-tropical-activity-possible-late-next-week/"
     },
     {
       "rank": 8,
-      "title": "大西洋罕見「颶風荒」：十月能否打破僵局？",
-      "dek": "WeatherBug報導，截至10月2日，大西洋本季已有8個命名風暴，卻無一個增強為颶風，形成近年罕見的乾旱期。",
-      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
+      "title": "PAGASA展望：受厄爾尼諾影響，菲律賓10月颱風活動偏少",
+      "dek": "菲律賓氣象機構預估10月僅1至2個熱帶氣旋進入責任海域，呂宋與維薩亞斯大部分地區降雨亦預期偏少。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴「漢娜」在大西洋中部徘徊後趨於減弱",
-      "dek": "AccuWeather報導，漢娜是大西洋今年第8個命名風暴，生成於百慕達東北方，預期將減弱並不會影響美國本土。",
-      "url": "https://www.accuweather.com/en/hurricane/tropical-storm-hanna-wanders-over-atlantic-ocean/1939874"
+      "title": "2026年太平洋颱風季回顧：至今已有25個系統、10個達颱風強度",
+      "dek": "維基百科引述美國聯合颱風警報中心（JTWC）資料，年初強颱「海豚」曾達到接近五級颱風強度，為全年最強系統之一。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 10,
-      "title": "強烈厄爾尼諾壓抑風切，大西洋風暴屢屢止步颶風門檔",
-      "dek": "美國氣象機構指出，強烈厄爾尼諾增強高空風切，使今年大西洋多個風暴未能增強為颶風，形成近年少見的平靜期。",
-      "url": "https://turnto10.com/weather/weather-blog/strong-el-nino-likely-in-2026-resulting-in-fewer-atlantic-hurricanes-than-average-rhode-island-massachusetts-connecticut"
+      "title": "回顧：8月颱風海豚掠過台灣北部海域，造成6人受傷",
+      "dek": "中央氣象署曾為海豚發布海上颱風警報，全台共發生632件颱風相關事故，是台灣近期最明顯的一次颱風衝擊。",
+      "url": "https://www.thepeninsulaqatar.com/article/10/08/2026/typhoon-dolphin-hits-northern-taiwan-injures-6"
     }
   ]
 }
