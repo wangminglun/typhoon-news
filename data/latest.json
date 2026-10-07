@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T04:11:00+08:00",
+  "generated_at": "2026-10-08T05:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "截至目前查證，中央氣象署並未對台灣發布海上或陸上颱風警報，西太平洋三個活躍系統皆無直接影響台灣的跡象。",
+  "alert_desc": "目前無海上或陸上颱風警報，上一次警報（輕颱朵拉/Saudel海上警報）已於8月28日下午解除。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無任何颱風系統直接影響，當地亦無相關停班停課或風雨警報公告，最近一次因颱風發布停課紀錄為今年7月的颱風巴威。"
+    "text": "目前無活躍颱風系統直接影響台中地區，市府尚未發布任何停班停課措施；相較之下，7月颱風巴維來襲時，台中市曾宣布停班停課。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋罕見「三颱共舞」牽動秋季天氣，台灣暫無直接威脅，仍待國慶連假前觀察",
-    "dek": "三個熱帶氣旋同時在西太平洋活躍，為五年來首見的十月罕見現象，但路徑均偏向日本外海，台灣與香港氣象機構均表示目前無直接威脅。",
-    "url": "https://japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons"
+    "title": "颱風彩雲在日本外海減弱轉性，台灣本島暫無威脅",
+    "dek": "日本氣象廳與美國關島國家氣象局資料顯示，今年太平洋第27號颱風彩雲正在日本東方海域減弱，預計8日完成熱帶氣旋外的轉性，而台灣中央氣象署海上颱風警報早在8月已解除，目前未發布任何新警報。",
+    "url": "https://sea.weathernews.com/resources/202610/263"
   },
   "items": [
     {
       "rank": 1,
-      "title": "西太平洋罕見「三颱共舞」，日本氣象協會稱五年來十月首見",
-      "dek": "白海豚、浪卡與小熊三個系統同時活躍，雖均未預測登陸日本，但已在部分海域掀起高浪。",
-      "url": "https://japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons"
+      "title": "彩雲持續減弱，預計8日完成颱風外轉性",
+      "dek": "據Weathernews引述日本氣象廳資料，彩雲7日移入日本東北方較冷海域，風力減弱至約75節，中心氣壓回升，預計8日協調世界時完成熱帶氣旋外轉性。",
+      "url": "https://sea.weathernews.com/resources/202610/263"
     },
     {
       "rank": 2,
-      "title": "颱風白海豚轉向東北遠離日本，不致登陸",
-      "dek": "白海豚於9月底在馬里亞納群島以北形成，10月6日已北轉東北方向，逐漸遠離日本本土。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
-    },
-    {
-      "rank": 3,
-      "title": "颱風浪卡跨越換日線後增強為「非常強」等級",
-      "dek": "原為中太平洋颶風的浪卡轉入西北太平洋後被日本氣象廳列為「非常強」，預測將於10月7、8日逐漸減弱，主要影響航運。",
-      "url": "https://www.wdbj7.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
-    },
-    {
-      "rank": 4,
-      "title": "熱帶風暴小熊估增強為強颱，10月12日前後接近小笠原群島",
-      "dek": "Weathernews預測小熊將於10月10日左右達「非常強」等級，是三個系統中最值得關注的潛在增強颱風。",
+      "title": "颱風彩雲在小笠原群島東方增強為「非常強」颱風",
+      "dek": "日本氣象廳10月5日分析顯示，彩雲位於小笠原群島父島東南方約450公里海域，評級為「大型且非常強」，最大風速達95節，預報將北北西經小笠原群島後轉向北方進入太平洋公海。",
       "url": "https://sea.weathernews.com/resources/202610/262"
     },
     {
+      "rank": 3,
+      "title": "彩雲逼近，美國關島國家氣象局對北馬里亞納群島發布颱風與熱帶風暴警報",
+      "dek": "美國國家氣象局關島台10月3日上午發布警報，指彩雲（聯合颱風警報中心編號26W）在北緯18.4度、東經144.9度掠過帕幹島，對阿拉馬甘、阿格里漢、帕幹島發布颱風警報，對天寧島與塞班島發布熱帶風暴警報，並對關島及北馬里亞納群島全境發布洪水守視。",
+      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-8-26am-chst-by-nws-tiyan-gu"
+    },
+    {
+      "rank": 4,
+      "title": "彩雲掠過馬里亞納群島北上，預測4日中午逼近日本小笠原群島海域",
+      "dek": "據馬新社（Bernama）報導，彩雲以每小時180公里風速向北北東移動，橫掃馬里亞納群島，預測將於10月4日中午抵達東京以南的小笠原群島附近海域。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+    },
+    {
       "rank": 5,
-      "title": "三颱共同攪動，日本太平洋沿岸出現高浪與湧浪",
-      "dek": "日本氣象協會網站tenki.jp警告伊豆群島、關東沿海波浪明顯升高，但預期本州天氣將自10月7日起轉趨晴朗。",
-      "url": "https://tenki.jp/bousai/typhoon/2627/"
+      "title": "熱帶風暴彩雲在塞班島附近生成，成為今年西北太平洋第27號風暴",
+      "dek": "日本氣象廳10月1日資料顯示，新生成的熱帶風暴彩雲位於塞班島東北方約230公里海域，風力35節、中心氣壓998百帕，預測將快速增強，10月3日達颱風強度，約4日至5日達最強約80節。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 6,
-      "title": "台灣確認不受三颱共舞直接影響，氣象界關注國慶連假前變化",
-      "dek": "風傳媒報導指出台灣與香港氣象機構均表示三個西太平洋系統不致直接威脅，但預報人員仍關注新颱風醞釀可能性。",
-      "url": "https://storm.mg/lifestyle/11170068"
+      "title": "2026年太平洋颱風季展望：El Niño轉換下活動偏多",
+      "dek": "Weathernews9月發布的季節展望指出，隨著El Niño現象可能轉換，今年秋季預期將有更多發展成熟的颱風接近日本及西北太平洋地區，與9月至10月以來活躍的風暴活動相符。",
+      "url": "https://sea.weathernews.com/resources/202609/232"
     },
     {
       "rank": 7,
-      "title": "美國國家颶風中心監測墨西哥灣擾動發展潛力",
-      "dek": "多家美國媒體持續追蹤一處熱帶擾動，發展機率約兩成以上，惟尚未正式命名成形。",
-      "url": "https://www.wlox.com/2026/10/02/gulf-tropical-activity-possible-late-next-week/"
+      "title": "颱風朵拉（Saudel）對台威脅解除，中央氣象署解除海上警報",
+      "dek": "據中央社（Focus Taiwan）報導，中央氣象署8月28日下午2時30分解除颱風朵拉海上颱風警報，因其威力減弱且不再威脅台灣，惟南部地區當時仍持續降下豪雨。",
+      "url": "https://focustaiwan.tw/society/202608280005"
     },
     {
       "rank": 8,
-      "title": "PAGASA展望：受厄爾尼諾影響，菲律賓10月颱風活動偏少",
-      "dek": "菲律賓氣象機構預估10月僅1至2個熱帶氣旋進入責任海域，呂宋與維薩亞斯大部分地區降雨亦預期偏少。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "熱帶低壓可能增強為今年第12號颱風諾爾，氣象署研判將發布海上警報",
+      "dek": "據中央社（Focus Taiwan）報導，中央氣象署7月23日表示，一個發展中的熱帶低壓預測將增強為今年第12號颱風諾爾，研判當天晚間可能發布海上颱風警報。",
+      "url": "https://focustaiwan.tw/society/202607230006"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季回顧：至今已有25個系統、10個達颱風強度",
-      "dek": "維基百科引述美國聯合颱風警報中心（JTWC）資料，年初強颱「海豚」曾達到接近五級颱風強度，為全年最強系統之一。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "颱風巴維來襲，台灣發布陸上警報，台中宣布停班停課",
+      "dek": "據Newtalk報導，隨颱風巴維逼近，中央氣象署發布陸上颱風警報，台中市政府宣布自7月10日下午6時起至7月11日午夜停止上班上課，環保局同步暫停垃圾清運作業。",
+      "url": "https://newtalk.tw/news/view/2026-07-10/1046373"
     },
     {
       "rank": 10,
-      "title": "回顧：8月颱風海豚掠過台灣北部海域，造成6人受傷",
-      "dek": "中央氣象署曾為海豚發布海上颱風警報，全台共發生632件颱風相關事故，是台灣近期最明顯的一次颱風衝擊。",
-      "url": "https://www.thepeninsulaqatar.com/article/10/08/2026/typhoon-dolphin-hits-northern-taiwan-injures-6"
+      "title": "颱風梅卡拉創22年來最強6月颱風紀錄，一度朝日本逼近",
+      "dek": "據越南網（VietnamNet，引自美聯社）報導，颱風梅卡拉增強為22年來西北太平洋最強的6月颱風，並朝日本方向移動，日本氣象廳當時記錄顯示其一度行經台灣東北方海域。",
+      "url": "https://vietnamnet.vn/en/mekkhala-becomes-strongest-june-typhoon-in-22-years-heads-toward-japan-2528527.html"
     }
   ]
 }
