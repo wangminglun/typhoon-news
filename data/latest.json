@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T01:12:00+08:00",
+  "generated_at": "2026-10-08T02:16:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。西太平洋雖同時有三個熱帶氣旋活動，但均未威脅台灣，台灣當前天氣主要受東北季風增強影響，僅發布陸上強風特報。",
+  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，僅因東北季風增強對大台北至恆春半島沿海地區發布陸上強風特報，提醒民眾留意強陣風。",
   "region_watch": {
     "region": "台中",
-    "text": "目前台中市受東北季風增強影響，自10月6日晚間至7日晚間被中央氣象署列入發布「陸上強風特報」（黃色燈號）的12縣市之一，局部地區平均風力可達6級以上、陣風8級以上；但目前無海上或陸上颱風警報，西太平洋三個活動中的熱帶氣旋（諾盧、彩雲、小熊）均未直接威脅台灣，台中市目前無因颱風而停班停課，目前無直接颱風影響。"
+    "text": "台中市雖在此次陸上強風特報涵蓋範圍內，局部地區可能出現較強陣風，但目前無颱風系統直接影響台中。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋三颱罕見同時活躍 台灣僅強風特報無颱風威脅",
-    "dek": "日本氣象廳同時追蹤颱風諾盧、彩雲與小熊，中央氣象署僅對台中等12縣市發布陸上強風特報。",
-    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+    "title": "彩雲減弱轉化 台灣無颱風威脅",
+    "dek": "彩雲掠日轉化，諾羅夏威夷外海增強，台灣僅受東北季風強風影響",
+    "url": "https://sea.weathernews.com/resources/202610/260"
   },
   "items": [
     {
       "rank": 1,
-      "title": "西太平洋罕見三颱並存",
-      "dek": "日本時報報導，彩雲、諾盧與小熊同時活躍，為五年來10月首見。",
-      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+      "title": "颱風彩雲減弱，轉化為溫帶氣旋",
+      "dek": "彩雲掠過日本外海後持續減弱，未登陸日本本土，也未曾威脅台灣。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 2,
-      "title": "美軍媒體稱西太平洋「颱風高速公路」車流湧現",
-      "dek": "Stars and Stripes指出三系統皆未威脅美軍設施或有人陸地。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "彩雲逼近馬里亞納群島，塞班機場示警強風強雨",
+      "dek": "彩雲生成初期以熱帶風暴強度接近塞班，預期將北轉增強為強颱。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
     },
     {
       "rank": 3,
-      "title": "颱風諾盧轉入日方責任區，預測將減弱",
-      "dek": "Weathernews報導，諾盧跨越換日線後轉向日本以南海域，不致登陸。",
-      "url": "https://sea.weathernews.com/resources/202610/262"
+      "title": "衛星畫面證實彩雲掠過日本沿岸",
+      "dek": "德國氣象網站衛星影像顯示彩雲路徑北轉，未登陸日本本土。",
+      "url": "https://www.donnerwetter.de/satellit/taifun-choi-wan-zieht-an-japan-vorbei_cid_12629.html"
     },
     {
       "rank": 4,
-      "title": "諾盧跨越換日線 預報作業移交日本與關島",
-      "dek": "Nature World News報導，諾盧由颶風轉編為颱風，預計掠過日本以南海域。",
-      "url": "https://www.natureworldnews.com/articles/73447/20261006/nolo-crosses-date-line-becomes-typhoon-forecast-duties-shift-japan-guam.htm"
+      "title": "颶風諾羅在太平洋海域二度增強",
+      "dek": "中太平洋颶風諾羅逼近西北夏威夷群島，當局發布熱帶風暴警告。",
+      "url": "https://www.lanacion.com.ar/usa/nolo-strengthens-to-a-hurricane-again-in-the-pacific-ocean-nid02102026/"
     },
     {
       "rank": 5,
-      "title": "颱風彩雲逼近巔峰強度，掀起逾12公尺巨浪",
-      "dek": "Weathernews指出彩雲在小笠原群島東側增強，不會登陸日本本土。",
-      "url": "https://sea.weathernews.com/resources/202610/263"
+      "title": "美聯社證實諾羅重新增強並西移",
+      "dek": "報導指諾羅遠離夏威夷主要島鏈，此前夏威夷州已預防性動員國民兵。",
+      "url": "https://cfjctoday.com/2026/10/02/nolo-strengthens-to-a-hurricane-again-in-the-pacific-ocean/"
     },
     {
       "rank": 6,
-      "title": "菲律賓氣象局：彩雲不易進入菲國責任海域",
-      "dek": "Inquirer.net報導，PAGASA評估彩雲對菲律賓無直接威脅。",
-      "url": "https://newsinfo.inquirer.net/2315572/choi-wan-may-intensify-into-typhoon-unlikely-to-enter-par"
+      "title": "夏威夷發布颶風觀察，諾羅初次逼近示警",
+      "dek": "九月底預報指諾羅可能帶來高達20英吋降雨，威脅引發致命洪患與山崩。",
+      "url": "https://beinsure.com/news/hurricane-watch-issued-for-hawaii-as-tropical-storm-nolo-strengthens/"
     },
     {
       "rank": 7,
-      "title": "彩雲殘餘能量可能併入白令海風暴",
-      "dek": "Nature World News報導，彩雲轉為溫帶氣旋後，殘餘能量牽動阿拉斯加天氣。",
-      "url": "https://natureworldnews.com/articles/73461/20261007/choi-wan-churns-seas-over-40-feet-south-japan-its-remnants-head-alaskas-bering-sea.htm"
+      "title": "小熊遠離，香港天文台解除所有熱帶氣旋警告",
+      "dek": "小熊減弱為低壓並轉向北部灣，其目前狀態是否仍存在尚待確認。",
+      "url": "https://www.thestandard.com.hk/breaking-news/section/4/174463/Tropical-cyclone-warnings-cancelled-as-Koguma-departs"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴小熊增強，對馬里亞納群島無直接威脅",
-      "dek": "關島媒體Marianas Variety報導，小熊路徑可能轉向日本方向。",
-      "url": "https://www.mvariety.com/news/local/koguma-27w-strengthens-into-tropical-storm-poses-no-direct-threat-to-marianas/article_22b8c00e-c11e-48e7-b9b7-4a72a5bbde90.html"
+      "title": "回顧：強颱諾盧七月登陸廣東，已消散非現行威脅",
+      "dek": "諾盧為今年對中國大陸影響最劇烈的颱風，但已於七月下旬在內陸消散。",
+      "url": "https://www.thestar.com.my/aseanplus/2026/07/26/strong-winds-and-rain-lash-china-after-typhoon-noul-makes-landfall"
     },
     {
       "rank": 9,
-      "title": "三颱共舞 日氣象廳路徑曝小熊下週或影響本州",
-      "dek": "TVBS引述日本氣象廳資料，重申三系統均未威脅台灣。",
-      "url": "https://news.tvbs.com.tw/world/4032665"
+      "title": "東北季風增強，中央氣象署發布陸上強風特報",
+      "dek": "強風範圍自大台北延伸至恆春半島，北部東部將有短暫降雨及氣溫下降。",
+      "url": "https://www.nownews.com/news/6558459"
     },
     {
       "rank": 10,
-      "title": "墨西哥灣熱帶風暴伊薰生成，預測快速增強登陸美國灣岸",
-      "dek": "The Watchers報導，伊薰可望成為大西洋今年首個颶風。",
-      "url": "https://watchers.news/2026/10/07/tropical-storm-isaias-forms-in-the-gulf-of-america-forecast-to-rapidly-strengthen-before-u-s-landfall/"
+      "title": "北部東部將迎氣溫小幅下降，強風特報延續至週四",
+      "dek": "氣象署指東北季風影響持續至十月八日，但全程與颱風系統無關。",
+      "url": "https://www.nownews.com/news/6558459"
     }
   ]
 }
