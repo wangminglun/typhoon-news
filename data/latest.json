@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T10:11:00+08:00",
+  "generated_at": "2026-10-07T11:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報；此判斷信心程度為中等（未能直接存取氣象署官網即時公告頁面），建議以氣象署最新公告為準。",
+  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報；搜尋結果僅見今年7月颱風巴比侵等歷史警報紀錄，與當前彩雲、諾羅、小熊三颱無關，建議以氣象署最新公告為準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中市天氣主要受季節性鋒面與東北季風型態影響，並非由任何熱帶氣旋所致，當地未受彩雲或其他颱風系統波及，也未出現停班停課情形。"
+    "text": "目前無直接影響：三個活躍的太平洋熱帶系統（彩雲、諾羅、小熊）均遠在台灣外海，台中地區未受任何風雨影響，也未出現停班停課或氣象特報。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱彩雲北轉遠離日本 台灣暫無威脅",
-    "dek": "今年第27號颱風彩雲一度增強至非常強等級，預計轉向東北公海減弱，台灣未發布颱風警報。",
-    "url": "https://weathernews.jp/news/202610/050061/"
+    "title": "西太平洋罕見三颱共舞　台灣無虞",
+    "dek": "氣象機構罕見記錄西太平洋十月同時出現三個熱帶系統，但三者路徑皆遠離台灣，中央氣象署目前未發布任何海上或陸上颱風警報。",
+    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "27號颱風彩雲生成 路徑仍待觀察",
-      "dek": "彩雲於馬里亞納群島附近形成，預測西行後轉北，小笠原群島需留意後續天氣。",
-      "url": "https://weathernews.jp/news/202610/010021/"
+      "title": "西太平洋罕見三颱齊發",
+      "dek": "《日本時報》報導，彩雲、諾羅與小熊三個熱帶系統同時活躍，為五年來首見的十月現象，並在日本部分海域掀起高浪。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 2,
-      "title": "彩雲逼近馬里亞納 塞班機場示警",
-      "dek": "Weathernews報導彩雲接近馬里亞納群島，警告塞班國際機場將有強風豪雨。",
-      "url": "https://wxtech.weathernews.com/news/sky20261001-01/"
+      "title": "三颱逼近日本假期週",
+      "dek": "《首爾經濟日報》報導，彩雲、諾羅與小熊三颱同時活躍，恐影響日本假期週的交通與航運安排。",
+      "url": "https://en.sedaily.com/international/2026/10/05/three-typhoons-close-in-on-japan-during-holiday-week"
     },
     {
       "rank": 3,
-      "title": "彩雲增強 下週初逼近小笠原群島",
-      "dek": "預測彩雲持續增強，下週初以強勢力接近小笠原群島，風速估將達每秒45公尺。",
-      "url": "https://weathernews.jp/news/202610/010131/"
+      "title": "三颱同現　十月罕見現象",
+      "dek": "SSBCrack News報導西太平洋同時出現三個熱帶風暴系統，並援引日本氣象協會的追蹤，稱此為不尋常的十月型態。",
+      "url": "https://news.ssbcrack.com/three-storms-active-in-western-pacific-unusual-october-clustering-observed/"
     },
     {
       "rank": 4,
-      "title": "大型強颱彩雲北上 本州可望倖免",
-      "dek": "彩雲已成大型強颱，持續北上朝小笠原群島，預期路徑將遠離日本本州。",
-      "url": "https://weathernews.jp/news/202610/030191/"
+      "title": "三颱共存報導轉載",
+      "dek": "轉載報導重申彩雲、諾羅與小熊三颱同時活躍於西太平洋，其中彩雲為三者中強度最高者。",
+      "url": "https://freedom-vaca.org/2026/10/06/western-pacific-sees-rare-trio-of-storms/"
     },
     {
       "rank": 5,
-      "title": "彩雲急速增強 小笠原籲防範風浪",
-      "dek": "預報指彩雲將急速增強至「非常強」等級，小笠原群島需警戒強風與巨浪。",
-      "url": "https://weathernews.jp/news/202610/020181/"
+      "title": "彩雲接近馬里亞納群島",
+      "dek": "Weathernews報導颱風彩雲接近馬里亞納群島，塞班國際機場需留意強風與降雨，預料將快速增強。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
     },
     {
       "rank": 6,
-      "title": "彩雲增強至925百帕 今年最強風暴",
-      "dek": "彩雲中心氣壓降至925百帕，陣風估逾105節，成今年最強颱風，於小笠原東側北上。",
-      "url": "https://weathernews.jp/news/202610/050061/"
+      "title": "彩雲逼近巔峰強度",
+      "dek": "氣象學家Ryan Maue的每日熱帶觀測指出，彩雲中心氣壓低至約950百帕，風速逼近巔峰強度。",
+      "url": "https://weather.substack.com/p/october-5-2026-monday-tropical-update"
     },
     {
       "rank": 7,
-      "title": "大型非常強颱彩雲北上 持續示警",
-      "dek": "大型且非常強的彩雲掠過小笠原群島附近，當地持續面臨強風與高浪威脅。",
-      "url": "https://weathernews.jp/news/202610/040091/"
+      "title": "彩雲增強　小熊生成",
+      "dek": "前一日的熱帶觀測記錄彩雲持續增強近五級強度，同時日本氣象廳將馬紹爾群島熱帶低氣壓升級為熱帶風暴小熊。",
+      "url": "https://weather.substack.com/p/october-4-2026-sunday-tropical-update"
     },
     {
       "rank": 8,
-      "title": "彩雲風眼清晰可見 強勢北上",
-      "dek": "衛星影像顯示彩雲風眼結構清晰，預計以非常強勢力於小笠原東側繼續北上。",
-      "url": "https://weathernews.jp/news/202610/040241/"
+      "title": "第27號颱風對韓國影響",
+      "dek": "韓國媒體Wikitree報導第27號颱風彩雲在馬里亞納群島以北生成，評估其北轉路徑對韓國影響有限。",
+      "url": "https://www.wikitree.co.kr/articles/1163168"
     },
     {
       "rank": 9,
-      "title": "颱風季創紀錄 蘇力嘎襲擾日本",
-      "dek": "《日本時報》報導，今年第26號颱風蘇力嘎創下1966年以來8月颱風數量新高。",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/"
+      "title": "彩雲早期逼近菲律賓",
+      "dek": "獨立氣象部落客Jay Hobgood追蹤彩雲生成初期曾逼近菲律賓海，其後轉向北方的馬里亞納群島與日本。",
+      "url": "https://jayhobgood.com/?p=12192"
     },
     {
       "rank": 10,
-      "title": "彩雲增強 持續朝小笠原群島逼近",
-      "dek": "彩雲以強勢力持續北上逼近小笠原群島，報導指台灣與菲律賓目前未受威脅。",
-      "url": "https://weathernews.jp/news/202610/020081/"
+      "title": "2026颱風季展望偏多",
+      "dek": "Weathernews今年六月發布的季節展望預測，在厄爾尼諾增強下全年將有27至29個命名風暴，約14個預計接近日本。",
+      "url": "https://sea.weathernews.com/resources/202606/113"
     }
   ]
 }
