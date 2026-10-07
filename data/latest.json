@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T19:13:00+08:00",
+  "generated_at": "2026-10-07T20:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；西太平洋颱風彩雲即將轉化為溫帶氣旋，大西洋颶風季則逼近121年來最晚首颶風紀錄。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；西太平洋颱風彩雲即將轉化為溫帶氣旋，大西洋颶風季則將於10月8日面臨121年來最晚首颶風紀錄的攤牌時刻。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中目前並無任何活躍颱風影響，東北季風主要影響北部與東部，中南部（包括台中）天氣以多雲到晴為主，未發布風雨特報或停班停課公告。"
+    "text": "目前未受到任何風雨系統直接影響：近期預報顯示台中地區多雲到晴，僅有午後局部雷陣雨機率，並無停班停課相關公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風彩雲遠離台灣轉性 大西洋121年無颶風紀錄一步之遙",
-    "dek": "西太平洋颱風彩雲逐漸減弱並轉化為溫帶氣旋，台灣國慶假期天氣由東北季風主導，而大西洋則可能迎來逾百年來首個無颶風年份。",
+    "title": "大西洋颶風荒將於10月8日追平121年紀錄 彩雲颱風同步步入尾聲",
+    "dek": "今年大西洋至今尚未出現任何一個颶風，專家預期這項長達逾一世紀的空窗紀錄最快將在10月8日被追平並改寫，而西北太平洋僅存的颱風彩雲也將在同一天前後減弱為溫帶氣旋，對台灣並無影響。",
     "url": "https://sea.weathernews.com/resources/202610/263"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風彩雲增強為「大型且非常強」系統，逼近小笠原群島以東海域",
-      "dek": "根據Weathernews報導，彩雲在小笠原群島以東海面增強，掀起8公尺巨浪，近中心最大持續風速達每小時185公里，中心氣壓925百帕。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
-    },
-    {
-      "rank": 2,
-      "title": "彩雲預報更新：路徑與強度持續變化，將轉化為溫帶氣旋",
-      "dek": "根據Weathernews報導，彩雲將北北西轉向後加速往東北太平洋移動，預計10月8日完全轉化為溫帶氣旋。",
+      "title": "彩雲颱風逼近溫帶氣旋轉化 日本小笠原外海持續觀測",
+      "dek": "根據Weathernews報導，彩雲颱風5日至6日於小笠原群島東南方海面接近巔峰強度，中心氣壓925百帕、風速每小時185公里，預計10月8日前完成溫帶氣旋化。",
       "url": "https://sea.weathernews.com/resources/202610/263"
     },
     {
-      "rank": 3,
-      "title": "Weathernews追蹤馬里亞納群島附近發展中的太平洋風暴系統",
-      "dek": "根據Weathernews報導，該系統10月1日位於馬里亞納群島上空，中心氣壓998百帕，風速35節，氣象單位當時已預警其北轉後可能快速增強。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "rank": 2,
+      "title": "彩雲颱風移入冷水域減弱 小笠原、關東地區仍需戒備強風大浪",
+      "dek": "根據Weathernews報導，彩雲7日移入日本東北方較冷海域後強度減弱，中心氣壓回升至960百帕，小笠原周邊及關東平原仍可能受外圍環流影響出現強風與高浪。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
-      "rank": 4,
-      "title": "大西洋121年無颶風紀錄恐於10月被打破",
-      "dek": "根據AccuWeather報導，2026年大西洋颶風季尚未出現任何颶風，10月8日將追平1905年創下的「首個颶風出現最晚日期」紀錄。",
+      "rank": 3,
+      "title": "大西洋颶風季史無前例沉寂 121年「最晚首颶風」紀錄恐遭改寫",
+      "dek": "根據AccuWeather報導，今年大西洋已生成八個命名風暴卻無一達颶風強度，本季正逼近1905年創下、將於10月8日面臨突破的歷史紀錄。",
       "url": "https://www.accuweather.com/en/hurricane/a-121-year-old-atlantic-hurricane-record-could-be-broken-in-october/1940402"
     },
     {
+      "rank": 4,
+      "title": "若全季無颶風 2026年恐創下逾百年來首見紀錄",
+      "dek": "根據美國廣播公司加盟電視台WLOS報導，史上僅1907年與1914年整季未出現颶風，而強聖嬰現象造成的風切變是今年大西洋風暴難以增強為颶風的主要原因。",
+      "url": "https://wlos.com/newsletter-daily/atlantic-hurricane-season-record-latest-first-hurricane-modern-era-satellite-weather-storms-tropical-oceans-winds-el-nino-arthur-bertha-cristobal-dolly-edouard"
+    },
+    {
       "rank": 5,
-      "title": "2026年颶風季再次寫下歷史紀錄",
-      "dek": "根據佛羅里達媒體ClickOrlando報導，大西洋颶風季已創下衛星時代最晚首颶風紀錄，如今逼近1905年的全時期歷史紀錄。",
-      "url": "https://www.clickorlando.com/weather/2026/09/30/the-2026-hurricane-season-just-made-historyagain/"
+      "title": "美國國家颶風中心：未來七天大西洋不預期有新風暴生成",
+      "dek": "根據美國國家颶風中心（NHC）10月7日發布的展望報告，大西洋盆地目前無熱帶氣旋活動，且未來七天內北大西洋、加勒比海及墨西哥灣均不預期有新系統形成。",
+      "url": "https://www.nhc.noaa.gov/text/refresh/MIATWOAT+shtml/071144_MIATWOAT.shtml"
     },
     {
       "rank": 6,
-      "title": "大西洋32年來首度在9月結束前未出現任何颶風",
-      "dek": "根據LiveNOW from FOX報導，2026年大西洋颶風季已形成8個命名風暴，但風切、沙塵與增強中的厄爾尼諾現象持續抑制其增強為颶風。",
-      "url": "https://www.livenowfox.com/news/atlantic-ends-september-without-hurricane-first-time-32-years"
+      "title": "「一體兩面的海洋」：大西洋沉寂、太平洋活躍 同受強聖嬰現象左右",
+      "dek": "根據辛克萊集團旗下電視台報導，儘管大西洋罕見地遲遲未出現颶風，東太平洋卻因同一強聖嬰現象呈現較為活躍的風暴路徑，例如颶風羅威爾（Lowell）。",
+      "url": "https://newschannel9.com/news/nation-world/a-tale-of-two-oceans-atlantic-hurricane-season-nears-its-peak-with-no-hurricanes-yet-atlantic-tropical-storms-hurricane-lowell-pacific-storm-tracks-strong-el-nino-wind-shear-dc-weather-washington-dc-hurricane-season-forecast"
     },
     {
       "rank": 7,
-      "title": "2026年大西洋颶風季打破「無颶風天數」紀錄",
-      "dek": "根據邁阿密媒體Local10報導，該季已於9月12日超越2002年與2013年並列的衛星時代最晚首颶風紀錄，強勢厄爾尼諾被視為主因。",
-      "url": "https://www.local10.com/weather/hurricane/2026/09/11/2026-atlantic-hurricane-season-breaks-record-for-number-of-days-without-a-hurricane/"
+      "title": "西北太平洋今年颱風活動偏強 強聖嬰現象推升生成頻率",
+      "dek": "根據Weathernews報導，受強聖嬰現象影響，西北太平洋今年風暴活動較長期平均高出約四成，全季已出現約26個風暴、9個颱風與4個超級颱風，造成逾百億美元損失及300餘人死亡。",
+      "url": "https://sea.weathernews.com/resources/202609/232"
     },
     {
       "rank": 8,
-      "title": "2026年大西洋颶風季可能以另一種方式寫下歷史",
-      "dek": "根據田納西媒體WSMV報導，儘管命名風暴數量不少，卻無一增強為颶風，使該季可能挑戰史上最長「無颶風起始期」紀錄。",
-      "url": "https://www.wsmv.com/2026/09/11/2026-atlantic-hurricane-season-could-make-history-just-not-way-youd-think/"
+      "title": "中央氣象署：東北季風週三報到 北部轉涼有雨 無颱風活動",
+      "dek": "根據《今周刊》引述中央氣象署資料報導，東北季風10月7日起增強，北部、東北部氣溫明顯下降並有局部降雨，中南部維持多雲到晴，預報期間未提及任何颱風活動。",
+      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202510120016/天氣／首波降溫將報到！東北季風這天來「北部估跌10度」，又有熱帶擾動發展？10日報搶先看"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季總覽：活動量高於常年四成",
-      "dek": "根據維基百科西太平洋颱風季追蹤頁面，今年已出現26個命名風暴、9個颱風與4個超級颱風，受強厄爾尼諾影響，活動量較長期平均高出約四成。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "回顧：颱風多爾芬重創中國東部 逾百萬人撤離",
+      "dek": "根據美國國家公共廣播電台（NPR）報導，今年第13號颱風多爾芬為2026年侵襲中國最強颱風，在浙江兩度登陸，溫州、台州及上海逾百萬人撤離，上海逾1400航班取消。",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5926450/typhoon-dolphin-forces-over-300-000-people-to-evacuate-on-chinas-eastern-coast"
     },
     {
       "rank": 10,
-      "title": "中央氣象署預報：國慶假期前北部多雲有雨，10日轉晴且無颱風威脅",
-      "dek": "根據中央社英文媒體Focus Taiwan引述中央氣象署預報，東北季風將為北部與東部帶來10月7日至9日的降雨降溫，國慶假期天氣可望好轉，全程與颱風無關。",
-      "url": "https://focustaiwan.tw/society/202609250004"
+      "title": "回顧：颱風諾阿高速逼近 香港懸掛九號風球",
+      "dek": "根據香港無綫新聞（TVB News）報導，香港天文台7月25日夜間將風球升至八號，26日凌晨再升至九號，以應對高速接近的颱風諾阿，其後於當日上午降回八號。",
+      "url": "https://news.tvb.com/en/1185083-HKOissuesNo.9TyphoonsignalamidNoul'sarrival"
     }
   ]
 }
