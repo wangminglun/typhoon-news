@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T02:16:00+08:00",
+  "generated_at": "2026-10-08T03:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，僅因東北季風增強對大台北至恆春半島沿海地區發布陸上強風特報，提醒民眾留意強陣風。",
+  "alert_desc": "中央氣象署上一次發布颱風警報已是8月27日，至今逾一個月未再發布任何海上或陸上颱風警報，近日台灣部分地區的降雨示警屬季節性雨型，與熱帶氣旋無關。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市雖在此次陸上強風特報涵蓋範圍內，局部地區可能出現較強陣風，但目前無颱風系統直接影響台中。"
+    "text": "台中目前無任何颱風系統直接影響，近期大雨示警屬季節性雨型，與熱帶氣旋無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "彩雲減弱轉化 台灣無颱風威脅",
-    "dek": "彩雲掠日轉化，諾羅夏威夷外海增強，台灣僅受東北季風強風影響",
-    "url": "https://sea.weathernews.com/resources/202610/260"
+    "title": "颱風季出現空窗 台灣今秋暫無警報",
+    "dek": "中央氣象署逾一個月未發布新的颱風警報，西太平洋颱風季雖整體異常活躍，但目前並無任何風暴直接威脅台灣本島",
+    "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風彩雲減弱，轉化為溫帶氣旋",
-      "dek": "彩雲掠過日本外海後持續減弱，未登陸日本本土，也未曾威脅台灣。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "台灣部分地區發布大雨特報，氣象署稱屬季節性雨型",
+      "dek": "《台北時報》10月5日報導，此次豪雨示警與熱帶系統無關，台中等中部地區目前未受直接影響。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/05/2003865435"
     },
     {
       "rank": 2,
-      "title": "彩雲逼近馬里亞納群島，塞班機場示警強風強雨",
-      "dek": "彩雲生成初期以熱帶風暴強度接近塞班，預期將北轉增強為強颱。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "中央氣象署最近一次颱風警報：8月27日馬祖海上警戒",
+      "dek": "中央氣象署紀錄顯示，上一次颱風警報已逾一個月未再發布，當時系統中心氣壓965百帕、最大風速每秒35公尺。",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
     },
     {
       "rank": 3,
-      "title": "衛星畫面證實彩雲掠過日本沿岸",
-      "dek": "德國氣象網站衛星影像顯示彩雲路徑北轉，未登陸日本本土。",
-      "url": "https://www.donnerwetter.de/satellit/taifun-choi-wan-zieht-an-japan-vorbei_cid_12629.html"
+      "title": "颱風「蘇利蓋」掠過伊豆群島東側，未威脅台灣",
+      "dek": "日本Weathernews報導，蘇利蓋10月1日已減弱為熱帶風暴等級，預計轉化為溫帶低氣壓，僅對日本沿岸構成高浪影響。",
+      "url": "https://weathernews.jp/news/202610/010121/"
     },
     {
       "rank": 4,
-      "title": "颶風諾羅在太平洋海域二度增強",
-      "dek": "中太平洋颶風諾羅逼近西北夏威夷群島，當局發布熱帶風暴警告。",
-      "url": "https://www.lanacion.com.ar/usa/nolo-strengthens-to-a-hurricane-again-in-the-pacific-ocean-nid02102026/"
+      "title": "回顧：今年第26號颱風「蘇利蓋」9月底生成",
+      "dek": "Weathernews指出，蘇利蓋於9月23日在菲律賓以北、沖繩附近海域生成，是9月出現的第三個颱風，緊接「杜鵑」之後。",
+      "url": "https://weathernews.jp/news/202609/230221/"
     },
     {
       "rank": 5,
-      "title": "美聯社證實諾羅重新增強並西移",
-      "dek": "報導指諾羅遠離夏威夷主要島鏈，此前夏威夷州已預防性動員國民兵。",
-      "url": "https://cfjctoday.com/2026/10/02/nolo-strengthens-to-a-hurricane-again-in-the-pacific-ocean/"
+      "title": "回顧：颱風「紅霞」7月24日最接近台灣，花東外圍風雨增強",
+      "dek": "中央氣象署曾為紅霞發布海上颱風警報，警戒範圍涵蓋巴士海峽與東沙島海面，暴風圈外圍為花東、恆春半島帶來明顯降雨。",
+      "url": "https://www.storm.mg/article/11150901"
     },
     {
       "rank": 6,
-      "title": "夏威夷發布颶風觀察，諾羅初次逼近示警",
-      "dek": "九月底預報指諾羅可能帶來高達20英吋降雨，威脅引發致命洪患與山崩。",
-      "url": "https://beinsure.com/news/hurricane-watch-issued-for-hawaii-as-tropical-storm-nolo-strengthens/"
+      "title": "回顧：颱風「巴威」掠過台灣北部，疏散逾萬人",
+      "dek": "巴威7月11日自北部海面掠過台灣，當局疏散超過1.4萬居民，恆春半島出現局部12級強風。",
+      "url": "https://www.thestar.com.my/news/world/2026/07/11/typhoon-bavi-lashes-japan039s-southern-islands-taiwan-evacuates-thousands"
     },
     {
       "rank": 7,
-      "title": "小熊遠離，香港天文台解除所有熱帶氣旋警告",
-      "dek": "小熊減弱為低壓並轉向北部灣，其目前狀態是否仍存在尚待確認。",
-      "url": "https://www.thestandard.com.hk/breaking-news/section/4/174463/Tropical-cyclone-warnings-cancelled-as-Koguma-departs"
+      "title": "2026年太平洋颱風季異常活躍，強烈厄爾尼諾現象是主因",
+      "dek": "維基百科彙整資料顯示，本季西太平洋已出現約26個命名風暴、9個颱風與4個強烈颱風級系統，造成逾300人死亡及超過100億美元損失。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 8,
-      "title": "回顧：強颱諾盧七月登陸廣東，已消散非現行威脅",
-      "dek": "諾盧為今年對中國大陸影響最劇烈的颱風，但已於七月下旬在內陸消散。",
-      "url": "https://www.thestar.com.my/aseanplus/2026/07/26/strong-winds-and-rain-lash-china-after-typhoon-noul-makes-landfall"
+      "title": "大西洋罕見「颶風荒」：十月能否打破僵局？",
+      "dek": "WeatherBug報導，截至10月2日，大西洋本季已有8個命名風暴，卻無一個增強為颶風，形成近年罕見的乾旱期。",
+      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
     },
     {
       "rank": 9,
-      "title": "東北季風增強，中央氣象署發布陸上強風特報",
-      "dek": "強風範圍自大台北延伸至恆春半島，北部東部將有短暫降雨及氣溫下降。",
-      "url": "https://www.nownews.com/news/6558459"
+      "title": "熱帶風暴「漢娜」在大西洋中部徘徊後趨於減弱",
+      "dek": "AccuWeather報導，漢娜是大西洋今年第8個命名風暴，生成於百慕達東北方，預期將減弱並不會影響美國本土。",
+      "url": "https://www.accuweather.com/en/hurricane/tropical-storm-hanna-wanders-over-atlantic-ocean/1939874"
     },
     {
       "rank": 10,
-      "title": "北部東部將迎氣溫小幅下降，強風特報延續至週四",
-      "dek": "氣象署指東北季風影響持續至十月八日，但全程與颱風系統無關。",
-      "url": "https://www.nownews.com/news/6558459"
+      "title": "強烈厄爾尼諾壓抑風切，大西洋風暴屢屢止步颶風門檔",
+      "dek": "美國氣象機構指出，強烈厄爾尼諾增強高空風切，使今年大西洋多個風暴未能增強為颶風，形成近年少見的平靜期。",
+      "url": "https://turnto10.com/weather/weather-blog/strong-el-nino-likely-in-2026-resulting-in-fewer-atlantic-hurricanes-than-average-rhode-island-massachusetts-connecticut"
     }
   ]
 }
