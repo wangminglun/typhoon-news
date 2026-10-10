@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T02:09:00+08:00",
+  "generated_at": "2026-10-11T03:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未發布任何海上或陸上颱風警報；唯一生效的台灣海峽、巴士海峽強風特報，是季風環流所致，與颱風系統無關。",
+  "alert_desc": "中央氣象署相關訊息及台灣新聞報導均未發現現行海上或陸上颱風警報；颱風諾洛遠在威克島外海持續減弱，南海至菲律賓海域受異常反氣旋環流壓制，近期無新颱風生成風險。",
   "region_watch": {
     "region": "台中",
     "text": "目前無直接影響。現階段並無颱風環流影響台中地區，亦未傳出與風雨相關的停班停課訊息。"
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "雙颱諾洛、小熊並行西北太平洋 日本拉高警戒 台灣暫無影響",
-    "dek": "「三颱共舞」中的彩雲逐漸減弱消散，諾洛與小熊接棒增強逼近「很強」等級，雖預料不會登陸日本本土，但太平洋沿岸與小笠原群島恐面臨危險巨浪。",
-    "url": "https://weathernews.jp/news/202610/090071/"
+    "title": "大西洋、太平洋颶風接連來襲 台灣暫時脫離威脅圈",
+    "dek": "颶風「伊薛爾斯」重創美國灣岸、颶風「賽門」直撲墨西哥太平洋岸之際，氣象機構指出，異常反氣旋環流將壓制南海至菲律賓海域生成新颱風，台灣近期無風暴威脅。",
+    "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風小熊在南鳥島海域增強至「很強」等級",
-      "dek": "Weathernews報導指出，小熊迅速增強，預計10日清晨前後於南鳥島附近達到最大風速每秒45公尺的「很強」颱風強度，並將伴隨轉向北行帶來日本太平洋沿岸的高浪警戒。",
-      "url": "https://weathernews.jp/news/202610/090071/"
+      "title": "颶風「伊薛爾斯」重創美國灣岸 成今年大西洋首個颶風",
+      "dek": "伊薛爾斯增強為二級颶風後在阿拉巴馬、佛州交界登陸，當局警告暴潮、強降雨與龍捲風風險，佛州一郡已發布強制撤離令。",
+      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds"
     },
     {
       "rank": 2,
-      "title": "颱風諾洛在南鳥島以西同步增強",
-      "dek": "據Weathernews報導，諾洛持續向西北移動，預計11日前後同樣增強至「很強」等級，並與小熊一同在連假期間轉向北方，雖不至登陸日本本土，卻將提高沿岸湧浪風險。",
-      "url": "https://weathernews.jp/news/202610/080021/"
+      "title": "「伊薛爾斯」增強至二級颶風 逼近灣岸登陸",
+      "dek": "美國國家颶風中心表示，伊薛爾斯巔峰風速達每小時109英里，灣岸多地預期將出現長時間停電，居民已開始裝填沙袋防災。",
+      "url": "https://www.wftv.com/news/local/hurricane-isaias-intensifies-category-2-it-nears-gulf-coast-landfall/NBHMIRNNN5GYRNEZIR6XISFSGU/"
     },
     {
       "rank": 3,
-      "title": "中國氣象部門：諾洛位於日本東南方，強度為熱帶風暴等級",
-      "dek": "中央氣象台颱風網資料顯示，截至10日中午，諾洛位於北緯32.5度、東經147.2度，距台灣甚遠，最大風速約每秒18公尺，持續北北東移動，對台灣不構成直接威脅。",
-      "url": "http://typhoon.nmc.cn/web.html"
+      "title": "熱帶風暴「伊薛爾斯」生成 成今年大西洋第九個命名風暴",
+      "dek": "伊薛爾斯由墨西哥灣坎佩切灣的擾動發展而成，是今年大西洋風季遲來多時才出現的首個颶風，寫下衛星觀測時代罕見紀錄。",
+      "url": "https://wjla.com/news/nation-world/tropical-storm-isaias-forms-in-the-southwestern-gulf-hurricane-season-atlantic-ocean-bay-of-campeche-yucatan-peninsula-gulf-coast-alabama-louisiana-mississippi-first-hurricane-mexico-gusty-winds-heavy-rainfall-potential-tornadoes"
     },
     {
       "rank": 4,
-      "title": "颱風彩雲減弱轉為溫帶氣旋，退出「三颱共舞」",
-      "dek": "Weathernews指出，曾在北馬里亞納群島以北逼近最強等級的彩雲，在風切作用下迅速減弱，預料將轉變為溫帶氣旋，僅在小笠原群島周邊留下湧浪餘波。",
-      "url": "https://weathernews.jp/news/202610/070231/"
+      "title": "颶風「賽門」逼近墨西哥太平洋岸 可能增強至四級",
+      "dek": "墨西哥氣象部門預測賽門將強化為四級颶風，沿岸多港口關閉，曼薩尼約至蓬塔米塔一帶已發布颶風警戒。",
+      "url": "https://expansion.mx/mexico/2026/10/08/mexico-dos-huracanes-simon-isaias-octubre-de-2026"
     },
     {
       "rank": 5,
-      "title": "台灣氣象署：目前無颱風警報，僅季風強風特報生效",
-      "dek": "中央氣象署颱風警報頁面顯示，台灣海上及陸上颱風警報均未發布，唯一生效的是因季風導致的台灣海峽、巴士海峽及南海東北部6至7級強風特報，與颱風環流無關。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
-    },
-    {
-      "rank": 6,
-      "title": "台灣氣象評論者關注關島東南方可能醞釀新熱帶擾動",
-      "dek": "中時新聞網報導，有本地氣象評論者指出，關島東南方一股低緯度熱帶擾動下週後期可能發展為颱風，但對台灣的影響程度仍言之過早。",
-      "url": "https://chinatimes.com/realtimenews/20261010002145-260405"
-    },
-    {
-      "rank": 7,
-      "title": "颶風西蒙逼近墨西哥太平洋岸，恐增強至4級",
-      "dek": "墨西哥媒體La Prensa報導，熱帶風暴西蒙在太平洋海域持續增強，8日公告顯示其位於科利馬州曼薩尼約東南約415公里處，預料將為格雷羅州與米卻肯州帶來150至250毫米的強降雨風險。",
+      "title": "熱帶風暴「賽門」在墨西哥太平洋岸生成 可能增強為颶風",
+      "dek": "賽門成為東北太平洋風季第18個命名風暴，預報人員警告其可能於數日內增強至颶風強度，逼近墨西哥西岸。",
       "url": "https://laprensa.hn/mundo/simon-forma-pacifico-mientras-intensifica-avanza-occidente-mexico-MF32269959"
     },
     {
+      "rank": 6,
+      "title": "熱帶風暴「瑞秋」為南加州帶來降雨威脅",
+      "dek": "美國天氣頻道報導，瑞秋先前一度接近二至三級颶風強度後減弱，目前預計為洛杉磯東南部帶來顯著降雨。",
+      "url": "https://www.accuweather.com/en/us/newberry-springs/92365/tropical-weather-forecast/2178381"
+    },
+    {
+      "rank": 7,
+      "title": "颱風「諾洛」罕見跨洋轉化 遠離陸地持續減弱",
+      "dek": "由東太平洋颶風越過國際換日線轉化而成的颱風諾洛，目前位於威克島附近海域，預報顯示將減弱並轉為溫帶氣旋，不威脅台灣等地。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+    },
+    {
       "rank": 8,
-      "title": "颶風瑞秋減弱轉向，朝下加利福尼亞及美國西南部移動",
-      "dek": "根據美國國家颶風中心相關報導，瑞秋在一度達到大型颶風強度後，已於8日減弱至1級，位於下加利福尼亞半島以西約840英里處，預料將轉向東北並在接近美國西南部時轉化為後熱帶系統。",
-      "url": "https://www.tiempo.com.mx/noticia/huracan-rache-simon-vigilancia-pacifico/"
+      "title": "颱風「杜鵑」曾致日本史上最大規模疏散與土石流警戒",
+      "dek": "杜鵑颱風逼近日本房總半島期間，促使六縣近190萬人接獲疏散令，並促使伊豆大島發布最高等級土石流警戒，為今年風季東亞最嚴重災情之一。",
+      "url": "https://www.thestar.com.my/news/world/2026/09/21/typhoon-approaches-eastern-japan-prompting-flood-and-landslide-warnings"
     },
     {
       "rank": 9,
-      "title": "墨西哥灣亦有熱帶系統發展可能遭監測",
-      "dek": "Yale Climate Connections報導，預報員正密切觀察墨西哥灣是否醞釀新的熱帶氣旋，此系統與東太平洋的颶風西蒙、瑞秋分屬不同系統。",
-      "url": "https://yaleclimateconnections.org/2026/10/a-storm-may-be-brewing-in-the-gulf/"
+      "title": "香港天文台：今年西北太平洋已有34個熱帶氣旋 反氣旋環流將壓制新風暴生成",
+      "dek": "香港天文台表示，截至10月6日西北太平洋及南海今年已有34個熱帶氣旋生成，但異常反氣旋環流預期將持續壓制當地新風暴形成至10月下旬，是台灣近期無風暴威脅的主因之一。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
       "rank": 10,
-      "title": "雙颱諾洛、小熊將為日本連假帶來高浪與沿岸風險",
-      "dek": "Weathernews指出，即便諾洛與小熊均不登陸日本本土，兩者增強仍將使日本太平洋沿岸與小笠原群島在10月12日三天連假期間面臨顯著的浪高與湧浪風險。",
-      "url": "https://weathernews.jp/news/202610/080191/"
+      "title": "超級颱風「森拉克」為2026年全球最強風暴",
+      "dek": "加拿大天氣網報導，今年4月重創關島與北馬里亞納群島的超級颱風森拉克，最大風速達每小時280公里、中心氣壓902百帕，至今仍是2026年全球最強風暴，促使美國政府對關島發布聯邦緊急災難宣告。",
+      "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/meet-the-worlds-strongest-storm-in-2026-so-far-super-typhoon-sinlaku"
     }
   ]
 }
