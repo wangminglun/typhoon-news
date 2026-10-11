@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T16:15:00+08:00",
+  "generated_at": "2026-10-11T17:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據台灣媒體引述中央氣象署的說法，截至目前並無颱風對台灣構成影響，應無海上或陸上颱風警報生效；由於本次查核未能直接讀取氣象署官網即時頁面，此一判斷仍屬根據間接新聞報導的合理推斷。",
+  "alert_desc": "截至目前，中央氣象署並未發布海上颱風警報或陸上颱風警報；西北太平洋上的三個熱帶系統均未對台灣構成直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前未見任何報告顯示台中有因颱風而發布的風雨警報或停班停課公告；該地區此時的天氣主要受東北季風影響，中南部包括台中大致維持晴朗偏暖，日間高溫一度接近攝氏33度。"
+    "text": "目前無直接影響——目前無任何活躍颱風或熱帶氣旋對台中構成風雨威脅，當地亦無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋罕見「三颱共舞」逼近日本，台灣中央氣象署目前未發布颱風警報",
-    "dek": "彩雲、諾洛與小熊三個颱風本月同時盤據西北太平洋，氣象機構與多家媒體均指出三者均朝日本方向北轉，台灣僅受東北季風影響，中部包括台中目前未見直接衝擊。",
-    "url": "https://biz.heraldcorp.com/article/10894596"
+    "title": "西北太平洋罕見「三颱共存」 均未威脅台灣",
+    "dek": "崔娃、諾盧（又譯諾魯、南卡）與科古瑪三個熱帶氣旋本月上旬同時現身西北太平洋，路徑集中日本外海，台灣中央氣象署迄今未發布任何海上或陸上颱風警報。",
+    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "日本連假前夕，西太平洋罕見出現「三颱共舞」",
-      "dek": "彩雲、諾洛與小熊三個颱風同時活躍於西北太平洋，日本媒體稱此為五年來十月首見的天氣型態。",
-      "url": "https://biz.heraldcorp.com/article/10894596"
+      "title": "西北太平洋出現罕見三颱共存",
+      "dek": "據《日本時報》報導，日本氣象協會指出這是五年來10月首度同時有三個系統在西北太平洋活動。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 2,
-      "title": "跨越換日線後改名，颶風化身「颱風諾洛」",
-      "dek": "美聯社報導，一個長途追蹤的太平洋颶風跨越國際換日線後，在氣象廳體系下更名為颱風諾洛，當時未被評估對陸地構成威脅。",
-      "url": "https://www.ksat.com/news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline/"
+      "title": "颱風崔娃逼近小笠原群島 另兩颱風同時成形",
+      "dek": "外電報導指出，編號第27號颱風崔娃風速估達時速180公里，向北北西逼近東京小笠原群島，其後方並有兩個新系統生成。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 3,
-      "title": "長途追蹤風暴諾洛轉為第28號颱風，預報將逐漸減弱",
-      "dek": "日本氣象業者Weathernews引述氣象廳資料，諾洛接近威克島後預計向西減弱、再轉向東行並完成溫帶化。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "科古瑪生成 日本進入高度戒備",
+      "dek": "南韓媒體報導，第29號颱風科古瑪於關島以東海面形成，與崔娃、諾盧共同構成「三颱共存」局面，預計10月12日前後逼近小笠原群島東側。",
+      "url": "https://www.asiae.co.kr/en/article/2026100610293206872"
     },
     {
       "rank": 4,
-      "title": "西太平洋「颱風高速公路」車流增加，三系統同時在線",
-      "dek": "美軍媒體《Stars and Stripes》報導，颱風諾洛、超級颱風彩雲與熱帶低壓小熊同時活躍，均未被判定威脅陸地。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "「三颱齊發」衝擊日本 南韓關注是否受波及",
+      "dek": "南韓SBS新聞分析三颱共存事件對朝鮮半島的潛在間接影響，部分媒體將第28號風暴另譯為「南卡」，顯示各家譯名不一。",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008784026"
     },
     {
       "rank": 5,
-      "title": "超級颱風彩雲預計北轉趨向日本，稍後轉為溫帶氣旋",
-      "dek": "Weathernews引述氣象廳資料指出，彩雲一度以「猛烈」強度逼近北馬里亞納群島，隨後北轉並預計完成溫帶化。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "科古瑪遠離 相關熱帶氣旋警報解除",
+      "dek": "香港《英文虎報》報導，隨著科古瑪逐漸遠離陸地，與其相關的熱帶氣旋警報已陸續取消。",
+      "url": "https://www.thestandard.com.hk/breaking-news/section/4/174463/Tropical-cyclone-warnings-cancelled-as-Koguma-departs"
     },
     {
       "rank": 6,
-      "title": "香港天文台撰文探討：2026年颱風季是否已經結束？",
-      "dek": "香港天文台指出，南海一帶受異常反氣旋環流壓制，生成機率降低，但西北太平洋系統仍偏向北轉日本而非南海或台灣。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "科古瑪增強逼近南鳥島",
+      "dek": "南韓氣象單位資料顯示，科古瑪中心氣壓10月10日前後估達965百帕，朝「強烈颱風」強度發展，路徑趨向小笠原、南鳥島海域，遠離台灣。",
+      "url": "https://mbiz.heraldcorp.com/article/10894596"
     },
     {
       "rank": 7,
-      "title": "「三颱共舞」逼近國慶連假，中央氣象署稱對台灣無影響",
-      "dek": "TVBS報導，中央氣象署在10月5日表示三個同時存在的颱風對台灣天氣沒有影響，當時台灣主要受東北季風左右。",
-      "url": "https://health.tvbs.com.tw/nutrition/366464"
+      "title": "跨洋盆長程風暴「諾盧」橫越太平洋成為第28號颱風",
+      "dek": "氣象技術網站Weathernews報導，該系統原為中太平洋颶風，橫越國際換日線後重新編號為西北太平洋颱風，預計本月中轉化為溫帶氣旋。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 8,
-      "title": "國慶連假天氣定案：北部晨間低溫約21度，三颱持續「共舞」但不影響台灣",
-      "dek": "TVBS報導指出，連假降雨將集中在北部與東北部，中南部包括台中日間高溫可達33度，三個太平洋颱風仍不會直接威脅台灣。",
-      "url": "https://health.tvbs.com.tw/nutrition/366534"
+      "title": "三颱定位追蹤彙整：崔娃、諾盧與科古瑪",
+      "dek": "追蹤網站彙整三個系統最新位置、強度與預測路徑，確認均未朝台灣或菲律賓主要島嶼移動。",
+      "url": "https://radarwatchhq.com/typhoon-choi-wan-typhoon-nolo-and-tropical-storm-koguma-october-6-2026/"
     },
     {
       "rank": 9,
-      "title": "墨西哥灣坎佩切灣可能醞釀熱帶天氣系統",
-      "dek": "美國媒體WLOX報導，在歷史性平靜的大西洋颶風季之後，預報員正關注墨西哥灣西南部坎佩切灣在10月7日至13日間是否出現熱帶擾動。",
-      "url": "https://www.wlox.com/2026/10/02/gulf-tropical-activity-possible-late-next-week/"
+      "title": "科古瑪（27W）急速增強至120節",
+      "dek": "氣象專家Fred Pickhardt技術分析指出科古瑪一度增強至近120節強度，惟其採用的JTWC編號與日方編號系統略有出入。",
+      "url": "https://fredpickhardt.substack.com/p/typhoon-27w-koguma-intensifies-to"
     },
     {
       "rank": 10,
-      "title": "北印度洋氣旋季平靜，孟加拉灣、阿拉伯海短期內無氣旋威脅",
-      "dek": "印度氣象機構Skymet Weather指出，季風後展望顯示10月下旬前孟加拉灣與阿拉伯海均無顯著熱帶擾動。",
-      "url": "https://skymetweather.com/content/climate-change/stormy-season-officially-begins-for-indian-seas-no-cyclone-likely-next-two-weeks"
+      "title": "林得恩：今年已生成28颱 10月18日菲律賓東方海面恐有新擾動",
+      "dek": "台灣氣象專家林得恩分析指出，今年西北太平洋颱風數量已超越氣候平均，並點出10月18日前後菲律賓以東海面可能醞釀新的熱帶擾動，惟不確定性仍高。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
     }
   ]
 }
