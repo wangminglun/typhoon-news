@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T02:13:00+08:00",
+  "generated_at": "2026-10-12T03:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何地區發布海上或陸上颱風警報，台灣天氣主要受東北季風影響。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報，近期天氣主要受東北季風影響，北部與東部有間歇性降雨。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，台中天氣主要受東北季風牽動，無任何因颱風導致的風雨警報或停班停課措施。"
+    "text": "就台中地區而言，氣象署預報顯示國慶連假期間天氣以多雲到晴為主，目前並無任何颱風相關風雨警示或停班停課措施；僅北部及東部局部地區因東北季風影響可能出現降雨。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "伊賽亞斯颶風三級登陸美國灣岸 西太平洋三颱共存",
-    "dek": "颶風伊賽亞斯以三級強度重創阿拉巴馬與佛州交界，西太平洋小熊颱風持續增強逼近日本小笠原群島，台灣目前未發布任何颱風警報。",
-    "url": "https://mississippitoday.org/2026/10/08/hurricane-isaias-gulf-coast/"
+    "title": "西北太平洋三颱共現 小熊逼近日本小笠原、台灣無威脅",
+    "dek": "全球現存最強熱帶氣旋「小熊」持續增強逼近日本小笠原群島，但中央氣象署證實諾洛與小熊均不致影響台灣，國慶連假僅東北季風帶來局部降雨。",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
   },
   "items": [
     {
       "rank": 1,
-      "title": "伊賽亞斯增強為三級颶風 直撲美國灣岸",
-      "dek": "據Mississippi Today報導，伊賽亞斯十月八日增強為三級強烈颶風，風速達每小時一百九十三公里，逼近美國北灣岸，預估將帶來致命風暴潮、瞬間洪水與零星龍捲風，為今年大西洋颶風季首個颶風。",
-      "url": "https://mississippitoday.org/2026/10/08/hurricane-isaias-gulf-coast/"
-    },
-    {
-      "rank": 2,
-      "title": "颶風伊賽亞斯挾強風逼近美國灣岸",
-      "dek": "據半島電視台報導，伊賽亞斯以危險強風逼近阿拉巴馬與佛羅里達州交界，兩州已宣布進入緊急狀態，灣岸海灘與橘灘等觀光城鎮呼籲遊客撤離。",
-      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds"
-    },
-    {
-      "rank": 3,
-      "title": "伊賽亞斯增強至三級 登陸路徑鎖定莫比爾灣一帶",
-      "dek": "據美國媒體WECT報導，伊賽亞斯預估於十月九日晚間至十日凌晨在莫比爾灣或佛羅里達州西部狹長地帶登陸，登陸後周六下午將減弱為熱帶風暴，內陸地區降雨量上看二十公分以上。",
-      "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
-    },
-    {
-      "rank": 4,
-      "title": "西太平洋罕見三颱共存 彩雲逼近小笠原群島",
-      "dek": "據馬來西亞《星報》報導，彩雲、諾洛與小熊三個颱風十月初接連形成，為五年來首見的西太平洋三颱同時存在現象，彩雲逼近日本小笠原群島後逐漸轉化為冷心低壓。",
+      "title": "小熊增強逼近小笠原群島，躍升全球最強活躍氣旋",
+      "dek": "據Weathernews與馬來西亞《星報》報導，第29號颱風小熊預測將增強為「非常強」颱風，10月12日左右通過南鳥島以南海域接近小笠原群島東側，對台灣無威脅。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
+      "rank": 2,
+      "title": "日本連假罕見三颱並存，五年來首見",
+      "dek": "據南韓《Herald經濟》報導，彩雲、諾洛與小熊三颱風同時活躍於日本10月9日至12日連假期間，日本朝日電視台指出此景象五年未見，引發部分旅客對出行的擔憂。",
+      "url": "https://mbiz.heraldcorp.com/article/10894596"
+    },
+    {
+      "rank": 3,
+      "title": "颱風彩雲完成溫帶轉化，脫離熱帶氣旋行列",
+      "dek": "據Weathernews預報資料，彩雲在北太平洋亞北極海域加速北移，於10月8日前後完成溫帶化轉變，已不再屬於熱帶系統。",
+      "url": "https://sea.weathernews.com/resources/202610/263"
+    },
+    {
+      "rank": 4,
+      "title": "諾洛跨越換日線由颶風轉颱風，逐步朝溫帶氣旋轉化",
+      "dek": "據美國奧勒岡公共廣播電台（OPB）報導，諾洛原為颶風，跨越國際換日線後由日本氣象廳重編號為颱風，預測於10月10日前後減弱並轉化為溫帶氣旋，路徑遠在台灣與菲律賓以東。",
+      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
+    },
+    {
       "rank": 5,
-      "title": "諾洛跨越國際換日線 由颶風改列颱風",
-      "dek": "據夏威夷媒體Hawaii News Now報導，原本的颶風諾洛跨越國際換日線後，由日本氣象廳重新歸類為颱風，成為西太平洋三颱共存局面的一環，預估路徑將持續偏離陸地。",
-      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
+      "title": "氣象署證實：諾洛、小熊均不影響台灣，連假僅局部降雨",
+      "dek": "據《中央社》報導，中央氣象署表示國慶連假東北季風將為北部、東部帶來間歇性降雨，南部大致晴朗，並明確指出諾洛與小熊兩個遠洋熱帶系統均不預期影響台灣，目前無海陸颱風警報。",
+      "url": "https://focustaiwan.tw/society/202610080017"
     },
     {
       "rank": 6,
-      "title": "小熊颱風持續增強 對中國沿岸無直接影響",
-      "dek": "據科技日報報導，小熊颱風十月八日上午位於北緯十六點八度、東經一百六十一點三度，以時速十五至二十公里向西移動並持續增強，預估對中國沿岸無直接影響。",
-      "url": "https://www.stdaily.com/web/gdxw/2026-10/08/content_592648.html"
+      "title": "颶風艾莎斯登陸美國灣岸後減弱，至少4人死亡逾38萬戶停電",
+      "dek": "據《密西西比今日》與NBC News報導，艾莎斯以二級颶風強度在佛州德斯坦附近登陸後迅速減弱為後熱帶氣旋，造成至少4死、近39萬戶停電，預計10月11日完全消散。",
+      "url": "https://mississippitoday.org/2026/10/10/isaias-weakens-flooding-power-outages/"
     },
     {
       "rank": 7,
-      "title": "小熊颱風警報：預估增強為「非常強」颱風",
-      "dek": "據日本氣象資訊公司Weathernews十月七日發布的颱風警報，小熊當時為強烈熱帶風暴等級，預估十月八日前增強為颱風，十月十日前達「非常強」等級，十二日前逼近小笠原群島東側海域，對日本本土及台灣均無直接威脅。",
-      "url": "https://sea.weathernews.com/resources/202610/264"
+      "title": "艾莎斯成為2026大西洋季首颱颶風，季初異常平靜",
+      "dek": "據OKC Fox（Fox Weather）報導，艾莎斯於10月初增強為2026年大西洋颶風季首個颶風，時間明顯偏晚，報導稱該季開局為衛星觀測時代（1960年）以來最平靜的紀錄之一。",
+      "url": "https://okcfox.com/news/local/1st-hurricane-of-the-2026-atlantic-hurricane-season"
     },
     {
       "rank": 8,
-      "title": "彩雲殘餘系統與低壓合併 阿留申群島風暴將至",
-      "dek": "據阿拉斯加當地媒體Alaska's News Source報導，轉化為冷心低壓的彩雲殘餘系統與白令海低壓合併，為阿留申群島西側帶來強風警報，預估風速達每小時一百二十至一百四十五公里。",
-      "url": "https://www.alaskasnewssource.com/2026/10/06/stormy-weather-looms-former-typhoon-choi-wan-merges-with-low/"
+      "title": "西北太平洋颱風季異常活躍，截至10月8日已生成28個風暴",
+      "dek": "據《自由時報》引述中央氣象署統計，截至10月8日西北太平洋與南海已有28個命名風暴生成，其中包括欣樂克、巴威、海豚及梵高（Saudel）等6個強烈颱風，小熊被視為下一個潛在強颱。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
     },
     {
       "rank": 9,
-      "title": "強風襲阿留申群島 風暴系統朝阿拉斯加西部移動",
-      "dek": "據阿拉斯加當地媒體Alaska's News Source後續報導，彩雲殘餘系統已在阿留申群島帶來強風與豪雨，並持續向阿拉斯加西部推進，預估十月八日上午抵達。",
-      "url": "https://www.alaskasnewssource.com/2026/10/07/high-winds-arrive-aleutian-chain-bering-sea-storm-heads-western-alaska/"
+      "title": "超級颱風欣樂克仍為2026年全球最強風暴",
+      "dek": "據加拿大《The Weather Network》報導，欣樂克今年4月重創北馬里亞納群島與關島，最大持續風速約每小時280公里、中心氣壓約902百帕，是2026年至今全球最強熱帶氣旋，也是有紀錄以來同期西太平洋最強颱風之一。",
+      "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/meet-the-worlds-strongest-storm-in-2026-so-far-super-typhoon-sinlaku"
     },
     {
       "rank": 10,
-      "title": "雙十連假天氣受東北季風主導 與共存颱風無直接關聯",
-      "dek": "據《今周刊》報導，雙十連假期間台灣天氣由東北季風主導，基隆北海岸、東部及恆春半島僅有局部短暫雨，西太平洋上多個共存颱風均距台灣遙遠，無直接影響。",
-      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202510090003/"
+      "title": "熱帶風暴梅莎克為2026年全球最致命氣旋，造成171人死亡",
+      "dek": "據維基百科「2026年熱帶氣旋」彙整頁面統計，西太平洋熱帶風暴梅莎克目前為2026年全球死亡人數最多的熱帶氣旋，造成171人死亡，全年全球熱帶氣旋死亡人數已逾425人，其中西北太平洋颱風季單獨統計死亡逾305人、損失超過百億美元。",
+      "url": "https://en.wikipedia.org/wiki/Tropical_cyclones_in_2026"
     }
   ]
 }
