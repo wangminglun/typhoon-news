@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T13:12:00+08:00",
+  "generated_at": "2026-10-11T14:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據可查資料，中央氣象署目前未對台灣本島發布海上或陸上颱風警報；惟本次未能直接讀取氣象署官方頁面，此狀態仍待官方資料直接確認。",
+  "alert_desc": "根據可查新聞報導推論，中央氣象署目前未對台灣本島發布海上或陸上颱風警報；此判斷並非直接查證中央氣象署官方頁面所得，仍待官方資料進一步確認。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。截至2026年10月11日，查無任何因颱風對台中發布的停班停課公告；台中上一次因颱風停班停課為今年7月的巴威颱風。"
+    "text": "目前無直接影響。西太平洋颱風季現正進入南海與菲律賓海域的平靜期，台中地區暫無風雨警報或停班停課相關消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "三颱齊發撲日本 台灣無虞",
-    "dek": "柯懷、諾洛與小熊三颱罕見同時現身西太平洋，路徑皆指向日本外海並將北轉遠離本土，中央氣象署目前未對台灣發布任何颱風警報。",
-    "url": "https://biz.heraldcorp.com/article/10894596"
+    "title": "西太平洋颱風季轉入靜默期",
+    "dek": "今年颱風生成數量創新高，但高壓環流暫時壓制南海與菲律賓海域活動，台灣目前未見颱風警報。",
+    "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
   },
   "items": [
     {
       "rank": 1,
-      "title": "三颱罕見同步撲日本",
-      "dek": "據《韓國先驅報》報導，柯懷、諾洛與小熊三颱罕見同時逼近日本，恰逢十月十日至十二日的體育節連假。",
-      "url": "https://biz.heraldcorp.com/article/10894596"
-    },
-    {
-      "rank": 2,
-      "title": "柯懷逼近小笠原 新颱接連成形",
-      "dek": "《星報》援引日本新聞社報導，颱風柯懷以「非常強」等級逼近小笠原群島之際，諾洛與小熊相繼在其後方成形。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
-    },
-    {
-      "rank": 3,
-      "title": "西太平洋「颱風公路」車流湧現",
-      "dek": "《星條旗報》的風暴追蹤報導指出，今年異常活躍的風季讓多個熱帶系統在西太平洋排隊生成，與厄爾尼諾現象有關。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
-    },
-    {
-      "rank": 4,
-      "title": "小熊增強 直撲南鳥島海域",
-      "dek": "據Weathernews預測，今年第29號颱風小熊將於10月12日前後增強為「非常強」等級，但不會威脅日本本島。",
-      "url": "https://sea.weathernews.com/resources/202610/264"
-    },
-    {
-      "rank": 5,
-      "title": "諾洛跨越換日線 颶風變颱風",
-      "dek": "據美聯社報導，長程風暴諾洛越過國際換日線後被重新命名為颱風，美國國家颶風中心指出其仍未接近任何有人居住的陸地。",
-      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
-    },
-    {
-      "rank": 6,
-      "title": "諾洛持續減弱 將轉溫帶氣旋",
-      "dek": "Weathernews指出，颱風諾洛10月7日仍在威克島附近徘徊，預料將逐漸減弱，並在10日前後轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
-    },
-    {
-      "rank": 7,
-      "title": "三颱北上 韓國研判不受影響",
-      "dek": "韓媒Wikitree報導，小熊於10月5日清晨在關島以東約2,560公里處生成，依目前路徑南韓應不會直接受到三颱影響。",
-      "url": "https://www.wikitree.co.kr/articles/1164105"
-    },
-    {
-      "rank": 8,
-      "title": "天文台：今年風季異常活躍",
-      "dek": "香港天文台在網誌中指出，截至10月6日西北太平洋已生成34個熱帶氣旋，遠高於長期平均，南海短期內仍不利新系統形成。",
+      "title": "天文台：南海颱風生成料受壓抑至月底",
+      "dek": "香港天文台在網誌中指出，反氣旋環流異常將持續壓制南海與菲律賓附近氣旋生成，直到10月下旬。",
       "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
+      "rank": 2,
+      "title": "林得恩：今年颱風來得早、數量多、強度強",
+      "dek": "氣象專家林得恩透過《自由時報》分析指出，10月18日前後菲律賓東方外海可能再生成熱帶擾動，但信心度仍低。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
+    },
+    {
+      "rank": 3,
+      "title": "同一分析：10月中旬菲國外海添新變數",
+      "dek": "《NOWnews今日新聞》轉載同一分析，指今年已生成28個颱風，較氣候平均多出3至4個。",
+      "url": "https://www.nownews.com/news/6849025"
+    },
+    {
+      "rank": 4,
+      "title": "跨換日線颶風變身颱風 遠離陸地無虞",
+      "dek": "日本氣象科技網站Weathernews報導，颶風諾羅越過國際換日線後更名為今年第28號颱風，路徑遠離任何陸地。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+    },
+    {
+      "rank": 5,
+      "title": "太平洋颶風越線變颱風 專家稱屬罕見現象",
+      "dek": "美聯社報導引述美國國家颶風中心專家指出，諾羅維持強度但遠離陸地，此前曾以颶風之姿影響夏威夷。",
+      "url": "https://www.news4jax.com/news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline/"
+    },
+    {
+      "rank": 6,
+      "title": "美聯社：諾羅跨線後正式更名為颱風",
+      "dek": "俄勒岡公共廣播電台轉載美聯社報導，說明諾羅由颶風轉為颱風的氣象命名規則與過程。",
+      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
+    },
+    {
+      "rank": 7,
+      "title": "美聯社報導再傳：諾羅完成跨洋變身",
+      "dek": "美國達科他新聞台延遲一日轉載同一篇美聯社報導，確認諾羅更名為颱風的經過。",
+      "url": "https://www.dakotanewsnow.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
+    },
+    {
+      "rank": 8,
+      "title": "西語媒體解析颶風變颱風的氣象意義",
+      "dek": "墨西哥《公正報》以西班牙語向讀者解釋颶風諾羅跨越換日線後更名為颱風的氣象學原理。",
+      "url": "https://www.elimparcial.com/mexico/2026/10/06/huracan-nolo-se-convierte-en-tifon-que-significa-el-cambio/"
+    },
+    {
       "rank": 9,
-      "title": "大西洋罕見零颶風 創最晚紀錄",
-      "dek": "據WeatherBug報導，截至10月2日大西洋已有8個命名風暴卻仍無颶風，是衛星觀測時代以來首個颶風出現最晚的一年。",
-      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
+      "title": "香港10月恐不會直接遭颱風侵襲",
+      "dek": "香港《The Standard》報導引述天文台評估，香港本月餘下時間不太可能受到颱風直接侵襲。",
+      "url": "https://www.thestandard.com.hk/news/article/344936/Hong-Kong-unlikely-to-face-direct-typhoon-hit-for-rest-of-October-HKO-says"
     },
     {
       "rank": 10,
-      "title": "小熊逼近巔峰強度 轉向遠離日本",
-      "dek": "據Weather Substack報導，小熊10月10日最大持續風速估達120節，已達超級颱風強度，預料將轉向遠離日本本土。",
-      "url": "https://weather.substack.com/p/october-10-2026-saturday-tropical"
+      "title": "美氣象局：北馬里亞納群島今年風季恐增至5個颱風",
+      "dek": "《馬里亞納公報》報導，美國國家氣象局關島辦公室稍早預測當地海域今年可能受3至5個颱風影響。",
+      "url": "https://www.mvariety.com/?p=158433"
     }
   ]
 }
