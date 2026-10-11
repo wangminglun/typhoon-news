@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T09:13:00+08:00",
+  "generated_at": "2026-10-11T10:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "目前無海上或陸上颱風警報生效，最近一次中央氣象署颱風警報為八月對杜鵙颱風發布的海上警報。",
+  "alert_desc": "目前無海上或陸上颱風警報生效，最近一次中央氣象署颱風警報為7、8月間對巴比、杜蘇芮（Dolphin）及梭德等颱風發布的警報，均已解除。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，研究中未發現十月份有任何颱風系統導致台中停班停課，最近一次台中因颱風停班停課紀錄為七月巴威颱風。"
+    "text": "目前無直接影響，西太平洋三颱（彩雲、諾羅、小熊）均在遠洋活動，未進入台灣周邊海域，近期天氣由東北季風主導，台中沒有停班停課相關消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋颱風活躍 台灣未受威脅",
-    "dek": "三個熱帶氣旋同時在西太平洋活動，但路徑均北偏轉向日本，氣象局未對台灣發布警報。",
-    "url": "https://www.valleynewslive.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
+    "title": "西太平洋罕見三颱並存 均未威脅台灣",
+    "dek": "彩雲、諾羅、小熊三颱同步現身北太平洋，中央氣象署目前未對台灣發布警報",
+    "url": "https://biz.heraldcorp.com/article/10894596"
   },
   "items": [
     {
       "rank": 1,
-      "title": "諾羅跨換日線 降編為颱風",
-      "dek": "美聯社報導，長壽颶風諾羅越過國際換日線後，被重新歸類為西太平洋第28號颱風。",
-      "url": "https://www.valleynewslive.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
+      "title": "三颱齊聚日本海域 攪動連假變數",
+      "dek": "根據南韓《Herald Corp》報導，颱風彩雲、諾羅與小熊三者同時逼近日本周邊海域，恰逢10月10日至12日三天連假，日本電視台TV Asahi稱此為五年來首見的「三颱同框」現象。",
+      "url": "https://biz.heraldcorp.com/article/10894596"
     },
     {
       "rank": 2,
-      "title": "諾羅強度達頂峰 將轉溫帶氣旋",
-      "dek": "Weathernews報導，日本氣象廳分析諾羅達「非常強」等級，預計10月10日前後開始溫帶變性。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
-    },
-    {
-      "rank": 3,
-      "title": "彩雲颱風北轉 趨向小笠原群島",
-      "dek": "《星報》報導，彩雲颱風自馬里亞納群島北北東移動，預計10月4日正午接近日本小笠原海域。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
-    },
-    {
-      "rank": 4,
-      "title": "彩雲颱風生成 台灣評估襲台機率低",
-      "dek": "applealmond.com報導，彩雲颱風10月1日於關島東北方生成，台灣預報人員評估直接襲台機率低。",
-      "url": "https://applealmond.com/posts/327652"
-    },
-    {
-      "rank": 5,
-      "title": "西太平洋多風暴並存 形成「颱風高速公路」",
-      "dek": "《星條旗報》報導，多個熱帶系統同時活動於西太平洋，模式預測均顯示將轉向東北避開台灣。",
+      "title": "美軍媒體：西太平洋「颱風公路」車流擁擠",
+      "dek": "美軍《Stars and Stripes》報導，諾羅與超強颱彩雲同時盤旋在馬里亞納群島以北、硫磺島以東的開闊洋面，模式對第三個系統小熊是否轉向日本仍有分歧，但當時均未直接威脅陸地。",
       "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
     },
     {
+      "rank": 3,
+      "title": "三颱路徑同時指向日本周邊",
+      "dek": "南韓《Wikitree》報導指出，小熊、彩雲與諾羅的路徑大致朝日本小笠原群島一帶匯聚，美國聯合颱風警報中心與歐洲、美國模式對諾羅、小熊是否轉向日本意見不一。",
+      "url": "https://www.wikitree.co.kr/articles/1164047"
+    },
+    {
+      "rank": 4,
+      "title": "小熊增強為「強颱」 日本本州擴大高浪警戒",
+      "dek": "日本《Weathernews》報導，颱風小熊已增強為「強颱」等級，預估10日前後於南鳥島附近達到近每秒45公尺的「非常強」強度，12日前後接近小笠原群島東側海域，對日本本土影響主要為高浪。",
+      "url": "https://weathernews.jp/news/202610/090071/"
+    },
+    {
+      "rank": 5,
+      "title": "第29號颱風小熊生成 牽動連假海象",
+      "dek": "日本《Weathernews》報導，第29號颱風小熊於10月5日上午9時（日本時間）在馬紹爾群島附近生成並持續增強，預估10日至12日三天連假期間有機會接近日本近海。",
+      "url": "https://weathernews.jp/news/202610/050101/"
+    },
+    {
       "rank": 6,
-      "title": "第29號風暴小熊生成",
-      "dek": "Weathernews報導，小熊風暴在威克島西南方生成，預測路徑朝小笠原群島移動，不影響台灣。",
-      "url": "https://sea.weathernews.com/resources/202610/264"
+      "title": "彩雲逼近小笠原群島 颱風接力成形",
+      "dek": "馬來西亞《星報》綜合外電報導，第27號颱風彩雲一度逼近925百帕、近95節的巔峰強度，掠過小笠原群島後轉向北北東駛向開闊北太平洋，其後方已有諾羅與小熊相繼成形。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 7,
-      "title": "天文台：今年風暴數遠高於平均",
-      "dek": "香港天文台報告指出，截至10月初西北太平洋已生成34個熱帶氣旋，遠超長期平均值。",
-      "url": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/110866/2026%E5%B9%B4%E9%A2%A8%E5%AD%A3%E5%B7%B2%E5%AE%8C%E7%B5%90%EF%BC%9F"
+      "title": "太平洋颶風諾羅越過換日線 升格為第28號颱風",
+      "dek": "根據美聯社透過美國《KSAT》報導，一個長途跋涉的颶風在威克島附近越過國際換日線後重新分類為颱風諾羅，成為2026年西太平洋季第28個被命名的風暴，預報員稱其後續數日不致威脅陸地。",
+      "url": "https://www.ksat.com/news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline/"
     },
     {
       "rank": 8,
-      "title": "大西洋颶風季異常緩慢",
-      "dek": "WLOX引述AccuWeather報導，大西洋截至10月2日尚無颶風形成，創衛星觀測時代最晚紀錄。",
-      "url": "https://www.wlox.com/2026/10/02/gulf-tropical-activity-possible-late-next-week/"
+      "title": "日媒：諾羅轉弱後估將轉向變性",
+      "dek": "《Weathernews Tech》報導，日本氣象廳將諾羅定位在威克島附近，中心風速約70節、氣壓975百帕，預估將持續西行並減弱，約10日前後轉向東行並轉化為溫帶氣旋。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 9,
-      "title": "菲律賓氣象署預測10月四波擾動",
-      "dek": "Palawan Daily News報導，受厄爾尼諾影響，菲律賓氣象署預估10至12月每月僅1至2個熱帶氣旋。",
-      "url": "https://palawandailynews.com/weather-update/pagasa-forecasts-four-weather-disturbances-this-october/"
+      "title": "諾羅越洋前曾在夏威夷外海逼近颶風強度",
+      "dek": "美國《Honolulu Star-Advertiser》報導，諾羅在越過換日線進入西太平洋前，曾在夏威夷西北方的帕帕哈瑙莫夸基亞海洋保護區附近再度增強，逼近颶風強度。",
+      "url": "https://www.staradvertiser.com/2026/10/02/breaking-news/nolo-nears-hurricane-strength-again-in-papahanaumokuakea-marine-national-monument/"
     },
     {
       "rank": 10,
-      "title": "中央氣象署8月對杜鵙發布海上警報",
-      "dek": "中央社報導，中央氣象署最近一次颱風警報是8月7日對杜鵙颱風發布的海上警報。",
-      "url": "https://focustaiwan.tw/society/202608070010"
+      "title": "彩雲外圍雨帶為菲律賓中南部帶來降雨",
+      "dek": "菲律賓《GMA News》報導，菲律賓大氣地理天文服務署表示，彩雲本身仍在菲律賓責任區外（約在呂宋島北部以東2,610公里），但其尾隨的季風雨帶已為維薩亞斯及民答那峨帶來局部降雨與雷雨。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1004640/trough-of-typhoon-choi-wan-affecting-visayas-mindanao/story/"
     }
   ]
 }
