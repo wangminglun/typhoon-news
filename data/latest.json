@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T01:15:00+08:00",
+  "generated_at": "2026-10-12T02:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，查詢所得最近一筆警報紀錄為8月27日發布的蘇特颱風（第18號）警報，此後台灣天氣主要受東北季風影響。",
+  "alert_desc": "中央氣象署目前未對任何地區發布海上或陸上颱風警報，台灣天氣主要受東北季風影響。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，三個西太平洋颱風系統均未被預報威脅台灣。台中天氣主要受東北季風牽動，正逐步進入少雨乾爽的秋季型態，未有風雨警報或停班停課措施。"
+    "text": "目前無直接影響，台中天氣主要受東北季風牽動，無任何因颱風導致的風雨警報或停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "三颱共舞西太平洋：彩雲、諾洛轉化落幕，小熊颱風十日後走向成觀測焦點",
-    "dek": "西太平洋罕見的三颱並存態勢正逐步收尾，彩雲颱風殘餘已為阿拉斯加白令海帶來暴風，諾洛預計轉化為溫帶氣旋，唯獨持續增強的小熊颱風十日後路徑仍充滿不確定性，但三者均未被預報將威脅台灣。",
-    "url": "https://weathernews.jp/news/202610/090071/"
+    "title": "伊賽亞斯颶風三級登陸美國灣岸 西太平洋三颱共存",
+    "dek": "颶風伊賽亞斯以三級強度重創阿拉巴馬與佛州交界，西太平洋小熊颱風持續增強逼近日本小笠原群島，台灣目前未發布任何颱風警報。",
+    "url": "https://mississippitoday.org/2026/10/08/hurricane-isaias-gulf-coast/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "小熊颱風增強為「強烈」等級 10日後路徑高度不確定",
-      "dek": "據日本Weathernews報導，截至9日凌晨3時，小熊颱風中心氣壓降至975百帕、最大風速每秒35公尺，持續向西北西增強前進；預報機構示警10日後若轉向偏西，不排除影響日本本州，鄰近的諾洛颱風則預期北轉東北，對日本風險較低。",
-      "url": "https://weathernews.jp/news/202610/090071/"
+      "title": "伊賽亞斯增強為三級颶風 直撲美國灣岸",
+      "dek": "據Mississippi Today報導，伊賽亞斯十月八日增強為三級強烈颶風，風速達每小時一百九十三公里，逼近美國北灣岸，預估將帶來致命風暴潮、瞬間洪水與零星龍捲風，為今年大西洋颶風季首個颶風。",
+      "url": "https://mississippitoday.org/2026/10/08/hurricane-isaias-gulf-coast/"
     },
     {
       "rank": 2,
-      "title": "三颱同步發展 日本迎三連假前罕見「三颱並存」局面",
-      "dek": "日本氣象機構指出，彩雲、諾洛、小熊三個太平洋系統同時增強，當地電視媒體稱為五年來首見；GFS與歐洲模式均顯示三者登陸前將轉向北或東北，但建議密切監控連假期間路徑變化。",
-      "url": "https://weathernews.jp/news/202610/060021/"
+      "title": "颶風伊賽亞斯挾強風逼近美國灣岸",
+      "dek": "據半島電視台報導，伊賽亞斯以危險強風逼近阿拉巴馬與佛羅里達州交界，兩州已宣布進入緊急狀態，灣岸海灘與橘灘等觀光城鎮呼籲遊客撤離。",
+      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds"
     },
     {
       "rank": 3,
-      "title": "小熊颱風在關島以東生成 預估連假期間逼近日本海域",
-      "dek": "據Weathernews報導，小熊颱風於關島東方約2560公里處生成，預計向西北增強前進，約12日左右經小笠原群島東側海域，強度可能達到「非常強」等級。",
-      "url": "https://weathernews.jp/news/202610/050101/"
+      "title": "伊賽亞斯增強至三級 登陸路徑鎖定莫比爾灣一帶",
+      "dek": "據美國媒體WECT報導，伊賽亞斯預估於十月九日晚間至十日凌晨在莫比爾灣或佛羅里達州西部狹長地帶登陸，登陸後周六下午將減弱為熱帶風暴，內陸地區降雨量上看二十公分以上。",
+      "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
     },
     {
       "rank": 4,
-      "title": "彩雲颱風逼近小笠原群島之際 兩個新颱風諾洛、小熊同時成形",
-      "dek": "綜合外電報導，彩雲颱風（第27號）當時已接近巔峰強度，逼近小笠原群島東側，預報將北轉並加速進入北太平洋轉化為溫帶氣旋；同期諾洛與小熊相繼成為該季第28、29號颱風。",
+      "title": "西太平洋罕見三颱共存 彩雲逼近小笠原群島",
+      "dek": "據馬來西亞《星報》報導，彩雲、諾洛與小熊三個颱風十月初接連形成，為五年來首見的西太平洋三颱同時存在現象，彩雲逼近日本小笠原群島後逐漸轉化為冷心低壓。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 5,
-      "title": "跨洋變身：諾洛颱風越過換日線 由颶風升格為颱風",
-      "dek": "美聯社報導，諾洛原為9月13日生成於墨西哥外海的東太平洋熱帶低壓，橫越大洋後於10月4日越過國際換日線，正式成為西太平洋第28號颱風，展示單一長壽風暴跨洋盆重新分類的罕見案例。",
-      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
+      "title": "諾洛跨越國際換日線 由颶風改列颱風",
+      "dek": "據夏威夷媒體Hawaii News Now報導，原本的颶風諾洛跨越國際換日線後，由日本氣象廳重新歸類為颱風，成為西太平洋三颱共存局面的一環，預估路徑將持續偏離陸地。",
+      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-changes-hurricane-typhoon-after-crossing-international-date-line/"
     },
     {
       "rank": 6,
-      "title": "長程越洋颶風諾洛完成變身 成為第28號颱風",
-      "dek": "據Weathernews英文版（wxtech）報導，7日上午9時日本氣象廳觀測諾洛於威克島附近、風速約70節，持續西行並逐漸減弱，預計10日前後轉向東行完成溫帶轉化。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "小熊颱風持續增強 對中國沿岸無直接影響",
+      "dek": "據科技日報報導，小熊颱風十月八日上午位於北緯十六點八度、東經一百六十一點三度，以時速十五至二十公里向西移動並持續增強，預估對中國沿岸無直接影響。",
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/08/content_592648.html"
     },
     {
       "rank": 7,
-      "title": "西太平洋「颱風高速公路」車流繁忙 三系統均未立即威脅陸地",
-      "dek": "美軍媒體Stars and Stripes報導，諾洛、超級颱風彩雲等三個系統同時活躍於西太平洋，但截稿時均未對有人居住陸地構成立即威脅。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "小熊颱風警報：預估增強為「非常強」颱風",
+      "dek": "據日本氣象資訊公司Weathernews十月七日發布的颱風警報，小熊當時為強烈熱帶風暴等級，預估十月八日前增強為颱風，十月十日前達「非常強」等級，十二日前逼近小笠原群島東側海域，對日本本土及台灣均無直接威脅。",
+      "url": "https://sea.weathernews.com/resources/202610/264"
     },
     {
       "rank": 8,
-      "title": "彩雲颱風掀日本南方40英尺巨浪 殘餘能量轉向阿拉斯加白令海",
-      "dek": "Nature World News報導，彩雲颱風掠過日本後，其殘餘低壓與白令海風暴系統合併，激起逾40英尺驚人浪高，並持續朝阿拉斯加方向移動，顯示其溫帶轉化後仍帶來顯著天氣衝擊。",
-      "url": "https://www.natureworldnews.com/articles/73461/20261007/choi-wan-churns-seas-over-40-feet-south-japan-its-remnants-head-alaskas-bering-sea.htm"
+      "title": "彩雲殘餘系統與低壓合併 阿留申群島風暴將至",
+      "dek": "據阿拉斯加當地媒體Alaska's News Source報導，轉化為冷心低壓的彩雲殘餘系統與白令海低壓合併，為阿留申群島西側帶來強風警報，預估風速達每小時一百二十至一百四十五公里。",
+      "url": "https://www.alaskasnewssource.com/2026/10/06/stormy-weather-looms-former-typhoon-choi-wan-merges-with-low/"
     },
     {
       "rank": 9,
-      "title": "阿留申群島強風已現 吸收前颱風彩雲的白令海風暴逼近阿拉斯加西部",
-      "dek": "據Alaska's News Source報導，降級為溫帶氣旋的前颱風彩雲預計登陸西阿留申群島，西姆亞至阿特卡一帶發布颶風級大風警報，陣風達每小時75至90英里，風雨潮汐影響預計週四擴及阿拉斯加西岸。",
+      "title": "強風襲阿留申群島 風暴系統朝阿拉斯加西部移動",
+      "dek": "據阿拉斯加當地媒體Alaska's News Source後續報導，彩雲殘餘系統已在阿留申群島帶來強風與豪雨，並持續向阿拉斯加西部推進，預估十月八日上午抵達。",
       "url": "https://www.alaskasnewssource.com/2026/10/07/high-winds-arrive-aleutian-chain-bering-sea-storm-heads-western-alaska/"
     },
     {
       "rank": 10,
-      "title": "日圓創18年新低 「三颱齊發」為日本旅遊規劃添陰影",
-      "dek": "南韓媒體Seoul Economic Daily報導，彩雲、諾洛、小熊三颱同時活躍的罕見景象，與日圓匯率走弱同時發生，衝擊赴日旅遊規劃，顯示此次颱風群聚效應即便未直接登陸，仍產生顯著經濟與旅遊面衝擊。",
-      "url": "https://en.sedaily.com/international/2026/10/08/yen-hits-18-year-low-as-triple-typhoons-cloud-japan-travel"
+      "title": "雙十連假天氣受東北季風主導 與共存颱風無直接關聯",
+      "dek": "據《今周刊》報導，雙十連假期間台灣天氣由東北季風主導，基隆北海岸、東部及恆春半島僅有局部短暫雨，西太平洋上多個共存颱風均距台灣遙遠，無直接影響。",
+      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202510090003/"
     }
   ]
 }
