@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T19:16:00+08:00",
+  "generated_at": "2026-10-12T20:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報。多方檢索中英文新聞與氣象署警報紀錄均未發現2026年10月的新警報，現有三個西北太平洋系統（彩雲、諾羅、古古瑪）均已轉向遠離台灣。",
+  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報，台灣本島未受任何風暴直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無任何颱風路徑、雨帶或氣象署特報影響台中，當地天氣由東北季風主導。"
+    "text": "台中目前無颱風直接影響，天氣持續偏暖乾燥，預計10月14日起東北季風增強帶來正常季節性降溫，並非颱風所致。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "三颱接力漸歇、台灣暫無威脅　關島外海新擾動成觀察焦點",
-    "dek": "彩雲、諾羅、古古瑪相繼轉向遠離台日海域，氣象專家目光轉向關島東南方可能醞釀的下一個熱帶系統。",
-    "url": "https://weathernews.jp/news/202610/120071/"
+    "title": "小熊颱風減弱北轉　關島海域醞釀新颱風",
+    "dek": "台灣目前無颱風警報，但西太平洋活躍，關島附近擾動週中前後可能成為今年新颱風。",
+    "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/10/12/40941.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "古古瑪壓低強度通過小笠原群島　持續遠離日本",
-      "dek": "日本氣象媒體weathernews報導，古古瑪10月12日中心氣壓955百帕、最大風速每秒45公尺，預計10月15日左右完成溫帶變性。",
-      "url": "https://weathernews.jp/news/202610/120071/"
+      "title": "小熊颱風減弱為強颱　日本太平洋岸慎防長浪",
+      "dek": "日本気象協會(tenki.jp)報導，小熊颱風12日清晨降為強颱等級，持續北轉遠離日本本土但激起危險巨浪。",
+      "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/10/12/40941.html"
     },
     {
       "rank": 2,
-      "title": "諾羅減弱為熱帶低氣壓　湧浪仍衝擊日本沿岸",
-      "dek": "weathernews於10月11日報導，諾羅已減弱為熱帶低氣壓，在開闊海域上遠離日本，但其引發的湧浪仍影響沿岸地區。",
-      "url": "https://weathernews.jp/news/202610/110181/"
+      "title": "JTWC：小熊颱風持續風速每小時90節　強度趨弱",
+      "dek": "美國聯合颱風警報中心(JTWC)12日公告確認小熊颱風減弱趨勢，並追蹤西南側新生熱帶性低氣壓28W。",
+      "url": "https://www.stormdom.com/westpacific/tracker.php"
     },
     {
       "rank": 3,
-      "title": "颶風跨越換日線變身颱風　諾羅改名罕見一例",
-      "dek": "英國ITV News引述美聯社報導，諾羅（Nolo）10月4日由中太平洋颶風跨越國際換日線後轉為西北太平洋颱風並更名，屬罕見現象。",
-      "url": "https://www.itv.com/news/2026-10-04/typhoon-nolo-changes-names-after-crossing-international-dateline-in-pacific"
+      "title": "關島附近醞釀新颱風　北轉機率「高於平常」",
+      "dek": "聯合新聞網報導，台灣氣象專家指出，關島附近熱帶擾動可能於10月14日至15日前後成為今年新颱風。",
+      "url": "https://udn.com/news/story/7266/9808513"
     },
     {
       "rank": 4,
-      "title": "連假三颱同框　日媒稱五年來罕見",
-      "dek": "《The Japan Times》10月6日報導，彩雲、諾羅、古古瑪三颱在10月10日至12日連假期間同時活躍，日本廣播媒體稱為五年多來最罕見一次。",
-      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+      "title": "Weather Underground：西太平洋同時追蹤小熊與另一系統",
+      "dek": "Weather Underground即時追蹤顯示，小熊颱風北移同時，西太平洋海域還有其他活躍系統並存。",
+      "url": "https://www.wunderground.com/hurricane"
     },
     {
       "rank": 5,
-      "title": "彩雲關島外海成形　已完成溫帶變性",
-      "dek": "中時新聞網報導，彩雲於9月底在關島附近生成，已於10月7日至8日間完成溫帶變性過程。",
-      "url": "https://www.chinatimes.com/realtimenews/20260929001622-260405"
+      "title": "颶風Nolo跨越換日線　重新歸類為西太平洋颱風",
+      "dek": "夏威夷新聞網報導，長途跋涉的颶風Nolo越過國際換日線後被日本氣象廳改列為颱風，預料將逐漸減弱。",
+      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
     },
     {
       "rank": 6,
-      "title": "關島東南海域醞釀新擾動　AI模式估10月15日後成颱",
-      "dek": "民視新聞網報導，AI模式顯示關島東南方可能有新的熱帶擾動形成，預估10月15日後有機會發展為下一個颱風，但路徑預測分歧。",
-      "url": "https://www.ftvnews.com.tw/news/detail/2026A12W0248"
+      "title": "Nolo跨洋之旅告終　氣象機構預期轉為溫帶氣旋",
+      "dek": "Weathernews報導，Nolo預計10月10日前後轉向東北，逐步脫離熱帶風暴型態，對陸地影響有限。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 7,
-      "title": "專家估低緯度擾動一週內成形　尚未達熱帶低氣壓標準",
-      "dek": "中時新聞網10月10日報導，專家指出關島外海低緯度擾動可能於一週內形成，但目前尚未被歸類為熱帶低氣壓。",
-      "url": "https://www.chinatimes.com/realtimenews/20261010002145-260405"
+      "title": "Choi-wan颱風逼近小笠原群島　後方接連生成兩颱風",
+      "dek": "馬來西亞《星報》報導，Choi-wan颱風10月初北上接近日本小笠原群島，隨後完成溫帶轉性。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 8,
-      "title": "新擾動路徑預測分歧　是否逼近台灣仍待觀察",
-      "dek": "TVBS新聞網報導，各預報模式對關島外海新擾動路徑看法不一，部分顯示其可能先接近台灣再轉北，部分則預期提早轉向。",
-      "url": "https://news.tvbs.com.tw/life/4034771"
+      "title": "彩雲颱風關島外海生成　預期北轉遠離台灣",
+      "dek": "AppleAlmond引述中央氣象署資料指出，彩雲颱風10月1日生成後持續增強，直撲台灣機率偏低。",
+      "url": "https://applealmond.com/posts/327652"
     },
     {
       "rank": 9,
-      "title": "專家稱今年颱風季「早生成、多數量、強強度」",
-      "dek": "知新聞報導，專家形容2026年颱風季異常活躍，並指出十月中旬是秋颱可能捲土重來的觀察時間點。",
-      "url": "https://knews.com.tw/news/5350CB10861CAEFF902ED8B00824BE69"
+      "title": "2026年太平洋颱風季罕見密集　風暴接連生成",
+      "dek": "維基百科條目彙整顯示，今年十月以來西太平洋風暴生成頻率明顯偏高，各氣象機構編號方式不一。",
+      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
     },
     {
       "rank": 10,
-      "title": "聯合報：現存颱風轉向開闊海域　下一觀察點在關島外海",
-      "dek": "聯合新聞網報導，古古瑪與減弱中的諾羅皆在開闊海域大幅轉向、不影響台灣，下一觀察重點為關島周邊擾動，北轉機率較高但仍不確定。",
-      "url": "https://udn.com/news/story/7266/9808513"
+      "title": "台灣天氣持續偏暖乾燥　東北季風週中報到降溫",
+      "dek": "ETtoday報導，台灣目前未受颱風影響，10月14日起東北季風增強將帶來正常季節性降溫與局部降雨。",
+      "url": "https://www.ettoday.net/news/20261012/3253359.htm"
     }
   ]
 }
