@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T09:13:00+08:00",
+  "generated_at": "2026-10-12T10:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報，台灣上一次發布颱風警報是在2026年7月下旬的颱風巴威期間，此後尚無新的警報紀錄。",
+  "alert_desc": "中央氣象署目前未發布海上颱風警報或陸上颱風警報，查證所及最近一次發布的颱風警報為8月27日、針對馬祖列島周邊海域；西太平洋現存的三個颱風系統均活動於日本小笠原群島、南鳥島附近海域，暫未出現任何朝台灣逼近或發展的熱帶系統。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何系統直接影響台中，當地天氣主要由東北季風主導；台中上一次因颱風發布停班停課紀錄為2026年7月的颱風巴威。"
+    "text": "目前無直接影響，因為西太平洋現存的三個颱風（柯羅旺、諾羅、高古瑪）均活動於日本小笠原群島、南鳥島附近海域，且中央氣象署並未發布任何海上或陸上颱風警報，台中地區暫無風雨威脅。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "東北季風主導台灣天氣　西北太平洋颱風季創紀錄活躍",
-    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣天氣由東北季風南下主導，而太平洋另一端的風暴活動則遠較往年頻繁。",
-    "url": "https://sea.weathernews.com/resources/202610/264"
+    "title": "西太平洋罕見「三颱共舞」直逼日本　台灣目前未受牽動",
+    "dek": "颱風柯羅旺、諾羅與高古瑪在西太平洋同時活動，為日本「體育之日」連假投下風雨陰影，但多方氣象機構的最新分析顯示，三者路徑均遠離台灣，中央氣象署目前未發布任何颱風警報。",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
   },
   "items": [
     {
       "rank": 1,
-      "title": "27號颱風「彩雲」形成　轉向北行　台灣迎入秋首波冷空氣",
-      "dek": "TVBS報導，今年第27號颱風「彩雲」在關島附近形成，預測將沿太平洋高壓邊緣轉向北行，不致直撲台灣或日本，台灣同時迎來入秋首波明顯降溫。",
-      "url": "https://health.tvbs.com.tw/nutrition/366374"
+      "title": "柯羅旺逼近小笠原群島之際　兩颱風接連生成",
+      "dek": "美聯社電訊報導指出，「很強」等級的颱風柯羅旺以逼近每秒43公尺的持續風速逼近日本小笠原群島，同時附近又相繼生成兩個新颱風，形成罕見的三颱並存局面。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 2,
-      "title": "東北季風南下　全台氣溫驟降　是否還有新颱風成形待觀察",
-      "dek": "TVBS報導，東北季風南下造成全台氣溫明顯下滑，目前台灣天氣由季風主導而非颱風，報導同時提及西北太平洋是否會接續形成新颱風仍有待觀察。",
-      "url": "https://health.tvbs.com.tw/nutrition/365819"
+      "title": "諾羅跨越國際換日線　由颶風轉列為颱風",
+      "dek": "美聯社式電訊報導指出，太平洋季內持續時間最長的熱帶氣旋諾羅於10月4日跨越國際換日線後重新編號為颱風，日本氣象廳評定其風力達每小時176公里，美國國家颶風中心表示該系統雖強但遠離陸地。",
+      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
     },
     {
       "rank": 3,
-      "title": "颱風「小熊」預估增強為「非常強」等級　接近小笠原群島海域",
-      "dek": "日本氣象業者Weathernews分析，颱風小熊上次確認位置在10月7日，預測將增強為「非常強」颱風，路徑預估經南鳥島南側於10月12日前後接近小笠原群島東側海域，惟尚無更新觀測資料確認此後實際位置。",
-      "url": "https://sea.weathernews.com/resources/202610/264"
+      "title": "追蹤圖顯示西太平洋罕見三颱同時盤旋",
+      "dek": "電訊報導引述日本電視台朝日電視指出，十月同時出現三個颱風的情況，是近五年來首見。",
+      "url": "https://www.the-world-now.com/news/hurricane-tracker-shows-rare-trio-of-storms-churning-across-western-pacific-muwe86y2"
     },
     {
       "rank": 4,
-      "title": "颶風「諾羅」橫越換日線成颱風　預估轉向溫帶氣旋",
-      "dek": "Weathernews報導，日本氣象廳10月7日將颱風諾羅定位在威克島附近、風力70節，預測其將於10月10日前後轉向東行並轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "高古瑪生成為今年第29號颱風　「三颱」齊聚西太平洋",
+      "dek": "根據韓國氣象廳(KMA)資料，颱風高古瑪在關島以東約2560公里處生成，與柯羅旺、諾羅同時並存，預測將朝南鳥島周邊海域逼近。",
+      "url": "https://mbiz.heraldcorp.com/article/10894596"
     },
     {
       "rank": 5,
-      "title": "罕見越洋風暴　「諾羅」自颶風轉為西北太平洋颱風",
-      "dek": "英國ITV新聞與美聯社報導，原在東太平洋以颶風形式形成的諾羅於10月4日越過國際換日線，轉化為西北太平洋第28號颱風，屬罕見的跨洋盆長程風暴。",
-      "url": "https://www.itv.com/news/2026-10-04/nolo-changes-from-a-hurricane-to-a-typhoon-in-the-pacific"
+      "title": "連假前三颱齊北上　柯羅旺、諾羅、高古瑪牽動日本　韓國影響如何？",
+      "dek": "南韓媒體報導聚焦於十月十日至十二日連假期間赴日韓國旅客可能面臨的風險，並指出三颱對韓半島本土造成直接影響的可能性偏低。",
+      "url": "https://www.wikitree.co.kr/articles/1164105"
     },
     {
       "rank": 6,
-      "title": "香港天文台：今年西北太平洋颱風數量遠超歷史均值",
-      "dek": "香港天文台撰文指出，截至10月6日西北太平洋及南海今年已有34個熱帶氣旋，遠高於約21個的平均值，8月單月形成8個創1961年以來同期紀錄，天文台將此歸因於強烈厄爾尼諾現象。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "三颱最新路徑：27號颱風引發大浪警戒　小笠原群島亦須留意29號",
+      "dek": "日本「天氣新聞」(Weathernews) 10月7日下午3時更新指出，柯羅旺當時位於日本遠洋東側海域、體型龐大但持續減弱，已促使關東、東北太平洋沿岸發布大浪警戒，諾羅則在威克島附近偏西移動，高古瑪持續增強並預計約於10月10日逼近南鳥島。",
+      "url": "https://weathernews.jp/news/202610/070131/"
     },
     {
       "rank": 7,
-      "title": "2026年太平洋颱風季統計：26個命名風暴、9個颱風",
-      "dek": "維基百科整理的季節統計顯示，今年太平洋颱風季至今已出現38個低壓系統、26個命名風暴及9個颱風，監測機構TSR七月已將全季展望上修至高於平均值約四成。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "28號、29號颱風最新動態　高古瑪增強為「強」颱風　連假過後本州亦須慎防大浪",
+      "dek": "10月9日最新確認的更新顯示，兩颱風持續以偏西路徑移動，預料將在三天連假前後轉向北行，高古瑪已增強至「強」颱風等級，雖不致登陸本州，但下週海象可能持續惡劣。",
+      "url": "https://weathernews.jp/news/202610/090071/"
     },
     {
       "rank": 8,
-      "title": "艾塞亞斯增強奔向美國灣岸　成今年大西洋首個颶風",
-      "dek": "半島電視台報導，颶風艾塞亞斯成為2026年大西洋首個颶風，預估朝美國灣岸北部移動，氣象預報員關注其可能在佛羅里達狹長地帶、阿拉巴馬州或密西西比州沿岸登陸，強降雨與強風為主要威脅。",
-      "url": "https://www.aljazeera.com/amp/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds"
+      "title": "兩颱最新路徑：預料週末起同時轉向北行　小笠原群島須留意29號影響",
+      "dek": "10月8日報導將焦點縮小至諾羅與高古瑪，柯羅旺已淡出關注範圍，兩者當時仍偏西移動，但預測將於週末前後轉向北行，高古瑪對小笠原群島造成的風險視其路徑時間點而定。",
+      "url": "https://weathernews.jp/news/202610/080021/"
     },
     {
       "rank": 9,
-      "title": "艾塞亞斯升級為三級颶風　打破美國多年未有登陸紀錄",
-      "dek": "美國夏洛特WBTV電視台報導，艾塞亞斯在登陸前升級為三級強颶風，最大持續風速每小時120英里，結束美國本土多年未見颶風登陸的局面，強降雨與洪水威脅延伸至田納西州及北卡羅來納州。",
-      "url": "https://www.wbtv.com/2026/10/09/isaias-first-hurricane-atlantic-season-now-major-category-3/"
+      "title": "「2026年颱風季已經結束？」",
+      "dek": "香港天文台網誌指出，截至10月6日，今年西北太平洋及南海已有34個熱帶氣旋活動、其中3個曾須由香港發出警告信號，並預期南海及菲律賓周邊的反氣旋環境將持續抑制新熱帶氣旋生成，直至10月下旬。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
       "rank": 10,
-      "title": "艾塞亞斯風眼成形　阿拉巴馬、佛羅里達州宣布進入緊急狀態",
-      "dek": "美國考克斯媒體集團報導，艾塞亞斯預估在阿拉巴馬與佛羅里達州交界附近登陸，兩州州長分別對40個及25個郡宣布緊急狀態，並下令墨西哥灣郡與奧卡盧薩郡撤離，預測風暴潮達5至7英尺、降雨最高10英吋。",
-      "url": "https://www.wdbo.com/news/trending/hurricane-isaias-eye-forms-landfall-expected-near-alabama-florida-line/BNZVGJ6YMNABTP2GQU4MKLYDBE/"
+      "title": "菲律賓氣象機構發布7月至12月季節展望",
+      "dek": "菲律賓大氣地理天文服務管理局(PAGASA)預測，受增強中的厄爾尼諾現象影響，10月菲律賓責任海域內僅可能出現1至2個熱帶氣旋，與南海、菲律賓周邊目前相對平靜的氣象格局相符。",
+      "url": "https://www.gmanetwork.com/news/weather/content/993329/pagasa-forecasts-up-to-4-storms-in-par-in-july/story/"
     }
   ]
 }
