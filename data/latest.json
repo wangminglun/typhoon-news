@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T12:16:00+08:00",
+  "generated_at": "2026-10-12T13:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島或近海發布任何陸上或海上颱風警報。西北太平洋雖出現「三颱共存」局面，但各系統目前均未直接威脅台灣；此現況係根據多方搜尋結果交叉比對後的推論，請讀者仍以氣象署最新公告為準。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣本島未受直接影響，但大西洋與西太平洋的熱帶氣旋動態依然牽動全球天氣版圖。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。多方搜尋均未發現任何颱風系統對台灣或台中造成風雨影響，亦查無任何停班停課相關消息；目前牽動台灣天氣的主要是一般季節性天候，與西北太平洋上的颱風系統無關。"
+    "text": "目前無直接影響。無任何颱風系統對台灣或台中造成風雨影響，地方政府亦未發布停班停課相關公告；目前牽動台灣天氣的主要是一般季節性天候，與大西洋及西太平洋上的熱帶氣旋系統無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西北太平洋罕見「三颱共存」逼近日本　台灣中央氣象署目前未發布颱風警報",
-    "dek": "韓國與日本氣象機構指出，颱風小犬、彩雲與另一颱風本週同時盤據西北太平洋，為日本連假蒙上陰影，但截至十月十二日，台灣並無任何陸上或海上颱風警報生效。",
-    "url": "https://mbiz.heraldcorp.com/article/10894596"
+    "title": "颱風季暫歇、台灣無警戒 全球焦點轉向美國灣岸強颶風與跨越換日線的罕見風暴",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣本島未受直接影響，但大西洋與西太平洋的熱帶氣旋動態依然牽動全球天氣版圖。",
+    "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "「小犬」颱風生成，西北太平洋罕見三颱共存",
-      "dek": "據韓國《Herald Corp》報導，颱風小犬（Koguma）在關島以東約2560公里處形成，與颱風彩雲（Choi-wan）、另一颱風同時並存，日本TV朝日稱十月同時出現三颱已五年未見，恰逢日本十月十日至十二日連假。",
-      "url": "https://mbiz.heraldcorp.com/article/10894596"
+      "title": "伊薛亞斯增強為三級颶風，直撲美國灣岸",
+      "dek": "這場颶風以近每小時120英里的風力逼近阿拉巴馬與佛羅里達交界，預報機構警告暴潮、洪水與龍捲風風險。",
+      "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
     },
     {
       "rank": 2,
-      "title": "三個熱帶系統逼近日本，太平洋沿岸發布高浪警告",
-      "dek": "印度《Aaj Tak》報導，三個熱帶系統在西太平洋向日本移動，當地氣象機構已對太平洋沿岸發布長浪與高浪警告。",
-      "url": "https://www.aajtak.in/science/story/western-pacific-ocean-three-storms-japan-high-waves-dskc-2663830-2026-10-07"
+      "title": "颶風伊薛亞斯增強至三級，預計在佛州與阿拉巴馬州交界登陸",
+      "dek": "佛羅里達地方電視台詳述伊薛亞斯逼近時的暴潮與降雨預測，中部灣岸地區雨量上看8英吋以上。",
+      "url": "https://www.mysuncoast.com/2026/10/09/11-am-isaias-update/"
     },
     {
       "rank": 3,
-      "title": "美軍JTWC：西太平洋「颱風高速公路」車流增加，多系統成形",
-      "dek": "美軍聯合颱風警報中心（JTWC）持續追蹤熱帶低氣壓小犬及颱風彩雲等系統，《Stars and Stripes》報導小犬預期轉向逼近日本。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "伊薛亞斯預計增強為主要颶風，逼近美國灣岸",
+      "dek": "佛羅里達與阿拉巴馬州分別宣布緊急狀態並對沿海郡下令強制撤離，以應對登陸前的風暴威脅。",
+      "url": "https://www.news4jax.com/news/national/2026/10/09/isaias-is-expected-to-strengthen-into-a-major-hurricane-as-it-nears-the-us-gulf-coast/"
     },
     {
       "rank": 4,
-      "title": "日本氣象公司預測小犬颱風增強為「非常強」，逼近小笠原群島",
-      "dek": "日本Weathernews預報小犬颱風將增強為「非常強」等級，掠過南鳥島南方，約十月十二日接近小笠原群島東側海域。",
-      "url": "https://sea.weathernews.com/resources/202610/264"
+      "title": "伊薛亞斯以危險的三級颶風強度逼近美國灣岸",
+      "dek": "美聯社報導指出，伊薛亞斯路徑指向阿拉巴馬莫比爾灣與佛羅里達德斯坡之間，沿岸城市已實施宵禁。",
+      "url": "https://cdapress.com/news/2026/oct/09/isaias-closes-in-on-the-us-gulf-coast-as-a-dangerous-category-3-hurricane/"
     },
     {
       "rank": 5,
-      "title": "颱風彩雲在馬里亞納群島北側生成，預測轉向後轉化為溫帶氣旋",
-      "dek": "日本Weathernews指出颱風彩雲（第27號風暴）十月五日已增強至「非常強」等級，預測約十月八日轉向東北並在副極地太平洋轉化為溫帶氣旋，此後動態截至十月十二日尚未獲得獨立證實。",
-      "url": "https://sea.weathernews.com/resources/202610/260"
+      "title": "伊薛亞斯升格為颶風，朝灣岸推進：你需要知道的事",
+      "dek": "密西西比媒體整理伊薛亞斯由熱帶風暴轉為颶風的過程，以及密西西比、阿拉巴馬、佛羅里達沿岸的關注重點。",
+      "url": "https://www.wlox.com/2026/10/08/isaias-is-now-hurricane-it-surges-toward-gulf-coast-what-know/"
     },
     {
       "rank": 6,
-      "title": "彩雲颱風外圍雲雨影響菲律賓米沙鄢、民答那峨，本身未進入菲律賓警戒區",
-      "dek": "菲律賓《GMA Network》報導，菲律賓大氣地理天文服務局（PAGASA）指出，颱風彩雲雖遠在呂宋以東約2610公里、未進入菲律賓責任區（PAR），其外圍雲系仍為米沙鄢與民答那峨帶來局部降雨。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1004640/trough-of-typhoon-choi-wan-affecting-visayas-mindanao/story/"
+      "title": "颶風伊薛亞斯已達三級強度，預計當晚登陸",
+      "dek": "佛州彭薩科拉當地媒體報導，登陸前已有數千戶停電，暴潮已開始衝擊海岸線。",
+      "url": "https://weartv.com/news/local/hurricane-isaias-forecast-to-reach-category-3-over-the-gulf-this-afternoon"
     },
     {
       "rank": 7,
-      "title": "維基百科資料：2026年彩雲颱風曾達到五級超級颱風強度，無登陸紀錄",
-      "dek": "根據維基百科「彩雲颱風列表」頁面，2026年彩雲颱風在開放海域一度達到相當於五級的超級颱風強度，目前查無登陸或造成傷亡的報導。",
-      "url": "https://en.wikipedia.org/wiki/List_of_storms_named_Choi-wan"
-    },
-    {
-      "rank": 8,
-      "title": "氣象署七月曾警示第12號潛在風暴可能發海上警報，為目前查得最近一次台灣相關颱風警報消息",
-      "dek": "《中央社》英文新聞網Focus Taiwan七月二十三日報導，中央氣象署當時表示醞釀中的第12號風暴（後命名為Noul）若成形，可能促使發布涵蓋巴士海峽與東沙島海域的海上颱風警報；此為目前搜尋到最近一次台灣相關颱風警報消息，並非十月現況。",
-      "url": "https://focustaiwan.tw/society/202607230006"
-    },
-    {
-      "rank": 9,
-      "title": "大西洋颶風季異常平靜，墨西哥灣坎佩切灣成觀察重點",
-      "dek": "美國密西西比州媒體《WLOX》報導，2026年大西洋颶風季至今尚無颶風生成，為現代紀錄中最不活躍的季節之一，預報人員留意十月七日至十三日坎佩切灣可能發展的系統。",
+      "title": "墨西哥灣熱帶活動可能於下週末出現",
+      "dek": "本篇十月初報導指出，2026年大西洋颶風季因乾燥氣流而異常平靜，並點名坎佩切灣可能孕育後來的伊薛亞斯。",
       "url": "https://www.wlox.com/2026/10/02/gulf-tropical-activity-possible-late-next-week/"
     },
     {
+      "rank": 8,
+      "title": "長途跋涉的颶風「諾洛」跨越太平洋，化身颱風28號",
+      "dek": "一個源自墨西哥外海的熱帶系統橫越太平洋並跨越國際換日線，更名為颱風諾洛後預計減弱並轉化為溫帶氣旋，不會威脅任何陸地。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+    },
+    {
+      "rank": 9,
+      "title": "太平洋颶風跨越國際換日線後，改名為颱風諾洛",
+      "dek": "英國ITV新聞報導這場氣象奇觀，並引述美聯社指出諾洛當時並未對任何陸地構成威脅。",
+      "url": "https://www.itv.com/news/2026-10-04/typhoon-nolo-changes-names-after-crossing-international-dateline-in-pacific"
+    },
+    {
       "rank": 10,
-      "title": "菲律賓PAGASA預測厄爾尼諾壓抑下十月僅有一至二個熱帶氣旋",
-      "dek": "菲律賓大氣地理天文服務局（PAGASA）季節展望指出，受發展中的厄爾尼諾現象抑制，預期十月僅有一至二個熱帶氣旋進入或在菲律賓警戒區形成，但不排除其中仍有系統增強至颱風或超級颱風等級。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "2026年風季已完結？",
+      "dek": "香港天文台部落格分析指出，截至10月6日西北太平洋與南海今年已生成34個熱帶氣旋，8月生成數創紀錄，但9月生成位置偏東使南海無風暴進入。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     }
   ]
 }
