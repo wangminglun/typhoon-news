@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T02:14:00+08:00",
+  "generated_at": "2026-10-13T03:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報；惟因氣象資料更新存在時間差，本訊息係根據最近一次可取得、涵蓋至十月十一、十二日預報期間的公開資料推估，非即時發布之官方公告，仍建議以氣象署最新發布為準。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報；上一次發布的海上颱風警報（針對熱帶風暴沙德爾）已於八月二十八日解除。惟因氣象資料更新存在時間差，仍建議以氣象署最新發布為準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風系統直接影響台中，西部及南部地區預期將維持晴朗穩定天氣；台中市今年最近一次因颱風發布停班停課，係七月因颱風巴維（Bavi）所致，屬歷史紀錄，與當前情勢無關。"
+    "text": "目前無任何颱風系統直接影響台中，目前無直接影響；台中市今年最近一次因颱風發布停班停課，係七月因颱風巴威（Bavi）所致，屬歷史紀錄，與當前情勢無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋三颱罕見齊聚　台灣暫轉東北季風主導",
-    "dek": "彩雲、諾盧、小熊三颱同時現身西太平洋外海，中央氣象署證實台灣本島目前未受任何颱風威脅。",
-    "url": "https://mbiz.heraldcorp.com/article/10894596"
+    "title": "太平洋颱風季創紀錄活躍，但台灣目前無颱風威脅",
+    "dek": "颱風諾羅轉向遠離亞洲並將減弱為溫帶氣旋，中央氣象署上一次海上颱風警報已解除逾一個月，專家指厄爾尼諾增強可能使本月新颱風生成趨緩",
+    "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "日本連假前夕　西太平洋罕見三颱並列",
-      "dek": "彩雲、諾盧與小熊三颱同時活躍，據報為五年來首見的十月三颱同框景象，但均未威脅台灣。",
-      "url": "https://mbiz.heraldcorp.com/article/10894596"
-    },
-    {
-      "rank": 2,
-      "title": "彩雲颱風逼近巔峰強度　掠過小笠原群島外海",
-      "dek": "日本氣象廳資料顯示彩雲颱風一度逼近強烈等級，路徑停留在開放海域，未登陸即轉化為溫帶氣旋。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
-    },
-    {
-      "rank": 3,
-      "title": "颶風跨洋變身颱風　諾盧罕見路徑引關注",
-      "dek": "原為中太平洋颶風的系統跨越國際換日線後重新編號為西太平洋颱風，但預測對日本、台灣均無登陸威脅。",
+      "title": "颱風諾羅跨越換日線後減弱，預測10月10日前後轉化為溫帶氣旋",
+      "dek": "日本氣象廳最新資料顯示，諾羅已遠離台灣及東亞海域，持續減弱並轉向東行。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
+      "rank": 2,
+      "title": "太平洋颶風諾羅跨越國際換日線，更名為颱風諾羅",
+      "dek": "美聯社報導，原為三級颶風的諾羅跨越換日線後，由美國移交日本氣象廳與聯合颱風警報中心並更名。",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline"
+    },
+    {
+      "rank": 3,
+      "title": "中央氣象署解除熱帶風暴沙德爾海上颱風警報，為台灣本季最近一次警報",
+      "dek": "氣象署表示沙德爾已不再威脅台灣，此後未再發布新的颱風警報。",
+      "url": "https://focustaiwan.tw/society/202608280012"
+    },
+    {
       "rank": 4,
-      "title": "第29號颱風小熊生成　朝日本南方離島海域前進",
-      "dek": "小熊颱風在關島以東海面形成，預估接近南鳥島與小笠原群島附近，暫無資料顯示其路徑接近台灣。",
-      "url": "https://sea.weathernews.com/resources/202610/264"
+      "title": "颱風多芬掠過台灣北部，造成6人受傷",
+      "dek": "卡達半島電視台報導，多芬雖未登陸，仍在全台引發632件天氣相關事故。",
+      "url": "https://www.thepeninsulaqatar.com/article/10/08/2026/typhoon-dolphin-hits-northern-taiwan-injures-6"
     },
     {
       "rank": 5,
-      "title": "中央氣象署：三颱對台皆無威脅　東北季風才是主角",
-      "dek": "台灣國慶連假天氣由今年最強東北季風主導，北部東部轉涼有雨，中南部及台中維持晴朗穩定。",
-      "url": "https://health.tvbs.com.tw/nutrition/366534"
+      "title": "強烈颱風巴威逼近台灣，氣象署下令大規模撤離",
+      "dek": "台北時報報導，氣象署同時發布海陸颱風警報，逾1萬4000人撤離低窪地區。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/11/2003860584"
     },
     {
       "rank": 6,
-      "title": "香港天文台：十月剩餘時間遭颱風直接侵襲機率低",
-      "dek": "天文台指南海水溫降低及反氣旋壓制對流，使香港本月再遭颱風直接影響的可能性不高。",
-      "url": "https://www.thestandard.com.hk/news/article/344936/Hong-Kong-unlikely-to-face-direct-typhoon-hit-for-rest-of-October-HKO-says"
+      "title": "台中市因應颱風巴威宣布停班停課",
+      "dek": "新頭殼報導，台中市政府提前近30小時宣布停班停課以應對巴威來襲。",
+      "url": "https://newtalk.tw/news/view/2026-07-10/1046373"
     },
     {
       "rank": 7,
-      "title": "大西洋颶風季創紀錄沉寂　十月初仍無颶風生成",
-      "dek": "美國氣象機構資料顯示，今年大西洋颶風季截至十月初尚無風暴達到颶風強度，為衛星觀測時代最晚紀錄。",
-      "url": "https://www.weatherbug.com/news/Could%20October%20Break%20the%20Hurricane%20Drought"
+      "title": "香港天文台：2026年西北太平洋颱風季活動量創紀錄",
+      "dek": "天文台統計截至10月6日已生成34個熱帶氣旋，8月單月12個系統創下1961年以來紀錄。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
       "rank": 8,
-      "title": "菲律賓氣象署：厄爾尼諾抑制下　秋季颱風數量將低於平均",
-      "dek": "菲律賓大氣地理天文服務署預測十至十二月僅三至六個熱帶氣旋影響菲律賓，部分仍可能達颱風強度。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "評估機構確認2026年太平洋颱風季「異常活躍」，較氣候平均高出約四成",
+      "dek": "Tropical Storm Risk與日本氣象新聞網指出，發展中的厄爾尼諾現象是今年活動量偏高的主因。",
+      "url": "https://www.tropicalstormrisk.com/docs/TSRNWPForecastJuly2026.pdf"
     },
     {
       "rank": 9,
-      "title": "回顧：台灣今年最近一次颱風警報為七、八月的巴維與多芬",
-      "dek": "中央氣象署今年最近一次發布颱風警報分別是七月的巴維颱風與八月的多芬颱風，九、十月尚無新警報紀錄。",
-      "url": "https://focustaiwan.tw/society/202608070010"
+      "title": "PAGASA展望：強厄爾尼諾下，10至12月進入菲律賓責任區的颱風數量可能減少",
+      "dek": "菲律賓氣象機構預測熱帶氣旋頻率下降，但不排除仍有系統達到強颱等級。",
+      "url": "https://www.gmanetwork.com/news/weather/content/993329/pagasa-forecasts-up-to-4-storms-in-par-in-july/story/"
     },
     {
       "rank": 10,
-      "title": "回顧：台中最近一次颱風停班停課為七月巴維颱風",
-      "dek": "台中市今年因颱風發布停班停課的最近紀錄，是七月十日至十一日因應巴維颱風而發布，屬歷史事件。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/11/2003860584"
+      "title": "大西洋颶風季創121年來最晚首颶紀錄，颶風伊薩亞斯動態未明",
+      "dek": "AccuWeather報導，大西洋今年遲遲未出現達颶風強度的風暴，打破1905年以來紀錄，伊薩亞斯是否已達颶風強度尚待確認。",
+      "url": "https://www.accuweather.com/en/hurricane/a-121-year-old-atlantic-hurricane-record-could-be-broken-in-october/1940402"
     }
   ]
 }
