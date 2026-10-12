@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T20:13:00+08:00",
+  "generated_at": "2026-10-12T21:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上颱風警報，台灣本島未受任何風暴直接威脅。",
+  "alert_desc": "中央氣象署證實西北太平洋三個颱風皆對台灣無影響，目前未發布任何海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無颱風直接影響，天氣持續偏暖乾燥，預計10月14日起東北季風增強帶來正常季節性降溫，並非颱風所致。"
+    "text": "目前並無颱風或氣象署警報對台中造成直接影響，當地天氣主要受東北季風影響，並未出現停班停課相關訊息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "小熊颱風減弱北轉　關島海域醞釀新颱風",
-    "dek": "台灣目前無颱風警報，但西太平洋活躍，關島附近擾動週中前後可能成為今年新颱風。",
-    "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/10/12/40941.html"
+    "title": "三颱共舞步入尾聲　氣象署：無一侵台",
+    "dek": "西北太平洋罕見同時出現三個颱風，但中央氣象署證實三者皆不影響台灣，全台天氣改由東北季風主導。",
+    "url": "https://health.tvbs.com.tw/nutrition/366534"
   },
   "items": [
     {
       "rank": 1,
-      "title": "小熊颱風減弱為強颱　日本太平洋岸慎防長浪",
-      "dek": "日本気象協會(tenki.jp)報導，小熊颱風12日清晨降為強颱等級，持續北轉遠離日本本土但激起危險巨浪。",
-      "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/10/12/40941.html"
+      "title": "氣象署證實：三颱共舞對台灣無影響",
+      "dek": "中央氣象署表示彩雲、娜拿與小熊三颱均不影響台灣，國慶連假天氣改由東北季風主導。",
+      "url": "https://health.tvbs.com.tw/nutrition/366534"
     },
     {
       "rank": 2,
-      "title": "JTWC：小熊颱風持續風速每小時90節　強度趨弱",
-      "dek": "美國聯合颱風警報中心(JTWC)12日公告確認小熊颱風減弱趨勢，並追蹤西南側新生熱帶性低氣壓28W。",
-      "url": "https://www.stormdom.com/westpacific/tracker.php"
+      "title": "「三颱共舞」籠罩日本連假　預期多在外海通過",
+      "dek": "三個颱風同時活躍恰逢日本體育之日連假，預報顯示風暴路徑多將繞過日本本土，僅對小笠原、伊豆群島及太平洋沿岸帶來較大風浪。",
+      "url": "https://mbiz.heraldcorp.com/article/10894596"
     },
     {
       "rank": 3,
-      "title": "關島附近醞釀新颱風　北轉機率「高於平常」",
-      "dek": "聯合新聞網報導，台灣氣象專家指出，關島附近熱帶擾動可能於10月14日至15日前後成為今年新颱風。",
-      "url": "https://udn.com/news/story/7266/9808513"
+      "title": "小熊颱風由強轉弱　持續北轉遠離陸地",
+      "dek": "即時路徑追蹤顯示小熊颱風峰值強度後逐漸減弱，正朝北太平洋外海移動，預計數日內完成溫帶氣旋轉化，對日本與台灣均無威脅。",
+      "url": "https://zoom.earth/storms/koguma-2026/"
     },
     {
       "rank": 4,
-      "title": "Weather Underground：西太平洋同時追蹤小熊與另一系統",
-      "dek": "Weather Underground即時追蹤顯示，小熊颱風北移同時，西太平洋海域還有其他活躍系統並存。",
-      "url": "https://www.wunderground.com/hurricane"
+      "title": "小熊增強為颱風　馬里亞納群島評估無直接威脅",
+      "dek": "關島當地媒體報導，美軍聯合颱風警報中心與美國國家氣象局評估小熊颱風不會直接衝擊馬里亞納群島。",
+      "url": "https://mvariety.com/news/local/koguma-strengthens-into-typhoon-but-marianas-face-no-direct-threat/article_babe148e-decb-4b72-8ab1-9359e59208f1.html"
     },
     {
       "rank": 5,
-      "title": "颶風Nolo跨越換日線　重新歸類為西太平洋颱風",
-      "dek": "夏威夷新聞網報導，長途跋涉的颶風Nolo越過國際換日線後被日本氣象廳改列為颱風，預料將逐漸減弱。",
-      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
+      "title": "小熊增強期間　關島周邊傳淹水顧慮",
+      "dek": "當地媒體指出，小熊颱風外圍水氣曾在關島與馬里亞納群島一帶引發強降雨及淹水風險，但與風暴直接衝擊不同。",
+      "url": "https://www.postguam.com/news/local/disturbance-threatens-flooding-as-koguma-strengthens/article_2461984e-0168-428a-8feb-e014bc31b952.html"
     },
     {
       "rank": 6,
-      "title": "Nolo跨洋之旅告終　氣象機構預期轉為溫帶氣旋",
-      "dek": "Weathernews報導，Nolo預計10月10日前後轉向東北，逐步脫離熱帶風暴型態，對陸地影響有限。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
-    },
-    {
-      "rank": 7,
-      "title": "Choi-wan颱風逼近小笠原群島　後方接連生成兩颱風",
-      "dek": "馬來西亞《星報》報導，Choi-wan颱風10月初北上接近日本小笠原群島，隨後完成溫帶轉性。",
+      "title": "彩雲颱風逼近小笠原群島　同時兩颱生成",
+      "dek": "日本氣象廳資料顯示，強烈颱風彩雲逼近小笠原群島之際，娜拿與小熊相繼生成，形成罕見三颱並存局面。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
+      "rank": 7,
+      "title": "跨越換日線　颶風娜拿變身第28號颱風",
+      "dek": "原屬東太平洋颶風季的娜拿跨越國際換日線後編號為颱風，曾逼近威克島，預期轉向並完成溫帶氣旋轉化。",
+      "url": "https://www.cp24.com/news/world/2026/10/05/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
+    },
+    {
       "rank": 8,
-      "title": "彩雲颱風關島外海生成　預期北轉遠離台灣",
-      "dek": "AppleAlmond引述中央氣象署資料指出，彩雲颱風10月1日生成後持續增強，直撲台灣機率偏低。",
-      "url": "https://applealmond.com/posts/327652"
+      "title": "小熊颱風暴風圈持續擴大　海上風力增強",
+      "dek": "氣象資訊業者Weathernews指出，小熊颱風雖已遠離陸地，其暴風級風力範圍在日本以東洋面持續擴大。",
+      "url": "https://sea.weathernews.com/resources/202610/269"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季罕見密集　風暴接連生成",
-      "dek": "維基百科條目彙整顯示，今年十月以來西太平洋風暴生成頻率明顯偏高，各氣象機構編號方式不一。",
-      "url": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%A2%B1%E9%A2%A8%E5%AD%A3"
+      "title": "二零二六年太平洋颱風季活躍程度居高不下",
+      "dek": "綜合氣象資料顯示，今年太平洋颱風季已生成約二十六個命名風暴，損失金額超過一百億美元，遠高於歷史平均。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 10,
-      "title": "台灣天氣持續偏暖乾燥　東北季風週中報到降溫",
-      "dek": "ETtoday報導，台灣目前未受颱風影響，10月14日起東北季風增強將帶來正常季節性降溫與局部降雨。",
-      "url": "https://www.ettoday.net/news/20261012/3253359.htm"
+      "title": "回顧：氣象署上次發布颱風警報為八月沙德爾颱風",
+      "dek": "氣象署最近一次發布的官方颱風警報紀錄為八月二十七日對沙德爾颱風發布的海上警報，九、十月以來未再發布新警報。",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
     }
   ]
 }
