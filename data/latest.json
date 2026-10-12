@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T14:13:00+08:00",
+  "generated_at": "2026-10-12T15:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣本島僅受東北季風影響；西太平洋上同時有三個颱風活躍，大西洋颶風伊莎伊斯則已登陸美國灣岸。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；全球截至10月12日亦無經確認仍活躍威脅陸地的颱風或颶風系統，上週橫跨大西洋與西太平洋的風暴均已登陸減弱或正轉化為溫帶氣旋。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無任何颱風系統對台灣或台中造成風雨影響，地方政府亦未發布停班停課相關公告；台中當前天氣僅受東北季風影響，與西太平洋及大西洋上的熱帶氣旋系統無關。"
+    "text": "目前無直接影響。無任何颱風系統對台灣或台中造成風雨影響，地方政府亦未發布停班停課相關公告；台中當前天氣與大西洋、西太平洋上已減弱或轉向的熱帶氣旋系統無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋三颱罕見同列 台灣目前無颱風警戒",
-    "dek": "日本氣象協會指出，三個颱風同時在西太平洋活躍是五年來首見，但中央氣象署資料顯示，台灣目前未發布任何海上或陸上颱風警報，僅受東北季風影響。",
-    "url": "https://weathernews.jp/news/202610/090071/"
+    "title": "颱風季罕見平靜：伊莎伊斯登陸減弱，西太平洋三颱無一逼近台灣",
+    "dek": "大西洋今年遲至十月才形成的首個颶風伊莎伊斯登陸美國灣岸後迅速減弱，西太平洋「彩雲」「諾盧」與「小熊」三颱則陸續轉向遠離日本本土，截至十月十二日全球並無活躍颱風直接威脅陸地，中央氣象署也未對台灣發布任何海上或陸上颱風警報。",
+    "url": "https://www.bostonglobe.com/2026/10/09/nation/isaias-strengthens-category-3-hurricane/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風29號科古馬增強 本州連假後留意高浪",
-      "dek": "根據日本Weathernews報導，颱風29號(科古馬)已增強至「強」等級並持續向西北前進，即使不直接登陸本州，連假結束後日本本島沿岸仍需留意長浪與海象轉差。",
-      "url": "https://weathernews.jp/news/202610/090071/"
+      "title": "伊莎伊斯增強為三級颶風，逼近美國灣岸",
+      "dek": "根據美聯社報導（《波士頓環球報》刊出），伊莎伊斯十月九日迅速增強為三級颶風，成為二〇二六年大西洋季首個颶風，預估朝阿拉巴馬至佛州潘漢多海岸登陸，國家颶風中心警告風暴潮可達六至九英尺，並預期登陸後迅速減弱。",
+      "url": "https://www.bostonglobe.com/2026/10/09/nation/isaias-strengthens-category-3-hurricane/"
     },
     {
       "rank": 2,
-      "title": "日本氣象協會：三颱共存五年來首見",
-      "dek": "根據《日本時報》報導，颱風小哇、諺羅與科古馬同時活躍於西太平洋，日本氣象協會表示這是五年來首次出現三颱並存的情況，且小哇預期不會侵襲日本本土。",
-      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
+      "title": "灣岸地區下令撤離，防範風暴潮與龍捲風",
+      "dek": "根據WECT／Gray Media引述美聯社電訊報導，阿拉巴馬州州長艾薇下令灣岸群島非居民撤離，氣象單位警告伊莎伊斯可能帶來致命風暴潮、內陸洪水與龍捲風威脅。",
+      "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
     },
     {
       "rank": 3,
-      "title": "颱風29號科古馬生成 三連休將逼近日本近海",
-      "dek": "根據Weathernews報導，馬紹爾群島附近熱帶低氣壓增強為當月第三個颱風「科古馬」，預測將持續向西北增強，三連休期間可能逼近日本近海。",
-      "url": "https://weathernews.jp/news/202610/050101/"
+      "title": "伊莎伊斯成為二〇二六年大西洋季首個「主要颶風」",
+      "dek": "根據KBTX報導，伊莎伊斯十月九日確認達到三級強度，終結了二〇二六年大西洋季異常漫長的無颶風紀錄。",
+      "url": "https://www.kbtx.com/2026/10/09/isaias-becomes-first-major-hurricane-2026-season/"
     },
     {
       "rank": 4,
-      "title": "諺羅、科古馬周末轉北 小笠原需留意",
-      "dek": "根據Weathernews報導，颱風諺羅與科古馬預期自週末起同步轉向北行，其中科古馬可能對小笠原諸島帶來風浪方面的影響。",
-      "url": "https://weathernews.jp/news/202610/080021/"
+      "title": "熱帶風暴伊莎伊斯醞釀增強，可望成為該季首個颶風",
+      "dek": "根據WBTV十月七日報導，伊莎伊斯當時在墨西哥灣持續組織增強，若升級為颶風幾乎追平一九〇五年史上最晚首颶的紀錄。",
+      "url": "https://www.wbtv.com/2026/10/07/tropical-storm-isaias-become-first-hurricane-atlantic-season/"
     },
     {
       "rank": 5,
-      "title": "美國NHC宣布伊莎伊斯升級為颶風",
-      "dek": "根據路透社報導，美國國家颶風中心宣布伊莎伊斯已增強為大西洋今年首個颶風，風速約每小時75英里，幾乎追平121年來大西洋首颶風最晚生成的紀錄。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/08/us-nhc-says-isaias-has-become-a-hurricane"
+      "title": "NPR：伊莎伊斯增強為大西洋季首個颶風",
+      "dek": "根據NPR／KUOW十月七日報導，伊莎伊斯正式升級為颶風，凸顯二〇二六年大西洋季因強厄爾尼諾現象受壓抑、生成異常延遲的背景。",
+      "url": "https://www.kuow.org/npr-news/2026-10-07/isaias-strengthens-into-the-first-hurricane-of-the-atlantic-season"
     },
     {
       "rank": 6,
-      "title": "熱帶風暴伊莎伊斯在墨西哥灣生成",
-      "dek": "根據WSB-TV報導，熱帶風暴伊莎伊斯於墨西哥灣西南部生成，為本季大西洋第九個被命名的風暴，預測路徑朝美國灣岸北部移動。",
-      "url": "https://www.wsbtv.com/news/trending/tropical-storm-isaias-forms-gulf-could-become-seasons-first-hurricane/RYAXQRUNWBBXRKSWNL4P6EH6TY/"
-    },
-    {
-      "rank": 7,
-      "title": "颶風諺羅跨換日線 轉變為颱風28號",
-      "dek": "根據Weathernews旗下wxtech報導，原中太平洋颶風諺羅跨越國際換日線後再度增強為颱風28號，日本氣象廳曾將其定位於威克島附近，預測後續將減弱並轉為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
-    },
-    {
-      "rank": 8,
-      "title": "颶風諺羅跨換日線變身颱風 罕見一例",
-      "dek": "根據美聯社報導，颶風諺羅在夏威夷附近接近巔峰強度後跨越國際換日線，被重新命名為颱風諺羅(28號)，屬氣象史上少見的跨換日線風暴案例。",
-      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
-    },
-    {
-      "rank": 9,
-      "title": "颱風小哇接近小笠原 另兩颱同步生成",
-      "dek": "根據《星報》(馬來西亞)引述亞洲新聞網報導，颱風小哇(27號)接近巔峰強度並逼近小笠原諸島之際，颱風諺羅與科古馬也相繼生成發展，形成三颱並存局面。",
+      "title": "三颱並存逼近日本小笠原，為五年來首見",
+      "dek": "根據《星報》引述法新社與路透社報導，颱風彩雲接近小笠原群島同時增強為「非常強」等級，另兩個颱風諾盧與小熊相繼形成，造成日本連假前後罕見的三颱並存局面。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
+      "rank": 7,
+      "title": "彩雲遠離本土東進，關東東北沿岸發長浪警戒",
+      "dek": "根據日本Weathernews十月七日報導，彩雲持續遠離日本本土向東北移動，僅對關東、東北太平洋沿岸發出長浪警戒，諾盧與小熊則仍在本土以南海域向西北移動。",
+      "url": "https://weathernews.jp/news/202610/070131/"
+    },
+    {
+      "rank": 8,
+      "title": "諺羅、小熊並列向西移動，均未直撲日本本土",
+      "dek": "根據日本Weathernews十月五日報導，第28號颱風諾盧與第29號颱風小熊預期先並列向西移動，稍後轉向北，路徑類似彩雲，預料將維持在日本本土以東海域。",
+      "url": "https://weathernews.jp/news/202610/050231/"
+    },
+    {
+      "rank": 9,
+      "title": "諺羅可望轉化為溫帶氣旋，小熊增強但預料偏向小笠原",
+      "dek": "根據日本Weathernews十月九日報導，諺羅已接近小笠原海域，預估十月十一日前轉化為溫帶低氣壓，直接影響日本本土的機率低；小熊則預期持續增強，可能於連假期間影響小笠原群島，惟路徑仍存在較大不確定性。",
+      "url": "https://weathernews.jp/news/202610/090071/"
+    },
+    {
       "rank": 10,
-      "title": "菲律賓PAGASA：ITCZ將為多地帶來降雨",
-      "dek": "根據菲律賓《Philstar》報導，菲律賓大氣地理天文服務署預測間熱帶輻合區將為南呂宋、維薩亞斯及民答那峨帶來局部雷雨，強調此為季候現象而非個別熱帶氣旋所致。",
-      "url": "https://philstar.com/headlines/weather/2026/10/11/2562459/itcz-bring-rains-southern-luzon-visayas-mindanao-pagasa"
+      "title": "二〇二六年大西洋季遲遲未見颶風，逾百年罕見",
+      "dek": "根據CBS12十月上旬（伊莎伊斯形成前）報導，受中度至強勢厄爾尼諾現象壓抑，二〇二六年大西洋季直到傳統颶風季巔峰過後仍未出現颶風，創下一九〇七至一九一四年以來最晚紀錄。",
+      "url": "https://cbs12.com/news/local/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
     }
   ]
 }
