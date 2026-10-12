@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T13:11:00+08:00",
+  "generated_at": "2026-10-12T14:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣本島未受直接影響，但大西洋與西太平洋的熱帶氣旋動態依然牽動全球天氣版圖。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣本島僅受東北季風影響；西太平洋上同時有三個颱風活躍，大西洋颶風伊莎伊斯則已登陸美國灣岸。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無任何颱風系統對台灣或台中造成風雨影響，地方政府亦未發布停班停課相關公告；目前牽動台灣天氣的主要是一般季節性天候，與大西洋及西太平洋上的熱帶氣旋系統無關。"
+    "text": "目前無直接影響。無任何颱風系統對台灣或台中造成風雨影響，地方政府亦未發布停班停課相關公告；台中當前天氣僅受東北季風影響，與西太平洋及大西洋上的熱帶氣旋系統無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風季暫歇、台灣無警戒 全球焦點轉向美國灣岸強颶風與跨越換日線的罕見風暴",
-    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣本島未受直接影響，但大西洋與西太平洋的熱帶氣旋動態依然牽動全球天氣版圖。",
-    "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
+    "title": "西太平洋三颱罕見同列 台灣目前無颱風警戒",
+    "dek": "日本氣象協會指出，三個颱風同時在西太平洋活躍是五年來首見，但中央氣象署資料顯示，台灣目前未發布任何海上或陸上颱風警報，僅受東北季風影響。",
+    "url": "https://weathernews.jp/news/202610/090071/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "伊薛亞斯增強為三級颶風，直撲美國灣岸",
-      "dek": "這場颶風以近每小時120英里的風力逼近阿拉巴馬與佛羅里達交界，預報機構警告暴潮、洪水與龍捲風風險。",
-      "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
+      "title": "颱風29號科古馬增強 本州連假後留意高浪",
+      "dek": "根據日本Weathernews報導，颱風29號(科古馬)已增強至「強」等級並持續向西北前進，即使不直接登陸本州，連假結束後日本本島沿岸仍需留意長浪與海象轉差。",
+      "url": "https://weathernews.jp/news/202610/090071/"
     },
     {
       "rank": 2,
-      "title": "颶風伊薛亞斯增強至三級，預計在佛州與阿拉巴馬州交界登陸",
-      "dek": "佛羅里達地方電視台詳述伊薛亞斯逼近時的暴潮與降雨預測，中部灣岸地區雨量上看8英吋以上。",
-      "url": "https://www.mysuncoast.com/2026/10/09/11-am-isaias-update/"
+      "title": "日本氣象協會：三颱共存五年來首見",
+      "dek": "根據《日本時報》報導，颱風小哇、諺羅與科古馬同時活躍於西太平洋，日本氣象協會表示這是五年來首次出現三颱並存的情況，且小哇預期不會侵襲日本本土。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 3,
-      "title": "伊薛亞斯預計增強為主要颶風，逼近美國灣岸",
-      "dek": "佛羅里達與阿拉巴馬州分別宣布緊急狀態並對沿海郡下令強制撤離，以應對登陸前的風暴威脅。",
-      "url": "https://www.news4jax.com/news/national/2026/10/09/isaias-is-expected-to-strengthen-into-a-major-hurricane-as-it-nears-the-us-gulf-coast/"
+      "title": "颱風29號科古馬生成 三連休將逼近日本近海",
+      "dek": "根據Weathernews報導，馬紹爾群島附近熱帶低氣壓增強為當月第三個颱風「科古馬」，預測將持續向西北增強，三連休期間可能逼近日本近海。",
+      "url": "https://weathernews.jp/news/202610/050101/"
     },
     {
       "rank": 4,
-      "title": "伊薛亞斯以危險的三級颶風強度逼近美國灣岸",
-      "dek": "美聯社報導指出，伊薛亞斯路徑指向阿拉巴馬莫比爾灣與佛羅里達德斯坡之間，沿岸城市已實施宵禁。",
-      "url": "https://cdapress.com/news/2026/oct/09/isaias-closes-in-on-the-us-gulf-coast-as-a-dangerous-category-3-hurricane/"
+      "title": "諺羅、科古馬周末轉北 小笠原需留意",
+      "dek": "根據Weathernews報導，颱風諺羅與科古馬預期自週末起同步轉向北行，其中科古馬可能對小笠原諸島帶來風浪方面的影響。",
+      "url": "https://weathernews.jp/news/202610/080021/"
     },
     {
       "rank": 5,
-      "title": "伊薛亞斯升格為颶風，朝灣岸推進：你需要知道的事",
-      "dek": "密西西比媒體整理伊薛亞斯由熱帶風暴轉為颶風的過程，以及密西西比、阿拉巴馬、佛羅里達沿岸的關注重點。",
-      "url": "https://www.wlox.com/2026/10/08/isaias-is-now-hurricane-it-surges-toward-gulf-coast-what-know/"
+      "title": "美國NHC宣布伊莎伊斯升級為颶風",
+      "dek": "根據路透社報導，美國國家颶風中心宣布伊莎伊斯已增強為大西洋今年首個颶風，風速約每小時75英里，幾乎追平121年來大西洋首颶風最晚生成的紀錄。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/08/us-nhc-says-isaias-has-become-a-hurricane"
     },
     {
       "rank": 6,
-      "title": "颶風伊薛亞斯已達三級強度，預計當晚登陸",
-      "dek": "佛州彭薩科拉當地媒體報導，登陸前已有數千戶停電，暴潮已開始衝擊海岸線。",
-      "url": "https://weartv.com/news/local/hurricane-isaias-forecast-to-reach-category-3-over-the-gulf-this-afternoon"
+      "title": "熱帶風暴伊莎伊斯在墨西哥灣生成",
+      "dek": "根據WSB-TV報導，熱帶風暴伊莎伊斯於墨西哥灣西南部生成，為本季大西洋第九個被命名的風暴，預測路徑朝美國灣岸北部移動。",
+      "url": "https://www.wsbtv.com/news/trending/tropical-storm-isaias-forms-gulf-could-become-seasons-first-hurricane/RYAXQRUNWBBXRKSWNL4P6EH6TY/"
     },
     {
       "rank": 7,
-      "title": "墨西哥灣熱帶活動可能於下週末出現",
-      "dek": "本篇十月初報導指出，2026年大西洋颶風季因乾燥氣流而異常平靜，並點名坎佩切灣可能孕育後來的伊薛亞斯。",
-      "url": "https://www.wlox.com/2026/10/02/gulf-tropical-activity-possible-late-next-week/"
-    },
-    {
-      "rank": 8,
-      "title": "長途跋涉的颶風「諾洛」跨越太平洋，化身颱風28號",
-      "dek": "一個源自墨西哥外海的熱帶系統橫越太平洋並跨越國際換日線，更名為颱風諾洛後預計減弱並轉化為溫帶氣旋，不會威脅任何陸地。",
+      "title": "颶風諺羅跨換日線 轉變為颱風28號",
+      "dek": "根據Weathernews旗下wxtech報導，原中太平洋颶風諺羅跨越國際換日線後再度增強為颱風28號，日本氣象廳曾將其定位於威克島附近，預測後續將減弱並轉為溫帶氣旋。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
+      "rank": 8,
+      "title": "颶風諺羅跨換日線變身颱風 罕見一例",
+      "dek": "根據美聯社報導，颶風諺羅在夏威夷附近接近巔峰強度後跨越國際換日線，被重新命名為颱風諺羅(28號)，屬氣象史上少見的跨換日線風暴案例。",
+      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
+    },
+    {
       "rank": 9,
-      "title": "太平洋颶風跨越國際換日線後，改名為颱風諾洛",
-      "dek": "英國ITV新聞報導這場氣象奇觀，並引述美聯社指出諾洛當時並未對任何陸地構成威脅。",
-      "url": "https://www.itv.com/news/2026-10-04/typhoon-nolo-changes-names-after-crossing-international-dateline-in-pacific"
+      "title": "颱風小哇接近小笠原 另兩颱同步生成",
+      "dek": "根據《星報》(馬來西亞)引述亞洲新聞網報導，颱風小哇(27號)接近巔峰強度並逼近小笠原諸島之際，颱風諺羅與科古馬也相繼生成發展，形成三颱並存局面。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 10,
-      "title": "2026年風季已完結？",
-      "dek": "香港天文台部落格分析指出，截至10月6日西北太平洋與南海今年已生成34個熱帶氣旋，8月生成數創紀錄，但9月生成位置偏東使南海無風暴進入。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "菲律賓PAGASA：ITCZ將為多地帶來降雨",
+      "dek": "根據菲律賓《Philstar》報導，菲律賓大氣地理天文服務署預測間熱帶輻合區將為南呂宋、維薩亞斯及民答那峨帶來局部雷雨，強調此為季候現象而非個別熱帶氣旋所致。",
+      "url": "https://philstar.com/headlines/weather/2026/10/11/2562459/itcz-bring-rains-southern-luzon-visayas-mindanao-pagasa"
     }
   ]
 }
