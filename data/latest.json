@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T10:16:00+08:00",
+  "generated_at": "2026-10-13T06:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據台灣國家災害防救科技中心（NCDR）彙整中央氣象署CAP示警檔案，最近一次颱風警報於8月27日針對薩德爾颱風發布，此後未再出現新的海上或陸上颱風警報紀錄，顯示中央氣象署目前應未發布任何颱風警報。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，西太平洋多個系統均未直接威脅台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。彩雲颱風正逼近關島與北馬里亞納群島一帶後轉向日本外海，路徑未接近台灣，台中與全台各地目前均未傳出因風雨而停班停課的消息。"
+    "text": "台中目前未受任何颱風系統直接影響，亦無停班停課公告；氣象單位將持續觀察週末可能形成的下一個熱帶系統「薔琵」是否進一步牽動台灣天氣。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風彩雲逼近關島 台灣暫處風平浪靜",
-    "dek": "彩雲颱風為今年西北太平洋第27個命名風暴，正逼近馬里亞納群島並轉向日本外海，而台灣中央氣象署的警報紀錄顯示，全台已逾一個月未發布颱風警報。",
-    "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+    "title": "西太平洋罕見三颱同時盤旋 小熊增強為強颱後轉向遠離台灣",
+    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但氣象人員正密切觀察本週末可能生成的下一個熱帶系統「薔琵」，北部與東北部降雨機率已同步上升。",
+    "url": "https://www.nownews.com/news/6882365"
   },
   "items": [
     {
       "rank": 1,
-      "title": "彩雲颱風增強逼近馬里亞納 轉向日本外海",
-      "dek": "根據Weathernews報導，彩雲為今年西北太平洋第27個命名風暴，10月初在馬里亞納群島北側增強為颱風，預計轉向東北並於10月8日左右轉化為溫帶氣旋，對台灣與菲律賓均無直接威脅。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "小熊颱風增強為強颱 氣象署：路徑大幅轉向，台灣週三迎另一波天氣變化",
+      "dek": "中央氣象署指出小熊颱風路徑明顯偏離台灣，轉向日本東方海域，但另一波天氣系統將在週三為台灣帶來變化多的天氣。",
+      "url": "https://www.nownews.com/news/6882365"
     },
     {
       "rank": 2,
-      "title": "關島美氣象局對北馬里亞納發布颱風洪水警報",
-      "dek": "根據關島提亞灣美國國家氣象局公告，塞班、天寧等北馬里亞納島嶼在彩雲颱風逼近期間接獲熱帶風暴與颱風警報，當局並對全區發布洪水守視。",
-      "url": "https://defconlevel.com/alert/2026-10-02-nws-noaa-weather-tropical-storm-warning-issued-october-3-at-8-26am-chst-by-nws-tiyan-gu"
+      "title": "西太平洋罕見出現三颱共存",
+      "dek": "根據日本氣象協會，彩雲、諾魯與小熊三個熱帶系統在十月初同時於西太平洋活動，為五年來首見的十月三颱同時現象，並在日本太平洋岸掀起高浪。",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons/"
     },
     {
       "rank": 3,
-      "title": "即時路徑追蹤：彩雲（26W）轉向日本外海不登陸",
-      "dek": "根據Zoom Earth即時追蹤資料，熱帶氣旋26W（彩雲）正遠離菲律賓與台灣，朝日本太平洋沿岸外海移動，預期在接觸較冷海域後減弱，不會在日本登陸。",
-      "url": "https://zoom.earth/storms/26w-2026/"
+      "title": "今年第27號熱帶風暴「彩雲」在馬里亞納群島以北生成，預測增強為颱風並朝小笠原方向移動",
+      "dek": "Weathernews報導，彩雲在馬里亞納群島以北形成後持續增強，一度達到超強颱風等級，其後逐漸減弱。",
+      "url": "https://sea.weathernews.com/resources/202610/260"
     },
     {
       "rank": 4,
-      "title": "大西洋颶風季創下衛星時代最晚起步紀錄",
-      "dek": "根據美國休士頓福斯電視台報導，截至10月2日大西洋已有8個命名風暴但無一達颶風強度，專家將此歸因於聖嬰現象引發的風切變，抑制風暴增強。",
-      "url": "https://www.fox26houston.com/weather/tropical-storm-cristobal-2026"
+      "title": "颱風小熊減弱為強颱級，逐漸轉向東北方向",
+      "dek": "中國天氣網報導，小熊已從超強颱風減弱為強颱風等級，並持續朝日本東方海域的東北方向偏轉，預料受海溫下降與風切影響持續減弱。",
+      "url": "https://news.weather.com.cn/2026/10/4812595.shtml"
     },
     {
       "rank": 5,
-      "title": "西北太平洋颱風季活躍度較常年高出約四成",
-      "dek": "根據Weathernews今年6月季節展望，聖嬰現象推升西北太平洋颱風季活躍度，較1991至2020年均值高出約四成，目前已生成25個以上命名風暴，包括彩雲颱風。",
-      "url": "https://sea.weathernews.com/resources/202606/113"
+      "title": "颱風彩雲靠近日本東南部海域，強度持續減弱",
+      "dek": "中國天氣網指出，彩雲已自強颱風減弱為颱風級，逼近日本東南部海域，預計將轉化為溫帶氣旋，不致登陸日本或影響中國大陸近海。",
+      "url": "http://news.weather.com.cn/2026/10/4811722.shtml"
     },
     {
       "rank": 6,
-      "title": "北印度洋海域今年仍未現首個命名氣旋",
-      "dek": "根據維基百科彙整印度氣象局資料，北印度洋海域今年截至10月1日僅形成六個低氣壓與三個深低氣壓，尚無氣旋風暴生成，季節前景平靜。",
-      "url": "https://en.wikipedia.org/wiki/2026_North_Indian_Ocean_cyclone_season"
+      "title": "下一個颱風「薔琵」最快週三生成？預測路徑曝光",
+      "dek": "中時新聞網報導，小熊減弱後南側的低壓系統有機會在10月14、15日左右發展為今年下一個颱風（暫稱「薔琵」），路徑初步指向琉球、沖繩一帶，是否北轉及是否影響台灣仍有不確定性。",
+      "url": "https://www.chinatimes.com/realtimenews/20261012000810-260405"
     },
     {
       "rank": 7,
-      "title": "菲律賓大氣局：責任區內目前無活躍熱帶氣旋",
-      "dek": "根據菲律賓大氣地理天文服務管理局季節展望，預期10月僅一兩個熱帶氣旋形成或進入其責任區，目前尚未偵測到活躍系統，當地已轉入東北季風期。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "「薔琵」颱風生成時間延至週末，北部東北部降雨機率增加",
+      "dek": "ETtoday報導，氣象單位將下一個熱帶系統的生成時間預估延至本週末，未來幾天台灣北部與東北部降雨機率提高，但生成時間與路徑仍存在不確定性。",
+      "url": "https://ettoday.net/news/20261012/3253045.htm"
     },
     {
       "rank": 8,
-      "title": "回顧多芬颱風：台灣上次直接受襲 北部6人受傷",
-      "dek": "根據《半島電視台》卡達分部報導，8月上旬多芬颱風重創沖繩與奄美群島後掠過台灣北部，造成6人受傷、數萬戶停電，是台灣迄今最近一次遭颱風直接影響的紀錄。",
-      "url": "https://www.thepeninsulaqatar.com/article/10/08/2026/typhoon-dolphin-hits-northern-taiwan-injures-6"
+      "title": "颶風伊賽亞斯登陸美國佛羅里達州狹長地帶",
+      "dek": "NPR報導，伊賽亞斯以二級颶風強度、時速105英里的風力在佛州德斯坦（Destin）附近登陸，是今年異常平靜的大西洋颶風季首個颶風，也打破了該季首個颶風形成時間最晚的紀錄。",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates"
     },
     {
       "rank": 9,
-      "title": "中央社：台灣入秋持續晴朗少雨 無颱風威脅",
-      "dek": "根據《中央社》9月25日報導，中央氣象署預測台灣10月5日至7日將維持晴朗炎熱、降雨稀少的天氣，與目前無風暴逼近的情勢相符。",
-      "url": "https://focustaiwan.tw/society/202609250004"
+      "title": "伊賽亞斯減弱為後熱帶氣旋，美國東南部至少4死，洪患威脅未解除",
+      "dek": "FOX Weather報導，伊賽亞斯減弱後仍在美國東南部造成至少四人死亡，佛州沃爾頓堡灘與德斯坦發布洪水緊急狀態，巴拿馬市海灘出現5.4英尺暴潮，全國約87.2萬戶一度停電。",
+      "url": "https://www.foxweather.com/weather-news/hurricane-isaias-landfall-destructive-winds-life-threatening-flooding"
     },
     {
       "rank": 10,
-      "title": "氣象署示警紀錄：上次颱風警報停留在薩德爾",
-      "dek": "根據台灣國家災害防救科技中心彙整中央氣象署CAP示警檔案，最近一次颱風警報是8月27日上午針對薩德爾颱風發布，此後未見新的海上或陸上颱風警報紀錄。",
-      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
+      "title": "颶風瑞秋本週逼近美國加州",
+      "dek": "The Inertia報導，一級颶風瑞秋位於下加利福尼亞半島以西約840英里處，美國國家颶風中心預測其將加速朝下加利福尼亞北部與南加州方向移動，週末過後減弱並於下週初消散。",
+      "url": "https://www.theinertia.com/surf/tropical-storm-take-aim-california-this-week/"
     }
   ]
 }
