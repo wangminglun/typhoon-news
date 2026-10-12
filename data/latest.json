@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T15:12:00+08:00",
+  "generated_at": "2026-10-12T16:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；全球截至10月12日亦無經確認仍活躍威脅陸地的颱風或颶風系統，上週橫跨大西洋與西太平洋的風暴均已登陸減弱或正轉化為溫帶氣旋。",
+  "alert_desc": "綜合現有公開資訊，中央氣象署目前並未發布任何海上或陸上颱風警報；西太平洋上的彩雲、諾羅、科古瑪三颱路徑均偏向日本外海，沒有系統朝台灣或巴士海峽方向移動。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無任何颱風系統對台灣或台中造成風雨影響，地方政府亦未發布停班停課相關公告；台中當前天氣與大西洋、西太平洋上已減弱或轉向的熱帶氣旋系統無關。"
+    "text": "目前無直接影響。彩雲、諾羅、科古瑪三颱路徑皆偏向日本小笠原群島、南鳥島及本州外海，沒有任何資料顯示系統朝台灣方向移動，台中地區目前未傳出因風雨而停班停課的消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風季罕見平靜：伊莎伊斯登陸減弱，西太平洋三颱無一逼近台灣",
-    "dek": "大西洋今年遲至十月才形成的首個颶風伊莎伊斯登陸美國灣岸後迅速減弱，西太平洋「彩雲」「諾盧」與「小熊」三颱則陸續轉向遠離日本本土，截至十月十二日全球並無活躍颱風直接威脅陸地，中央氣象署也未對台灣發布任何海上或陸上颱風警報。",
-    "url": "https://www.bostonglobe.com/2026/10/09/nation/isaias-strengthens-category-3-hurricane/"
+    "title": "西太平洋罕見三颱共舞直逼日本外海 台灣中央氣象署尚未發布警報",
+    "dek": "科古瑪、諾羅與彩雲三個颱風十月初罕見同時活躍於西太平洋，氣象機構示警日本太平洋沿岸將有長浪，但目前無一系統朝台灣或巴士海峽移動，中央氣象署亦未發布海上或陸上颱風警報。",
+    "url": "https://weathernews.jp/news/202610/050101/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "伊莎伊斯增強為三級颶風，逼近美國灣岸",
-      "dek": "根據美聯社報導（《波士頓環球報》刊出），伊莎伊斯十月九日迅速增強為三級颶風，成為二〇二六年大西洋季首個颶風，預估朝阿拉巴馬至佛州潘漢多海岸登陸，國家颶風中心警告風暴潮可達六至九英尺，並預期登陸後迅速減弱。",
-      "url": "https://www.bostonglobe.com/2026/10/09/nation/isaias-strengthens-category-3-hurricane/"
+      "title": "第29號颱風「科古瑪」生成 西北前進中持續增強 三連假期間逼近日本近海",
+      "dek": "根據《Weathernews》報導，科古瑪在馬紹爾群島附近生成後一路向西北移動並持續發展，預報人員警告其可能於三天連假期間（10月10日至12日）逼近日本周邊海域。",
+      "url": "https://weathernews.jp/news/202610/050101/"
     },
     {
       "rank": 2,
-      "title": "灣岸地區下令撤離，防範風暴潮與龍捲風",
-      "dek": "根據WECT／Gray Media引述美聯社電訊報導，阿拉巴馬州州長艾薇下令灣岸群島非居民撤離，氣象單位警告伊莎伊斯可能帶來致命風暴潮、內陸洪水與龍捲風威脅。",
-      "url": "https://www.wect.com/2026/10/09/isaias-could-unleash-dangerous-mix-life-threatening-storm-surge-flooding-tornadoes-it-strengthens/"
+      "title": "第28號颱風「諾羅」與第29號颱風「科古瑪」南北並列向西前進",
+      "dek": "《Weathernews》報導指出，諾羅與科古瑪兩個颱風呈南北並列態勢橫越太平洋向西移動，日本氣象機構正密切觀察兩者是否會對日本造成影響。",
+      "url": "https://weathernews.jp/news/202610/050231/"
     },
     {
       "rank": 3,
-      "title": "伊莎伊斯成為二〇二六年大西洋季首個「主要颶風」",
-      "dek": "根據KBTX報導，伊莎伊斯十月九日確認達到三級強度，終結了二〇二六年大西洋季異常漫長的無颶風紀錄。",
-      "url": "https://www.kbtx.com/2026/10/09/isaias-becomes-first-major-hurricane-2026-season/"
+      "title": "兩颱風最新路徑預報：週末起同步轉向北行 小笠原群島須留意科古瑪動向",
+      "dek": "根據《Weathernews》10月8日最新路徑預報，諾羅與科古瑪預計自週末起轉向北行，小笠原群島需特別注意科古瑪可能帶來的影響。",
+      "url": "https://weathernews.jp/news/202610/080021/"
     },
     {
       "rank": 4,
-      "title": "熱帶風暴伊莎伊斯醞釀增強，可望成為該季首個颶風",
-      "dek": "根據WBTV十月七日報導，伊莎伊斯當時在墨西哥灣持續組織增強，若升級為颶風幾乎追平一九〇五年史上最晚首颶的紀錄。",
-      "url": "https://www.wbtv.com/2026/10/07/tropical-storm-isaias-become-first-hurricane-atlantic-season/"
+      "title": "第28、29號颱風即使不靠近本州 日本太平洋沿岸仍須防範高浪",
+      "dek": "《Weathernews》報導指出，儘管兩個颱風預報均不會直接接近日本本州，但其外圍環流預計仍將為太平洋沿岸帶來顯著高浪與湧浪。",
+      "url": "https://weathernews.jp/news/202610/080191/"
     },
     {
       "rank": 5,
-      "title": "NPR：伊莎伊斯增強為大西洋季首個颶風",
-      "dek": "根據NPR／KUOW十月七日報導，伊莎伊斯正式升級為颶風，凸顯二〇二六年大西洋季因強厄爾尼諾現象受壓抑、生成異常延遲的背景。",
-      "url": "https://www.kuow.org/npr-news/2026-10-07/isaias-strengthens-into-the-first-hurricane-of-the-atlantic-season"
+      "title": "科古瑪增強為強颱 連假過後本州沿岸亦須提防高浪",
+      "dek": "根據《Weathernews》10月9日報導，科古瑪在南鳥島附近增強為「強颱」，預報將進一步增強至「非常強」等級，連假結束後本州沿岸亦需留意隨之而來的高浪。",
+      "url": "https://weathernews.jp/news/202610/090071/"
     },
     {
       "rank": 6,
-      "title": "三颱並存逼近日本小笠原，為五年來首見",
-      "dek": "根據《星報》引述法新社與路透社報導，颱風彩雲接近小笠原群島同時增強為「非常強」等級，另兩個颱風諾盧與小熊相繼形成，造成日本連假前後罕見的三颱並存局面。",
+      "title": "颱風「彩雲」逼近小笠原群島之際 西太平洋再生兩個新颱風",
+      "dek": "馬來西亞《星報》（AseanPlus）報導，彩雲以接近95節的巔峰風速逼近東京小笠原群島後預報轉向外海，同時兩個新颱風諾羅與科古瑪也在中途島與馬紹爾群島附近相繼成形。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 7,
-      "title": "彩雲遠離本土東進，關東東北沿岸發長浪警戒",
-      "dek": "根據日本Weathernews十月七日報導，彩雲持續遠離日本本土向東北移動，僅對關東、東北太平洋沿岸發出長浪警戒，諾盧與小熊則仍在本土以南海域向西北移動。",
-      "url": "https://weathernews.jp/news/202610/070131/"
+      "title": "太平洋颶風跨越國際換日線 更名為颱風「諾羅」",
+      "dek": "根據美聯社電訊（News4Jax轉載），一個長時間徘徊太平洋的颶風於10月4日重新增強並跨越國際換日線，依規定更名歸類為颱風「諾羅」（第28號），屬相對罕見的跨洋盆現象。",
+      "url": "https://www.news4jax.com/news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline/"
     },
     {
       "rank": 8,
-      "title": "諺羅、小熊並列向西移動，均未直撲日本本土",
-      "dek": "根據日本Weathernews十月五日報導，第28號颱風諾盧與第29號颱風小熊預期先並列向西移動，稍後轉向北，路徑類似彩雲，預料將維持在日本本土以東海域。",
-      "url": "https://weathernews.jp/news/202610/050231/"
+      "title": "長程颶風「諾羅」跨越太平洋 蛻變為第28號颱風",
+      "dek": "《Weathernews》英文版wxtech報導，諾羅原本在夏威夷以西停滯後於10月2日再增強、10月4日跨越換日線，截至10月7日已逼近威克島，預報約於10月10日轉向東行並轉化為溫帶氣旋。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 9,
-      "title": "諺羅可望轉化為溫帶氣旋，小熊增強但預料偏向小笠原",
-      "dek": "根據日本Weathernews十月九日報導，諺羅已接近小笠原海域，預估十月十一日前轉化為溫帶低氣壓，直接影響日本本土的機率低；小熊則預期持續增強，可能於連假期間影響小笠原群島，惟路徑仍存在較大不確定性。",
-      "url": "https://weathernews.jp/news/202610/090071/"
+      "title": "西太平洋「颱風高速公路」車流量大增",
+      "dek": "《Stars and Stripes》報導，彩雲、諾羅、科古瑪三個颱風同時活躍，呈現2026年10月初西太平洋異常繁忙的颱風季景象。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
     },
     {
       "rank": 10,
-      "title": "二〇二六年大西洋季遲遲未見颶風，逾百年罕見",
-      "dek": "根據CBS12十月上旬（伊莎伊斯形成前）報導，受中度至強勢厄爾尼諾現象壓抑，二〇二六年大西洋季直到傳統颶風季巔峰過後仍未出現颶風，創下一九〇七至一九一四年以來最晚紀錄。",
-      "url": "https://cbs12.com/news/local/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
+      "title": "印度洋風季正式展開 未來兩週預報無熱帶氣旋生成",
+      "dek": "印度《Skymet Weather》報導，印度氣象局評估孟加拉灣與阿拉伯海目前均無熱帶擾動，預計至10月23日左右前都不會有氣旋系統生成。",
+      "url": "https://skymetweather.com/content/climate-change/stormy-season-officially-begins-for-indian-seas-no-cyclone-likely-next-two-weeks"
     }
   ]
 }
