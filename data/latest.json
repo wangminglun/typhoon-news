@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T07:14:00+08:00",
+  "generated_at": "2026-10-13T08:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至目前未對台灣發布海上或陸上颱風警報，太平洋兩側多個系統均未直接威脅台灣本島。",
+  "alert_desc": "根據多方台灣媒體近日報導所未提及任何警報發布情況研判，中央氣象署目前並未對台灣本島發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受任何颱風系統直接影響，天氣以多雲到晴為主，僅山區午後可能出現局部短暫雨，氣象單位目前無停班停課公告。"
+    "text": "台中地區目前無直接影響，截至10月12日至13日並無颱風、強降雨特報或停班停課公告；10月14日起增強的東北季風主要影響北部與東部沿岸，台中大致維持多雲到晴的天氣型態。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "太平洋颱風接力逼近小笠原群島 中央氣象署：台灣海陸颱風警報均未發布",
-    "dek": "颱風「小熊」預計今日通過日本小笠原群島海域，是西北太平洋罕見三颱共存現象中最新發展，中央氣象署重申台灣目前未發布任何海上或陸上颱風警報。",
-    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
+    "title": "颱風空窗期：小熊遠離無威脅台灣，全球焦點轉向墨西哥強颶風西門與關島海域擾動",
+    "dek": "中央氣象署目前未對台灣發布任何颱風警報，近期在西北太平洋興風作浪的「三颱共舞」已陸續出海消散，下一波觀察重點落在尚未成形、可能於本週後段在關島東南方發展的熱帶擾動。",
+    "url": "https://news.yahoo.co.jp/articles/2f9b5d4cf6a69c5de68c68b39b4b274946b67dcd"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颱風彩雲逼近小笠原群島，西太平洋同時生成兩個新颱風",
-      "dek": "超強颱風彩雲向北朝日本小笠原群島移動之際，「諾羅」與「小熊」接連成形，西北太平洋出現罕見三颱並存局面。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
+      "title": "強颱29號「小熊」持續北上 預估15日轉為溫帶低氣壓",
+      "dek": "根據日本Yahoo新聞（TBC東北放送）報導，小熊於13日凌晨3時位於日本東方海域，以每小時30公里速度向北北東移動，中心氣壓970百帕，預估15日轉為溫帶低氣壓，但關東、靜岡沿岸仍須留意強風與高浪。",
+      "url": "https://news.yahoo.co.jp/articles/2f9b5d4cf6a69c5de68c68b39b4b274946b67dcd"
     },
     {
       "rank": 2,
-      "title": "罕見「三颱共舞」席捲日本體育之日連假",
-      "dek": "日本電視台報導，西北太平洋五年來首度在十月同時出現三個颱風，三者預料都將在十月十日至十二日連假期間影響日本天氣。",
-      "url": "https://www.wikitree.co.kr/articles/1164105"
+      "title": "台風29號（2026年）最新位置與路徑預測",
+      "dek": "日本氣象網站tenki.jp即時路徑圖顯示，小熊持續遠離日本本土，預測路徑將進一步轉向東北方外海，陸地僅發布沿岸波浪警示。",
+      "url": "https://tenki.jp/bousai/typhoon/2629/"
     },
     {
       "rank": 3,
-      "title": "西太平洋「颱風高速公路」車流量漸增",
-      "dek": "美軍聯合颱風警報中心觀測顯示，彩雲持續在成田以東開闊海域北移、對陸地威脅有限，諾羅轉向朝日本東北方向移動，小熊的路徑則仍存在轉向日本或遠離陸地兩種可能。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "10月恐再生颱風？熱帶擾動「這天」可能成形 最新預測圖曝光",
+      "dek": "TVBS報導，氣象專家留意關島東南方一熱帶擾動，模式預測可能於10月15日後發展為颱風，但路徑分歧度高，是否影響台灣仍待觀察。",
+      "url": "https://news.tvbs.com.tw/life/2650422"
     },
     {
       "rank": 4,
-      "title": "長途跋涉的颶風諾羅跨越太平洋，蛻變為二十八號颱風",
-      "dek": "原於九月在墨西哥外海生成的颶風諾羅，十月四日跨越國際換日線後轉化為西太平洋二十八號颱風，預測將逐漸減弱並於十日前後轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "小熊剛遠離 「新熱帶擾動」醞釀中 專家曝路徑關鍵在兩項指標",
+      "dek": "民視新聞網報導，原先的颱風小熊已遠離台灣且未造成影響，專家指出關島東方新生的熱帶擾動未來是否北轉或持續朝台灣、菲律賓方向移動，將取決於兩項關鍵指標。",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026A12W0248"
     },
     {
       "rank": 5,
-      "title": "跨洋不衰：諾羅颱風進入西北太平洋後持續增強",
-      "dek": "原在東太平洋生成的颶風諾羅，跨海進入日本氣象廳警戒範圍後仍維持強度，凸顯今年太平洋兩岸熱帶氣旋跨海域移動的罕見現象。",
-      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
+      "title": "又有颱風醞釀？專家示警「關島附近快有擾動」最新路徑曝光",
+      "dek": "中時新聞網報導，專家指出關島附近將很快出現新的熱帶擾動，預估在10月12日至18日這週後段發展為熱帶風暴甚至颱風，是否威脅台灣仍待觀察。",
+      "url": "https://chinatimes.com/realtimenews/20261010002145-260405"
     },
     {
       "rank": 6,
-      "title": "香港天文台：二零二六年颱風季是否已經結束？",
-      "dek": "天文台指出，截至十月六日，西北太平洋與南海今年已生成三十四個熱帶氣旋、遠高於歷史平均，但南海至菲律賓周邊的反常高壓系統預料將抑制新氣旋生成至十月下旬，台灣與華南直接遭颱風侵襲的風險因而相對降低。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "香港天文台評估10月風暴來襲機率 西北太平洋風暴活動頻繁 籲外遊市民留意",
+      "dek": "星島日報（美國版）報導，香港天文台表示10月稍後直接影響香港的機率偏低，但西北太平洋整體風暴活動仍然活躍，可能波及日本等其他地區，建議外遊市民保持警覺。",
+      "url": "https://www.singtaousa.com/2026/10/07/news/china/tropical-cyclone-outlook-october-hong-kong/"
     },
     {
       "rank": 7,
-      "title": "颱風海豚掠過台灣北部海域，造成六人受傷",
-      "dek": "八月初颱風海豚自台灣北部海域通過，全台共傳出六百三十二件風力相關災情、六人受傷，是今年迄今對台灣本島造成最明顯影響的颱風系統。",
-      "url": "https://www.thepeninsulaqatar.com/article/10/08/2026/typhoon-dolphin-hits-northern-taiwan-injures-6"
+      "title": "10月西北太平洋再現「三颱共舞」 天氣格局背景解析",
+      "dek": "Bastille Post報導回顧10月6日至10日間「三颱共舞」（燦樹、第二颱與小熊）的形成背景，三者目前已陸續轉為溫帶低氣壓或遠離陸地出海，未對台灣造成影響。",
+      "url": "https://www.bastillepost.com/hongkong/article/16916262-%E5%A4%A9%E6%B0%A3%EF%BD%9C10%E6%9C%88%E5%8F%88%E6%89%93%E9%A2%A8%EF%BC%9F%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%86%8D%E7%8F%BE%E3%80%8C%E4%B8%89%E9%A2%B1%E5%85%B1%E8%88%9E%E3%80%8D"
     },
     {
       "rank": 8,
-      "title": "颶風伊薩亞斯成為大西洋今年首個颶風，打破逾百年紀錄",
-      "dek": "伊薩亞斯在墨西哥灣迅速增強為三級強烈颶風，成為二零二六年大西洋颶風季首個颶風，創下自一九零五年以來該季節首個颶風生成最晚的紀錄。",
-      "url": "https://www.wbtv.com/2026/10/09/isaias-first-hurricane-atlantic-season-now-major-category-3/"
+      "title": "強颱27號「燦樹」掠過本州東方海域 雖未登陸仍須慎防高浪",
+      "dek": "日本Weathernews報導，燦樹（27號颱風）從本州東南方海域通過，未直接登陸但引發高浪，預估約10月8日轉為溫帶低氣壓。",
+      "url": "https://weathernews.jp/news/202610/060071/"
     },
     {
       "rank": 9,
-      "title": "大西洋首颶伊薩亞斯週五夜間登陸美國海灣沿岸中段",
-      "dek": "預報人員原預測伊薩亞斯將於十月九日至十日夜間在阿拉巴馬州與佛羅里達州交界的莫比爾與潘薩科拉一帶登陸，佛羅里達州與阿拉巴馬州已分別為數十個郡宣布緊急狀態。",
-      "url": "https://www.click2houston.com/weather/2026/10/08/atlantic-seasons-first-hurricane-isaias-set-to-slam-into-central-gulf-coast-friday-night/"
+      "title": "颶風伊薇莎登陸佛州肆虐 造成人員死亡與大規模停電 現已減弱為殘餘低壓",
+      "dek": "美國Action News Jax報導，颶風伊薇莎於10月9日晚間以二級颶風強度在佛羅里達州德斯廷附近登陸，風速達每小時105英里，造成佛州與阿拉巴馬州至少2至4人死亡，三州約43萬至90萬戶停電，目前已減弱為溫帶殘餘低壓繼續北移。",
+      "url": "https://www.actionnewsjax.com/news/florida/photos-hurricane/7FXNA6VJCRHVLHXQFAUWEIPTIY/"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴伊薩亞斯形成，預測將增強為颶風襲擊美國海灣沿岸",
-      "dek": "伊薩亞斯在墨西哥灣西南部生成，為二零二六年大西洋颶風季第九個命名風暴，分析人士指出今年風季異常平靜部分與厄爾尼諾現象抑制風暴生成有關。",
-      "url": "https://ny1.com/nyc/all-boroughs/ap-online/2026/10/07/tropical-storm-isaias-forms-forecast-to-become-a-hurricane-and-hit-the-us-gulf-coast-this-week"
+      "title": "颶風「西門」增強至四級 逼近墨西哥太平洋岸",
+      "dek": "馬來西亞《星報》引述路透社報導，颶風西門10日在墨西哥太平洋岸外海迅速增強至四級，最大風速每小時150英里，哈利斯科州沿海市鎮已停課並展開疏散，美國國家颶風中心預估格雷羅、米卻肯、科利馬與哈利斯科州將出現10至20英吋降雨。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/11/hurricane-simon-strengthens-to-category-4-off-mexico-coast"
     }
   ]
 }
