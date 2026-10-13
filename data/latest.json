@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T14:12:00+08:00",
+  "generated_at": "2026-10-13T15:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。第29號颱風「小熊」雖已增強為強烈颱風，但氣象署明確表示該系統對台灣沒有影響，請以氣象署警報現況頁面的即時資訊為準。",
+  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。西太平洋現有系統（小熊颱風等）均預測北彎遠離台灣，對台灣沒有直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署資料顯示，目前無任何颱風警報涵蓋台灣本島，台中地區未受風雨侵襲，亦無停班停課情況；關島東側熱帶擾動「96W」仍在觀察階段，對台中無直接影響。"
+    "text": "目前無直接影響。中央氣象署並未對台灣本島發布任何颱風警報，台中地區未受風雨侵襲，亦無停班停課情況；西太平洋現有系統均朝北太平洋外海移動，對台中無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "小熊颱風增強北彎遠離　台灣暫無警報",
-    "dek": "氣象署稱小熊對台無影響，關島東側新擾動仍待觀察",
-    "url": "https://news.tvbs.com.tw/life/4034470"
+    "title": "颶風「賽門」逼近墨西哥太平洋岸　西太平洋三颱共舞均未威脅台灣",
+    "dek": "中央氣象署未發布任何颱風警報，台中目前無直接影響；小熊颱風持續北彎遠離陸地",
+    "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
   },
   "items": [
     {
       "rank": 1,
-      "title": "西太平洋罕見「三颱共舞」　五年來首見10月同框",
-      "dek": "《日本時報》報導，彩雲、諾魯與小熊三個風暴系統同時活躍西太平洋，但皆預測轉向東北、不致登陸日本。",
-      "url": "https://japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons"
-    },
-    {
-      "rank": 2,
-      "title": "小熊颱風暴風圈擴大　日本東側海域風力持續增強",
-      "dek": "Weathernews報導，小熊已增強為猛烈颱風，聯合颱風警報中心估計其陣風可達每小時232公里，但路徑朝北太平洋外海遠離陸地。",
-      "url": "https://sea.weathernews.com/resources/202610/269"
-    },
-    {
-      "rank": 3,
-      "title": "AccuWeather追蹤：小熊躋身本季最強颱風之列",
-      "dek": "美國氣象機構AccuWeather將小熊列為「猛烈颱風」等級，指其位置遠在日本本州外海，持續彎離主要陸地。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/koguma-2026"
-    },
-    {
-      "rank": 4,
-      "title": "小熊增強為颱風　關島與北馬里亞納群島研判無直接威脅",
-      "dek": "當地氣象單位向《Marianas Variety》表示，小熊雖已增強，但預計持續行經外海，不致直接衝擊馬里亞納群島。",
-      "url": "https://www.mvariety.com/news/local/koguma-strengthens-into-typhoon-but-marianas-face-no-direct-threat/article_babe148e-decb-4b72-8ab1-9359e59208f1.html"
-    },
-    {
-      "rank": 5,
-      "title": "關島東側新擾動受監測　未來或發展為熱帶風暴或颱風",
-      "dek": "《Isla Public》報導，關島國家氣象局密切觀測代號「96W」的熱帶擾動，發展機率中等偏高但路徑仍高度不確定。",
-      "url": "https://islapublic.org/news/2026-10-12/disturbance-heading-toward-marianas-could-develop-into-a-tropical-storm-or-typhoon"
-    },
-    {
-      "rank": 6,
-      "title": "小熊升級強烈颱風　氣象署：對台無直接影響",
-      "dek": "TVBS報導，中央氣象署證實小熊近中心風速飆升至每秒51公尺，但強調該系統距台遙遠，預料96小時內轉為溫帶氣旋。",
-      "url": "https://news.tvbs.com.tw/life/4034470"
-    },
-    {
-      "rank": 7,
       "title": "颶風賽門增強至四級　墨西哥太平洋岸發布警戒",
-      "dek": "《半島電視台》報導，賽門風速一度達每小時241公里，當局對波多瓦雅達以南沿岸、包括曼薩尼約發布颶風警報。",
+      "dek": "《半島電視台》報導，美國國家颶風中心證實賽門風速達每小時225公里，哈利斯科、科利馬與納亞里特沿岸面臨風暴潮與土石流威脅。",
       "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
     },
     {
+      "rank": 2,
+      "title": "賽門風眼緊貼曼薩尼約外海　墨西哥總統籲沿岸就地避難",
+      "dek": "美聯社報導，賽門以每小時僅11公里的速度緩慢北移，預料為沿岸帶來最高30英吋驚人雨量。",
+      "url": "https://www.azfamily.com/2026/10/11/ferocious-hurricane-simon-nears-mexico-with-155-mph-winds-flooding-fears/"
+    },
+    {
+      "rank": 3,
+      "title": "璞奇瓦塔關閉海灘、22市鎮停課　賽門重創墨西哥沿岸度假區",
+      "dek": "《ABC30》引述美聯社報導，哈利斯科州開設16處收容所並展開撤離，以應對仍維持四級強度的賽門。",
+      "url": "https://abc30.com/post/category-4-hurricane-simon-pounds-resorts-vulnerable-towns-mexicos-pacific-coast/19929585/"
+    },
+    {
+      "rank": 4,
+      "title": "墨西哥氣象局預測：賽門將減弱為熱帶風暴　週三中午登陸馬薩特蘭外海",
+      "dek": "《N+》報導，Conagua預測賽門強度將逐步遞減，惟登陸時間與地點目前仍屬預測，尚待證實。",
+      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/a-que-hora-y-donde-va-a-tocar-tierra-hoy-11-de-octubre-2026-el-huracan-simon-categoria-4/"
+    },
+    {
+      "rank": 5,
+      "title": "彩雲逼近小笠原群島　西太平洋同時增生兩颱　五年來首見",
+      "dek": "《馬來西亞星報》報導，彩雲、諾魯與小熊三颱同框西太平洋，日本氣象機構稱本土不致被直接衝擊。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
+    },
+    {
+      "rank": 6,
+      "title": "小熊成為本季第29號颱風　與彩雲、諾魯同時並存",
+      "dek": "《韓國先驅報》報導，小熊形成於關島東方約2560公里處，三颱同時活躍為五年來10月首見。",
+      "url": "https://mbiz.heraldcorp.com/article/10894596"
+    },
+    {
+      "rank": 7,
+      "title": "Weathernews最新預報：小熊增強為猛烈颱風　路徑北彎遠離台日",
+      "dek": "日本氣象機構預測小熊將掠過小笠原群島東側後北彎，約10月14日減弱為強烈熱帶風暴。",
+      "url": "https://sea.weathernews.com/resources/202610/269"
+    },
+    {
       "rank": 8,
-      "title": "賽門減弱為二級颶風　仍為墨西哥西岸帶來破紀錄雨量",
-      "dek": "CNN報導，賽門風眼緊貼岸外持續肆虐，美國國家颶風中心警告部分地區雨量恐達30英吋，恐釀洪患與土石流。",
-      "url": "https://www.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam"
+      "title": "西太平洋颱風接連生成　三系統均未直接威脅陸地",
+      "dek": "《星條旗報》報導，10月初西太平洋同時有三個活躍系統，但當時均未對日本或其他陸地構成立即威脅。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
     },
     {
       "rank": 9,
-      "title": "太平洋颶風季以賽門收尾　累積氣旋能量創歷史新高",
-      "dek": "《華盛頓郵報》分析，2026年東、中太平洋颶風季活動量創下紀錄，與異常平靜的大西洋形成強烈對比。",
-      "url": "https://www.washingtonpost.com/weather/2026/10/12/this-hurricane-season-pacific-just-set-record-activity/"
+      "title": "熱帶風暴瑞秋轉向加州外海　美國國家颶風中心發布觀察",
+      "dek": "《Scripps News》報導，瑞秋一度增強至颶風強度後轉向，南加州與下加利福尼亞半島沿岸面臨瞬間洪水與瘋狗浪風險。",
+      "url": "https://www.scrippsnews.com/weather/california-faces-rare-tropical-storm-threat-as-rachel-approaches"
     },
     {
       "rank": 10,
-      "title": "伊薜雅斯重創後持續復電　佛州與阿拉巴馬州數千戶仍斷電",
-      "dek": "CBS News報導，大西洋史上最晚形成的颶風伊薜雅斯登陸佛州造成至少四人死亡，目前已減弱消散，復電工程仍在進行。",
-      "url": "https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/"
+      "title": "香港天文台：今年風季已生成34個熱帶氣旋　創六十餘年同期新高",
+      "dek": "天文台部落格指出，8月單月生成12個颱風為1961年以來同期最多，南海本身因異常高壓脊維持相對平靜。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     }
   ]
 }
