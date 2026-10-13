@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T19:16:00+08:00",
+  "generated_at": "2026-10-13T20:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。台灣12日、13日天氣以多雲到晴為主，僅有一股偏弱的東北季風將於14日至15日報到並逐漸減弱，顯示台灣目前完全未受任何颱風系統直接威脅。",
+  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報，最近一次警報（颱風沙德爾）已於8月28日解除。關島東南方熱帶擾動96W有機會於本週發展為第29號颱風「薔琵」，但多數預測路徑北轉遠離台灣，目前台灣本島天氣晴到多雲，未受任何颱風系統直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。未發現任何因現有熱帶系統對台中造成風雨或停班停課的報告，今日台中天氣以多雲到晴為主，並無颱風相關影響。"
+    "text": "目前無直接影響。台灣本島未受任何颱風系統直接威脅，無風雨警戒或停班停課報告，本週天氣以晴到多雲、夜間轉涼為主；關島東南方熱帶擾動96W及颱風古咕瑪殘餘環流暫未對台中造成影響，但後續發展仍值得留意。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "全球最強風暴「西蒙」重創墨西哥西岸 台灣目前無颱風警報 關島外海熱帶擾動仍待觀察",
-    "dek": "中央氣象署表示台灣本周未受任何颱風或熱帶風暴威脅，但大西洋/太平洋另一端的四級颶風「西蒙」已重創墨西哥太平洋沿岸，西太平洋三颱齊發的罕見局面已大致落幕，氣象界正密切觀察關島東南方一股尚未成形的熱帶擾動。",
-    "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
+    "title": "台灣暫無颱風威脅，但關島東南方熱帶擾動96W牽動本週西北太平洋動向",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，然而關島外海的熱帶擾動96W可能於周末增強為今年第29號颱風「薔琵」，氣象專家持續監測其是否波及台灣周邊海域。",
+    "url": "https://www.islapublic.org/news/2026-10-13/guam-cnmi-residents-advised-to-get-ready-for-possible-rough-weather-this-weekend"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風西蒙增強為四級風暴 逼近墨西哥太平洋沿岸",
-      "dek": "半島電視台報導，颶風西蒙10日迅速增強為四級颶風，風速接近每小時150英里，當局已對波多華雅塔以南至曼薩尼約一帶發布颶風警報，警告恐有災難性強風與風暴潮。",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
+      "title": "關島與北馬里亞納群島籲居民提早防範本週末可能的惡劣天氣",
+      "dek": "熱帶擾動96W逼近，美國國家氣象局關島辦公室表示路徑與強度仍難確定，但緊急應變人員已呼籲提前準備。",
+      "url": "https://www.islapublic.org/news/2026-10-13/guam-cnmi-residents-advised-to-get-ready-for-possible-rough-weather-this-weekend"
     },
     {
       "rank": 2,
-      "title": "颶風西蒙風速達155英里逼近墨西哥 恐引發嚴重洪患",
-      "dek": "美聯社透過《安克拉治每日新聞》報導，西蒙一度逼近五級颶風強度，美國國家颶風中心對確切登陸點仍不確定，預估哈利斯科、科利馬、米卻肯三州將出現10至20英寸驚人雨量，哈利斯科州已有22個市鎮停課。",
-      "url": "https://www.adn.com/nation-world/2026/10/11/hurricane-simon-nears-mexico-with-155-mph-winds-and-flooding-fears/"
+      "title": "北馬里亞納群島政府呼籲羅塔、天寧、塞班與北方島嶼居民即刻展開防颱準備",
+      "dek": "當局強調熱帶擾動96W強度與路徑仍不明朗，呼應關島方面的同步示警。",
+      "url": "https://kanditnews.com/cnmi-officials-encouraging-preparations-now-for-rota-tinian-saipan-and-the-northern-islands"
     },
     {
       "rank": 3,
-      "title": "四級颶風西蒙重擊墨西哥度假勝地與沿海脆弱城鎮",
-      "dek": "美聯社透過ABC30報導，西蒙風眼始終停留在近海，但許多墨西哥民眾居住於內陸或山坡地帶，暴雨引發的洪水與土石流風險仍相當高。",
-      "url": "https://abc30.com/post/category-4-hurricane-simon-pounds-resorts-vulnerable-towns-mexicos-pacific-coast/19929585/"
+      "title": "颱風「薔琵」最快周三生成，部分預測路徑可能向台灣靠近",
+      "dek": "關島東南方熱帶擾動96W可能發展為今年第29號颱風，多數模式預料北轉遠離台灣，但仍有少數情境值得留意。",
+      "url": "https://www.chinatimes.com/realtimenews/20261012000810-260405"
     },
     {
       "rank": 4,
-      "title": "颶風西蒙：哈利斯科與科利馬28市鎮進入最高警戒 避難所已開放",
-      "dek": "墨西哥《Expansión Política》報導，兩州共28個市鎮因颶風西蒙進入最高警戒並開放避難所，哈利斯科沿海估計降雨150至250毫米，科利馬州更可能超過250毫米。",
-      "url": "https://politica.expansion.mx/mexico/2026/10/11/huracan-simon-municipios-alerta-maxima-y-refugios"
+      "title": "颱風古咕瑪於日本以東海域持續減弱，預計兩天內轉為溫帶氣旋",
+      "dek": "中央氣象署指出古咕瑪已遠離台灣周邊，本週台灣本島天氣以晴到多雲、夜間轉涼為主。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865896"
     },
     {
       "rank": 5,
-      "title": "颱風彩雲逼近小笠原群島 西太平洋兩颱同步生成",
-      "dek": "馬來西亞《星報》報導，彩雲在日本小笠原群島東側達到巔峰強度，風速每小時185公里，預計轉北並於10月8日前轉化為溫帶氣旋，同時紐羅與天兔也在附近發展，形成日本周邊罕見的三颱並立局面。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
+      "title": "馬里亞納群島附近生成熱帶性低氣壓28W，預料減弱消散，對菲律賓、台灣均無威脅",
+      "dek": "美國聯合颱風警報中心預測28W將西北行經阿格里漢島附近後因風切減弱消散。",
+      "url": "https://mvariety.com/news/local/28w-forms-east-of-marianas-96w-likely-to-pass-through-or-near-islands-this-weekend/article_b2cf3e36-2972-4f84-a612-60a736db38a9.html"
     },
     {
       "rank": 6,
-      "title": "長途跋涉的颶風紐羅跨越太平洋成為今年第28號颱風",
-      "dek": "《Weathernews》報導，原為颶風的紐羅跨越國際換日線後升格為西太平洋今年第28號颱風，美軍聯合颱風警報中心路徑顯示其接近日本，但多數模式預期其會在登陸前轉向東北並轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "颶風西蒙持續侵襲墨西哥西岸，近期熱帶系統合計已釀五死",
+      "dek": "西蒙已從巔峰強度減弱，但據最新一期預報仍維持較強等級，墨西哥沿岸持續面臨強降雨與交通中斷。",
+      "url": "https://www.cbsnews.com/news/hurricane-simon-still-hitting-western-mexico-after-tropical-systems-kill-5/"
     },
     {
       "rank": 7,
-      "title": "西太平洋「颱風高速公路」車流壅塞 三颱同時現蹤罕見",
-      "dek": "《星條旗報》報導，彩雲、天兔（當時仍為熱帶低氣壓，位於瓜加林環礁北方約130英里）與紐羅同時盤據西太平洋，日本媒體指出10月同時出現三颱的景象已有約五年未見。",
-      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
+      "title": "颶風西蒙殘餘水氣可能為美國大平原帶來連日洪患風險",
+      "dek": "美國國家颶風中心預測西蒙將持續減弱並轉向，其水氣向北輸送恐加劇美國中部降雨與淹水威脅。",
+      "url": "https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴瑞秋殘餘水氣重創南加州 引發瞬時洪水與海堤毀損",
-      "dek": "NBC洛杉磯報導，瑞秋殘餘水氣在10月9日至11日間於聖地牙哥、河濱及帝國郡引發瞬時洪水警報，長灘一處海堤遭海浪沖毀，造成至少一戶民宅嚴重受損。",
-      "url": "https://www.nbclosangeles.com/news/local/timeline-socal-rain-weather/3954178/?amp=1"
+      "title": "熱帶風暴瑞秋降級，強風強雨轉向內陸，美國西南部淹水風險未解",
+      "dek": "美國國家氣象局已將瑞秋降級為後熱帶氣旋，但其殘餘環流持續對西南沙漠地區構成威脅。",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward"
     },
     {
       "rank": 9,
-      "title": "今年颱風數已達28個 較氣候平均偏多3至4個",
-      "dek": "《自由時報》報導，截至10月8日，西北太平洋及南海今年已生成28個颱風，較氣候平均值多出3至4個，其中6個達強颱等級，並示警菲律賓以東海域10月18日前後可能有新熱帶擾動形成，但不確定性仍高。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
+      "title": "台灣中央氣象署:目前無任何生效中颱風警報，上一次警報(颱風沙德爾)已於8月下旬解除",
+      "dek": "氣象署官方颱風警報資訊顯示，自沙德爾警報解除以來，近兩個月未再發布新警報。",
+      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
     },
     {
       "rank": 10,
-      "title": "2026年風季已完結？",
-      "dek": "香港天文台部落格指出，截至10月6日全年已有34個熱帶氣旋影響西北太平洋與南海，遠高於長期平均，但南海與菲律賓上空出現的異常反氣旋環流，預料將壓抑南海颱風生成直至10月下旬，即便西太平洋其他海域仍然活躍。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "大西洋海域平靜，美國國家颶風中心僅關注維德角外海一處邊緣性擾動",
+      "dek": "該低壓帶發展條件有限，預料週二前難以成形，預報員主要關注焦點仍在東太平洋西蒙與西太平洋96W等系統。",
+      "url": "https://www.nhc.noaa.gov/gtwo.php"
     }
   ]
 }
