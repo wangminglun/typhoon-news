@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T10:12:00+08:00",
+  "generated_at": "2026-10-13T11:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；中央社、TVBS、中國時報等多家媒體查證均顯示近期無新警報紀錄，上一次發布警報的颱風「巴威」已是今年7月的事。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；台灣本季較近一次確認的警報事件為7月的颱風「巴威」，該警報已於隔週解除，近期並無新警報紀錄。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。沒有任何颱風系統對台中造成風雨衝擊，也未有因風雨引發的停班停課訊息；近期天氣變化主要來自東北季風增強，影響集中於北部與東北部，而非台中。"
+    "text": "目前無直接影響。沒有任何颱風系統對台中造成風雨衝擊，也未有因風雨引發的停班停課訊息；目前西太平洋活躍的三個熱帶系統均在遠洋海域活動，對台中無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "台灣颱風警戒暫解除 西太平洋「薔琵」醞釀成形 墨西哥風災未歇",
-    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但氣象專家已鎖定關島東南方一個可能於本週三、四增強為今年第29號颱風「薔琵」的熱帶系統，同時墨西哥太平洋沿岸仍因颶風「西蒙」持續遭受豪雨侵襲。",
-    "url": "https://news.tvbs.com.tw/life/4034888"
+    "title": "西北太平洋罕見「三颱共舞」　中央氣象署：台灣目前無颱風警戒",
+    "dek": "颱風小熊在太平洋公海持續增強北上，日本外海一度出現三個熱帶系統同時活躍的局面，但截至10月13日，台灣未發布任何海上或陸上颱風警報，台中亦無風雨影響。",
+    "url": "https://biz.heraldcorp.com/article/10894596"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風西蒙減弱至二至三級 仍持續為墨西哥太平洋沿岸帶來洪災",
-      "dek": "根據CBS新聞報導，颶風西蒙已於週一減弱為二級（部分媒體仍列為三級），其風眼滯留在墨西哥中西部沿岸外海，美國國家颶風中心預估米卻肯州、科利馬州與哈利斯科州降雨量最高可達760毫米，洪水而非強風成為當地主要威脅。",
-      "url": "https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-coast/"
+      "title": "AccuWeather追蹤：「狂颱」小熊風速達每小時120英里，在太平洋公海持續北上",
+      "dek": "AccuWeather即時路徑圖顯示，颱風小熊（本季第29號命名風暴）仍以強烈強度在開闊洋面向北移動，暫未接近任何陸地。",
+      "url": "https://www.accuweather.com/en/hurricane/west-pacific/koguma-2026"
     },
     {
       "rank": 2,
-      "title": "三級颶風西蒙滯留墨西哥西部外海 豪雨已致曼薩尼約淹水",
-      "dek": "氣象觀測網站The Watchers報導，西蒙在10月12日當地時間凌晨3時仍維持三級強度、風速每小時185公里，滯留外海前已使度假城鎮曼薩尼約發生積水，預料本週中將移入墨西哥中西部內陸。",
-      "url": "https://watchers.news/2026/10/12/category-3-hurricane-simon-remains-off-western-mexico-after-heavy-rain-floods-manzanillo/"
+      "title": "三颱齊發：彩雲、第28號風暴與小熊於日本連假期間同時活躍",
+      "dek": "南韓《韓國日報》報導，三個熱帶氣旋在日本「體育之日」連假前後同時活躍，但預測均未直接登陸日本本島。",
+      "url": "https://biz.heraldcorp.com/article/10894596"
     },
     {
       "rank": 3,
-      "title": "國際媒體證實：颶風西蒙減弱為三級 豪雨持續侵襲墨西哥太平洋沿岸",
-      "dek": "中國環球電視網（CGTN）的報導與美國媒體說法一致，確認西蒙呈現減弱趨勢，但持續對墨西哥太平洋沿岸造成洪災影響。",
-      "url": "https://news.cgtn.com/news/2026-10-12/Hurricane-Simon-weakens-as-rains-flood-Mexico-s-Pacific-coast-1Rb1O0kRw3K/share_amp.html"
+      "title": "日本氣象新聞：三颱路徑最新動向，27號颱風彩雲引發關東沿岸高浪",
+      "dek": "日本Weathernews報導，彩雲颱風雖未直接登陸且將轉化為溫帶氣旋，仍在關東、東北沿岸掀起大浪，相關海浪警報已於10月7、8日降級。",
+      "url": "https://weathernews.jp/news/202610/070031/"
     },
     {
       "rank": 4,
-      "title": "第29號颱風「小熊」在日本以東海域擴大風場 進行溫帶轉性",
-      "dek": "根據日本氣象機構Weathernews報導，颱風小熊在日本小笠原群島以東的開闊海域持續擴大暴風圈，預計約60小時內完成溫帶轉性，對陸地不構成直接威脅。",
-      "url": "https://sea.weathernews.com/resources/202610/269"
+      "title": "跨太平洋長程風暴升格為第28號颱風",
+      "dek": "Weathernews英文版報導，一個橫越太平洋的長距離系統在威克島附近被升格為第28號颱風，預測將逐漸減弱並轉向東行、完成溫帶變性。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 5,
-      "title": "颱風小熊即時追蹤：位於父島東北方約911公里 加速北移並進行轉性",
-      "dek": "即時追蹤平台Zoom Earth顯示，截至10月12日21時（世界協調時），小熊以每小時22公里速度朝東北方向移動，預計36小時內展開溫帶轉性，沒有陸地受到威脅。",
-      "url": "https://zoom.earth/storms/koguma-2026/"
+      "title": "颱風彩雲北北東移經馬里亞納群島，10月4日中午前逼近日本小笠原群島海域",
+      "dek": "馬來西亞《星報》報導，強大的彩雲颱風北北東移動，預計於10月4日正午前抵達小笠原群島附近海域，隨後轉向遠離日本本土。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
     },
     {
       "rank": 6,
-      "title": "小熊增強為颱風 但馬里亞納群島未受直接威脅",
-      "dek": "關島與馬里亞納群島地方媒體《Marianas Variety》報導，小熊已增強為颱風強度，但當地氣象部門證實其路徑偏向北方及東北方，馬里亞納群島本身未面臨直接威脅。",
-      "url": "https://www.mvariety.com/news/local/koguma-strengthens-into-typhoon-but-marianas-face-no-direct-threat/article_babe148e-decb-4b72-8ab1-9359e59208f1.html"
+      "title": "颱風蘇德爾重創中國沿海，暴雨成災",
+      "dek": "《星報》引述路透社／法新社報導，蘇德爾颱風在南海二次增強後第三度登陸福建，在閩粵兩省引發致命洪災，逾8.3萬人疏散，中國氣象局稱今年已是第七個登陸中國的颱風。",
+      "url": "https://www.thestar.com.my/aseanplus/2026/09/04/typhoon-saudel-brings-torrential-rain-flooding-to-china039s-coastal-areas"
     },
     {
       "rank": 7,
-      "title": "西太平洋罕見出現三颱並存 日本氣象協會稱近五年來首見",
-      "dek": "《日本時報》報導，颱風彩雲、颱風Nolo與熱帶風暴小熊一度同時存在於西太平洋上，日本氣象協會指出這是近五年來首次在10月出現類似情況，當時均未被預測會直接威脅主要陸地。",
-      "url": "https://japantimes.co.jp/news/2026/10/06/japan/western-pacific-typhoons"
+      "title": "回顧：颱風巴威曾致中央氣象署於7月發布海上颱風警報",
+      "dek": "中央社報導，巴威颱風於7月9日促使中央氣象署發布海上颱風警報，為台灣今年較近一次確認的颱風警戒事件，警報已於隔週週日上午解除。",
+      "url": "https://www.cna.com.tw/news/ahel/202607090052.aspx"
     },
     {
       "rank": 8,
-      "title": "關島東南方熱帶系統可能本週三、四成颱「薔琵」 路徑朝沖繩方向移動",
-      "dek": "根據TVBS新聞報導，氣象專家賈新興預測，一個熱帶擾動可能在本週三、四（10月14日至15日）增強為今年第29號颱風「薔琵」，不排除達強烈颱風等級，路徑將朝琉球、沖繩方向移動後大幅轉向北方，對台灣的影響目前評估較小，但仍有不確定性。",
-      "url": "https://news.tvbs.com.tw/life/4034888"
+      "title": "大西洋今年至今零颶風，創逾百年來最晚紀錄",
+      "dek": "美國佛州媒體CBS12報導，截至10月2日，大西洋海域已有8個命名風暴形成，卻無一增強為颶風，為現代衛星觀測時代以來最晚出現颶風的一年，與反常的厄爾尼諾現象有關。",
+      "url": "https://cbs12.com/news/local/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
     },
     {
       "rank": 9,
-      "title": "「薔琵」颱風週三前後可能成形 路徑仍偏北 東北季風將先報到降溫",
-      "dek": "中國時報報導證實同一熱帶系統的發展，並指出在颱風可能成形之前，增強中的東北季風將先為台灣帶來降溫，該系統目前離台灣仍遠，路徑預測仍取決於各家模式的模擬結果。",
-      "url": "https://chinatimes.com/realtimenews/20261012003856-260405"
+      "title": "印度洋風暴季正式展開，氣象機構預測未來兩週無氣旋威脅",
+      "dek": "印度Skymet Weather報導，孟加拉灣與阿拉伯海截至10月初仍無氣旋生成，依其10月9日最新展望，預計未來約兩週內都不會出現顯著擾動。",
+      "url": "https://skymetweather.com/content/climate-change/stormy-season-officially-begins-for-indian-seas-no-cyclone-likely-next-two-weeks"
     },
     {
       "rank": 10,
-      "title": "孟加拉灣系統預料登陸時仍為深層低壓 未達氣旋「阿納布」強度",
-      "dek": "印度環境新聞網站《Down To Earth》報導，印度氣象局追蹤孟加拉灣西北部一個低壓系統，預計將在維沙卡帕特南與戈普爾之間的卡林加帕特南附近登陸，屆時仍僅為深層低壓，若進一步增強才會被命名為氣旋「阿納布」。",
-      "url": "https://www.downtoearth.org.in/natural-disasters/possible-cyclone-in-bay-of-bengal-next-week"
+      "title": "2026年太平洋颱風季概況：活躍度較氣候平均值高出約四成",
+      "dek": "維基百科綜合資料顯示，仍在進行中的2026年太平洋颱風季依「熱帶風暴風險」機構估算，活躍度較1991至2020年氣候平均值高出約40%，迄今已有約26個命名風暴、9個颱風與4個非官方超級颱風，其中以颱風辛樂克十分鐘平均風速每小時215公里為最強。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
