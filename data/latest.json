@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T20:15:00+08:00",
+  "generated_at": "2026-10-13T21:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報，最近一次警報（颱風沙德爾）已於8月28日解除。關島東南方熱帶擾動96W有機會於本週發展為第29號颱風「薔琵」，但多數預測路徑北轉遠離台灣，目前台灣本島天氣晴到多雲，未受任何颱風系統直接威脅。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報。關島東南方熱帶擾動96W最快10月14日至15日可能增強為颱風「薔琵」，但各預報模式路徑分歧，是否影響台灣仍待觀察；原颱風小熊已在日本以東持續減弱，對台灣無威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台灣本島未受任何颱風系統直接威脅，無風雨警戒或停班停課報告，本週天氣以晴到多雲、夜間轉涼為主；關島東南方熱帶擾動96W及颱風古咕瑪殘餘環流暫未對台中造成影響，但後續發展仍值得留意。"
+    "text": "目前無直接影響。台灣本島未受任何颱風系統直接威脅，無風雨警戒或停班停課報告；本週起增強的東北季風將為北部、東北部帶來降雨及攝氏16度左右低溫，關島東南方熱帶擾動96W（可能生成颱風「薔琵」）尚未對台中構成影響，後續動向仍待觀察。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "台灣暫無颱風威脅，但關島東南方熱帶擾動96W牽動本週西北太平洋動向",
-    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，然而關島外海的熱帶擾動96W可能於周末增強為今年第29號颱風「薔琵」，氣象專家持續監測其是否波及台灣周邊海域。",
-    "url": "https://www.islapublic.org/news/2026-10-13/guam-cnmi-residents-advised-to-get-ready-for-possible-rough-weather-this-weekend"
+    "title": "台灣暫無颱風威脅 關島東南方新熱帶擾動恐生成「薔琵」 路徑未明",
+    "dek": "中央氣象署目前未對台灣發布任何颱風警報，但關島東南方一股熱帶擾動最快本週四增強為今年第幾號颱風，後續是否轉向逼近台灣仍待觀察。",
+    "url": "https://capeweather.com/hurricane-simon-public-advisory-number-24a"
   },
   "items": [
     {
       "rank": 1,
-      "title": "關島與北馬里亞納群島籲居民提早防範本週末可能的惡劣天氣",
-      "dek": "熱帶擾動96W逼近，美國國家氣象局關島辦公室表示路徑與強度仍難確定，但緊急應變人員已呼籲提前準備。",
-      "url": "https://www.islapublic.org/news/2026-10-13/guam-cnmi-residents-advised-to-get-ready-for-possible-rough-weather-this-weekend"
+      "title": "颶風「賽門」滯留墨西哥太平洋岸外 多項警報範圍擴大",
+      "dek": "小型颶風賽門移動緩慢，墨西哥瑪麗亞群島發布颶風警報，鄰近海岸地區則處於颶風或熱帶風暴監視狀態。",
+      "url": "https://capeweather.com/hurricane-simon-public-advisory-number-24a"
     },
     {
       "rank": 2,
-      "title": "北馬里亞納群島政府呼籲羅塔、天寧、塞班與北方島嶼居民即刻展開防颱準備",
-      "dek": "當局強調熱帶擾動96W強度與路徑仍不明朗，呼應關島方面的同步示警。",
-      "url": "https://kanditnews.com/cnmi-officials-encouraging-preparations-now-for-rota-tinian-saipan-and-the-northern-islands"
+      "title": "颶風「賽門」重創墨西哥太平洋岸 度假勝地與脆弱城鎮首當其衝",
+      "dek": "賽門一度逼近四級颶風強度，雖未直接登陸，但為米卻肯、科利馬及哈利斯科等州帶來恐達30吋的驚人雨量。",
+      "url": "https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-coast/"
     },
     {
       "rank": 3,
-      "title": "颱風「薔琵」最快周三生成，部分預測路徑可能向台灣靠近",
-      "dek": "關島東南方熱帶擾動96W可能發展為今年第29號颱風，多數模式預料北轉遠離台灣，但仍有少數情境值得留意。",
-      "url": "https://www.chinatimes.com/realtimenews/20261012000810-260405"
+      "title": "颶風賽門、風暴瑞秋夾擊墨西哥沿岸 至少5死數人失蹤",
+      "dek": "墨西哥總統辛鮑姆呼籲哈利斯科、科利馬、納亞里特及米卻肯沿海居民儘速撤離，當局持續搜尋失蹤人員。",
+      "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast"
     },
     {
       "rank": 4,
-      "title": "颱風古咕瑪於日本以東海域持續減弱，預計兩天內轉為溫帶氣旋",
-      "dek": "中央氣象署指出古咕瑪已遠離台灣周邊，本週台灣本島天氣以晴到多雲、夜間轉涼為主。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865896"
+      "title": "熱帶風暴瑞秋登陸下加利福尼亞州 暴洪警戒延燒美國西南部",
+      "dek": "瑞秋轉為溫帶系統後仍引發提華納與長堤撤離行動，南加州發布自2023年以來首次熱帶風暴監視。",
+      "url": "https://abcnews.com/US/tropical-storm-rachel-fuel-dangerous-flash-flood-threat/story?id=137158727"
     },
     {
       "rank": 5,
-      "title": "馬里亞納群島附近生成熱帶性低氣壓28W，預料減弱消散，對菲律賓、台灣均無威脅",
-      "dek": "美國聯合颱風警報中心預測28W將西北行經阿格里漢島附近後因風切減弱消散。",
-      "url": "https://mvariety.com/news/local/28w-forms-east-of-marianas-96w-likely-to-pass-through-or-near-islands-this-weekend/article_b2cf3e36-2972-4f84-a612-60a736db38a9.html"
+      "title": "颱風小熊日本以東減弱 兩日內恐轉為溫帶氣旋 對台無影響",
+      "dek": "中央氣象署與日本氣象廳均預期小熊將持續北移加速並減弱，不會對台灣或馬里亞納群島構成威脅。",
+      "url": "https://udn.com/news/story/7266/9769411"
     },
     {
       "rank": 6,
-      "title": "颶風西蒙持續侵襲墨西哥西岸，近期熱帶系統合計已釀五死",
-      "dek": "西蒙已從巔峰強度減弱，但據最新一期預報仍維持較強等級，墨西哥沿岸持續面臨強降雨與交通中斷。",
-      "url": "https://www.cbsnews.com/news/hurricane-simon-still-hitting-western-mexico-after-tropical-systems-kill-5/"
+      "title": "關島東南熱帶擾動96W恐週四成颱 暫命名「薔琵」 路徑仍不明朗",
+      "dek": "台灣氣象專家評估96W最快10月14、15日增強為輕度颱風，但各預報模式對其路徑與強度分歧明顯，是否影響台灣尚待觀察。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5604260"
     },
     {
       "rank": 7,
-      "title": "颶風西蒙殘餘水氣可能為美國大平原帶來連日洪患風險",
-      "dek": "美國國家颶風中心預測西蒙將持續減弱並轉向，其水氣向北輸送恐加劇美國中部降雨與淹水威脅。",
-      "url": "https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains"
+      "title": "東北季風週三報到 北台灣轉涼有雨 低溫下探16度",
+      "dek": "在新一波熱帶系統發展未明之際，台灣本島近期主要天氣變化將來自增強的東北季風，而非颱風系統。",
+      "url": "https://upmedia.mg/tw/focus/comprehensive/271223"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴瑞秋降級，強風強雨轉向內陸，美國西南部淹水風險未解",
-      "dek": "美國國家氣象局已將瑞秋降級為後熱帶氣旋，但其殘餘環流持續對西南沙漠地區構成威脅。",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward"
+      "title": "菲律賓大氣署:呂宋島以東熱帶低壓仍在責任區外",
+      "dek": "PAGASA預估在反聖嬰現象增強影響下，年底前菲律賓責任區每月僅生成1至2個熱帶氣旋。",
+      "url": "https://www.pagasa.dost.gov.ph/weather"
     },
     {
       "rank": 9,
-      "title": "台灣中央氣象署:目前無任何生效中颱風警報，上一次警報(颱風沙德爾)已於8月下旬解除",
-      "dek": "氣象署官方颱風警報資訊顯示，自沙德爾警報解除以來，近兩個月未再發布新警報。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+      "title": "反聖嬰增強抑制生成數量 2026年太平洋颱風季步調低於往年",
+      "dek": "氣象專家指出，今年颱風季生成數量偏少，但仍可能出現如小熊般的強烈個案。",
+      "url": "https://www.pna.gov.ph/articles/1284604"
     },
     {
       "rank": 10,
-      "title": "大西洋海域平靜，美國國家颶風中心僅關注維德角外海一處邊緣性擾動",
-      "dek": "該低壓帶發展條件有限，預料週二前難以成形，預報員主要關注焦點仍在東太平洋西蒙與西太平洋96W等系統。",
-      "url": "https://www.nhc.noaa.gov/gtwo.php"
+      "title": "南半球目前無活躍熱帶氣旋 2026-27年澳洲季尚未開跑",
+      "dek": "追蹤系統顯示澳洲地區、南太平洋及印度洋目前均無生成中的熱帶氣旋。",
+      "url": "https://www.rainviewer.com/storm-tracker/cyclones/"
     }
   ]
 }
