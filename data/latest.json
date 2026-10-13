@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T16:13:00+08:00",
+  "generated_at": "2026-10-13T17:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。西太平洋現有「三颱共舞」系統（彩雲、NOLO、圓規）均預測北彎遠離台灣，對台灣沒有直接威脅。",
+  "alert_desc": "中央氣象署目前並未對台灣本島發布任何海上或陸上颱風警報。西太平洋三颱（蔡文、諾羅、小熊）均已轉向遠離台灣，對台灣沒有直接威脅；全球唯一引發高度關注的系統為墨西哥外海的四級颶風西蒙，其路徑未波及台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署並未對台灣本島發布任何颱風警報，台中地區未受風雨侵襲，亦無停班停課情況；西太平洋現有「三颱共舞」系統均朝北太平洋公海方向移動，對台中無直接影響。"
+    "text": "目前無直接影響。中央氣象署並未對台灣本島發布任何颱風警報，台中地區未受風雨侵襲，亦無停班停課情況；西太平洋三颱（蔡文、諾羅、小熊）均已轉向遠離台灣，對台中無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颶風「西蒙」重創墨西哥太平洋岸，台灣目前無颱風威脅",
-    "dek": "西太平洋罕見同時出現三個颱風，但均朝北遠離台灣，中央氣象署目前並未發布任何颱風警報。",
-    "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
+    "title": "四級颶風「西蒙」逼近墨西哥太平洋岸 西太平洋三颱轉向遠離台灣未發警報",
+    "dek": "墨西哥哈利斯科沿岸疏散停課應對風暴威脅，而西太平洋「蔡文」、「諾羅」、「小熊」三颱均已轉向遠離台灣本島。",
+    "url": "https://abc30.com/post/category-4-hurricane-simon-pounds-resorts-vulnerable-towns-mexicos-pacific-coast/19929585/"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風西蒙急速增強為四級，直撲墨西哥太平洋岸",
-      "dek": "根據《半島電視台》報導，西蒙10日在墨西哥外海迅速增強為四級颶風，最大風速達每小時150英里，當局警告將有災難性強風與致命暴潮。",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
+      "title": "四級颶風西蒙重創墨西哥太平洋岸度假勝地與脆弱城鎮",
+      "dek": "美聯社經ABC30報導，西蒙風眼持續停留在近岸海域，美國國家颶風中心尚無法確定登陸時間，哈利斯科、科利馬、米卻肯三州已發布豪雨、洪水與土石流警告。",
+      "url": "https://abc30.com/post/category-4-hurricane-simon-pounds-resorts-vulnerable-towns-mexicos-pacific-coast/19929585/"
     },
     {
       "rank": 2,
-      "title": "西蒙減弱為二級颶風，仍持續肆虐墨西哥沿岸",
-      "dek": "《CNN》報導指出，西蒙已從四級高峰減弱為二級，但因沿海岸緩慢平行移動而未真正登陸，使沿岸城鎮風雨侵襲時間延長。",
-      "url": "https://www.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam"
+      "title": "颶風西蒙增強為四級 逼近墨西哥太平洋岸",
+      "dek": "半島電視台報導，西蒙風速達每小時150英里，逼近曼薩尼約與波多瓦雅爾塔之間海域，哈利斯科州沿岸已展開疏散並下令停課。",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast"
     },
     {
       "rank": 3,
-      "title": "西蒙重創度假勝地與沿海脆弱社區",
-      "dek": "美聯社透過《NBC新聞》報導，西蒙猛烈襲擊普拉亞灣等度假勝地及哈利斯科、科利馬、納亞里特等州的貧困沿海社區，造成嚴重風雨與暴潮損害。",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-simon-pounds-resorts-vulnerable-towns-mexicos-pacific-coast-rcna602936"
+      "title": "西蒙增強至四級颶風 逼近墨西哥海岸",
+      "dek": "英國ITV新聞報導，西蒙最大持續風速逼近五級門檻，預料將於哈利斯科與科利馬沿岸登陸。",
+      "url": "https://www.itv.com/news/2026-10-10/simon-strengthens-into-a-category-4-hurricane-as-it-approaches-mexicos-coast"
     },
     {
       "rank": 4,
-      "title": "格雷羅州因西蒙風雨已有一人死亡",
-      "dek": "《猶加敦日報》報導，西蒙帶來的強降雨在風暴核心抵達前已在格雷羅州造成至少一人死亡及洪災，官員稍後稱整體災情相對輕微。",
-      "url": "https://www.yucatan.com.mx/mexico/2026/10/10/huracan-simon-cobra-una-vida-en-guerrero.html"
+      "title": "颶風西蒙風速達155英里逼近墨西哥 當局憂洪災",
+      "dek": "美國國家公共電台經聖路易斯公共廣播電台報導，西蒙強度逼近五級門檻，科連提斯角被列為最可能直接受衝擊地區，山區降雨量恐達30英吋。",
+      "url": "https://www.stlpr.org/npr/2026-10-11/hurricane-simon-nears-mexico-with-155-mph-winds-and-flooding-fears"
     },
     {
       "rank": 5,
-      "title": "西蒙降級為二級颶風，錫那羅亞州持續降雨成災",
-      "dek": "《金融家報》報導證實西蒙已降級為二級颶風，但在錫那羅亞州及鄰近地區仍引發強降雨與洪患。",
-      "url": "https://www.elfinanciero.com.mx/sociedad/simon-se-degrada-a-huracan-categoria-ii/"
+      "title": "四級颶風西蒙今日幾時、何地登陸？",
+      "dek": "墨西哥氣象媒體N Más發布的最新預測報導推估，西蒙相關影響可能於10月13日中午前後波及馬薩特蘭，屆時強度預料已減弱為熱帶風暴，惟此為預測而非既成事實。",
+      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/a-que-hora-y-donde-va-a-tocar-tierra-hoy-11-de-octubre-2026-el-huracan-simon-categoria-4/"
     },
     {
       "rank": 6,
-      "title": "墨西哥官方預測西蒙將於錫那羅亞州馬薩特蘭附近登陸",
-      "dek": "根據《N+》報導，墨西哥國家水利委員會預測西蒙路徑轉向後，將以熱帶風暴強度於13日中午左右在馬薩特蘭附近登陸。",
-      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/trayectoria-huracan-simon-categoria-4-cambia-hoy-11-de-octubre-2026-mapa-conagua-sinaloa/"
+      "title": "西蒙快速增強 本週末或以強颶風襲擊哈利斯科或科利馬",
+      "dek": "墨西哥新聞日報的早期報導警告，西蒙正快速增強，預料週末將對哈利斯科與科利馬沿岸構成重大威脅。",
+      "url": "https://mexiconewsdaily.com/news/simon-strengthening-rapidly-hit-jalisco-or-colima-as-major-hurricane-this-weekend/"
     },
     {
       "rank": 7,
-      "title": "西太平洋罕見三颱同時活躍，皆未朝台灣移動",
-      "dek": "《馬來西亞星報》報導，颱風彩雲接近日本小笠原群島之際，另有新生成的颱風NOLO與圓規，三者均未朝台灣或菲律賓方向前進。",
+      "title": "颱風蔡文逼近小笠原群島 西太平洋同時生成兩個新颱風",
+      "dek": "馬來西亞《星報》報導，蔡文以「非常強」強度逼近小笠原群島以東海域，預料北轉後約10月8日轉化為溫帶氣旋，同時諾羅與小熊兩個新系統生成，均未威脅台灣。",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 8,
-      "title": "長程颶風NOLO跨越太平洋轉化為28號颱風",
-      "dek": "氣象媒體Weathernews報導，一個長生命週期的中東太平洋颶風越過國際換日線，被日本氣象廳重新分類為28號颱風NOLO，預測將轉向東方並於10日左右轉化為溫帶氣旋。",
+      "title": "長程颶風諾羅橫越太平洋化身28號颱風",
+      "dek": "日本氣象公司Weathernews報導，諾羅先以颶風身分重新增強、跨越國際換日線，轉化為西太平洋第28號颱風，10月7日行經威克島附近，預料將轉弱並東移。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 9,
-      "title": "五年來首見三颱共存，韓媒稱屬罕見現象",
-      "dek": "《韓國先驅報》報導，彩雲、NOLO與圓規三個颱風同時活躍，是五年來首次出現的罕見情況，但均未被認定對台灣構成威脅。",
-      "url": "https://biz.heraldcorp.com/article/10894596"
+      "title": "西太平洋颱風「車流」擁擠 多個系統同時成形",
+      "dek": "美軍媒體《星條旗報》報導，10月初西太平洋同時出現多個颱風活動，形成罕見的「颱風高速公路」景象。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
     },
     {
       "rank": 10,
-      "title": "台灣氣象署預告零星降雨與東北季風，未提颱風威脅",
-      "dek": "《中央社英文網》報導，中央氣象署預測大台北及東部地區將有零星短暫降雨，並有增強東北季風帶來涼爽穩定天氣，未提及任何熱帶氣旋威脅。",
-      "url": "https://focustaiwan.tw/society/202610030004"
+      "title": "29號颱風小熊預測增強至「非常強」等級 路徑遠離台灣",
+      "dek": "Weathernews東南亞公告指出，小熊颱風預計於10月10日至12日在小笠原群島附近達到「非常強」巔峰強度，隨後北轉進入開闊洋面，約10月14日減弱為強烈熱帶風暴，路徑始終未指向台灣。",
+      "url": "https://sea.weathernews.com/resources/202610/264"
     }
   ]
 }
