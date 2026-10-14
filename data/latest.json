@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T13:14:00+08:00",
+  "generated_at": "2026-10-14T14:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前（2026/10/14）尚未對任何颱風發布海上或陸上颱風警報。熱帶擾動／Invest 96W雖預計近日增強為今年薔琵（國際名Champi）颱風，但尚未正式生成，目前僅因東北季風增強而對部分沿海鄉鎮發布「陸上強風特報」（非颱風警報）。",
+  "alert_desc": "中央氣象署目前（2026/10/14）未對台灣發布任何海上或陸上颱風警報，最近一次警報為8月27日對第18號颱風桑達發布的海上颱風警報，當天即解除，距今已逾七週。西北太平洋本週雖出現「三颱並行」的楚雲、諾魯、小熊颱風，但均朝日本小笠原群島方向移動，未對台灣構成威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前沒有颱風直接威脅，也沒有停班停課公告；僅可能受東北季風影響出現局部強風、轉涼，薔琵颱風若生成，其路徑是否會間接影響台灣目前仍高度不確定，暫無具體衝擊台中天氣的預報。"
+    "text": "台中地區本週未受任何颱風或熱帶系統直接影響，也沒有停班停課公告；天氣仍以秋季高壓與東北季風型態為主，目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "熱帶擾動醞釀薔琵颱風　侵台路徑待觀察",
-    "dek": "中央氣象署尚未發布任何海上或陸上颱風警報，但氣象界正密切觀察一股可能在一兩天內增強為今年颱風薔琵（國際名Champi）的熱帶擾動，其日後是否北轉逼近台灣仍高度不確定。",
-    "url": "https://newtalk.tw/news/view/2026-10-14/1065375"
+    "title": "西北太平洋三颱並行朝日本而去　台灣暫無威脅",
+    "dek": "氣象機構的最新資料顯示，越過國際換日線形成的颱風「諾魯」與另外兩個颱風均轉向日本小笠原群島海域，台灣中央氣象署已逾七週未發布任何颱風警報。",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
   },
   "items": [
     {
       "rank": 1,
-      "title": "薔琵颱風估增強為強颱　下週四逼近琉球南方海域",
-      "dek": "據Newtalk報導，預期發展為今年颱風薔琵的系統可能增強為強烈颱風並於下週四前後接近琉球群島南方海域，其後續北轉幅度仍是是否影響台灣的關鍵未知數。",
-      "url": "https://newtalk.tw/news/view/2026-10-14/1065375"
+      "title": "楚雲颱風逼近小笠原群島之際　西北太平洋再生成兩颱",
+      "dek": "《星報》引述通訊社報導，強度達三級颶風等級的楚雲颱風逼近小笠原群島時，諾魯與小熊颱風相繼形成，三者預料均不登陸日本。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
     },
     {
       "rank": 2,
-      "title": "薔琵颱風估一兩天內生成　「拋物線」路徑牽動台灣",
-      "dek": "據NOWnews報導，熱帶擾動96W預計一兩天內組織為颱風薔琵，部分預測模式繪出的拋物線路徑顯示有機會威脅台灣，氣象專家也指出其環流範圍與強度都異常明顯。",
-      "url": "https://www.nownews.com/news/6882878"
+      "title": "西太平洋颱風通道車流量大增　罕見三颱同時成形",
+      "dek": "《星條旗報》報導，楚雲、諾魯、小熊三颱同時活躍，恰逢日本10月連假期間，據朝日電視台稱為近年首見的10月三颱並行現象。",
+      "url": "https://www.stripes.com/theaters/asia_pacific/storm_tracker/2026-10-05/traffic-builds-on-western-pacific-typhoon-freeway-23059270.html"
     },
     {
       "rank": 3,
-      "title": "薔琵颱風最快明日生成　「體型強大」不排除影響台灣",
-      "dek": "據知新聞報導，氣象預報認為這股擾動最快明日即可增強為颱風薔琵，形容其規模與強度都不尋常，並指出以目前系統大小而言，尚不能排除對台灣造成直接或間接影響。",
-      "url": "https://knews.com.tw/news/BAF166A01D2896B4C60CF240CB949884"
+      "title": "颶風越過國際換日線　更名為颱風諾魯",
+      "dek": "美聯社報導，原在太平洋東側生成的颶風諾魯越過國際換日線後，被日本氣象廳重新編號為第28號颱風，並在西北太平洋再度增強。",
+      "url": "https://www.ksat.com/news/2026/10/04/now-its-typhoon-nolo-after-pacific-hurricane-crosses-the-international-dateline/"
     },
     {
       "rank": 4,
-      "title": "薔琵颱風醞釀成形　專家：北轉時間點決定台灣受影響程度",
-      "dek": "據東森新聞報導，氣象專家分析指出，薔琵未來執行北轉的時間與位置，將是決定台灣是否受到影響及影響程度的關鍵變數，目前仍難以確定。",
-      "url": "https://news.ebc.net.tw/news/living/575495"
+      "title": "諾魯越過國際換日線　由颶風轉為颱風",
+      "dek": "英國ITV News報導確認諾魯完成颶風轉颱風的分類轉換，並持續向西移動，預料將逐漸減弱。",
+      "url": "https://www.itv.com/news/2026-10-04/nolo-changes-from-a-hurricane-to-a-typhoon-in-the-pacific"
     },
     {
       "rank": 5,
-      "title": "今年西北太平洋已生成28個颱風　明顯高於歷年平均",
-      "dek": "據自由時報報導，截至10月8日西北太平洋與南海今年已生成28個颱風，較氣候平均值多出3至4個，其中6個達強烈颱風強度，模式顯示10月18日前後菲律賓東方海域可能再有新擾動發展。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
+      "title": "長程颶風諾魯橫越太平洋　成為第28號颱風",
+      "dek": "日本氣象資訊公司Weathernews的公告顯示，諾魯10月7日已移至威克島附近，中心風速約70節，預測將於10月10日前後轉向並轉化為溫帶氣旋。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 6,
-      "title": "颱風諾盧減弱北移　預計轉化為溫帶氣旋",
-      "dek": "據日本氣象機構Weathernews報導，第28號颱風諾盧在北移過程中持續減弱，預計於一天內轉化為溫帶低氣壓。",
-      "url": "https://weathernews.jp/news/202610/100221/"
+      "title": "小熊颱風增強　預測於小笠原群島附近達到最強等級",
+      "dek": "Weathernews公告指出，第29號颱風小熊截至10月9日風速已達75節，預計10月10日至11日在小笠原群島附近達到「非常強」等級後逐漸減弱。",
+      "url": "https://sea.weathernews.com/resources/202610/269"
     },
     {
       "rank": 7,
-      "title": "颱風小熊掠過本州東方海域未登陸　沿岸大浪仍須留意",
-      "dek": "據日本氣象機構Weathernews報導，第29號颱風小熊從本州東方海域通過、未登陸日本，但太平洋沿岸仍有高浪威脅，報導同時指出第28號颱風諾盧當時已減弱為熱帶性低氣壓。",
-      "url": "https://weathernews.jp/news/202610/110181/"
+      "title": "南韓氣象廳：小熊颱風將於48小時內轉為溫帶低氣壓",
+      "dek": "南韓氣象廳10月12日晚間官方公告指出，小熊颱風到10月14日將在日本以東海域減弱，不會登陸韓國或日本本土。",
+      "url": "https://www.weather.go.kr/w/repositary/xml/typ/pdf/RTKO63_202610122200]29.pdf"
     },
     {
       "rank": 8,
-      "title": "長途跋涉的諾盧增強為颱風　現身西北太平洋",
-      "dek": "據夏威夷當地媒體Hawaii News Now報導，歷經長距離跨洋移動的系統諾盧已在威克島附近增強為颱風（日本編號第28號），預期將持續向西移動後再轉向。",
-      "url": "https://www.hawaiinewsnow.com/2026/10/05/nolo-still-going-strong-now-typhoon-western-north-pacific/"
+      "title": "小熊、楚雲、諾魯三颱　正朝日本該海域移動",
+      "dek": "南韓媒體Wikitree的整理報導確認，三颱均朝日本小笠原群島及南鳥島海域移動，而非台灣或朝鮮半島。",
+      "url": "https://www.wikitree.co.kr/articles/1164047"
     },
     {
       "rank": 9,
-      "title": "香港天文台：西北太平洋風季未歇　南海菲律賓一帶短期受壓抑",
-      "dek": "據香港天文台網誌報導，截至10月6日西北太平洋與南海今年已有34個熱帶氣旋影響，數量異常偏多，雖反氣旋型態可能暫時壓抑南海與菲律賓附近新系統生成至10月下旬，但整體西北太平洋活躍態勢預期持續，系統並有偏向日本移動的趨勢。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "通訊社圖輯報導：西北太平洋三颱同時活躍",
+      "dek": "南韓《Herald經濟》的圖輯報導聚焦楚雲、諾魯、小熊三颱對日本東京的潛在影響，未提及台灣受威脅。",
+      "url": "https://biz.heraldcorp.com/article/10894596"
     },
     {
       "rank": 10,
-      "title": "大西洋今年至今零颶風生成　逾百年來罕見",
-      "dek": "據美國地方電視台CBS12報導，即使已過氣候學上的颶風季高峰期，大西洋海域截至10月初仍未生成任何颶風，為逾百年來首見，預報人員將此歸因於增強中的厄爾尼諾現象與偏強風切。",
-      "url": "https://cbs12.com/news/local/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
+      "title": "中央氣象署桑達颱風海上警報檔案　顯示台灣逾七週無新警報",
+      "dek": "中央氣象署資料庫顯示，台灣最近一次發布的颱風警報為8月27日對第18號颱風桑達發布的海上颱風警報，當天即解除，至今未再發布新警報。",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
     }
   ]
 }
