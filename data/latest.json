@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T20:13:00+08:00",
+  "generated_at": "2026-10-14T21:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據目前可查證的公開報導，中央氣象署目前並未發布海上或陸上颱風警報；此前的警報紀錄為7月颱風巴威與8月颱風海豚期間發布，均已解除。西北太平洋的颱風彩雲與第28號颱風諾羅均已轉向遠離陸地，暫無新系統對台灣構成威脅。（本資訊基於公開網路搜尋整理，非直接查核中央氣象署官網，請以氣象署最新公告為準。）",
+  "alert_desc": "中央氣象署目前未對台灣海域或陸地發布海上或陸上颱風警報。西北太平洋一熱帶低壓（TD-33）14日生成，預測將增強為暫定名稱「薔琵」的颱風，但仍待正式形成，警報狀態可能隨時變化，請以氣象署最新公告為準。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：目前無颱風系統直接威脅台灣本島，台中市暫無因颱風導致的風雨或停班停課情形；台中上一次因颱風（海豚）出現風雨影響為2026年8月上旬。"
+    "text": "目前無直接影響。目前並無任何颱風警報、強風豪雨或停班停課評估涉及台中；僅宜蘭地區獲氣象署提醒明日留意較大雨勢，與台中無關。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西太平洋颱風趨緩　台灣暫無颱風警報",
-    "dek": "颱風彩雲重創北馬里亞納後轉向遠離，中央氣象署目前未發布海上或陸上颱風警報。",
-    "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+    "title": "熱帶低壓增強在即　準颱風「薔琵」路徑牽動台日　氣象署：台灣目前未發布颱風警報",
+    "dek": "西北太平洋一熱帶低壓14日生成，預測未來一天內增強為今年的颱風「薔琵」，專家評估其直接侵台機率偏低，但北轉路徑仍高度不確定；中央氣象署目前未發布海上或陸上颱風警報，台中亦無直接影響。",
+    "url": "https://ettoday.net/news/20261014/3254198.htm"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風諾羅越換日線變颱風",
-      "dek": "颶風諾羅跨越國際換日線，日本氣象廳重新命名為第28號颱風。",
-      "url": "https://www.itv.com/news/2026-10-04/nolo-changes-from-a-hurricane-to-a-typhoon-in-the-pacific"
+      "title": "熱帶低壓生成　估明增強為「薔琵」颱風　日本已發烈風警報",
+      "dek": "據ETtoday報導，一熱帶低壓14日上午在關島東南方海面形成，日本氣象廳同步發布烈風警報，氣象專家預估該系統可能在24小時內增強為今年的颱風「薔琵」。",
+      "url": "https://ettoday.net/news/20261014/3254198.htm"
     },
     {
       "rank": 2,
-      "title": "諾羅移至威克島附近風速減弱",
-      "dek": "Weathernews指出諾羅風速降至95節，預測10日前後轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "薔琵颱風最快今日生成　週末估增強至中颱上限　下週一、二轉向北方",
+      "dek": "據自由時報報導，準颱風薔琵最快可能於14日當天生成，預測週末前強度將逼近中度颱風上限，並預計約於10月19日、20日在琉球群島附近開始轉向北方。",
+      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5606273"
     },
     {
       "rank": 3,
-      "title": "JMA公報確認第28號颱風無登陸威脅",
-      "dek": "技術公報顯示諾羅在西太平洋公海活動，未威脅日本、菲律賓或台灣。",
-      "url": "https://sea.weathernews.com/resources/202610/262"
+      "title": "準颱風薔琵最新路徑曝光　專家估可達強颱等級　雙十連假傾向朝日本方向移動",
+      "dek": "據聯合新聞網報導，氣象專家分析指出，正在發展中的薔琵（暫名）颱風未來強度可能達到強颱等級，雙十連假期間路徑偏向朝日本方向移動，直接侵台目前被評估為較低機率情境。",
+      "url": "https://udn.com/news/story/7266/9813674"
     },
     {
       "rank": 4,
-      "title": "颱風海豚重創北台灣",
-      "dek": "海豚外圍環流為北台灣帶來強風豪雨，造成數百起災損通報。",
-      "url": "https://focustaiwan.tw/society/202608090003"
+      "title": "「薔琵」即將生成　估直衝強颱巔峰　下週北轉關鍵牽動台日防颱部署",
+      "dek": "據鏡週刊報導，氣象單位預期薔琵（暫名）颱風形成後將朝強颱等級發展，下週的北轉動向將是決定台灣或日本何者需加強防颱準備的關鍵變數。",
+      "url": "https://mirrormedia.mg/story/20261014edi081"
     },
     {
       "rank": 5,
-      "title": "海豚減弱後轉襲中國東岸",
-      "dek": "海豚掠過台灣後直撲上海，迫使逾30萬人疏散。",
-      "url": "https://www.taiwanplus.com/news/taiwan-news/climate-and-natural-disasters/260810009/typhoon-dolphin-passes-leaving-damage-and-disruption-in-its-wake"
+      "title": "準颱風「薔琵」恐達中颱上限　氣象署提醒宜蘭明日留意較大雨勢",
+      "dek": "據NowNews報導，中央氣象署預報員指出，這個準颱風系統未來強度可能達到中度颱風上限，而目前台灣本島唯一被點名的近期天氣影響，是宜蘭地區明日需留意較大雨勢，氣象署尚未針對此系統發布颱風警報。",
+      "url": "https://www.nownews.com/news/6883321"
     },
     {
       "rank": 6,
-      "title": "颱風彩雲橫掃北馬里亞納",
-      "dek": "彩雲一度逼近超級颱風強度，預測8日前後轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
+      "title": "颶風「西蒙」減弱為二級颶風　持續侵襲墨西哥太平洋沿岸",
+      "dek": "據CNN報導，颶風西蒙已由強烈颶風減弱為二級颶風、持續風速約每小時105英里，但仍持續衝擊墨西哥太平洋沿岸，格雷羅州已傳出至少一人死亡。",
+      "url": "https://www.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam"
     },
     {
       "rank": 7,
-      "title": "氣象署示警颱風巴威恐襲台",
-      "dek": "氣象署預測系統將發布海上警報，週末以影響東北部外海為主。",
-      "url": "https://focustaiwan.tw/society/202607080006"
+      "title": "熱帶風暴「楚迪」在太平洋形成　美國國家颶風中心估可能迅速增強為四級強烈颶風",
+      "dek": "據FOX Weather報導，熱帶風暴楚迪緊接在西蒙之後於東太平洋生成，美國國家颶風中心預測其有可能迅速增強為四級強烈颶風，但確切路徑與是否登陸墨西哥仍高度不確定。",
+      "url": "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane"
     },
     {
       "rank": 8,
-      "title": "颱風巴威逼近　氣象署發布陸警",
-      "dek": "氣象署清晨發布陸上颱風警報，預測局部雨量恐逾350毫米。",
-      "url": "https://focustaiwan.tw/society/202607100002"
+      "title": "颶風「伊薰亞斯」登陸後減弱　已傳出至少兩人死亡",
+      "dek": "據FOX5 Atlanta報導，本季大西洋首個颶風伊薰亞斯在佛羅里達州德斯廷附近登陸後逐漸減弱，目前已有至少兩人死亡，後續死亡人數可能持續攀升，佛州與阿拉巴馬州受創明顯。",
+      "url": "https://www.fox5atlanta.com/news/isaias-weakens-storm-moves-inland-2-deaths-reported"
     },
     {
       "rank": 9,
-      "title": "2026年太平洋颱風季明顯活躍",
-      "dek": "維基百科頁面顯示本季已有26個命名風暴，遠高於氣候平均。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "低壓殘留系統「伊薰亞斯」持續影響美國東南部　強降雨為主要威脅",
+      "dek": "據ABC6（OnYourSide）報導，美國國家颶風中心已將伊薰亞斯改列為低壓殘留系統，其殘餘環流持續經過美國東南部，主要威脅為大範圍瞬間洪水，並可能持續向中西部與東北部移動。",
+      "url": "https://abc6onyourside.com/news/nation-world/post-tropical-isaias-moving-through-southeast"
     },
     {
       "rank": 10,
-      "title": "PAGASA展望：10月菲律賓僅1至2風暴",
-      "dek": "菲律賓氣象署預測在聖嬰增強下，10月生成風暴數量有限。",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "菲律賓大氣署：熱帶低壓遠在呂宋島以東　位於該國責任區外",
+      "dek": "據菲律賓大氣地理天文服務署（PAGASA）午間公告，一熱帶低壓位於呂宋島以東約2,175公里處，正緩慢向西北移動，目前位於菲律賓責任區之外，登陸風險偏低。",
+      "url": "https://www.pagasa.dost.gov.ph/weather"
     }
   ]
 }
