@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T08:12:00+08:00",
+  "generated_at": "2026-10-14T09:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署上一次發布的警報為8月27日颱風「沙德爾」海上警報，已於8月31日前解除；截至10月14日已逾七週未發布新颱風警報。",
+  "alert_desc": "中央氣象署上一次發布的警報為8月27日颱風「沙德爾」海上警報，已於8月28日下午解除；截至10月14日已逾七週未發布新颱風警報，但今年颱風生成數已創下異常活躍紀錄。",
   "region_watch": {
     "region": "台中",
     "text": "目前無直接影響：台中未因任何颱風、熱帶風暴系統發布風雨警報或停班停課公告，天氣持穩。"
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "太平洋颱風活動趨緩，目前無威脅台灣系統，中央氣象署未發布新警報",
-    "dek": "在西北太平洋「三颱共舞」罕見奇觀逐漸消散之際，台灣本島未受任何颱風、熱帶風暴或熱帶性低氣壓直接影響，氣象署警戒已維持約七週空窗。",
-    "url": "https://cna.com.tw/news/ahel/202608270138.aspx"
+    "title": "西北太平洋颱風數創新高，台灣七週無警報空窗持續",
+    "dek": "在增強中的厄爾尼諾現象推動下，今年西北太平洋颱風生成數遠超常年平均，但近期「菜鳥」、「奴魯」雙颱相繼轉向，台灣持續維持無警戒的平靜狀態。",
+    "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中央社：台灣今年最後一次颱風警報為8月「沙德爾」，至今逾七週無新警報",
-      "dek": "中央氣象署8月27日發布的第18號海上警報隨「沙德爾」登陸中國浙江而解除，此後迄今10月14日未再發布任何颱風警報。",
-      "url": "https://cna.com.tw/news/ahel/202608270138.aspx"
-    },
-    {
-      "rank": 2,
-      "title": "香港天文台：2026年風季是否已近尾聲？西北太平洋今年已生34個熱帶氣旋，創歷史新高",
-      "dek": "香港天文台指出，南海上空異常反氣旋環流可能持續至10月下旬，抑制南海生成但西北太平洋整體仍活躍，風暴路徑偏向日本而非台灣、菲律賓或南海。",
+      "title": "香港天文台：今年西北太平洋熱帶氣旋數達34個，創下異常活躍紀錄",
+      "dek": "天文台指出南海上空反氣旋環流可能持續壓抑當地颱風生成至10月下旬，但整體西太平洋仍具活躍條件。",
       "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
-      "rank": 3,
-      "title": "日本「體育之日」連假罕見遭三颱同時威脅，為五年來首見",
-      "dek": "颱風「小熊」在關島以東生成，與「菜鳥」、「奴魯」形成三颱並存局面，衝擊日本10月10日至12日連假，但韓國半島預期不受直接影響。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
-    },
-    {
-      "rank": 4,
-      "title": "颱風「菜鳥」逼近小笠原群島，一度增強為強烈颱風",
-      "dek": "日本Weathernews觀測顯示，「菜鳥」在馬里亞納群島以北快速增強，中心氣壓一度降至925百帕，其後預測將轉向北行並於10月8日前後轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261001-01/"
-    },
-    {
-      "rank": 5,
-      "title": "Weathernews預測：颱風「小熊」10月14日將減弱為強烈熱帶風暴",
-      "dek": "「小熊」原預測於10月10日至11日達到強烈颱風強度，其後轉向北北東行進入較冷洋面，強度逐漸減弱。",
-      "url": "https://sea.weathernews.com/resources/202610/269"
-    },
-    {
-      "rank": 6,
-      "title": "跨洋罕見風暴「奴魯」橫越換日線，重新編號為第28號颱風",
-      "dek": "該系統原為東太平洋/中太平洋颶風，越過國際換日線後由日本氣象廳重新命名觀測，預測將轉向東行並完成溫帶轉化。",
+      "rank": 2,
+      "title": "跨洋罕見風暴「奴魯」橫越換日線，重新編號為西太平洋第28號颱風",
+      "dek": "Weathernews觀測顯示，原中太平洋颶風「奴魯」越過國際換日線後轉向東行，預計完成溫帶轉化。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
+      "rank": 3,
+      "title": "颱風「菜鳥」逼近小笠原群島增強為強烈颱風，北轉遠離台灣",
+      "dek": "「菜鳥」一度為塞班、天寧發布熱帶風暴警報，其後持續北行並預計轉化為溫帶氣旋，不涉台灣海域。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+    },
+    {
+      "rank": 4,
+      "title": "中央社：中央氣象署8月27日發布的沙德爾海上警報已解除，至今逾七週無新警戒",
+      "dek": "沙德爾降為輕度颱風並登陸浙江後，氣象署於8月28日下午解除警報，台灣迄今未再發布新颱風警報。",
+      "url": "https://cna.com.tw/news/ahel/202608280142.aspx"
+    },
+    {
+      "rank": 5,
+      "title": "沙德爾停編32小時後南海「復活」，為近26年來第4起同類案例",
+      "dek": "殘餘低壓重新編號後為廣東、福建帶來強降雨風險，但未再觸發台灣警戒。",
+      "url": "https://www.cna.com.tw/news/acn/202609020192.aspx"
+    },
+    {
+      "rank": 6,
+      "title": "回顧：熱帶風暴「奴兒」7月逼近台灣，氣象署一度發布海上警報",
+      "dek": "「奴兒」為今年第12號風暴，外圍環流曾為台灣南部與東部帶來豪雨，警報已於7月25日解除。",
+      "url": "https://focustaiwan.tw/society/202607220009"
+    },
+    {
       "rank": 7,
-      "title": "美國國家颶風中心NHC：大西洋海域目前無活躍熱帶氣旋",
-      "dek": "NHC最新報告顯示，截至10月13日大西洋盆地維持平靜，活動重心集中於東太平洋的颶風「西蒙」。",
-      "url": "https://www.nhc.noaa.gov/text/MIATWOAT.shtml"
+      "title": "回顧：颱風「巴威」7月登場即成今年最強風暴，台中曾因應發布停班停課",
+      "dek": "「巴威」逼近北馬里亞納群島後轉向台灣，氣象署發布陸上警報，台中市政府並宣布停班停課約30小時。",
+      "url": "https://www.local10.com/weather/hurricane/2026/07/03/typhoon-bavi-could-become-strongest-storm-or-2026-takes-aim-at-us-northern-mariana-islands/"
     },
     {
       "rank": 8,
-      "title": "颶風「西蒙」在墨西哥太平洋岸外快速增強為強烈颶風",
-      "dek": "美國國家颶風中心預測「西蒙」最高風速逼近每小時250公里，中心氣壓930百帕，但截至10月11日通報仍未對陸地發布警戒。",
-      "url": "https://www.news4jax.com/news/world/2026/10/09/hurricane-simon-forecast-to-get-much-stronger-as-it-heads-to-mexicos-pacific-coast/"
+      "title": "自由時報：西北太平洋今年已生成28個颱風，較氣候平均值多3至4個",
+      "dek": "氣象專家林得恩指出活躍程度與增強中的厄爾尼諾現象有關，並留意菲律賓以東海域10月18日前後可能形成的熱帶擾動。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
     },
     {
       "rank": 9,
-      "title": "颶風「西蒙」未登陸墨西哥本土，當局仍對豪雨與洪患發布警戒",
-      "dek": "墨西哥哈利斯科、科利馬及米卻肯州官員警告外圍環流可能引發洪水與坡地災害，風暴中心預計持續在近海徘徊至10月12日後轉弱。",
-      "url": "https://www.publimetro.com.mx/nacional/2026/10/11/huracan-simon-ya-afecta-al-pacifico-sin-tocar-tierra-que-sigue/"
+      "title": "Weathernews示警：厄爾尼諾增強下，2026年西太平洋颱風季活動偏多",
+      "dek": "季節展望指出今年西太平洋颱風活動可能較1991至2020年均值高出四至六成。",
+      "url": "https://sea.weathernews.com/resources/202609/232"
     },
     {
       "rank": 10,
-      "title": "關島近海熱帶擾動96W、97W發展潛勢偏低",
-      "dek": "關島夜間強降雨隨「96W」擾動減弱並遠離馬里亞納群島而趨緩，另一擾動「97W」經評估發展機率亦低。",
-      "url": "https://www.postguam.com/news/local/heavy-rains-ease-as-tropical-disturbance-weakens-moves-away-from-guam/article_b078e46c-d752-48c2-b759-15afce1129be.html"
+      "title": "菲律賓大氣地理天文服務署：熱帶風暴「皮蘭多克」已離開菲律賓責任區",
+      "dek": "「皮蘭多克」（國際編號克羅凡）為呂宋與維薩亞斯帶來西南季風增強的強風豪雨後，於9月3日正式離境。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/tamss/weather/bulletin/TCB%2314_pilandok.pdf"
     }
   ]
 }
