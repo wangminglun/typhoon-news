@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T13:10:00+08:00",
+  "generated_at": "2026-10-15T14:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；最近一次相關警報仍是7月底至8月間針對颱風「巴比」、「海豚」與「諾羅」所發布，近期並無新警報紀錄。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；先前觀測中、被視為可能發展成「颱風強比」的關島海域熱帶擾動未能組織成形，西太平洋目前並無任何確認中的系統逼近台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。東太平洋颶風「賽門」與熱帶風暴「崔蒂」均遠在墨西哥外海活動，西太平洋熱帶擾動「96W」仍在關島東南方海面醞釀、尚未成颱，均未對台中造成風雨衝擊，也沒有因颱風引發的停班停課訊息。"
+    "text": "目前無直接影響，台中地區未受任何活躍或潛在熱帶氣旋影響。近期僅有東北季風帶來的例行降雨，氣象署並未對台中發布停班停課或颱風相關警示。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "東太平洋颶風接連成形 「崔蒂」恐週末增強為四級以上強颶風 台灣目前無警報",
-    "dek": "墨西哥西岸颶風「賽門」減弱後徘徊外海，熱帶風暴「崔蒂」隨即在其南側生成並預測將迅速增強，凸顯今年太平洋颶風季異常活躍，而台灣中央氣象署目前並未發布任何颱風警報。",
-    "url": "https://www.cronica.com.mx/nacional/2026/10/13/se-forma-la-tormenta-tropical-trudy-en-el-pacifico/"
+    "title": "台灣暫無颱風威脅，全球焦點轉向墨西哥外海颶風「西蒙」與「楚迪」",
+    "dek": "中央氣象署未發布海上或陸上颱風警報，先前傳出可能成形的關島海域「颱風強比」未獲證實；東太平洋的颶風西蒙已重創墨西哥沿岸多日，熱帶風暴楚迪也可能迅速增強為強烈颶風。",
+    "url": "https://www.thestar.com.my/news/world/2026/10/12/hurricane-simon-crawls-along-mexico039s-pacific-coast-bringing-floods-and-evacuations"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴「崔蒂」生成 預測週末前急速增強為強颶風",
-      "dek": "墨西哥國家水利委員會與CNN預報指出，崔蒂可能迅速增強為三級以上颶風，威脅路徑尚未明朗。",
-      "url": "https://www.cronica.com.mx/nacional/2026/10/13/se-forma-la-tormenta-tropical-trudy-en-el-pacifico/"
+      "title": "颶風西蒙緩行墨西哥太平洋沿岸，引發洪災與疏散",
+      "dek": "馬來西亞《星報》轉引外電報導指出，西蒙連日來以異常緩慢且不規則的路徑沿哈利斯科、納亞里特與錫那羅亞沿岸移動，豪雨導致曼薩尼約等城鎮街道積水，海軍協助居民撤離。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/12/hurricane-simon-crawls-along-mexico039s-pacific-coast-bringing-floods-and-evacuations"
     },
     {
       "rank": 2,
-      "title": "颶風「賽門」減弱徘徊墨西哥外海 路徑飄忽難測",
-      "dek": "賽門由四級高峰減弱至一級後在錫那羅亞州外海遲滯不前，氣象機構對其登陸地點與方式意見分歧。",
-      "url": "https://gvwire.com/2026/10/12/hurricane-simon-crawls-along-mexicos-pacific-coast-bringing-floods-and-evacuations/"
+      "title": "西蒙增強為四級颶風，逼近墨西哥海岸",
+      "dek": "美國國家颶風中心表示，西蒙最大持續風速一度達每小時140至150英里，達到四級颶風強度，並警告沿岸與鄰近山區將出現致命洪水與坡地滑動。",
+      "url": "https://www.itv.com/news/2026-10-10/simon-strengthens-into-a-category-4-hurricane-as-it-approaches-mexicos-coast"
     },
     {
       "rank": 3,
-      "title": "賽門與瑞秋殘餘水氣釀洪災 墨西哥死亡人數增至6人",
-      "dek": "美聯社報導，洪水、倒塌與土石流重創下加利福尼亞州及太平洋沿岸多州，格雷羅州已有一人因牆體倒塌喪生。",
-      "url": "https://www.ajc.com/news/2026/10/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/"
+      "title": "西蒙強度於二至三級間波動，預計10月15日前後於錫那羅亞附近登陸",
+      "dek": "路透社報導，西蒙在哈利斯科卡博科連特斯外海徘徊後轉向東北，預報機構預期其登陸後將迅速減弱，但也有專家認為它可能始終不會形成典型的「真正登陸」。",
+      "url": "https://theprint.in/world/hurricane-simon-weakens-to-category-3-as-rains-flood-mexicos-pacific-coast/3068821/"
     },
     {
       "rank": 4,
-      "title": "關島外海熱帶擾動96W觀察中 最快本週或週末成颱「薔琵」",
-      "dek": "台灣氣象界指出96W仍需時間組織，是否北轉牽動台灣是否受影響，目前仍屬高度不確定的預測階段。",
-      "url": "https://www.setn.com/klist/80165"
+      "title": "哈利斯科州停課並展開疏散，應對颶風西蒙威脅",
+      "dek": "墨西哥媒體N+報導，哈利斯科州政府下令22個沿海市鎮停課並疏散高風險居民，馬薩特蘭海濱步道也因連日巨浪侵襲出現龜裂損毀。",
+      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/huracan-simon-trayectoria-jalisco-nayarit-cuando-impacto-sinaloa-hoy-12-de-octubre-de-2026/"
     },
     {
       "rank": 5,
-      "title": "今年西北太平洋已生成28個風暴 遠超氣候平均值",
-      "dek": "台大學者林得恩分析指出，截至10月8日的風暴數量較往年同期多出3至4個，其中6個達強颱等級。",
-      "url": "https://www.nownews.com/news/6849025"
+      "title": "颶風西蒙與熱帶風暴瑞秋殘餘環流致墨西哥死亡人數增至6人",
+      "dek": "美國《亞特蘭大憲法報》引述當地官方統計指出，西蒙與瑞秋殘餘水氣共同引發的洪災與坡地災害，已造成至少六人死亡。",
+      "url": "https://www.ajc.com/news/2026/10/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/"
     },
     {
       "rank": 6,
-      "title": "中央氣象署10月以來未發布新颱風警報 最近一次為7月颱風季",
-      "dek": "近期海上與陸上颱風警報搜尋均未發現10月新警報，最新紀錄仍是7月底針對颱風巴比、海豚與諾羅所發布。",
-      "url": "https://focustaiwan.tw/society/202607230006"
+      "title": "瑞秋殘餘水氣席捲後，美國西南部暴洪風險持續",
+      "dek": "美聯社報導，熱帶風暴瑞秋的殘餘水氣在侵襲墨西哥後北移，於內華達州引發暴洪，美國西南部多地持續處於洪水警戒狀態。",
+      "url": "https://www.ksat.com/news/national/2026/10/12/flash-flood-risk-lingers-across-the-southwest-after-rachels-remnants-swamped-nevada/"
     },
     {
       "rank": 7,
-      "title": "東太平洋颶風季創紀錄活躍 賽門與崔蒂罕見同時並存",
-      "dek": "維基百科與CNN西語頻道資料顯示，異常偏暖海水與強厄爾尼諾現象推升今年累積氣旋能量至歷史新高。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_hurricane_season"
+      "title": "熱帶風暴楚迪於墨西哥外海形成，預料將快速增強為強烈颶風",
+      "dek": "美聯社報導，原編號21E的熱帶低氣壓在瓦哈卡州外海增強為熱帶風暴楚迪，美國國家颶風中心與墨西哥氣象局預測其數日內將增強為颶風，並可能於10月16日至18日前後達到三至四級強度。",
+      "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
     },
     {
       "rank": 8,
-      "title": "錫那羅亞州等地延長停課 防範颶風賽門外海威脅",
-      "dek": "當地民防單位因賽門可能以一級颶風強度登陸而提高警戒，多個南部市鎮因降雨與風暴潮風險延長停課。",
-      "url": "https://www.unotv.com/estados/sinaloa/huracan-simon-podria-tocar-tierra-en-sinaloa-el-miercoles-y-en-categoria-1-alerta-pc-estatal/"
+      "title": "預報模型顯示楚迪可能增強至四級，但暫無直接登陸墨西哥跡象",
+      "dek": "墨西哥媒體N+引述預報模型指出，楚迪可能於10月15日晚間逼近三級強度，16日起增強至四級並持續至17日，隨後減弱，外圍雨帶與湧浪仍可能影響沿岸地區。",
+      "url": "https://www.nmas.com.mx/estado-de-mexico/clima/huracan-trudy-2026-forma-depresion-tropical-hoy-13-de-octubre-2026-categoria-4-pacifico/"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴瑞秋殘餘水氣北移 美國西南部面臨致命洪水風險",
-      "dek": "美聯社報導，內華達州拉斯維加斯單日降雨量追平歷史紀錄，西南部多州洪水警戒持續生效。",
-      "url": "https://www.news4jax.com/news/national/2026/10/12/flash-flood-risk-lingers-across-the-southwest-after-rachels-remnants-swamped-nevada/"
+      "title": "跨洋氣旋轉化為颱風「諾盧」，成為今年第28個命名風暴",
+      "dek": "日本氣象機構Weathernews報導，一個源自東太平洋颶風的系統於10月4日越過國際換日線，在西太平洋重新編號為颱風諾盧，目前已轉向威克島以東的開放海域，預料將轉化為溫帶氣旋，不致直接威脅台灣、日本本土或菲律賓。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
     },
     {
       "rank": 10,
-      "title": "回顧：颶風賽門巔峰時以155英里風速逼近墨西哥海岸",
-      "dek": "美聯社報導，賽門在科連特斯角一帶達到四級颶風強度，美國國家颶風中心曾警告部分地區雨量恐達30英寸。",
-      "url": "https://www.wect.com/2026/10/11/ferocious-hurricane-simon-nears-mexico-with-155-mph-winds-flooding-fears/"
+      "title": "香港天文台回顧2026年風季：系統數量創紀錄，南海步入短暫平靜期",
+      "dek": "香港天文台部落格指出，截至10月6日，今年西太平洋及南海已出現34個熱帶氣旋，遠超過往同期均值，雖然南海受反氣旋環流影響趨於平靜，但整體西太平洋活動仍然活躍。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     }
   ]
 }
