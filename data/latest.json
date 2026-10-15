@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T21:13:00+08:00",
+  "generated_at": "2026-10-15T22:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布海上或陸上颱風警報；近期僅有東北季風為北部、東部地區帶來降雨與氣溫下降等例行秋季天氣型態，西太平洋暫無系統對台灣構成威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，現行活躍的颶風系統「初莉」與「西蒙」均位於墨西哥太平洋沿岸外海，遠離台灣周邊海域。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響，無任何因颱風而生的風雨警戒或停班停課措施；僅受例行東北季風影響，非颱風系統所致。"
+    "text": "台中目前無直接影響，市區未受任何颱風系統威脅，亦無停班停課資訊；僅需留意專家提及10月18日前後菲律賓以東海面可能生成的新熱帶擾動，但該系統距台灣尚遠且高度不確定。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "東太平洋颶風接力增強　楚蒂直逼今年第九個強颶風　台灣暫無警報",
-    "dek": "在颶風賽門重創墨西哥太平洋沿岸近一週、造成至少六人死亡之際，新生成的颶風楚蒂已迅速增強，美國國家颶風中心預測其未來兩天內可能升級為第三至第四級強烈颶風；相較之下，台灣交通部中央氣象署目前並未發布任何海上或陸上颱風警報。",
-    "url": "https://riotimesonline.com/hurricane-trudy-mexico-manzanillo-puerto-vallarta-2026"
+    "title": "墨西哥外海颶風「初莉」急速增強　預測週末前衝上最高強度等級",
+    "dek": "美聯社與墨西哥國家氣象局（SMN）指出，颶風「西蒙」持續在太平洋岸外徘徊減弱之際，西蒙與熱帶風暴「瑞秋」殘餘環流在墨西哥造成的死亡人數已升至至少6人；台灣本島目前未受任何颱風系統直接威脅，無海上或陸上颱風警報生效。",
+    "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
   },
   "items": [
     {
       "rank": 1,
-      "title": "颶風楚蒂外海增強　美國國家颶風中心示警恐快速升級",
-      "dek": "美國國家颶風中心第8號警報指出，颶風楚蒂已增強為一級颶風，預測未來兩天內可能迅速增強為三至四級強烈颶風，直逼墨西哥西南沿岸。",
-      "url": "https://riotimesonline.com/hurricane-trudy-mexico-manzanillo-puerto-vallarta-2026"
-    },
-    {
-      "rank": 2,
-      "title": "賽門餘威未散、楚蒂新威脅浮現　AccuWeather示警墨西哥雙重夾擊",
-      "dek": "AccuWeather報導，颶風賽門的降雨與洪患影響持續不退，而新生成的楚蒂恐成為本季第九個達四級以上強度的颶風。",
-      "url": "https://www.accuweather.com/en/hurricane/hurricane-simon-impacts-are-lingering-new-threat-brewing-from-trudy-in-mexico/1946224"
-    },
-    {
-      "rank": 3,
-      "title": "颶風賽門減弱為一級　墨西哥媒體稱可能登陸馬薩特蘭惟尚待證實",
-      "dek": "墨西哥媒體N+報導，一度逼近四級強度的賽門已減弱為一級颶風，預計今日可能於錫那羅亞州馬薩特蘭附近登陸，但確切登陸狀況仍未證實。",
-      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/huracan-simon-pacifico-costas-trayectoria-hoy-13-octubre-2026/"
-    },
-    {
-      "rank": 4,
-      "title": "美聯社：賽門與瑞秋殘餘水氣釀洪患　墨西哥死亡人數增至6人",
-      "dek": "美聯社報導，颶風賽門與熱帶風暴瑞秋殘留水氣疊加引發的洪患，已在下加利福尼亞州與格雷羅州造成合計六人死亡。",
-      "url": "https://abcnews.com/International/wireStory/death-toll-rises-6-hurricane-simon-rachel-remnants-137236894"
-    },
-    {
-      "rank": 5,
-      "title": "賽門增強至四級颶風逼近墨西哥　22市鎮撤離停課",
-      "dek": "英國ITV新聞報導，賽門10日於哈利斯科外海快速增強至四級颶風強度，促使墨西哥22個沿海市鎮撤離居民並停課。",
-      "url": "https://www.itv.com/news/2026-10-10/simon-strengthens-into-a-category-4-hurricane-as-it-approaches-mexicos-coast"
-    },
-    {
-      "rank": 6,
-      "title": "半島電視台：賽門移動遲緩疊加風暴瑞秋　墨西哥沿岸已有2人死亡",
-      "dek": "半島電視台報導，颶風賽門以每小時僅約3英里的緩慢速度移動，延長其影響時間，並與熱帶風暴瑞秋殘留水氣共同造成傷亡與撤離行動。",
-      "url": "https://www.aljazeera.com/amp/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast"
-    },
-    {
-      "rank": 7,
-      "title": "美聯社：熱帶風暴楚蒂於太平洋生成　東太平洋颶風季異常活躍再添一例",
-      "dek": "美聯社報導，熱帶風暴楚蒂由阿卡普科東南方的低氣壓發展而成，形成時風速每小時65公里，成為今年異常活躍颶風季的最新一例。",
+      "title": "熱帶風暴「初莉」在太平洋生成",
+      "dek": "美聯社報導，原熱帶低氣壓21-E已在墨西哥太平洋岸外增強為熱帶風暴初莉，預測將持續增強，但登陸地點與時間仍不確定。",
       "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
     },
     {
+      "rank": 2,
+      "title": "21-E生成將成颶風「初莉」　「西蒙」同時威脅錫那羅亞",
+      "dek": "墨西哥國家氣象局確認21-E將發展為初莉，預測本週末前增強為颶風甚至主要颶風，同時西蒙持續逼近錫那羅亞州。",
+      "url": "https://www.excelsior.com.mx/nacional/depresion-tropical-21-e-proximo-huracan-trudy-mexico"
+    },
+    {
+      "rank": 3,
+      "title": "熱帶風暴「初莉」在墨西哥太平洋海域生成",
+      "dek": "墨西哥國家氣象局預測初莉週五前增強為主要颶風並沿海岸平行移動，但多方媒體提醒登陸情形尚待證實。",
+      "url": "https://www.excelsior.com.mx/nacional/tormenta-tropical-trudy-pacifico-mexicano"
+    },
+    {
+      "rank": 4,
+      "title": "颶風「西蒙」週三或以一級強度登陸錫那羅亞　州民防部門發警",
+      "dek": "錫那羅亞州民防部門警告西蒙可能以一級颶風強度登陸馬薩特蘭與聖伊格納西奧附近，但官方強調路徑仍可能改變。",
+      "url": "https://www.unotv.com/estados/sinaloa/huracan-simon-podria-tocar-tierra-en-sinaloa-el-miercoles-y-en-categoria-1-alerta-pc-estatal/"
+    },
+    {
+      "rank": 5,
+      "title": "颶風西蒙與瑞秋殘餘環流在墨西哥引發洪災　死亡人數升至6人",
+      "dek": "美聯社報導，下加利福尼亞州恩塞納達成為重災區，另有多人在聖費利佩附近海域失蹤。",
+      "url": "https://abcnews.com/International/wireStory/death-toll-rises-6-hurricane-simon-rachel-remnants-137236894"
+    },
+    {
+      "rank": 6,
+      "title": "颶風西蒙與風暴瑞秋重擊墨西哥沿岸　已傳兩人死亡",
+      "dek": "半島電視台早期報導指西蒙重創墨西哥太平洋沿岸，造成倒樹、電線杆損毀與住宅進水，死亡人數後續上修。",
+      "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast"
+    },
+    {
+      "rank": 7,
+      "title": "瑞秋殘餘環流重創內華達後　美國西南部瞬時洪水風險持續",
+      "dek": "美聯社報導，瑞秋殘餘水氣在重創下加利福尼亞後北移，於內華達及周邊州份引發瞬時洪水警報。",
+      "url": "https://www.news4jax.com/news/national/2026/10/12/flash-flood-risk-lingers-across-the-southwest-after-rachels-remnants-swamped-nevada/"
+    },
+    {
       "rank": 8,
-      "title": "福斯天氣：東太平洋恐同時出現兩個強颶風　逼近歷史紀錄",
-      "dek": "福斯天氣網報導，若楚蒂如預期快速增強，將成為今年東／中太平洋海域第九個四級以上強度的颶風，創下歷史新高，原因指向強烈厄爾尼諾與破紀錄高海溫。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane"
+      "title": "2026年風季已完結？",
+      "dek": "香港天文台分析指出，截至10月6日西北太平洋與南海今年已生成34個熱帶氣旋，遠高於平均值，但反氣旋環流正壓制新系統生成。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
       "rank": 9,
-      "title": "三颱逼近日本連假後已遠離　小熊預計轉化為溫帶氣旋",
-      "dek": "南韓氣象廳最新資料顯示，原先同時逼近日本的三個颱風系統中，僅存的小熊已移至日本東北方外海，預計48小時內轉變為溫帶氣旋，對台灣無影響。",
-      "url": "https://biz.heraldcorp.com/article/10894596"
+      "title": "今年颱風又多又強！專家揭「5大特徵」：本月中恐有新擾動",
+      "dek": "台灣學者林得恩指出今年颱風數量與強度皆明顯偏高，並提醒10月18日前後菲律賓以東海面可能出現新擾動，惟不確定性仍高。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5600518"
     },
     {
       "rank": 10,
-      "title": "法新社：賽門與熱帶風暴瑞秋夾擊墨西哥沿岸　已釀5人死亡",
-      "dek": "法新社報導，颶風賽門與熱帶風暴瑞秋共同造成的死亡人數當時達五人（後經美聯社更新為六人），錫那羅亞等多州持續洪患，馬薩特蘭海濱步道遭強浪損毀。",
-      "url": "https://kuwaittimes.com/article/51508/world/five-dead-as-hurricane-simon-and-tropical-storm-rachel-lash-mexicos-pacific-coast/"
+      "title": "台風26号、沖縄・奄美に接近　非常に強い勢力、高波警戒",
+      "dek": "熊本日報報導，26號颱風一度以強勁勢力接近沖繩與奄美並引發高浪警戒，該系統與27號颱風均已轉向減弱，日本目前無直接威脅。",
+      "url": "https://kumanichi.com/articles/2040199"
     }
   ]
 }
