@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T23:12:00+08:00",
+  "generated_at": "2026-10-16T00:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，現行活躍的颶風系統「特魯迪」與「賽門」均位於墨西哥太平洋沿岸外海，遠離台灣周邊海域。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；全球主要海域目前亦無活躍颱風或颶風系統直接威脅台灣周邊。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。"
+    "text": "目前並未發現台中有任何與颱風相關的風雨警報或停班停課公告；該市今年最近一次因颱風停班停課，是7月的颱風巴威（Bavi）。"
   },
   "quick_links": [
     {
@@ -22,70 +22,64 @@
     }
   ],
   "headline": {
-    "title": "太平洋颶風「特魯迪」急速增強，西北太平洋颱風季轉趨平靜，台灣暫無威脅",
-    "dek": "墨西哥太平洋沿岸接連遭颶風「賽門」與熱帶風暴「特魯迪」侵襲之際，南海高壓場主導的沉寂態勢仍籠罩台灣與香港周邊海域，中央氣象署目前未發布任何颱風警報。",
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
+    "title": "颱風季罕見喘息：西北太平洋目前無活躍颱風，中央氣象署未發布陸海警報",
+    "dek": "在歷經破紀錄活躍的2026颱風季後，受強烈反氣旋壓制，南海與台灣周邊海域出現少見的平靜期，專家預期這波空窗至少將持續到十月底。",
+    "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴「特魯迪」在東太平洋生成，預測將急速增強",
-      "dek": "美聯社報導，特魯迪於10月13日在阿卡普爾科外海生成，墨西哥氣象部門預期其將在數日內增強為大型颶風。",
-      "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
+      "title": "罕見跨洋轉性：東太平洋颶風諾洛跨越國際換日線變身颱風",
+      "dek": "原本在東太平洋生成的颶風諾洛，跨越國際換日線後被重新編號為今年第28號颱風，日本氣象廳曾觀測到其風速一度達到95節的強烈強度。",
+      "url": "https://www.itv.com/news/2026-10-04/nolo-changes-from-a-hurricane-to-a-typhoon-in-the-pacific"
     },
     {
       "rank": 2,
-      "title": "預報模式顯示特魯迪可能於10月16日達四級颶風強度逼近墨西哥海岸",
-      "dek": "根據10月12日至13日的報導，墨西哥國家氣象局推估特魯迪將於16日前後增強至四級颶風，但強調預測仍有不確定性。",
-      "url": "https://www.nmas.com.mx/estado-de-mexico/clima/huracan-trudy-2026-forma-depresion-tropical-hoy-13-de-octubre-2026-categoria-4-pacifico/"
+      "title": "颶風伊薩亞斯登陸佛州狹長地帶後減弱為後熱帶氣旋",
+      "dek": "今年大西洋首個颶風伊薩亞斯以二級強度登陸佛羅里達州狹長地帶與阿拉巴馬州南部後迅速減弱，美國國家颶風中心隨後針對美國東南部發布豪雨及洪水警示。",
+      "url": "https://www.newcastleherald.com.au/story/9366000/isaias-weakens-to-post-tropical-cyclone-after-landfall/"
     },
     {
       "rank": 3,
-      "title": "颶風「賽門」減弱為二級，逼近馬薩特蘭",
-      "dek": "當地媒體報導，賽門已從四級巔峰減弱為二級颶風，沿岸地區已出現洪澇與海浪侵襲。",
-      "url": "https://www.yucatan.com.mx/mexico/2026/10/12/simon-baja-a-categoria-2-y-avanza-a-mazatlan-trayectoria-en-vivo.html"
+      "title": "後熱帶氣旋伊薩亞斯登陸後持續帶來豪雨洪水威脅",
+      "dek": "美國德州在地氣象人員指出，伊薩亞斯轉為後熱帶氣旋後，其環流仍將為沿岸及內陸地區帶來持續性強降雨與洪水風險。",
+      "url": "https://www.kbtx.com/video/2026/10/10/post-tropical-isaias-update-glimpse-into-next-week-october-10/"
     },
     {
       "rank": 4,
-      "title": "賽門可能以一級颶風強度登陸錫那羅亞，州民防部門發布警戒",
-      "dek": "根據10月12日報導，當地官員警告賽門可能減弱登陸馬薩特蘭與聖伊格納西奧一帶，並可能帶來強降雨。",
-      "url": "https://www.unotv.com/estados/sinaloa/huracan-simon-podria-tocar-tierra-en-sinaloa-el-miercoles-y-en-categoria-1-alerta-pc-estatal/"
+      "title": "香港天文台：今年西北太平洋及南海已生成34個熱帶氣旋，8月創單月紀錄",
+      "dek": "香港天文台統計，截至10月6日，今年已有34個熱帶氣旋影響西北太平洋與南海，遠高於約21個的長期平均，其中8月單月生成12個，打破1961年以來的單月紀錄。",
+      "url": "https://global.hk01.com/天气/60397291/热带气旋-今年34个影响西北太平洋及南海-8月录12个破单月纪录"
     },
     {
       "rank": 5,
-      "title": "颶風賽門與熱帶風暴瑞秋殘餘環流在墨西哥造成死亡人數升至六人",
-      "dek": "美聯社報導，墨西哥當局確認洪水與土石流造成六人死亡，另有五人失蹤。",
-      "url": "https://abcnews.com/International/wireStory/death-toll-rises-6-hurricane-simon-rachel-remnants-137236894"
-    },
-    {
-      "rank": 6,
-      "title": "2026年大西洋颶風季至今尚無颶風生成，為逾百年來罕見現象",
-      "dek": "報導指出，儘管已有八個命名風暴，大西洋盆地截至10月初仍未出現颶風，為衛星觀測時代最晚紀錄。",
-      "url": "https://cbs12.com/newsletter-daily/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
-    },
-    {
-      "rank": 7,
-      "title": "跨洋長程風暴NOLO橫越太平洋，成為今年第28號颱風",
-      "dek": "氣象媒體報導，源自東太平洋颶風的系統跨越國際換日線後重新增強為西北太平洋第28號颱風，預計隨後轉化為溫帶氣旋。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
-    },
-    {
-      "rank": 8,
-      "title": "香港天文台：2026年颱風季是否已趨緩？",
-      "dek": "天文台報告指出，今年西北太平洋已有34個熱帶氣旋生成，但南海上空反氣旋場預期將持續壓制區域生成態勢至10月下旬。",
+      "title": "香港天文台：反氣旋壓制南海，颱風季恐進入延長空窗期",
+      "dek": "香港天文台分析指出，一股籠罩南海至菲律賓一帶的異常反氣旋環流預期將持續至十月底，壓制當地新熱帶氣旋生成，但西北太平洋整體活動仍偏向北轉日本方向。",
       "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     },
     {
-      "rank": 9,
-      "title": "香港天文台：10月剩餘時間香港不易遭颱風直接吹襲",
-      "dek": "天文台評估南海沉寂態勢將持續，香港在本月底前直接遭受颱風衝擊的機率偏低。",
-      "url": "https://www.thestandard.com.hk/news/article/344936/Hong-Kong-unlikely-to-face-direct-typhoon-hit-for-rest-of-October-HKO-says"
+      "rank": 6,
+      "title": "印度洋風季正式起跑，但未來兩週仍不見氣旋蹤影",
+      "dek": "印度氣象機構Skymet Weather指出，孟加拉灣與阿拉伯海目前仍無氣旋跡象，預估今年首個季風後北印度洋氣旋可能延後至十月底或十一月才會形成。",
+      "url": "https://skymetweather.com/content/climate-change/stormy-season-officially-begins-for-indian-seas-no-cyclone-likely-next-two-weeks"
     },
     {
-      "rank": 10,
-      "title": "中央氣象署最近一次颱風警報（第18號颱風、近馬祖）已解除",
-      "dek": "中央氣象署官方資料顯示，最近一次颱風警報發布於8月27日，此後至今未再發布任何颱風警報。",
+      "rank": 7,
+      "title": "中央氣象署今年最近一次警報：颱風沙德爾海上警報，馬祖海域一度受影響",
+      "dek": "中央氣象署今年最近一次發布的颱風警報，是8月27日針對颱風沙德爾在馬祖東北海域發布的海上警報，此後至今未再發布任何陸海颱風警報。",
       "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
+    },
+    {
+      "rank": 8,
+      "title": "Weathernews展望：厄爾尼諾增強推升2026颱風季活躍度，估全年28至29個風暴",
+      "dek": "日本氣象業者Weathernews預估，受可能創紀錄的強勢厄爾尼諾驅動，2026年西北太平洋全年命名風暴數將達28至29個，風險將延續至秋季。",
+      "url": "https://sea.weathernews.com/resources/202609/232"
+    },
+    {
+      "rank": 9,
+      "title": "菲律賓氣象局：厄爾尼諾年底前將增強至「非常強」等級",
+      "dek": "菲律賓氣象局（PAGASA）季節展望指出，厄爾尼諾預期在8至10月增強為「強」等級，並在10至12月進一步升至「非常強」等級，效應可能延續至2027年第一季，並被多個區域氣象機構視為今年熱帶氣旋活動偏多的關鍵因素。",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
     }
   ]
 }
