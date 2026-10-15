@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T01:10:00+08:00",
+  "generated_at": "2026-10-16T02:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；新生成的颱風薔琵仍遠在關島東方海面，預測路徑多偏向北轉，暫未直接威脅台灣，但後續動向仍待觀察。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報；西太平洋熱帶風暴薔琵路徑仍待太平洋高壓強弱決定，暫未直接威脅台灣，但後續動向仍待觀察。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。中央氣象署目前僅預測東北季風減弱、北部東部有短暫降雨（基隆、宜蘭、花東一帶），台中（中部）未被列入目前降雨或風力影響範圍。薔琵颱風仍在關島東方海面，離台灣甚遠，尚無停班停課相關討論或報導。"
+    "text": "目前無直接影響。薔琵目前仍在關島與馬里亞納群島海域增強，中央氣象署尚未針對台灣發布降雨或強風預警，台中（中部）未被列入影響範圍，也無停班停課相關討論或報導。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風薔琵生成直逼關島 專家估下週北轉 台灣暫無直接威脅",
-    "dek": "氣象機構預測薔琵未來一週可能增強為強烈颱風甚至超級颱風，多數路徑顯示將北轉通過台灣以東海面，而與此同時，東太平洋墨西哥沿岸的颶風威脅也同步升溫。",
-    "url": "https://www.cna.com.tw/news/ahel/202610150271.aspx"
+    "title": "熱帶風暴薔琵增強 氣象署稱暫不致影響台灣",
+    "dek": "太平洋兩端風雨交加，颶風楚迪增強逼近墨西哥海岸，西太平洋薔琵路徑未定，中央氣象署籲持續觀察對台影響。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
   },
   "items": [
     {
       "rank": 1,
-      "title": "薔琵颱風生成 中央氣象署估下週增強北轉台灣以東",
-      "dek": "中央氣象署預報員鄭皆仁表示，薔琵路徑取決於太平洋高壓強弱，目前最可能情境為掠過琉球群島後北轉，並於下週增強為強烈颱風。",
-      "url": "https://www.cna.com.tw/news/ahel/202610150271.aspx"
+      "title": "太平洋高壓將左右薔琵路徑",
+      "dek": "中央氣象署表示，太平洋高壓系統的強弱將決定熱帶風暴薔琵是否轉向北方或逼近台灣，目前仍以觀察為主。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
     },
     {
       "rank": 2,
-      "title": "美聯社：薔琵或增強為超級颱風 急轉北上恐衝擊日本而非台灣",
-      "dek": "美聯社報導指出，部分預報模式顯示，距關島約895英里的薔琵有可能增強至超級颱風強度，並急轉北上，影響範圍可能落在日本。",
-      "url": "https://english.dotdotnews.com/a/202610/15/AP6ad093ace4b0ec3ab1656ecd.html"
+      "title": "楚迪襲墨西哥 關島嚴防薔琵",
+      "dek": "報導指出颶風楚迪為墨西哥太平洋岸帶來豪雨，同時關島與馬里亞納群島正準備迎接可能增強至四級的颱風薔琵。",
+      "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
     },
     {
       "rank": 3,
-      "title": "香港天文台：薔琵生成 預估下週初移向呂宋以東海域",
-      "dek": "香港天文台表示薔琵已於西北太平洋生成，預計下週初移至呂宋島以東海域，中國大陸氣象部門則估計其可能於10月18日前後達到超強颱風等級。",
+      "title": "港天文台：薔琵恐趨呂宋以東",
+      "dek": "香港天文台預測薔琵下週初將移向菲律賓呂宋島以東海域，中國大陸預報單位認為其有機會增強為超級颱風。",
       "url": "https://www.dimsumdaily.hk/typhoon-champi-forms-as-hk-observatory-eyes-luzon-track/"
     },
     {
       "rank": 4,
-      "title": "香港天文台評估：薔琵較可能北轉 香港直接受衝擊機率偏低",
-      "dek": "香港氣象當局評估薔琵更可能轉向北方、遠離台灣與香港海域，但強調路徑預測仍可能隨情勢修正。",
-      "url": "https://www.thestandard.com.hk/news/article/345592/HK-unlikely-to-be-hit-as-Typhoon-Champi-gathers-strength"
-    },
-    {
-      "rank": 5,
-      "title": "JTWC：薔琵週末增強逼近關島 當地發布颱風警戒",
-      "dek": "美聯社報導，美軍聯合颱風警報中心預料薔琵將以強烈熱帶風暴或低強度颱風強度，於週六夜間至週日間通過關島與羅塔島之間，當局已發布颱風警戒。",
+      "title": "關島發布颱風觀察 薔琵增強接近",
+      "dek": "報導指出關島已發布颱風觀察，隨著薔琵增強並向關島方向移動，當地預估將出現暴風級風力與5至8英吋降雨。",
       "url": "https://www.thenews.com.pk/latest/1420067-tropical-storm-champi-strengthens-as-it-moves-toward-guam-under-typhoon-watch"
     },
     {
+      "rank": 5,
+      "title": "JTWC資料：薔琵預測恐達超颱等級",
+      "dek": "根據美國聯合颱風警報中心資料，薔琵目前約為熱帶低壓至熱帶風暴強度，但預測路徑顯示未來強度可能攀升至約125節的超級颱風等級。",
+      "url": "https://www.cyclocane.com/champi-storm-tracker/"
+    },
+    {
       "rank": 6,
-      "title": "關島國家氣象局籲居民備戰本週末熱帶風暴威脅",
-      "dek": "關島國家氣象局呼籲當地及北馬里亞納群島居民，為本週末可能來襲的熱帶風暴或低強度颱風條件提前做好準備。",
-      "url": "https://www.islapublic.org/news/2026-10-15/nws-get-ready-for-tropical-storm-or-low-end-typhoon-this-weekend"
+      "title": "NHC公報：颶風楚迪達一級強度",
+      "dek": "美國國家颶風中心最新公報指出，楚迪中心位於阿卡普科西南方約265英里處，最大持續風速每小時90英里，已達一級颶風強度。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCMEP1+html/140847.shtml"
     },
     {
       "rank": 7,
-      "title": "太平洋兩岸風暴齊發 薔琵逼近關島、楚迪瞄準墨西哥",
-      "dek": "福斯天氣報導，薔琵罕見直逼關島之際，東太平洋新生成的熱帶風暴楚迪也可能快速增強，進而威脅墨西哥太平洋沿岸。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane"
+      "title": "NHC：楚迪週末恐增強為主要颶風",
+      "dek": "美國國家颶風中心預報指出，楚迪已升級為颶風等級，並預期在逼近墨西哥西南岸時持續增強為主要颶風。",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCDEP1+html/140254.shtml"
     },
     {
       "rank": 8,
-      "title": "分析：太平洋兩端同步示警 反映熱帶氣旋活動期延續",
-      "dek": "耶魯氣候連線報導指出，墨西哥正承受楚迪帶來的強降雨，同時關島戒備薔琵逼近，顯示今年太平洋兩岸熱帶氣旋活動異常活躍且持續不斷。",
-      "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
-    },
-    {
-      "rank": 9,
-      "title": "墨西哥確認熱帶風暴楚迪生成 美方預測週末前快速增強",
-      "dek": "美聯社報導，墨西哥國家水利委員會證實楚迪已在阿卡普爾科東南方海面生成，美國國家颶風中心預測其將於週末前快速增強為三級以上強烈颶風，逼近墨西哥西南岸。",
+      "title": "熱帶風暴楚迪於太平洋生成",
+      "dek": "報導指出熱帶風暴楚迪在墨西哥太平洋岸外海生成，美國國家颶風中心預期其將增強並可能威脅墨西哥西南部。",
       "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
     },
     {
-      "rank": 10,
-      "title": "颶風西蒙與熱帶風暴瑞秋殘餘釀洪災 墨西哥死亡人數增至6人",
-      "dek": "美聯社報導，颶風西蒙帶來的強降雨與熱帶風暴瑞秋殘餘環流在墨西哥太平洋沿岸引發洪水與坡地災害，死亡人數已增至6人，新風暴楚迪正逼近同一地區。",
+      "rank": 9,
+      "title": "墨西哥水患死亡人數增至6人",
+      "dek": "報導指出颶風Simon與熱帶風暴Rachel殘餘水氣在格雷羅州與下加利福尼亞州引發洪災，已造成至少6人死亡，逾1萬4000人投入搜救。",
       "url": "https://www.ajc.com/news/2026/10/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/"
+    },
+    {
+      "rank": 10,
+      "title": "薔琵逼近 塞班天寧停班停課",
+      "dek": "報導指出薔琵逼近北馬里亞納群島阿納塔漢島，當地政府宣布塞班島與天寧島非必要政府機關與學校暫停上班上課。",
+      "url": "https://saipantribune.com/?p=212467"
     }
   ]
 }
