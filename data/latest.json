@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T15:15:00+08:00",
+  "generated_at": "2026-10-15T16:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；關島東南側一熱帶擾動是否發展為颱風「薔琵」尚未獲得證實，西太平洋目前並無任何確認中的系統逼近台灣。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；最近一次警報為8月27日針對沙德爾颱風發布，迄今未有新警報取代。關島東南側熱帶擾動96W是否發展為颱風「薔琵」尚未獲得證實。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，台中地區未受任何活躍或潛在熱帶氣旋影響，近期並無停班停課或颱風相關警示。"
+    "text": "目前無直接影響，台中地區未受任何活躍或潛在熱帶氣旋影響，近期並無停班停課或颱風相關警示。關島外海擾動96W／薔琵若後續北轉並增強，才可能對包括台中在內的台灣地區造成影響，但目前路徑與時間仍不確定，將持續觀察。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颶風特魯迪急速增強逼近墨西哥　台灣暫無颱風警報",
-    "dek": "美國國家颶風中心表示，熱帶風暴特魯迪迅速增強，預計週五成為強烈颶風，西太平洋關島海域熱帶擾動動向未明，台灣目前未發布颱風警報。",
-    "url": "https://www.upi.com/Top_News/World-News/2026/10/15/mexico-Trudy-storm/1401791940552"
+    "title": "關島外海擾動恐成颱風薔琵　台灣暫無警報",
+    "dek": "中央氣象署尚未發布海上警報，但關島外海熱帶擾動路徑仍不明朗，同時墨西哥西岸颶風肆虐已致六人死亡。",
+    "url": "https://health.tvbs.com.tw/life/366642"
   },
   "items": [
     {
       "rank": 1,
-      "title": "熱帶風暴特魯迪急速增強　NHC估週五成強烈颶風",
-      "dek": "美國國家颶風中心表示，特魯迪持續風速一夜增加25英里至每小時70英里，預計週五前增強為三至四級颶風，逼近墨西哥西南岸。",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/15/mexico-Trudy-storm/1401791940552"
+      "title": "關島外海擾動醞釀　最快本週恐成颱風「薔琵」",
+      "dek": "據TVBS、NowNews等媒體引述台灣颱風論壇分析，熱帶擾動96W北轉時間與地點仍存分歧，是否逼近台灣尚難判斷。",
+      "url": "https://health.tvbs.com.tw/life/366642"
     },
     {
       "rank": 2,
-      "title": "西蒙與瑞秋殘餘水氣致墨西哥洪災死亡人數升至6人",
-      "dek": "ABC News引述美聯社報導，西蒙與熱帶風暴瑞秋殘餘水氣共同造成至少6人死亡，下加利福尼亞州另有5人失蹤。",
-      "url": "https://abcnews.com/International/wireStory/death-toll-rises-6-hurricane-simon-rachel-remnants-137236894"
+      "title": "墨西哥洪災死亡人數增至六人　搜救持續進行",
+      "dek": "美聯社報導，颶風賽門與熱帶風暴瑞秋殘餘水氣在下加利福尼亞州恩森那達一帶引發洪災，另有五人失蹤。",
+      "url": "https://www.ajc.com/news/2026/10/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/"
     },
     {
       "rank": 3,
-      "title": "颶風西蒙重創墨西哥西岸　多州下令撤離",
-      "dek": "美聯社報導，西蒙在哈利斯科外海引發曼薩尼約等地嚴重洪災，墨西哥總統辛鮑姆下令多州撤離並部署近2900名軍人。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/12/hurricane-simon-crawls-along-mexicos-pacific-coast-bringing-floods-and-evacuations"
+      "title": "熱帶風暴特魯迪生成　預料週末增強為颶風",
+      "dek": "美聯社報導，原本的21E熱帶低氣壓已在阿卡普科外海增強為特魯迪，墨西哥太平洋沿岸多州已發布警戒。",
+      "url": "https://abcnews.com/US/wireStory/tropical-storm-trudy-formed-pacific-ocean-137240007"
     },
     {
       "rank": 4,
-      "title": "西蒙減弱至一級　預計逼近錫那羅亞州馬薩特蘭",
-      "dek": "墨西哥媒體N+報導，西蒙強度已從近四級峰值減弱至一至二級，預計10月15日至16日逼近馬薩特蘭附近後迅速減弱。",
-      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/huracan-simon-pacifico-costas-trayectoria-hoy-13-octubre-2026/"
+      "title": "颶風賽門由近四級轉弱為一級　滯留外海持續降雨",
+      "dek": "美聯社報導，賽門一度逼近四級強度，如今減弱並幾乎停滯於哈利斯科外海，持續為納亞里特、錫那羅亞帶來豪雨。",
+      "url": "https://baynews9.com/fl/tampa/ap-online/2026/10/10/simon-strengthens-into-a-category-4-hurricane-as-it-approaches-mexicos-coast"
     },
     {
       "rank": 5,
-      "title": "錫那羅亞州預防性延長七市鎮停課措施",
-      "dek": "N+報導，錫那羅亞州為防範颶風西蒙影響，已預防性延長境內七個南部市鎮的停課安排。",
-      "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/huracan-simon-pacifico-costas-trayectoria-hoy-13-octubre-2026/"
+      "title": "颶風跨越換日線變身颱風　諾魯成今年第28個命名風暴",
+      "dek": "美聯社與日本Weathernews報導，颶風諾魯10月4日越過國際換日線改制為颱風，隨後在關島、威克島一帶轉化為溫帶氣旋。",
+      "url": "https://www.opb.org/article/2026/10/04/nolo-changes-from-a-hurricane-to-a-typhoon-after-crossing-the-international-date-line/"
     },
     {
       "rank": 6,
-      "title": "特魯迪與西蒙互相牽引路徑　登陸地點仍不明",
-      "dek": "FOX Weather報導，特魯迪與西蒙可能出現類似「藤原效應」的相互牽引，使特魯迪最終是否登陸墨西哥仍具高度不確定性。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane"
+      "title": "2026年太平洋颱風季創下近年最活躍紀錄",
+      "dek": "維基百科整理之氣象資料顯示，本季已產生約26個命名風暴、9個颱風，4月侵襲馬里亞納群島的颱風辛樂克以905百帕最強。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     },
     {
       "rank": 7,
-      "title": "特魯迪恐步西蒙後塵逼近墨西哥西岸",
-      "dek": "Eastern Herald報導，特魯迪持續增強逼近墨西哥之際，減弱中的西蒙路徑可能影響其未來走向，增添預測難度。",
-      "url": "https://easternherald.com/2026/10/14/hurricane-simon-trudy-mexico-pacific-forecast/"
+      "title": "氣象署最近一次海上颱風警報為8月27日的沙德爾颱風",
+      "dek": "國家災害防救科技中心示警資料庫顯示，中央氣象署當時發布的沙德爾颱風海上警報，是今年最近一次、迄今未被新警報取代。",
+      "url": "https://alerts.ncdr.nat.gov.tw/Capstorage/CWA/2026/Typhoon_warnings/fifows_typhoon-warning_202608270813.cap"
     },
     {
       "rank": 8,
-      "title": "美墨氣象機構警告特魯迪可能增強為四級颶風",
-      "dek": "Your News報導，美國NHC與墨西哥國家氣象局警告特魯迪本週可能迅速增強至四級，對墨西哥西南至中西部沿岸風雨及暴潮風險上升。",
-      "url": "https://yournews.com/2026/10/14/7225634/tropical-storm-trudy-threatens-mexico-as-forecasters-warn-of-potential/"
+      "title": "回顧：巴威颱風侵台　台中7月10至11日停班停課",
+      "dek": "據聯合報等媒體報導，中央氣象署當時預估山區累積雨量恐達300毫米，台中市自7月10日傍晚起停班停課並延長至翌日全天。",
+      "url": "https://udn.com/news/story/124945/9619759"
     },
     {
       "rank": 9,
-      "title": "厄爾尼諾助長　2026東太平洋颶風季創紀錄",
-      "dek": "FOX Weather報導，受強烈厄爾尼諾現象驅動，2026年東太平洋颶風季氣旋能量累積指數創下歷史新高或接近新高。",
-      "url": "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane"
+      "title": "回顧：海豚颱風掠過台灣北部　全台傳六人受傷",
+      "dek": "卡達半島電視台引述中央社報導，海豚颱風8月上旬自北部近海通過，全台累計受理632起颱風相關災情。",
+      "url": "https://focustaiwan.tw/society/202608050010"
     },
     {
       "rank": 10,
-      "title": "北印度洋孟加拉灣與阿拉伯海持續平靜",
-      "dek": "Skymet Weather報導，北印度洋目前無熱帶氣旋活動，預計至10月23日前皆不會有顯著系統發展，首個季風後氣旋恐延至10月底後才出現。",
-      "url": "https://skymetweather.com/content/climate-change/stormy-season-officially-begins-for-indian-seas-no-cyclone-likely-next-two-weeks"
+      "title": "菲律賓氣象機構迄今未發布十月颱風警報",
+      "dek": "據菲律賓星報等媒體報導，菲律賓大氣地球物理暨天文服務署最近一次風暴通報，仍停留在6月的熱帶風暴Gardo。",
+      "url": "https://www.philstar.com/headlines/2026/06/25/2537666/gardo-enters-par-tonight"
     }
   ]
 }
