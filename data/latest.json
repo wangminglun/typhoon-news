@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T11:10:00+08:00",
+  "generated_at": "2026-10-16T12:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署目前未針對台灣任何海域或陸地發布颱風警報，全台天氣主要受東北季風影響，並無熱帶氣旋逼近。",
+  "alert_desc": "中央氣象署目前未針對台灣任何海域或陸地發布颱風警報，太平洋兩端增強中的錢比與楚迪均未對台灣構成威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前未受任何熱帶氣旋影響，當地氣象條件未達停班停課門檻，市府亦未發布相關公告。"
+    "text": "台中地區目前未受任何颱風系統影響，無風雨增強情形，市府亦未發布停班停課相關公告。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "雙颱共舞太平洋兩岸：熱帶風暴「錢比」轉向直逼關島，颶風「楚迪」在墨西哥外海升級",
-    "dek": "美國國家氣象局與國家颶風中心同步示警兩個熱帶系統增強，而台灣中央氣象署證實國內目前並無任何颱風警報，台中亦未受到影響。",
-    "url": "https://www.islapublic.org/news/2026-10-16/tropical-storm-champi-track-shifts-to-the-south-passing-over-guam"
+    "title": "颱風錢比恐直撲關島 太平洋另一端楚迪增強逼近四級颶風",
+    "dek": "美國關島與馬里亞納群島進入颱風警戒，墨西哥外海的颶風楚迪同步增強，太平洋兩端風暴同時升溫，台灣目前未受影響。",
+    "url": "https://www.postguam.com/news/local/champi-forecast-to-pass-over-or-near-guam-as-category-3-typhoon-sunday/article_55874cf7-5c6f-408e-a294-582124812a75.html"
   },
   "items": [
     {
       "rank": 1,
-      "title": "錢比路徑南修，預測將直接穿越關島",
-      "dek": "美國國家氣象局最新預報顯示，熱帶風暴錢比的行進路線已轉向南方，本週末恐直撲關島而非從北側掠過",
-      "url": "https://www.islapublic.org/news/2026-10-16/tropical-storm-champi-track-shifts-to-the-south-passing-over-guam"
+      "title": "關島拉警報：錢比恐以三級颱風強度週日直撲而來",
+      "dek": "聯合颱風警報中心預測路徑偏移機率極低，關島面臨罕見的正面衝擊風險",
+      "url": "https://www.postguam.com/news/local/champi-forecast-to-pass-over-or-near-guam-as-category-3-typhoon-sunday/article_55874cf7-5c6f-408e-a294-582124812a75.html"
     },
     {
       "rank": 2,
-      "title": "錢比可能增強為颱風，美方發布颱風警戒",
-      "dek": "氣象媒體Weatherboy報導，美國國家氣象局已針對錢比發布颱風警戒，預估其穿越馬里亞納群島時風速可能超過每小時160公里",
-      "url": "https://weatherboy.com/champi-likely-to-strengthen-u-s-issues-typhoon-watch/"
+      "title": "最新預報路徑南移 錢比將直接通過關島本島",
+      "dek": "當地氣象人員密切關注風暴是否會進一步偏向鄰近的羅塔島",
+      "url": "https://www.islapublic.org/news/2026-10-16/tropical-storm-champi-track-shifts-to-the-south-passing-over-guam"
     },
     {
       "rank": 3,
-      "title": "颱風與洪水警戒覆蓋馬里亞納群島，錢比持續逼近",
-      "dek": "追風網站The Watchers指出，關島、羅塔島、天寧島與塞班島均已進入颱風及洪水警戒範圍，強風及強降雨預計自週六深夜展開",
+      "title": "颱風暨豪雨警戒籠罩馬里亞納群島",
+      "dek": "關島、羅塔、天寧與塞班四島同步進入警戒，預估雨量恐達十五至三十公分",
       "url": "https://watchers.news/2026/10/15/typhoon-and-flood-watches-cover-mariana-islands-as-tropical-storm-champi-approaches/"
     },
     {
       "rank": 4,
-      "title": "塞班島商家提前防颱，強風預計週六夜間抵達",
-      "dek": "《馬里亞納綜藝報》報導，塞班島店家借鏡近期颱風經驗，趕在錢比來襲前完成防颱準備",
-      "url": "https://www.mvariety.com/news/local/saipan-businesses-brace-for-champi-damaging-winds-expected-late-saturday/article_0a9b0556-b002-4f24-8480-811870427454.html"
+      "title": "熱帶風暴錢比持續增強 逼近關島東側海域",
+      "dek": "預報員預期錢比在最接近關島時將達到颱風強度",
+      "url": "https://marianaspress.com/news/article/tropical-storm-champi-strengthening-east-of-guam"
     },
     {
       "rank": 5,
-      "title": "颶風楚迪重創墨西哥之際，關島同步防範新一輪颱風",
-      "dek": "耶魯氣候連結網站彙整報導指出，東西太平洋同時出現增強中的熱帶氣旋，分別威脅墨西哥與關島地區",
-      "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
+      "title": "外電關注：錢比增強逼近關島 當地進入颱風警戒",
+      "dek": "國際通訊社轉載報導顯示，關島風暴消息已引起全球媒體關注",
+      "url": "https://www.thenews.com.pk/latest/1420067-tropical-storm-champi-strengthens-as-it-moves-toward-guam-under-typhoon-watch"
     },
     {
       "rank": 6,
-      "title": "楚迪升級為颶風，逼近墨西哥海岸恐成大型風暴",
-      "dek": "《華盛頓郵報》引述美聯社報導，美國國家颶風中心預測楚迪最快本週五即可能增強為大型颶風，逼近墨西哥西南沿岸",
-      "url": "https://www.washingtonpost.com/national/2026/10/15/hurricane-trudy-mexico-pacific/2fffc714-c87f-11f1-aefb-abe4112d087e_story.html"
+      "title": "太平洋兩端風暴並起：錢比瞄準關島、楚迪劍指墨西哥",
+      "dek": "專家指出，若錢比正面侵襲地狹人稠的關島，將是相當罕見的景象",
+      "url": "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane"
     },
     {
       "rank": 7,
-      "title": "熱帶風暴楚迪持續增強，後續發展受關注",
-      "dek": "美國合眾國際社報導，楚迪已成為東太平洋季內第19個被命名的風暴，美國國家颶風中心已就風雨及暴潮風險提出警示",
-      "url": "https://www.upi.com/Top_News/World-News/2026/10/13/mexico-Trudy-storm/1401791940552/"
+      "title": "美國國家颶風中心：楚迪恐於36小時內增強為四級颶風",
+      "dek": "官方預報顯示楚迪將逼近墨西哥科利馬與哈利斯科沿岸，並帶來強降雨",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCDEP1+html/151458.shtml"
     },
     {
       "rank": 8,
-      "title": "颶風賀蒙影響未歇，楚迪威脅在墨西哥醞釀成形",
-      "dek": "氣象機構AccuWeather提出較官方預測更嚴峻的推估，警告楚迪不排除增強至四級颶風，為墨西哥太平洋沿岸帶來新一輪風雨威脅",
+      "title": "西蒙災情未歇 墨西哥再迎颶風楚迪新威脅",
+      "dek": "楚迪已增強為一級颶風，預料將持續增強並進一步逼近墨西哥海岸",
       "url": "https://www.accuweather.com/en/hurricane/hurricane-simon-impacts-are-lingering-new-threat-brewing-from-trudy-in-mexico/1946224"
     },
     {
       "rank": 9,
-      "title": "颶風楚迪籠罩墨西哥太平洋沿岸，嚴重降雨風險升高",
-      "dek": "路透社報導，科利馬州與哈利斯科州預計出現致命暴雨，恐引發洪患與山崩，加劇該地區已受創的災情",
-      "url": "https://www.usnews.com/news/world/articles/2026-10-15/hurricane-trudy-looms-over-mexicos-pacific-coast-severe-rainfall-expected"
+      "title": "西蒙與雷秋爾殘餘水氣釀洪災 墨西哥死亡人數增至6人",
+      "dek": "洪水災情未歇之際，颶風楚迪的逼近讓墨西哥西南沿岸情勢更加險峻",
+      "url": "https://www.ajc.com/news/2026/10/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/"
     },
     {
       "rank": 10,
-      "title": "颶風賀蒙與瑞秋殘餘環流釀洪災，墨西哥死亡人數增至6人",
-      "dek": "《亞特蘭大憲法報》報導，墨西哥太平洋沿岸因近期風暴接連侵襲已造成6人死亡，多集中於下加利福尼亞州恩塞納達一帶，為楚迪來襲前的災情背景",
-      "url": "https://www.ajc.com/news/2026/10/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/"
+      "title": "超級聖嬰效應發威 太平洋今年風暴活動創新高",
+      "dek": "分析指出，錢比與楚迪的同步增強正是今年聖嬰驅動下異常活躍颱風季的縮影",
+      "url": "https://azat.tv/en/super-el-nino-pacific-storm-activity-2026/"
     }
   ]
 }
