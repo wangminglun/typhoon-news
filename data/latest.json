@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T08:12:00+08:00",
+  "generated_at": "2026-10-16T09:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署今年第29號颱風薔琵已於關島東方海面生成，但距台灣仍有數千公里之遙，氣象署目前尚未發布任何海上颱風警報或陸上颱風警報。",
+  "alert_desc": "薔琵颱風持續在關島以東海面增強，中央氣象署尚未對台灣發布任何海上颱風警報或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中地區目前無颱風直接影響；薔琵颱風仍在關島東方海面，距台灣尚遠，氣象署評估至少五至七天內不會接近台灣鄰近海域，台中未見任何風雨或停班停課相關公告。"
+    "text": "台中目前無直接影響，薔琵颱風尚遠在關島以東海面，氣象署亦未發布任何海上或陸上颱風警報。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "薔琵颱風生成 是否牽動台灣路徑仍是未知數",
-    "dek": "中央氣象署今年第29號颱風薔琵在關島東方海面形成，各國預報模式對其是否轉向逼近台灣分歧甚大，氣象署尚未發布任何海上或陸上颱風警報。",
-    "url": "https://cna.com.tw/news/ahel/202610150191.aspx"
+    "title": "薔琵颱風增強逼近關島 轉向台灣仍待觀察",
+    "dek": "關島已發布颱風警戒因應薔琵增強逼近，中央氣象署稱是否轉向台灣，仍待下週四高壓系統動向決定。",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
   },
   "items": [
     {
       "rank": 1,
-      "title": "薔琵颱風生成 對台影響仍待觀察",
-      "dek": "中央氣象署宣布，關島東方熱帶性低氣壓已於10月15日增強為今年第29號颱風薔琵，對台灣的影響程度尚無法判定，氣象署目前未發布海上或陸上警報",
-      "url": "https://cna.com.tw/news/ahel/202610150191.aspx"
+      "title": "氣象署研判薔琵過琉球後北轉 台灣影響仍待觀察",
+      "dek": "中央氣象署指出，薔琵颱風最可能路徑是通過琉球群島後轉向北方，對台影響仍視太平洋高壓強弱而定",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
     },
     {
       "rank": 2,
-      "title": "薔琵路徑曝光 氣象粉專示警恐增強為強颱",
-      "dek": "聯合新聞網報導，天氣分析粉絲專頁指出薔琵生成後預料持續增強，不排除發展為範圍廣、強度高的強烈颱風",
-      "url": "https://udn.com/news/story/7266/9816873"
+      "title": "《台北時報》：薔琵北轉與否 關鍵在太平洋高壓",
+      "dek": "英文媒體轉引氣象署分析，薔琵颱風是否轉向遠離台灣，將取決於高壓脊強弱消長",
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5607812"
     },
     {
       "rank": 3,
-      "title": "薔琵最快明日升中颱 下週現關鍵轉向",
-      "dek": "ETtoday報導，薔琵最快10月17日增強為中度颱風，預報模式顯示下週將出現攸關路徑走向的北轉，確切時間與地點仍不明朗",
-      "url": "https://www.ettoday.net/news/20261016/3255477.htm"
+      "title": "關島、北馬里亞納發布颱風警戒 嚴防薔琵來襲",
+      "dek": "美國國家氣象局關島分台針對薔琵發布颱風與豪雨警戒，預估18日前後將帶來破壞性強風及強降雨",
+      "url": "https://watchers.news/2026/10/15/typhoon-and-flood-watches-cover-mariana-islands-as-tropical-storm-champi-approaches/"
     },
     {
       "rank": 4,
-      "title": "薔琵颱風生成 氣象署公布初步預測路徑",
-      "dek": "中時新聞網報導，氣象署證實薔琵生成消息並公布初步預測路徑，顯示颱風將以西北西方向移動，未來不排除接近琉球群島海域",
-      "url": "https://www.chinatimes.com/realtimenews/20261015003245-260405"
+      "title": "薔琵路徑西修 下週四成觀察北轉關鍵日",
+      "dek": "最新模式顯示薔琵預測路徑略向西修正，逼近台灣機率上升，下週四轉向與否成焦點",
+      "url": "https://www.nownews.com/news/6883540"
     },
     {
       "rank": 5,
-      "title": "日歐預測模式路徑現分歧 薔琵動向添變數",
-      "dek": "NOWnews報導，日本氣象廳與歐洲AI預測模式對薔琵路徑出現分歧，歐洲模式近日路徑明顯偏西修正，增加但未確認薔琵牽動台灣的可能性",
-      "url": "https://www.nownews.com/news/6883676"
+      "title": "AI模式與傳統模式分歧 薔琵最接近台灣時間點浮現",
+      "dek": "物理模式與人工智慧模式預測出現落差，AI模式估北轉較晚，台灣受影響機率因而升高",
+      "url": "https://www.chinatimes.com/realtimenews/20261015003544-260405"
     },
     {
       "rank": 6,
-      "title": "薔琵下週恐北轉 估最接近台灣三天",
-      "dek": "東森新聞報導，預報員點出下週特定三天或為薔琵最接近台灣的時間窗口，實際情形仍取決於太平洋高壓強弱與位置",
-      "url": "https://news.ebc.net.tw/news/living/575913"
+      "title": "美媒：薔琵恐成今年太平洋最強颱風之一",
+      "dek": "《華盛頓郵報》報導，聯合颱風警報中心預測薔琵接近關島期間將快速增強",
+      "url": "https://www.washingtonpost.com/weather/2026/10/15/tropical-depression-champi-could-become-one-this-year-strongest-storms/"
     },
     {
       "rank": 7,
-      "title": "薔琵恐成「又大又強」颱風 模式現大迴轉可能",
-      "dek": "壹蘋新聞網報導，多個預測模式出現分歧，其中包含路徑「大迴轉」的可能情境，專家研判薔琵未來強度不容小覷",
-      "url": "https://news.nextapple.com/life/20261015/96897175E29966CAFEBDDCFF55F95D4F"
+      "title": "香港天文台：薔琵直撲香港機率低",
+      "dek": "香港天文台評估薔琵增強過程中直接侵襲香港機率不高，多數模式估其於台灣東側轉向",
+      "url": "https://www.thestandard.com.hk/news/article/345592/HK-unlikely-to-be-hit-as-Typhoon-Champi-gathers-strength"
     },
     {
       "rank": 8,
-      "title": "強颱Choi-wan曾逼近小笠原群島 現已消散",
-      "dek": "本月稍早侵襲日本小笠原群島海域的第27號颱風Choi-wan，中心氣壓一度低至925百帕，其後轉向東北，已於10月8日前完成溫帶變性，目前已無威脅",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/typhoon-choi-wan-approaches-ogasawara-islands-as-two-new-typhoons-form"
+      "title": "美國氣象局正式發布關島颱風警戒公告",
+      "dek": "關島氣象單位10月16日清晨發布颱風警戒，示警薔琵逼近帶來強風豪雨威脅",
+      "url": "https://www.defconlevel.com/alert/2026-10-15-nws-noaa-weather-typhoon-watch-issued-october-16-at-8-50am-chst-by-nws-tiyan-gu"
     },
     {
       "rank": 9,
-      "title": "跨洋風暴Nolo轉為第28號颱風 已減弱消散",
-      "dek": "Nolo原為東太平洋颶風，9月中旬於墨西哥外海生成，10月4日跨越國際換日線成為西北太平洋第28號颱風，通過威克島附近後持續減弱，目前已不再活躍",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "繼楚迪颶風肆虐墨西哥 關島再迎薔琵考驗",
+      "dek": "氣候媒體報導指出，今年太平洋風季活躍，關島才剛歷經多次風暴侵擾又將面對薔琵",
+      "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
     },
     {
       "rank": 10,
-      "title": "PAGASA季節展望 預估10至12月颱風數偏少",
-      "dek": "菲律賓氣象機構PAGASA最新季節展望指出，10月進入菲律賓責任海域的熱帶氣旋預估僅1至2個，降雨量亦可能低於常年平均，但不排除個別系統仍可能發展為颱風甚至超級颱風",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal%20Outlook_Jul-Dec%202026_OS.pdf"
+      "title": "NASA衛星觀測薔琵生成初期強降雨結構",
+      "dek": "NASA全球降水觀測衛星分析顯示，薔琵在關島以東洋面發展階段已出現明顯強降雨帶",
+      "url": "https://gpm.nasa.gov/extreme-weather/gpm-measures-tropical-storm-champis-heavy-rainfall"
     }
   ]
 }
