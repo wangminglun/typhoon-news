@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T11:14:00+08:00",
+  "generated_at": "2026-10-19T06:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布任何海上或陸上颱風警報；台灣本季較近一次確認的警報事件為7月的颱風「巴威」，該警報已於隔週解除，近期並無新警報紀錄。",
+  "alert_desc": "中央氣象署截至10月18日晚間尚未對台灣發布海上或陸上颱風警報；多家媒體報導指出，氣象署評估海上颱風警報最快可能於本週三（10月21日）晚間發布，陸上警報則可能延至週四晚間或週五，實際時間仍視颱風路徑發展而定。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。沒有任何颱風系統對台中造成風雨衝擊，也未有因風雨引發的停班停課訊息；目前西太平洋活躍的三個熱帶系統均在遠洋海域活動，對台中無直接影響。"
+    "text": "截至目前為止，尚無任何證據顯示台中已受到薔琵颱風的風雨影響，亦無相關停班停課消息；氣象署預估風雨最劇烈的時段與地區均未將台中列為重點影響區域，目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "西北太平洋罕見「三颱共舞」　中央氣象署：台灣目前無颱風警戒",
-    "dek": "颱風小熊在太平洋公海持續增強北上，日本外海一度出現三個熱帶系統同時活躍的局面，但截至10月13日，台灣未發布任何海上或陸上颱風警報，台中亦無風雨影響。",
-    "url": "https://biz.heraldcorp.com/article/10894596"
+    "title": "強颱薔琵持續增強逼近台灣　氣象署：海上警報最快週三發布",
+    "dek": "美、日、中、韓氣象機構均預期薔琵將接近台灣，台灣目前尚未發布任何颱風警報，台中亦無直接影響",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206"
   },
   "items": [
     {
       "rank": 1,
-      "title": "AccuWeather追蹤：「狂颱」小熊風速達每小時120英里，在太平洋公海持續北上",
-      "dek": "AccuWeather即時路徑圖顯示，颱風小熊（本季第29號命名風暴）仍以強烈強度在開闊洋面向北移動，暫未接近任何陸地。",
-      "url": "https://www.accuweather.com/en/hurricane/west-pacific/koguma-2026"
+      "title": "海上颱風警報最快週三發布",
+      "dek": "中央氣象署預估薔琵對台灣最大風雨衝擊落在週五、六，中北部及宜蘭、花蓮將面臨較大降雨。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206"
     },
     {
       "rank": 2,
-      "title": "三颱齊發：彩雲、第28號風暴與小熊於日本連假期間同時活躍",
-      "dek": "南韓《韓國日報》報導，三個熱帶氣旋在日本「體育之日」連假前後同時活躍，但預測均未直接登陸日本本島。",
-      "url": "https://biz.heraldcorp.com/article/10894596"
+      "title": "預測機構提高薔琵襲台可能性",
+      "dek": "JTWC官方路徑顯示23日薔琵將位於台灣南部外海，太平洋高壓強弱成為路徑分歧關鍵。",
+      "url": "https://www.taiwannews.com.tw/news/6460047"
     },
     {
       "rank": 3,
-      "title": "日本氣象新聞：三颱路徑最新動向，27號颱風彩雲引發關東沿岸高浪",
-      "dek": "日本Weathernews報導，彩雲颱風雖未直接登陸且將轉化為溫帶氣旋，仍在關東、東北沿岸掀起大浪，相關海浪警報已於10月7、8日降級。",
-      "url": "https://weathernews.jp/news/202610/070031/"
+      "title": "超級颱風薔琵威脅台灣　香港風險評估低於三成",
+      "dek": "香港天文台估計直接襲港機率不到30%，但中、美、日、韓氣象機構均預期風暴將接近台灣。",
+      "url": "https://www.dimsumdaily.hk/super-typhoon-champi-to-threaten-taiwan-hong-kong-risk-under-30/"
     },
     {
       "rank": 4,
-      "title": "跨太平洋長程風暴升格為第28號颱風",
-      "dek": "Weathernews英文版報導，一個橫越太平洋的長距離系統在威克島附近被升格為第28號颱風，預測將逐漸減弱並轉向東行、完成溫帶變性。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "國際媒體關注薔琵可能於23日逼近台灣、中國沿岸",
+      "dek": "外媒報導薔琵增強為超級颱風，凸顯此次風暴影響範圍已超出台灣，具區域性意義。",
+      "url": "https://dtinews.dantri.com.vn/vietnam-today/super-typhoon-champi-forecast-to-hit-taiwan-china-around-october-23-20261018212130020.htm"
     },
     {
       "rank": 5,
-      "title": "颱風彩雲北北東移經馬里亞納群島，10月4日中午前逼近日本小笠原群島海域",
-      "dek": "馬來西亞《星報》報導，強大的彩雲颱風北北東移動，預計於10月4日正午前抵達小笠原群島附近海域，隨後轉向遠離日本本土。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/03/typhoon-choi-wan-moving-north-northeast-over-marianas-forecast-to-reach-waters-near-japans-ogasawara-islands-by-oct-4-noon"
+      "title": "薔琵掠過關島造成大規模停電後　短暫達超級颱風強度",
+      "dek": "這是自四月以來第三個重創關島的強烈颱風，薔琵目前轉向台灣、琉球群島方向移動。",
+      "url": "https://watchers.news/2026/10/18/champi-briefly-reaches-super-typhoon-strength-after-its-closest-approach-to-guam-causes-widespread-outages/"
     },
     {
       "rank": 6,
-      "title": "颱風蘇德爾重創中國沿海，暴雨成災",
-      "dek": "《星報》引述路透社／法新社報導，蘇德爾颱風在南海二次增強後第三度登陸福建，在閩粵兩省引發致命洪災，逾8.3萬人疏散，中國氣象局稱今年已是第七個登陸中國的颱風。",
-      "url": "https://www.thestar.com.my/aseanplus/2026/09/04/typhoon-saudel-brings-torrential-rain-flooding-to-china039s-coastal-areas"
+      "title": "薔琵增強為強烈颱風　不排除直接通過台灣",
+      "dek": "氣象署評估，海上颱風警報最快可能於本週三發布。",
+      "url": "https://www.setn.com/news/1924183"
     },
     {
       "rank": 7,
-      "title": "回顧：颱風巴威曾致中央氣象署於7月發布海上颱風警報",
-      "dek": "中央社報導，巴威颱風於7月9日促使中央氣象署發布海上颱風警報，為台灣今年較近一次確認的颱風警戒事件，警報已於隔週週日上午解除。",
-      "url": "https://www.cna.com.tw/news/ahel/202607090052.aspx"
+      "title": "薔琵颱風恐直撲台灣　下週五、六最接近",
+      "dek": "氣象署示警，宜蘭、花蓮可能成為風雨衝擊最嚴重的地區，路徑仍待後續模式確認。",
+      "url": "https://www.setn.com/news/1924354"
     },
     {
       "rank": 8,
-      "title": "大西洋今年至今零颶風，創逾百年來最晚紀錄",
-      "dek": "美國佛州媒體CBS12報導，截至10月2日，大西洋海域已有8個命名風暴形成，卻無一增強為颶風，為現代衛星觀測時代以來最晚出現颶風的一年，與反常的厄爾尼諾現象有關。",
-      "url": "https://cbs12.com/news/local/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season"
+      "title": "薔琵持續增強　19日將達第一波強度高峰",
+      "dek": "氣象專頁分析指出，最新模式顯示薔琵逼近並可能襲台的訊號轉強，但路徑仍存不確定性。",
+      "url": "https://udn.com/news/story/7266/9821984"
     },
     {
       "rank": 9,
-      "title": "印度洋風暴季正式展開，氣象機構預測未來兩週無氣旋威脅",
-      "dek": "印度Skymet Weather報導，孟加拉灣與阿拉伯海截至10月初仍無氣旋生成，依其10月9日最新展望，預計未來約兩週內都不會出現顯著擾動。",
-      "url": "https://skymetweather.com/content/climate-change/stormy-season-officially-begins-for-indian-seas-no-cyclone-likely-next-two-weeks"
+      "title": "薔琵暴風半徑恐擴大至280公里",
+      "dek": "中央氣象署評估，海上颱風警報最快週三晚間發布，風暴持續增強中。",
+      "url": "https://www.mnews.tw/story/mm-20261018edi021"
     },
     {
       "rank": 10,
-      "title": "2026年太平洋颱風季概況：活躍度較氣候平均值高出約四成",
-      "dek": "維基百科綜合資料顯示，仍在進行中的2026年太平洋颱風季依「熱帶風暴風險」機構估算，活躍度較1991至2020年氣候平均值高出約40%，迄今已有約26個命名風暴、9個颱風與4個非官方超級颱風，其中以颱風辛樂克十分鐘平均風速每小時215公里為最強。",
-      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
+      "title": "薔琵路徑、強度與對台影響總覽",
+      "dek": "截至18日上午8時，薔琵近中心最大風速約每秒55公尺，預估19日清晨前增強至約60公尺，警報尚未發布。",
+      "url": "https://www.bnext.com.tw/article/92668/champi-typhoon-path-taiwan"
     }
   ]
 }
