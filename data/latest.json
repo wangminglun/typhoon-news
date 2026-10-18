@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T01:10:00+08:00",
+  "generated_at": "2026-10-19T02:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至10月18日尚未發布薔琵颱風的海上或陸上颱風警報；氣象署預估若薔琵移動加快，最快可能於週三（10月21日）晚間發布海上颱風警報，陸上颱風警報則可能於週四或週五（10月22-23日）發布，實際發布時間仍以氣象署最新公告為準。",
+  "alert_desc": "中央氣象署指出，颱風薔琵目前距台仍達約3600公里，路徑走向尚未明朗，截至目前尚未發布海上或陸上颱風警報；未來四天內可能增強為強烈颱風，掠過琉球群島後是否北轉或逼近台灣，仍待觀測資料確認。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，薔琵颱風距台灣仍遠（約在關島以西朝菲律賓方向移動），尚未對台中地區風雨造成影響，亦未有停班停課相關公告；台中市目前天氣正常，請留意氣象署後續警報發布情況。"
+    "text": "目前無直接影響，薔琵颱風距台仍達約3600公里，路徑尚未明朗，現有報導未提及台中受到波及；唯一具體降雨影響預估在下週五（10月23日）前後，將以北部、東部及宜蘭地區為主。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "超強颱風薔琵逼近　海警估週三晚間發布",
-    "dek": "薔琵颱風在關島外海迅速增強為超強颱風，目前朝菲律賓方向移動，氣象署預測其下週可能接近或穿越台灣東部海域，海上颱風警報最快本週三晚間發布。",
-    "url": "https://focustaiwan.tw/society/202610170013"
+    "title": "薔琵增強在望　路徑沖繩外仍未定",
+    "dek": "中央氣象署指出，颱風薔琵未來四天內可能增強為強烈颱風，但掠過琉球群島後是否北轉或逼近台灣，目前仍無法確定。",
+    "url": "https://focustaiwan.tw/society/202610160006"
   },
   "items": [
     {
       "rank": 1,
-      "title": "中央氣象署：薔琵颱風下週可能接近或穿越台灣",
-      "dek": "中央氣象署資料顯示，截至10月17日薔琵颱風中心風速每小時162公里，預計10月22日前後接近台灣東部海域，路徑仍有變數。",
-      "url": "https://focustaiwan.tw/society/202610170013"
+      "title": "薔琵一日內估增強為颱風　氣象署示警",
+      "dek": "中央社／Focus Taiwan報導，中央氣象署指出，位於鵝鑾鼻東南方約3600公里海面的薔琵，預估一日內將增強為颱風等級。",
+      "url": "https://focustaiwan.tw/society/202610160006"
     },
     {
       "rank": 2,
-      "title": "薔琵颱風持續增強　氣象署估最快週三晚間發布海上警報",
-      "dek": "中央社報導，氣象署預報員指出若薔琵移動加快，海上颱風警報最快可能於10月21日晚間發布，陸上警報預估落在週四或週五。",
-      "url": "https://cna.com.tw/news/ahel/202610180141.aspx"
+      "title": "氣象署研判薔琵路徑　後續走向仍有變數",
+      "dek": "中央社／Focus Taiwan進一步報導，中央氣象署的預報討論顯示，薔琵未來路徑的不確定性仍高。",
+      "url": "https://focustaiwan.tw/society/202610160017"
     },
     {
       "rank": 3,
-      "title": "薔琵預估近日強度達高峰　氣象署評估海陸警發布時間",
-      "dek": "聯合新聞網報導，薔琵颱風預計近日強度達到巔峰，並以強烈颱風等級接近台灣，北部與東部地區須提防風雨增強。",
-      "url": "https://udn.com/news/story/7266/9822406"
+      "title": "中央氣象署持續觀測薔琵發展",
+      "dek": "《台北時報》報導，氣象署預估薔琵一日內增強為中度颱風，下週可能達強烈颱風等級，掠過琉球群島後北轉是目前最可能情境。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
     },
     {
       "rank": 4,
-      "title": "薔琵持續逼近　氣象署估陸上警報發布時間　北東需防豪雨",
-      "dek": "中國時報報導，氣象署預估陸上颱風警報發布時間點，並提醒北部及東部地區慎防豪大雨侵襲。",
-      "url": "https://www.chinatimes.com/realtimenews/20261018002377-260405"
+      "title": "輕颱薔琵形成　未來強度上看強颱",
+      "dek": "TVBS報導，薔琵成為今年第29號颱風，氣象署表示發展條件轉佳，未來四天內有機會增強為強烈颱風。",
+      "url": "https://health.tvbs.com.tw/nutrition/366723"
     },
     {
       "rank": 5,
-      "title": "薔琵路徑持續朝台灣逼近　鄭明典示警登陸機率偏高",
-      "dek": "今日新聞報導，薔琵颱風強度快速增強，最新路徑預測顯示路徑朝向台灣，前氣象局長鄭明典提醒登陸機率偏高，籲民眾留意後續修正。",
-      "url": "https://www.nownews.com/news/6884402"
+      "title": "秋老虎發威西半部飆35度　薔琵恐四天內升級強颱",
+      "dek": "TVBS報導，西半部氣溫一度飆至35度，氣象署同時指出薔琵可能在四天內升級為強烈颱風，下週四前後或於琉球以南轉向北行，下週五北部及宜蘭雨勢將增多。",
+      "url": "https://health.tvbs.com.tw/nutrition/366748"
     },
     {
       "rank": 6,
-      "title": "薔琵暴風侵襲機率突破四成　不排除登陸台灣東半部",
-      "dek": "蘋果仁整理氣象署120小時暴風侵襲機率資料顯示，全台12縣市暴風侵襲機率已超過四成，宜花北北基桃等地風險持續升高。",
-      "url": "https://applealmond.com/posts/329258"
+      "title": "薔琵生成路徑特殊　專家示警增強範圍廣",
+      "dek": "HK01報導，香港天文台預估薔琵掠過關島後持續增強，並可能在台灣東側出現近90度轉向，但各電腦模式對路徑判斷分歧。",
+      "url": "https://www.hk01.com/熱爆話題/60399836/有風-颱風薔琵今生成-90度轉彎路徑奇特-專家警告升級強颱範圍大"
     },
     {
       "rank": 7,
-      "title": "菲律賓氣象機構：超強颱風薔琵預計10月20日進入菲律賓責任區",
-      "dek": "Rappler報導，菲律賓大氣地球物理和天文服務管理局將薔琵列為超強颱風，風速每小時185公里，直接登陸菲律賓可能性較低，但呂宋島北端仍可能受影響。",
-      "url": "https://www.rappler.com/philippines/weather/super-typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-18-2026-11am/"
+      "title": "外媒稱薔琵為今年最強颱風　預估掠過菲北台南",
+      "dek": "福斯新聞報導，薔琵被形容為今年以來最強颱風，預估路徑將擦過菲律賓北部與台灣南部。",
+      "url": "https://www.foxnews.com/world/most-powerful-typhoon-of-the-year-to-skirt-northern-philippines-and-southern-taiwan.amp"
     },
     {
       "rank": 8,
-      "title": "薔琵在關島外海迅速增強　單日風速一度逼近240公里",
-      "dek": "The Weather Network報導，薔琵在關島附近迅速增強，以強風及暴雨侵襲關島但未直接登陸，風速一度逼近每小時240公里，後續是否轉向台灣、菲律賓或日本仍不確定。",
-      "url": "https://theweathernetwork.com/en/news/weather/forecasts/typhoon-champi-is-chasing-the-strongest-storm-on-earth"
+      "title": "薔琵今日最接近馬里亞納群島　當地警戒生效",
+      "dek": "《賽班論壇報》報導，薔琵今日以最近距離掠過馬里亞納群島，當地警報持續生效中。",
+      "url": "https://saipantribune.com/?p=212575"
     },
     {
       "rank": 9,
-      "title": "薔琵路徑現階段未指向朝鮮半島　可能逼近沖繩南側海域",
-      "dek": "韓國中央日報報導，薔琵本週中段預計增強並北移至沖繩以南海域，韓國氣象廳目前預測路徑未顯示颱風朝向朝鮮半島，但數日後不確定性仍高。",
-      "url": "https://www.koreajoongangdaily.com/korea/typhoon-champi-heads-toward-okinawa-not-korea-for-now/12924929"
+      "title": "薔琵過境致天寧島供水中斷",
+      "dek": "《賽班論壇報》報導，薔琵過境期間造成天寧島供水系統中斷，當地基礎設施受到影響。",
+      "url": "https://saipantribune.com/?p=212692"
     },
     {
       "rank": 10,
-      "title": "颶風杜迪增強逼近墨西哥海岸　當局預警強降雨",
-      "dek": "美聯社報導，颶風杜迪在東太平洋增強，美國國家颶風中心預測其將成為強烈颶風，並為墨西哥科利馬州與哈利斯科州帶來4至8吋降雨。",
-      "url": "https://www.ajc.com/news/2026/10/trudy-strengthens-to-a-hurricane-as-system-nears-mexicos-coast-with-major-storm-expected/"
+      "title": "美國關島氣象局對薔琵發布颱風警報",
+      "dek": "根據meteoblue轉載美國國家氣象局關島分局（NWS Tiyan）公告，關島、羅塔已列颱風警報，天寧島與塞班島則列熱帶風暴警報及颱風觀察。",
+      "url": "https://www.meteoblue.com/en/weather/warnings/13.47N144.74E5_Pacific%2FGuam"
     }
   ]
 }
