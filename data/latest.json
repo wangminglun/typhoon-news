@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T12:11:00+08:00",
+  "generated_at": "2026-10-19T13:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至19日仍未對強烈颱風薔琵（Champi）發布海上或陸上颱風警報，評估海上警報最快於本週三（21日）夜間發布，陸上警報則可能接續於週四夜間或週五（22、23日）發布，實際時間仍視路徑與強度變化而定。",
+  "alert_desc": "中央氣象署截至19日仍未對強颱薔琵（Champi）發布海上或陸上颱風警報，評估海上警報最快於本週三（21日）夜間至週四（22日）發布，陸上警報則可能隨後發布，實際時間仍視20日（週二）是否轉向而定。",
   "region_watch": {
     "region": "台中",
-    "text": "目前薔琵颱風尚未對台中造成直接影響；中央氣象署已針對台中、台南、屏東發布週一黃色高溫警示（最高溫看攝氏36度），但此為獨立於颱風之外的季節性天氣系統，與薔琵動態無直接關聯。"
+    "text": "薔琵颱風目前對台中無直接風雨影響，當地暫無停班停課公告；因颱風路徑仍未定，氣象署籲持續關注後續發展。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "強颱薔琵逼近台灣　海警最快週三發布",
-    "dek": "陸警估週四夜起，週五週六降雨衝擊全台最明顯",
+    "title": "強颱薔琵持續逼近　週二將現關鍵轉向",
+    "dek": "氣象署稱海上警報最快週三夜間發布，週五、週六風雨最劇",
     "url": "https://focustaiwan.tw/society/202610180011"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：薔琵海上警報最快週三發布",
-      "dek": "預報強調路徑仍不明朗，太平洋高壓動向是關鍵變數。",
+      "title": "薔琵海警最快週三夜間發布",
+      "dek": "氣象署估最劇烈風雨落在週五、週六。",
       "url": "https://focustaiwan.tw/society/202610180011"
     },
     {
       "rank": 2,
-      "title": "薔琵海警估週三　陸警最快週四夜起",
-      "dek": "中北部與宜蘭花蓮週五週六降雨衝擊最大。",
+      "title": "薔琵路徑未定　週二為觀察關鍵",
+      "dek": "距台兩千餘公里，北轉或登陸東部仍待觀察。",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206"
     },
     {
       "rank": 3,
-      "title": "薔琵增強為強烈颱風　最快21日晚發海警",
-      "dek": "中央社報導路徑仍有北轉或直撲台灣兩種可能。",
-      "url": "https://www.cna.com.tw/news/ahel/202610180141.aspx"
+      "title": "薔琵進入菲責任區將增強",
+      "dek": "PAGASA稱其將命名「Rosal」並可能再增強。",
+      "url": "https://www.manilatimes.net/2026/10/19/news/national/champi-to-re-intensify-into-super-typhoon-as-it-enters-par-pagasa/2448318"
     },
     {
       "rank": 4,
-      "title": "薔琵路徑西移　氣象署估週四發陸警",
-      "dek": "新路徑模擬顯示直撲台灣機率上升。",
-      "url": "https://news.tvbs.com.tw/life/4037906"
+      "title": "超級颱風薔琵逼近菲律賓",
+      "dek": "強度持續維持，朝呂宋台灣方向移動。",
+      "url": "https://philstar.com/headlines/weather/2026/10/18/2564080/super-typhoon-champi-keeps-strength-it-moves-closer-ph"
     },
     {
       "rank": 5,
-      "title": "薔琵亂光復節連假　週五週六降雨最明顯",
-      "dek": "氣象署估最快週三發海警，連假首日風雨增強。",
-      "url": "https://udn.com/news/story/7266/9821840"
+      "title": "薔琵一度減弱為颱風等級",
+      "dek": "強度出現起伏，目前仍在菲律賓責任區外。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006329/champi-weakens-into-typhoon-moving-west-northwest-and-still-outside-par/story/"
     },
     {
       "rank": 6,
-      "title": "薔琵估下週五六最靠近　東部恐入風雨圈",
-      "dek": "宜蘭花蓮等地可能遭受最強風雨衝擊。",
-      "url": "https://www.setn.com/news/1924354"
-    },
-    {
-      "rank": 7,
-      "title": "薔琵侵襲機率曝光　花蓮居冠近4成",
-      "dek": "北北基桃宜花等多縣市侵襲機率逾5成。",
-      "url": "https://www.4gtv.tv/article/2026101908000011"
-    },
-    {
-      "rank": 8,
-      "title": "氣象署：薔琵增強　侵台機率上升",
-      "dek": "太平洋高壓脊退縮程度將決定最終路徑。",
+      "title": "氣象署示警薔琵不排除侵台",
+      "dek": "路徑受太平洋高壓牽動，不確定性仍高。",
       "url": "https://focustaiwan.tw/society/202610170013"
     },
     {
+      "rank": 7,
+      "title": "薔琵亂連假　海警週三可能發布",
+      "dek": "氣象署估週五、週六降雨最明顯。",
+      "url": "https://udn.com/news/story/7266/9821840"
+    },
+    {
+      "rank": 8,
+      "title": "宜花北基暴風侵襲率破五成",
+      "dek": "氣象署提醒機率不等於登陸機率。",
+      "url": "https://applealmond.com/posts/329284"
+    },
+    {
       "rank": 9,
-      "title": "中南部週一發布黃色高溫警示",
-      "dek": "台中台南屏東氣溫看36度，與薔琵颱風無關。",
-      "url": "https://focustaiwan.tw/society/202610190005"
+      "title": "薔琵路徑修正朝台灣逼近",
+      "dek": "氣象署曝風雨最劇落在週五、週六。",
+      "url": "https://www.storm.mg/lifestyle/11173568"
     },
     {
       "rank": 10,
-      "title": "國際財經媒體關注薔琵颱風動向",
-      "dek": "預報模型分歧，北轉或逼近台灣仍未定。",
-      "url": "https://www.intellinews.com/taiwan-monitors-tropical-storm-champi-as-typhoon-upgrade-looms-476706/"
+      "title": "關島解除颱風警報但未全解禁",
+      "dek": "薔琵曾襲關島，FEMA已啟動災害援助。",
+      "url": "https://www.mvariety.com/news/local/all-tropical-cyclone-warnings-cancelled-as-champi-moves-away-from-marianas/article_9ff93cdb-ee28-4ba5-8511-1c8ec949093e.html"
     }
   ]
 }
