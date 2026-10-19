@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T14:20:00+08:00",
+  "generated_at": "2026-10-19T15:08:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至十九日下午尚未發布海上或陸上颱風警報，據報導研判海警最快於週三至週四間發布，陸警則可能落在週四晚間至週五。",
+  "alert_desc": "中央氣象署截至十九日下午尚未對薔琵發布海上或陸上颱風警報；據氣象署預報人員表示，海上颱風警報最快可能於週三（21日）晚間發布，但更可能延至週四（22日），陸上警報則須視路徑確定後再議。",
   "region_watch": {
     "region": "台中",
-    "text": "目前尚無資料顯示薔琵將直接影響台中；各方報導聚焦於北北基桃、宜蘭及花東地區，台中未被列入主要受影響區域。"
+    "text": "目前無直接影響。薔琵仍遠在台灣東南方海面，氣象署尚未針對台中發布停班停課相關訊息，各項風雨示警目前集中於北部、宜蘭及花東地區。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "颱風薔琵增強逼近菲律賓　是否轉向襲台仍成謎",
-    "dek": "中央氣象署尚未發布海、陸警報，但國際模型預測分歧未解，週五、週六可能是台灣受影響的關鍵時間窗。",
-    "url": "https://www.rappler.com/philippines/weather/typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-19-2026-11am/"
+    "title": "颱風薔琵持續增強路徑北修　氣象署：登陸台灣東部不排除",
+    "dek": "中央氣象署表示，薔琵結構紮實、強度仍在增強，預測路徑已略向北修正，週五、週六（23、24日）台灣受影響風險最高，但是否登陸東部仍待觀察。",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5610878"
   },
   "items": [
     {
       "rank": 1,
-      "title": "薔琵一度減弱為颱風　PAGASA預測將再增強為超強颱風進入責任區",
-      "dek": "菲律賓氣象機構指出，薔琵週一上午仍在呂宋島以東約一千六百公里海面，預計週二增強並進入菲律賓責任區。",
-      "url": "https://www.rappler.com/philippines/weather/typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-19-2026-11am/"
+      "title": "氣象署修正薔琵路徑北移　示警東部登陸「不排除」",
+      "dek": "中央氣象署表示薔琵逼近巔峰強度且預測路徑略向北修正，週五、週六對台灣威脅最大，登陸東部的可能性未被排除。",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5610878"
     },
     {
       "rank": 2,
-      "title": "超強颱風薔琵預計週二進入菲律賓責任區",
-      "dek": "菲律賓氣象部門預測，風暴在跨入責任區時將恢復超強颱風強度。",
-      "url": "https://www.philstar.com/headlines/2026/10/19/2564144/super-typhoon-enters-par-tuesday"
+      "title": "薔琵最新情勢總整理：路徑、警報時機與停班停課機率",
+      "dek": "綜合報導彙整氣象署對薔琵路徑分歧的研判、海陸警報可能發布時間，以及本週台灣風雨與停班停課的影響評估。",
+      "url": "https://www.nownews.com/news/6884659"
     },
     {
       "rank": 3,
-      "title": "超強颱風「羅莎」預計十月二十日進入菲律賓責任區",
-      "dek": "PAGASA警告，巴丹群島、卡加延與北呂宋地區本週稍晚可能發布三至四級風力警報。",
-      "url": "https://newsinfo.inquirer.net/2326163/supertyphoon-rosal-to-enter-par-oct-20"
+      "title": "薔琵路徑先偏東又轉西　氣象署：海警最快週三晚發布",
+      "dek": "氣象署指出薔琵預測路徑一度偏東後又轉回逼近台灣，海上颱風警報最快週三晚間發布，但週四仍是較可能的時間點。",
+      "url": "https://www.nownews.com/news/6884623"
     },
     {
       "rank": 4,
-      "title": "薔琵進入菲律賓責任區前可能再增強為超強颱風",
-      "dek": "PAGASA預測，風暴進入責任區後將持續行經菲律賓海，朝台灣方向移動。",
-      "url": "https://www.manilatimes.net/2026/10/19/news/national/champi-to-re-intensify-into-super-typhoon-as-it-enters-par-pagasa/2448318"
+      "title": "吳德榮：薔琵逼近巔峰　路徑可能偏向台灣、登陸不排除",
+      "dek": "氣象專家吳德榮分析指出，薔琵逐漸逼近最強階段之際，模式顯示路徑可能偏西逼近台灣，推翻先前北轉遠離的預期。",
+      "url": "https://www.nownews.com/news/6884602"
     },
     {
       "rank": 5,
-      "title": "颱風薔琵強度持穩　持續向西北西移動通過關島以西海域",
-      "dek": "最新定位顯示薔琵已行經關島以西海域，強度評估高於先前減弱報告。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1006372/typhoon-champi-maintains-strength-moves-west-northwestward-over-sea-west-of-guam/story/"
+      "title": "薔琵結構紮實持續增強　氣象署不排除登陸可能",
+      "dek": "中央氣象署指出薔琵核心結構完整且仍在增強，雖然北轉外海仍是主要預測情境，但登陸台灣的可能性並未被排除。",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E7%B5%90%E6%A7%8B%E7%B4%AE%E5%AF%A6%E6%8C%81%E7%BA%8C%E5%A2%9E%E5%BC%B7-%E6%B0%A3%E8%B1%A1%E7%BD%B2%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E7%99%BB%E9%99%B8-031621942.html"
     },
     {
       "rank": 6,
-      "title": "颱風薔琵海上警報最快週三發布",
-      "dek": "中央氣象署尚未發布海上颱風警報，研判最快在週三（十月二十一日）晚間發布。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206"
+      "title": "薔琵會否直撲台灣？日菲預測對減弱時間點看法不一",
+      "dek": "報導比較日本與菲律賓氣象機構對薔琵路徑的最新預測，兩國皆認為薔琵有直接逼近台灣的實質可能，並對減弱時間點判斷不同。",
+      "url": "https://tw.news.yahoo.com/%E6%81%90%E7%9B%B4%E6%92%B2%E5%8F%B0%E7%81%A3-%E6%97%A5%E6%9C%AC-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%9B%9D%E8%96%94%E7%90%B5-%E6%9C%80%E6%96%B0%E9%A0%90%E6%B8%AC%E8%B7%AF%E5%BE%91-%E9%80%99%E6%99%82%E6%81%90%E6%B8%9B%E5%BC%B1-044100358.html"
     },
     {
       "rank": 7,
-      "title": "最快週三晚間發布海警　強颱薔琵最新路徑變化",
-      "dek": "氣象署預報員指出，海警最快週三晚間發布、陸警落在週四至週五，北側與西側路徑仍有不確定性。",
-      "url": "https://udn.com/news/story/7266/9822901"
+      "title": "薔琵可能再增強為超級颱風　週二進PAR將命名「Rosal」",
+      "dek": "菲律賓大氣地球物理與天文服務署最新公報指出薔琵風力已達超級颱風等級，週二進入責任區後更名「Rosal」，呂宋北部等地可能發布3至4級風力警告。",
+      "url": "https://www.philstar.com/headlines/weather/2026/10/19/2564255/champi-may-re-intensify-super-typhoon-enter-par-tuesday"
     },
     {
       "rank": 8,
-      "title": "薔琵最快週四晚間發陸警　暴風圈可能擦邊兩縣市",
-      "dek": "氣象署最新估計將陸上警報時間點推遲至週四晚間，暴風圈範圍可能僅擦邊兩個縣市。",
-      "url": "https://www.ettoday.net/news/20261019/3257097.htm"
+      "title": "超級颱風薔琵週二進入菲律賓責任區　將更名「Rosal」",
+      "dek": "菲律賓氣象機構預測薔琵週二進入責任區後將依當地命名系統更名為「Rosal」，其後路徑預期持續於菲律賓海域活動並逐漸減弱。",
+      "url": "https://newsinfo.inquirer.net/2325875/super-typhoon-champi-to-enter-par-tuesday-to-be-named-rosal"
     },
     {
       "rank": 9,
-      "title": "薔琵颱風持續增強　路徑北修　氣象署估最快週四發海警",
-      "dek": "氣象署今日將預測路徑略向北修正，估計海警最快週四上午發布，陸警則落在週四晚間，強度持續增強中。",
-      "url": "https://news.cts.com.tw/cts/weather/202610/202610193091296.html"
+      "title": "薔琵逼近菲律賓責任區邊緣　週一尚未直接影響菲國",
+      "dek": "PAGASA說明薔琵雖持續接近責任區邊界，但週一當天尚未對菲律賓造成直接影響，降雨最快週二觸及菲國南部。",
+      "url": "https://newsinfo.inquirer.net/2326231/champi-nears-par-but-will-not-affect-ph-directly-on-monday"
     },
     {
       "rank": 10,
-      "title": "薔琵颱風路徑、強度、連假天氣對台影響一次看",
-      "dek": "綜合報導指出週五、週六（十月二十三至二十四日）為對台影響機率最高的時間窗，但模型仍在登陸台灣與北轉沖繩間分歧。",
-      "url": "https://www.bnext.com.tw/article/92668/champi-typhoon-path-taiwan"
+      "title": "薔琵一度減弱為颱風　PAGASA：進入責任區前可能再增強",
+      "dek": "PAGASA公報顯示薔琵一度由超級颱風降級為颱風，但預期強度將維持並可能在週一夜間至週二再度增強為超級颱風。",
+      "url": "https://newsinfo.inquirer.net/2326211/champi-weakens-to-typhoon-but-may-regain-strength-before-entering-par"
     }
   ]
 }
