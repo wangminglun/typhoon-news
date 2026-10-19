@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T04:10:00+08:00",
+  "generated_at": "2026-10-20T05:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至19日資料尚未對薔琵發布海上或陸上颱風警報，海上颱風警報最快可能於本週三（21日）晚間發布，陸上警報則視路徑確認情況於隔日另行評估。",
+  "alert_desc": "中央氣象署表示，薔琵預計於21日至22日間接近琉球群島南方海域後轉向，若路徑持續貼近台灣，不排除發布海上颱風警報；截至目前尚未發布任何一種颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，台中尚未被納入薔琵相關風雨預警或停班停課討論範圍；目前降雨影響預測集中於北台灣與宜蘭地區。"
+    "text": "目前無直接影響，中台灣及台中地區未被列入薔琵直接受影響範圍，也未見任何停班停課相關訊息；外圍環流雨勢預測仍集中於北部、東部及宜蘭地區。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "薔琵颱風增強逼近　北台灣周末轉濕冷",
-    "dek": "氣象署估最快週三發海上颱風警報，北部東北部雨勢增強",
-    "url": "https://www.nownews.com/news/6884005"
+    "title": "颱風薔琵持續增強　北轉路徑未定　台灣是否受影響仍待觀察",
+    "dek": "中央氣象署表示，薔琵預計未來數日內增強、甚至上看強烈颱風等級，但確切北轉時間與位置仍有高度不確定性，將決定台灣受影響的程度。",
+    "url": "https://health.tvbs.com.tw/nutrition/366723"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：薔琵週末估達強颱　廿二日恐北轉",
-      "dek": "東北季風增強，北台灣23日起雨勢增多。",
-      "url": "https://www.nownews.com/news/6884005"
+      "title": "輕颱薔琵生成　氣象署：侵台關鍵在轉向時間點",
+      "dek": "TVBS報導，薔琵未來強度上看強颱，是否侵台視路徑轉向而定。",
+      "url": "https://health.tvbs.com.tw/nutrition/366723"
     },
     {
       "rank": 2,
-      "title": "氣象署最快週三晚發海警　北台灣明偶有雨",
-      "dek": "全台天氣穩定，基隆、東北部局部降雨。",
-      "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E7%A9%A9%E5%AE%9A-%E5%9F%BA%E9%9A%86%E3%80%81%E6%9D%B1%E5%8C%97%E9%83%A8%E5%81%B6%E6%9C%89%E9%9B%A8-%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9C%80%E5%BF%AB21%E6%97%A5%E6%99%9A%E9%96%93%E7%99%BC%E6%B5%B7%E8%AD%A6-101136302.html"
+      "title": "西半部飆近35度　薔琵估4天內增強為強颱",
+      "dek": "TVBS報導，薔琵暫無直接威脅，但外圍環流恐使北部東部雨勢增強。",
+      "url": "https://health.tvbs.com.tw/nutrition/366748"
     },
     {
       "rank": 3,
-      "title": "中央氣象署：薔琵持續增強　路徑待觀察",
-      "dek": "氣象署指薔琵位於鵝鑾鼻東南方約3600公里海面。",
-      "url": "https://focustaiwan.tw/society/202610160017"
-    },
-    {
-      "rank": 4,
-      "title": "薔琵路徑估廿一日近南琉球　廿二日恐轉向",
-      "dek": "北轉幅度將決定颱風是否衝擊台灣。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
-    },
-    {
-      "rank": 5,
-      "title": "日氣象廳曝薔琵最新路徑　菲律賓估將減弱",
-      "dek": "國際預測模式分歧，能否直撲台灣仍待觀察。",
-      "url": "https://www.ettoday.net/news/20261019/3257140.htm"
-    },
-    {
-      "rank": 6,
-      "title": "AI模式路徑西修　薔琵逼近台灣機率上升",
-      "dek": "沖繩以南海域後路徑分歧仍大，專家持續觀察。",
-      "url": "https://www.bnext.com.tw/article/92668/champi-typhoon-path-taiwan"
-    },
-    {
-      "rank": 7,
-      "title": "今年第廿九號颱風薔琵生成　日本列第卅號",
-      "dek": "台日編號出現落差，源於今年8月一個颱風。",
-      "url": "https://www.nownews.com/news/6883743"
-    },
-    {
-      "rank": 8,
-      "title": "薔琵颱風生成　今年恐創13年來最多颱風紀錄",
-      "dek": "日本今年第30颱，追平2013年以來最高紀錄。",
+      "title": "吳德榮：薔琵恐達強颱等級　各國模式路徑分歧仍大",
+      "dek": "氣象專家吳德榮指出，各國數值模式對薔琵路徑預測差異懸殊。",
       "url": "https://www.mirrormedia.mg/external/setn_1922762"
     },
     {
-      "rank": 9,
-      "title": "薔琵估週三增強至最強等級　暫朝沖繩非韓國",
-      "dek": "南韓氣象單位：目前路徑未直接威脅朝鮮半島。",
+      "rank": 4,
+      "title": "香港天文台：薔琵路徑奇特多變　專家警告暴風圈範圍大",
+      "dek": "香港天文台預測薔琵將持續增強，暴風圈範圍可能異常偏大。",
+      "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399836/%E6%89%93%E9%A2%A8-%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E7%94%9F%E6%88%90-%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E6%BC%B8%E5%A2%9E%E5%BC%B7-%E5%A5%87%E7%89%B9%E8%B7%AF%E5%BE%91-%E5%B0%88%E5%AE%B6%E8%AD%A6%E5%91%8A%E7%AF%84%E5%9C%8D%E5%A4%A7"
+    },
+    {
+      "rank": 5,
+      "title": "薔琵增強逼近　香港天文台：香港受影響機率偏低",
+      "dek": "香港天文台機率預測顯示，薔琵影響香港的機率最高僅約一成。",
+      "url": "https://www.thestandard.com.hk/news/article/345592/HK-unlikely-to-be-hit-as-Typhoon-Champi-gathers-strength"
+    },
+    {
+      "rank": 6,
+      "title": "韓國氣象廳：薔琵暫向沖繩移動　不致侵襲南韓",
+      "dek": "韓國氣象廳表示，薔琵路徑暫未指向朝鮮半島，估朝沖繩方向前進。",
       "url": "https://www.koreajoongangdaily.com/korea/typhoon-champi-heads-toward-okinawa-not-korea-for-now/12924929"
     },
     {
+      "rank": 7,
+      "title": "中央氣象署：薔琵恐24小時內轉為颱風　對台影響仍不明朗",
+      "dek": "氣象署表示，薔琵可能很快增強為颱風，但是否侵台仍待觀察。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
+    },
+    {
+      "rank": 8,
+      "title": "氣象署：薔琵北轉時間點　將決定台灣受影響程度",
+      "dek": "氣象署指出，薔琵在琉球群島附近的北轉時機是影響台灣的關鍵。",
+      "url": "https://focustaiwan.tw/society/202610160017"
+    },
+    {
+      "rank": 9,
+      "title": "氣象署簡報：薔琵增強趨勢明確　後續路徑仍待觀察",
+      "dek": "氣象署16日簡報說明薔琵增強前景，琉球以北路徑仍有不確定性。",
+      "url": "https://focustaiwan.tw/society/202610160006"
+    },
+    {
       "rank": 10,
-      "title": "薔琵增強　香港天文台估不易侵襲香港",
-      "dek": "預測路徑較可能北轉通過台灣東方海域。",
-      "url": "https://www.thestandard.com.hk/news/article/345592/HK-unlikely-to-be-hit-as-Typhoon-Champi-gathers-strength"
+      "title": "日本編號「第30號颱風」　薔琵提前出現暴風圈",
+      "dek": "日本氣象廳示警，薔琵增強速度快於預期，籲留意對日本影響。",
+      "url": "https://weathernews.jp/news/202610/160231/"
     }
   ]
 }
