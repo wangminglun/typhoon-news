@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T07:12:00+08:00",
+  "generated_at": "2026-10-20T08:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前尚未對台灣發布任何海上或陸上颱風警報；研判薔琵最快可能於週三（10月21日）夜間發布海上颱風警報，陸上颱風警報或接續在週四夜間至週五之間發布。",
+  "alert_desc": "中央氣象署截至目前尚未發布海上或陸上颱風警報，但表示海上颱風警報最快可能於週三（10月21日）夜間發布，請北部及東北部地區持續關注後續發布時機。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，中央氣象署尚未對台中地區發布任何風雨衝擊預警，也未見停班停課相關訊息；官方預估薔琵最強風雨時段落在週五至週六（10月23至24日），中北部及宜花首當其衝，台中後續是否受影響仍待觀察。"
+    "text": "目前無直接影響，薔琵外圍環流及東北季風增強的風雨風險集中於北部與東北部地區，台中尚未傳出相關停班停課或風雨警戒消息。"
   },
   "quick_links": [
     {
@@ -22,70 +22,70 @@
     }
   ],
   "headline": {
-    "title": "薔琵逼近台灣　週三夜可能發海警",
-    "dek": "中央氣象署估最強風雨落在週五六，衝擊中北部及宜花",
-    "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206"
+    "title": "強颱薔琵逼近　北台灣拉警戒",
+    "dek": "海警估週三夜發布　雙北基宜風險超五成",
+    "url": "https://news.nextapple.com/life/20261020/F15C7B6C6422C07AEBEC518868EEB5D9"
   },
   "items": [
     {
       "rank": 1,
-      "title": "氣象署：海警週三夜不排除",
-      "dek": "氣象署估海警最快週三夜發布，陸警或接續週四夜至週五。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206"
+      "title": "雙北等六縣市破五成",
+      "dek": "基隆宜蘭侵襲機率最高",
+      "url": "https://news.nextapple.com/life/20261020/607BD9E1F23B31FEAA4A014AEEEC0E06"
     },
     {
       "rank": 2,
-      "title": "氣象署：海警週三夜可能發布",
-      "dek": "中央社報導模式分歧，薔琵是否登陸東部仍未定。",
-      "url": "https://focustaiwan.tw/society/202610180011"
+      "title": "海警估週三夜發布",
+      "dek": "氣象署估這兩天雨勢最大",
+      "url": "https://news.nextapple.com/life/20261020/F15C7B6C6422C07AEBEC518868EEB5D9"
     },
     {
       "rank": 3,
-      "title": "天氣：雲散天晴　高溫警示",
-      "dek": "薔琵逼近前，台灣各地雲散天晴，局部地區發高溫警示。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866240"
+      "title": "薔琵再增強為超強颱",
+      "dek": "菲律賓估直接登陸機率低",
+      "url": "https://bworldonline.com/the-nation/2026/10/19/787882/champi-re-intensifies-as-super-typhoon/"
     },
     {
       "rank": 4,
-      "title": "氣象署：薔琵下週或侵台",
-      "dek": "模式分歧，最大風雨估週五六襲中北部、宜花。",
-      "url": "https://focustaiwan.tw/society/202610170013"
+      "title": "菲媒證實薔琵增強",
+      "dek": "當地名「Rosal」持續觀察",
+      "url": "https://www.manilatimes.net/2026/10/19/news/national/champi-re-intensifies-into-super-typhoon/2448726"
     },
     {
       "rank": 5,
-      "title": "薔琵本週稍晚恐帶豪雨",
-      "dek": "各國預測強度不一，豪雨時程與氣象署看法一致。",
-      "url": "https://www.taiwannews.com.tw/news/6460356"
+      "title": "太平洋高壓左右路徑",
+      "dek": "氣象署：北轉琉球機率較高",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048"
     },
     {
       "rank": 6,
-      "title": "韓媒：薔琵北轉沖繩非韓國",
-      "dek": "韓國氣象廳估週中薔琵北上沖繩南側海域，暫無威脅朝鮮半島。",
-      "url": "https://www.koreajoongangdaily.com/korea/typhoon-champi-heads-toward-okinawa-not-korea-for-now/12924929"
+      "title": "薔琵24小時內增強",
+      "dek": "距鵬鼻約3600公里仍不確定",
+      "url": "https://focustaiwan.tw/society/202610160017"
     },
     {
       "rank": 7,
-      "title": "越媒：薔琵朝台灣逼近",
-      "dek": "越南氣象專家估進入東海機率低，週三前後略為減弱。",
-      "url": "https://vietnamnet.vn/en/super-typhoon-champi-heads-toward-taiwan-with-low-chance-of-entering-east-sea-2566339.html"
+      "title": "香港研判不受直接衝擊",
+      "dek": "模式估轉向台灣東側北上",
+      "url": "https://www.thestandard.com.hk/news/article/345592/HK-unlikely-to-be-hit-as-Typhoon-Champi-gathers-strength"
     },
     {
       "rank": 8,
-      "title": "泰媒：薔琵朝台移動　泰國無虞",
-      "dek": "泰國媒體報導薔琵路徑指向台灣，目前未威脅泰國。",
-      "url": "https://www.nationthailand.com/news/general/40072466"
+      "title": "薔琵朝沖繩方向前進",
+      "dek": "韓方估暫不影響朝鮮半島",
+      "url": "https://www.koreajoongangdaily.com/korea/typhoon-champi-heads-toward-okinawa-not-korea-for-now/12924929"
     },
     {
       "rank": 9,
-      "title": "關島三個月內第三度受颱襲",
-      "dek": "美國國家氣象局估薔琵週日以二級颱風強度掠過，洪患風險高。",
-      "url": "https://www.fox17online.com/weather/guam-faces-third-powerful-typhoon-in-months-as-champi-approaches"
+      "title": "日本示警路徑不確定",
+      "dek": "第30號颱風急速發展中",
+      "url": "https://weathernews.jp/news/202610/170051/"
     },
     {
       "rank": 10,
-      "title": "塞班電杆倒塌　全島停電",
-      "dek": "薔琵吹倒九根電杆，天寧島水源中斷、學校停課。",
-      "url": "https://saipantribune.com/?p=212668"
+      "title": "薔琵生成恐成強颱",
+      "dek": "北轉位置成台灣關鍵變數",
+      "url": "https://www.hsnews.com.tw/lifestyle-and-community/tai-feng-qiang-pi-sheng-cheng-yu-gu-jiang-cheng-da-xing-qiang-tai-na-li-bei-zhuan-cheng-guan-jian.html"
     }
   ]
 }
