@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T14:11:00+08:00",
+  "generated_at": "2026-10-25T15:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署陸上颱風警報已於10月24日下午2時30分解除，海上颱風警報則於同日晚間約8時30分跟進解除，台灣目前無任何颱風警報生效中；薔琵持續減弱並轉往中國大陸沿海，氣象機構尚未觀測到西北太平洋有新的熱帶系統正在形成。",
+  "alert_desc": "薔琵颱風已降級為熱帶風暴並持續遠離台灣，中央氣象署先前發布的海上及陸上颱風警報已依序解除，台灣目前無任何颱風警報生效中；西北太平洋目前尚無新的熱帶系統形成。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。薔琵颱風逼近期間，停班停課地區集中於北部、東北部及東部，台中並未列入其中，風暴目前已減弱轉向中國大陸，亦無報導顯示台中受此次颱風直接影響。"
+    "text": "目前無直接影響。薔琵颱風並未直接登陸台灣，目前已持續減弱並遠離，各方報導均未顯示台中地區出現風雨加劇或停班停課等直接影響。"
   },
   "quick_links": [
     {
@@ -22,77 +22,76 @@
     }
   ],
   "headline": {
-    "title": "薔琵減弱為熱帶風暴轉往中國大陸 台灣傷亡人數上修至616人，搶修仍在進行",
-    "dek": "中央社等官方統計顯示，受傷人數已由先前通報的約500人上修至616人，農業損失估達420萬美元；儘管陸、海颱風警報均已解除，仍有約5.6萬戶家庭等待恢復供電。",
-    "url": "https://www.scmp.com/video/asia/3372050/one-dead-more-600-injured-typhoon-champi-taiwan"
+    "title": "颱風薔琵減弱為熱帶風暴 轉向朝鮮海峽逼近 台灣警報已解除",
+    "dek": "今年全球最強颱風薔琵在掠過台灣、日本南部島嶼後持續減弱，目前已降級為熱帶風暴並逼近中國東部沿岸，預報顯示其將繼續北移、轉弱，西北太平洋目前尚無新生熱帶氣旋。",
+    "url": "https://www.cbsnews.com/news/typhoon-that-pounded-china-weakens-into-tropical-storm/"
   },
   "headline_body": [
-    "超強颱風薔琵掠過台灣、沖繩後持續減弱，週日（25日）已降級為熱帶風暴，轉向中國大陸東南沿海移動，而台灣多個地區仍在進行颱風過後的搶修工作。根據香港《南華早報》報導，這場風暴已造成一人死亡、616人受傷，並使農業損失估計達420萬美元，傷亡與損失數字均高於風暴登陸初期的通報。",
-    "中央氣象署已依序解除陸上與海上颱風警報，陸上警報於10月24日下午2時30分解除，海上警報則於同日晚間約8時30分跟進解除，目前全台並無任何颱風警報生效中。儘管如此，據《馬尼拉時報》（Manila Times）引述法新社報導，截至25日，全台仍有約5.6萬戶家庭未恢復供電，風浪在台灣周邊海域依然強勁，即便風暴主要威脅已經過去。另據《Dawn》轉引的法新社報導，原先受影響的約34萬戶家庭中，已有逾九成恢復供電。",
-    "薔琵逼近台灣期間造成的衝擊相當顯著。《馬尼拉時報》報導，一名男子在屏東外海遭強浪捲走罹難，當時全台約28萬戶家庭一度停電，週六上午已恢復約八成；同份報導並指出，受衝擊地區一度近乎全面停班停課。航空方面，據Aerocorner報導，日本航空、全日空與中華航空均大幅取消往返沖繩與台灣的航班，影響範圍遍及那霸等九座離島機場，原定在沖繩周邊進行的美日「利劍」聯合軍演部分項目亦因而取消。",
-    "薔琵逼近台灣之前，中國大陸東南沿海已提前展開防災部署。據《南華早報》報導，浙江省著手疏散脆弱地區居民並停駛36條客運航線，福建省則要求漁船返港避風，中國國家氣象中心並發布今年內最高層級為「藍色」的颱風預警，涵蓋上海、廈門及福建、浙江兩省。",
-    "目前薔琵持續減弱北移，台灣整體狀況已從警戒轉為災後復原階段。"
+    "颱風薔琵——今年以來強度最高的熱帶氣旋，巔峰時風速一度逼近每小時290至298公里、接近五級颱風強度——在掠過台灣外海與日本南部島嶼後持續減弱。美國聯合颱風警報中心（JTWC）與中國國家氣象中心於10月24日相繼將其降級為熱帶風暴，當時中心風速約每小時102至126公里，系統正逼近中國上海、浙江一帶沿岸。",
+    "根據中央社此前的預報訊息，以及CBS新聞、《南華早報》與土耳其安納多魯新聞網（A News）10月24日的最新報導，薔琵目前已明顯遠離台灣，持續朝中國東部沿海移動，並預期進一步轉向朝鮮海峽與濟州島方向，最終趨向日本九州地區，強度將持續減弱。中央氣象署此前的預報（10月20日至22日）已指出，隨著薔琵遠離台灣轉向日本，海上與陸上颱風警報預期將於週末解除；目前多方外電報導所描述的風暴位置，與警報已經解除的研判一致，惟因本次未能直接讀取中央氣象署官網頁面，此判斷係根據多方外電報導交叉比對而來。",
+    "薔琵雖未直接登陸台灣，但其外圍環流帶來的強風豪雨仍造成人員傷亡與各地停班停課，惟不同來源統計數字存在明顯差異，尚無統一定論。香港《點心日報》報導稱，台灣累計1人死亡、527人受傷，全台一度有13個縣市宣布停班停課；而安納多魯通訊社則報導指出，台灣死亡人數至少達3人、142人受傷；另有CBS新聞芝加哥分台的廣播報導引述區域合計數字，稱台灣與菲律賓兩地合計約有二十餘人死亡，但此數字涵蓋範圍較廣，並非台灣單一統計。台灣電力公司相關統計顯示，一度有逾27.7萬戶家庭停電。",
+    "中國方面，《南華早報》報導上海、浙江沿岸已撤離數萬居民，多家航空公司取消航班，但美聯社（經Fox News轉載）報導指出，截至目前中國大陸尚無人員傷亡報告。截至本次彙整，西北太平洋尚無新的熱帶氣旋在薔琵之後形成。隨著薔琵持續北移減弱，後續關注焦點將轉向中國沿岸的災後復原，以及韓國、日本九州可能受到的較弱外圍影響。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "薔琵搶修未竟 全台仍有5.6萬戶停電",
-      "dek": "法新社報導經《馬尼拉時報》轉載，颱風薔琵影響的風浪仍強，儘管風暴主要威脅已經過去，全台仍有約5.6萬戶家庭等待恢復供電。",
-      "url": "https://www.manilatimes.net/2026/10/25/world/asia-oceania/typhoon-cuts-off-power-to-parts-of-taiwan/2453262"
+      "title": "颱風薔琵重創中國沿海後減弱為熱帶風暴",
+      "dek": "美國CBS新聞報導，薔琵在侵襲台灣與日本南部島嶼後已減弱為熱帶風暴，持續沿中國東部海岸北移。",
+      "url": "https://www.cbsnews.com/news/typhoon-that-pounded-china-weakens-into-tropical-storm/"
     },
     {
       "rank": 2,
-      "title": "薔琵傷亡數字上修 616人受傷農損逾420萬美元",
-      "dek": "《南華早報》報導，中央社最新統計顯示颱風薔琵造成一死616傷，農業損失估達420萬美元，較初期通報數字明顯增加。",
-      "url": "https://www.scmp.com/video/asia/3372050/one-dead-more-600-injured-typhoon-champi-taiwan"
+      "title": "薔琵侵襲中國東部 上海浙江撤離數萬人並取消航班",
+      "dek": "香港《南華早報》報導，中國當局在上海、浙江沿海撤離數萬居民並取消多個航班，以應對薔琵外圍環流帶來的強風豪雨。",
+      "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china"
     },
     {
       "rank": 3,
-      "title": "薔琵減弱為熱帶風暴 轉向中國大陸逼近",
-      "dek": "法新社報導，薔琵在重創台灣與日本沖繩後已降級為熱帶風暴並轉往中國大陸方向移動，原受影響的34萬戶家庭已有逾九成恢復供電。",
-      "url": "https://www.dawn.com/news/2039482/tropical-storm-champi-nears-china-after-battering-taiwan-japan"
+      "title": "熱帶風暴薔琵侵台、侵日後逼近中國",
+      "dek": "土耳其安納多魯新聞網（A News）綜合報導指出，薔琵在重創台灣與日本後已降級為熱帶風暴，持續朝中國沿岸逼近。",
+      "url": "https://www.anews.com.tr/asia/2026/10/24/tropical-storm-champi-nears-china-after-battering-taiwan-japan"
     },
     {
       "rank": 4,
-      "title": "薔琵一度造成台灣數萬戶停電",
-      "dek": "報導指出，薔琵颱風中心掠過台灣東側時，強風豪雨一度造成數萬戶停電，當局持續動員搶修人力。",
-      "url": "https://macaubusiness.com/typhoon-champi-knocks-out-power-to-thousands-in-taiwan/"
+      "title": "薔琵減弱轉向朝鮮半島 中國暫無人員傷亡報告",
+      "dek": "美聯社報導，薔琵持續減弱並朝朝鮮半島移動，儘管中國沿海已展開撤離且交通一度中斷，但目前尚無人員傷亡報告。",
+      "url": "https://www.foxnews.com/world/typhoon-weakens-into-storms-as-it-approaches-koreas-no-casualties-in-china"
     },
     {
       "rank": 5,
-      "title": "薔琵釀一死 屏東外海男子遭浪捲走",
-      "dek": "《馬尼拉時報》報導，一名男子在屏東外海遭強浪捲走罹難，是薔琵颱風造成的首起死亡案例，當時全台約28萬戶一度停電。",
-      "url": "https://www.manilatimes.net/2026/10/24/world/1-dead-as-champi-lashes-taiwan/2453161"
+      "title": "安納多魯通訊社：颱風侵台已致至少3死142傷",
+      "dek": "土耳其安納多魯通訊社（AA）報導，薔琵雖未直接登陸台灣，但其風雨與土石流效應已造成至少3人死亡、142人受傷。",
+      "url": "https://aa.com.tr/en/asia-pacific/at-least-3-dead-142-injured-after-typhoon-hits-taiwan/604126"
     },
     {
       "rank": 6,
-      "title": "薔琵逼近 台灣一度近乎全面停班停課",
-      "dek": "《馬尼拉時報》報導，薔琵逼近期間，台灣多個縣市宣布停班停課，商家與公共場所大規模暫停營運以應對強風豪雨。",
-      "url": "https://www.manilatimes.net/2026/10/24/world/asia-oceania/taiwan-shuts-down-as-typhoon-champi-approaches/2452811"
+      "title": "點心日報：薔琵致台灣1死527傷 13縣市曾停班停課",
+      "dek": "香港《點心日報》報導，薔琵影響期間台灣累計1人死亡、527人受傷，全台13個縣市一度宣布停班停課。",
+      "url": "https://dimsumdaily.hk/champi-leaves-one-dead-and-527-injured-as-13-taiwan-counties-suspend-work-and-classes"
     },
     {
       "rank": 7,
-      "title": "薔琵衝擊沖繩航班 日台多家航空取消班次",
-      "dek": "Aerocorner報導，日本航空、全日空與中華航空因薔琵取消大量沖繩與台灣間航班，美日「利劍」聯合軍演部分項目亦受影響而取消。",
-      "url": "https://aerocorner.com/news/typhoon-champi-okinawa-taiwan-flight-cancellations-jal-ana/"
+      "title": "CBS報導：台灣、菲律賓合計近二十餘人罹難",
+      "dek": "CBS新聞芝加哥分台廣播報導引述區域合計數字，指薔琵橫掃台灣與菲律賓期間兩地合計約有二十餘人死亡，此數字涵蓋範圍較廣，與台灣官方統計不同。",
+      "url": "https://www.cbsnews.com/chicago/video/around-2-dozen-people-have-died-as-a-major-typhoon-rolls-over-taiwan-philippines"
     },
     {
       "rank": 8,
-      "title": "中國大陸東南沿海薔琵逼近前超前部署",
-      "dek": "《南華早報》報導，浙江展開疏散並停駛36條客運航線，福建要求漁船返港，中國氣象部門發布藍色颱風預警。",
-      "url": "https://scmp.com/news/china/politics/article/3371627/strongest-storm-year-barrels-towards-taiwan-and-mainland-china"
+      "title": "回顧：超級颱風薔琵避開台灣正面登陸 仍為日菲帶來強降雨",
+      "dek": "阿聯《海灣時報》先前報導指出，薔琵雖未直接登陸台灣，但仍為台灣帶來豪雨，並影響日本沖繩與菲律賓北部。",
+      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
     },
     {
       "rank": 9,
-      "title": "薔琵肆虐 台灣數萬戶一度停電",
-      "dek": "阿拉伯衛星電視台英語網報導，薔琵颱風中心掠過台灣東側時，強風豪雨一度造成約5.6萬戶停電，氣象署警告風浪仍具危險性。",
-      "url": "https://english.alarabiya.net/amp/News/world/2026/10/24/typhoon-champi-knocks-out-power-to-thousands-in-taiwan"
+      "title": "回顧：薔琵巔峰曾達五級強度 預測路徑轉向濟州",
+      "dek": "韓國《中央日報》英文版先前報導，薔琵在巔峰時達到接近五級颱風強度，預測路徑將經過濟州島後朝九州方向移動，目前強度已大幅減弱。",
+      "url": "https://www.koreajoongangdaily.com/korea/typhoon-champi-turns-toward-jeju-as-category-5-storm-heavy-rain-possible/12931748"
     },
     {
       "rank": 10,
-      "title": "颱風薔琵重創台灣 一死逾350人受傷",
-      "dek": "半島電視台報導，薔琵外圍環流為台灣帶來豪雨強風，造成一人罹難、約350人受傷，為此次風暴最早期的官方傷亡通報。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "回顧：中央氣象署曾說明薔琵最接近台灣時程與警報解除時間",
+      "dek": "《台北時報》報導，中央氣象署曾指出薔琵對台灣影響最劇烈的時段落在10月23日至24日，警報最快可能於24日午後解除。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866405"
     }
   ]
 }
