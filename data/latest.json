@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T00:20:00+08:00",
+  "generated_at": "2026-10-29T01:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署已於10月24日解除薔琵颱風的陸上與海上警報，截至目前西北太平洋尚無新系統對台灣構成威脅，未再發布新的颱風警報。",
+  "alert_desc": "中央氣象署已於10月24日分別解除颱風燦樹的陸上與海上颱風警報，目前尚無針對台灣發布的新警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前無直接影響。薔琵颱風已於10月24日遠離台灣，中央氣象署當日已解除陸上與海上颱風警報，台中市及全台目前均無颱風警報或停班停課措施；薔琵颱風期間台中曾是傷者較集中的地區之一，但該風險已隨颱風遠離而解除。"
+    "text": "台中目前無直接影響，當地已從颱風燦樹造成的停班停課與停電中恢復正常運作，目前無任何活躍熱帶系統對台中構成風雨威脅。"
   },
   "quick_links": [
     {
@@ -22,77 +22,77 @@
     }
   ],
   "headline": {
-    "title": "氣旋「阿爾納布」登陸印度東岸致至少3死 台灣暫無颱風警報",
-    "dek": "印度氣象局證實氣旋阿爾納布已在安得拉邦完成登陸並開始減弱，奧里薩邦等地仍面臨豪雨威脅；台灣中央氣象署目前未發布任何颱風警報。",
-    "url": "https://www.ap7am.com/en/138412/cyclone-arnab-latest-update-imd-confirms-landfall-completion-near-yanam"
+    "title": "氣旋「雅納布」登陸印度東岸 數千人撤離；台灣持續處於無警報空窗期",
+    "dek": "印度氣象局與美軍聯合颱風警報中心對風暴強度分類出現分歧，但雙方都證實安得拉邦、奧里薩邦一帶已出現嚴重風雨與大規模撤離；台灣在颱風「燦樹」遠離後暫無新系統威脅。",
+    "url": "https://www.newsbytesapp.com/news/india/cyclone-arnab-to-hit-ap-oct-28-naidor-orders-vigilance/tldr"
   },
   "headline_body": [
-    "印度氣象局（IMD）週三表示，強烈氣旋風暴「阿爾納布」已於當地時間週三凌晨在印度東部安得拉邦雅納姆（Yanam）附近完成登陸程序，登陸時最大風速達每小時125至135公里，瞬間風速一度達每小時150公里，略強於登陸前「每小時115至125公里、瞬間140公里」的預測。",
-    "這場被視為孟加拉灣今年最具威脅性的風暴，為印度東部沿海帶來豪雨強風，促使奧里薩邦當局疏散大批居民；與此同時，上週掠過台灣東南部外海的超級颱風「薔琵」已持續減弱遠離，台灣中央氣象署目前未對外發布任何陸上或海上颱風警報。",
-    "根據《ap7am》報導，IMD在上午9時50分發布的公告中確認，阿爾納布完成登陸時已減弱為「強烈氣旋風暴」，該局並預測風暴將在約6小時內進一步減弱為「氣旋風暴」，再過約6小時後降級為「深度低氣壓」，持續向奧里薩邦、恰蒂斯加爾邦與賈坎德邦內陸移動，豪雨預計持續至10月31日。《ETV Bharat》的即時報導也顯示，登陸後的強降雨已擴及上述三邦。",
-    "人員傷亡與財損數據目前仍在發展中。初步報告指出已有3人死亡、31戶房屋受損，但不同媒體統計的疏散人數差異頗大，從約10萬人到超過18萬人不等，奧里薩邦官方尚未給出統一數字。《Republic World》報導，IMD在登陸前已將阿爾納布列為「極強烈風暴」，並為奧里薩邦發布紅色警報；《UNI India》則報導，奧里薩邦政府取消了南部五個脆弱縣官員的休假，並部署24支奧里薩邦災害應變部隊（ODRAF）與6支國家災害應變部隊（NDRF），目標是實現「零死亡」。《The Week》報導稱，氣象部門此前已預測西孟加拉邦與奧里薩邦將自10月25日起連續數日遭強降雨侵襲。",
-    "相較之下，台灣目前未受任何颱風系統威脅。據《中央氣象署》資料，曾以五級強度掠過台灣南部與東南部外海的超級颱風薔琵，已於10月24日隨其減弱並轉向日本，氣象署當日隨即解除陸上與海上颱風警報，全台現無停班停課措施。薔琵過境期間曾造成1死、數百人受傷，並一度導致大規模停電，台中市是傷者較集中的地區之一，但相關風險已隨颱風遠離而解除。截至目前，西北太平洋尚無新生熱帶系統對台灣構成威脅，儘管今年颱風季在強烈厄爾尼諾現象影響下異常活躍。"
+    "一股被印度官方稱為氣旋「雅納布」（Cyclone Arnab）的熱帶風暴，於10月28日清晨在印度安得拉邦巴帕特拉（Bapatla）與維沙卡帕特南（Visakhapatnam）之間的海岸登陸，為奧里薩邦、安得拉邦與西孟加拉邦帶來強降雨、學校停課與交通中斷。根據印度媒體《The Hans India》報導，印度氣象局（IMD）曾預測該系統登陸時風速可達每小時115至125公里；《Outlook India》則報導，已有逾8000名居民從奧里薩邦低窪與易發生土石流地區撤離，鄰近的賈坎德邦也傳出強降雨。",
+    "值得注意的是，各方對這個風暴系統的分類並未完全一致：印度氣象局官方將其列為「深度低氣壓」或「強烈氣旋風暴」等級，而美國聯合颱風警報中心（JTWC）則將其編號為熱帶氣旋01B。儘管分類存在分歧，印度媒體的報導在實際災情上看法一致——包括紅色警戒、大規模撤離、停班停課與交通受阻。這也反映出南亞熱帶氣旋預警體系在跨機構協調上的既有挑戰。",
+    "與南亞的緊張局勢相比，台灣目前處於相對平靜的空窗期。中央氣象署在上週六（10月24日）下午2時30分解除颱風「燦樹」的陸上颱風警報，當晚約8時30分再解除海上颱風警報，標誌著這波侵台行動正式告終。根據中央氣象署與《中央社》等媒體整理的資訊，燦樹造成1人死亡、數百人受傷（各方統計在350至616人之間），並一度造成約14萬6000戶停電。目前沒有任何新的熱帶系統對台灣構成威脅，氣象署尚未發布新警報。",
+    "與此同時，印度媒體《Dainik Jagran》報導，雅納布登陸後已逐漸減弱、影響力消退，但印度氣象局已開始密切觀察一個在緬甸海岸附近新形成的深度低氣壓，並已發布新的天氣觀察提示。這顯示孟加拉灣與緬甸沿海地區的熱帶天氣系統活動仍未平息，儘管目前尚無證據顯示該新系統會進一步增強為具名氣旋，或對台灣及西太平洋地區構成直接影響。",
+    "整體而言，西太平洋地區目前並未出現經確認的新颱風生成，台中及台灣本島暫時脫離風雨威脅，而印度東岸多個邦則仍在應對雅納布帶來的後續災損與復原工作，印度氣象局也將持續追蹤緬甸沿海的新低氣壓動態。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "IMD確認阿爾納布完成登陸雅納姆附近",
-      "dek": "印度氣象局上午9時50分發布公告，確認氣旋阿爾納布已在雅納姆附近完成登陸程序，當時風暴已減弱為「強烈氣旋風暴」，登陸時最大風速約每小時125至135公里，瞬間風速達150公里。",
-      "url": "https://www.ap7am.com/en/138412/cyclone-arnab-latest-update-imd-confirms-landfall-completion-near-yanam"
+      "title": "氣旋雅納布將於10月28日登陸安得拉邦，首長奈杜下令全面戒備",
+      "dek": "據《NewsBytes》報導，安得拉邦首長錢德拉巴布·奈杜在雅納布預計登陸前下令各地方政府全天候戒備，並設立應變指揮中心。",
+      "url": "https://www.newsbytesapp.com/news/india/cyclone-arnab-to-hit-ap-oct-28-naidor-orders-vigilance/tldr"
     },
     {
       "rank": 2,
-      "title": "即時報導：阿爾納布登陸安得拉邦，豪雨席捲奧里薩、賈坎德與恰蒂斯加爾",
-      "dek": "《ETV Bharat》持續報導指出，阿爾納布登陸後帶來的強降雨已擴及奧里薩邦、賈坎德邦與恰蒂斯加爾邦。",
-      "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-arnab-live-updates-landfall-in-andhra-pradesh-rain-odisha-jharkhand-chhattisgarh-enn26102800499"
+      "title": "安得拉邦部署21支救災隊伍 應對氣旋來襲",
+      "dek": "《The Hans India》報導，印度國家與邦級災害應變部隊共21支隊伍已部署至安得拉邦各地，當局並勸告漁民暫勿出海。",
+      "url": "https://www.thehansindia.com/news/cities/amaravati/21-disaster-response-force-teams-deployed-as-andhra-pradesh-braces-for-cyclone-1135714"
     },
     {
       "rank": 3,
-      "title": "印度氣象局發布奧里薩邦紅色警報，阿爾納布來襲前戒備升高",
-      "dek": "印度氣象局將阿爾納布列為「極強烈風暴」，並在其登陸前為奧里薩邦發布紅色警報。",
-      "url": "https://www.republicworld.com/india/very-severe-storm-imd-issues-red-alert-in-odisha-ahead-of-cyclone-arnab-2026-10-25-139640"
+      "title": "印度氣象局示警「強烈氣旋風暴」 安得拉邦進入戒備狀態",
+      "dek": "《The Hans India》引述印度氣象局預測，風暴將於10月28日上午以每小時115至125公里風速於巴帕特拉與維沙卡帕特南之間登陸，安得拉邦全境進入警戒。",
+      "url": "https://www.thehansindia.com/news/cities/amaravati/ap-on-alert-as-imd-warns-of-severe-cyclonic-storm-1135722"
     },
     {
       "rank": 4,
-      "title": "氣旋阿爾納布預估為西孟加拉邦與奧里薩邦帶來連日豪雨",
-      "dek": "《The Week》報導，氣象部門預測阿爾納布將於10月25日至29日間，為西孟加拉邦與奧里薩邦帶來多日強降雨。",
-      "url": "https://www.theweek.in/news/india/2026/10/24/cyclone-arnab-to-bring-heavy-rain-storms-to-bengal-odisha-october-25.amp.html"
+      "title": "印度氣象局對奧里薩邦發布紅色警戒 預警「極強烈風暴」",
+      "dek": "《Republic World》報導，印度氣象局針對奧里薩邦多個地區發布紅色警戒，預期雅納布登陸前將增強為「極強烈」氣旋風暴。",
+      "url": "https://www.republicworld.com/india/very-severe-storm-imd-issues-red-alert-in-odisha-ahead-of-cyclone-arnab-2026-10-25-139640"
     },
     {
       "rank": 5,
-      "title": "阿爾納布來襲前，奧里薩邦政府取消官員休假",
-      "dek": "《UNI India》報導，奧里薩邦政府在風暴登陸前取消南部五個脆弱縣官員的休假，目標是實現「零死亡」。",
-      "url": "https://www.uniindia.com/east-india/cyclone-arnab-odisha-leave-cancelled/224366"
+      "title": "首長奈杜將安得拉邦列為高度戒備 設定「零死亡」目標",
+      "dek": "《M9 News》報導，首長錢德拉巴布·奈杜召集十個部門官員開會，宣布全邦進入高度戒備，並強調務求達成零人員傷亡。",
+      "url": "https://www.m9.news/politics/cyclone-arnab-andhra-pradesh-chandrababu-alert/"
     },
     {
       "rank": 6,
-      "title": "氣象部門預測阿爾納布將增強為極強烈風暴並於10月28日登陸安得拉海岸",
-      "dek": "《DT Next》報導的預測顯示，阿爾納布預計在巴帕特拉與維沙卡帕特南之間登陸，風速每小時115至125公里、瞬間140公里，後證實與實際情況相近。",
-      "url": "https://www.dtnext.in/news/tamilnadu/cyclone-arnab-likely-to-intensify-into-very-severe-storm-cross-andhra-coast-on-oct-28"
+      "title": "奧里薩與安得拉部分地區學校停課、橋梁遭洪水淹沒",
+      "dek": "《Dainik Jagran》報導，奧里薩與安得拉邦多個學區因豪雨停課，部分橋梁傳出遭水淹沒，印度氣象局並將降雨警戒範圍擴大至全國22個邦。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-arnab-alert-schools-shut-bridges-submerged-in-parts-of-odisha-and-andhra-imd-issues-rain-alert-for-22-states-10330402"
     },
     {
       "rank": 7,
-      "title": "ECMWF與GFS模型預測：阿爾納布可能增強為極強烈風暴",
-      "dek": "《Odisha Bytes》引述歐洲中期天氣預報中心（ECMWF）與美國GFS模型分析，研判阿爾納布在登陸前有進一步增強的可能。",
-      "url": "https://odishabytes.com/cyclone-arnab-may-intensify-into-very-severe-storm-what-ecmwf-gfs-models-show-for-oct-28/amp/"
+      "title": "深度低氣壓籠罩奧里薩邦 逾8000人撤離、安得拉與賈坎德邦降下豪雨",
+      "dek": "《Outlook India》報導，超過8000名居民已從奧里薩邦低窪與易生土石流地區撤離，隨著系統持續深入內陸，賈坎德邦也傳出強降雨。",
+      "url": "https://www.outlookindia.com/national/cyclone-arnab-deep-depression-over-odisha-8000-evacuated-as-heavy-rain-hits-andhra-pradesh-jharkhand"
     },
     {
       "rank": 8,
-      "title": "颱風薔琵重創台灣，造成1死逾百人受傷",
-      "dek": "《半島電視台》報導，一名男子在屏東琉球外海遭風浪捲走身亡，薔琵外圍環流也造成數百人受傷。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "雅納布將為西孟加拉與奧里薩帶來連續五日強降雨",
+      "dek": "《The Week》報導，氣象預測顯示雅納布接近並橫越海岸期間，西孟加拉邦與奧里薩邦將自10月25日至29日持續遭受強降雨侵襲。",
+      "url": "https://www.theweek.in/news/india/2026/10/24/cyclone-arnab-to-bring-heavy-rain-storms-to-bengal-odisha-october-25.amp.html"
     },
     {
       "rank": 9,
-      "title": "颱風薔琵掠過台灣，留下1死500傷",
-      "dek": "路透社報導，薔琵颱風遠離台灣轉向日本之際已造成1人死亡、約500人受傷，中央氣象署當日隨即解除颱風警報。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
+      "title": "奧里薩邦取消公務員休假 因應雅納布來襲",
+      "dek": "據《United News of India》報導，奧里薩邦政府在風暴逼近前取消政府官員休假，並讓救災機制進入待命狀態。",
+      "url": "https://www.uniindia.com/east-india/cyclone-arnab-odisha-leave-cancelled/224366"
     },
     {
       "rank": 10,
-      "title": "颱風薔琵過境台灣，數萬戶一度停電",
-      "dek": "外電報導指出，薔琵颱風遠離台灣後，當地仍留下大規模停電與災損。",
-      "url": "https://kuwaittimes.com/article/52230/world/typhoon-champi-leaves-tens-of-thousands-without-power-in-taiwan/"
+      "title": "雅納布登陸後減弱 緬甸沿海新低氣壓引發氣象局新一輪觀察",
+      "dek": "《Dainik Jagran》報導，雅納布登陸後威力逐漸消退，印度氣象局同時示警緬甸沿海新形成一個獨立的深度低氣壓，已展開密切觀察。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-arnab-fades-new-deep-depression-near-mayanmmar-coast-sparks-fresh-weather-watch-imd-alert-10330818"
     }
   ]
 }
