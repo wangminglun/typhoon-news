@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T05:13:00+08:00",
+  "generated_at": "2026-10-29T06:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "颱風璦菲已持續減弱並北離台灣，中央氣象署已解除陸上與海上颱風警報，現階段無新系統對台灣構成威脅。",
+  "alert_desc": "颱風薔琵已減弱遠離台灣，中央氣象署海上與陸上颱風警報均已解除超過三天，現階段無新系統對台灣構成威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前未受任何颱風直接影響，10月23日因璦菲外圍環流實施的停班停課已結束，市區交通與日常生活已恢復正常運作。"
+    "text": "台中市目前無直接影響：10月22日至24日因颱風薔琵外圍環流實施的停班停課與風雨警示已全數解除，市區交通與日常生活已恢復正常運作，目前並無活躍或預測系統對台中構成風雨威脅。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "璦菲颱風北離，台灣暫解除警戒",
-    "dek": "超級颱風璦菲掠過台灣東岸後持續減弱北移，中央氣象署已解除陸海颱風警報，全島目前未受任何系統威脅。",
-    "url": "https://arynews.tv/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
+    "title": "颱風薔琵遠離台灣　警報全面解除　全球焦點轉向印度氣旋艾納布",
+    "dek": "肆虐台灣數日的颱風薔琵已減弱遠離，中央氣象署警報全數解除，島內暫無風雨威脅，國際上則有氣旋艾納布登陸印度、颶風萬斯在墨西哥外海減弱。",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
   },
   "headline_body": [
-    "台灣目前未面臨任何颱風威脅。中央氣象署已解除所有颱風警報，颱風璦菲（菲律賓官方名稱「羅莎」）在10月23日至24日掠過台灣東岸期間始終未直接登陸，隨後持續減弱並北轉遠離，全島天氣已恢復平靜，各地交通與日常生活也已回歸正常運作。",
-    "即便未直接登陸，璦菲帶來的外圍環流仍在台灣留下顯著災情。根據ARY News報導，台灣消防署證實，璦菲造成1人死亡、逾500人受傷，其中1名罹難者是在小琉球附近遭海浪捲走。中央社報導指出，中央氣象署於10月24日下午2時30分解除陸上颱風警報，時間早於原先預期，海上警報則於同日晚間解除。另據IDN Financials報導，這場風暴導致全台931班航班停飛，台中、苗栗、南投、彰化與雲林等縣市一度停班停課，農業損失估計達約1.3336億元新台幣，其中雲林縣占整體損失的82%；ARY News另一篇報導則指出，強風吹倒電線與路樹，導致全台逾28.8萬戶一度停電，至10月25日仍有數萬戶等待復電。根據Khaleej Times報導，璦菲曾在10月20日前後逼近五級颱風強度，掠過台灣後持續減弱，其環流也為日本及菲律賓北部帶來豪雨，預估將於10月27日在日本南方海域轉化為溫帶氣旋。",
-    "與此同時，國際上唯一值得關注的風暴系統出現在孟加拉灣。印度媒體稱為「氣旋艾納布」的系統原預計於10月28日前後登陸安得拉邦與奧里薩邦交界沿岸，印度氣象局一度對此發布紅色警戒。Republic World報導，該局曾預測此系統將增強為「極強氣旋風暴」，持續風速達每小時115至125公里，促使奧里薩邦低窪沿海地區數千居民撤離；Business Today報導引述印度氣象局局長穆漢帕特拉說法，指該系統預計於10月28日上午登陸，多邦自10月26日起發布豪雨警告；The Week與News24 Online則報導，安得拉邦、奧里薩邦、西孟加拉邦及比哈爾邦等地因此進入戒備，部分地區下令停課。然而根據Dainik Jagran最新報導，該系統登陸後已迅速減弱，在緬甸海岸附近轉化為一個強度明顯較弱的新低氣壓，印度氣象局雖發布新一輪天氣觀測提醒，但無任何消息顯示該系統有再度增強的跡象，顯示其威力已基本消退。",
-    "整體而言，台灣與周邊海域目前並無任何活躍颱風威脅，璦菲已成為過去式，孟加拉灣的氣旋系統也已減弱消散。氣象專家提醒，西太平洋颱風季仍未結束，建議民眾持續關注中央氣象署（CWA）發布的最新氣象資訊，以掌握任何新系統生成的動態。"
+    "台灣今天（10月28日）未受任何颱風威脅。中央氣象署（CWA）確認，海上與陸上颱風警報已雙雙解除超過三天，一度被形容為今年全球最強風暴的颱風薔琵（Typhoon Champi），在掃過台灣並造成一死逾五百傷之後，已持續遠離本島，轉向東海及日本南部移動。包括台中在內，全台目前也沒有因颱風發布的停班停課或風雨警示。",
+    "薔琵颱風於10月22日至24日掠過台灣，根據路透社報導（經馬來西亞《星報》轉載），該颱風曾以接近每小時300公里的風速達到超級颱風強度，造成一人在小琉球外海遭浪捲走喪生，消防單位統計另有逾五百人受傷。民航局因應停飛931班次航班，其中262班為國內線、669班為國際及兩岸航線；南非媒體Eyewitness News引述路透與法新社報導，停電一度波及最多約二十八萬八千戶家庭，雲林縣為主的農業損失估計達新台幣一億三千三百萬元。中國浙江省也一度啟動應變機制疏散數萬居民，據南華早報報導，上海、福建及浙江多處機場同步停飛，但薔琵最終並未直接登陸中國大陸。",
+    "隨著暴風圈縮小、風力減弱為輕度颱風，中央氣象署於10月24日下午2時30分解除陸上颱風警報，當晚8時30分再解除海上颱風警報；中央社報導，苗栗山區累積雨量一度達293毫米，北部降雨則自25日清晨起逐漸趨緩。氣象署同時預告，東北季風雨勢將在短暫回暖後再度影響台灣北部，但目前並無新生颱風接近台灣、菲律賓或關島海域。",
+    "放眼國際，當前全球最受關注的活躍熱帶氣旋，是在孟加拉灣增強為極強氣旋風暴的艾納布（Cyclone Arnab）。據印度媒體報導，印度氣象局（IMD）預測其以每小時115至125公里、最大陣風140公里的強度，於10月28日橫掃安得拉邦與奧里薩邦交界海岸，兩邦均發布紅色警戒並疏散數千居民，北方邦與比哈爾邦也分別傳出13人與3人因水患死亡。在太平洋另一端，美國國家颶風中心（NHC）公告顯示，颶風萬斯（Hurricane Vance）曾在墨西哥阿卡普爾科外海逼近二級強度，但至10月25日已持續減弱至每小時75英里，全程未登陸墨西哥海岸，僅帶來危險的離岸流與大浪。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "颱風璦菲掠台　一死逾500傷",
-      "dek": "根據ARY News報導，超級颱風璦菲雖未直接登陸台灣，仍造成1人死亡、逾500人受傷，台灣消防署證實其中1名罹難者於小琉球附近遭海浪捲走。",
-      "url": "https://arynews.tv/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
+      "title": "薔琵掃台　一死逾500傷",
+      "dek": "路透社報導（經馬來西亞《星報》轉載），颱風薔琵以接近每小時300公里風速掠過台灣，造成一人在小琉球外海遭浪捲走喪生，消防單位統計逾500人受傷。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
     },
     {
       "rank": 2,
-      "title": "氣象署解除陸上警報",
-      "dek": "中央社（Focus Taiwan）報導，中央氣象署於10月24日下午2時30分解除颱風璦菲陸上警報，時間早於原先預期，海上警報則於當晚解除。",
-      "url": "https://focustaiwan.tw/society/202610240009"
+      "title": "陸警午後解除",
+      "dek": "民報報導，中央氣象署於10月24日下午2時30分解除薔琵颱風陸上警報，因颱風減弱為輕度颱風、暴風圈已遠離台灣本島。",
+      "url": "https://www.peoplenews.tw/?p=63515"
     },
     {
       "rank": 3,
-      "title": "931班機停飛　農損逾億",
-      "dek": "根據IDN Financials報導，颱風璦菲造成全台931班航班停飛、多地停班停課，農業損失估計約1.3336億元新台幣，雲林縣占損失82%。",
-      "url": "https://www.idnfinancials.com/news/70720/typhoon-champi-disrupts-taiwans-economy-grounding-931-flights"
+      "title": "海警晚間解除　雨勢趨緩",
+      "dek": "中央社報導，氣象署於10月24日晚間8時30分解除海上颱風警報，苗栗山區累積雨量達293毫米，北部降雨預計25日清晨起逐漸趨緩。",
+      "url": "https://cna.com.tw/news/ahel/202610240199.aspx"
     },
     {
       "rank": 4,
-      "title": "停電戶數破28.8萬",
-      "dek": "ARY News報導指出，颱風璦菲強風吹倒樹木與電線，導致全台逾28.8萬戶停電，至10月25日仍有數萬戶尚待復電。",
-      "url": "https://arynews.tv/typhoon-champi-knocks-out-power-thousands-taiwan"
+      "title": "931班航班取消",
+      "dek": "IDN Financials報導，民航局因應薔琵颱風取消931班次航班，其中262班為國內線、669班為國際及兩岸航線，衝擊台灣經濟與農業。",
+      "url": "https://www.idnfinancials.com/news/70720/typhoon-champi-disrupts-taiwans-economy-grounding-931-flights"
     },
     {
       "rank": 5,
-      "title": "璦菲北轉直撲琉球",
-      "dek": "根據Khaleej Times報導，超級颱風璦菲曾逼近五級強度，掠過台灣東岸後減弱北轉，預估10月27日於日本南方轉化為溫帶氣旋。",
-      "url": "https://www.khaleejtimes.com/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
+      "title": "停電逾萬戶　農損上億",
+      "dek": "南非Eyewitness News引述路透與法新社報導，薔琵颱風一度造成最多約28.8萬戶停電，並使雲林縣為主的農業損失估計達新台幣1.33億元。",
+      "url": "https://www.ewn.co.za/2026/10/24/typhoon-champi-knocks-out-power-to-thousands-in-taiwan"
     },
     {
       "rank": 6,
-      "title": "氣旋艾納布減弱消散",
-      "dek": "根據印度媒體Dainik Jagran報導，氣旋艾納布登陸減弱後，於緬甸海岸附近轉化為較弱的新低氣壓，印度氣象局隨即發布新一輪低等級天氣提醒。",
-      "url": "https://www.thedailyjagran.com/india/news/cyclone-arnab-fades-new-deep-depression-near-mayanmmar-coast-sparks-fresh-weather-watch-imd-alert-10330818"
+      "title": "浙江撤離　多機場停飛",
+      "dek": "南華早報報導，浙江省因應薔琵颱風啟動應變機制疏散數萬居民，上海、福建及浙江多處機場同步停飛，但颱風最終未直接登陸中國大陸。",
+      "url": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china"
     },
     {
       "rank": 7,
-      "title": "奧里薩邦發布紅色警戒",
-      "dek": "Republic World報導，印度氣象局曾因氣旋艾納布逼近「極強氣旋風暴」強度（風速115至125公里）對奧里薩邦發布紅色警戒，數千沿海居民因此撤離。",
-      "url": "https://www.republicworld.com/india/very-severe-storm-imd-issues-red-alert-in-odisha-ahead-of-cyclone-arnab-2026-10-25-139640"
+      "title": "氣旋艾納布逼近印度",
+      "dek": "印度《展望》雜誌報導，印度氣象局（IMD）預測氣旋艾納布將於10月28日以時速115至125公里、最大陣風140公里橫掃安得拉邦海岸，奧里薩邦五縣停課。",
+      "url": "https://www.outlookindia.com/national/cyclone-arnab-likely-to-hit-andhra-coast-on-october-28-imds-latest-update"
     },
     {
       "rank": 8,
-      "title": "孟加拉灣風暴豪雨侵襲",
-      "dek": "根據印度媒體The Week報導，氣旋系統預計於10月25日至29日為安得拉邦、奧里薩邦等沿海地區帶來強降雨，降雨高峰集中於10月28日登陸前後。",
-      "url": "https://www.theweek.in/news/india/2026/10/24/cyclone-arnab-to-bring-heavy-rain-storms-to-bengal-odisha-october-25.amp.html"
+      "title": "艾納布紅色警戒",
+      "dek": "據Curly Tales報導，印度氣象局對奧里薩邦與安得拉邦維持紅色警戒，當局疏散數千居民，北方邦與比哈爾邦則分別傳出13人與3人因水患死亡。",
+      "url": "https://curlytales.com/cyclone-arnab-update-heavy-rain-lashes-odisha-andhra-pradesh-as-red-alert-remains-in-place/"
     },
     {
       "rank": 9,
-      "title": "氣象局發布登陸警告",
-      "dek": "Business Today報導引述印度氣象局局長穆漢帕特拉說法，指氣旋系統預計10月28日上午登陸安得拉邦與奧里薩邦交界沿岸，多邦自10月26日起發布豪雨警告。",
-      "url": "https://www.businesstoday.in/india/story/imd-issues-cyclone-warning-for-odisha-andhra-pradesh-heavy-rain-likely-from-october-26-563455-2026-10-24"
+      "title": "艾納布登陸　8千人疏散",
+      "dek": "印度媒體India Observers報導，氣旋系統橫越安得拉邦與奧里薩邦交界海岸，當局疏散約8000人，西孟加拉邦氣象部門則表示該邦預期不會受到直接影響。",
+      "url": "https://indiaobservers.com/cyclone-arnab-imd-alert-red-alert-andhra-odisha/"
     },
     {
       "rank": 10,
-      "title": "三邦戒備多地停課",
-      "dek": "News24 Online報導，安得拉邦、奧里薩邦與西孟加拉邦因氣旋艾納布逼近進入戒備，多地下令停課，泰米爾納杜邦港口也發布預警。",
-      "url": "https://news24online.com/india/cyclone-arnab-update-three-states-on-alert-as-imd-warns-of-deep-depression-check-latest-landfall-update-schools-closed-list/931905/"
+      "title": "颶風萬斯減弱外海",
+      "dek": "美國國家颶風中心（NHC）公告，颶風萬斯曾在墨西哥阿卡普爾科外海接近二級強度，至10月25日已減弱至每小時75英里，全程未登陸但帶來危險離岸流。",
+      "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/082032.shtml"
     }
   ]
 }
