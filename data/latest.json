@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T16:13:00+08:00",
+  "generated_at": "2026-10-28T17:07:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報；颱風樺加沙（Champi）相關警報已於10月24日全數解除，目前尚無新系統威脅台灣。",
+  "alert_desc": "中央氣象署目前並未對台灣發布任何海上或陸上颱風警報；颱風「錢皮」（Champi）相關警報已於10月24日全數解除，目前尚無新系統接近台灣。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響；全台目前並無活躍颱風威脅，台中市未見任何因颱風導致的風雨警報或停班停課措施。先前颱風樺加沙於10月22日至24日影響台灣期間的衝擊已隨警報解除而消退。"
+    "text": "目前無任何颱風系統影響台中地區，10月28日未發布停班停課公告，台中市目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,77 +22,77 @@
     }
   ],
   "headline": {
-    "title": "強烈氣旋「阿爾納布」登陸印度東岸　奧里薩、安德拉邦進入紅色警戒",
-    "dek": "印度氣象局發布紅色警戒，預報阿爾納布將以「非常強烈氣旋風暴」強度登陸安德拉邦海岸，而台灣在颱風「樺加沙」（Champi）遠離後，目前並無任何海陸颱風警報生效。",
-    "url": "https://www.republicworld.com/india/very-severe-storm-imd-issues-red-alert-in-odisha-ahead-of-cyclone-arnab-2026-10-25-139640"
+    "title": "氣旋阿納布登陸印度東岸　數十列車停駛；台灣目前無颱風警戒",
+    "dek": "印度氣象局證實強烈氣旋風暴阿納布已登陸安得拉邦與奧迪夏邦交界海岸，造成大規模交通中斷與撤離，而台灣仍處於颱風空窗期。",
+    "url": "https://pragativadi.com/travel-chaos-as-cyclone-arnab-strikes-eastern-coast-50-trains-and-multiple-flights-cancelled/"
   },
   "headline_body": [
-    "印度東部孟加拉灣的強烈氣旋「阿爾納布」（Arnab），預計於10月28日上午在安德拉邦海岸登陸，登陸地點介於巴帕特拉（Bapatla）與維沙卡帕特南（Visakhapatnam）之間。根據印度氣象局（IMD）的預報，阿爾納布在登陸前將增強為「非常強烈氣旋風暴」，持續風速達每小時115至125公里，陣風可達每小時140公里，促使當局對奧里薩邦發布紅色警戒。",
-    "這是目前全球最具新聞性的活躍熱帶氣旋系統。據《The CSR Journal》報導，印度氣象局警告奧里薩與安德拉邦將出現強降雨與強風活動，兩邦政府已展開疏散準備工作。《Curly Tales》報導指出，暴雨在氣旋登陸前已開始侵襲兩邦，普里（Puri）、加賈帕蒂（Gajapati）、甘賈姆（Ganjam）、拉雅加達（Rayagada）、科拉普特（Koraput）與馬爾坎吉里（Malkangiri）等多個轄區維持紅色警戒，地方政府以「零死亡」為目標加強疏散規劃。",
-    "與此同時，台灣本身目前並未面臨任何熱帶氣旋威脅。颱風樺加沙於10月22日至24日掠過台灣，根據路透社報導（轉引自《The Star》），這場颱風造成1人因遭海浪沖走而死亡、逾500人受傷，並造成大規模停電與班機取消。據中央氣象署（CWA）透過中央社（Focus Taiwan）發布的資訊，陸上颱風警報已於10月24日下午2時30分解除，較原先預期提前，海上颱風警報則預計於同日晚間8時30分左右解除；截至當時下午5時，最終統計為1人死亡、616人受傷。",
-    "據《美聯社》（轉引自《Khaleej Times》）報導，樺加沙曾於10月20日左右一度增強至五級颱風強度，但最終並未直接登陸台灣，隨後轉向日本沖繩、九州一帶，並為菲律賓外圍帶來降雨。目前尚無新的熱帶氣旋在台灣附近形成，台中等地也未有因颱風導致的風雨警報或停班停課措施。",
-    "全球其他海域方面，東太平洋的颶風「凡斯」（Vance）已成為該季第11個達到大型颶風強度的系統，雖預報不會登陸墨西哥，但將為當地西南沿岸帶來危險湧浪。大西洋海域截至10月27日則維持平靜，未來一週內預期也不會有新系統發展。"
+    "印度東部安得拉邦與奧迪夏邦交界的海岸地區，週三深夜至週四凌晨遭強烈氣旋風暴「阿納布」（Arnab）襲擊，帶來破壞性強風與暴雨，導致數十班列車及多個航班取消或改道。",
+    "根據印度氣象局（IMD），阿納布於10月28日晨間在卡林加帕特南（Kalingapatnam）與雅南（Yanam）之間登陸，最大持續風速約每小時115至125公里，陣風可達每小時140至150公里。印度東岸鐵路公司與南岸鐵路公司表示，已取消、縮短或改道逾50班列車；另有報導指出，計入延誤與重新調度後，受影響列車總數已超過110班，涵蓋安得拉邦、奧迪夏邦、特倫甘納邦、本地治里及坦米爾那都邦，布巴內斯瓦爾與維沙卡帕特南兩地班次出現嚴重積壓。",
+    "奧迪夏邦政府已將逾8000名居民撤離至安全地點，安得拉邦、奧迪夏邦、西孟加拉邦與賈坎德邦均傳出強降雨。安得拉邦首席部長納伊杜（N. Chandrababu Naidu）下令各機構提高警戒；印度氣象局此前已針對奧迪夏邦發布紅色警報，將此系統列為「極強氣旋風暴」。",
+    "值得注意的是，「阿納布」這一名稱在印度媒體間仍有分歧——印度氣象局官方將其列為深層低氣壓或強烈氣旋風暴，而非完全成熟的氣旋，與美國聯合颱風警報中心（JTWC）的分類標準不盡相同。截至發稿，官方尚未公布本次登陸造成的確切死亡人數；一則未經證實的印地語報導提及北方邦與比哈爾邦有人員死亡，但該地區與阿納布登陸地點相距甚遠，是否與此次氣旋相關仍待證實，本報將持續核實，不採計入本次事件統計。印度氣象局另表示，阿納布登陸後已逐漸減弱，緬甸海岸附近已形成新的低氣壓系統，當局已就此發布新一輪天氣觀測警報。",
+    "相比之下，台灣目前並無任何海上或陸上颱風警報生效。中央氣象署於本月21日對颱風「錢皮」（Champi）發布海上警報，22日發布陸上警報，其後已於24日晚間全數解除，此後未再有新颱風於台灣、菲律賓或日本周邊海域形成或接近的報告。另有低置信度消息顯示，美國聯合颱風警報中心正在關島以南追蹤一個編號Invest 98W的弱低壓胚胎，風速僅約每小時30公里，尚未發展成具組織性的系統，目前不構成任何陸地威脅。整體而言，阿納布的登陸是當前全球唯一正在發生的熱帶氣旋事件，台灣則處於風暴間的平靜期。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "印度氣象局發布紅色警戒　阿爾納布增強為「非常強烈氣旋風暴」",
-      "dek": "印度氣象局預報阿爾納布持續風速達每小時115至125公里、陣風140公里，奧里薩邦進入紅色警戒狀態。",
-      "url": "https://www.republicworld.com/india/very-severe-storm-imd-issues-red-alert-in-odisha-ahead-of-cyclone-arnab-2026-10-25-139640"
+      "title": "氣旋阿納布登陸印度東岸　逾50班列車與多個航班取消",
+      "dek": "印度東岸鐵路與南岸鐵路因強風暴雨大規模停駛，奧迪夏邦與安得拉邦首當其衝。",
+      "url": "https://pragativadi.com/travel-chaos-as-cyclone-arnab-strikes-eastern-coast-50-trains-and-multiple-flights-cancelled/"
     },
     {
       "rank": 2,
-      "title": "阿爾納布增強為非常強烈氣旋風暴　預計10月28日登陸",
-      "dek": "印度氣象局預報氣旋將於10月28日上午在安德拉邦巴帕特拉至維沙卡帕特南一帶登陸，兩邦已展開疏散準備。",
-      "url": "https://thecsrjournal.in/cyclone-arnab-expected-to-strengthen-into-very-severe-cyclonic-storm-landfall-forecasted-near-andhra-pradesh-coast-on-october-28-imd-warns-of-heavy-rainfall-and-wind-activity-in-odisha-and-andhra-prad"
+      "title": "印度鐵路因氣旋阿納布取消逾110班列車",
+      "dek": "受影響範圍涵蓋安得拉邦、奧迪夏邦、特倫甘納邦、本地治里與坦米爾那都邦，陣風達每小時150公里。",
+      "url": "https://www.thedailyjagran.com/india/news/train-cancelled-due-to-cyclone-arnab-over-100-trains-cancelled-rescheduled-short-terminated-check-list-10334243"
     },
     {
       "rank": 3,
-      "title": "阿爾納布來襲前暴雨已侵襲奧里薩與安德拉邦　多地維持紅色警戒",
-      "dek": "當局在普里、甘賈姆等多個轄區維持紅色警戒，並以零死亡為目標加強疏散規劃。",
-      "url": "https://curlytales.com/cyclone-arnab-update-heavy-rain-lashes-odisha-andhra-pradesh-as-red-alert-remains-in-place/"
+      "title": "阿納布登陸後減弱　緬甸海岸外形成新低氣壓系統",
+      "dek": "印度氣象局表示阿納布已逐漸減弱，但對緬甸海岸附近新生系統發出最新天氣觀測警報。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-arnab-fades-new-deep-depression-near-mayanmmar-coast-sparks-fresh-weather-watch-imd-alert-10330818"
     },
     {
       "rank": 4,
-      "title": "颱風樺加沙掠過台灣　造成1人死亡逾500人受傷",
-      "dek": "路透社報導，樺加沙吹倒樹木、擾亂航班並造成大規模停電，隨後轉向日本方向遠離。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/24/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured"
+      "title": "阿納布衝擊安得拉邦海岸　奧迪夏與西孟加拉邦暴雨成災",
+      "dek": "數千居民因強降雨與淹水風險被迫撤離，救災團隊已部署至災區。",
+      "url": "https://english.ratopati.com/story/80612/cyclone-arnab-hits-indias-coast-heavy-rains-in-andhra-pradesh-and-odisha-thousands-displaced"
     },
     {
       "rank": 5,
-      "title": "中央氣象署解除樺加沙陸上警報　海上警報隨後跟進",
-      "dek": "中央氣象署於10月24日下午提前解除陸上颱風警報，最終統計1人死亡、616人受傷。",
-      "url": "https://focustaiwan.tw/society/202610240009"
+      "title": "氣旋阿納布登陸前　孟加拉與奧迪夏邦迎多日暴雨",
+      "dek": "氣象預報指出，10月25日至29日西孟加拉邦與奧迪夏邦將持續遭強降雨侵襲。",
+      "url": "https://www.theweek.in/news/india/2026/10/24/cyclone-arnab-to-bring-heavy-rain-storms-to-bengal-odisha-october-25.amp.html"
     },
     {
       "rank": 6,
-      "title": "樺加沙衝擊台灣經濟　共931班航班取消",
-      "dek": "颱風導致大量航班取消及全台停班停課，對交通與港口營運造成顯著衝擊。",
-      "url": "https://www.idnfinancials.com/news/70720/typhoon-champi-disrupts-taiwans-economy-grounding-931-flights"
+      "title": "印度氣象局對奧迪夏發布紅色警報　示警「極強氣旋風暴」阿納布",
+      "dek": "當局在登陸前升級威脅評估，警告安得拉邦與奧迪夏邦將出現強風暴雨。",
+      "url": "https://www.republicworld.com/india/very-severe-storm-imd-issues-red-alert-in-odisha-ahead-of-cyclone-arnab-2026-10-25-139640"
     },
     {
       "rank": 7,
-      "title": "樺加沙重創台灣電力系統　一度逾14.6萬戶停電",
-      "dek": "電力公司搶修人員已於報導當時修復逾12.2萬戶供電，災後復原工作持續進行。",
-      "url": "https://www.ewn.co.za/2026/10/24/typhoon-champi-knocks-out-power-to-thousands-in-taiwan"
+      "title": "阿納布可能增強為「極強氣旋風暴」　預計10月28日登陸安得拉邦",
+      "dek": "奧迪夏邦首長在防災會議中表示，登陸時間預估落在10月28日午後，地點介於安得拉邦北部與奧迪夏邦南部之間。",
+      "url": "https://www.dtnext.in/news/tamilnadu/cyclone-arnab-likely-to-intensify-into-very-severe-storm-cross-andhra-coast-on-oct-28"
     },
     {
       "rank": 8,
-      "title": "超級颱風樺加沙未直撲台灣　轉向為日本、菲律賓帶來強降雨",
-      "dek": "美聯社報導，樺加沙曾於10月20日前後達到五級強度，其外圍環流也為菲律賓帶來降雨影響。",
-      "url": "https://www.khaleejtimes.com/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
+      "title": "安得拉邦首席部長納伊杜下令全面戒備　應對10月28日阿納布登陸",
+      "dek": "當局提前部署疏散與救援措施，為氣旋登陸做準備。",
+      "url": "https://www.newsbytesapp.com/news/india/cyclone-arnab-to-hit-ap-oct-28-naidu-orders-vigilance/tldr"
     },
     {
       "rank": 9,
-      "title": "颶風「凡斯」快速增強　可能成為三級強颶風",
-      "dek": "美國國家颶風中心表示，凡斯預報不會登陸墨西哥，但將為當地西南沿岸帶來危險湧浪。",
-      "url": "https://www.mysuncoast.com/2026/10/23/vance-intensifies-rapidly-could-become-major-category-3-hurricane/"
+      "title": "回顧：台灣颱風「錢皮」警報已於10月24日全數解除",
+      "dek": "中央氣象署上一次發布的陸上與海上颱風警報均已解除，台灣目前無新系統接近。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     },
     {
       "rank": 10,
-      "title": "大西洋海域持續平靜　無活躍熱帶氣旋或擾動",
-      "dek": "截至10月27日，大西洋盆地未有任何活躍系統，預報顯示未來一週內也不會有新系統發展。",
-      "url": "https://www.wtok.com/2026/10/27/still-quiet-atlantic-basin/"
+      "title": "關島以南低壓胚胎Invest 98W遭追蹤　暫不構成威脅",
+      "dek": "美國聯合颱風警報中心持續觀測一個風速僅約每小時30公里的弱系統，菲律賓大氣地理天文服務署稱下週形成新低壓的機率「中等」。",
+      "url": "https://news.laodong.vn/du-lich/cong-dong/ap-thap-moi-xuat-hien-du-bao-kha-nang-co-sieu-bao-gan-bien-dong-thang-11-1600451.html"
     }
   ]
 }
