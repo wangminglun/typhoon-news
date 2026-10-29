@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T09:11:00+08:00",
+  "generated_at": "2026-10-29T10:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署截至10月29日尚未發布任何陸上或海上颱風警報，全台天氣主要受減弱中的東北季風主導；西太平洋強烈颱風煙花雖持續增強，但路徑預計北轉遠離台灣。",
+  "alert_desc": "截至目前公開資訊，中央氣象署並無任何現行的海上或陸上颱風警報；颱風查普警報已於數日前解除，颱風煙花則遠在逾1,500公里之外的北馬里亞納群島海域，對台灣並無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響：台中市10月29日未有停班停課公告，當地天氣受減弱中的東北季風影響，大致多雲到晴，無颱風相關風雨衝擊。"
+    "text": "目前無直接影響：颱風煙花遠在北馬里亞納群島海域，颱風查普已遠離北移，均未對台中帶來風雨衝擊，台中市目前亦無停班停課相關公告。"
   },
   "quick_links": [
     {
@@ -22,77 +22,76 @@
     }
   ],
   "headline": {
-    "title": "颱風威脅暫歇 煙花北轉遠離台灣",
-    "dek": "中央氣象署未發布任何颱風警報，而西太平洋強烈颱風煙花正逼近北馬里亞納群島並即將北轉，暫未對台灣構成威脅。",
-    "url": "https://www.nownews.com/news/6887396"
+    "title": "颱風煙花逼近北馬里亞納群島，台灣暫無颱風威脅、仍處查普風災復原期",
+    "dek": "氣象機構顯示，颱風煙花持續以西北西方向逼近北馬里亞納群島北部島嶼，對台灣並無直接威脅，而台灣仍在清理超強颱風查普留下的災損。",
+    "url": "https://www.rnz.co.nz/news/pacific/2183425/typhoon-in-fa-could-become-super-typhoon-before-reaching-northern-marianas"
   },
   "headline_body": [
-    "台灣在週四依然維持罕見的平靜狀態。根據NOWnews報導，中央氣象署截至10月29日尚未發布任何陸上或海上颱風警報，全台天氣主要受減弱中的東北季風主導，大致多雲到晴，僅基隆北海岸與東部地區出現零星短暫雨，早晚溫差明顯，低溫約攝氏20至23度。中天新聞則報導，氣象署對蘭嶼、屏東部分地區與澎湖縣發布陸上強風特報，提醒夜間平均風力可達6級以上、瞬間風力8級，但官方強調這屬於例行強風特報，與任何熱帶氣旋無關。",
-    "儘管台灣本島暫時無虞，西太平洋上的強烈颱風「煙花」卻持續增強，逼近北馬里亞納群島，成為今年影響關島與馬里亞納群島的第五個颱風，凸顯2026年西太平洋颱風季異常活躍的態勢，歐洲氣象衛星組織（EUMETSAT）稱今年為罕見的高頻颱風年。",
-    "根據自由時報報導，氣象署在10月28日上午將煙花上修為強烈颱風，當時中心位於北緯14.9度、東經159.9度，中心氣壓930百帕，近中心最大風速每秒51公尺，以時速約20公里向西移動。氣象局預報員賈新興表示，煙花距台灣極為遙遠，對台灣沒有威脅，預期月底前路徑將轉向北或東北，持續遠離台灣深入海上。AccuWeather與Weathernews的報導則顯示，煙花預計10月30日至31日以接近第4級颶風強度掠過阿格里罕、帕甘與阿拉馬干島北側，當地已進入三級颱風警戒，日本氣象廳則預估煙花將在11月初抵達小笠原群島附近，屆時強度仍相當驚人；關島本身僅會受到外圍影響。",
-    "在南亞，印度東岸的氣旋風暴「阿納布」已於10月28日在安德拉省登陸。根據半島電視台與NBC新聞報導，印度國家災害應變部隊證實至少3人死亡，安德拉省首長表示至少180間房屋被毀、220棵樹倒塌，當局已緊急撤離逾18萬居民，火車與航班大量取消，部分學校停課，風暴目前已減弱為「強烈」氣旋風暴，鄰近奧里薩省的復原工作仍在進行。",
-    "此外，根據美國國家颶風中心資料，熱帶風暴「凡斯」在墨西哥太平洋岸外海持續維持弱勢，10月28日上午的警報顯示其風速僅每小時40英里，遠離海岸，當局並未發布任何沿岸警戒；大西洋海域目前也沒有任何活躍的熱帶氣旋。展望未來幾天，各方氣象機構仍將密切觀察煙花北轉後的最終路徑，但現有資料均顯示，台灣本島短期內仍可望維持無颱風威脅的局面。"
+    "在太平洋另一端的北馬里亞納群島居民忙著為強風做準備之際，台灣本島昨（28）日的颱風風險評估維持不變：颱風煙花並未對台灣構成威脅。根據美國多家媒體與當地新聞網站的報導，煙花目前中心位於塞班島以東約905英里（約1,456公里）處，持續以每小時10英里的速度朝西北西方向移動，近中心最大持續風速已達每小時140英里，接近「超級颱風」強度。",
+    "這已是台灣氣象觀測單位連續數小時維持的判斷：煙花的預測路徑將使其在本週五（30日）夜間最接近北馬里亞納群島最北端的阿格里罕島、帕甘島與阿拉馬干島，但預料隨後將轉向遠離，關島本身並未被納入暴風侵襲範圍之內。當地當局已針對這三座島嶼發布颱風警戒三級（Typhoon Condition III），但塞班島、天寧島與羅塔島等主要人口聚居地尚未發布任何風暴警戒。值得注意的是，根據多家媒體報導，煙花是今年第五個對關島及馬里亞納群島週邊海域構成影響的颱風系統。",
+    "對台灣而言，目前焦點仍是善後。超強颱風查普於本月21日至24日期間掃過台灣東北部海域，根據路透社及《每日先鋒報》等外媒報導，此次風災造成至少1人死亡（一名男子在小琉球海域遭海浪捲走）、超過500人受傷，並一度導致全台逾16萬7千戶停電，農業損失估計達新台幣1.33億元。由於查普風眼已持續北移並朝中國大陸方向遠離，目前已不具活動威脅性。截至目前的公開資訊顯示，並無任何現行的海上或陸上颱風警報仍在生效——此一研判係根據查普警報已於數日前解除、且煙花距台灣逾1,500公里之遠的事實推斷而來，而非直接取自氣象主管機關的最新公告。",
+    "國際上另一值得關注的風暴系統，則是印度洋的「阿納布」氣旋殘餘低壓。該系統於本月28日在安德拉邦與奧迪沙邦交界的卡林加帕特南附近登陸後迅速減弱為深度低氣壓，但持續在奧迪沙邦、安德拉邦及賈坎德邦等地帶來強降雨。根據印度媒體報導，奧迪沙邦已有超過8,000人撤離，當地仍維持紅色警戒，部分地區學校停課、橋樑遭淹沒，惟各方統計之死傷人數尚有出入，須待官方進一步確認。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣象署未發布警報　台灣無颱風威脅",
-      "dek": "根據NOWnews報導，東北季風減弱，台灣10月29日天氣多雲到晴，無颱風相關風雨衝擊。",
-      "url": "https://www.nownews.com/news/6887396"
+      "title": "煙花逼近北馬里亞納群島前可能增強為超級颱風",
+      "dek": "紐西蘭國家廣播電台報導，預報機構預期煙花在抵達群島最北端島嶼前風力將進一步增強，逼近超級颱風門檻。",
+      "url": "https://www.rnz.co.nz/news/pacific/2183425/typhoon-in-fa-could-become-super-typhoon-before-reaching-northern-marianas"
     },
     {
       "rank": 2,
-      "title": "蘭嶼屏東澎湖強風特報　非颱風警報",
-      "dek": "中天新聞報導，中央氣象署對蘭嶼、屏東部分地區與澎湖發布陸上強風特報，與熱帶氣旋無關。",
-      "url": "https://ctinews.com/news/items/9pWzXzjjxv"
+      "title": "繼超強颱風查普之後，煙花轉而威脅馬里亞納群島",
+      "dek": "AccuWeather報導指出，煙花是今年第五個影響關島與馬里亞納群島的颱風，緊接在重創台灣的查普颱風之後登場。",
+      "url": "https://www.accuweather.com/en/hurricane/after-super-typhoon-champi-typhoon-fa-threatens-mariana-islands/1951092"
     },
     {
       "rank": 3,
-      "title": "煙花增強為強烈颱風　北轉遠離台灣",
-      "dek": "自由時報報導，氣象局預報員指出煙花距台灣遙遠，且路徑將北轉，對台灣無威脅。",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5620943"
-    },
-    {
-      "rank": 4,
-      "title": "煙花逼近最強強度　衝擊北馬里亞納",
-      "dek": "AccuWeather報導，煙花預計以近第4級颶風強度掠過北馬里亞納群島，為今年第5個襲擊關島地區的颱風。",
-      "url": "https://www.accuweather.com/en/hurricane/in-fa-will-be-the-5th-typhoon-to-affect-guam-and-mariana-islands-this-year/1951092"
-    },
-    {
-      "rank": 5,
-      "title": "北馬里亞納三島進入颱風警戒",
-      "dek": "Marianas Variety報導，當地政府對阿格里罕、帕甘與阿拉馬干島發布三級颱風警戒，塞班等島暫未列入直接預測路徑。",
-      "url": "https://mvariety.com/news/local/typhoon-condition-iii-declared-for-agrigan-pagan-and-alamagan-as-in-fa-nears/article_ccd24183-78f4-4a41-a973-66aa27f896dc.html"
-    },
-    {
-      "rank": 6,
-      "title": "煙花預計週五北側掠過塞班島",
-      "dek": "Isla Public報導，JTWC資料顯示煙花最大持續風速近每小時140英里，預計於塞班島以北約150英里處通過。",
+      "title": "當地報導證實：煙花週五路徑將北掠塞班島",
+      "dek": "塞班島當地媒體《Isla Public》報導，最新預測路徑顯示煙花將持續偏北，主要人口聚居地可望避開直接侵襲。",
       "url": "https://www.islapublic.org/news/2026-10-27/typhoon-in-fa-remains-on-track-to-pass-north-of-saipan-on-friday"
     },
     {
+      "rank": 4,
+      "title": "煙花逼近超級颱風強度，北馬里亞納三島發布颱風警戒",
+      "dek": "《關島郵報》報導，阿格里罕、帕甘與阿拉馬干三島已獲發颱風警戒，當時煙花持續風速已達每小時140英里。",
+      "url": "https://www.postguam.com/news/local/watches-issued-for-3-in-cnmi-as-in-fa-nearly-super-typhoon/article_0c31b0bc-6af2-41cb-a6db-b3d40debcc7d.html"
+    },
+    {
+      "rank": 5,
+      "title": "煙花逼近，北馬三島宣布進入颱風警戒三級狀態",
+      "dek": "《馬里亞納綜藝報》報導，當地應變機關已對阿格里罕、帕甘及阿拉馬干三島發布三級颱風警戒，預計煙花週五晚間最接近。",
+      "url": "https://www.mvariety.com/news/local/typhoon-condition-iii-declared-for-agrigan-pagan-and-alamagan-as-in-fa-nears/article_ccd24183-78f4-4a41-a973-66aa27f896dc.html"
+    },
+    {
+      "rank": 6,
+      "title": "煙花直指北馬里亞納群島，關島天氣預報維持晴朗",
+      "dek": "《關島郵報》另篇報導指出，煙花預測路徑與關島最近距離約350英里，塞班、天寧、羅塔三島均未發布風暴警戒。",
+      "url": "https://www.postguam.com/news/local/typhoon-in-fa-takes-aim-at-the-northern-marianas-while-guam-forecast-stays-fair/article_10693edc-7d1a-4373-9b68-59cae894db73.html"
+    },
+    {
       "rank": 7,
-      "title": "日本氣象廳估煙花增強後轉西北",
-      "dek": "Weathernews報導，煙花預計月底前速度加快逼近馬里亞納群島，11月初抵達小笠原群島附近時仍相當強勁。",
-      "url": "https://sea.weathernews.com/resources/202610/284"
+      "title": "查普颱風掠過台灣，造成1死500傷",
+      "dek": "路透社報導，查普颱風本月21至24日間掃過台灣，造成一人身亡、逾500人受傷，並引發大規模班機取消與停電。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
     },
     {
       "rank": 8,
-      "title": "氣旋阿納布登陸印度　至少3死",
-      "dek": "半島電視台報導，阿納布在安德拉省造成至少3人死亡與大量房屋損毀，已減弱為強烈氣旋風暴。",
-      "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
+      "title": "查普颱風重創台灣後持續北移朝中國大陸而去",
+      "dek": "《每日先鋒報》報導，消防單位統計查普颱風在台灣造成1人死亡、527人受傷，風暴中心隨後持續朝中國大陸方向移動。",
+      "url": "https://dailypioneer.com/world/typhoon-champi-kills-one-injures-527-in-taiwan-as-storm-heads-towards-china"
     },
     {
       "rank": 9,
-      "title": "印度撤離逾18萬人應對氣旋阿納布",
-      "dek": "NBC新聞報導，印度東岸多地火車航班取消，部分學校停課，以應對氣旋阿納布來襲。",
-      "url": "https://www.nbcnews.com/world/asia/india-evacuates-180000-cyclone-arnab-hits-coast-rcna606057"
+      "title": "阿納布氣旋減弱為深度低氣壓，奧迪沙邦逾8千人撤離",
+      "dek": "印度《展望》雜誌報導，阿納布登陸後迅速減弱，印度氣象局統計奧迪沙邦已有逾8,000人因強降雨撤離家園。",
+      "url": "https://www.outlookindia.com/national/cyclone-arnab-deep-depression-over-odisha-8000-evacuated-as-heavy-rain-hits-andhra-pradesh-jharkhand"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴凡斯維持弱勢　墨西哥無警戒",
-      "dek": "美國國家颶風中心資料顯示，凡斯風速僅每小時40英里，位於墨西哥太平洋岸外海，當局未發布沿岸警戒。",
-      "url": "https://www.nhc.noaa.gov/cyclones/"
+      "title": "阿納布殘餘系統持續降雨，奧迪沙與安德拉邦紅色警戒未解除",
+      "dek": "《Curly Tales》報導，印度氣象局針對奧迪沙邦與安德拉邦維持紅色警戒，部分地區學校停課、橋樑遭洪水淹沒。",
+      "url": "https://curlytales.com/india/trending/cyclone-arnab-update-heavy-rain-lashes-odisha-andhra-pradesh-as-red-alert-remains-in-place/amp/"
     }
   ]
 }
