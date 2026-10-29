@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T14:11:00+08:00",
+  "generated_at": "2026-10-29T15:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未對台灣任何地區發布海上或陸上颱風警報；薔琵颱風相關警報已於10月24日晚間解除，未來120小時颱風暴風圈侵襲台灣各縣市的機率均為零。",
+  "alert_desc": "中央氣象署目前並未對台灣任何地區發布海上或陸上颱風警報；燦鄙颱風相關警報已於10月24日至25日解除，此後未再發布新警報。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市（市長盧秀燕）曾在薔琵颱風期間，於10月23日、24日兩度宣布停班停課，但隨著薔琵遠離，行政院停班停課查詢系統顯示，10月29日全台並無任何停班停課紀錄，台中目前亦無直接受風雨影響之虞。"
+    "text": "目前無直接影響。台中市曾在燦鄙颱風期間由市長盧秀燕召開全市防颱會議並宣布停班停課，隨著燦鄙遠離並消散，台中目前已無現行警報或停班停課措施，亦無風雨直接影響。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "強颱「煙花」逼近馬里亞納群島 氣象署：侵台機率為零",
-    "dek": "繼薔琵颱風擦邊台灣北部釀一死、逾五百人受傷後，今年第十個強烈颱風「煙花」在關島外海迅速增強，中央氣象署預估未來120小時暴風圈侵襲台灣機率為零，台中僅於薔琵颱風期間一度停班停課。",
+    "title": "強颱「燦鄙」掠境後消散，太平洋頭號風暴換成「煙花」，台灣暫無警戒",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，台灣暫時脫離風暴威脅，但今年太平洋颱風季仍在持續升溫。",
     "url": "https://www.accuweather.com/en/hurricane/after-super-typhoon-champi-typhoon-in-fa-threatens-mariana-islands/1951092"
   },
   "headline_body": [
-    "截至10月29日，台灣周邊海面暫無颱風威脅。上週擦過台灣北部、造成一人死亡、逾五百人受傷，並一度使台中等城市連續兩天停班停課的薔琵颱風（Champi），早已遠離台灣本島，中央氣象署相關的海上及陸上颱風警報也已於10月24日晚間全數解除。",
-    "取而代之的，是在薔琵之後迅速生成、如今已躍升為今年太平洋西岸第十個強烈颱風的「煙花」（In-fa）。據美國《AccuWeather》報導，煙花正逼近北馬里亞納群島——該群島先前也曾受薔琵外圍環流影響——預料將帶來強風與致災性暴雨，是今年第五個襲擊關島與馬里亞納地區的風暴系統，週末期間不排除出現滯留現象。馬來西亞《星報》援引日本氣象廳資料指出，截至10月27日上午9時，煙花中心氣壓約960百帕、近中心最大風速達每秒45公尺，預估將於11月1日前後接近日本小笠原群島海域，但路徑時間點仍存在不確定性；日本媒體《NewsOnJapan》10月29日報導則指出，受日本本土高壓系統影響，煙花在11月初的行進方向可能出現多次變化。台灣的奇摩新聞也引述氣象署說法，重申煙花不會對台灣造成直接威脅。",
-    "中央氣象署目前並未對台灣任何地區發布海上或陸上颱風警報，未來120小時預報模式顯示，煙花暴風圈侵襲台灣各縣市的機率均為零。台中市（市長盧秀燕）曾在薔琵颱風期間，於10月23日、24日兩度宣布停班停課，但隨著薔琵遠離，行政院停班停課查詢系統顯示，10月29日全台並無任何停班停課紀錄，台中目前亦無直接受風雨影響之虞。",
-    "在其他海域，印度氣象局預報的氣旋「阿爾納布」（Arnab）已於10月28日在安德拉邦沿岸登陸，陣風最大達每小時140公里，當局發布紅色警戒，並有逾57萬人被列為高風險對象。至於東太平洋，一度增強為大型颶風的「凡斯」（Vance）已於10月24日前後減弱為熱帶風暴，雖未直接登陸墨西哥海岸，但持續對科利馬、哈利斯科等太平洋沿岸多州構成強降雨與危險海象威脅。美國國家颶風中心則表示，大西洋海域目前無任何活躍的熱帶氣旋。"
+    "颱風過後的寧靜，為台灣帶來短暫喘息。超強颱風「燦鄙」（Champi）本月23日至24日掠過台灣東北部外海，雖未確認直接登陸，仍造成1人死亡、約500至616人受傷，是今年地球上威力最強的風暴。路透社報導，燦鄙帶來的強風吹倒路樹，導致約28萬户停電、逾900班航班取消。數日後，這場風暴在日本沖繩以北減弱為溫帶低氣壓，據日本時事通信社與SBS新聞報導，於26日至27日夜間完全消散，不再構成威脅。",
+    "然而，這段平靜恐難持久。氣象機構正密切觀察下一個登場的風暴「煙花」（In-Fa）——今年太平洋第31號颱風，目前已成為西太平洋最受矚目的活躍熱帶氣旋。據AccuWeather報導，截至26日，日本氣象廳估計其中心位於北緯14.0度、東經163.0度，路徑將接近或經過北馬里亞納群島，預期增強為「非常強」等級，下週甚至可能進一步影響日本伊豆與小笠原群島。目前預報顯示，煙花尚未對台灣或菲律賓構成威脅。",
+    "根據中央氣象署最新資料，全台目前沒有任何海上或陸上颱風警報生效——燦鄙過境後的警報已於24日至25日解除，此後未再發布新警報。台中市在燦鄙來襲期間一度宣布停班停課，市長盧秀燕並召開全市防颱會議，提醒民眾留意「風強在前、雨強在後」的特性；如今該市已無直接影響，亦無現行警報或停班停課措施。",
+    "與此同時，在印度洋另一端，一場規模更大的風暴正牽動全球目光，但與台灣所在的海域無關。據印度氣象局與Gulf News、Down To Earth等媒體報導，極強氣旋風暴「阿爾納布」（Arnab）於27日至28日在印度安得拉邦海岸登陸，促使安得拉邦與奧迪沙邦撤離逾13萬居民。氣象專家指出，在強烈厄爾尼諾現象影響下，今年太平洋颱風季活躍程度已遠高於平均，台灣雖暫無近憂，仍需留意後續系統動向。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "強颱煙花威脅馬里亞納群島，緊接薔琵颱風侵擾之後",
-      "dek": "美國《AccuWeather》報導，煙花正朝北馬里亞納群島逼近，可能帶來致災強風與暴雨，是今年第五個襲擊關島地區的風暴。",
-      "url": "https://www.accuweather.com/en/hurricane/after-super-typhoon-champi-typhoon-in-fa-threatens-mariana-islands/1951092"
+      "title": "燦鄙颱風掠境，台灣1死500餘人受傷",
+      "dek": "路透社報導，這場今年全球最強風暴雖未直接登陸台灣，仍在東北部屏東琉球一帶造成1人死亡、逾500人受傷，並導致逾900班航班取消、約28萬户停電。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/24/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured"
     },
     {
       "rank": 2,
-      "title": "煙花最快11月1日逼近日本小笠原群島",
-      "dek": "馬來西亞《星報》援引日本氣象廳資料指出，煙花中心氣壓已降至960百帕，預估週日前後接近小笠原群島海域，但路徑時程仍有變數。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/typhoon-in-fa-may-approach-japans-ogasawara-islands-by-sunday"
+      "title": "燦鄙逼近，中央氣象署發布陸上警報，逾百班航班取消",
+      "dek": "中央社報導，中央氣象署於21日晚間發布海上颱風警報，22日上午再發布陸上警報，預估風速達每小時184至198公里；蘭嶼、綠島自中午起停班停課，逾125班航班取消。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     },
     {
       "rank": 3,
-      "title": "罕見的31號颱風「煙花」持續增強，創日本13年來最高紀錄",
-      "dek": "日本《NewsOnJapan》報導，受本土高壓系統牽引，煙花在11月初的路徑可能多次轉向，預估將先接近小笠原群島以南海域。",
-      "url": "https://newsonjapan.com/article/151122.php"
+      "title": "燦鄙衝擊台灣經濟，931班航班停飛",
+      "dek": "IDN Financials報導，燦鄙來襲期間全台931班航班停飛，金融市場暫停交易，約28萬户一度停電，多數已於週六上午恢復供電。",
+      "url": "https://www.idnfinancials.com/news/70720/typhoon-champi-disrupts-taiwans-economy-grounding-931-flights"
     },
     {
       "rank": 4,
-      "title": "煙花成今年第十個強烈颱風，氣象署重申不會侵襲台灣",
-      "dek": "奇摩新聞報導，煙花持續增強，預估週末將於日本海域轉北，氣象署並未將台灣列入其暴風侵襲範圍。",
-      "url": "https://n.yam.com/Article/20261028304337"
+      "title": "燦鄙逼近，台中市長盧秀燕召開防颱會議，宣布停班停課",
+      "dek": "自由時報報導，台中市長盧秀燕主持全市防颱整備會議，提醒市民留意「風強在前、雨強在後」的特性；全市納入陸上警報範圍，宣布停班停課，並警告沿海地區將出現強陣風。",
+      "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5616363"
     },
     {
       "rank": 5,
-      "title": "氣象署發布薔琵颱風海上警報",
-      "dek": "中央氣象署10月22日發布海上颱風警報，預估薔琵將於23日最接近台灣，但陸上警報最終未發布，暴風核心始終未直接登陸。",
-      "url": "https://www.cna.com.tw/news/ahel/202610220004.aspx"
+      "title": "超強颱風燦鄙未直撲台灣，為日本、菲律賓帶來強降雨",
+      "dek": "Khaleej Times報導，燦鄙掠過台灣後轉向日本，九州至東京一帶面臨強降雨與坍方風險；在此之前，這場風暴也曾影響菲律賓。",
+      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
     },
     {
       "rank": 6,
-      "title": "薔琵遠離，氣象署解除海上警報；新生颱風煙花不影響台灣",
-      "dek": "聯合新聞網報導，隨薔琵加速遠離，氣象署預估於10月24日晚間20時30分解除海上颱風警報，並表示剛形成的煙花不會影響台灣。",
-      "url": "https://udn.com/news/story/125052/9835277"
+      "title": "燦鄙減弱為溫帶氣旋，日本坍方風險未解除",
+      "dek": "據日本時事通信社、SBS新聞報導，燦鄙於26日至27日夜間在沖繩以北減弱為溫帶低氣壓，持續向九州方向移動；即便系統已消散，日本多地仍面臨強降雨與坍方威脅。",
+      "url": "https://news.sbs.co.kr/english/endPagePrintPopup.do?news_id=N1008814278"
     },
     {
       "rank": 7,
-      "title": "薔琵颱風侵襲台灣，造成一死、數百人受傷",
-      "dek": "卡達半島電視台報導，薔琵颱風掠過台灣東北部，造成一人死亡、逾五百人受傷，當局曾警告恐有「致災性強風」，逾五千人疏散。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "燦鄙之後，「煙花」逼近馬里亞納群島",
+      "dek": "AccuWeather報導，今年第31號風暴、超強颱風「煙花」預測將接近或經過北馬里亞納群島，帶來強降雨與破壞性強風；截至26日，日本氣象廳估計其中心位於北緯14.0度、東經163.0度，預期增強為「非常強」等級，下週可能進一步影響日本伊豆、小笠原群島。",
+      "url": "https://www.accuweather.com/en/hurricane/after-super-typhoon-champi-typhoon-in-fa-threatens-mariana-islands/1951092"
     },
     {
       "rank": 8,
-      "title": "超級颱風薔琵躍升今年最強風暴之一，朝台灣及中國東岸逼近",
-      "dek": "雅虎新聞／《福斯天氣》報導，薔琵一度與超級颱風「山陶卡」並列今年最強風暴，造成近千班航班取消、約5.6萬戶停電。",
-      "url": "https://www.yahoo.com/news/weather-news/article/super-typhoon-champi-becomes-one-of-2026s-strongest-storms-as-it-heads-toward-taiwan-and-eastern-china-212554537.html"
+      "title": "氣旋「阿爾納布」登陸印度安得拉邦海岸",
+      "dek": "Republic World報導，印度氣象局表示，極強氣旋風暴「阿爾納布」於27日夜間在安得拉邦亞南與卡基納達附近登陸，風速約每小時135公里，陣風可達150公里。",
+      "url": "https://www.republicworld.com/india/cyclone-arnab-hits-andhra-coast-landfall-underway-near-yanam-to-complete-by-4-am-says-imd-2026-10-27-139798"
     },
     {
       "rank": 9,
-      "title": "氣旋「阿爾納布」登陸印度安德拉邦，陣風達每小時140公里",
-      "dek": "印度《共和世界報》報導，印度氣象局預警氣旋阿爾納布10月28日登陸安德拉邦沿岸，當局發布紅色警戒，逾57萬人被列為高風險對象。",
-      "url": "https://www.republicworld.com/india/cyclone-arnab-to-hit-andhra-coast-on-oct-28-with-140-kmph-gusts-imd-warns-2026-10-26-139676"
+      "title": "氣旋阿爾納布逼近印度，逾13萬人撤離",
+      "dek": "Gulf News報導，安得拉邦與奧迪沙邦已撤離逾13.6萬名居民，啟用1763處避難所，並部署15支國家災難應變部隊（NDRF）小組。",
+      "url": "https://gulfnews.com/world/asia/india/cyclone-arnab-bears-down-on-india-136000-evacuated-as-andhra-odisha-on-alert-1.500725700"
     },
     {
       "rank": 10,
-      "title": "颶風「凡斯」減弱為熱帶風暴，仍威脅墨西哥太平洋沿岸",
-      "dek": "美聯社報導，一度達大型颶風等級的凡斯已於10月24、25日間減弱為熱帶風暴，雖未直接登陸，仍對墨西哥多個沿岸州構成強降雨與危險海象威脅。",
-      "url": "https://www.clickondetroit.com/news/national/2026/10/25/vance-no-longer-a-hurricane-but-as-a-tropical-storm-still-threatens-mexicos-pacific-coast/"
+      "title": "奧迪沙邦撤離4.78萬人，氣旋阿爾納布引發強降雨",
+      "dek": "Down To Earth報導，奧迪沙邦8個行政區共撤離約4.8萬人，約721户房屋受損，逾4480公頃農地遭洪水淹沒。",
+      "url": "https://www.downtoearth.org.in/natural-disasters/47830-people-evacuated-as-cyclone-arnab-triggers-heavy-rain-in-odisha"
     }
   ]
 }
