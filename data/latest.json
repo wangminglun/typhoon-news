@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T20:11:00+08:00",
+  "generated_at": "2026-11-01T21:15:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據現有報導，颱風珊珠（Champi）警報於十月下旬預期解除後，中央氣象署並未發布新的海上或陸上颱風警報；太平洋海域目前唯一活躍的颱風丹瑞（In-fa）正朝日本方向移動，對台灣沒有直接威脅。",
+  "alert_desc": "中央氣象署目前未對任何風暴系統發布海上或陸上颱風警報。颱風璨帕（Champi）警報已於十月二十四日解除，持續減弱中的颱風烟花（In-fa）則遠在呂宋島以東海面，對台灣沒有直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中未受任何活躍颱風系統影響。颱風珊珠於十月下旬過境期間，台中曾因其外圍環流雨勢被納入停班停課範圍，但該系統已消散，目前台中並無現行停班停課措施。"
+    "text": "目前無直接影響。截至11月1日，無任何活躍颱風系統對台中構成風雨威脅，當地未發布任何風雨特報或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "颱風警報解除　丹瑞逼近日本",
-    "dek": "珊珠颱風遠離後台灣暫無警報，太平洋今年風季異常活躍"
+    "title": "璨帕警報解除逾一週，減弱中的「烟花」遠飄呂宋島外，台灣暫無颱風警戒",
+    "dek": "中央氣象署未對任何風暴發布新警報，菲律賓氣象機構則密切觀察持續減弱、位置偏遠的「烟花」是否會進入其責任區。"
   },
   "headline_body": [
-    "颱風珊珠（Champi）過境逾一週後，台灣目前未有任何海上或陸上颱風警報，氣象觀測顯示太平洋上唯一活躍的丹瑞颱風（In-fa）正朝日本方向移動，而非台灣。",
-    "根據現有报導，中央氣象署自珊珠颱風警報於十月下旬預期解除以來，並未發布新的颱風警報；本社目前無法直接查核氣象署官網資料，此判斷係根據近日新聞報導綜合研判。珊珠颱風一度增強為超級颱風，日本氣象廳觀測其中心氣壓低至900百帕、近中心最大風速每秒約115節，為今年太平洋風季最強系統之一。該颱風十月二十三日至二十四日掠過台灣東北部宜蘭近海外圍，雖未直接登陸，仍造成一人於琉球嶼海域遭浪捲走罹難，另有約350至527人受傷，受傷人數因各家媒體統計而略有差異。",
-    "路透社報導，珊珠颱風來襲期間，中央氣象署測得暴風圈最大陣風時速達191公里，全台一度有逾28.8萬戶停電，航班取消數一度逼近千班，次日仍有259班取消，雙北地區學校與機關連續兩天停止上班上課。台中市亦因珊珠外圍環流影響雨勢，一度納入停班停課範圍，但目前該系統已消散，台中並無現行停班停課措施。",
-    "目前全球唯一受關注的活躍熱帶氣旋為丹瑞颱風。根據日本氣象廳十月二十八日發布的警報，並經日本氣象株式會社（Weathernews）引述，丹瑞已達「非常強」等級，預計十月三十日至三十一日北側通過北馬里亞納群島，十一月一日左右接近小笠原群島海域，甚至可能進一步增強至「猛烈」等級。該系統路徑指向日本，而非台灣，而搜尋結果未能確認十月二十八日後的最新位置與強度，相關後續預報尚待證實。美聯社旗下天氣機構AccuWeather指出，丹瑞是今年第五個影響關島與北馬里亞納群島的颱風，當地已獲豪雨及強風警示。",
-    "今年太平洋風季異常活躍。香港天文台在其「天氣隨筆」部落格分析指出，截至十月六日，西北太平洋及南海已有34個熱帶氣旋生成，遠高於一月至九月約21個的平均值，其中八月單月即形成12個系統，為1961年以來同期最多。氣象界普遍將今年風季異常歸因於厄爾尼諾現象增強，Weathernews季節展望預估全年風暴總數將達28至29個，高於常年平均。儘管南海及菲律賓周邊海域生成條件趨於不利，西北太平洋主體仍然活躍，且風暴路徑呈現北轉趨向日本的傾向。"
+    "台灣沿岸已逾一週未見任何颱風警報生效。中央氣象署的陸上颱風警報在10月24日下午兩點半解除、海上警報當晚跟進解除後，天色逐漸放晴；但在兩千多公里外的太平洋上，持續減弱中的颱風「烟花」（In-fa）仍牽動著整個區域的氣象視線。",
+    "這是本月第二個牽動台灣及周邊地區的風暴系統。10月22日至24日間，強烈颱風「璨帕」（Champi）一度達到相當於五級颶風的強度，雖未直接登陸台灣，但外圍環流為東北部帶來強風豪雨，造成1人死亡、數百人輕重傷，並導致全台空域大規模取消航班，美日聯合軍演也一度受阻，路透社與《星報》（The Star）當時引述氣象署資料報導。璨帕隨後沿中國東部沿海北移，據《南華早報》報導，當地一度疏散數千居民、停飛大批航班，風暴才逐漸減弱並轉向日本方向遠離台灣海域。",
+    "在璨帕北移約十天後，新風暴「烟花」接續生成，一度在北馬里亞納群島海域迅速增強為超級颱風，風速一度達每小時185公里、瞬間陣風230公里，紐西蘭媒體RNZ Pacific與AccuWeather均報導，烟花成為今年以來第五個影響關島及馬里亞納群島的風暴系統；AccuWeather並指出，這反映今年太平洋颱風季在強烈厄爾尼諾現象影響下異常活躍，是1951年以來第五個在10月底前就出現31個命名風暴的年份，日本Weathernews當時預測烟花將持續增強，逼近小笠原群島海域。",
+    "然而根據菲律賓大氣地球物理和天文服務管理局（PAGASA）與GMA News11月1日清晨的最新觀測，烟花已自巔峰強度明顯減弱，最大持續風速降至每小時約155公里，中心位於呂宋島以東約2290公里的海面，仍在菲律賓責任區（PAR）之外，持續朝西北西方向移動。《菲律賓星報》報導，PAGASA正觀察該風暴是否會掠過責任區東北邊界，若真的進入，當地將賦予臨時名稱「Samuel」，但目前預料不會對菲律賓造成直接衝擊。",
+    "多個國際氣象機構的最新資料均未顯示烟花對台灣或日本本土構成直接威脅。氣象署目前維持「無警戒」狀態，台中與全台其他地區均未發布任何風雨特報或停班停課公告。不過PAGASA已預告，在強勢厄爾尼諾年景下，11月及12月仍可能有一至二個新熱帶氣旋接連形成或進入菲律賓責任區，太平洋颱風季的平靜恐怕只是短暫間歇。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "珊珠颱風掠台　一死數百傷",
-      "dek": "半島電視台報導，颱風珊珠釀一人遭浪捲走死亡，數百人受傷。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "烟花持續減弱，中心已飄至呂宋島以東2290公里外、仍在PAR之外",
+      "dek": "GMA News的11月1日即時報導指出，烟花最大持續風速已降至每小時155公里，位置遠離菲律賓責任區。",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1007876/live-updates-undas-2026-nov-1-2026/story/"
     },
     {
       "rank": 2,
-      "title": "珊珠擦邊而過　全台災情浮現",
-      "dek": "路透社報導，珊珠颱風造成一死500傷，近29萬戶停電。",
-      "url": "https://cyprus-mail.com/2026/10/24/typhoon-champi-sweeps-past-taiwan-one-dead-and-500-injured"
+      "title": "PAGASA密切觀察「超級颱風」烟花是否掠過菲律賓責任區邊界",
+      "dek": "《菲律賓星報》報導，烟花風速一度達每小時185公里，氣象機構預料即使掠過邊界也不會直接衝擊菲國。",
+      "url": "https://www.philstar.com/headlines/2026/10/31/2566839/super-typhoon-outside-par-being-monitored"
     },
     {
       "rank": 3,
-      "title": "迎戰珊珠　全台停班停課",
-      "dek": "外電報導，台灣為防範珊珠來襲取消近千班航班並停止上班上課。",
-      "url": "https://www.businessday.co.za/world/2026-10-23-watch-taiwan-shuts-down-before-typhoon-champi-nearly-1000-flights-cancelled/"
+      "title": "烟花逼近北馬里亞納群島前有望增強為超級颱風",
+      "dek": "紐西蘭媒體RNZ Pacific報導，烟花在10月底逼近北馬里亞納群島海域時預測將進一步增強，當地隨即發布警戒。",
+      "url": "https://www.rnz.co.nz/news/pacific/2183425/typhoon-in-fa-could-become-super-typhoon-before-reaching-northern-marianas"
     },
     {
       "rank": 4,
-      "title": "航班大量取消　台灣戒備珊珠",
-      "dek": "外電報導指出，珊珠逼近促使台灣政府下令大規模航班取消與停班。",
-      "url": "https://jang.com.pk/en/75060-typhoon-champi-forces-taiwan-shutdown-as-hundreds-of-flights-cancelled-news"
+      "title": "日本氣象機構：烟花持續增強，逼近小笠原群島海域",
+      "dek": "Weathernews指出，今年太平洋颱風季異常活躍，烟花是1951年以來第五個在10月底前就達到31個命名風暴紀錄的年份產物。",
+      "url": "https://weathernews.jp/news/202610/280061/"
     },
     {
       "rank": 5,
-      "title": "珊珠增強預報　直指台灣",
-      "dek": "Weathernews引述日本氣象廳預報，珊珠將增強並逼近台灣。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261019-01/"
+      "title": "烟花成為今年第五個襲擊關島及馬里亞納群島的颱風",
+      "dek": "AccuWeather分析指出，強烈厄爾尼諾現象助長了今年異常活躍的颱風季，烟花緊接在璨帕之後約十天生成。",
+      "url": "https://www.accuweather.com/en/hurricane/in-fa-will-be-the-5th-typhoon-to-affect-guam-and-mariana-islands-this-year/1951092"
     },
     {
       "rank": 6,
-      "title": "丹瑞增強　逼近小笠原群島",
-      "dek": "Weathernews報導，丹瑞颱風預計十一月初接近日本小笠原群島海域。",
-      "url": "https://sea.weathernews.com/resources/202610/284"
+      "title": "璨帕過境後，中國東部沿海疏散數千人、航班大規模取消",
+      "dek": "《南華早報》報導，璨帕掠過台灣後持續沿中國東部沿海北移，上海周邊地區展開大規模疏散與航班取消。",
+      "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china"
     },
     {
       "rank": 7,
-      "title": "丹瑞來襲　馬里亞納戒備",
-      "dek": "AccuWeather指出，丹瑞是今年第五個威脅關島及馬里亞納群島的颱風。",
-      "url": "https://www.accuweather.com/en/hurricane/after-super-typhoon-champi-typhoon-in-fa-threatens-mariana-islands/1951092"
+      "title": "超級颱風璨帕未直接登陸台灣，但為台日菲帶來強降雨",
+      "dek": "《海灣時報》報導，璨帕雖未正面襲擊台灣，仍為台灣、日本與菲律賓帶來豪雨，隨後轉向日本方向減弱。",
+      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
     },
     {
       "rank": 8,
-      "title": "厄爾尼諾助長　風季異常活躍",
-      "dek": "Weathernews季節展望顯示，厄爾尼諾增強使2026年風季活動高於正常。",
-      "url": "https://sea.weathernews.com/resources/202609/232"
+      "title": "颱風璨帕襲台造成1死、數百人受傷",
+      "dek": "半島電視台報導，璨帕一度達到五級颶風相當強度，掠過台灣東北部沿岸時造成1人死亡、約350至616人受傷，全台陷入大規模停班停課與航班取消。",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
       "rank": 9,
-      "title": "今年風暴數創新高　天文台解析",
-      "dek": "香港天文台指出，今年已生成34個熱帶氣旋，遠超平均值。",
-      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
+      "title": "璨帕來襲前，中央氣象署發布陸上警報",
+      "dek": "《星報》引述路透社與氣象署資料報導，璨帕逼近前已造成逾百班航班取消，並打斷美日聯合軍演。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     },
     {
       "rank": 10,
-      "title": "颶風越洋變身　編號28颱風",
-      "dek": "Weathernews報導，颶風諾羅跨越換日線成為西北太平洋第28號颱風。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261007-01/"
+      "title": "PAGASA展望：年底前菲律賓責任區可能再有4個熱帶氣旋",
+      "dek": "GMA News報導，菲律賓氣象機構預測在強勢厄爾尼諾影響下，11月與12月責任區內恐再形成或進入最多4個熱帶氣旋，且降雨將低於正常值。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
     }
   ]
 }
