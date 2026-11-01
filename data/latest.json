@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T21:15:00+08:00",
+  "generated_at": "2026-11-01T22:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何風暴系統發布海上或陸上颱風警報。颱風璨帕（Champi）警報已於十月二十四日解除，持續減弱中的颱風烟花（In-fa）則遠在呂宋島以東海面，對台灣沒有直接威脅。",
+  "alert_desc": "中央氣象署目前未對任何風暴系統發布海上或陸上颱風警報。颱風璨帕（Champi）已完全消散，相關警報解除逾一週；持續減弱中的超強颱風烟花（In-fa）則遠在呂宋島以東海面，對台灣沒有直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。截至11月1日，無任何活躍颱風系統對台中構成風雨威脅，當地未發布任何風雨特報或停班停課公告。"
+    "text": "目前無直接影響。截至11月1日，無任何活躍颱風系統對台中構成風雨威脅，台中地區天氣僅受東北季風影響，當地未發布任何風雨特報或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "璨帕警報解除逾一週，減弱中的「烟花」遠飄呂宋島外，台灣暫無颱風警戒",
-    "dek": "中央氣象署未對任何風暴發布新警報，菲律賓氣象機構則密切觀察持續減弱、位置偏遠的「烟花」是否會進入其責任區。"
+    "title": "颱風「烟花」持續減弱遠離台灣，中央氣象署：本島暫無颱風警報",
+    "dek": "超強颱風「烟花」（In-fa）掠過北馬里亞納群島後逐漸減弱，位置遠在菲律賓責任區之外，台灣當前天氣僅受東北季風影響，陸上與海上颱風警報均未發布。"
   },
   "headline_body": [
-    "台灣沿岸已逾一週未見任何颱風警報生效。中央氣象署的陸上颱風警報在10月24日下午兩點半解除、海上警報當晚跟進解除後，天色逐漸放晴；但在兩千多公里外的太平洋上，持續減弱中的颱風「烟花」（In-fa）仍牽動著整個區域的氣象視線。",
-    "這是本月第二個牽動台灣及周邊地區的風暴系統。10月22日至24日間，強烈颱風「璨帕」（Champi）一度達到相當於五級颶風的強度，雖未直接登陸台灣，但外圍環流為東北部帶來強風豪雨，造成1人死亡、數百人輕重傷，並導致全台空域大規模取消航班，美日聯合軍演也一度受阻，路透社與《星報》（The Star）當時引述氣象署資料報導。璨帕隨後沿中國東部沿海北移，據《南華早報》報導，當地一度疏散數千居民、停飛大批航班，風暴才逐漸減弱並轉向日本方向遠離台灣海域。",
-    "在璨帕北移約十天後，新風暴「烟花」接續生成，一度在北馬里亞納群島海域迅速增強為超級颱風，風速一度達每小時185公里、瞬間陣風230公里，紐西蘭媒體RNZ Pacific與AccuWeather均報導，烟花成為今年以來第五個影響關島及馬里亞納群島的風暴系統；AccuWeather並指出，這反映今年太平洋颱風季在強烈厄爾尼諾現象影響下異常活躍，是1951年以來第五個在10月底前就出現31個命名風暴的年份，日本Weathernews當時預測烟花將持續增強，逼近小笠原群島海域。",
-    "然而根據菲律賓大氣地球物理和天文服務管理局（PAGASA）與GMA News11月1日清晨的最新觀測，烟花已自巔峰強度明顯減弱，最大持續風速降至每小時約155公里，中心位於呂宋島以東約2290公里的海面，仍在菲律賓責任區（PAR）之外，持續朝西北西方向移動。《菲律賓星報》報導，PAGASA正觀察該風暴是否會掠過責任區東北邊界，若真的進入，當地將賦予臨時名稱「Samuel」，但目前預料不會對菲律賓造成直接衝擊。",
-    "多個國際氣象機構的最新資料均未顯示烟花對台灣或日本本土構成直接威脅。氣象署目前維持「無警戒」狀態，台中與全台其他地區均未發布任何風雨特報或停班停課公告。不過PAGASA已預告，在強勢厄爾尼諾年景下，11月及12月仍可能有一至二個新熱帶氣旋接連形成或進入菲律賓責任區，太平洋颱風季的平靜恐怕只是短暫間歇。"
+    "在西太平洋今年罕見活躍的颱風季中，台灣如今正處於一段少見的平靜期。曾在十月下旬迫使多地停班停課的強烈颱風「璨帕」（Champi）已完全消散，中央氣象署當時發布的相關警報也已解除超過一週；而目前全球唯一具規模的熱帶氣旋——超強颱風「烟花」（In-fa），則持續減弱，且距離台灣遙遠，對本島並無直接威脅。",
+    "根據菲律賓大氣地理天文服務管理局（PAGASA）最新公告，「烟花」目前位於菲律賓責任區（PAR）之外，距離北呂宋以東約2,290公里，該機構表示這場風暴預料不會直接影響菲律賓，但仍將持續追蹤其動向。《菲律賓星報》（Philstar）與GMA News的報導亦指出，截至11月1日清晨的公告，菲律賓境內並無任何颱風，當地雨勢主要來自切變線與東北季風（amihan），與「烟花」無關。",
+    "「烟花」本月稍早曾以近似四級颱風的強度掠過北馬里亞納群島。據AccuWeather報導，該系統曾帶來強風暴雨，是今年第四至第五個影響關島與北馬里亞納群島的風暴系統；日本氣象廳（JMA）資料經Weathernews引述顯示，「烟花」於10月30日至31日間自關島以北海域通過，對塞班島影響有限，並預期11月2日後將逐步減弱。根據Weather Underground與RainViewer等追蹤機構截至11月1日清晨6時（UTC）的資料，「烟花」中心位於北緯22.3度、東經144.1度附近，持續風速約落在每小時165至170公里，中心氣壓967百帕，在轉向氣流偏弱、海水降溫的環境下呈緩慢減弱趨勢，路徑並未指向台灣、韓國或菲律賓。",
+    "值得注意的是，西太平洋海域目前尚無新系統形成以取代「烟花」。台灣本週天氣則完全由季節性東北季風主導：中央氣象署與《自由時報英文版》（Taipei Times）均指出，今日天氣仍將偏暖乾燥，但隨後兩波東北季風將為迎風面地區帶來降雨，北部低溫更將逐漸逼近攝氏20度，報導中均未提及任何颱風警報或颱風相關影響。",
+    "更廣的氣候背景顯示，今年西太平洋颱風季異常活躍。據FOX Weather分析，強烈厄爾尼諾現象使海溫顯著偏暖，「烟花」已是今年第七個達到超強颱風強度的系統。與此同時，紐西蘭國家水文與大氣研究院（NIWA）發布的季節展望則預測，南太平洋氣旋季（自11月1日起至明年4月）預計將出現7至11個命名熱帶氣旋，與歷史平均約9個相近，但該海域目前的動態與台灣並無直接關聯。整體而言，截至11月1日，台灣並無任何活躍颱風威脅。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "烟花持續減弱，中心已飄至呂宋島以東2290公里外、仍在PAR之外",
-      "dek": "GMA News的11月1日即時報導指出，烟花最大持續風速已降至每小時155公里，位置遠離菲律賓責任區。",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1007876/live-updates-undas-2026-nov-1-2026/story/"
-    },
-    {
-      "rank": 2,
-      "title": "PAGASA密切觀察「超級颱風」烟花是否掠過菲律賓責任區邊界",
-      "dek": "《菲律賓星報》報導，烟花風速一度達每小時185公里，氣象機構預料即使掠過邊界也不會直接衝擊菲國。",
+      "title": "PAGASA：超強颱風「烟花」位於責任區外，持續監測中",
+      "dek": "菲律賓大氣地理天文服務管理局表示，「烟花」目前遠在菲律賓責任區以東海域，預料不會直接影響菲國，但仍將持續追蹤其動向。",
       "url": "https://www.philstar.com/headlines/2026/10/31/2566839/super-typhoon-outside-par-being-monitored"
     },
     {
+      "rank": 2,
+      "title": "GMA News：諸聖節連假期間，菲律賓境內無颱風",
+      "dek": "GMA News報導指出，截至11月1日清晨公告，「烟花」距北呂宋以東約2,290公里、位於責任區外，菲律賓當地降雨主要來自切變線與東北季風，與該颱風無關。",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1007876/live-updates-undas-2026-nov-1-2026/story/"
+    },
+    {
       "rank": 3,
-      "title": "烟花逼近北馬里亞納群島前有望增強為超級颱風",
-      "dek": "紐西蘭媒體RNZ Pacific報導，烟花在10月底逼近北馬里亞納群島海域時預測將進一步增強，當地隨即發布警戒。",
-      "url": "https://www.rnz.co.nz/news/pacific/2183425/typhoon-in-fa-could-become-super-typhoon-before-reaching-northern-marianas"
+      "title": "日本氣象廳資料：「烟花」掠過北馬里亞納群島，衝擊有限",
+      "dek": "據Weathernews引述日本氣象廳（JMA）資料，「烟花」曾以「非常強」等級颱風強度自北馬里亞納群島以北海域通過，對塞班島影響有限，預期11月2日後逐步減弱。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261028-01/"
     },
     {
       "rank": 4,
-      "title": "日本氣象機構：烟花持續增強，逼近小笠原群島海域",
-      "dek": "Weathernews指出，今年太平洋颱風季異常活躍，烟花是1951年以來第五個在10月底前就達到31個命名風暴紀錄的年份產物。",
-      "url": "https://weathernews.jp/news/202610/280061/"
+      "title": "AccuWeather：繼超強颱風「璨帕」後，「烟花」逼近馬里亞納群島",
+      "dek": "AccuWeather報導指出，「烟花」曾以近似四級颱風強度帶來強風暴雨，是今年第四至第五個影響關島與北馬里亞納群島的風暴系統。",
+      "url": "https://www.accuweather.com/en/hurricane/after-super-typhoon-champi-typhoon-in-fa-threatens-mariana-islands/1951092"
     },
     {
       "rank": 5,
-      "title": "烟花成為今年第五個襲擊關島及馬里亞納群島的颱風",
-      "dek": "AccuWeather分析指出，強烈厄爾尼諾現象助長了今年異常活躍的颱風季，烟花緊接在璨帕之後約十天生成。",
-      "url": "https://www.accuweather.com/en/hurricane/in-fa-will-be-the-5th-typhoon-to-affect-guam-and-mariana-islands-this-year/1951092"
+      "title": "影片報導：超強颱風「烟花」強度未減，掠過北馬里亞納群島",
+      "dek": "Yahoo News影片報導證實，「烟花」週末期間以近似四級颱風強度掠過北馬里亞納群島最北端島嶼，為今年第七個達超強颱風等級的系統。",
+      "url": "https://yahoo.com/news/videos/super-typhoon-fa-remains-powerful-165811547.html"
     },
     {
       "rank": 6,
-      "title": "璨帕過境後，中國東部沿海疏散數千人、航班大規模取消",
-      "dek": "《南華早報》報導，璨帕掠過台灣後持續沿中國東部沿海北移，上海周邊地區展開大規模疏散與航班取消。",
-      "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china"
+      "title": "追蹤數據：「烟花」持續減弱，路徑未指向台灣",
+      "dek": "Weather Underground與RainViewer等追蹤機構資料顯示，截至11月1日清晨，「烟花」持續風速約每小時165至170公里，在轉向氣流偏弱、海水降溫環境下呈緩慢減弱趨勢。",
+      "url": "https://www.wunderground.com/hurricane/western-pacific/2026/typhoon-in-fa"
     },
     {
       "rank": 7,
-      "title": "超級颱風璨帕未直接登陸台灣，但為台日菲帶來強降雨",
-      "dek": "《海灣時報》報導，璨帕雖未正面襲擊台灣，仍為台灣、日本與菲律賓帶來豪雨，隨後轉向日本方向減弱。",
-      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
+      "title": "中央氣象署：本週兩波東北季風報到，北部低溫下探20度",
+      "dek": "中央社英文新聞網（Focus Taiwan）報導，中央氣象署預測今日天氣仍偏暖乾燥，隨後兩波東北季風將為迎風面地區帶來降雨與低溫，報導未提及任何颱風警報。",
+      "url": "https://focustaiwan.tw/society/202611010003"
     },
     {
       "rank": 8,
-      "title": "颱風璨帕襲台造成1死、數百人受傷",
-      "dek": "半島電視台報導，璨帕一度達到五級颶風相當強度，掠過台灣東北部沿岸時造成1人死亡、約350至616人受傷，全台陷入大規模停班停課與航班取消。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "《自由時報英文版》：季節性東北季風接連報到，夜間轉涼有雨",
+      "dek": "《自由時報英文版》（Taipei Times）報導指出，本週台灣天氣主要受季節性東北季風脈動影響，而非任何熱帶氣旋所致，報導中未提及颱風警報。",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866964"
     },
     {
       "rank": 9,
-      "title": "璨帕來襲前，中央氣象署發布陸上警報",
-      "dek": "《星報》引述路透社與氣象署資料報導，璨帕逼近前已造成逾百班航班取消，並打斷美日聯合軍演。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+      "title": "NIWA：南太平洋氣旋季開跑，預測7至11個命名風暴",
+      "dek": "紐西蘭國家水文與大氣研究院（NIWA）發布的展望顯示，南太平洋熱帶氣旋季（11月至明年4月）預計出現7至11個命名風暴，與歷史平均約9個相近，屬不同海域、與台灣無直接關聯。",
+      "url": "https://niwa.co.nz/climate-and-weather/southwest-pacific-tropical-cyclone-outlook/southwest-pacific-tropical-cyclone-outlook-october-2026"
     },
     {
       "rank": 10,
-      "title": "PAGASA展望：年底前菲律賓責任區可能再有4個熱帶氣旋",
-      "dek": "GMA News報導，菲律賓氣象機構預測在強勢厄爾尼諾影響下，11月與12月責任區內恐再形成或進入最多4個熱帶氣旋，且降雨將低於正常值。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
+      "title": "FOX Weather分析：強厄爾尼諾助長西太平洋「怪獸級」超強颱風",
+      "dek": "FOX Weather分析指出，強烈厄爾尼諾現象使西太平洋海溫顯著偏暖，支撐今年颱風季異常活躍且強度偏高，「烟花」為今年最新一個超強颱風案例。",
+      "url": "https://www.foxweather.com/extreme-weather/super-el-nino-monster-super-typhoon-western-pacific-2026.amp"
     }
   ]
 }
