@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T07:11:00+08:00",
+  "generated_at": "2026-11-02T08:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何地區發布海上颱風警報或陸上颱風警報。超級颱風查米已於10月24日解除警報並遠離台灣，截至11月1日，台灣周邊海空域並無新的活躍颱風。",
+  "alert_desc": "中央氣象署目前未對任何地區發布海上颱風警報或陸上颱風警報。颱風查米已於10月24日減弱並持續北上遠離台灣，此後未再發布新的警報，全球各大洋目前亦無活躍熱帶氣旋。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。颱風「查米」已於10月24日離開台灣北上朝日本、中國方向移動，中央氣象署當時已解除陸上警報並預期解除海上警報，截至目前並無任何顯示台中市有停班停課或風雨持續影響的最新資訊，亦無新系統接近台灣的報導。"
+    "text": "颱風查米已於10月24日減弱並持續北上遠離，其陸上與海上警戒範圍均未納入台中；截至11月初，台中市政府亦未發布任何停班停課或颱風相關預警。"
   },
   "quick_links": [
     {
@@ -22,76 +22,75 @@
     }
   ],
   "headline": {
-    "title": "目前無活躍颱風：強颱查米遠離逾一週，台灣警報進入空窗期",
-    "dek": "中央氣象署已解除所有颱風警報，台灣在今年地球上最強風暴查米掠境後迎來平靜，但菲律賓氣象機構警告十一月仍可能有新系統生成。"
+    "title": "颱風季罕見喘息：查米遠離北上後，台灣目前無風暴警戒",
+    "dek": "在今年西北太平洋颱風季異常活躍的尾聲，中央氣象署未對任何地區發布海上或陸上颱風警報，全球各大洋目前也無活躍熱帶氣旋。"
   },
   "headline_body": [
-    "截至十一月一日，台灣周邊海空域沒有任何對本島構成威脅的活躍颱風或熱帶風暴，中央氣象署也未發布陸上或海上颱風警報，使這座島嶼在遭遇今年全球最強風暴之後，進入一段少見的警報空窗期。",
-    "這段平靜的背後，是超級颱風查米留下的痕跡。據《The Weather Network》報導，查米巔峰時持續風速一度達每小時296公里、中心氣壓低至約895毫巴，是2026年地球上出現過的最強風暴；南華早報當時即以此規格示警台灣與中國大陸沿岸做好準備。十月二十二日，據《The Star》援引路透社等外電報導，中央氣象署在查米逼近前發布陸上颱風警報，全台學校與機關預定停班停課；翌日，《Khaleej Times》報導，台灣幾乎全島停擺，國際航班取消逾669班，金融市場同步暫停交易，當局並在風暴來襲前自脆弱地區疏散逾五千名居民。",
-    "查米雖以強烈姿態逼近，但最終未直接登陸。據《Khaleej Times》報導，風暴擦過台灣後轉向北行，為日本與菲律賓帶去強降雨。路透社經《The Star》報導指出，一名男子在屏東縣遭海浪捲走身亡，是此役唯一死亡個案，另有約500人受傷；《Daily Pioneer》隨後更新傷者人數至527人，並指台灣緊急應變中心持續彙整災情，包括數千件倒樹事故。電力方面，《Türkiye Today》報導，查米風力一度造成全台逾14.6萬戶停電，多數家戶已在週五晚間陸續復電。",
-    "根據Focus Taiwan十月二十四日的報導，中央氣象署在查米減弱為熱帶風暴後解除陸上警報，並預期當晚解除海上警報；此後逾一週，未再查獲任何新警報發布紀錄，顯示台灣目前確實處於無警戒狀態。",
-    "展望未來，菲律賓大氣地球物理與天文服務署（PAGASA）表示，在強烈聖嬰現象影響下，十一月仍可能有一至二個熱帶氣旋形成或進入菲律賓責任海域，全年累計上限估計可達四個，但該機構尚未確認有具體系統正在生成。對台灣而言，眼前仍是查米過後的平靜期。"
+    "台灣這個週末迎來一段罕見的平靜。中央氣象署目前並未對任何區域發布海上或陸上颱風警報，而根據美國聯合颱風警報中心、日本氣象廳及美國國家颶風中心等機構的監測，全球各大洋目前也沒有任何活躍的熱帶氣旋、熱帶風暴或熱帶性低氣壓。",
+    "這段空窗期，出現在颱風查米（Champi）造成傷亡之後。半島電視台報導，查米是今年最強颱風之一，十月下旬以罕見的外海迴旋路徑貼近台灣東北部海岸，在屏東縣琉球鄉造成1人死亡，另有逾350人受傷；賽普勒斯郵報則指出，隨著統計數字上修，死傷人數後來攀升至1死逾500傷，沿海地區曾測得時速約227公里的強風陣風。中央社報導，中央災害應變中心在10月24日上午確認，傷者人數已達527人。南非《商業日報》報導，交通部統計顯示，查米來襲前夕，全台取消航班一度逼近千班；《台北時報》與美聯社（經《檀香山星報》刊載）則記錄了查米逼近期間全島的防颱整備，以及其一度干擾美日聯合軍演的插曲。查米隨後減弱並持續北移遠離，陸上警報已於10月24日晚間解除，此後未再發布新的警報。",
+    "查米並非今年唯一的風暴。卡達《半島報》報導，8月颱風多爾芬在轉向中國大陸前掠過台灣北部，造成6人受傷。香港天文台的分析顯示，截至10月初，已有34個熱帶氣旋影響西北太平洋與南海海域，遠高於歷史平均，8月的生成數更創下1961年以來同月新高。展望未來，菲律賓大氣地理天文服務署透過GMA新聞表示，在強烈厄爾尼諾的影響下，11月及12月每月仍可能有1至2個熱帶氣旋進入菲律賓責任區；美國國家海洋暨大氣總署的最新展望也預測，今年大西洋颶風季將維持偏弱，全季命名風暴估計僅8至14個。",
+    "對台灣而言，目前這段空檔仍屬短暫的喘息，而非颱風季的結束。氣象署強調，目前無任何警報生效，而中部地區，包括台中市，目前未受到直接影響。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "中央氣象署發布陸上颱風警報 迎戰強颱查米",
-      "dek": "隨著超級颱風查米逼近，台灣本島學校與機關預定停班停課，航班取消潮同步展開。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+      "title": "半島電視台：颱風查米掃台 造成一死逾三百傷",
+      "dek": "半島電視台報導，颱風查米以今年最強颱風之一的姿態掠過台灣，釀成1死逾350人受傷，近千班航班取消。",
+      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
       "rank": 2,
-      "title": "查米逼近 台灣幾近全島停擺 國際航班取消逾六百班",
-      "dek": "十月二十三日週五，查米步步進逼，台灣學校、機關與金融市場相繼停止運作，國際航班取消多達669班。",
-      "url": "https://www.khaleejtimes.com/asia/taiwan-shut-down-typhoon-champi-flights-cancelled-oct-23-2026"
+      "title": "賽普勒斯郵報：查米遠離台灣，死傷數攀升至逾500人",
+      "dek": "賽普勒斯郵報報導，查米北移減弱之際，台灣死傷統計上修至1死逾500傷，陸上颱風警報預計週六晚間解除。",
+      "url": "https://cyprus-mail.com/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
     },
     {
       "rank": 3,
-      "title": "超級颱風查米未登陸台灣 轉往日本、菲律賓帶來強降雨",
-      "dek": "查米最終未直撲台灣，雖仍帶來強風豪雨，但隨後北轉為日本與菲律賓帶去大量降雨。",
-      "url": "https://www.khaleejtimes.com/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
+      "title": "南非商業日報：颱風查米來襲前 台灣近乎全島停擺",
+      "dek": "南非《商業日報》報導，台灣交通部統計顯示，查米來襲前夕全台取消航班一度逼近千班。",
+      "url": "https://www.businessday.co.za/world/2026-10-23-watch-taiwan-shuts-down-before-typhoon-champi-nearly-1000-flights-cancelled/"
     },
     {
       "rank": 4,
-      "title": "查米掠境台灣 造成1死、約500人受傷",
-      "dek": "路透社報導，一名男子在屏東遭海浪捲走身亡，颱風減弱為熱帶風暴後持續遠離台灣朝中國移動。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
+      "title": "台北時報：查米逼近 頭版記錄全台防颱實況",
+      "dek": "《台北時報》連續兩日以頭版報導查米逼近東北部海岸，以及全台防颱整備過程。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866498"
     },
     {
       "rank": 5,
-      "title": "查米傷亡人數增至527人 台灣持續清點風災損失",
-      "dek": "隨著查米遠離朝中國沿岸移動，台灣緊急應變中心持續彙整災情報告，其中包括數千件倒樹事故。",
-      "url": "https://dailypioneer.com/world/typhoon-champi-kills-one-injures-527-in-taiwan-as-storm-heads-towards-china"
+      "title": "美聯社：查米巔峰列超級颱風 一度打亂美日聯合軍演",
+      "dek": "美聯社報導，查米巔峰時達超級颱風強度，逼近台灣東北部之際並打亂美日聯合軍演、波及多起航班。",
+      "url": "https://www.staradvertiser.com/2026/10/22/breaking-news/typhoon-champi-nears-taiwan-disrupts-flights-and-u-s-japan-drills/"
     },
     {
       "rank": 6,
-      "title": "查米重創電網 台灣逾14.6萬戶一度停電",
-      "dek": "颱風強風一度造成全台逾14.6萬戶停電，搶修人員徹夜復電，多數家戶已於週五晚間恢復供電。",
-      "url": "https://www.turkiyetoday.com/world/typhoon-champi-leaves-over-146000-households-without-power-in-taiwan-3230917"
+      "title": "中央社：中央災害應變中心更新查米死傷統計",
+      "dek": "中央社報導，中央災害應變中心指出，截至10月24日上午，查米已造成1人死亡、527人受傷。",
+      "url": "https://focustaiwan.tw/society/202610240004"
     },
     {
       "rank": 7,
-      "title": "查米來襲前 台灣疏散逾五千人 數千戶一度斷電",
-      "dek": "當局在查米逼近前自脆弱地區撤離逾五千名居民，強風豪雨同時導致數千戶家庭失去電力供應。",
-      "url": "https://www.khaleejtimes.com/asia/typhoon-champ-taiwan-5000-evacuated-thousands-no-electricity"
+      "title": "卡達半島報：颱風多爾芬掠北台灣 6人受傷",
+      "dek": "卡達《半島報》報導，8月颱風多爾芬在轉向中國大陸前掠過台灣北部，造成6人受傷。",
+      "url": "https://www.thepeninsulaqatar.com/article/10/08/2026/typhoon-dolphin-hits-northern-taiwan-injures-6"
     },
     {
       "rank": 8,
-      "title": "2026年最強風暴查米逼近 台灣與中國大陸同步戒備",
-      "dek": "南華早報報導，查米當時被形容為年度最強風暴，台灣與中國大陸沿岸地區隨即展開防颱準備。",
-      "url": "https://www.scmp.com/news/china/politics/article/3371627/strongest-storm-year-barrels-towards-taiwan-and-mainland-china"
+      "title": "香港天文台：今年西北太平洋颱風季異常活躍",
+      "dek": "香港天文台分析指出，截至10月初已有34個熱帶氣旋影響西北太平洋及南海海域，8月生成數創1961年以來同月紀錄。",
+      "url": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/110866/2026%E5%B9%B4%E9%A2%A8%E5%AD%A3%E5%B7%B2%E5%AE%8C%E7%B5%90%EF%BC%9F"
     },
     {
       "rank": 9,
-      "title": "時速296公里 查米躍居2026年全球最強風暴",
-      "dek": "Weather Network報導，查米巔峰風速達每小時296公里、中心氣壓低至約895毫巴，路徑直指台灣與日本。",
-      "url": "https://theweathernetwork.com/en/news/weather/forecasts/296-km-h-super-typhoon-champi-is-now-the-strongest-storm-on-earth-in-2026"
+      "title": "GMA新聞：菲律賓氣象署預估年底前最多再有4個熱帶氣旋",
+      "dek": "菲律賓大氣地理天文服務署預測，在強烈厄爾尼諾影響下，11、12月每月仍可能有1至2個熱帶氣旋進入其責任區。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
     },
     {
       "rank": 10,
-      "title": "PAGASA：今年底前菲律賓責任區最多恐再現四個熱帶氣旋",
-      "dek": "菲律賓大氣地球物理與天文服務署表示，在強烈聖嬰現象影響下，十一月仍可能有一至二個熱帶氣旋形成或進入該國責任海域。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
+      "title": "NOAA：2026年大西洋颶風季維持偏弱預測",
+      "dek": "美國國家海洋暨大氣總署發布的2026年大西洋颶風季展望顯示，受厄爾尼諾風切影響，全季預估僅8至14個命名風暴，屬偏弱年份。",
+      "url": "https://local21news.com/news/nation-world/noaa-releases-2026-hurricane-season-outlook-8-14-named-storms-3-6-hurricanes-1-3-major-hurricanes-national-hurricane-center-florida-tropics-storms-"
     }
   ]
 }
