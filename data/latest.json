@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T22:15:00+08:00",
+  "generated_at": "2026-11-05T23:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。西太平洋持續平靜，尚無後繼風暴生成，全台未受颱風直接影響。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。西太平洋自強颱凱米遠離後尚無新系統生成，全台未受颱風直接影響。",
   "region_watch": {
     "region": "台中",
     "text": "台中目前未受任何颱風系統直接影響，中央氣象署亦未對台中發布海上或陸上颱風警報。"
@@ -22,76 +22,75 @@
     }
   ],
   "headline": {
-    "title": "印度一週內二度遭氣旋襲擊台灣無警戒",
-    "dek": "氣旋莫拉蘇登陸印度安德拉邦，一週內第二個重創當地風暴；台灣目前無颱風警戒。"
+    "title": "颱風季轉趨平靜 台灣無警報 印度「穆拉蘇」氣旋已登陸減弱",
+    "dek": "繼強颱凱米掠過台灣北部後，西北太平洋至今未有新熱帶系統生成，孟加拉灣氣旋穆拉蘇登陸印度安得拉邦後迅速減弱，菲律賓氣象署預估十一月僅剩一兩個颱風生成。"
   },
   "headline_body": [
-    "印度東部安德拉邦海岸於週二（11月3日）凌晨遭氣旋莫拉蘇登陸，登陸點在翁戈萊附近，介於內洛爾與納薩普爾之間。這場風暴帶來每小時100至110公里的強風，最大陣風達120公里，並引發1至1.5公尺的暴潮，是當地一週內第二個登陸的強烈氣旋。",
-    "這場接連來襲的氣旋凸顯今年孟加拉灣風季異常活躍，也與西太平洋目前的平靜形成對比。根據半島電視台報導，莫拉蘇逼近之際，印度當局已在安德拉邦與泰米爾納德邦沿海撤離數千名居民；上一場氣旋阿納布10月28日才在同一地區造成多人死亡，前後相隔不到一週。",
-    "印度氣象局向多家媒體證實，莫拉蘇逼近海岸時風速一度接近每小時120公里，促使當局發布紅色警戒並展開最後一波撤離。《The South First》與Devdiscourse報導指出，風暴路徑轉向翁戈萊一帶，登陸時間落在11月2日深夜至3日凌晨之間。Down To Earth報導引述印度氣象局資料指出，暴潮高度可能達1至1.5公尺，足以淹沒安德拉邦南部低窪沿海地帶；安德拉邦、泰米爾納德邦與奧里薩邦同步停課，豪雨紅色警戒並延伸至泰倫加納邦與恰蒂斯加爾邦，預計持續至11月4日至6日左右，目前系統已減弱為低壓並持續深入內陸。馬來西亞《星報》與印度媒體Onmanorama則報導，泰米爾納德邦與安德拉邦多個機場已取消大量班機，其中清奈機場至少取消11個航班，安德拉邦沿岸一度實施旅遊限制。",
-    "相較於印度洋沿岸的緊張情勢，西太平洋與台灣周邊海域目前相對平靜。中央氣象署並未發布任何海上或陸上颱風警報；台灣本次颱風季最近一個造成影響的系統，是10月22日至24日掠過東部海域的颱風「Champi」，造成1人死亡、逾500人受傷，並一度使約5.6萬戶停電，其陸上警報已於10月24日晚間解除。截至11月5日，西太平洋尚未出現獲命名的新颱風，台中地區目前亦無任何颱風系統直接影響。",
-    "展望11月，菲律賓大氣地理天文部門（PAGASA）預測，在厄爾尼諾現象影響下，本月恐怕僅有1至2個熱帶氣旋會進入或形成於菲律賓責任區，與西太平洋當前的平靜態勢一致。根據GMA News報導，菲律賓多數地區11月雨量預期低於正常值。儘管孟加拉灣風季仍可能再掀波瀾，但截至目前，台灣周邊海域尚無任何颱風警報，當局將持續監測情勢發展。"
+    "台灣中央氣象署5日表示，目前無任何海上或陸上颱風警報生效，西北太平洋海域自上月強颱凱米（Champi）遠離後，至今未有新的熱帶性低氣壓或對流擾動在周邊海域生成。氣象署對凱米發布的陸上警報早在數日前即已解除，全台目前未受任何風暴直接威脅，中部地區包括台中市亦未出現因熱帶氣旋而停班停課或明顯風雨的情況。",
+    "這一平靜局面，出現在印度東岸接連遭兩個氣旋侵襲之後。據印度氣象局證實，氣旋「穆拉蘇」（Murasu）於11月3日凌晨1時左右開始登陸安得拉邦海岸，登陸時為強烈氣旋風暴，持續風速達每小時100至110公里，陣風可達120公里。據半島電視台報導，穆拉蘇是一週內第二個威脅印度東岸的氣旋，促使安得拉邦、奧里薩邦與坦米爾那都邦展開大規模撤離行動，當局在登陸前已預先撤離約3萬人，並部署逾1600個醫療隊與116個收容所。據印度媒體《The Week》報導，安得拉邦至少七個縣市因應風暴關閉學校、取消航班，州政府同步撥款救災基金。氣象部門原預測穆拉蘇登陸後將快速減弱，並在登陸約兩天內消散，這意味著這個風暴如今可能已減弱為殘留低壓，甚至已完全消散。值得注意的是，穆拉蘇登陸前數日，氣旋「阿爾納布」（Arnab）已先在奧里薩邦造成至少六人死亡，據《Siasat Daily》報導，當地政府已宣布發放救災補助，視線才轉向逐步逼近的穆拉蘇。",
+    "回顧台灣自身的風災經驗，超強颱風凱米被視為今年全球最強的熱帶氣旋，最大風速一度接近每小時296公里。據《星洲日報》引述通訊社報導，凱米上月22日逼近台灣時，中央氣象署曾發布陸上警報，島內停班停課，近千班國內外航班取消，鐵路與渡輪服務亦受影響。幸而凱米最終並未直接登陸台灣，僅從東北部外海掠過，但仍造成1人死亡、逾500人受傷，並在繼續朝日本、中國方向移動前於沿途留下風雨災情。",
+    "展望未來，菲律賓氣象署PAGASA表示，預估11月全月僅會有一至兩個熱帶氣旋在其責任海域內生成或進入，低於長期平均值，且截至目前尚無低壓區組織成形的跡象。香港天文台本月稍早的回顧也指出，截至10月6日，今年已有34個熱帶氣旋影響西北太平洋與南海，數量遠高於長期平均，但隨著菲律賓與南海海域條件轉趨不利生成，今年風季是否已近尾聲仍待觀察。本報將持續監測西北太平洋動態，一旦有新系統形成並可能影響台灣，將即時更新報導。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "印度撤離數千人迎戰一週內第二氣旋",
-      "dek": "半島電視台報導，印度在安德拉邦與泰米爾納德邦沿海撤離居民，防範氣旋莫拉蘇來襲。",
-      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week"
+      "title": "印度氣象局證實 氣旋穆拉蘇凌晨登陸安得拉邦海岸",
+      "dek": "路透社報導指出，印度氣象部門確認穆拉蘇於當地時間凌晨1時左右開始登陸，當局已提前撤離約3萬人並部署逾百個收容所。",
+      "url": "https://wsau.com/2026/11/02/cyclone-murasu-begins-making-landfall-on-indias-eastern-coast/"
     },
     {
       "rank": 2,
-      "title": "氣旋莫拉蘇登陸安德拉邦翁戈萊",
-      "dek": "《The South First》報導，氣旋莫拉蘇路徑轉向翁戈萊，於週二凌晨登陸印度東岸。",
-      "url": "https://thesouthfirst.com/andhrapradesh/severe-cyclonic-storm-murasu-nears-andhra-coast-likely-to-make-landfall-near-ongole-on-tuesday/"
+      "title": "一週內第二個氣旋來襲 印度東岸數千人緊急撤離",
+      "dek": "據半島電視台報導，穆拉蘇以每小時100至110公里風速、陣風120公里逼近安得拉邦，安得拉邦、奧里薩邦與坦米爾那都邦同步展開撤離行動。",
+      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week"
     },
     {
       "rank": 3,
-      "title": "IMD示警風速逼近每小時120公里",
-      "dek": "根據Devdiscourse報導，印度氣象局追蹤莫拉蘇逼近安德拉邦海岸，發布紅色警戒並展開最後撤離。",
-      "url": "https://www.devdiscourse.com/article/headlines/4000844-landfall-countdown-begins-cyclone-murasu-closes-in-at-120-kmph-says-imd"
+      "title": "穆拉蘇逼近 安得拉邦七縣市停課、近20班航班取消",
+      "dek": "印度媒體《The Week》報導，安得拉邦多個縣市因應風暴關閉學校並取消班機，州政府已撥款救災基金應變。",
+      "url": "https://www.theweek.in/news/india/2026/11/02/cyclone-murasu-andhra-pradesh-alert-flights-cancelled-schools-shut-relief-funds.amp.html"
     },
     {
       "rank": 4,
-      "title": "IMD警告暴潮恐達1.5公尺",
-      "dek": "Down To Earth報導指出，印度氣象局預測莫拉蘇將在安德拉邦南部沿海引發1至1.5公尺暴潮。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-murasu-races-across-bay-of-bengal-imd-warns-of-storm-surges-up-to-15-metres"
+      "title": "氣旋阿爾納布奪命六人 奧里薩邦宣布救災補助",
+      "dek": "據《Siasat Daily》報導，較穆拉蘇先行登陸的氣旋阿爾納布已在奧里薩邦造成至少六人死亡，當局隨即宣布發放救災補助。",
+      "url": "https://www.siasat.com/odisha-announces-cyclone-relief-as-arnab-toll-hits-six-3568367/"
     },
     {
       "rank": 5,
-      "title": "阿納布風暴奪七命後氣旋再臨",
-      "dek": "據Down To Earth報導，氣旋阿納布上月造成七人死亡，短短數日後莫拉蘇又威脅同一海岸。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-murasu-threatens-andhra-pradesh-days-after-arnab-leaves-seven-dead"
+      "title": "超強颱風凱米掠過台灣 釀1死逾500傷",
+      "dek": "綜合通訊社報導，被視為今年全球最強的超強颱風凱米雖未直接登陸台灣，但仍造成1人死亡、逾500人受傷，隨後轉向日本與中國方向移動。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
     },
     {
       "rank": 6,
-      "title": "安德拉邦加緊撤離應對強風",
-      "dek": "《海灣時報》報導，印度氣象局警告莫拉蘇風速可能達每小時110至120公里，沿海低地有暴潮風險。",
-      "url": "https://www.khaleejtimes.com/world/asia/india-evacuations-cyclone-murasu"
+      "title": "凱米逼近台灣 中央氣象署發布陸上警報",
+      "dek": "據《星洲日報》引述中央社報導，中央氣象署在強颱凱米接近之際發布陸上警報，並警告當時仍不排除直接登陸的可能性。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     },
     {
       "rank": 7,
-      "title": "泰米爾納德、安德拉邦班機大亂",
-      "dek": "馬來西亞《星報》報導，莫拉蘇逼近導致泰米爾納德邦與安德拉邦多個機場大量班機取消。",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/flights-cancelled-in-india039s-tamil-nadu-and-andhra-pradesh-in-the-wake-of-cyclone-murasu"
+      "title": "凱米掠境未登陸 日本、菲律賓仍降下強風暴雨",
+      "dek": "據《海灣時報》報導，凱米先掠過日本與那國島後再從台灣北側通過，雖未直接登陸台灣，但沿途仍帶來強風豪雨。",
+      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
     },
     {
       "rank": 8,
-      "title": "清奈機場取消11班機",
-      "dek": "據Onmanorama報導，清奈機場因莫拉蘇取消11個航班，安德拉邦沿岸並實施旅遊限制。",
-      "url": "https://www.onmanorama.com/travel/travel-news/2026/11/02/cyclonic-storm-murasu-11-flights-at-chennai-airport-cancelled-tourism-restrictions-in-place.amp.html"
+      "title": "颱風凱米來襲 台灣全島停班停課、近千班機取消",
+      "dek": "據《ARY News》報導，台灣因應凱米停止上班上課，近千班國內外航班取消，鐵路與渡輪服務同步受到衝擊。",
+      "url": "https://arynews.tv/taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1000-flights-cancelled"
     },
     {
       "rank": 9,
-      "title": "颱風「Champi」掠台1死逾500傷",
-      "dek": "半島電視台與路透社報導，颱風「Champi」10月下旬掠過台灣，中央氣象署已於24日晚解除陸上警報。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "PAGASA預估11月菲律賓責任海域僅生成一至兩個颱風",
+      "dek": "據《GMA News》報導，菲律賓氣象署PAGASA表示11月熱帶氣旋生成數量將低於長期平均，多數地區降雨量預料也偏少。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 10,
-      "title": "PAGASA預估11月僅1至2氣旋",
-      "dek": "菲律賓GMA News報導，PAGASA預測厄爾尼諾影響下，11月菲律賓責任區熱帶氣旋活動偏少。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "香港天文台回顧2026年異常活躍風季 風季是否已近尾聲？",
+      "dek": "香港天文台部落格指出，截至10月6日西北太平洋及南海今年已有34個熱帶氣旋生成，遠高於長期平均，但未明確宣告風季結束。",
+      "url": "https://www.hko.gov.hk/tc/天氣隨筆/110866/2026年風季已完結？"
     }
   ]
 }
