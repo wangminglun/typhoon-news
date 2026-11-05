@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T19:10:00+08:00",
+  "generated_at": "2026-11-05T20:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。上一個威脅台灣的系統——超級颱風Champi，其外圍環流已於10月下旬遠離台灣，台灣已逾一週未受颱風直接影響。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。上一波警報已於10月24日下午解除，當時超級颱風Champi減弱為熱帶風暴並持續遠離台灣，全台已逾一週未受颱風直接影響。",
   "region_watch": {
     "region": "台中",
     "text": "目前無任何颱風或熱帶系統直接影響台中，中央氣象署亦未對台中發布海上或陸上颱風警報，也查無停班停課相關消息；台中目前無直接影響。"
@@ -22,75 +22,76 @@
     }
   ],
   "headline": {
-    "title": "西太平洋洋面暫歸平靜，孟加拉灣雙颶風接連重創印度東岸",
-    "dek": "在今年最強風暴「Champi」掠過台灣兩週後，西太平洋目前無颱風活動，但南亞孟加拉灣的兩個熱帶氣旋接連登陸，已造成至少六人死亡與數萬人撤離。"
+    "title": "太平洋颱風沉寂 印度東岸遭雙颶重創",
+    "dek": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，西太平洋進入少見的平靜期，但印度東岸接連遭遇兩個強烈氣旋侵襲，造成人員死亡與大規模撤離。"
   },
   "headline_body": [
-    "截至11月5日台灣時間，西太平洋洋面未有颱風或熱帶風暴活動的跡象。根據即時風暴追蹤網站RainViewer的觀測畫面，無論是菲律賓周邊或日本鄰近海域，目前皆無活躍系統，台灣與鄰近地區的熱帶氣旋威脅暫告解除。中央氣象署（CWA）方面，目前並無任何海上或陸上颱風警報生效；台中市則「目前無直接影響」，未受任何現行系統波及。",
-    "然而，這段平靜期出現在今年最強風暴之後不久。超級颱風Champi於10月下旬一度達到接近五級強度、巔峰風速約每小時285至296公里，雖未直接登陸台灣，但其外圍環流仍造成重大損失。《半島電視台》（Al Jazeera）報導，Champi在台灣造成至少一人死亡、數百人受傷（各方統計數字略有差異），並促使當局發布陸上颱風警報、取消數百班航班、撤離逾五千名居民。南非電訊媒體EWN則報導，儘管暴風核心始終停留在海上，強風豪雨仍導致台灣數萬戶家庭斷電，基隆更出現結構性風損。該風暴隨後持續北移、西移，為日本與菲律賓北部帶來強風豪雨。",
-    "與此同時，全球熱帶氣旋活動的焦點已轉向南亞。《半島電視台》與《Khaleej Times》報導，印度東岸的安得拉邦、泰米爾納杜邦與奧里薩邦近日接連遭兩個氣旋襲擊：先是造成至少六人死亡、十人失蹤的氣旋Arnab（10月27至28日登陸），緊接著是氣旋Murasu，預計於11月2日至3日夜間在翁戈萊附近登陸，中心風速達每小時100至110公里、最大陣風120公里。印度氣象局（IMD）依環境新聞網站Down To Earth報導，警告風暴潮可能高達1.0至1.5公尺，威脅沿海低地。印度當局已疏散約三萬名居民，並派遣國家救災應變部隊（NDRF）待命；《The Week》援引印度新聞社（PTI）電訊稱，奧里薩邦已因Arnab宣布賑災方案，受影響人口逾11.8萬人、農地損失超過7.5萬公頃。Murasu登陸後的具體災情與死傷數字，目前尚未見到確認報導。",
-    "展望後續，菲律賓大氣地理天文服務管理局（PAGASA）預測，11月仍可能有一至兩個熱帶氣旋生成或進入菲律賓責任區，登陸地點以比科爾、東維薩亞斯或卡拉加一帶機率較高；氣象機構WeatherNews與TSR也將2026年列為西北太平洋「活躍偏多」的颱風季。換言之，儘管當下風平浪靜，年底前西太平洋再度出現系統的可能性依然存在，台灣仍不宜完全放下戒心。"
+    "西太平洋在超強颱風錢比（Champi）於十月下旬重創台灣、沖繩及中國、日本部分地區後，罕見地陷入沉寂——中央氣象署證實，目前並無任何海上或陸上颱風警報生效，全球各大洋盆地也沒有正在追蹤的活躍颱風。",
+    "這是入秋以來台灣少見的「無警戒」狀態。根據中央氣象署資料，上一波警報已於十月二十四日下午二時三十分解除，當時颱風錢比減弱為熱帶風暴並持續遠離台灣本島，中央社當時報導稱，解除時間早於原先預測。目前台中及全台各地均未發布停班停課相關訊息，也沒有任何活躍熱帶系統直接威脅台灣。",
+    "然而，太平洋的平靜與印度洋東岸的動盪形成鮮明對比。路透社報導，氣旋穆拉蘇（Murasu）於十一月二日清晨開始在印度東岸登陸，安得拉邦與泰米爾納德邦北部首當其衝。印度氣象部門警告，沿岸低地可能出現一點零至一點五公尺的風暴潮，Down To Earth網站報導指出。",
+    "《The Week》報導，安得拉邦為此取消十九班國內航班，並在七個轄區停課，邦政府也在風暴登陸前撥款救災。半島電視台指出，當局已沿安得拉邦與泰米爾納德邦海岸撤離數千名居民——這已是該地區一週內第二次遭遇氣旋侵襲。十天前，氣旋阿爾納布（Arnab）在奧里薩邦登陸，造成至少六人死亡、十人失蹤，數萬公頃農地受損，Siasat網站報導。ThePrint報導，鄰邦泰米爾納德邦已派遣五百名電力部門人員與設備前往安得拉邦，協助搶修因穆拉蘇而中斷的電力，呈現印度少見的跨邦互助行動。",
+    "展望未來，菲律賓大氣地理天文部門（PAGASA）預測，十一月底前仍有一至兩個熱帶氣旋將進入或形成於該國責任海域，GMA Network報導指出，歷史上這類風暴多在比科爾、東維薩亞斯或卡拉加地區登陸。氣象觀察人士提醒，太平洋目前的平靜期可能只是短暫間歇，台灣仍需留意十一月中旬後是否有新系統發展，中央氣象署將持續監測並適時發布警報。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "印度東岸一週內二度撤離，應對第二個氣旋來襲",
-      "dek": "繼氣旋Arnab之後，安得拉邦、泰米爾納杜邦與奧里薩邦再度疏散數千居民，學校停課、班機取消，應對風速達每小時120公里的氣旋Murasu。",
-      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week"
+      "title": "氣旋穆拉蘇登陸印度東岸",
+      "dek": "安得拉邦與泰米爾納德邦北部首當其衝，當局已提前數日疏散低地居民至避難所。",
+      "url": "https://wsau.com/2026/11/02/cyclone-murasu-begins-making-landfall-on-indias-eastern-coast/"
     },
     {
       "rank": 2,
-      "title": "印度氣象局示警，氣旋Murasu料將重創安得拉邦沿岸",
-      "dek": "印度氣象局預測Murasu將於11月2日至3日夜間在奈洛爾與納爾薩普爾之間、翁戈萊附近登陸，當局計劃疏散約三萬人並部署國家救災應變部隊。",
-      "url": "https://www.khaleejtimes.com/world/asia/india-evacuations-cyclone-murasu"
+      "title": "安得拉邦取消十九航班、七區停課應對穆拉蘇",
+      "dek": "邦政府在風暴登陸前撥出救災基金，並進入高度戒備狀態。",
+      "url": "https://www.theweek.in/news/india/2026/11/02/cyclone-murasu-andhra-pradesh-alert-flights-cancelled-schools-shut-relief-funds.amp.html"
     },
     {
       "rank": 3,
-      "title": "氣旋Murasu橫掃孟加拉灣，印度氣象局警告風暴潮最高1.5公尺",
-      "dek": "印度氣象局警告，Murasu可能引發高於正常潮位1.0至1.5公尺的風暴潮，威脅安得拉邦低洼沿海地區，且緊跟在氣旋Arnab重創同一地區之後。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-murasu-races-across-bay-of-bengal-imd-warns-of-storm-surges-up-to-15-metres"
+      "title": "印度一週內二度撤離 因應第二個氣旋來襲",
+      "dek": "繼氣旋阿爾納布造成至少六人死亡後，當局再度沿岸疏散數千居民迎戰穆拉蘇。",
+      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week"
     },
     {
       "rank": 4,
-      "title": "奧里薩邦公布賑災方案，氣旋Arnab死亡人數升至六人，同時防範下一個風暴",
-      "dek": "印度新聞社（PTI）電訊報導，奧里薩邦因氣旋Arnab死亡人數升至六人、十人失蹤，逾11.8萬人與7.5萬多公頃農地受影響，當局一邊發放賑災款，一邊備戰氣旋Murasu。",
-      "url": "https://www.theweek.in/wire-updates/national/2026/11/01/odisha-announces-relief-package-as-cyclone-arnab-toll-rises-to-six-braces-for-another-storm.html"
+      "title": "穆拉蘇逼近 安得拉邦尚未走出阿爾納布創傷",
+      "dek": "印度氣象部門警告低地沿岸可能出現一點零至一點五公尺風暴潮。",
+      "url": "https://downtoearth.org.in/climate-change/cyclone-murasu-threatens-andhra-pradesh-days-after-arnab-leaves-seven-dead"
     },
     {
       "rank": 5,
-      "title": "超級颱風Champi未直接登陸台灣，但為日本與菲律賓帶來豪雨",
-      "dek": "作為今年全球最強風暴，Champi巔峰風速一度接近每小時285至296公里，掠過台灣後未直接登陸，隨後為日本與菲律賓北部帶來強風豪雨。",
-      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
+      "title": "泰米爾納德邦派五百電力人員助安得拉邦復電",
+      "dek": "鄰邦跨州支援搶修穆拉蘇造成的大規模停電。",
+      "url": "https://theprint.in/india/cyclone-murasu-tn-rushes-500-electricity-dept-personnel-equipment-to-ap-to-restore-power/3088150/"
     },
     {
       "rank": 6,
-      "title": "颱風Champi襲擊台灣，造成一死、數百人受傷",
-      "dek": "Champi外圍環流在台灣造成至少一人死亡、約350至500人受傷（各方統計數字不一），台灣發布陸上颱風警報，取消數百班航班並撤離逾五千名居民。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "阿爾納布死亡人數增至六人 奧里薩邦公布救助方案",
+      "dek": "當局表示仍有十人失蹤，數萬公頃農地遭損。",
+      "url": "https://www.siasat.com/odisha-announces-cyclone-relief-as-arnab-toll-hits-six-3568367/"
     },
     {
       "rank": 7,
-      "title": "颱風Champi導致台灣數萬戶停電",
-      "dek": "儘管風暴核心始終停留於海面，Champi強風豪雨仍導致台灣數萬戶家庭斷電，基隆出現結構性風損。",
-      "url": "https://www.ewn.co.za/2026/10/24/typhoon-champi-knocks-out-power-to-thousands-in-taiwan"
+      "title": "颱風錢比陸上警報解除",
+      "dek": "中央氣象署於十月二十四日下午解除警報，風暴已減弱並持續遠離台灣。",
+      "url": "https://focustaiwan.tw/society/202610240009"
     },
     {
       "rank": 8,
-      "title": "菲律賓大氣局預測11月菲律賓責任區將有一至兩個熱帶氣旋",
-      "dek": "PAGASA季節展望預測，11月將有一至兩個熱帶氣旋形成或進入菲律賓責任區，登陸地點以比科爾、東維薩亞斯或卡拉加一帶機率較高，目前尚無系統成形。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "颱風錢比逼近 陸上警報擴大至十九縣市",
+      "dek": "氣象署警告週五、週六風雨衝擊將達最強。",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866498"
     },
     {
       "rank": 9,
-      "title": "2026年颱風季展望：隨厄爾尼諾增強，活動偏多",
-      "dek": "氣象機構WeatherNews預測2026年西北太平洋颱風季將生成28至29個命名風暴，屬偏多活躍年份；TSR也將其列為該海域有紀錄以來最活躍的季節之一，預測窗口至11月30日為止。",
-      "url": "https://sea.weathernews.com/resources/202609/232"
+      "title": "超級颱風錢比逼近台灣 衝擊航班與美日軍演",
+      "dek": "台灣東北部外海風暴來襲，數百班國內外航班取消。",
+      "url": "https://www.staradvertiser.com/2026/10/22/breaking-news/typhoon-champi-nears-taiwan-disrupts-flights-and-u-s-japan-drills/"
     },
     {
       "rank": 10,
-      "title": "菲律賓颱風追蹤畫面顯示目前無活躍風暴",
-      "dek": "即時風暴追蹤網站RainViewer於11月4日（UTC 02:32）的畫面顯示，菲律賓及日本周邊海域均無活躍的熱帶風暴或颱風，印證西太平洋近期趨於平靜。",
-      "url": "https://www.rainviewer.com/storm-tracker/philippines.html"
+      "title": "PAGASA預測十一月菲律賓責任海域再現一至二個熱帶氣旋",
+      "dek": "歷史經驗顯示，此類風暴多登陸比科爾、東維薩亞斯或卡拉加地區。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     }
   ]
 }
