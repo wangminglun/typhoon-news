@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T09:12:00+08:00",
+  "generated_at": "2026-11-09T10:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報。上月超強颱風瑞伯（國際名Champi）造成的死傷與停電災情警報已於10月24日解除，逾兩週未再有新颱風生成，台灣目前處於無颱風威脅的平靜期。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報。上月超強颱風瑞伯（國際名Champi）造成的死傷與停電災情已全面平息；目前全球唯一具新聞價值的活躍系統——颱風燦帕卡（Cempaka）——預計僅短暫掠過菲律賓責任區邊緣後即轉向離境，對台灣不構成威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。並無任何颱風系統對台中構成威脅，瑞伯颱風期間台中亦未出現特定停班停課紀錄，當前天氣以季節轉換為主。"
+    "text": "目前無直接影響。搜尋未發現任何台中市停班停課公告或颱風警報報導；台中當前天氣狀況與現有熱帶系統（Cempaka/Samuel、已消散的Murasu）無直接關聯。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "西太平洋目前無活躍颱風　超強颱風瑞伯重創記憶未散",
-    "dek": "中央氣象署尚未發布新颱風警報，但上月超強颱風瑞伯（國際名Champi）掠過台灣造成的死傷與大規模停電，各方統計數字仍有落差。"
+    "title": "台灣目前無颱風威脅　太平洋「燦帕卡」增強逼近菲律賓外海",
+    "dek": "中央氣象署未發布任何颱風警報，颱風瑞伯風災影響已全面平息，全球唯一具新聞價值的活躍系統——太平洋上的颱風燦帕卡——預計僅掠過菲律賓責任區邊緣後即轉向離境，對台灣不構成威脅。"
   },
   "headline_body": [
-    "截至11月9日，西太平洋、菲律賓責任海域與大西洋海域均無任何活躍的命名颱風或熱帶氣旋，台灣當局也未發布新的颱風警報。這是今年颱風季近兩週以來最平靜的局面，距離上一個對台灣造成重大衝擊的風暴——超強颱風瑞伯（國際名Champi）——警報解除，已過去逾兩週。",
-    "瑞伯颱風曾是今年全球最強的風暴之一。英國《The Weather Network》報導，瑞伯巔峰時相當於五級颶風強度，持續風速達每小時296公里，是2026年全球強度最高的熱帶氣旋。中央氣象署10月22日針對瑞伯發布陸上颱風警報，馬來西亞《星報》報導，台灣政府因應決定於10月23日全國停班停課，數百至近千班國內外航班取消；美國《檀香山星報》則指出，瑞伯的逼近也打亂了美日聯合軍演的既定行程。",
-    "半島電視台報導，瑞伯襲台初期估計造成1人死亡、約350人受傷。路透社經由馬來西亞《星報》轉發的報導則指出，瑞伯最終並未直接登陸，而是從台灣外海掠過，但仍造成1死逾500傷，約7萬7498戶停電。台灣央社英文新聞網「Focus Taiwan」報導，中央氣象署於10月24日下午約2時30分解除陸上警報，當時瑞伯已減弱為輕度颱風並移向宜蘭外海；中央災害應變中心同日下午5時統計，自10月22日起累計1死616傷，逾14萬6000戶一度停電。巴基斯坦《The News／Jang》與ARY News等外媒報導的停電戶數與航班取消數字則更高，顯示各方統計隨時間與來源不同而有所差異。",
-    "阿聯酋《Khaleej Times》報導，中央氣象署當時評估瑞伯在接近台灣東部海域轉向北行後，將避開本島直接登陸，但仍帶來強風豪雨，隨後持續影響日本及菲律賓。台中地區並未出現瑞伯造成的特定停班停課紀錄，而目前亦無任何系統對台中構成威脅。",
-    "由於警報已於10月24日解除，且逾兩週未有新風暴生成，氣象署目前維持無警戒等級。隨著東北季風逐漸增強，專家提醒民眾仍應留意季節轉換期間天氣變化，但就颱風而言，台灣目前處於罕見的平靜期。"
+    "台北—儘管西太平洋上一個新的颱風正在增強，台灣本島目前並未面臨任何風暴威脅。中央氣象署未對台灣周邊海域發布任何颱風警報，顯示至少在可預見的未來，這座島嶼可以暫時喘一口氣。",
+    "上個月重創台灣東北部的颱風瑞伯（Champi），其影響已大致平息。根據《星報》（The Star）引述路透社的報導，瑞伯於10月下旬以超級颱風強度一度逼近台灣，雖未正面登陸，仍造成1人在小琉球附近遭沖走身亡，消防機關統計共有527人受傷。《海灣時報》（Khaleej Times）報導指出，風暴高峰期間，全台約4960人疏散、台電系統一度有逾28.8萬戶停電，將近千班航班取消，宜蘭甚至測得約65公分的驚人降雨量；台北等地政府曾連續兩天宣布停班停課。如今，電力已全面恢復，相關應變措施與警報也早已解除。",
+    "目前全球唯一具新聞價值的活躍熱帶氣旋，是形成於西太平洋、尚位於菲律賓以東海域的颱風燦帕卡（Cempaka）。根據菲律賓GMA News與《菲律賓每日詢問者報》（Inquirer）的報導，燦帕卡已於週末增強為颱風等級，預計將於週一（11月9日）進入菲律賓大氣地理天文服務署（PAGASA）劃定的責任區，屆時將依菲律賓慣例獲得地方名稱「山姆」。不過，《菲律賓每日詢問者報》與Philstar的報導皆指出，燦帕卡只會短暫掠過責任區東北邊緣，隨即轉向東北方向離境，預計不會在菲律賓登陸，更完全沒有朝台灣移動的跡象。",
+    "與此同時，另一個曾在南亞掀起波瀾的風暴也已成為過去式。根據印度《德干紀事報》（Deccan Chronicle）報導，孟加拉灣的低氣壓於11月初增強為氣旋風暴「穆拉蘇」（Murasu），登陸印度安德拉邦後迅速減弱，目前已完全消散，與東亞地區的天氣系統並無關聯。",
+    "放眼整個2026年太平洋颱風季，根據維基百科綜合日本氣象廳與美國聯合颱風警報中心等機構資料整理的紀錄，受強烈厄爾尼諾現象驅動，今年太平洋整體颱風活動量估計較1991至2020年均值高出約四成。儘管如此，GMA News報導指出，PAGASA對11月的季節展望仍預估僅會有1至2個熱帶氣旋進入菲律賓責任區，而就目前觀測，沒有任何系統對台灣構成威脅。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "半島電視台：瑞伯颱風襲台　1死約350傷",
-      "dek": "半島電視台報導，瑞伯颱風侵襲台灣，初步统計造成1人死亡、約350人受傷",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "燦帕卡增強　將獲名「山姆」",
+      "dek": "菲律賓GMA News報導，PAGASA表示颱風燦帕卡逼近菲律賓責任區時仍維持強度，一旦進入責任區將獲地方名稱「山姆」。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008757/cempaka-maintains-strength-to-be-named-samuel-once-inside-par-pagasa/story/"
     },
     {
       "rank": 2,
-      "title": "路透社：瑞伯颱風掠過台灣　1死逾500傷",
-      "dek": "路透社經馬來西亞《星報》報導，瑞伯颱風並未直接登陸、僅從台灣外海掠過，造成1死逾500傷，近7萬7千戶停電",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
+      "title": "燦帕卡週一進菲責任區　短暫停留即出境",
+      "dek": "《菲律賓每日詢問者報》報導，PAGASA預測燦帕卡週一上午進入菲律賓責任區後將轉向東北，週一晚間至週二清晨即離境，不會登陸菲律賓。",
+      "url": "https://newsinfo.inquirer.net/2338141/typhoon-cempaka-to-enter-par-monday-briefly-stay-before-exiting-tuesday"
     },
     {
       "rank": 3,
-      "title": "《星報》：台灣發布陸上警報　迎接強颱瑞伯",
-      "dek": "馬來西亞《星報》報導，中央氣象署在瑞伯逼近前發布陸上颱風警報，政府宣布10月23日全國停班停課並陸續取消航班",
-      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+      "title": "燦帕卡增強為颱風　尚未入菲責任區",
+      "dek": "菲律賓Philstar報導，燦帕卡週日位於呂宋島以東約1600公里處、風速每小時約120公里，當天升格為颱風，預報將持續增強至週二起減弱。",
+      "url": "https://www.philstar.com/headlines/weather/2026/11/08/2568769/cempaka-expected-intensify-typhoon-entering-par"
     },
     {
       "rank": 4,
-      "title": "檀香山星報：瑞伯逼近台灣　打亂航班與美日軍演",
-      "dek": "美國《檀香山星報》報導，瑞伯颱風接近台灣不僅造成商業航班大亂，也影響原定的美日聯合軍事演習",
-      "url": "https://www.staradvertiser.com/2026/10/22/breaking-news/typhoon-champi-nears-taiwan-disrupts-flights-and-u-s-japan-drills/"
+      "title": "強烈熱帶風暴燦帕卡逼近菲責任區",
+      "dek": "GMA News報導，燦帕卡在升格為颱風前，以強烈熱帶風暴等級逼近菲律賓責任區邊緣，強度維持不變。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008702/severe-tropical-storm-cempaka-keeps-strength-as-it-nears-par/story/"
     },
     {
       "rank": 5,
-      "title": "央社：氣象署解除瑞伯陸上警報　風暴減弱遠離",
-      "dek": "中央社英文新聞網「Focus Taiwan」報導，氣象署10月24日下午解除陸上警報，統計累計1死616傷，逾14萬6千戶曾停電",
-      "url": "https://focustaiwan.tw/society/202610240009"
+      "title": "燦帕卡在責任區外增強為颱風",
+      "dek": "《菲律賓每日詢問者報》證實，燦帕卡在尚未進入菲律賓責任區前，已由熱帶風暴增強為颱風等級。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
     },
     {
       "rank": 6,
-      "title": "Khaleej Times：超強颱風瑞伯未直撲台灣　轉向波及日菲",
-      "dek": "阿聯酋《Khaleej Times》報導，氣象署評估瑞伯將北轉避開台灣本島，但仍帶來強風豪雨，並持續影響日本與菲律賓",
-      "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
+      "title": "瑞伯颱風掠台　1死500傷",
+      "dek": "《星報》引述路透社報導，颱風瑞伯10月下旬掠過台灣東北部海岸、一度達超級颱風強度，造成1人在小琉球附近遭沖走身亡，消防機關確認527人受傷。",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured"
     },
     {
       "rank": 7,
-      "title": "The Weather Network：瑞伯風速296公里　稱霸2026年全球最強風暴",
-      "dek": "加拿大《The Weather Network》報導，瑞伯增強至五級颶風等級，持續風速約每小時296公里，為2026年全球最強熱帶氣旋",
-      "url": "https://theweathernetwork.com/en/news/weather/forecasts/296-km-h-super-typhoon-champi-is-now-the-strongest-storm-on-earth-in-2026"
+      "title": "瑞伯來襲　全台逾5千人疏散",
+      "dek": "《海灣時報》報導，瑞伯颱風侵襲期間台灣各縣市共疏散約4960人，台電統計一度逾28.8萬戶停電，近千航班取消，宜蘭降雨量高達約65公分。",
+      "url": "https://www.khaleejtimes.com/asia/typhoon-champ-taiwan-5000-evacuated-thousands-no-electricity"
     },
     {
       "rank": 8,
-      "title": "巴國媒體：超強颱風瑞伯威脅中國與台灣　即時路徑與警報",
-      "dek": "巴基斯坦《The News／Jang》報導追蹤瑞伯逼近巔峰強度時的路徑，指出該風暴同時威脅中國沿岸與台灣，區域氣象機構陸續發布警報",
-      "url": "https://jang.com.pk/en/74940-super-typhoon-champi-threatens-china-and-taiwan-live-track-and-warnings-news"
+      "title": "印度氣旋「穆拉蘇」已減弱消散",
+      "dek": "印度《德干紀事報》報導，孟加拉灣低氣壓11月1日增強為氣旋風暴穆拉蘇，登陸安德拉邦後迅速減弱，目前已完全消散。",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/deep-depression-intensified-into-cyclonic-storm-murasu-2000789"
     },
     {
       "rank": 9,
-      "title": "巴國媒體：瑞伯迫台灣停班停課　數百航班取消",
-      "dek": "巴基斯坦《The News／Jang》報導，台灣政府因瑞伯來襲下令停班停課，數百至近千班航班遭取消",
-      "url": "https://jang.com.pk/en/75060-typhoon-champi-forces-taiwan-shutdown-as-hundreds-of-flights-cancelled-news"
+      "title": "PAGASA：11月責任區僅1至2個颱風",
+      "dek": "GMA News報導，PAGASA季節展望預估2026年11月僅1至2個熱帶氣旋進入或形成於菲律賓責任區內，12月展望數字相近。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 10,
-      "title": "ARY News：瑞伯颱風襲台　數千戶停電",
-      "dek": "巴基斯坦ARY News報導，瑞伯颱風強風豪雨導致台灣多地停電，其他外媒引述數字顯示受影響戶數最高逾14萬6千戶",
-      "url": "https://arynews.tv/typhoon-champi-knocks-out-power-thousands-taiwan"
+      "title": "2026太平洋颱風季　活動量偏高",
+      "dek": "維基百科綜合日本氣象廳、美國聯合颱風警報中心與PAGASA資料顯示，受強烈厄爾尼諾現象影響，2026年西北太平洋颱風季活動量較歷史均值高出約四成。",
+      "url": "https://en.wikipedia.org/wiki/2026_Pacific_typhoon_season"
     }
   ]
 }
