@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T00:12:00+08:00",
+  "generated_at": "2026-11-19T01:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，今日天氣主要受東北季風與冷空氣南下影響。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，今日天氣主要受東北季風影響。",
   "region_watch": {
     "region": "台中",
-    "text": "台中市目前未受任何熱帶氣旋系統影響，僅隨東北季風增強而天氣轉涼，白天高溫約攝氏29至30度，無因颱風發布之停班停課或風雨警報，目前無直接影響。"
+    "text": "台中市目前未受任何熱帶氣旋系統影響，風雨狀況平穩，未觸發停班停課機制，主要天氣驅動因素仍是東北季風帶來的降溫效應，目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,76 +22,77 @@
     }
   ],
   "headline": {
-    "title": "颱風季暫歇 台灣轉受東北季風影響 國際視線集中孟加拉灣氣旋「阿克凡」",
-    "dek": "中央氣象署證實目前無熱帶氣旋威脅台灣，全球氣象機構的關注焦點已轉向即將登陸印度安得拉邦海岸的強烈氣旋「阿克凡」。"
+    "title": "強氣旋艾克凡逼近印度東岸 台灣暫無颱風威脅",
+    "dek": "根據印度氣象局預測，氣旋艾克凡將以「極強氣旋風暴」強度於11月20日登陸安得拉邦，而台灣目前僅受東北季風影響，並無任何颱風警報。"
   },
   "headline_body": [
-    "截至11月18日，台灣周邊海域並無任何熱帶氣旋活動，中央氣象署（CWA）尚未發布任何颱風警報。影響今天天氣的是一股冷空氣與增強中的東北季風，為北部與東部帶來降溫與降雨，中南部（包括台中）則維持溫和天氣，白天高溫約攝氏29至30度，沒有因颱風發布的停班停課或風雨警報。",
-    "這是台灣自10月下旬以來最平靜的一段時期。上一個直接影響台灣的風暴是10月22日至24日掠過本島的強烈颱風「輝颯」（Champi），造成1人死亡、逾500人受傷，並使農業損失達約新台幣1.93億元，如今已過去三週。",
-    "今年西北太平洋颱風季也創下歷史紀錄。第32號颱風「查帕卡」（Cempaka）於11月7日生成，成為今年該海域第32個命名風暴，超越2013年的31個，為本世紀以來最多。根據日本氣象廳（JMA）與Weathernews的資料，查帕卡在日本以南海域轉向東行，於11月14日前後減弱為熱帶性低氣壓，全程未對台灣構成威脅。",
-    "全球目前最受關注的活躍系統是孟加拉灣的氣旋「阿克凡」（Akvan）。印度氣象局（IMD）預測其將增強為「極強烈氣旋風暴」，並於11月20日正午前後，在奈洛爾（Nellore）與圖尼（Tuni）之間的安得拉邦海岸登陸，登陸風速估計達每小時120至130公里，瞬間風力可達每小時145公里。IMD已對安得拉邦、泰米爾納杜邦、奧里薩邦與西孟加拉邦發布強降雨警報，建議沿海漁民11月19日、20日避免出海。報導並指出，阿克凡是三週內第三個威脅安得拉邦海岸的氣旋，此前已有「阿爾納布」（Arnab）與「穆拉蘇」（Murasu）相繼來襲。全球災害預警協調系統（GDACS）11月16日對阿克凡發布橙色警示，估計約2080萬人可能暴露於熱帶風暴等級以上的風力範圍內。",
-    "另一方面，南太平洋的熱帶氣旋「賈維爾」（Xavier）11月16日在庫克群島北部增強至二級強度，美國聯合颱風警報中心（JTWC）預測其強度將於11月17日前後達到高峰，隨後自11月18日起開始減弱；馬尼希基（Manihiki）與拉卡漢加（Rakahanga）環礁目前仍處於強風警戒中。整體而言，隨著西北太平洋進入季末階段，氣象觀測重心已明顯由台灣周邊轉移至印度洋與南太平洋。"
+    "今年西北太平洋颱風季已創下21世紀以來最多命名風暴的紀錄，但此刻真正牽動全球關注的風暴，卻是遠在印度洋的一個系統。根據印度氣象局（IMD）預測，孟加拉灣氣旋艾克凡（Akvan）將以「極強氣旋風暴」強度，於11月20日正午前後登陸安得拉邦內洛爾（Nellore）至圖尼（Tuni）一帶海岸，近中心持續風速估計達每小時120至130公里，瞬間風速可達145公里。",
+    "這將是安得拉邦在不到一個月內遭遇的第三個氣旋。根據《Siasat Daily》報導，在艾克凡之前，氣旋阿納布（Arnab）與穆拉蘇（Murasu）已相繼襲擾同一海岸。全球災害預警與協調系統（GDACS）已將艾克凡的警戒等級上調至橙色，評估約有2080萬人暴露於颱風級強風範圍內，顯示這場風暴的潛在衝擊不容忽視。",
+    "根據《The Federal》與《Dainik Jagran》報導，印度氣象局已對安得拉邦、奧里薩邦、泰米爾納杜邦與西孟加拉邦發布豪雨警報，預計11月19日至20日沿海安得拉邦將出現極端強降雨；多篇即時追蹤報導均指出，登陸時間聚焦在11月20日前後。",
+    "相較之下，南太平洋的氣旋澤維爾（Xavier）則溫和許多。根據GDACS資料，這個逼近庫克群島的系統僅獲評為最低等級的綠色警示，目前幾乎沒有人口暴露於具破壞力的強風範圍內。",
+    "至於台灣所在的西北太平洋，今年颱風季已寫下新紀錄。根據Watchers.News報導，11月7日生成的颱風森巴卡（Cempaka）成為今年第32個命名風暴，超越2013年的31個紀錄，創下21世紀以來單一年份最多命名風暴的新高；該系統一度逼近80節強度後逐漸減弱。根據Weathernews報導，森巴卡隨後轉向東北朝日本方向移動，在進入較涼海域後持續減弱，並未對台灣或菲律賓構成威脅。",
+    "台灣方面，中央氣象署目前未發布任何海上或陸上颱風警報。根據中央社（Focus Taiwan）11月8日報導，東北季風增強為北部與宜蘭地區帶來顯著降溫，當時仍為熱帶風暴的森巴卡，位於鵶鸞鼻東方約1690公里處，距離遙遠，對台灣並無直接威脅。台中市目前亦未受任何熱帶氣旋影響，風雨狀況平穩，未觸發停班停課機制，主要天氣驅動因素仍是東北季風帶來的降溫效應。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "印度氣象局：氣旋阿克凡將以「極強烈」等級登陸安得拉邦，奧里薩與泰米爾納杜邦戒備降雨",
-      "dek": "印度氣象局預測氣旋阿克凡將增強為極強烈氣旋風暴，並於11月20日正午前後在奈洛爾與圖尼之間登陸安得拉邦海岸。",
+      "title": "印度氣象局：氣旋艾克凡將以「極強」強度登陸安得拉邦",
+      "dek": "根據《The Federal》報導，印度氣象局預測氣旋艾克凡本週末登陸，奧里薩邦與泰米爾納杜邦同步戒備強降雨。",
       "url": "https://thefederal.com/category/news/cyclone-akvan-bay-of-bengal-east-coast-rainfall-weather-forecast-imd-263072"
     },
     {
       "rank": 2,
-      "title": "氣旋阿克凡逼近安得拉邦：印度氣象局追蹤強烈風暴，預計11月20日登陸奈洛爾至圖尼海岸",
-      "dek": "印度氣象局最新公告顯示阿克凡持續朝西北方向移動，登陸時風速估計每小時120至130公里，陣風可達每小時145公里，多邦已發布強降雨警報。",
+      "title": "氣旋艾克凡路徑鎖定 內洛爾至圖尼沿海11月20日登陸",
+      "dek": "根據Karmactive報導，印度氣象局預測氣旋艾克凡將於11月20日正午前後登陸，近中心風速估計每小時120至130公里，瞬間風速達145公里。",
       "url": "https://www.karmactive.com/?p=285651"
     },
     {
       "rank": 3,
-      "title": "安得拉邦三週內第三度戒備氣旋來襲，阿克凡持續增強",
-      "dek": "繼氣旋阿爾納布與穆拉蘇之後，阿克凡成為三週內第三個威脅安得拉邦海岸的氣旋，印度氣象局預計其將於11月19日前增強為極強烈氣旋風暴。",
-      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
+      "title": "印度四邦發布豪雨警報 氣旋艾克凡11月20日登陸安得拉邦",
+      "dek": "根據《Dainik Jagran》報導，印度氣象局已對安得拉邦、泰米爾納杜邦、奧里薩邦與西孟加拉邦發布豪雨警報，預計19至20日出現極端強降雨。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-to-make-landfall-in-andhra-pradesh-on-november-20-heavy-rain-alert-issued-for-andhra-pradesh-tamil-nadu-odisha-west-bengal-check-imd-forecast-10336533"
     },
     {
       "rank": 4,
-      "title": "氣旋阿克凡來襲：印度氣象局預警安得拉邦11月19、20日將有極端強降雨",
-      "dek": "隨著阿克凡逼近登陸，印度氣象局對安得拉邦沿岸發布極端強降雨警報，並建議漁民當日避免出海作業。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-imd-forecasts-extremely-heavy-rains-in-andhra-pradesh-on-november-19-20-8260687.html"
+      "title": "一個月內第三個氣旋 安得拉邦再度進入備戰狀態",
+      "dek": "根據《Siasat Daily》報導，繼氣旋阿納布與穆拉蘇之後，安得拉邦即將面對不到一個月內襲擾的第三個氣旋艾克凡。",
+      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
     },
     {
       "rank": 5,
-      "title": "氣旋阿克凡：陣風達每小時145公里，安得拉邦與奧里薩邦將迎強降雨，登陸日期曝光",
-      "dek": "報導彙整多邦降雨警報，並指出阿克凡逼近海岸時陣風風速最高可達每小時145公里。",
-      "url": "https://news24online.com/trending/cyclone-akvan-145-km-winds-heavy-rain-to-hit-andhra-pradesh-odisha-as-storm-nears-coast-check-landfall-date/954039/"
-    },
-    {
-      "rank": 6,
-      "title": "氣旋「阿克凡」原估11月18日登陸安得拉邦海岸（後修正為11月20日）",
-      "dek": "印度氣象局早期預測一度將登陸時間估計為11月18日，但隨後的公告已將登陸預測修正至11月20日。",
-      "url": "https://www.thehansindia.com/news/cities/amaravati/cyclone-akvan-likely-to-hit-ap-coast-on-nov-18-1142184"
-    },
-    {
-      "rank": 7,
-      "title": "全球災害預警協調系統對熱帶氣旋阿克凡發布橙色警示",
-      "dek": "GDACS於11月16日發布橙色等級警示，估計約2080萬人可能暴露於一級以上、每小時120公里以上風力的影響範圍內。",
+      "title": "GDACS將氣旋艾克凡警戒提升至橙色 逾2000萬人曝險",
+      "dek": "根據GDACS資料，約2080萬人暴露於氣旋艾克凡的颱風級強風範圍內，國際災害預警系統已將警戒等級上調至橙色。",
       "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
     },
     {
-      "rank": 8,
-      "title": "熱帶氣旋賈維爾於庫克群島北部增強至二級強度，馬尼希基、拉卡漢加發布強風警戒",
-      "dek": "南太平洋熱帶氣旋賈維爾增強至二級，美國聯合颱風警報中心預測其強度將於11月17日前後達到高峰，並自11月18日起開始減弱。",
-      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
+      "rank": 6,
+      "title": "南太平洋氣旋澤維爾威力有限 GDACS僅列綠色警示",
+      "dek": "根據GDACS資料，逼近庫克群島的氣旋澤維爾目前幾乎沒有人口暴露於強風範圍內，風險等級維持最低的綠色。",
+      "url": "https://www.defconlevel.com/alert/2026-11-15-gdacs-disasters-green-notification-for-tropical-cyclone-xavier-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-0-in-tropical-storm"
     },
     {
-      "rank": 9,
-      "title": "颱風查帕卡11月7日於西北太平洋生成，成為今年第32個颱風，創本世紀最多紀錄",
-      "dek": "查帕卡的生成使今年西北太平洋颱風數量超越2013年的31個紀錄，其後轉向日本以東海域，並於11月14日前後減弱為熱帶性低氣壓，未對台灣造成影響。",
+      "rank": 7,
+      "title": "颱風森巴卡成今年第32個命名風暴 創21世紀紀錄",
+      "dek": "根據Watchers.News報導，11月7日生成的颱風森巴卡超越2013年31個的舊紀錄，成為21世紀以來單一年份最多命名風暴。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
+      "rank": 8,
+      "title": "森巴卡轉向日本南方海域 逐漸減弱遠離台灣",
+      "dek": "根據Weathernews報導，颱風森巴卡已轉向東北朝日本方向移動，進入較涼海域後持續減弱，並未對台灣構成威脅。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
+    },
+    {
+      "rank": 9,
+      "title": "東北季風增強台灣轉冷 森巴卡遠在千里外無虞",
+      "dek": "根據中央社報導，中央氣象署指東北季風將使北部與宜蘭明顯降溫，當時熱帶風暴森巴卡位於鵶鸞鼻東方約1690公里處，對台灣無直接威脅。",
+      "url": "https://focustaiwan.tw/society/202611080013"
+    },
+    {
       "rank": 10,
-      "title": "颱風輝颯襲台造成1死數百傷（台灣近期唯一直接受影響風暴，背景資料）",
-      "dek": "颱風輝颯一度達超級颱風強度，10月22日至24日掠過台灣未直接登陸，造成1人死亡、逾500人受傷及約新台幣1.93億元農損，至今仍是台灣最近一次直接受影響的風暴。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "即時追蹤：氣旋艾克凡預計11月20日登陸安得拉邦",
+      "dek": "根據New Kerala即時報導，氣旋艾克凡持續增強，預計登陸地點仍鎖定安得拉邦沿岸。",
+      "url": "https://www.newkerala.com/news/a/cyclone-akvan-hit-andhra-pradesh-coast-nov-20-221.htm"
     }
   ]
 }
