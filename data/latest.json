@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T02:12:00+08:00",
+  "generated_at": "2026-11-19T03:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報，今日天氣主要受東北季風影響。",
+  "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前沒有颱風直接影響台中。中央氣象署因東北季風增強，將台中與苗栗等十二縣市列入陸上強風黃色燈號範圍，預測18日上午至19日晚間沿海地區平均風力達6級、陣風8級以上，但此屬季節性東北風效應，並非颱風警報，目前也未有停班停課公告。"
+    "text": "目前沒有颱風直接影響台中。截至11月18日，無任何風雨、停班停課相關消息，台中目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "目前無颱風威脅台灣 全球焦點轉向孟加拉灣與南太平洋兩強氣旋",
-    "dek": "中央氣象署僅因東北季風發布陸上強風黃色燈號，與颱風無關；全球關注焦點落在印度安德拉邦外海增強中的氣旋阿克凡，與正以五級強度橫掃南太平洋庫克群島的氣旋澤維爾。"
+    "title": "台灣無颱風威脅 全球關注印度、南太平洋風暴",
+    "dek": "中央氣象署目前未發布任何颱風警報，台灣暫無風雨威脅，但印度氣旋阿克凡直逼安得拉邦海岸、南太平洋氣旋澤維爾肆虐庫克群島，全球多起風暴動態持續升溫。"
   },
   "headline_body": [
-    "台灣目前未受任何颱風影響或威脅，中央氣象署也沒有發布海上或陸上颱風警報。本季西北太平洋颱風活動雖創下本世紀最活躍紀錄，但距離台灣最近一次遭颱風直擊，已是上月底的颱風璨樹。",
-    "氣象網站The Watchers報導，11月初生成的颱風錢帕卡成為2026年第32個颱風，超越2013年創下的31個紀錄，是本世紀西北太平洋最活躍的颱風季。不過錢帕卡達到巔峰強度後便迅速減弱消散，並未直接影響台灣或菲律賓。根據半島電視台與The Watchers報導，台灣最近一次遭颱風直接襲擊，是10月22日至24日來襲的颱風璨樹，造成一人死亡、數百人受傷（各方統計在500餘人至634人之間），中央氣象署在全台約87個鄉鎮測得10級以上強風陣風。此後，台灣已逾三週未再受颱風直接威脅。",
-    "儘管台灣周邊平靜，全球其他地區的熱帶氣旋活動仍相當活躍。據印度媒體Swarajya、Siasat與News Karnataka報導，印度氣象局預測，孟加拉灣的氣旋阿克凡將增強至「非常強烈」等級，並於20日週五正午前後以最大風速每小時145公里強度，登陸安德拉邦內洛爾與圖尼之間的海岸，當局已對七個沿海縣發布紅色警戒。氣象追蹤網站Mappr與News Karnataka均指出，阿克凡是繼10月底的氣旋阿爾納布與其後的氣旋穆拉蘇之後，三週內第三個襲擊同一海岸的氣旋，印度媒體稱此為罕見的「帽子戲法」。",
-    "與此同時，南太平洋的氣旋澤維爾已增強至五級強度。據紐西蘭媒體Stuff與Islands Business報導，澤維爾以最大陣風每小時315公里橫掃庫克群島北部，當地緊急管理機構已指示居民避難，普卡普卡與納蘇島仍處於威脅之中，目前尚無人員傷亡報告。氣象網站The Watchers指出，澤維爾巔峰強度達每小時約220公里、中心氣壓910毫巴，是2016年氣旋溫斯頓以來南太平洋最強的系統；Nature World News分析，其強度與路徑與厄爾尼諾現象導致風暴帶東移有關。南太平洋區域專業氣象中心那地預測，澤維爾將於18日稍晚減弱為四級，19日再降為三級。",
-    "台灣本身目前僅因東北季風增強，被中央氣象署列入陸上強風黃色燈號範圍，與颱風無關。中央氣象署目前的颱風警報狀態為「無」。"
+    "台灣目前未受任何熱帶氣旋威脅。中央氣象署並未發布海上或陸上颱風警報，島上最近一次與颱風相關的紀錄，是去年十月下旬侵襲台灣的颱風劫比（Champi），該系統早已遠離，截至11月18日，沒有任何活躍系統逼近台灣。",
+    "目前全球最受矚目的活躍風暴，是在孟加拉灣增強中的氣旋阿克凡。據《New Kerala》報導，印度氣象局（IMD）預測阿克凡將以「非常猛烈氣旋風暴」強度，於11月20日正午左右登陸安得拉邦與亞南海岸，地點介於內洛爾（Nellore）與圖尼（Tuni）之間，最大持續風速預估達每小時120至130公里，陣風可達145公里。沿海地區自11月18日起已出現豪雨，預料19日至20日將轉為「極端豪雨」。《Karmactive》報導進一步指出，阿克凡是由孟加拉灣的深低氣壓增強而成，斯里蘭卡媒體《Ada Derana》曾預期其於11月17日增強至「猛烈氣旋風暴」等級；安得拉邦邦災害管理局已呼籲沿海居民提前採取防範措施。這是印度東岸在約一個月內遭遇的第三個重大氣旋，此前的氣旋阿爾納布於10月28日登陸，造成數萬人疏散、161處觀測站記錄到極端豪雨，據美聯社（AP）透過《Bay News 9》報導；氣旋穆拉蘇則於11月3日在翁戈萊附近登陸，據《Deccan Herald》報導，造成至少兩人死亡、逾35班列車停駛。",
+    "與此同時，南太平洋的熱帶氣旋澤維爾正影響庫克群島北部。氣象網站《Watchers.news》報導，澤維爾已增強至二級強度，美國聯合颱風警報中心（JTWC）11月15日將其定位於南緯8.2度、西經158.9度，馬尼希基（Manihiki）與拉卡漢加（Rakahanga）兩座環礁已發布烈風警告，陣風可達每小時130公里，預計持續至11月19日。美國駐紐西蘭大使館也就此發布安全警示，提醒當地居民留意豪雨、雷雨及強風，據警示彙整網站《DEFCON Level》報導。",
+    "在西北太平洋方面，原先進入菲律賓責任區的颱風「百合」（國際命名Cempaka，菲律賓編號Samuel）已於近日離開該責任區並持續減弱。菲律賓《GMA News》報導，菲律賓大氣地理天文服務管理局（PAGASA）公報顯示，該系統位於呂宋島最北端東北方約1415公里處，最大持續風速每小時130公里，預料不會再直接影響菲律賓。該局另依《GMA News》與《Tribune.net.ph》報導預測，11月進入或形成於責任區內的熱帶氣旋僅1至2個，目前呂宋島及大馬尼拉地區的濕冷天氣，係東北季風（Amihan）所致，並非熱帶氣旋。",
+    "值得留意但仍待證實的是，風暴追蹤網站《Zoom Earth》標示呂宋島西北方外海存在一處「熱帶擾動96W」，顯示「高發展機率」，最大持續風速約每小時35至45公里；但目前查無菲律賓大氣局或聯合颱風警報中心的官方公報予以證實，應視為未經確認的早期觀察項目，而非已成形的氣旋系統。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋阿克凡增強逼近「非常強烈」等級 週五登陸安德拉邦",
-      "dek": "據印度媒體Swarajya報導，印度氣象局預測氣旋阿克凡將於20日週五正午前後以最大風速每小時145公里強度登陸安德拉邦海岸，當局已對七個沿海縣發布紅色警戒。",
-      "url": "https://swarajyamag.com/news-brief/cyclone-akvan-strengthens-to-very-severe-storm-ahead-of-friday-landfall-in-andhra-pradesh"
+      "title": "氣旋阿克凡增強 印度東岸備戰11月20日登陸",
+      "dek": "據《New Kerala》報導，印度氣象局預測氣旋阿克凡將於11月20日正午左右以「非常猛烈氣旋風暴」強度，登陸安得拉邦與亞南海岸的內洛爾至圖尼之間，最大持續風速達每小時120至130公里，陣風可達145公里；沿岸地區自11月18日起已出現豪雨。",
+      "url": "https://www.newkerala.com/news/a/cyclone-akvan-hit-andhra-pradesh-coast-nov-20-221.htm"
     },
     {
       "rank": 2,
-      "title": "追蹤顯示阿克凡成安德拉海岸三週內第三個登陸氣旋",
-      "dek": "氣象追蹤網站Mappr指出，阿克凡預計於20日正午前後在內洛爾與圖尼之間登陸，是繼氣旋阿爾納布與穆拉蘇之後，一個月內第三個襲擊同一海岸的氣旋。",
-      "url": "https://www.mappr.co/cyclone-akvan-tracker/"
+      "title": "阿克凡路徑明朗化 印度氣象局持續追蹤",
+      "dek": "據《Karmactive》報導，氣旋阿克凡原為孟加拉灣低氣壓增強而成，斯里蘭卡《Ada Derana》曾預期其於11月17日增強為「猛烈氣旋風暴」；安得拉邦邦災害管理局已呼籲沿海居民提前防範。",
+      "url": "https://www.karmactive.com/?p=285651"
     },
     {
       "rank": 3,
-      "title": "印度媒體：安德拉邦三週內三度迎戰氣旋 阿克凡持續醞釀增強",
-      "dek": "據印度媒體Siasat報導，低壓系統已增強為氣旋風暴阿克凡，印度氣象局預測將於20日在內洛爾-圖尼附近登陸，風速每小時120至130公里，陣風可達145公里。",
-      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
-    },
-    {
-      "rank": 4,
-      "title": "氣旋阿克凡登陸時間地點出爐 印度東岸罕見「三連擊」",
-      "dek": "據News Karnataka報導，繼10月底造成3至6人死亡的氣旋阿爾納布與其後的氣旋穆拉蘇之後，阿克凡將成為三週內第三個襲擊同一海岸的氣旋，印度媒體稱此為史無前例的「帽子戲法」。",
-      "url": "https://newskarnataka.com/india/cyclone-akvan-landfall-date-time-and-location/16112026/"
-    },
-    {
-      "rank": 5,
-      "title": "五級強氣旋澤維爾襲擊庫克群島北部 陣風達每小時315公里",
-      "dek": "據紐西蘭媒體Stuff報導，氣旋澤維爾已增強為五級強度，庫克群島北部普卡普卡與納蘇島居民獲當局指示避難，目前尚無人員傷亡或重大損失報告。",
-      "url": "https://www.stuff.co.nz/world-news/361060571/category-5-cyclone-xavier-batters-northern-cook-islands"
-    },
-    {
-      "rank": 6,
-      "title": "澤維爾以五級強度橫掃庫克群島 預測未來兩日將逐漸減弱",
-      "dek": "據Islands Business報導，南太平洋區域專業氣象中心那地指出，澤維爾將於18日稍晚減弱為四級，19日再降為三級。",
-      "url": "https://islandsbusiness.com/news-break/tc-xavier-hits-cooks-as-category-5-cyclone/"
-    },
-    {
-      "rank": 7,
-      "title": "澤維爾形成初期即達二級 巔峰強度直追2016年強颱溫斯頓",
-      "dek": "氣象網站The Watchers報導，澤維爾形成初期在馬尼希基與拉卡漢加附近已達二級強度並發布強風警報，其後巔峰強度達每小時約220公里、中心氣壓910毫巴，為2016年氣旋溫斯頓以來南太平洋最強系統。",
+      "title": "熱帶氣旋澤維爾增強 庫克群島發布烈風警告",
+      "dek": "氣象網站《Watchers.news》報導，熱帶氣旋澤維爾已增強至二級強度，美國聯合颱風警報中心11月15日將其定位於南緯8.2度、西經158.9度；馬尼希基及拉卡漢加環礁已發布烈風警告，陣風可達每小時130公里，預計持續至11月19日。",
       "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
+      "rank": 4,
+      "title": "美國使館對庫克群島發布氣旋安全警示",
+      "dek": "據安全警示彙整網站《DEFCON Level》報導，美國駐紐西蘭大使館就熱帶氣旋澤維爾發布安全警示，警告庫克群島將出現豪雨、雷雨及陣風達每小時130公里的天氣，影響將持續至11月19日。",
+      "url": "https://www.defconlevel.com/alert/2026-11-16-u-s-embassy-security-alerts-nz-cyclone-warning-for-cook-islands-november-16-and-17"
+    },
+    {
+      "rank": 5,
+      "title": "颱風「百合」脫離菲律賓責任區 持續減弱",
+      "dek": "菲律賓《GMA News》報導，菲律賓大氣地理天文服務管理局公報顯示，颱風「百合」（國際命名Cempaka）已位於呂宋島最北端東北方約1415公里處，脫離菲律賓責任區，最大持續風速每小時130公里，陣風160公里，預料不會再直接影響菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008861/typhoon-samuel-exits-par-pagasa/story/"
+    },
+    {
+      "rank": 6,
+      "title": "回顧：颱風劫比重創台灣 一死逾500傷",
+      "dek": "綜合《Star Advertiser》與印度《News On Air》報導，颱風劫比（Champi）10月下旬侵襲台灣，造成一人死亡、逾500人受傷，班機與美日軍演受擾，部分地區一度停電，是台灣迄今最近一次直接受颱風影響的紀錄。",
+      "url": "https://www.staradvertiser.com/2026/10/22/breaking-news/typhoon-champi-nears-taiwan-disrupts-flights-and-u-s-japan-drills/"
+    },
+    {
+      "rank": 7,
+      "title": "氣旋穆拉蘇襲安得拉邦 至少2死鐵公路中斷",
+      "dek": "《Deccan Herald》報導，氣旋穆拉蘇於11月3日在安得拉邦翁戈萊附近（內洛爾與納爾薩普爾之間）登陸，造成至少兩人死亡，多處樹木倒塌、電線桿傾倒，逾35班列車停駛，是一週內侵襲印度東岸的第二個重大氣旋，前一個為氣旋阿爾納布。",
+      "url": "https://www.deccanherald.com/india/cyclone-murasu-kills-two-in-andhra-pradesh-disrupts-rail-and-air-services-4206212"
+    },
+    {
       "rank": 8,
-      "title": "分析：厄爾尼諾現象致風暴帶東移 助長氣旋澤維爾增強",
-      "dek": "Nature World News報導指出，氣旋澤維爾的強度與路徑與厄爾尼諾現象造成風暴帶東移有關，若目前路徑不變，薩摩亞預期不會直接受到威脅。",
-      "url": "https://www.natureworldnews.com/articles/73887/20261117/cyclone-xavier-strengthens-over-northern-cook-islands-el-nino-shifts-storm-zone-east.htm"
+      "title": "氣旋阿爾納布襲安得拉邦 數萬人疏散創紀錄豪雨",
+      "dek": "據美聯社（AP）透過《Bay News 9》報導，氣旋阿爾納布10月底襲擊印度安得拉邦，促使數萬居民疏散，全邦161處觀測站記錄到極端豪雨，是近一個月內侵襲印度東岸三個孟加拉灣氣旋（阿爾納布、穆拉蘇、阿克凡）中的第一個。",
+      "url": "https://baynews9.com/fl/tampa/ap-top-news/2026/10/28/cyclone-arnab-hits-indias-andhra-pradesh-state-as-tens-of-thousands-evacuate"
     },
     {
       "rank": 9,
-      "title": "颱風錢帕卡創紀錄 2026年成本世紀西北太平洋颱風最活躍年",
-      "dek": "氣象網站The Watchers報導，颱風錢帕卡11月初生成，成為2026年第32個颱風，打破2013年創下的31個本世紀紀錄，但該颱風巔峰強度後即減弱消散，未直接影響台灣或菲律賓。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "呂宋島外海疑似熱帶系統96W 尚待證實",
+      "dek": "風暴追蹤網站《Zoom Earth》標示呂宋島西北方有一「熱帶擾動96W」，顯示「高發展機率」，最大持續風速約每小時35至45公里；惟目前未查得菲律賓大氣局或聯合颱風警報中心的官方公報證實，應視為未經確認的觀察項目。",
+      "url": "https://zoom.earth/storms/96w-2026/"
     },
     {
       "rank": 10,
-      "title": "颱風璨樹為台灣最近一次颱風直擊 一人死亡逾500人受傷",
-      "dek": "根據半島電視台與氣象網站The Watchers報導，颱風璨樹10月22日至24日直撲台灣，造成一人死亡、傷者人數在500餘人至634人之間（各方統計不一），中央氣象署在約87個鄉鎮測得10級以上強風陣風，是台灣至今最近一次遭颱風直接襲擊的紀錄。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "PAGASA：11月菲律賓責任區估僅1至2颱風",
+      "dek": "據《GMA News》與《Tribune.net.ph》報導，菲律賓大氣地理天文服務管理局預測11月進入或形成於菲律賓責任區的熱帶氣旋僅1至2個；該局表示，目前呂宋島及大馬尼拉地區的濕冷天氣源自東北季風（Amihan），並非熱帶氣旋所致。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     }
   ]
 }
