@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T13:11:00+08:00",
+  "generated_at": "2026-11-18T14:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；本週台灣天氣主要受東北季風增強影響，並無熱帶氣旋威脅。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣近日天氣主要受鋒面及增強的東北季風影響，並無熱帶氣旋威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風或熱帶氣旋對台中構成直接影響，台灣近日天氣主要受東北季風增強影響，氣溫下降、降雨集中於北部及東部，台中並未發布風雨警報或停班停課公告。"
+    "text": "目前無任何颱風或熱帶氣旋對台中構成直接影響，本週台中天氣受鋒面及東北季風影響，氣溫轉涼、局部降雨，並未發布風雨警報或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,75 +22,75 @@
     }
   ],
   "headline": {
-    "title": "孟加拉灣新生氣旋系統逼近印度東岸　奧迪沙邦三週內第三度拉警報",
-    "dek": "印度氣象局11月15日預測，孟加拉灣一個未命名的氣旋系統可能於11月17日前後增強為強烈氣旋風暴，為奧迪沙與安得拉邦帶來今年入秋以來第三波風暴威脅"
+    "title": "強烈氣旋「阿克文」逼近印度東岸　孟加拉灣三週內第三個風暴示警",
+    "dek": "印度氣象局預測氣旋將於11月20日在安得拉邦沿岸登陸，風速可達每小時145公里，台灣本島目前未受任何熱帶氣旋威脅。"
   },
   "headline_body": [
-    "印度氣象局（IMD）於11月15日發布的公告顯示，孟加拉灣西南部一個低壓系統已增強為低壓區，預測將持續向西北方向移動，並可能在11月17日前後發展為強烈氣旋風暴（Severe Cyclonic Storm）。部分預測模型甚至顯示，該系統有機會在11月19日前後、於北緯14.4度、東經85.5度附近進一步增強為極強烈氣旋風暴（Very Severe Cyclonic Storm）。由於相關資訊截至目前已有三天之久，系統實際路徑與強度仍可能出現變化，印度氣象局尚未對外公布確切登陸地點。",
-    "根據當時的預報，沿海安得拉邦可能在11月18日至20日間出現強降雨，奧迪沙則預計在11月18日至21日間受到影響。奧迪沙邦已將全邦各區、特別是南部及沿海地區列入警戒，當地防災部門官員指出，系統發展時距離陸地約1000公里，但具體衝擊範圍仍待觀察。對奧迪沙而言，這已是三週內面臨的第三個氣旋威脅——此前，氣旋「阿爾納布」（Arnab）於10月28日在安得拉邦登陸，氣旋「穆拉蘇」（Murasu）則於11月3日清晨在翁戈萊（Ongole）附近登陸，造成樹木倒塌、電線中斷與低窪地區積水，目前兩個系統均已消散。",
-    "與此同時，西太平洋方面，編號為今年第32個命名風暴的颱風「軒嵐諾」（Cempaka，音譯）已於11月中旬減弱為熱帶性低氣壓並消散，未對陸地造成重大衝擊。該風暴曾因打破2013年的31個風暴紀錄，成為本世紀西太平洋最活躍的颱風季之一，但其生命週期已告結束。菲律賓大氣地理天文服務管理局（PAGASA）氣候學家Ana Liza Solis則表示，2026年底前菲律賓責任海域內仍可能再生成至少一個熱帶氣旋，強度甚至可能達到颱風或超級颱風級別，但她也坦言今年是否會再有颱風形成仍屬未知。",
-    "就台灣而言，目前並無任何颱風或熱帶氣旋對台灣構成威脅。中央氣象署目前未發布海上或陸上颱風警報。台灣近日天氣主要受東北季風增強影響，氣溫下降、降雨集中於北部及東部，與上述熱帶氣旋系統並無關聯。整體而言，孟加拉灣的風暴發展雖值得持續關注，但其影響範圍侵限於南亞次大陸東岸，對台灣及西太平洋地區暫無直接牽動。"
+    "印度氣象局（IMD）週一表示，孟加拉灣的氣旋風暴「阿克文」（Akvan）預計將持續增強為「極強氣旋風暴」，並於11月20日中午前後，在安得拉邦與亞南（Yanam）之間的內洛爾（Nellore）至圖尼（Tuni）海岸登陸，登陸時風速估計達每小時120至130公里，最大陣風可達145公里。印度東部與南部多個邦已發布強降雨警報。",
+    "這是孟加拉灣地區三週內形成的第三個命名風暴，繼「阿爾納布」（Arnab）與「穆拉蘇」（Murasu）之後再度來襲，顯示該海域今年風暴活動異常頻密。全球災害警報與協調系統（GDACS）已針對阿克文發布橙色警示，估計受熱帶風暴強度風力影響的人口上看2080萬。奧里薩邦官員表示，當局已提前部署人員與裝備，並勸告漁民於11月17日至20日期間避免出海。",
+    "儘管印度東岸戒備升高，台灣目前並未受到任何熱帶氣旋威脅。中央氣象署資料顯示，台灣上一次直接受颱風影響，是今年第29號颱風「薔琵」，其海上颱風警報已於10月24日晚間8時30分解除，隨後降雨逐步趨緩。截至18日，中央氣象署並未發布任何海上或陸上颱風警報；影響台灣當前天氣的主因是一股鋒面與增強的東北季風，北部最高溫降至攝氏23至24度，外海風浪轉趨強勁，但與颱風無關。以台中為例，本週天氣同樣受鋒面及東北季風影響，氣溫轉涼、局部降雨，目前並無相關風雨警報或停班停課公告。",
+    "今年西太平洋颱風季同樣值得關注：11月7日生成的颱風「軒嵐諾」（Cempaka，音譯）成為今年第32個命名颱風，超越2013年創下的31個紀錄，成為本世紀風暴數量最多的一年。不過該颱風已於11日前後減弱並轉向遠離陸地，目前已非現行威脅。菲律賓大氣地理天文服務管理局（PAGASA）預估，年底前菲律賓責任海域仍可能再有一至兩個熱帶氣旋形成或進入，下一個菲律賓本地命名為「湯瑪斯」（Tomas），但截至目前尚未有新系統生成。相較之下，大西洋颶風季即將於11月30日結束，目前並無活躍風暴。整體而言，此刻全球焦點集中於印度洋岸的阿克文，台灣讀者短期內無需為颱風緊急準備，但仍應留意東北季風帶來的降溫與海象變化。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "三週內第三個氣旋：印度氣象局警告11月17日前恐成強烈風暴，奧迪沙進入高度戒備",
-      "dek": "印度氣象局預測孟加拉灣低壓區將於11月17日前增強為強烈氣旋風暴，奧迪沙邦已將全邦各區列入警戒名單。",
-      "url": "https://www.businesstoday.in/india/story/third-cyclone-in-three-weeks-imd-warns-of-severe-storm-by-nov-17-odisha-on-high-alert-567515-2026-11-15"
+      "title": "印度氣象局預報：氣旋阿克文11月20日登陸安得拉邦",
+      "dek": "印度氣象局預測氣旋將於內洛爾至圖尼之間登陸，安得拉邦、泰米爾那都、奧里薩與西孟加拉邦均已發布強降雨警報。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-to-make-landfall-in-andhra-pradesh-on-november-20-heavy-rain-alert-issued-for-andhra-pradesh-tamil-nadu-odisha-west-bengal-check-imd-forecast-10336533"
     },
     {
       "rank": 2,
-      "title": "孟加拉灣低壓區增強 安得拉邦與奧迪沙發布氣旋警戒",
-      "dek": "隨著孟加拉灣低壓系統持續增強，印度當局對安得拉邦及奧迪沙沿海地區發布警戒，呼籲居民防範強風與強降雨。",
-      "url": "https://telanganatoday.com/cyclone-alert-issued-for-andhra-pradesh-odisha-as-bay-of-bengal-depression-intensifies"
+      "title": "氣旋阿克文增強　印度氣象局示警風速上看每小時130公里",
+      "dek": "印度氣象局11月16日將孟加拉灣低壓系統升級為氣旋風暴阿克文，預估其將進一步增強為極強氣旋風暴並逼近安得拉邦沿岸。",
+      "url": "https://www.karmactive.com/?p=285651"
     },
     {
       "rank": 3,
-      "title": "印度氣象局：孟加拉灣系統可能於11月16日前增強為氣旋風暴",
-      "dek": "印度氣象局表示，11月15日已形成的低壓區預計於11月16日前增強為氣旋風暴，並可能持續增強。",
-      "url": "https://www.oneindia.com/india/bay-of-bengal-system-likely-to-intensify-into-cyclone-by-nov-16-imd-8259563.html"
+      "title": "解析氣旋阿克文：命名由來與最新路徑追蹤",
+      "dek": "分析指出阿克文是孟加拉灣三週內第三個命名風暴，繼阿爾納布與穆拉蘇之後接連生成。",
+      "url": "https://utkarsh.com/current-affairs/national/environment-update/cyclone-akvan-2026-explained-meaning-tracker-and-latest-updates"
     },
     {
       "rank": 4,
-      "title": "奧迪沙部長：三週內第三個孟加拉灣氣旋醞釀中，邦政府已做好準備",
-      "dek": "奧迪沙邦防災部門官員表示，發展中的系統距陸地約1000公里，印度氣象局尚未公布確切登陸地點。",
-      "url": "https://theprint.in/india/odisha-prepared-as-third-cyclone-brews-over-bay-of-bengal-in-three-weeks-minister/3098997/"
+      "title": "氣旋阿克文風速達145公里　安得拉邦、奧里薩邦備戰強降雨",
+      "dek": "報導指出阿克文逼近海岸時風速可達每小時145公里，各方對確切登陸日期（19日或20日）看法略有差異。",
+      "url": "https://news24online.com/trending/cyclone-akvan-145-km-winds-heavy-rain-to-hit-andhra-pradesh-odisha-as-storm-nears-coast-check-landfall-date/954039/amp"
     },
     {
       "rank": 5,
-      "title": "印度氣象局警告：孟加拉灣低壓區將於11月17日增強為強烈氣旋風暴",
-      "dek": "印度氣象局公告指出，系統將向西北方向移動，並於11月17日在孟加拉灣中西部增強為強烈氣旋風暴，泰米爾納杜、安得拉邦及奧迪沙將面臨強降雨。",
-      "url": "https://swarajyamag.com/news-brief/bay-of-bengal-depression-set-to-intensify-into-severe-cyclonic-storm-by-17th-november-imd-warns"
+      "title": "孟加拉灣三週內第三個氣旋成形　奧里薩邦稱已完成整備",
+      "dek": "奧里薩邦災害管理部長表示，當局已動員人力與設備，應對三週內第三個於孟加拉灣生成的氣旋系統。",
+      "url": "https://theprint.in/india/odisha-prepared-as-third-cyclone-brews-over-bay-of-bengal-in-three-weeks-minister/3098997/"
     },
     {
       "rank": 6,
-      "title": "繼氣旋阿爾納布、穆拉蘇後，印度氣象局預測新氣旋風暴成形",
-      "dek": "繼10月28日與11月3日相繼登陸安得拉邦海岸的氣旋阿爾納布與穆拉蘇後，印度氣象局預測孟加拉灣將出現第三個氣旋系統。",
-      "url": "https://www.newkerala.com/news/a/after-cyclones-arnab-murasu-imd-predicts-new-cyclonic-847.htm"
+      "title": "印度氣象局警告強烈風暴將於11月17日前成形　奧里薩邦進入高度戒備",
+      "dek": "印度氣象局示警孟加拉灣低壓系統可能增強為強烈氣旋風暴，奧里薩邦沿海及南部地區進入警戒，漁民獲勸告於17至20日避免出海。",
+      "url": "https://www.businesstoday.in/india/story/third-cyclone-in-three-weeks-imd-warns-of-severe-storm-by-nov-17-odisha-on-high-alert-567515-2026-11-15"
     },
     {
       "rank": 7,
-      "title": "孟加拉灣氣旋增強 奧迪沙進入警戒狀態",
-      "dek": "隨著孟加拉灣系統持續增強，奧迪沙當局提高警戒層級，氣象專家警告該邦沿海地區未來數日可能受到衝擊。",
-      "url": "https://newsarenaindia.com/states/odisha-on-alert-as-cyclone-over-bay-of-bengal-intensifies/63070"
+      "title": "全球災害警報系統對熱帶氣旋阿克文發布橙色警示",
+      "dek": "GDACS評估阿克文可能使多達2080萬人暴露於熱帶風暴強度風力之下，發布橙色等級警示。",
+      "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
     },
     {
       "rank": 8,
-      "title": "氣旋穆拉蘇登陸印度東岸",
-      "dek": "強烈氣旋風暴穆拉蘇於11月3日凌晨在安得拉邦南部翁戈萊附近登陸，造成樹木倒塌、電線中斷及低窪地區積水，為一週內第二個重創該地區的風暴。",
-      "url": "https://aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
-    },
-    {
-      "rank": 9,
-      "title": "颱風軒嵐諾（Cempaka）11月7日生成於西北太平洋 成為本世紀最活躍颱風季的第32個颱風",
-      "dek": "軒嵐諾成為2026年西太平洋第32個命名熱帶氣旋，超越2013年31個風暴紀錄，但其強度持續減弱，11月中旬已減弱為熱帶性低氣壓，未造成重大登陸衝擊。",
+      "title": "颱風軒嵐諾成今年第32號颱風　創本世紀西太平洋最活躍紀錄",
+      "dek": "11月7日生成的颱風軒嵐諾（Cempaka）成為2026年第32個西太平洋命名颱風，超越2013年31個的舊紀錄，但已於11日前後減弱並不再構成威脅。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
+      "rank": 9,
+      "title": "菲律賓氣象機構：11月內菲律賓責任海域仍可能再有一至兩個熱帶氣旋",
+      "dek": "在颱風薔琵離開菲律賓責任海域後，菲律賓大氣地理天文服務管理局表示年底前仍可能有新系統生成，下一命名為「湯瑪斯」。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+    },
+    {
       "rank": 10,
-      "title": "菲律賓氣象機構：2026年底前仍可能出現另一個颱風",
-      "dek": "菲律賓大氣地球物理與天文服務管理局氣候學家表示，年底前菲律賓責任海域內仍可能形成至少一個熱帶氣旋，但也可能今年不再有颱風生成。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "颱風薔琵海上警報解除　台灣今年以來最近一次颱風威脅畫下句點",
+      "dek": "中央氣象署於10月24日晚間8時30分解除颱風薔琵海上警報，降雨自25日上午起逐步趨緩，這是台灣迄今最近一次直接受颱風威脅的紀錄。",
+      "url": "https://cna.com.tw/news/ahel/202610240199.aspx"
     }
   ]
 }
