@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T16:13:00+08:00",
+  "generated_at": "2026-11-18T17:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣上一個颱風「薔瑞」已於10月下旬遠離本島，近日並無熱帶氣旋威脅台灣。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣上一個颱風「薔琵」已於10月下旬遠離本島，近日並無熱帶氣旋威脅台灣，全球焦點轉向孟加拉灣的氣旋阿克凡。",
   "region_watch": {
     "region": "台中",
     "text": "目前無任何颱風或熱帶氣旋對台中構成直接影響，中央氣象署未發布海上或陸上颱風警報，台中市也未發布停班停課訊息。"
@@ -22,76 +22,77 @@
     }
   ],
   "headline": {
-    "title": "印度東岸再臨考驗：氣旋「阿克凡」逼近安得拉邦，一個月內第三度強襲同一海岸",
-    "dek": "印度氣象局預測，氣旋阿克凡將於11月20日在內洛爾至圖尼一帶登陸，成為繼阿納布、穆拉蘇之後一個月內第三個重創同一海岸線的強烈氣旋；同時，台灣與台中目前均未受任何颱風威脅。"
+    "title": "孟加拉灣氣旋阿克凡逼近印度東岸 台灣暫無颱風警報",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，但南亞孟加拉灣的氣旋阿克凡正持續增強，預計本週五逼近並登陸印度安得拉邦海岸。"
   },
   "headline_body": [
-    "印度東岸的居民正準備迎接一個月內第三場強烈風暴。據《瞭望者新聞網》(Watchers.news)報導，孟加拉灣的一股低壓系統預計將增強為氣旋「阿克凡」(Akvan)，並於11月20日左右以「非常強烈氣旋風暴」(Very Severe Cyclonic Storm)等級，在安得拉邦內洛爾(Nellore)至圖尼(Tuni)一帶登陸，風速可達每小時120至130公里，陣風達每小時145公里。",
-    "這場風暴的意義不僅在於其強度，更在於其所代表的頻率。據印度媒體《共和世界》(Republic World)報導，阿克凡將是繼10月28日的氣旋阿納布(Arnab)、11月3日的氣旋穆拉蘇(Murasu)之後，在短短三週內第三個襲擊這段海岸線的強烈氣旋，印度氣象局(IMD)已針對此一罕見的連續威脅發布警報。《共和世界》另一篇報導指出，安得拉邦、泰米爾納杜邦、奧里薩邦與西孟加拉邦四個邦已進入備戰狀態，泰米爾納杜邦及本地治里一帶預計11月17日至20日將出現大雨至超大豪雨。據印度媒體《Oneindia》報導，當局已暫停近海漁業作業；《每日耆那報》(Daily Jagran)則報導，強降雨已於11月18日開始出現。",
-    "回顧此前兩場風暴的破壞力，《半島電視台》報導，氣旋阿納布登陸安得拉邦卡基納達附近時，造成約10萬人疏散；一週後的氣旋穆拉蘇則在翁戈萊附近登陸，吹倒大量樹木與電線。",
-    "與此同時，西太平洋今年的颱風季同樣創下歷史紀錄。據《瞭望者新聞網》報導，11月初生成的颱風「查帕卡」(Cempaka)是今年第32個颱風，為本世紀以來最多，超越2013年的31個紀錄；該颱風最終在日本南方外海轉向，對台灣與菲律賓均「不構成威脅」後逐漸消散。菲律賓氣象局(PAGASA)則據《每日論壇報》報導表示，在強烈厄爾尼諾現象影響下，不排除今年底前還會有一個熱帶氣旋進入菲律賓責任區，並已預先命名為「湯瑪斯」(Tomas)，但目前尚無實際生成的系統。",
-    "至於台灣，上一個直接影響本島的風暴是10月下旬的颱風「薔瑞」(Champi)，造成1人死亡、約350人受傷。截至11月18日，中央氣象署未發布任何海上或陸上颱風警報，台灣及台中目前均未面臨颱風威脅。"
+    "台灣當前並未面臨颱風威脅。中央氣象署目前沒有發布任何海上或陸上颱風警報，本季最近一次對台灣構成威脅的颱風薔琵，早在十月下旬便已遠離消散。然而放眼全球，此刻最受關注的活躍熱帶氣旋系統，出現在南亞的孟加拉灣——氣旋阿克凡正迅速增強，逐步逼近印度東岸。",
+    "根據《每日耆那報》報導，印度氣象局預測，氣旋阿克凡將於11月20日中午左右，以「極強烈氣旋風暴」的強度橫越安得拉邦沿岸，登陸地點約在內洛爾與圖尼之間。《新喀拉拉》的即時追蹤報導則指出，阿克凡登陸時持續風速估計達每小時120至130公里，瞬間風速最高可能衝上145公里；《新聞24》進一步報導，強降雨範圍預計將擴及奧迪沙邦。印度氣象局已針對安得拉邦、坦米爾納杜邦、奧迪沙邦與西孟加拉邦四邦發布豪雨至大豪雨警戒。",
+    "這已是安得拉邦在不到一個月內接連面臨的第三個氣旋。《西亞薩特報》報導，該邦此前已先後遭氣旋阿爾納布與穆拉蘇侵襲，如今又要應付阿克凡，凸顯當地今年颱風季異常密集且令人疲於應對。《漢斯印度報》報導，安得拉邦災害管理部門已下令漁民在11月19日前暫停出海作業，沿海各地也已展開防災整備。",
+    "全球災害預警與協調系統(GDACS)就阿克凡發布橙色警示，估計約2080萬人可能暴露在熱帶風暴等級以上的風力範圍內，將其列為重大人道風險事件。鄰國孟加拉的氣象當局也已發布遠洋警示信號，《孟加拉新聞24》報導，截稿時阿克凡中心附近最大持續風速約每小時62公里、瞬間風速88公里，且強度仍在持續增強中。",
+    "太平洋另一端，南太平洋庫克群島北部的馬尼希基與拉卡漢加環礁，則因熱帶氣旋哈維爾增強至二級而發布強風警報，《瞭望者新聞網》報導，該系統預計11月21日至22日左右遠離當地，國際新聞重要性遠不及阿克凡。",
+    "至於西北太平洋，曾在十一月初生成、追平1994年以來最活躍颱風季紀錄的第32個颱風查帕卡，在短暫進入菲律賓大氣地理天文服務署(PAGASA)責任區並獲命名「薩穆爾」後，已於日本南方海域轉向東行出海，並未對台灣或菲律賓構成直接威脅。對台中而言，由於目前沒有任何颱風或熱帶氣旋系統影響台灣，當地並無風雨警戒，也沒有停班停課的公告。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "孟加拉灣低壓增強在即，印度氣象局預測阿克凡11月20日登陸安得拉邦",
-      "dek": "《瞭望者新聞網》報導，該系統增強後將以「非常強烈氣旋風暴」等級橫掃內洛爾至圖尼海岸，風速達每小時120至130公里。",
-      "url": "https://watchers.news/2026/11/16/cyclone-akvan-landfall-forecast-nellore-tuni-andhra-pradesh-november-20-india/"
-    },
-    {
-      "rank": 2,
-      "title": "一個月內第三場風暴：阿納布、穆拉蘇之後，氣旋阿克凡成形，印度氣象局發布警報",
-      "dek": "《共和世界》報導，印度氣象局已鎖定可能發展為阿克凡的低壓區，多邦救災團隊已進入警戒狀態。",
-      "url": "https://www.republicworld.com/india/third-storm-in-a-row-after-arnab-and-murasu-cyclone-akvan-brewing-over-bay-of-bengal-imd-issues-alert-2026-11-15-141109"
-    },
-    {
-      "rank": 3,
-      "title": "孟加拉灣氣旋警報：印度氣象局示警強烈氣旋風暴，四邦備戰迎豪雨",
-      "dek": "《共和世界》報導，安得拉邦、泰米爾納杜邦、奧里薩邦與西孟加拉邦均已進入警戒，泰米爾納杜與本地治里預計11月17日至20日出現大豪雨。",
-      "url": "https://www.republicworld.com/india/bay-of-bengal-cyclone-alert-imd-warns-of-severe-cyclonic-storm-four-states-brace-for-heavy-rainfall-2026-11-16-141148"
-    },
-    {
-      "rank": 4,
-      "title": "印度氣象局預警：氣旋阿克凡將為安得拉邦帶來11月19、20日超大豪雨",
-      "dek": "《Oneindia》報導，當局已暫停近海漁業作業，以應對即將來臨的極端降雨。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-imd-forecasts-extremely-heavy-rains-in-andhra-pradesh-on-november-19-20-8260687.html"
-    },
-    {
-      "rank": 5,
-      "title": "氣旋阿克凡預計11月20日登陸安得拉邦，四邦發布豪雨警報",
-      "dek": "《每日耆那報》報導，這是不到一個月內第三個襲擊該海岸的氣旋系統，強降雨已自11月18日展開。",
+      "title": "印度氣象局預報阿克凡11月20日登陸安得拉邦，四邦發布豪雨警戒",
+      "dek": "《每日耆那報》報導，印度氣象局預測氣旋阿克凡將於11月20日中午在安得拉邦沿岸登陸，安得拉邦、坦米爾納杜邦、奧迪沙邦及西孟加拉邦已發布豪雨至大豪雨警戒。",
       "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-to-make-landfall-in-andhra-pradesh-on-november-20-heavy-rain-alert-issued-for-andhra-pradesh-tamil-nadu-odisha-west-bengal-check-imd-forecast-10336533"
     },
     {
+      "rank": 2,
+      "title": "即時追蹤：氣旋阿克凡預計11月20日中午於內洛爾至圖尼間登陸",
+      "dek": "《新喀拉拉》持續更新報導指出，印度氣象局預測阿克凡將以持續風速每小時120至130公里、瞬間最大風速達145公里的強度登陸安得拉邦海岸。",
+      "url": "https://www.newkerala.com/news/a/cyclone-akvan-hit-andhra-pradesh-coast-nov-20-221.htm"
+    },
+    {
+      "rank": 3,
+      "title": "安得拉邦再度拉警報，漁民奉令11月19日前不得出海",
+      "dek": "《漢斯印度報》報導，安得拉邦災害管理部門已下令漁民在氣旋阿克凡增強期間暫停出海作業，並加緊準備沿海地區防災。",
+      "url": "https://www.thehansindia.com/andhra-pradesh/another-severe-cyclone-threatens-ap-fishermen-told-not-to-venture-into-sea-till-november-19-1142668"
+    },
+    {
+      "rank": 4,
+      "title": "三週內第三個氣旋來襲，安得拉邦疲於應對阿克凡",
+      "dek": "《西亞薩特報》指出，繼氣旋阿爾納布與穆拉蘇接連襲擊後，安得拉邦如今又要面對第三個氣旋阿克凡，凸顯這個海岸邦異常密集且令人疲憊的氣旋季。",
+      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
+    },
+    {
+      "rank": 5,
+      "title": "瞬間風速上看每小時145公里，阿克凡將為安得拉邦與奧迪沙邦帶來豪雨",
+      "dek": "《新聞24》報導，阿克凡接近印度海岸之際，預估最大瞬間風速可達每小時145公里，強降雨範圍也將擴及奧迪沙邦。",
+      "url": "https://news24online.com/trending/cyclone-akvan-145-km-winds-heavy-rain-to-hit-andhra-pradesh-odisha-as-storm-nears-coast-check-landfall-date/954039/amp"
+    },
+    {
       "rank": 6,
-      "title": "氣旋穆拉蘇登陸印度東岸，繼阿納布後一週內再襲同一地區",
-      "dek": "《半島電視台》報導，穆拉蘇在翁戈萊附近登陸，吹倒樹木與電線，此前阿納布已造成至少6人死亡。",
-      "url": "https://aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+      "title": "全球災害預警系統發布橙色警示，估逾2000萬人暴露於阿克凡風場",
+      "dek": "全球災害預警與協調系統(GDACS)就氣旋阿克凡發布橙色警示，估計約2080萬人可能暴露在熱帶風暴等級以上風力範圍內，列為重大人道風險事件。",
+      "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
     },
     {
       "rank": 7,
-      "title": "印度氣旋阿納布登陸東南海岸，10萬人疏散",
-      "dek": "《南華早報》報導，阿納布在安得拉邦卡基納達附近登陸，成為一個月內三場侵襲同一海岸氣旋中的第一場。",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3372365/100000-evacuated-india-cyclone-arnab-makes-landfall-southeast-coast"
+      "title": "孟加拉灣低壓增強為氣旋阿克凡，孟加拉發布遠洋警示信號第2號",
+      "dek": "《孟加拉新聞24》報導，孟加拉氣象當局證實該系統已增強為氣旋阿克凡，預計週五前以極強烈氣旋強度橫越安得拉邦海岸，發稿時中心附近最大持續風速為每小時62公里、瞬間風速88公里，且持續增強中。",
+      "url": "https://bdnews24.com/bangladesh/zskczl7d2m"
     },
     {
       "rank": 8,
-      "title": "颱風查帕卡創紀錄成為本世紀西太平洋最多颱風年份的第32個颱風",
-      "dek": "《瞭望者新聞網》報導，查帕卡打破2013年31個颱風的紀錄，但最終轉向，對台灣與菲律賓均不構成威脅。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "氣旋哈維爾增強至二級，北庫克群島馬尼希基與拉卡漢加發布強風警報",
+      "dek": "《瞭望者新聞網》報導，熱帶氣旋哈維爾在北庫克群島上空增強為二級氣旋，當局對馬尼希基與拉卡漢加環礁發布強風警報，系統預計11月21日至22日左右遠離該地區。",
+      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
       "rank": 9,
-      "title": "菲律賓氣象局：2026年底前仍可能再現一個颱風",
-      "dek": "《每日論壇報》報導，氣候學家指出條件有利於另一熱帶氣旋「湯瑪斯」進入菲律賓責任區，但尚無實際系統生成。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "美國大使館轉發紐西蘭氣象局警示，庫克群島戒備氣旋哈維爾",
+      "dek": "美國大使館安全通報引述紐西蘭氣象局警告，氣旋哈維爾在11月19日前將為庫克群島帶來最大瞬間風速每小時130公里的強風。",
+      "url": "https://www.defconlevel.com/alert/2026-11-16-u-s-embassy-security-alerts-nz-cyclone-warning-for-cook-islands-november-16-and-17"
     },
     {
       "rank": 10,
-      "title": "颱風薔瑞襲台，造成1人死亡、數百人受傷",
-      "dek": "《半島電視台》報導，薔瑞10月下旬襲台，中央氣象署發布陸上警報，逾百班航班取消，是目前最近一個直接影響台灣的風暴。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "颱風查帕卡追平史上最活躍颱風季紀錄，成為第32個颱風後轉向遠離台菲",
+      "dek": "《瞭望者新聞網》報導，颱風查帕卡於11月7日生成，成為追平1994年以來最活躍颱風季的第32個颱風，曾短暫進入菲律賓責任區並獲命名「薩穆爾」，隨後在日本南方海域轉向東行，未對台灣或菲律賓構成直接威脅。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     }
   ]
 }
