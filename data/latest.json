@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T04:18:00+08:00",
+  "generated_at": "2026-11-19T05:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
   "alert_desc": "中央氣象署目前未對台灣發布任何海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。根據《NowNews》報導，東北季風今年入秋以來最強一波冷空氣將於11月19日夜間至20日清晨最冷，台中等中部地區低溫約15至16°C，天氣以多雲到晴為主，無降雨或停班停課公告，亦無任何熱帶氣旋逼近。"
+    "text": "目前無任何颱風或熱帶氣旋直接影響台中；僅東北季風增強導致氣溫下降，中央氣象署預估台中等中部地區未來一週氣溫可能降至14度以下，但無強風豪雨或停班停課之虞。"
   },
   "quick_links": [
     {
@@ -22,76 +22,75 @@
     }
   ],
   "headline": {
-    "title": "台灣無颱風威脅 全球關注印度、南太平洋風暴",
-    "dek": "中央氣象署目前未發布任何颱風警報，台灣暫無風雨威脅，但印度氣旋阿克凡直逼安得拉邦海岸、南太平洋氣旋澤維爾肆虐庫克群島，全球多起風暴動態持續升溫。"
+    "title": "颱風威脅暫解 全球焦點轉向孟加拉灣氣旋艾克文",
+    "dek": "印度氣象局警告強烈氣旋艾克文週五登陸安得拉邦，台灣僅受東北季風影響降溫。"
   },
   "headline_body": [
-    "台灣目前未受任何熱帶氣旋威脅。中央氣象署並未發布海上或陸上颱風警報，島上最近一次與颱風相關的紀錄，是去年十月下旬侵襲台灣的颱風劫比（Champi），該系統早已遠離，截至11月18日，沒有任何活躍系統逼近台灣。",
-    "目前全球最受矚目的活躍風暴，是在孟加拉灣增強中的氣旋阿克凡。據《New Kerala》報導，印度氣象局（IMD）預測阿克凡將以「非常猛烈氣旋風暴」強度，於11月20日正午左右登陸安得拉邦與亞南海岸，地點介於內洛爾（Nellore）與圖尼（Tuni）之間，最大持續風速預估達每小時120至130公里，陣風可達145公里。沿海地區自11月18日起已出現豪雨，預料19日至20日將轉為「極端豪雨」。《Karmactive》報導進一步指出，阿克凡是由孟加拉灣的深低氣壓增強而成，斯里蘭卡媒體《Ada Derana》曾預期其於11月17日增強至「猛烈氣旋風暴」等級；安得拉邦邦災害管理局已呼籲沿海居民提前採取防範措施。這是印度東岸在約一個月內遭遇的第三個重大氣旋，此前的氣旋阿爾納布於10月28日登陸，造成數萬人疏散、161處觀測站記錄到極端豪雨，據美聯社（AP）透過《Bay News 9》報導；氣旋穆拉蘇則於11月3日在翁戈萊附近登陸，據《Deccan Herald》報導，造成至少兩人死亡、逾35班列車停駛。",
-    "與此同時，南太平洋的熱帶氣旋澤維爾正影響庫克群島北部。氣象網站《Watchers.news》報導，澤維爾已增強至二級強度，美國聯合颱風警報中心（JTWC）11月15日將其定位於南緯8.2度、西經158.9度，馬尼希基（Manihiki）與拉卡漢加（Rakahanga）兩座環礁已發布烈風警告，陣風可達每小時130公里，預計持續至11月19日。美國駐紐西蘭大使館也就此發布安全警示，提醒當地居民留意豪雨、雷雨及強風，據警示彙整網站《DEFCON Level》報導。",
-    "在西北太平洋方面，原先進入菲律賓責任區的颱風「百合」（國際命名Cempaka，菲律賓編號Samuel）已於近日離開該責任區並持續減弱。菲律賓《GMA News》報導，菲律賓大氣地理天文服務管理局（PAGASA）公報顯示，該系統位於呂宋島最北端東北方約1415公里處，最大持續風速每小時130公里，預料不會再直接影響菲律賓。該局另依《GMA News》與《Tribune.net.ph》報導預測，11月進入或形成於責任區內的熱帶氣旋僅1至2個，目前呂宋島及大馬尼拉地區的濕冷天氣，係東北季風（Amihan）所致，並非熱帶氣旋。",
-    "值得留意但仍待證實的是，風暴追蹤網站《Zoom Earth》標示呂宋島西北方外海存在一處「熱帶擾動96W」，顯示「高發展機率」，最大持續風速約每小時35至45公里；但目前查無菲律賓大氣局或聯合颱風警報中心的官方公報予以證實，應視為未經確認的早期觀察項目，而非已成形的氣旋系統。"
+    "台灣今天沒有颱風警報。翻查中央氣象署公告，找不到任何一筆海上或陸上颱風警報的紀錄，距離上一次陸上警報發布——十月下旬奪走一命、造成逾五百人受傷的薔琵颱風——已將近一個月。取而代之的，是東北季風帶來的降溫：中央氣象署預報兩波東北季風將接連南下，中北部地區本週稍晚氣溫可望跌破攝氏十四度，但沿海並無強風豪雨或停班停課之虞。",
+    "然而，在西太平洋颱風季逐漸平息之際，熱帶氣旋的威脅並未消失，只是轉移了地點。印度洋孟加拉灣的氣旋艾克文（Akvan）正迅速增強，印度氣象局（IMD）預測其將以「極強烈氣旋風暴」強度，於十一月二十日前後登陸安得拉邦沿岸，為印度東岸多個邦乃至孟加拉部分地區帶來豪雨警戒。這將是安得拉邦在短短三週內面臨的第三個氣旋，當地民眾尚未從前兩場風暴——阿爾納布與穆拉蘇——留下的破壞中完全復原。",
+    "根據印度媒體《The Federal》報導，艾克文預計於十一月十九日至二十日登陸，奧迪夏邦與泰米爾納都邦已同步進入警戒。另據《Karmactive》報導，氣旋的登陸點鎖定在內洛爾與圖尼之間的海岸，預測登陸風速每小時120至130公里，陣風可達145公里。《每日覺醒報》（Dainik Jagran）則指出，印度氣象局已對安得拉邦、泰米爾納都邦、奧迪夏邦與西孟加拉邦發布豪雨甚至特大豪雨警戒，並提到艾克文之名源自波斯神話，由伊朗依北印度洋氣旋命名規則提出。《The Statesman》報導稱，奧迪夏全境三十個縣已進入警戒，其中甘賈姆、加賈帕蒂等五縣自十八日起進入橙色豪雨警戒，當局已勸告漁民停止出海。《bdnews24.com》則報導，孟加拉氣象當局也已針對境內部分地區發布豪雨警戒，儘管風暴主要路徑預測偏向印度南部登陸。",
+    "與此同時，西太平洋今年颱風季已成為本世紀最活躍的一年。據天氣觀測網站Watchers.news報導，十一月七日生成的颱風珊帕卡（Cempaka）成為今年第三十二個獲命名風暴，打破2013年三十一個的紀錄，但珊帕卡本身並未對台灣或菲律賓構成直接威脅，已於十一月中旬減弱為熱帶性低氣壓並向東偏離消散。整體而言，熱帶氣旋活動的重心正從東亞轉向北印度洋。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋阿克凡增強 印度東岸備戰11月20日登陸",
-      "dek": "據《New Kerala》報導，印度氣象局預測氣旋阿克凡將於11月20日正午左右以「非常猛烈氣旋風暴」強度，登陸安得拉邦與亞南海岸的內洛爾至圖尼之間，最大持續風速達每小時120至130公里，陣風可達145公里；沿岸地區自11月18日起已出現豪雨。",
-      "url": "https://www.newkerala.com/news/a/cyclone-akvan-hit-andhra-pradesh-coast-nov-20-221.htm"
+      "title": "氣旋艾克文增強至「極強烈」等級 安得拉邦準備迎接登陸",
+      "dek": "印度氣象局預測風暴將於十一月十九至二十日登陸安得拉邦沿岸，奧迪夏與泰米爾納都邦同步進入警戒。",
+      "url": "https://thefederal.com/category/news/cyclone-akvan-bay-of-bengal-east-coast-rainfall-weather-forecast-imd-263072"
     },
     {
       "rank": 2,
-      "title": "阿克凡路徑明朗化 印度氣象局持續追蹤",
-      "dek": "據《Karmactive》報導，氣旋阿克凡原為孟加拉灣低氣壓增強而成，斯里蘭卡《Ada Derana》曾預期其於11月17日增強為「猛烈氣旋風暴」；安得拉邦邦災害管理局已呼籲沿海居民提前防範。",
+      "title": "印度氣象局追蹤艾克文路徑 鎖定內洛爾至圖尼沿海登陸",
+      "dek": "預測登陸風速每小時120至130公里，陣風可達145公里，當局已發布氣旋觀察警報。",
       "url": "https://www.karmactive.com/?p=285651"
     },
     {
       "rank": 3,
-      "title": "熱帶氣旋澤維爾增強 庫克群島發布烈風警告",
-      "dek": "氣象網站《Watchers.news》報導，熱帶氣旋澤維爾已增強至二級強度，美國聯合颱風警報中心11月15日將其定位於南緯8.2度、西經158.9度；馬尼希基及拉卡漢加環礁已發布烈風警告，陣風可達每小時130公里，預計持續至11月19日。",
-      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
+      "title": "艾克文預定十一月二十日登陸 四邦發布豪雨警戒",
+      "dek": "安得拉邦、泰米爾納都邦、奧迪夏邦與西孟加拉邦同步進入豪雨警戒，風暴名稱源自波斯神話。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-to-make-landfall-in-andhra-pradesh-on-november-20-heavy-rain-alert-issued-for-andhra-pradesh-tamil-nadu-odisha-west-bengal-check-imd-forecast-10336533"
     },
     {
       "rank": 4,
-      "title": "美國使館對庫克群島發布氣旋安全警示",
-      "dek": "據安全警示彙整網站《DEFCON Level》報導，美國駐紐西蘭大使館就熱帶氣旋澤維爾發布安全警示，警告庫克群島將出現豪雨、雷雨及陣風達每小時130公里的天氣，影響將持續至11月19日。",
-      "url": "https://www.defconlevel.com/alert/2026-11-16-u-s-embassy-security-alerts-nz-cyclone-warning-for-cook-islands-november-16-and-17"
+      "title": "奧迪夏全境30縣進入警戒 五縣發布橙色豪雨警報",
+      "dek": "當局已勸告漁民停止出海，甘賈姆等縣十一月十八日起進入橙色警戒。",
+      "url": "https://www.thestatesman.com/india/odisha-braces-for-another-natures-fury-as-imd-issues-cyclone-alert-1503503504.html"
     },
     {
       "rank": 5,
-      "title": "颱風「百合」脫離菲律賓責任區 持續減弱",
-      "dek": "菲律賓《GMA News》報導，菲律賓大氣地理天文服務管理局公報顯示，颱風「百合」（國際命名Cempaka）已位於呂宋島最北端東北方約1415公里處，脫離菲律賓責任區，最大持續風速每小時130公里，陣風160公里，預料不會再直接影響菲律賓。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1008861/typhoon-samuel-exits-par-pagasa/story/"
+      "title": "安得拉邦三週內第三度面臨氣旋威脅",
+      "dek": "繼氣旋阿爾納布與穆拉蘇重創沿岸後，當局仍在評估前兩場風暴的災損，同時緊盯艾克文增強動向。",
+      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
     },
     {
       "rank": 6,
-      "title": "回顧：颱風劫比重創台灣 一死逾500傷",
-      "dek": "綜合《Star Advertiser》與印度《News On Air》報導，颱風劫比（Champi）10月下旬侵襲台灣，造成一人死亡、逾500人受傷，班機與美日軍演受擾，部分地區一度停電，是台灣迄今最近一次直接受颱風影響的紀錄。",
-      "url": "https://www.staradvertiser.com/2026/10/22/breaking-news/typhoon-champi-nears-taiwan-disrupts-flights-and-u-s-japan-drills/"
+      "title": "艾克文對安得拉邦構成新一波威脅 官方籲沿海居民保持警戒",
+      "dek": "當地仍在復原穆拉蘇風暴造成的損害之際，又須應對艾克文逼近。",
+      "url": "https://www.thehansindia.com/news/cities/amaravati/cyclone-akvan-poses-fresh-threat-to-andhra-pradesh-1142863"
     },
     {
       "rank": 7,
-      "title": "氣旋穆拉蘇襲安得拉邦 至少2死鐵公路中斷",
-      "dek": "《Deccan Herald》報導，氣旋穆拉蘇於11月3日在安得拉邦翁戈萊附近（內洛爾與納爾薩普爾之間）登陸，造成至少兩人死亡，多處樹木倒塌、電線桿傾倒，逾35班列車停駛，是一週內侵襲印度東岸的第二個重大氣旋，前一個為氣旋阿爾納布。",
-      "url": "https://www.deccanherald.com/india/cyclone-murasu-kills-two-in-andhra-pradesh-disrupts-rail-and-air-services-4206212"
+      "title": "艾克文追蹤即時更新 預測十一月二十日登陸安得拉邦",
+      "dek": "滾動報導彙整印度氣象局公告與各邦防災準備措施。",
+      "url": "https://www.newkerala.com/news/a/cyclone-akvan-hit-andhra-pradesh-coast-nov-20-221.htm"
     },
     {
       "rank": 8,
-      "title": "氣旋阿爾納布襲安得拉邦 數萬人疏散創紀錄豪雨",
-      "dek": "據美聯社（AP）透過《Bay News 9》報導，氣旋阿爾納布10月底襲擊印度安得拉邦，促使數萬居民疏散，全邦161處觀測站記錄到極端豪雨，是近一個月內侵襲印度東岸三個孟加拉灣氣旋（阿爾納布、穆拉蘇、阿克凡）中的第一個。",
-      "url": "https://baynews9.com/fl/tampa/ap-top-news/2026/10/28/cyclone-arnab-hits-indias-andhra-pradesh-state-as-tens-of-thousands-evacuate"
+      "title": "孟加拉灣低壓增強為氣旋艾克文 孟加拉發布豪雨警戒",
+      "dek": "雖然風暴主要路徑預測偏向印度南部登陸，孟加拉氣象當局仍發布豪雨警戒。",
+      "url": "https://bdnews24.com/bangladesh/zskczl7d2m"
     },
     {
       "rank": 9,
-      "title": "呂宋島外海疑似熱帶系統96W 尚待證實",
-      "dek": "風暴追蹤網站《Zoom Earth》標示呂宋島西北方有一「熱帶擾動96W」，顯示「高發展機率」，最大持續風速約每小時35至45公里；惟目前未查得菲律賓大氣局或聯合颱風警報中心的官方公報證實，應視為未經確認的觀察項目。",
-      "url": "https://zoom.earth/storms/96w-2026/"
+      "title": "颱風珊帕卡成今年第32個風暴 西太平洋颱風季創本世紀新高",
+      "dek": "珊帕卡十一月七日生成後打破2013年31個颱風的紀錄，但減弱為低壓後未登陸、未影響台灣。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 10,
-      "title": "PAGASA：11月菲律賓責任區估僅1至2颱風",
-      "dek": "據《GMA News》與《Tribune.net.ph》報導，菲律賓大氣地理天文服務管理局預測11月進入或形成於菲律賓責任區的熱帶氣旋僅1至2個；該局表示，目前呂宋島及大馬尼拉地區的濕冷天氣源自東北季風（Amihan），並非熱帶氣旋所致。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "東北季風兩波南下 台灣本週氣溫下探攝氏14度以下",
+      "dek": "中央氣象署預報與颱風無關的季節性冷氣團將影響中北部，目前無任何颱風警報生效。",
+      "url": "https://focustaiwan.tw/society/202611150011"
     }
   ]
 }
