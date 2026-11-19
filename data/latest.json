@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T15:10:00+08:00",
+  "generated_at": "2026-11-19T16:12:43+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對任何颱風發布海上或陸上警報；全球焦點轉向孟加拉灣氣旋「阿克凡」，預計11月20日登陸印度東岸，對台灣無直接影響。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，近期天氣主要受東北季風影響，與任何熱帶氣旋無關。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前無直接影響。現階段並無熱帶氣旋或颱風威脅台中地區，當地天氣平穩，沒有任何因熱帶系統導致的風雨警報或停班停課風險。"
+    "text": "台中目前受東北季風影響，清晨低溫約攝氏15至18度，中南部多雲到晴；並無任何颱風系統逼近，也未發現停班停課相關訊息。"
   },
   "quick_links": [
     {
@@ -22,75 +22,75 @@
     }
   ],
   "headline": {
-    "title": "印度東岸三度遭氣旋侵襲　阿克凡週五登陸在即；台灣海域目前無颱風警報",
-    "dek": "中央氣象署表示台灣海上、陸上颱風警報均未達發布標準，而印度東岸安得拉邦已進入高度戒備，準備迎接一個月內第三個登陸的孟加拉灣氣旋。"
+    "title": "氣旋「艾克凡」逼近印度東岸　今日或週五登陸；台灣暫無颱風威脅",
+    "dek": "印度安得拉邦與奧迪夏邦交界進入紅色警戒之際，台灣中央氣象署表示目前未發布任何海上或陸上颱風警報，全島僅受東北季風影響。"
   },
   "headline_body": [
-    "印度氣象局（IMD）預測，氣旋「阿克凡」（Akvan）將於11月20日中午前後，在安得拉邦沿海的內洛爾（Nellore）與圖尼（Tuni）之間登陸，持續風速可達每小時120至130公里，最大陣風上看145公里。印度報業《The South First》報導，安得拉邦及鄰近的南奧迪夏邦已發布橙色警戒，當局預告19日至20日將有極端強降雨，並已要求漲潮前漁船返港避風。",
-    "這是印度東岸在不到一個月內遭遇的第三個命名氣旋。據《Republic World》報導，在阿克凡之前，10月底的氣旋「阿爾納布」（Arnab）與11月初的氣旋「穆拉蘇」（Murasu）已先後登陸同一海岸，顯示今年孟加拉灣季後氣旋活動異常頻繁。氣象追蹤者形容阿爾納布是2014年以來最強的季後孟加拉灣風暴，各方報導顯示造成2至6人死亡；穆拉蘇則促使當局在泰米爾納度邦與安得拉邦撤離數千名居民。",
-    "相較之下，台灣目前並未面臨任何現行中的熱帶氣旋威脅。根據中央社（Focus Taiwan）11月10日的最新報導，中央氣象署當時表示海上及陸上颱風警報均未發布，彼時位於台北東方約1,510公里處的颱風「天兔」（Cempaka，菲律賓氣象局命名為Samuel）對台灣不構成威脅；此後未再有任何警報發布，目前亦無新系統朝台灣方向發展，台中等地同樣沒有風雨影響或停班停課情況。天兔本身則在本季寫下紀錄——根據日本《Weathernews》報導，它是2026年西北太平洋颱風季第32個命名風暴，為1994年以來最多，超越2013年的31個紀錄，其於11月9日前後接近颱風強度後即轉向東方減弱，11月14日降為熱帶低氣壓，全程未對台灣造成影響。",
-    "同一時間，南太平洋也有一個活躍系統值得關注。據《Watchers.news》報導，氣旋「澤維爾」（Xavier）本週在庫克群島北部的馬尼希基（Manihiki）與拉卡漢加（Rakahanga）環礁附近增強至二級強度，美軍聯合颱風警報中心（JTWC）預測其風速一度逼近每小時175公里，隨後自18日起減弱；專家將其異常偏東的生成位置歸因於今年強勁的厄爾尼諾現象。至於台灣本季最近一次受颱風直接衝擊，則是10月下旬的颱風「劍魚」（Champi）。半島電視台（Al Jazeera）報導，該颱風雖未直接登陸，仍造成屏東琉球鄉1人遭海浪沖走死亡，另有逾500人受傷，並導致大規模停電與農損，但此事件距今已近一個月，已非當前焦點。"
+    "印度東岸居民週四進入高度戒備。氣旋風暴「艾克凡」（Akvan）在孟加拉灣加速逼近海岸，印度多家媒體的即時報導顯示，這場風暴可能於今日或週五登陸安得拉邦與奧迪夏邦交界附近，當局已發布紅色警戒。與此同時，台灣完全未受任何熱帶系統影響，中央氣象署亦未發布海上或陸上颱風警報。",
+    "根據《Deccan Chronicle》的即時報導，艾克凡目前已減弱為「強烈氣旋風暴」，中心風速每小時90至100公里、最大陣風可達110公里，預計將在安得拉邦納爾薩普爾（Narsapur）與奧迪夏邦普里（Puri）之間登陸，登陸點靠近戈帕爾普爾（Gopalpur）。印度奧迪夏地方媒體OdishaTV的最新報導也指出，奧迪夏邦已進入戒備狀態，以應對風暴北移後可能帶來的影響。這與印度氣象局（IMD）11月中稍早的預測出現落差——根據印度媒體Oneindia引述IMD的預測，艾克凡原本預計強化為「極強烈氣旋風暴」，於11月20日正午左右在尼洛爾（Nellore）與圖尼（Tuni）之間登陸，最大陣風可達每小時145公里。由於風暴路徑與強度仍在變動中，確切登陸時間與地點目前尚無一致說法，本報將以「今日或週五、安得拉邦與奧迪夏邦交界附近」的方式呈現最新研判。據報導網站Karmactive指出，艾克凡是過去約一個月內第三個襲擊安得拉邦海岸的氣旋系統，此前的「阿爾納布」（Arnab）與「穆拉蘇」（Murasu）兩個風暴已合計造成15人死亡。",
+    "反觀台灣，中央氣象署的監測顯示，目前並無任何熱帶系統接近，全島天氣主要受東北季風南下影響，各地清晨低溫約攝氏15至18度，中南部地區則多雲到晴，與熱帶氣旋並無關聯。",
+    "南太平洋方面，熱帶氣旋「哈維爾」（Xavier）本月中旬在北庫克群島海域增強至二級強度，氣象網站Watchers.news報導，該系統曾以陣風每小時130公里的強度，使馬尼希基（Manihiki）與拉卡漢加（Rakahanga）兩座環礁發布大風警告；科學媒體NatureWorldNews則指出，哈維爾罕見地偏東至庫克群島海域活動，與今年強烈厄爾尼諾現象導致南太平洋風暴生成區東移有關，該系統的最新狀態尚未獲進一步證實。另一方面，今年西北太平洋颱風季異常活躍，日本氣象網站Weathernews.jp報導，本月初形成的「燦帕卡」（Cempaka）成為自1994年以來首個「第32號」颱風，也是1951年以來西北太平洋第9次在單一季內產出第32號命名風暴；中央社則證實，該系統當時距台灣恆春鵝鑾鼻以東約1,690公里，對台灣並無威脅。整體而言，儘管全球多處熱帶系統活躍，台灣本身目前並未面臨任何颱風侵襲風險。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋阿克凡逼近安得拉邦 週五中午前後登陸",
-      "dek": "印度氣象局預測陣風達每小時145公里，當局發布橙色警戒並籲漁民返港。",
-      "url": "https://thesouthfirst.com/andhrapradesh/cyclone-akvan-to-make-landfall-between-nellore-and-tuni-on-20-november-coastal-andhra-on-high-alert/"
+      "title": "艾克凡逼近安得拉邦、奧迪夏邦海岸，紅色警戒發布",
+      "dek": "《Deccan Chronicle》即時報導指出，氣旋艾克凡最快今日在戈帕爾普爾附近登陸，當地已發布紅色警戒。",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/live-cyclone-akvan-to-cross-ap-odisha-coasts-today-red-alert-issued-2005764"
     },
     {
       "rank": 2,
-      "title": "一個月內第三個氣旋 印度東岸疲於應戰",
-      "dek": "繼阿爾納布、穆拉蘇後，阿克凡成為近期第三個威脅印度東岸的命名氣旋。",
-      "url": "https://www.republicworld.com/india/third-storm-in-a-row-after-arnab-and-murasu-cyclone-akvan-brewing-over-bay-of-bengal-imd-issues-alert-2026-11-15-141109"
+      "title": "奧迪夏邦戒備，艾克凡路徑北移近戈帕爾普爾",
+      "dek": "OdishaTV報導稱，艾克凡在掠過安得拉邦後可能靠近奧迪夏邦戈帕爾普爾一帶，當局已提高警戒。",
+      "url": "https://odishatv.in/weather/cyclone-akvan-live-update-odisha-on-alert-as-storm-likely-to-cross-state-after-andhra-landfall-12818804"
     },
     {
       "rank": 3,
-      "title": "氣旋澤維爾逼近庫克群島 位置異常偏東",
-      "dek": "專家指強勁厄爾尼諾現象，使南太平洋氣旋生成區域罕見地大幅東移。",
-      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
+      "title": "IMD稍早預測：艾克凡原訂11月20日於尼洛爾至圖尼登陸",
+      "dek": "印度媒體Oneindia引述印度氣象局預測，艾克凡原預計強化為極強烈氣旋風暴，陣風可達每小時145公里。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 4,
-      "title": "天兔創紀錄 西北太平洋今年第32個命名風暴",
-      "dek": "颱風天兔刷新現代紀錄，超越2013年31個颱風的西北太平洋季紀錄。",
-      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
+      "title": "印度氣象局第18號官方公報",
+      "dek": "印度氣象局（IMD）11月17日晚間發布的官方公報顯示，艾克凡當時正緩慢向北北西移動並預期持續增強。",
+      "url": "https://mausam.imd.gov.in/backend/assets/cyclone_pdf/18__National_Bulletin_No_18-17Nov2026_2030IST.pdf"
     },
     {
       "rank": 5,
-      "title": "回顧：颱風劍魚掠台 造成1死逾500傷",
-      "dek": "劍魚雖未直接登陸台灣，仍在屏東造成死傷並引發大規模停電與農損。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "安得拉邦一個月內第三度遭氣旋侵襲",
+      "dek": "報導網站Karmactive指出，艾克凡是繼阿爾納布與穆拉蘇之後，一個月內第三個襲擊安得拉邦海岸的氣旋，兩者已造成15人死亡。",
+      "url": "https://www.karmactive.com/?p=285651"
     },
     {
       "rank": 6,
-      "title": "菲律賓氣象局：年底前菲國周邊仍可能再有1至2個熱帶氣旋",
-      "dek": "下一個系統若形成將命名為「湯瑪斯」，但氣象局指厄爾尼諾將壓低整體雨量。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "熱帶氣旋哈維爾增強至二級，北庫克群島發布大風警告",
+      "dek": "氣象網站Watchers.news報導，哈維爾在北庫克群島馬尼希基與拉卡漢加附近增強至二級，陣風達每小時130公里。",
+      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
       "rank": 7,
-      "title": "強勢厄爾尼諾牽動太平洋風暴生成帶東移",
-      "dek": "氣象學者指出，今年異常強的厄爾尼諾現象正改變南太平洋氣旋慣常路徑。",
+      "title": "厄爾尼諾現象致哈維爾路徑異常偏東",
+      "dek": "科學媒體NatureWorldNews分析指出，哈維爾罕見地在庫克群島附近活動，與今年強烈厄爾尼諾現象使南太平洋風暴生成區東移有關。",
       "url": "https://www.natureworldnews.com/articles/73887/20261117/cyclone-xavier-strengthens-over-northern-cook-islands-el-nino-shifts-storm-zone-east.htm"
     },
     {
       "rank": 8,
-      "title": "回顧：氣旋阿爾納布為2014年來最強季後孟加拉灣風暴",
-      "dek": "阿爾納布10月底登陸安得拉邦，造成數人死亡與大量房屋受損。",
-      "url": "https://www.khaleejtimes.com/world/asia/cyclone-arnab-landfall-india-killed-homes-damaged"
+      "title": "颱風「燦帕卡」生成，32年來首見第32號颱風",
+      "dek": "日本氣象網站Weathernews.jp報導，颱風燦帕卡成為1994年以來首個「第32號」颱風，凸顯今年西北太平洋颱風季異常活躍。",
+      "url": "https://weathernews.jp/news/202611/070181/"
     },
     {
       "rank": 9,
-      "title": "回顧：氣旋穆拉蘇緊接阿爾納布來襲 印度再疏散居民",
-      "dek": "穆拉蘇11月初登陸，促使泰米爾納度邦與安得拉邦提前撤離數千人。",
-      "url": "https://www.khaleejtimes.com/asia/india-evacuations-cyclone-murasu"
+      "title": "中央社證實：熱帶風暴燦帕卡距台遙遠，無威脅",
+      "dek": "中央社報導，熱帶風暴燦帕卡當時位於鵝鑾鼻以東約1,690公里海域，對台灣並無威脅。",
+      "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
       "rank": 10,
-      "title": "台灣氣象署：目前無颱風警報 天兔近距離掠過為上一次驚險",
-      "dek": "中央社報導，天兔曾逼近台灣東方千餘公里，但氣象署評估對台無威脅。",
-      "url": "https://focustaiwan.tw/society/202611100005"
+      "title": "菲律賓氣象局：年底前最多再有4個熱帶氣旋進入責任區",
+      "dek": "菲律賓大氣地理天文服務管理局（PAGASA）預估，在強烈厄爾尼諾影響下，今年底前可能再有少量熱帶氣旋形成或進入菲律賓責任海域。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
     }
   ]
 }
