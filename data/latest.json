@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20T00:13:00+08:00",
+  "generated_at": "2026-11-20T01:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，上一次警報為10月下旬颱風強帕來襲時發布，已於10月24日全數解除。今日僅因東北季風發布陸上強風特報（黃色燈號），與颱風無關。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。北部與東北部低地氣溫因東北季風增強將下探攝氏11度左右，純屬冬季季風型天氣事件，與颱風無關。",
   "region_watch": {
     "region": "台中",
-    "text": "台中目前未受颱風影響。氣象署今日發布的強風特報屬東北季風型天氣事件，台中局部地區可能出現8級以上陣風，但非颱風警報，目前也未見相關停班停課公告。"
+    "text": "台中目前無直接影響，未受任何颱風或熱帶系統波及。當地僅受東北季風影響，日間氣溫將隨季風增強逐漸轉涼，目前未發布任何風雨警戒或停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,76 +22,75 @@
     }
   ],
   "headline": {
-    "title": "台灣無颱風警報 風暴「阿克凡」週五登陸印度東岸",
-    "dek": "中央氣象署維持東北風強風特報，全球焦點轉向孟加拉灣增強中的氣旋「阿克凡」，預計週五正午登陸安德拉邦海岸。"
+    "title": "全球颶風季創紀錄之際，台灣迎東北季風降溫、無颱風警報",
+    "dek": "當孟加拉灣「阿克凡」氣旋逼近印度東岸、西太平洋颱風數創三十年新高之時，台灣仍處於冬季東北季風主導的天氣型態，中央氣象署未發布任何颱風警報。"
   },
   "headline_body": [
-    "台北——台灣目前未受任何颱風威脅。中央氣象署的颱風警報系統顯示，截至19日晚間，海上與陸上颱風警報均未發布，全台也沒有颱風逼近的跡象。今日唯一生效的氣象警示，是氣象署下午4時24分發布的東北風強風特報（黃色燈號），受東北季風影響，部分地區自19日午後至20日晚間可能出現8級以上強陣風，但官方強調這屬季風型天氣事件，與颱風無關。",
-    "氣象署資料顯示，台灣上一次發布颱風警報是在10月下旬因應颱風「強帕」（Champi）來襲，當時陸上警報一度涵蓋全台19個區域，最終於10月24日下午2時30分解除陸上警報，同日晚間8時30分解除海上警報，距今已近一個月。根據台北時報報導，強帕逼近時環流一度籠罩全台，但如今已無類似規模的系統在周邊海域活動。",
-    "儘管台灣本島暫時風平浪靜，全球熱帶氣旋版圖上的焦點已轉向南亞。印度氣象局（IMD）預測，目前在孟加拉灣的氣旋風暴「阿克凡」（Akvan）將持續增強為「極強氣旋風暴」，並於週五（20日）正午前後登陸，地點預計在安得拉邦與奧迪薩邦交界、戈帕爾普（Gopalpur）附近，介於內洛爾（Nellore）與圖尼（Tuni）之間。據多家印度媒體綜合報導，登陸時風暴持續風速約每小時90至130公里，瞬間最大陣風可達每小時110至145公里。",
-    "為應對阿克凡來襲，印度國家災害應變部隊（NDRF）已在五個邦與一個聯邦屬地部署31個救援小組，另有18個小組待命支援，奧迪薩邦當局也已展開沿海脆弱地區居民的撤離工作。德干紀事報（Deccan Chronicle）報導指出，當局已對相關海岸發布紅色警報；印度媒體News24則指出，深入孟加拉灣東南部的低壓系統預計於19日增強為極強氣旋風暴。截至目前的報導仍屬登陸前的整備階段，尚無確認登陸後的災損資訊；氣象局並警告，風暴外圍環流擴大，奧迪薩、西孟加拉與坦米爾納度等邦也將迎來強降雨。",
-    "另一方面，西太平洋今年颱風季同樣創下紀錄。颱風「璨樺」（Cempaka）於11月7日生成，成為2026年第32個命名風暴，超越2013年的31個紀錄，為21世紀以來同一年份最多颱風紀錄，其最後一次警報於11日發布後即減弱消散。菲律賓大氣地球物理和天文服務管理局（PAGASA）則表示，年底前菲律賓責任海域仍有可能再迎來一個熱帶氣旋系統，目前已有觀測單位在呂宋島附近追蹤一個低壓胚胎「96W」的動態。"
+    "隨著東北季風增強，台灣北部與東北部低地氣溫週三至週五可能降至攝氏十一度左右。中央氣象署（CWA）表示，目前的降溫純粹是冬季季風所致，並未提及任何熱帶系統——這也確認了截至十一月十九日，台灣本島周邊海陸皆無颱風警報，台中等地也未因任何風暴發布停班停課或豪雨警戒。",
+    "然而放眼印度洋與西太平洋，今年的熱帶氣旋活動卻異常活躍。印度氣象局（IMD）表示，氣旋「阿克凡」（Akvan）在孟加拉灣持續增強，預計將於十一月二十日中午前後、以「強烈氣旋風暴」強度登陸安得拉邦沿海奈洛爾（Nellore）與圖尼（Tuni）之間地區，根據《The South First》報導。《OneIndia》報導指出，IMD已針對沿海安得拉邦與亞南（Yanam）發布橙色警戒，預告十一月十九日至二十日將有大豪雨甚至局部極端豪雨，登陸時持續風速可達每小時一百二十至一百三十公里，陣風達一百四十五公里。《Telangana Today》報導，安得拉邦首席部長納伊杜已召開應變會議，並下令官員保持全天候戒備。《The Daily Jagran》報導，降雨警戒範圍已擴及泰米爾納杜邦北部沿岸、奧里薩邦與西孟加拉邦部分地區。《Siasat Daily》報導指出，阿克凡是一個月內第三個威脅安得拉邦沿岸的氣旋系統，凸顯今年季風後孟加拉灣異常活躍。",
+    "在西太平洋，颱風「森帕卡」（Cempaka）十一月七日生成後，成為二零二六年太平洋颱風季第三十二個颱風，是自一九九四年以來最多的一年，較二零一三年的三十一個紀錄多出一個，根據《Watchers.news》報導。該颱風隨後轉向東行，十一月十一日在日本南方海域轉化為溫帶氣旋，並未影響台灣或中國大陸。菲律賓氣象局（PAGASA）則表示，根據《GMA News》報導，預估十一月仍會有一至二個熱帶氣旋形成或進入菲律賓責任區，且今年年底前責任區內可能再增至多四個系統。",
+    "至於大西洋，根據美國《Fox10（WALA）》報導，二零二六年颶風季以累積氣旋能量計算，是史上最不活躍的季節之一，全季僅十個命名風暴與一個颶風，該季將於十一月三十日正式結束，預料不會再有新系統生成。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋「阿克凡」預計20日登陸戈帕爾普附近 印度部署31支救援隊",
-      "dek": "印度氣象局預測阿克凡登陸時風速每小時90至100公里，陣風可達110公里，災害應變部隊已在五邦一屬地待命。",
-      "url": "https://www.newsdrum.in/national/cyclone-akvan-likely-to-make-landfall-near-gopalpur-on-nov-20-31-ndrf-teams-deployed-12823922"
+      "title": "氣旋阿克凡預計11月20日登陸印度安得拉邦奈洛爾至圖尼沿岸",
+      "dek": "印度氣象局預報，這個「強烈氣旋風暴」將於11月20日中午前後登陸安得拉邦與亞南沿海，當地已進入高度警戒並展開疏散準備。",
+      "url": "https://thesouthfirst.com/andhrapradesh/cyclone-akvan-to-make-landfall-between-nellore-and-tuni-on-20-november-coastal-andhra-on-high-alert/"
     },
     {
       "rank": 2,
-      "title": "阿克凡增強為「極強氣旋風暴」 奧迪薩、坦米爾納度戒備強降雨",
-      "dek": "印度氣象局預期阿克凡登陸前將進一步增強，外圍雨帶已影響印度東岸多邦。",
-      "url": "https://thefederal.com/category/news/cyclone-akvan-bay-of-bengal-east-coast-rainfall-weather-forecast-imd-263072"
+      "title": "IMD預報阿克凡來襲 安得拉邦19至20日將現極端豪雨",
+      "dek": "印度氣象局對沿海安得拉邦與亞南發布橙色警戒，預估登陸時風速可達每小時120至130公里，陣風達145公里。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-imd-forecasts-extremely-heavy-rains-in-andhra-pradesh-on-november-19-20-8260687.html"
     },
     {
       "rank": 3,
-      "title": "安得拉邦戒備陣風達每小時145公里 阿克凡預計20日登陸",
-      "dek": "當局持續進行沿海撤離作業，因應風暴逼近時可能出現的強烈陣風。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "阿克凡登陸效應擴大 泰米爾納杜、奧里薩、西孟加拉同列豪雨警戒",
+      "dek": "印度氣象局將降雨警戒範圍擴及泰米爾納杜邦北部沿岸、西孟加拉邦多區，以及持續至11月21日的奧里薩邦降雨。",
+      "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-to-make-landfall-in-andhra-pradesh-on-november-20-heavy-rain-alert-issued-for-andhra-pradesh-tamil-nadu-odisha-west-bengal-check-imd-forecast-10336533"
     },
     {
       "rank": 4,
-      "title": "【即時】氣旋阿克凡持續增強 奧迪薩展開居民撤離",
-      "dek": "滾動報導追蹤阿克凡在孟加拉灣的最新動態，登陸地點預計落在安得拉邦與奧迪薩邦交界。",
-      "url": "https://www.outlookindia.com/national/india-news-live-updates-17-november-2026-cyclone-akvan-storm-intensifies-landfall-expected-on-andhra-coast-odisha-begins-evacuation-news-latest-updates"
+      "title": "阿克凡傍晚前增強為強烈氣旋 安得拉邦首長親自督導應變",
+      "dek": "印度氣象局預告阿克凡將於當日傍晚前增強為強烈氣旋風暴，安得拉邦首席部長納伊杜下令官員全天候戒備，備戰11月20日登陸。",
+      "url": "https://telanganatoday.com/akvan-set-to-intensify-into-severe-cyclone-by-evening-andhra-cm-takes-stock-of-situation"
     },
     {
       "rank": 5,
-      "title": "阿克凡週五可能登陸 奧迪薩、安得拉邦發布強降雨警告",
-      "dek": "孟加拉灣東南部低壓系統預計增強為極強氣旋風暴，登陸地點鎖定內洛爾與圖尼之間。",
-      "url": "https://news24online.com/india/cyclone-akvan-update-odisha-andhra-pradesh-on-alert-as-storm-set-to-turn-very-severe-landfall-likely-on-friday-heavy-rain-warning-issued/954163/"
+      "title": "一個月內第三個氣旋來襲 安得拉邦沿岸再度繃緊神經",
+      "dek": "阿克凡是繼「阿爾納布」（約10月28日登陸）與「穆拉蘇」（約11月2至3日登陸）之後，一個月內第三個威脅安得拉邦沿岸的氣旋系統，顯示今年季風後孟加拉灣異常活躍。",
+      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
     },
     {
       "rank": 6,
-      "title": "【即時】阿克凡今日橫掃安得拉邦—奧迪薩海岸 當局發布紅色警報",
-      "dek": "風暴逼近戈帕爾普周邊海岸，為目前掌握最新的登陸前動態報導。",
-      "url": "https://www.deccanchronicle.com/nation/current-affairs/live-cyclone-akvan-to-cross-ap-odisha-coasts-today-red-alert-issued-2005764"
+      "title": "PAGASA預估11月菲律賓責任區將有1至2個熱帶氣旋",
+      "dek": "菲律賓氣象局指出，在強烈聖嬰現象影響下，全國多數地區11月雨量預估偏少，但責任區內仍可能形成或進入1至2個熱帶氣旋。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 7,
-      "title": "阿克凡逼近戈帕爾普 西孟加拉邦亦將迎強降雨",
-      "dek": "印度氣象局警告風暴環流持續擴大，降雨範圍將延伸至西孟加拉邦。",
-      "url": "https://english.newstrack.com/india-news/cyclone-akvan-landfall-odisha-gopalpur-west-bengal-heavy-rainfall-imd-alert-649172"
+      "title": "PAGASA：2026年底前責任區內或再增至多4個熱帶氣旋",
+      "dek": "菲律賓氣象局表示，今年已有19個氣旋進入責任區，年底前還可能再有最多4個系統進入，其中部分有機會增強為颱風甚至超級颱風，但進入責任區不代表會登陸菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
     },
     {
       "rank": 8,
-      "title": "中央氣象署颱風警報頁面：目前無生效警報",
-      "dek": "官方頁面顯示台灣海上與陸上颱風警報均未發布，最近一次為10月的強帕警報。",
-      "url": "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_WARN.html"
+      "title": "颱風「森帕卡」成為2026年第32個颱風 創1994年以來最多紀錄",
+      "dek": "森帕卡於11月7日生成，使今年西北太平洋颱風數超越2013年的31個、創1994年以來新高，隨後轉向東行並於11月11日在日本南方海域轉化為溫帶氣旋，未影響台灣或中國大陸。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 9,
-      "title": "回顧：颱風強帕逼近 台灣曾發布陸上颱風警報",
-      "dek": "10月下旬強帕來襲時，陸上警報一度涵蓋19個區域，24日全數解除，凸顯當前情勢的平靜。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866435"
+      "title": "2026年大西洋颶風季以累積氣旋能量計 創史上最不活躍紀錄之一",
+      "dek": "今年大西洋颶風季僅出現10個命名風暴與1個颶風，累積氣旋能量較長期平均低約83%，該季將於11月30日結束，預料不會再有新系統生成。",
+      "url": "https://www.fox10tv.com/2026/11/04/2026-atlantic-hurricane-season-among-least-active-when-measured-by-ace/"
     },
     {
       "rank": 10,
-      "title": "颱風璨樺成今年第32個命名風暴 創本世紀紀錄",
-      "dek": "璨樺超越2013年31個颱風的紀錄，成為21世紀單一年度最多颱風的一年。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "東北季風增強來襲 台灣北部低溫下探11度 無颱風影響",
+      "dek": "中央氣象署表示，週三至週五東北風將明顯增強，拉低北部與東北部低地氣溫至約攝氏11度，目前天氣完全由冬季季風主導，未涉及任何熱帶系統。",
+      "url": "https://focustaiwan.tw/society/202611170005"
     }
   ]
 }
