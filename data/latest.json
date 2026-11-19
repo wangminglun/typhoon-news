@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T22:07:00+08:00",
+  "generated_at": "2026-11-19T23:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無颱風警報",
-  "alert_desc": "中央氣象署表示，台灣周邊海域及陸地均未發布海上或陸上颱風警報，影響台灣的是東北季風冷空氣，預計11月19日至21日達到高峰，各地氣溫將明顯下滑。",
+  "alert_desc": "根據現有新聞報導，中央氣象署並未對台灣發布海上或陸上颱風警報，影響台灣的是東北季風冷空氣，自11月18日起為北部與東北部帶來降溫及增強風力，屬季節性天氣型態，與熱帶氣旋無關。",
   "region_watch": {
     "region": "台中",
-    "text": "台中地區目前未受任何熱帶氣旋直接影響，僅隨東北季風轉涼，降雨機率偏低，氣象署並未對台中發布颱風相關的停班停課或警報。"
+    "text": "台中地區目前無任何颱風直接影響。僅受東北季風南下波及，北部及東北部降溫增風較明顯，台中以南地區多為多雲到晴，降雨機率偏低，氣象署並未對台中發布颱風相關的停班停課或警報。"
   },
   "quick_links": [
     {
@@ -22,75 +22,76 @@
     }
   ],
   "headline": {
-    "title": "颱風暫歇、東北季風南下：全球目光轉向孟加拉灣強烈氣旋「阿克凡」",
-    "dek": "台灣目前未受任何颱風威脅，僅因東北季風南下轉涼，而在今年創紀錄的太平洋颱風季趨於平靜之際，印度東岸正戒備即將登陸的強烈氣旋風暴阿克凡。"
+    "title": "颱風季暫歇台灣無警戒 孟加拉灣強烈氣旋「阿克文」逼近印度東岸",
+    "dek": "中央氣象署未對台灣發布海上或陸上颱風警報，東北季風正帶來降溫與強風；同時印度氣象局示警，強烈氣旋「阿克文」可能於週五正午登陸安德拉邦至奧里薩邦沿岸。"
   },
   "headline_body": [
-    "週四的台灣天空下，並無颱風的陰影。中央氣象署的最新資料顯示，目前並未對台灣發布任何海上或陸上颱風警報，籠罩全島的是一股東北季風冷空氣，預計在本週四至週日（11月19日至21日）達到高峰，帶來氣溫下滑、雲量增多，但對包括台中在內的多數地區而言，降雨機率仍偏低，也沒有因颱風而停班停課的疑慮。",
-    "真正牽動國際氣象版面的風暴，如今遠在印度洋。印度氣象局（IMD）表示，強烈氣旋風暴「阿克凡」（Akvan）正以每小時120至130公里的持續風速、陣風可達145公里的強度，朝印度東南部安得拉邦沿岸逼近，預計於11月20日中午前後登陸奈洛爾至圖尼一帶海岸。這將使阿克凡成為過去約一個月內，第三個襲擊同一段海岸的氣旋風暴，前兩者分別是「阿爾納布」（Arnab）與上月初登陸的「穆拉蘇」（Murasu）。IMD已對安得拉邦、泰米爾納都、奧迪沙及西孟加拉等四邦發布豪雨至超大豪雨特報，其中沿海安得拉邦的最強降雨預計落在19日至20日，奧迪沙則將延至21日。",
-    "美國海軍聯合颱風警報中心（JTWC）於11月17日的公告中，將阿克凡定位於北緯12.2度、東經87.3度的孟加拉灣海域，正以熱帶風暴強度朝印度海岸移動；全球災害預警與協調系統（GDACS）則已針對此系統發布橙色警示，評估約有2080萬人可能暴露於時速120公里以上的風場範圍內。",
-    "這場風暴也凸顯了今年太平洋颱風季的戲劇性反差。本季第32個颱風「璨帕」（Cempaka）於11月7日形成，創下本世紀最多颱風紀錄，超越2013年的31個；但璨帕隨後轉向東北、掠過日本以南海域，並於11月中旬減弱消散，未對台灣或菲律賓構成威脅。上一個真正影響台灣的系統，是10月下旬掠境的颱風「錢皮」（Champi），造成1人死亡、逾600人受傷。菲律賓大氣地理天文服務署（PAGASA）則示警，年底前菲律賓責任海域仍可能再有一至兩個熱帶氣旋生成或進入，但截至目前尚無具體系統成形。"
+    "台北——儘管全球熱帶氣旋活動依然頻繁，台灣本身目前並未受到任何颱風直接威脅。根據現有新聞報導，中央氣象署並未對台灣發布海上或陸上颱風警報，太平洋與南海一帶也沒有任何熱帶系統逼近本島。影響台灣的主要天氣因素是一股東北季風冷空氣，自11月18日起為北部與東北部帶來降溫與增強的風力；氣象預報人員指出氣溫將明顯下滑，但這屬於季節性天氣型態，與熱帶氣旋無關，目前也未傳出因此停班停課的消息。",
+    "然而，目光投向印度洋，情勢則緊張得多。印度氣象局（IMD）表示，強烈氣旋風暴「阿克文」（Akvan）19日下午2時30分位於普里（Puri）東南方約470公里的孟加拉灣中西部海域，正以每小時13公里的速度向北移動，據印度ANI通訊社與地方媒體OMMCOM News報導。印度氣象局預測，阿克文將於20日（週五）正午左右，在安德拉邦北部至奧里薩邦南部的戈帕爾普爾（Gopalpur）附近登陸——換算約為台北時間20日下午2時30分至3時30分之間。",
+    "根據印度氣象局11月17日的預測，阿克文原預計將於19日晚間增強為「非常強烈的氣旋風暴」，登陸風速可達每小時120至130公里，瞬間風速145公里；不過根據19日最新資料，風暴強度略低於原先預測，登陸時持續風速估計為每小時90至100公里，瞬間風速110公里。",
+    "若預測屬實，阿克文將是過去三週內第三個登陸安德拉邦沿岸的氣旋，此前已有10月28日登陸亞南（Yanam）附近的氣旋「阿爾納布」（Arnab），以及11月2日至3日登陸翁戈萊（Ongole）附近的氣旋「穆拉蘇」（Murasu），據印度媒體Siasat報導。奧里薩邦已對13個縣發布紅色警戒，撤離逾10萬名居民並出動388支消防隊；安德拉邦則在六個縣關閉學校與幼兒園，為期19日至21日，印度氣象局同時維持對該邦及鄰近奧里薩邦南部的橙色警戒。印度氣象局並對安德拉邦沿岸、奧里薩邦南部、坦米爾納杜邦北部沿海及西孟加拉邦部分地區發布極端強降雨警報，部分地區雨量可能超過21公分，據OneIndia報導。",
+    "今年西太平洋颱風季同樣創下紀錄：第32號颱風「琵姬」（Cempaka）於11月7日形成，打破2013年31個系統創下的21世紀紀錄，但該系統已於11日在日本東南方海域轉化為溫帶氣旋，未對台灣或菲律賓構成威脅，據氣象網站Watchers.news報導。台灣上一次受颱風直接衝擊，是10月下旬的颱風「薔琵」（Champi），造成1人死亡、逾500人受傷，並一度中斷班機與電力供應，據印度News On Air報導。整體而言，台灣目前正處於颱風季中難得的平靜期。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "強烈氣旋阿克凡逼近，印度安得拉邦戒備時速145公里強風",
-      "dek": "印度氣象局預測氣旋風暴阿克凡將於11月20日登陸安得拉邦，當局已著手疏散低窪沿海地區居民。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "強烈氣旋阿克文逼近印度東岸，預料週五正午登陸安德拉—奧里薩交界",
+      "dek": "印度氣象局表示，阿克文目前距普里東南方約470公里，正以每小時13公里速度北移，預計20日正午於戈帕爾普爾附近登陸。",
+      "url": "https://www.aninews.in/news/national/general-news/severe-cyclone-akvan-likely-to-cross-andhra-pradesh-odisha-coasts-by-noon-three-trains-rescheduled20261119065522/"
     },
     {
       "rank": 2,
-      "title": "IMD追蹤阿克凡路徑，鎖定奈洛爾至圖尼海岸11月20日登陸",
-      "dek": "印度氣象局持續追蹤強烈氣旋阿克凡，這將是不到一個月內第三個威脅同一段海岸的氣旋風暴。",
-      "url": "https://www.karmactive.com/?p=285651"
+      "title": "奧里薩地方媒體確認：氣旋阿克文持續北移，距普里僅470公里",
+      "dek": "奧里薩當地媒體OMMCOM News報導，阿克文正穩定向北逼近奧里薩海岸，與全國性報導的最新位置一致。",
+      "url": "https://ommcomnews.com/odisha-news/cyclone-akvan-moving-north-at-13-kmph-470-km-from-puri/"
     },
     {
       "rank": 3,
-      "title": "阿克凡來襲前，印度四邦發布豪雨警報",
-      "dek": "隨著氣旋阿克凡逼近，印度氣象局對安得拉邦、泰米爾納都、奧迪沙與西孟加拉發布豪雨至超大豪雨特報。",
-      "url": "https://www.thedailyjagran.com/india/news/cyclone-akvan-to-make-landfall-in-andhra-pradesh-on-november-20-heavy-rain-alert-issued-for-andhra-pradesh-tamil-nadu-odisha-west-bengal-check-imd-forecast-10336533"
+      "title": "奧里薩對13縣發布紅色警戒，撤離逾10萬人迎戰阿克文",
+      "dek": "當局在阿克文登陸前對13個縣發布最高等級紅色警戒，撤離超過10萬名居民並部署388支消防隊。",
+      "url": "https://www.aninews.in/news/national/general-news/severe-cyclone-akvan-likely-to-cross-andhra-pradesh-odisha-coasts-by-noon-three-trains-rescheduled20261119065522/"
     },
     {
       "rank": 4,
-      "title": "一文看懂氣旋阿克凡：形成背景與可能影響地區",
-      "dek": "這篇背景解析整理了氣旋阿克凡的生成經過、預估強度與登陸前可能受衝擊的地區。",
-      "url": "https://openthemagazine.com/india/quick-take-what-is-cyclone-akvan-and-which-areas-could-it-affect-seven-things-to-know"
+      "title": "安德拉邦六縣停課應對氣旋，印度氣象局維持橙色警戒",
+      "dek": "安德拉邦在六個縣關閉學校與幼兒園至21日，印度氣象局同時對該邦及鄰近南奧里薩維持橙色警戒。",
+      "url": "https://www.aninews.in/news/national/general-news/severe-cyclone-akvan-likely-to-cross-andhra-pradesh-odisha-coasts-by-noon-three-trains-rescheduled20261119065522/"
     },
     {
       "rank": 5,
-      "title": "JTWC發布警報：熱帶氣旋阿克凡持續朝印度海岸逼近",
-      "dek": "美國海軍聯合颱風警報中心將阿克凡定位於孟加拉灣，標示其正以熱帶風暴強度向印度沿岸移動。",
-      "url": "https://www.defconlevel.com/alert/2026-11-17-joint-typhoon-warning-center-tropical-cyclone-akvan"
+      "title": "印度氣象局曾預測阿克文將增強為「非常強烈氣旋」，登陸風速上看每小時130公里",
+      "dek": "11月17日的早期預測顯示，阿克文可能在登陸前增強為非常強烈氣旋風暴，但後續資料顯示強度略低於此預測。",
+      "url": "https://ddindia.co.in/2026/11/cyclone-akvan-likely-to-intensify-into-very-severe-cyclonic-storm-cross-andhra-coast-on-november-20/"
     },
     {
       "rank": 6,
-      "title": "GDACS發布橙色警示，估逾2000萬人暴露阿克凡強風威脅",
-      "dek": "全球災害預警系統針對氣旋阿克凡發布橙色警示，評估約2080萬人可能遭受時速120公里以上強風侵襲。",
-      "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
+      "title": "三週內第三個氣旋來襲，安德拉邦沿岸罕見連遭風暴侵襲",
+      "dek": "繼10月底的阿爾納布與11月初的穆拉蘇之後，阿克文將是三週內第三個登陸安德拉邦沿岸的氣旋。",
+      "url": "https://www.siasat.com/andhra-braces-for-third-cyclone-in-three-weeks-as-akvan-brews-3578415/"
     },
     {
       "rank": 7,
-      "title": "氣旋穆拉蘇登陸印度東岸，一個月內第二度重擊同一海岸線",
-      "dek": "氣旋穆拉蘇本月初於安得拉邦附近登陸印度東岸，是一個月內接連來襲的三個氣旋風暴中的第二個。",
-      "url": "https://aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+      "title": "印度氣象局發布極端強降雨警報，多邦沿海恐現豪雨",
+      "dek": "印度氣象局預測安德拉邦北部沿海19、20兩日可能出現超過21公分的極端強降雨，奧里薩南部、坦米爾納杜北部沿海與西孟加拉部分地區也將受影響。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-imd-forecasts-extremely-heavy-rains-in-andhra-pradesh-on-november-19-20-8260687.html"
     },
     {
       "rank": 8,
-      "title": "颱風錢皮掠境台灣，釀1死逾600傷",
-      "dek": "今年第29號颱風錢皮10月下旬掠過台灣，造成1人死亡、逾600人受傷，是今年最後一個直接影響台灣的颱風。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
-    },
-    {
-      "rank": 9,
-      "title": "颱風璨帕生成，創本世紀太平洋颱風季最多颱風紀錄",
-      "dek": "11月初生成的颱風璨帕是今年第32個颱風，超越2013年紀錄，但其轉向東北後未對台灣或菲律賓構成威脅。",
+      "title": "2026年西太平洋颱風季創21世紀紀錄，颱風琵姬成第32個系統",
+      "dek": "颱風琵姬11月7日生成，使今年西太平洋颱風數量超越2013年的31個紀錄，但該系統已轉化為溫帶氣旋，未對台灣構成威脅。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
+      "rank": 9,
+      "title": "回顧颱風薔琵：台灣上月唯一遭直接衝擊的颱風",
+      "dek": "10月下旬颱風薔琵造成台灣1人死亡、逾500人受傷，並一度中斷班機與電力供應，為台灣近期唯一的颱風災情紀錄。",
+      "url": "https://newsonair.gov.in/typhoon-champi-kills-one-injures-over-500-in-taiwan-disrupts-flights-and-power-supply/"
+    },
+    {
       "rank": 10,
-      "title": "菲律賓氣象署：年底前仍可能再有颱風生成",
-      "dek": "PAGASA表示，今年已有19個熱帶氣旋進入菲律賓責任海域，年底前仍可能再有一至兩個系統形成或進入，但目前尚無具體系統。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "印度東岸鐵路調度受阿克文影響，三班列車改期",
+      "dek": "隨著阿克文逼近，印度鐵路部門已調整三班列車班次，以應對登陸前後可能出現的惡劣天候與行車風險。",
+      "url": "https://www.aninews.in/news/national/general-news/severe-cyclone-akvan-likely-to-cross-andhra-pradesh-odisha-coasts-by-noon-three-trains-rescheduled20261119065522/"
     }
   ]
 }
