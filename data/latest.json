@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T22:09:00+08:00",
+  "generated_at": "2026-11-21T23:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。台灣周邊海域目前無任何活躍熱帶氣旋，最新全球焦點為登陸印度東岸的熱帶氣旋「艾克凡」。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報。台灣本島天氣主要受一股大陸冷氣團影響，與熱帶系統無關；全球焦點為南太平洋氣旋「薩維爾」在打破11月強度紀錄後迅速減弱。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響，台中並無任何颱風威脅，亦未見停班停課公告，本週天氣主要受一般冬季天氣型態影響。"
+    "text": "目前無直接影響。目前無任何颱風或熱帶氣旋系統對台中造成影響，唯一相關的天氣因素為籠罩北部與中部的大陸冷氣團，帶來氣溫下降，但與熱帶系統無關，目前亦未見停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "氣旋「艾克凡」登陸印度東岸 台灣海陸颱風警報均未發布",
-    "dek": "印度安德拉邦迎來一個月內第三個強烈氣旋侵襲，而太平洋颱風季已打破世紀紀錄，台灣周邊目前並無颱風威脅。"
+    "title": "南太平洋氣旋薩維爾打破11月強度紀錄後迅速減弱 台灣目前無颱風警報",
+    "dek": "這個南半球史上11月最強的熱帶氣旋在重創庫克群島北部後已減弱為熱帶性低氣壓；印度東岸氣旋阿克凡登陸衝擊輕於預期，台灣本島則持續處於無颱風警報的平靜狀態。"
   },
   "headline_body": [
-    "熱帶氣旋「艾克凡」（Akvan）已於11月20日中午前後登陸印度東岸安德拉邦訥洛爾（Nellore）至維沙卡帕特南（Visakhapatnam）一帶，為當地帶來強風豪雨。根據印度媒體OneIndia報導，印度氣象局（IMD）預測艾克凡穿越安德拉邦與亞南（Yanam）沿岸時，風速可達每小時145公里，促使安德拉邦及南奧迪沙邦當局提前發出沿海警戒。",
-    "這是北印度洋今年異常活躍風暴季的最新一章。環境新聞網站Down To Earth指出，艾克凡是一個月內登陸印度東岸的第三個重大氣旋，此前已有氣旋「阿爾納布」（Arnab）與「穆拉蘇」（Murasu）先後來襲，顯示該地區今年風暴頻率明顯偏高。",
-    "相較於南亞的風雨交加，台灣周邊目前情勢平靜。中央氣象署截至今日並未發布海上或陸上颱風警報，台灣上一個直接受影響的風暴為颱風「池貝」（Champi），已在10月22日至24日掠過台灣，復原工作早已結束；據Watchers.news報導，池貝曾造成屏東琉球一人死亡、逾六百人受傷，並使約14.6萬戶停電，農業損失約4.89億元新台幣。台中地區目前無任何颱風直接影響，亦未見停班停課公告。",
-    "儘管台灣海峽周邊暫無威脅，2026年整體而言仍是全球颱風活動極為活躍的一年。據Watchers.news報導，颱風「璨琵雅」（Cempaka）於11月7日在西北太平洋生成，成為本季第32個颱風，超越2013年的31個紀錄，是自1994年以來西太平洋最活躍的颱風季；該系統隨後轉向日本以東海域，並於11月11日減弱為溫帶氣旋。菲律賓《每日詢問報》（Inquirer）報導，璨琵雅在尚未進入菲律賓責任區（PAR）前便已增強為颱風等級。",
-    "與此同時，南太平洋庫克群島北部的熱帶氣旋「澤維爾」（Xavier）已增強至二級強度，Watchers.news報導指出，澤維爾曾逼近馬尼希基（Manihiki）與拉卡漢加（Rakahanga）並引發強風警報；Nature World News則指出，今年強烈的厄爾尼諾現象將南太平洋風暴活動範圍推向較往常更東側的海域。菲律賓《每日論壇報》報導，菲律賓氣象機構PAGASA表示，年底前仍可能有一個熱帶氣旋進入該國責任區，屆時將命名為「湯瑪斯」（Tomas），但截至目前尚未生成。另據AccuWeather報導，2026年東太平洋及中太平洋颶風季創下76.25天颶風活躍紀錄，打破2018年68.25天的舊紀錄，主要歸因於強烈厄爾尼諾現象。"
+    "南太平洋的強烈熱帶氣旋「薩維爾」（Xavier）在上週以近乎破紀錄的強度橫掃庫克群島北部後，已於本週末迅速減弱為熱帶性低氣壓，根據紐西蘭氣象局（MetService）與氣象觀測機構Wunderground在11月21日發布的最新公告。",
+    "這場風暴的消退，標誌著本週全球多個引發關注的熱帶氣旋系統逐漸平息——登陸印度東岸的氣旋「阿克凡」已減弱為低壓系統，西北太平洋今年打破21世紀颱風數量紀錄的風暴季也已接近尾聲。對台灣而言，中央氣象署目前未發布任何海上或陸上颱風警報，本島天氣主要受一股大陸冷氣團影響，氣溫下降但與熱帶系統無關；中部地區包括台中市目前無直接衝擊，也未有停班停課公告。",
+    "根據斐濟氣象局（RSMC Nadi）的觀測，薩維爾上週一度達到近似五級颱風的強度，十分鐘平均風速接近每小時220公里，中心氣壓估計低至910百帕，為南半球有紀錄以來11月最強的熱帶氣旋，超越2016年的氣旋溫斯頓（Winston）。據雅虎新聞與福斯氣象（FOX Weather）報導，風暴在巔峰期間橫掃庫克群島北部的馬尼希基、拉卡漢加、普卡普卡及納蘇等島嶼。紐西蘭電視新聞網「1News」11月19日報導，當地島務委員會已提前清除鬆動雜物並加固房屋，為風暴來襲做準備。紐西蘭世界新聞網（Nature World News）則指出，氣象學家將薩維爾異常偏東的路徑歸因於今年強勁的厄爾尼諾現象，該氣候型態通常使南太平洋氣旋活動範圍較常年更偏東，波及庫克群島與法屬玻里尼西亞等較少受風暴侵襲的島群。MetService在11月20日的公告中預測，減弱中的薩維爾未來數日將持續朝西南方向飄移，接近薩摩亞，但對其確切路徑與強度的信心仍偏低。",
+    "與此同時，印度東岸的氣旋「阿克凡」已於11月20日晨間在奧里薩邦戈帕爾布爾（Gopalpur）附近登陸，據《德干紀事報》引述印度氣象局資料，登陸風速約每小時70至80公里，強度低於登陸前預測，鄰近的安德拉邦大致倖免於最嚴重衝擊。ETV Bharat報導，阿克凡登陸後迅速減弱為深低氣壓，印度氣象局警告奧里薩邦未來24小時仍有強降雨，當地已取消或改期69班列車，國家災害應變部隊持續在沿海地區執行撤離與救援。另據新華社報導，西北太平洋今年稍早因颱風「獎帕卡」成為區域內本世紀第32個命名颱風而創下新紀錄，但該風暴已於11月11日轉化為溫帶氣旋並消散，未對台灣或中國大陸沿岸構成威脅。",
+    "台灣今年最近一次發布陸上颱風警報是在10月下旬，因應今年太平洋季最強風暴颱風Champi來襲——根據馬來西亞《星報》與路透社報導，該颱風巔峰風速達每小時296公里，其路徑掠過台灣東北方後轉向中國大陸沿岸及日本。自此之後，台灣未再受任何活躍熱帶氣旋威脅。菲律賓大氣地理天文服務管理局氣候學家蘇利斯（Ana Liza Solis）表示，今年底前菲律賓責任海域仍有可能形成一至兩個熱帶氣旋，但能否成形尚無法確定。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋艾克凡登陸印度 訥洛爾、維沙卡帕特南首當其衝",
-      "dek": "據Watchers.news報導，氣旋艾克凡於11月20日中午前後登陸印度安德拉邦沿岸，訥洛爾與維沙卡帕特南一帶首當其衝。",
-      "url": "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+      "title": "南太平洋氣旋薩維爾打破11月強度紀錄後減弱為熱帶性低氣壓",
+      "dek": "這個南半球今年11月最強的熱帶氣旋在重創庫克群島北部後持續減弱，預測將朝薩摩亞方向移動。",
+      "url": "https://www.wunderground.com/hurricane"
     },
     {
       "rank": 2,
-      "title": "印度氣象局示警 艾克凡登陸風速估達每小時145公里",
-      "dek": "據印度媒體OneIndia報導，印度氣象局預測氣旋艾克凡穿越安德拉邦海岸時風速可達每小時145公里，促使當局發布沿海警戒。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "氣旋薩維爾打破南半球11月強度紀錄",
+      "dek": "斐濟氣象局估計其巔峰中心氣壓低至910百帕，為南半球11月觀測史上最強烈的熱帶氣旋。",
+      "url": "https://www.yahoo.com/news/weather-news/articles/cyclone-xavier-explodes-record-breaking-230142161.html"
     },
     {
       "rank": 3,
-      "title": "一個月內第三個 艾克凡凸顯印度東岸風暴季異常活躍",
-      "dek": "環境新聞網站Down To Earth報導，艾克凡是一個月內登陸印度安德拉邦與奧迪沙邦海岸的第三個重大氣旋。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
+      "title": "氣旋薩維爾橫掃庫克群島北部，強度持續減弱",
+      "dek": "當地島務委員會在風暴來襲前已清除雜物並加固房屋，多個島嶼仍維持強風警戒。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 4,
-      "title": "颱風璨琵雅成本季第32個颱風 創本世紀西太平洋最活躍紀錄",
-      "dek": "據Watchers.news報導，颱風璨琵雅於11月7日生成，成為2026年第32個颱風，超越2013年31個的舊紀錄。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
-    },
-    {
-      "rank": 5,
-      "title": "璨琵雅尚未進入菲律賓責任區便已增強為颱風",
-      "dek": "菲律賓《每日詢問報》報導，強烈熱帶風暴璨琵雅在尚未進入菲律賓責任區（PAR）前便已增強為颱風等級。",
-      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
-    },
-    {
-      "rank": 6,
-      "title": "熱帶氣旋澤維爾增強至二級 逼近庫克群島北部",
-      "dek": "據Watchers.news報導，熱帶氣旋澤維爾在庫克群島北部馬尼希基與拉卡漢加附近增強至二級強度，當地已發布強風警報。",
-      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
-    },
-    {
-      "rank": 7,
-      "title": "厄爾尼諾效應 南太平洋風暴帶東移助長氣旋澤維爾",
-      "dek": "Nature World News報導，今年強烈厄爾尼諾現象將南太平洋風暴活動範圍推向較往常更東側，助長氣旋澤維爾增強。",
+      "title": "厄爾尼諾將南太平洋氣旋風險帶向東方，波及庫克群島與法屬玻里尼西亞",
+      "dek": "氣象學家指出，今年強勁的厄爾尼諾現象改變了該地區氣旋路徑的典型範圍。",
       "url": "https://www.natureworldnews.com/articles/73887/20261117/cyclone-xavier-strengthens-over-northern-cook-islands-el-nino-shifts-storm-zone-east.htm"
     },
     {
+      "rank": 5,
+      "title": "氣旋阿克凡登陸印度奧里薩邦，安德拉邦大致倖免",
+      "dek": "印度氣象局表示，登陸風速低於原先預測，當地未傳出重大傷亡或損害。",
+      "url": "https://www.deccanherald.com/india/odisha/cyclone-akvan-spares-andhra-pradesh-makes-landfall-in-odisha-4225724"
+    },
+    {
+      "rank": 6,
+      "title": "阿克凡登陸後迅速減弱，印度氣象局警告持續強降雨",
+      "dek": "奧里薩邦沿海地區已取消數十班列車，救災部隊持續執行撤離與救援行動。",
+      "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
+    },
+    {
+      "rank": 7,
+      "title": "西北太平洋颱風季以第32個命名颱風「獎帕卡」創21世紀紀錄",
+      "dek": "獎帕卡形成後路徑掠過日本東側，隨後轉化為溫帶氣旋並消散，未衝擊中國大陸沿岸。",
+      "url": "https://www.news.cn/20261109/2fece13cac0847a7aac8995b3b65f0dd/c.html"
+    },
+    {
       "rank": 8,
-      "title": "PAGASA示警 年底前菲律賓責任區可能再現颱風「湯瑪斯」",
-      "dek": "菲律賓《每日論壇報》報導，菲律賓氣象機構PAGASA表示年底前至少可能再有一個熱帶氣旋進入該國責任區，將命名為「湯瑪斯」，但尚未生成。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "颱風獎帕卡進入菲律賓責任海域，獲當地命名「薩穆爾」",
+      "dek": "菲律賓大氣地理天文服務管理局表示，該颱風預料不會直接影響菲律賓天氣。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008791/typhoon-cempaka-enters-par-now-called-samuel-pagasa/story"
     },
     {
       "rank": 9,
-      "title": "颱風池貝重創台灣 一人死亡逾六百人受傷",
-      "dek": "據Watchers.news報導，颱風池貝10月22日至24日掠過台灣，造成屏東琉球一人死亡、逾六百人受傷，並使約14.6萬戶停電。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "title": "菲律賓氣象機構：今年底前可能再有一個颱風形成，但無法確定",
+      "dek": "氣候學家蘇利斯表示，強勁厄爾尼諾預料將使菲律賓11月降雨顯著低於正常水準。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 10,
-      "title": "2026年太平洋颶風季創史上最長活躍紀錄",
-      "dek": "據AccuWeather報導，2026年東太平洋與中太平洋颶風季以76.25天的活躍颶風天數打破2018年68.25天的舊紀錄，主因是強烈厄爾尼諾現象。",
-      "url": "https://www.accuweather.com/en/hurricane/pacific-hurricane-activity-ends-after-record-shattering-season-thanks-to-el-nino/1958499"
+      "title": "台灣上月因應今年最強颱風Champi發布陸上颱風警報",
+      "dek": "Champi巔峰風速達每小時296公里，為2026年太平洋颱風季最強風暴，是台灣迄今最近一次發布警報的紀錄。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     }
   ]
 }
