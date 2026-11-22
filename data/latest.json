@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T04:17:00+08:00",
+  "generated_at": "2026-11-23T05:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣天氣持續由東北季風主導，自十月下旬颱風強帕過境後，本島連續近一個月未受颱風直接影響。",
+  "alert_desc": "根據中央氣象署資料，目前無海上或陸上颱風警報生效，最近一次發布颱風警報是去年十月的強颱強帕。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。無活躍熱帶氣旋逼近台灣，台中天氣受東北季風影響，早晚氣溫偏低，未發布任何風雨警戒或停班停課公告；上一次顯著受颱風衝擊是10月下旬的颱風強帕。"
+    "text": "目前無直接影響，台中地區未受任何活動熱帶氣旋或颱風影響，亦無停班停課公告，僅受一般東北季風及鋒面系統影響。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "南太平洋五級氣旋「薇哲」減弱、印度「阿克梵」登陸收尾；台灣本週仍無颱風警報",
-    "dek": "太平洋與印度洋近日相繼出現強烈熱帶氣旋，但中央氣象署資料顯示，台灣本週僅受東北季風影響，未發布任何颱風警報。"
+    "title": "印度、南太平洋颶風肆虐之際 台灣暫無颱風警報壓境",
+    "dek": "中央氣象署表示，東北季風減弱後台灣周末回暖，但全球多個熱帶氣旋仍在印度洋與南太平洋持續肆虐。"
   },
   "headline_body": [
-    "台灣目前仍沒有任何颱風構成威脅。中央氣象署資料顯示，台灣天氣持續由東北季風主導，並非熱帶氣旋；全台未發布海上或陸上颱風警報，台中市也表示「目前無直接影響」，天氣僅是早晚轉涼。這是自10月下旬颱風「強帕」襲台以來，台灣連續近一個月脫離颱風警戒狀態。與此同時，全球其他海域卻接連出現強烈風暴：南太平洋的五級氣旋「薇哲」（Xavier）在庫克群島北部肆虐後開始減弱，印度東岸的強烈氣旋「阿克梵」（Akvan）也已完成登陸。",
-    "儘管台灣本身暫時平靜，西北太平洋的颱風季仍創下三十二年來最活躍的紀錄：今年已出現32個命名颱風，追平1994年以來最高紀錄。多名氣象專家將今年異常活躍的氣旋生成趨勢，歸因於強勁的厄爾尼諾現象，認為其改變了太平洋與印度洋部分海域的氣旋生成區位，並助長了風暴強度。",
-    "根據紐西蘭媒體1News與氣象網站Watchers.news報導，氣旋薇哲11月16日至18日間於庫克群島北部迅速增強，一度達到五級強度，斐濟氣象局估計其陣風達每小時315公里，當局已對馬尼希基（Manihiki）、拉卡漢加（Rakahanga）等島嶼發布強風與暴風警報。1News進一步報導，薇哲19日已減弱為四級，持續在馬尼希基與普卡普卡（Pukapuka）之間移動；斐濟氣象局表示該系統對斐濟並無直接威脅，紐西蘭氣象局則說薇哲北側可能在薩摩亞一帶進一步減弱。",
-    "在南亞，強烈氣旋「阿克梵」於11月20日中午前後在印度安得拉邦與奧里薩邦交界的戈帕爾普爾（Gopalpur）附近登陸。印度氣象局先前曾發布紅色警報，一度預估登陸風速可達每小時145公里，當局在登陸前於沿岸地區展開大規模疏散與防災準備；根據Newkerala報導，氣象模型顯示氣旋登陸前已明顯減弱，但奧里薩邦的強降雨持續到11月21日。阿克梵是安得拉邦一個月內遭遇的第三個氣旋，此前的「阿納布」（Arnab）與「穆拉蘇」（Murasu）已分別在10月下旬與11月初造成人員死亡與財產損失。",
-    "此外，西北太平洋颱風「璨樹」（Cempaka，菲律賓命名「山繆」）11月上旬曾進入菲律賓責任區後北轉減弱，PAGASA預測今年底前責任區內仍可能再有一至兩個熱帶氣旋形成；大西洋颶風季則依舊異常平靜，整季僅出現一個颶風。整體而言，全球熱帶氣旋活動雖在太平洋與印度洋接連出現強烈風暴，對台灣來說，眼下仍是一段颱風空窗期。"
+    "截至11月22日，台灣並未面臨任何颱風威脅，中央氣象署也未發布海上或陸上颱風警報。根據聯合新聞網等媒體報導，近日減弱中的東北季風將使周末氣溫回升，北部日間高溫可達26至27度，中南部則上看29至30度，東部及恆春半島有局部短暫雨。台中地區目前未受任何熱帶系統或鋒面劇烈影響，當局也未發布停班停課公告。",
+    "這股平靜與上個月的景象大不相同。台灣今年最近一次直接遭颱風衝擊，是十月下旬的強颱強帕——中央氣象署當時對19個縣市發布陸上颱風警報，班機與美日聯合軍演均受影響。隨著強帕遠離，加上強烈厄爾尼諾現象改變太平洋氣流型態，台灣因此迎來近一個月的無警戒期。",
+    "與台灣的平靜相比，全球其他地區的風暴活動並未停歇。根據印度媒體OneIndia及Skymet Weather報導，強烈氣旋風暴阿克梵已以每小時90至110公里的風速，於11月20日前後登陸印度安得拉邦北部與奧里薩邦南部沿海，成為一個月內第三個重創同一地區的強烈氣旋。印度氣象局已發布最高等級紅色警報並下令沿海居民疏散，登陸後的具體災情截至目前仍待證實。",
+    "在南太平洋，紐西蘭媒體1News報導，熱帶氣旋薇哲曾在庫克群島北部水域爆發性增強至最高等級的五級，估計持續風速達每小時215公里，預報人員將此罕見偏東路徑歸因於當前強烈的厄爾尼諾現象。世界氣象組織（WMO）在最新季節展望中指出，增強中的厄爾尼諾將使西北太平洋偏乾，南太平洋、尤其是國際日期變更線附近海域的颱風季則可能較往常活躍，與薇哲的異常路徑相符。該氣旋目前已轉弱，預估將在數日內消散。",
+    "菲律賓方面，原先的強颱璨樹（當地命名山繆）已減弱並駛離菲律賓責任區，逐漸於太平洋上消散。菲律賓大氣地理天文服務署先前表示，在厄爾尼諾影響下，今年底前菲律賓海域仍可能再出現最多四個熱帶氣旋。氣象單位目前僅初步留意菲律賓東方一個可能於11月27日前後形成的低壓系統，但預測路徑偏向南海，對台灣直接影響的可能性不高。中央氣象署表示，下一股冷空氣將於11月24日至25日南下，台灣短期內的天氣焦點仍是季風與鋒面變化，而非熱帶氣旋。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋薇哲在庫克群島北部急速增強至五級",
-      "dek": "根據紐西蘭媒體1News與Watchers.news報導，氣旋薇哲11月中旬在庫克群島北部迅速增強，斐濟氣象局指陣風一度達每小時315公里，當局已對多個島嶼發布暴風警報。",
-      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
+      "title": "台灣無颱風警報，東北季風減弱後週末回暖",
+      "dek": "中央氣象署預報東北季風持續減弱，下週前另有一股冷空氣南下，但目前無海上或陸上颱風警報生效。",
+      "url": "https://udn.com/news/story/7266/9389728"
     },
     {
       "rank": 2,
-      "title": "氣旋薇哲持續減弱，穿越庫克群島海域",
-      "dek": "1News報導，薇哲19日已減弱為四級氣旋，斐濟氣象局表示該系統對斐濟無直接威脅，後續路徑預測信心仍偏低。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "title": "回顧十月強颱強帕，台灣最近一次直接受颱風衝擊",
+      "dek": "中央氣象署去年十月對19縣市發布陸上颱風警報應對強颱強帕，為台灣至今最近一次直接遭颱風威脅的紀錄。",
+      "url": "https://focustaiwan.tw/society/202610220006"
     },
     {
       "rank": 3,
-      "title": "專家稱強厄爾尼諾現象助長薇哲異常強度",
-      "dek": "NatureWorldNews報導指出，氣象學者認為今年強勁的厄爾尼諾現象，使南太平洋氣旋生成區較以往偏東，是薇哲異常增強的重要因素。",
-      "url": "https://www.natureworldnews.com/articles/73887/20261117/cyclone-xavier-strengthens-over-northern-cook-islands-el-nino-shifts-storm-zone-east.htm"
+      "title": "氣旋阿克梵登陸印度東岸，一個月內第三度侵襲同一地區",
+      "dek": "印度氣象局預報阿克梵以每小時90至110公里風速登陸安得拉邦與奧里薩邦沿海，為一個月內第三個重創該地區的強烈氣旋。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 4,
-      "title": "強烈氣旋「阿克梵」逼近印度東岸，登陸戈帕爾普爾附近",
-      "dek": "阿克梵在孟加拉灣增強後，於11月20日中午前後在奧里薩邦戈帕爾普爾附近登陸。",
+      "title": "印度氣象局發布最高等級紅色警報，疏散行動展開",
+      "dek": "印度氣象局公告指出阿克梵逼近孟加拉灣中南部海域，已對北安得拉邦、亞南及南奧里薩發布紅色警報，登陸後實際損害仍待確認。",
       "url": "https://www.newsofbahrain.com/en/article/cyclone-akvan-bears-down-on-indias-eastern-coast"
     },
     {
       "rank": 5,
-      "title": "印度氣象局：阿克梵登陸前明顯減弱，豪雨持續至21日",
-      "dek": "Newkerala報導，氣象模型顯示氣旋穿越戈帕爾普爾沿岸時已減弱，奧里薩邦強降雨持續至11月21日。",
-      "url": "https://www.newkerala.com/news/a/severe-cyclone-akvan-likely-weaken-before-landfall-639.htm"
+      "title": "回顧氣旋阿納布，為印度多事之秋揭開序幕",
+      "dek": "半島電視台報導，十月下旬氣旋阿納布造成安得拉邦至少3人死亡，並迫使奧里薩南部逾10萬人疏散。",
+      "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
     },
     {
       "rank": 6,
-      "title": "安得拉邦一個月內三遇氣旋，近乎罕見",
-      "dek": "印度媒體Down To Earth分析指出，安得拉邦在10月至11月間接連遭遇阿納布、穆拉蘇與阿克梵三個氣旋侵襲，情況近乎前所未見。",
-      "url": "https://www.downtoearth.org.in/natural-disasters/a-third-cyclone-could-hit-andhra-pradesh-in-less-than-a-month"
+      "title": "南太平洋氣旋薇哲爆發增強至最高強度五級",
+      "dek": "紐西蘭1News報導，熱帶氣旋薇哲在庫克群島北部迅速增強至五級，預報人員將異常偏東路徑歸因於強烈厄爾尼諾現象。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 7,
-      "title": "颱風璨樹登場，西太平洋今年颱風數追平1994年紀錄",
-      "dek": "璨樹11月7日生成，成為今年第32個命名颱風，追平1994年以來最活躍紀錄。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "薇哲減弱為四級，持續穿越庫克群島",
+      "dek": "1News報導，南太平洋區域專業氣象中心預測薇哲將進一步減弱並於約五天內消散，路徑可能貼近美屬薩摩亞。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 8,
-      "title": "菲律賓氣象局：今年底前責任區仍可能再有新颱風",
-      "dek": "「山繆」（璨樹）離開後，PAGASA預測年底前責任區內還會有一至兩個熱帶氣旋形成。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "強颱璨樹（山繆）減弱出菲律賓責任區",
+      "dek": "GMA新聞報導，強颱璨樹進入菲律賓責任區後曾接近颱風強度，隨後轉向東北加速離開責任區並持續減弱，目前狀態推估已消散。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008791/typhoon-cempaka-enters-par-now-called-samuel-pagasa/story.html"
     },
     {
       "rank": 9,
-      "title": "專家：大西洋颶風季今年異常平靜",
-      "dek": "氣象專家表示，2026年大西洋颶風季累積氣旋能量僅約正常值16%，整季僅出現一個颶風。",
-      "url": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-november-8-2026"
+      "title": "菲律賓氣象署：年底前恐再有至多四個熱帶氣旋生成",
+      "dek": "菲律賓大氣地理天文服務署表示，在強烈厄爾尼諾影響下，十一月預期有一至兩個氣旋，全年底前菲律賓海域仍可能再迎來最多四個熱帶氣旋。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
     },
     {
       "rank": 10,
-      "title": "颱風「強帕」10月重創台灣東北部，是近期唯一直擊台灣的風暴",
-      "dek": "半島電視台報導，強帕造成1人死亡、逾350人受傷，至今仍是台灣本季最近一次颱風警戒事件。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "WMO季節展望：厄爾尼諾增強，南太平洋氣旋季更活躍",
+      "dek": "世界氣象組織指出，強化中的厄爾尼諾現象將使西北太平洋偏乾，同時南太平洋、尤其是日期變更線附近海域的颱風季將較往常活躍。",
+      "url": "https://wmo.int/media/update/global-seasonal-climate-update-november-december-january-2025-2026"
     }
   ]
 }
