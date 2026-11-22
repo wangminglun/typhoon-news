@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T09:10:00+08:00",
+  "generated_at": "2026-11-22T10:14:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報，全台亦無因風災宣布停班停課；本季最後一場襲台風災為10月下旬的颱風薔琵。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣近期僅受東北季風影響，並無熱帶氣旋威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風或熱帶氣旋直接影響台中，中央氣象署並未發布海上或陸上颱風警報，台中市無停班停課措施，屬於目前無直接影響。"
+    "text": "目前無直接影響。台中本週僅受東北季風南下影響，氣溫略降，並無颱風相關風雨衝擊，亦無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,75 +22,75 @@
     }
   ],
   "headline": {
-    "title": "西太平洋暫無活躍颱風 薔琵風災後台灣進入平靜期",
-    "dek": "中央氣象署尚未發布海上或陸上颱風警報，今年西太平洋颱風季已創下本世紀最活躍紀錄，菲律賓氣象機構則預測年底前可能再有一兩個熱帶氣旋生成。"
+    "title": "印度奧迪沙強制撤離逾五萬人　氣旋「阿克梵」登陸孟加拉灣沿岸；台灣目前無颱風警報",
+    "dek": "今年孟加拉灣沿岸一個月內第三度遭強烈氣旋侵襲之際，台灣中央氣象署確認目前並無海上或陸上颱風警報，僅受東北季風影響。"
   },
   "headline_body": [
-    "台灣中央氣象署表示，截至11月22日，目前並無任何颱風或熱帶氣旋直接威脅台灣，海上及陸上颱風警報均未發布，全台也沒有縣市因風災宣布停班停課。這是繼10月下旬颱風薔琵重創全台以來，最為平靜的一段時期。",
-    "隨著今年西太平洋颱風季邁入尾聲，觀測機構Watchers.news指出，本季西太平洋已產生32個颱風，超越2013年的31個紀錄，使2026年成為本世紀以來颱風活動最活躍的一年。最新生成的颱風菫碧（Cempaka）於11月7日形成後，隨即依氣象觀測機構Weathernews的追蹤路徑，在日本以南海域轉向東行，遠離亞洲大陸，未登陸便已在海上消散，未對包括台灣在內的陸地構成威脅。",
-    "颱風薔琵（Champi）是台灣今年秋季遭遇的最後一場重大風災。根據中央社報導，中央氣象署在薔琵接近前已發布陸上颱風警報，警戒範圍一度擴及19個縣市。中央災害應變中心10月24日的最終簡報顯示，薔琵於10月22日至24日為全台帶來強風、暴雨與高浪，造成1人死亡、634人受傷，各地學校與多數店家當時已停止營業。半島電視台（Al Jazeera）與印度全印廣播電台（All India Radio）的報導亦指出，薔琵導致航班大規模取消，部分地區並發生停電。",
-    "展望未來，菲律賓大氣地理天文服務管理局（PAGASA）官員蘇麗莎（Ana Liza Solis）表示，在今年底前，菲律賓責任海域仍可能有至少一個熱帶氣旋形成或進入，甚至增強為颱風強度，下一個獲命名的風暴屆時將稱為「Tomas」。該機構另在11月的氣候展望中預估，本月仍有一至兩個熱帶氣旋形成或進入其責任海域的可能性，並將此現象與今年強烈的厄爾尼諾事件相連結，後者普遍抑制了多個海域的熱帶氣旋發展。大西洋方面，福克斯氣象（Fox Weather）颶風專家諾克羅斯（Bryan Norcross）引述美國國家颶風中心（NHC）的確認指出，大西洋、東太平洋與中太平洋目前均無活躍氣旋，本季大西洋颶風季也不太可能再有新系統發展，顯示全球熱帶氣旋活動正處於普遍趨緩的階段。氣象機構表示，將持續監測周邊海域動態。"
+    "印度東部奧迪沙省與安得拉邦沿岸，週五（11月20日）迎來今年第三個登陸的強烈氣旋「阿克梵」（Akvan）。據印度氣象機構轉述的預報，阿克梵登陸時持續風速達每小時90至100公里，部分陣風估計可達每小時145公里，登陸地點大致落在內洛爾（Nellore）至圖尼（Tuni）、卡林加帕特南（Kalingapatnam）至普里（Puri）一帶的海岸線，不同機構的預測範圍略有出入。",
+    "天氣媒體Skymet Weather與印度新聞網站OneIndia在風暴逼近期間的報導顯示，安得拉邦與奧迪沙兩地官方已提前進入高度戒備狀態，為登陸可能帶來的強風與暴雨做準備。新聞應用NewsBytes的報導則指出，奧迪沙當局在登陸前已撤離逾四萬七千至五萬名居民，並關閉學校、調整火車班次；印度氣象局並對安得拉邦北部、亞南（Yanam）及奧迪沙南部發布紅色警報，警告當地可能出現逾21公分強降雨，以及高達1.2公尺的風暴潮。阿克梵是繼10月下旬的「阿納布」（Arnab）、11月初的「穆拉蘇」（Murasu）之後，一個月內第三個襲擊這段海岸的氣旋，顯示當地今年風季異常活躍。截至本文發稿時，阿克梵登陸後實際造成的人員傷亡或財產損失程度，尚無進一步證實的報告，相關後續情況仍待確認。",
+    "阿克梵的活躍，恰與西北太平洋今年創紀錄的颱風季形成對照。根據氣象網站Watchers.news引述中國氣象局資料的報導，今年第32號颱風「天兔」（Cempaka，菲律賓編號「薩穆爾」）於11月初生成，打破2013年全年31個命名風暴的紀錄，成為本世紀以來西太平洋最活躍的一年，分析普遍將此歸因於強烈厄爾尼諾現象。日本天氣新聞網站Weathernews報導，天兔隨後北轉，約於11月11日在日本以南海域轉化為溫帶氣旋，過程中並未對台灣造成直接影響；菲律賓《每日詢問者報》（Inquirer）此前亦報導天兔曾在菲律賓責任區外增強為颱風。",
+    "菲律賓大氣地理天文服務管理局（PAGASA）透過GMA Network與Tribune.net.ph轉述表示，預料今年11月至年底前，菲律賓責任區內仍可能再有一至兩個熱帶氣旋生成，但受厄爾尼諾影響，11月整體雨量預期將低於往年平均。至於台灣，目前並無颱風直接威脅。中央社（Focus Taiwan）11月中旬以來的多篇報導顯示，台灣近期主要受東北季風南下及鋒面影響，平地氣溫降至攝氏11度左右，高山地區甚至可能降雪。中央氣象署目前並未發布任何海上或陸上颱風警報，上一次發布陸上颱風警報是10月22日針對颱風「樺加沙」（Champi）所發，距今已超過一個月，台灣颱風季現階段維持平靜。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "颱風薔琵逼近　中央氣象署發布陸上颱風警報",
-      "dek": "隨著薔琵持續接近，氣象署預警範圍擴大至19個縣市，籲民眾提前防範強風豪雨。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+      "title": "氣旋「阿克梵」逼近海岸，安得拉邦與奧迪沙進入高度戒備",
+      "dek": "Skymet Weather報導，印度東部沿岸預計21日前後迎來今年第三個登陸氣旋。",
+      "url": "https://www.skymetweather.com/content/monsoon-update/cyclone-akvan-moves-closer-to-coast-andhra-odisha-on-high-alert"
     },
     {
       "rank": 2,
-      "title": "薔琵來襲　多縣市22日停班停課",
-      "dek": "中央社持續更新報導，列出因應颱風薔琵而宣布停班停課的縣市名單。",
-      "url": "https://cna.com.tw/news/ahel/202610225002.aspx"
+      "title": "安得拉邦防範每小時145公里強風，氣旋「阿克梵」預計11月20日登陸",
+      "dek": "OneIndia報導當地政府提前部署，應對阿克梵可能帶來的強風威脅。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 3,
-      "title": "颱風薔琵登陸台灣　造成1死、逾300人受傷",
-      "dek": "薔琵帶來強風豪雨，航班大量取消，當局同步發布警報應對風災衝擊。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "奧迪沙撤離逾五萬人、停課並調整火車班次，應對氣旋「阿克梵」登陸",
+      "dek": "NewsBytes報導印度氣象局發布紅色警報，警告強降雨與風暴潮風險。",
+      "url": "https://www.newsbytesapp.com/news/india/cyclone-akvan-approaches-indian-coasts/story"
     },
     {
       "rank": 4,
-      "title": "薔琵過境後台灣展開復原工作　死傷統計定案",
-      "dek": "中央災害應變中心最終簡報顯示，薔琵造成1人死亡、634人受傷，學校與店家曾全面停止營業。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "title": "鄰國媒體關注氣旋「阿克梵」逼近印度沿岸",
+      "dek": "孟加拉媒體bdnews24報導區域對此次風暴的因應與觀察。",
+      "url": "https://bdnews24.com/neighbours/05v37h7g5o"
     },
     {
       "rank": 5,
-      "title": "薔琵癱瘓交通與供電　多地班機取消、電力中斷",
-      "dek": "印度媒體報導指出，薔琵造成逾500人受傷，並導致台灣部分地區航班停飛與停電。",
-      "url": "https://newsonair.gov.in/typhoon-champi-kills-one-injures-over-500-in-taiwan-disrupts-flights-and-power-supply/"
-    },
-    {
-      "rank": 6,
-      "title": "颱風菫碧生成　創本世紀西太平洋年度颱風數紀錄",
-      "dek": "菫碧成為今年第32個颱風，超越2013年紀錄，使2026年成為本世紀以來颱風活動最活躍的一年。",
+      "title": "颱風「天兔」成為今年西太平洋第32個命名風暴，打破2013年紀錄",
+      "dek": "Watchers.news引述中國氣象局資料，指強烈厄爾尼諾助長今年罕見活躍颱風季。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
-      "rank": 7,
-      "title": "菫碧在日本以南轉向東行　未對陸地構成威脅",
-      "dek": "氣象觀測顯示，颱風菫碧路徑轉向遠離亞洲大陸，隨後在西太平洋海面消散。",
+      "rank": 6,
+      "title": "颱風「天兔」北轉，於日本以南海域轉化為溫帶氣旋",
+      "dek": "日本Weathernews報導天兔結構轉變，未對台灣造成直接影響。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
+      "rank": 7,
+      "title": "颱風「天兔」在菲律賓責任區外增強",
+      "dek": "菲律賓《每日詢問者報》報導天兔當時的強度變化。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
+    },
+    {
       "rank": 8,
-      "title": "菲律賓氣象機構：11月仍可能有1至2個熱帶氣旋形成",
-      "dek": "PAGASA指出，在今年強烈厄爾尼諾現象影響下，菲律賓責任海域本月仍有熱帶氣旋發展的可能性。",
+      "title": "PAGASA預估11月菲律賓責任區內仍可能再生成一至兩個熱帶氣旋",
+      "dek": "GMA Network報導今年已有19個氣旋進入責任區，但厄爾尼諾下11月雨量預期偏低。",
       "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 9,
-      "title": "PAGASA：年底前可能再有颱風生成　下一個將命名為「Tomas」",
-      "dek": "菲律賓氣象官員表示，至少還有一個熱帶氣旋可能在年底前進入該國責任海域，甚至增強為颱風。",
+      "title": "PAGASA：年底前菲律賓責任區仍有可能再生成颱風",
+      "dek": "Tribune.net.ph報導官方對今年剩餘颱風季的展望。",
       "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 10,
-      "title": "美國颶風專家：大西洋颶風季不太可能再有新系統形成",
-      "dek": "美國國家颶風中心確認大西洋、東太平洋及中太平洋均無活躍氣旋，呼應全球熱帶氣旋活動趨緩態勢。",
-      "url": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-november-8-2026"
+      "title": "回顧上一次陸上颱風警報：颱風「樺加沙」掠過台灣東北部，距今已逾一個月",
+      "dek": "馬來西亞《星報》轉引中央社報導，10月22日的警報至今仍是台灣最近一次颱風警報紀錄。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     }
   ]
 }
