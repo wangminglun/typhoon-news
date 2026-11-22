@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T16:10:00+08:00",
+  "generated_at": "2026-11-22T17:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報，台灣周邊海域亦無活躍的熱帶氣旋系統。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報，印度洋氣旋「阿克凡」已登陸減弱、南太平洋氣旋「哈維爾」持續減弱遠離，均對台灣周邊海域無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風或熱帶氣旋直接影響台中，中央氣象署亦未對台中地區發布海上或陸上颱風警報，故無停班停課之虞。"
+    "text": "目前無任何颱風或熱帶氣旋直接影響台中，中央氣象署亦未對台中地區發布海上或陸上颱風警報，近期天氣主要受東北季風影響，無停班停課之虞。"
   },
   "quick_links": [
     {
@@ -22,77 +22,78 @@
     }
   ],
   "headline": {
-    "title": "台灣暫無颱風警報 全球焦點轉向南太平洋與印度洋",
-    "dek": "中央氣象署未發布海上或陸上颱風警報，全球氣象關注轉向南太平洋與印度洋的熱帶風暴。"
+    "title": "全球熱帶氣旋活動趨緩 台灣連四週未受颱風威脅",
+    "dek": "印度奧迪沙邦氣旋阿克凡登陸未釀重大傷亡，南太平洋氣旋哈維爾持續減弱，台灣自強颱璨樹過境後維持無警戒狀態。"
   },
   "headline_body": [
-    "台灣目前未受任何颱風或熱帶氣旋威脅。中央氣象署尚未對台灣本島發布海上或陸上颱風警報，台灣周邊海域亦無活躍的熱帶系統。今年10月下旬襲台的強烈颱風「璨樹」（Typhoon Champi），仍是近期唯一直接衝擊台灣的風暴。",
-    "儘管台灣暫時風平浪靜，全球熱帶氣旋活動卻相當活躍。南太平洋與印度洋同時出現兩個威力強大的風暴系統，而部分氣象專家將今年風暴生成位置的異常偏移，與強勢的厄爾尼諾現象聯繫在一起。",
-    "據紐西蘭「1News」（由紐西蘭電視台TVNZ與廣播電台RNZ聯合報導）11月18日報導，強烈熱帶氣旋「哈維爾」（Xavier）一度增強至等同五級的強度，中心附近最大持續風速達每小時約220公里，瞬間最大陣風更達每小時315公里，直撲庫克群島北部的馬尼希基（Manihiki）、普卡普卡（Pukapuka）與拉卡漢加（Rakahanga）等島嶼；斐濟氣象局形容此次風暴強度與偏東路徑均屬罕見。報導引述預報員分析，此現象與厄爾尼諾導致熱帶氣旋活動帶整體東移有關，相關觀點也見於「Nature World News」11月17日的報導。",
-    "據「1News」11月19日報導，哈維爾已減弱至四級強度，緩慢飄離庫克群島，普卡普卡、納蘇（Nassau）與蘇瓦羅（Suwarrow）等地仍維持強風警戒，馬尼希基島則以停電問題為主要關切。即時追蹤網站zoom.earth顯示，哈維爾風速已降至約每小時185公里，較巔峰時期每小時240公里明顯減弱，位置約在美屬薩摩亞帕果帕果（Pago Pago）東北方870公里處，預料未來24至48小時將持續緩慢減弱。",
-    "在印度洋方面，據環境新聞網站「Down To Earth」11月19日報導，印度氣象局（IMD）預測氣旋「阿克凡」（Akvan）將於11月20日中午前後在奧里薩邦（Odisha）戈帕爾普爾（Gopalpur）附近登陸，登陸風速估計每小時90至130公里，奧里薩邦與安得拉邦（Andhra Pradesh）當局已撤離逾10萬人。另據「Karmactive」報導，印度氣象局已對奧里薩邦沿岸發布紅色警戒，並下令關閉包括普里（Puri）等海灘與觀光景點。阿克凡是印度東岸一個月內面對的第三個氣旋系統，此前「阿納布」（Arnab）與「穆拉蘇」（Murasu）已先後侵襲同一地區，根據「Down To Earth」11月17日至18日的報導；截至本文發稿，尚無阿克凡登陸後確切災情的公開報導。",
-    "至於西北太平洋海域，目前並無新生颱風逼近菲律賓或台灣周邊。據菲律賓大氣地理天文服務管理局（PAGASA）預報員索利斯（Ana Liza Solis）向「GMA Network」表示，今年底前菲律賓責任海域仍可能再有一至兩個熱帶氣旋生成，其中之一或有機會增強為颱風等級，但今年以零颱風收尾也並非不可能；今年以來已有19個熱帶氣旋進入該海域，最近一次是於11月9日進出的颱風「珊瑪」（Samuel/Cempaka）。台灣本次颱風季最近一次受創，仍是半島電視台（Al Jazeera）所報導、10月下旬襲台造成1人死亡、逾350人受傷的強颱璨樹，當時台灣取消全部262班國內航班及逾350班國際航班。氣象觀察人士表示，台灣本島短期內無立即風雨威脅，但太平洋海域動態仍將持續受到監測。"
+    "在印度洋與南太平洋的兩場風暴相繼減弱之際，西太平洋本季颱風生成數量已創下本世紀同期紀錄，但台灣本身已連續多週未受任何熱帶氣旋威脅，中央氣象署目前未發布海上或陸上颱風警報，這是自十月下旬強颱「璨樹」襲台以來最平靜的一段時期。",
+    "從印度東岸到南太平洋庫克群島，全球熱帶氣旋活動呈現降溫而非升溫的態勢。氣象觀察人士指出，儘管西太平洋今年已出現創紀錄的第32個颱風，但多數系統生成地點遠離台灣，對本島並未構成直接威脅。",
+    "據《Deccan Herald》報導，編號「阿克凡」（Akvan）的氣旋於11月20日在安得拉邦與奧迪沙邦交界的戈帕爾普（Gopalpur）附近登陸，以每小時約26公里的速度向西北偏北方向移動。奧迪沙邦災害管理部長表示，儘管登陸後持續降下大雨，該邦至今未傳出重大損害或人員傷亡。該報隨後的報導引述奧迪沙邦首席秘書阿努・加爾格（Anu Garg）的說法稱，此次氣旋並未造成嚴重風害，但強降雨仍在持續；當局已疏散逾30萬至37萬名居民，動用423支救援隊伍，並開放超過9300座氣旋庇護所。《The Hans India》的報導則補充，登陸前後約有69班列車因天候因素停駛。",
+    "在阿克凡逼近之前，據《人民網》與印度媒體Oneindia報導，印度氣象局曾預測其巔峰風速可達每小時145公里，是一個月內第三個威脅安得拉邦—奧迪沙邦海岸的氣旋系統；《Outlook India》則報導，奧迪沙邦政府在風暴逼近普里—納爾薩普爾（Puri-Narsapur）沿岸之前，已緊急疏散近4.7萬名居民。",
+    "在南太平洋，據紐西蘭媒體《1News》報導，氣旋「哈維爾」（Xavier）於11月17日至18日間一度增強為最高強度的五級風暴，中心附近持續風速達每小時215公里，陣風一度飆升至每小時295至315公里，重創庫克群島北部馬尼希基（Manihiki）等環礁。斐濟氣象局數據顯示，哈維爾至11月19日已緩慢減弱為四級風暴，持續朝馬尼希基與普卡普卡（Pukapuka）之間海域移動，當地仍維持強風警戒，馬尼希基碼頭與電力設施的受損情況尚待確認。",
+    "至於西太平洋，據《Watchers.News》報導，今年第32號颱風「軍曹魚」（Cempaka）雖於11月7日生成，打破本世紀同期最多颱風生成數紀錄，但其路徑始終遠離台灣——最接近關島時仍相距約1570公里——美國聯合颱風警報中心已於11月11日發布最後一次警報後將其除名。台灣最近一次直接受到颱風衝擊，是10月下旬的強颱「璨樹」（Champi），據半島電視台報導，該颱風造成1人死亡、約350人受傷，逾28萬戶一度停電。",
+    "氣象專家表示，隨著東北季風逐漸主導台灣周邊天氣型態，加上現有熱帶系統均已遠離陸地或持續減弱，短期內本島出現新颱風威脅的機率偏低，但西太平洋今年異常活躍的生成模式，仍值得在冬季持續留意後續變化。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "哈維爾減弱至四級 緩慢飄離庫克群島",
-      "dek": "據1News報導，哈維爾在庫克群島北部減弱為四級，多地仍維持強風警戒。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "title": "奧迪沙免重大災情",
+      "dek": "據《Deccan Herald》報導，氣旋阿克凡登陸後奧迪沙邦雖持續降雨，但未傳出重大損害或人員傷亡。",
+      "url": "https://www.deccanherald.com/india/odisha/no-major-damage-loss-of-life-in-odisha-due-to-cyclone-akvan-heavy-rain-lashes-state-4224959"
     },
     {
       "rank": 2,
-      "title": "哈維爾增強至五級 重創庫克群島北部",
-      "dek": "據1News報導，哈維爾風速達每小時220公里、陣風315公里，狠襲庫克群島北部島嶼。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "首席秘書證實無重大風害",
+      "dek": "據《Deccan Herald》報導，奧迪沙邦首席秘書阿努・加爾格表示氣旋阿克凡未造成嚴重風害，當局已疏散逾30萬人並啟用逾9300座庇護所。",
+      "url": "https://www.deccanherald.com/india/odisha/cyclone-akvan-no-major-damage-loss-of-life-in-odisha-says-minister-4225296"
     },
     {
       "rank": 3,
-      "title": "厄爾尼諾致風暴帶東移 哈維爾路徑罕見",
-      "dek": "據Nature World News報導，預報員指厄爾尼諾使熱帶氣旋生成位置明顯偏東。",
-      "url": "https://www.natureworldnews.com/articles/73887/20261117/cyclone-xavier-strengthens-over-northern-cook-islands-el-nino-shifts-storm-zone-east.htm"
+      "title": "69班列車取消",
+      "dek": "據《The Hans India》報導，氣旋阿克凡登陸後奧迪沙邦未見人員傷亡，但沿海大雨導致約69班列車停駛。",
+      "url": "https://www.thehansindia.com/odisha/no-major-damage-loss-of-life-in-odisha-due-to-cyclone-akvan-heavy-rain-lashes-state-1143961"
     },
     {
       "rank": 4,
-      "title": "即時追蹤：哈維爾持續減弱並緩慢南移",
-      "dek": "zoom.earth即時資料顯示，哈維爾風速降至每小時185公里，正緩慢減弱。",
-      "url": "https://zoom.earth/storms/xavier-2027/"
+      "title": "一月內第三個氣旋威脅",
+      "dek": "據《人民網》報導，阿克凡逼近時印度氣象局預測風速可達每小時145公里，為一個月內第三個威脅安得拉邦—奧迪沙邦海岸的氣旋。",
+      "url": "https://en.people.cn/n3/2026/1119/c90000-20520806.html"
     },
     {
       "rank": 5,
-      "title": "印度奧里薩邦撤離逾10萬人迎戰氣旋阿克凡",
-      "dek": "據Down To Earth報導，印度氣象局預測阿克凡將於戈帕爾普爾附近登陸。",
-      "url": "https://www.downtoearth.org.in/natural-disasters/odisha-braces-for-severe-cyclonic-storm-akvan-evacuates-over-01-million-people"
+      "title": "氣象局預警145公里強風",
+      "dek": "據印度媒體Oneindia報導，印度氣象局預測氣旋阿克凡登陸時風速將達每小時145公里，安得拉邦沿海居民已展開疏散。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 6,
-      "title": "印度對奧里薩邦沿岸發布紅色警戒",
-      "dek": "據Karmactive報導，阿克凡登陸點北移，當局撤離8萬人並關閉普里海灘。",
-      "url": "https://www.karmactive.com/?p=285992"
+      "title": "疏散近4.7萬居民",
+      "dek": "據《Outlook India》報導，氣旋阿克凡逼近普里—納爾薩普爾沿岸前，奧迪沙邦已疏散近4.7萬名居民。",
+      "url": "https://www.outlookindia.com/national/odisha-evacuates-nearly-47000-as-severe-cyclonic-storm-akvan-nears-puri-narsapur-coast"
     },
     {
       "rank": 7,
-      "title": "阿克凡成印度東岸一個月內第三個氣旋",
-      "dek": "據Down To Earth報導，阿克凡尾隨阿納布、穆拉蘇接連侵襲印度東岸。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
+      "title": "哈維爾增強至五級風暴",
+      "dek": "據紐西蘭《1News》報導，氣旋哈維爾一度增強為五級風暴，以每小時215公里持續風速重創庫克群島北部馬尼希基等環礁。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 8,
-      "title": "強颱璨樹襲台致1死逾350傷 為最近一次",
-      "dek": "據半島電視台報導，璨樹10月襲台致上百航班取消，為台灣近期唯一受創颱風。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "哈維爾緩慢減弱為四級",
+      "dek": "據紐西蘭《1News》報導，哈維爾已減弱為四級風暴，馬尼希基碼頭與電力設施受損情況仍待確認。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 9,
-      "title": "PAGASA：年底前菲律賓海域或再生1至2熱帶氣旋",
-      "dek": "據GMA Network報導，預報員索利斯稱不排除有系統增強為颱風。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "創紀錄32號颱風消散",
+      "dek": "據《Watchers.News》報導，今年第32號颱風「軍曹魚」打破本世紀同期生成數紀錄，但路徑遠離台灣，已於11月11日除名。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 10,
-      "title": "巴哈馬外海低壓系統發展機率升至六成",
-      "dek": "據rustourismnews引述NHC報導，該系統與台灣及太平洋局勢無關。",
-      "url": "https://www.rustourismnews.com/?p=151946"
+      "title": "強颱璨樹釀一死",
+      "dek": "據半島電視台報導，台灣上一次遭颱風直接衝擊是10月下旬的強颱璨樹，造成1人死亡、約350人受傷，逾28萬戶停電。",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     }
   ]
 }
