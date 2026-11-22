@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T18:10:00+08:00",
+  "generated_at": "2026-11-22T19:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報，這是自10月下旬強颱「璨樹」襲台以來連續第四週無颱風威脅；全球僅印度洋氣旋「艾克凡」與南太平洋氣旋「哈維爾」仍在活動，均已減弱且對台灣周邊海域無直接威脅。",
+  "alert_desc": "中央氣象署目前未對台灣本島發布海上或陸上颱風警報，台灣天氣由東北季風主導；全球僅南太平洋強烈氣旋「賽維爾」近日曾達最高強度，其最新動向仍待確認，對台灣周邊海域無直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風或熱帶氣旋直接影響台中，中央氣象署亦未對台中地區發布海上或陸上颱風警報，近期天氣主要受東北季風冷空氣影響，無停班停課之虞。"
+    "text": "目前無任何颱風或熱帶氣旋直接影響台中，中央氣象署亦未對台中地區發布海上或陸上颱風警報，近期天氣主要受東北季風影響，無停班停課之虞。"
   },
   "quick_links": [
     {
@@ -22,76 +22,77 @@
     }
   ],
   "headline": {
-    "title": "今年西太平洋颱風數創本世紀新高，台灣目前無颱風威脅",
-    "dek": "雖然全球仍有兩個熱帶氣旋在印度洋與南太平洋活動，但台灣當前天氣由東北季風主導，中央氣象署未發布任何海上或陸上颱風警報。"
+    "title": "2026西北太平洋颱風季創紀錄落幕　台灣目前無颱風警戒",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報、台中未受影響，而南太平洋強烈氣旋賽維爾動向仍待確認，菲律賓氣象機構則預期年底前責任區內還會有系統生成。"
   },
   "headline_body": [
-    "截至11月22日，台灣中央氣象署未對任何颱風發布海上或陸上警報，這是自上月底颱風璨樹襲台以來，本島連續第四週處於無颱風威脅狀態。最近一次、也是目前唯一確認的颱風警報，是氣象署於10月22日針對璨樹發布的陸上警報；根據《Focus Taiwan》報導，該警報預估北部及東北部地區降雨量將達900毫米。據《Watchers.News》報導，璨樹以減弱後的超級颱風姿態掠過台灣，根據台灣中央災害應變中心統計，造成1人死亡、逾500人受傷，並導致大量航班取消與停電、路樹傾倒。",
-    "儘管台灣本島暫無颱風之憂，全球熱帶氣旋活動並未停歇。據印度媒體《Down To Earth》報導，強烈氣旋風暴「艾克凡」（Akvan）逼近印度東岸，印度氣象局預測其於11月20日中午前後在奧里薩邦戈帕爾普爾附近登陸，陣風估計達每小時110公里，是數週內第三個威脅安得拉邦與奧里薩邦沿海的氣旋。孟加拉《The Financial Express》報導則指出，當地氣象局已對四座海港發布3號警戒信號，防範艾克凡可能帶來的降雨與沿岸暴潮，儘管該氣旋預測路徑主要指向印度而非孟加拉。",
-    "南太平洋方面，根據紐西蘭《1News》報導，熱帶氣旋「哈維爾」（Xavier）在掃過庫克群島北部後逐漸減弱，曾依斐濟氣象局數據一度逼近五級強度、陣風高達每小時315公里；《Watchers.News》報導指出，馬尼希基與拉卡漢加等島嶼先前曾發布強風警報。預報人員預期哈維爾續朝薩摩亞方向減弱移動，但後續路徑信心度偏低。",
-    "今年西北太平洋颱風活動則異常活躍。據《Watchers.News》報導，11月上旬生成的颱風「軍曹魚」（Cempaka，菲律賓命名Samuel）成為今年第32個颱風，超越2013年31個的紀錄，為本世紀以來最多，但其路徑轉向日本南方海域，未對台灣或菲律賓構成威脅。新華網報導，中國國家氣候中心將今年颱風數異常偏多歸因於強勁的厄爾尼諾現象，以及副熱帶高壓位置較常年偏北約兩個緯度；僅7月至10月便生成23個颱風，其中6個達超級颱風強度。菲律賓《Tribune.net.ph》報導，該國氣象局PAGASA預估年底前仍可能有一至四個系統進入菲律賓責任區，下一個系統將被命名為「Tomas」。",
-    "至於台灣本島，近期天氣主要受連續東北季風冷空氣影響，中央氣象署及相關報導顯示中北部低溫一度逼近攝氏14度，台中等地亦僅受季節性冷氣團影響，並無任何颱風相關停班停課措施。"
+    "台灣中央氣象署目前未發布海上颱風警報或陸上颱風警報，西太平洋及周邊海域沒有颱風直接威脅台灣本島，台中地區也未受任何風雨系統影響。氣象署資料顯示，近日台灣受東北季風影響而降溫、轉雨，與颱風系統無關。",
+    "這是台灣入秋以來少見的「全無警戒」狀態。根據公視新聞網（PTS）報導，中央氣象署上一次發布颱風警報是在10月下旬，因應當時的第29號颱風「薔琵」（Chiang-pi）：先於夜間發布海上警報，翌日中午前後再發布陸上警報。此後，氣象署未再對任何系統發布颱風警報。",
+    "儘管台灣本島平靜，太平洋其他海域的風暴活動仍相當活躍。紐西蘭媒體《1News》報導，南太平洋熱帶氣旋「賽維爾」（Cyclone Xavier）本月17日至18日增強至最高強度的第五級，以陣風時速315公里襲擊庫克群島北部馬尼希基島（Manihiki），為本季南太平洋最強烈的風暴。《1News》19日的後續報導指出，賽維爾隨後緩慢減弱至第四級，持續在馬尼希基與普卡普卡（Pukapuka）之間移動，普卡普卡、納蘇（Nassau）等地仍維持強風警報。由於目前尚無更新的追蹤報告，賽維爾本週的確切狀態仍無法確認。氣象網站Watchers.News與《Nature World News》的報導並指出，強烈厄爾尼諾現象是今年南太平洋氣旋生成位置偏東、強度偏強的重要因素。",
+    "與此同時，2026年西北太平洋颱風季即將以歷史紀錄收尾。據Watchers.News報導，本月7日生成的第32號颱風「圍帕卡」（Cempaka）已超越2013年創下的31個颱風紀錄，成為1994年以來最活躍的西北太平洋颱風季，氣象界普遍將此歸因於強烈厄爾尼諾現象。日本氣象企業Weathernews分析指出，圍帕卡隨後轉向東行並逐漸減弱，僅短暫對日本南方離島海域構成風浪威脅。",
+    "菲律賓大氣地球物理與天文服務署（PAGASA）則預期情況尚未完全平息。《GMA News》與《Tribune.net.ph》報導，PAGASA氣候學家索利斯（Ana Liza Solis）表示，年底前菲律賓責任區內仍可能有一至兩個熱帶氣旋生成或進入，其中部分有機會達到颱風強度，可能登陸比科爾、東維薩亞斯或卡拉加等地區，但也有系統可能轉向外海而不登陸。",
+    "至於南半球，世界氣象組織（WMO）引述法國氣象局雷尼翁分部（Météo-France La Réunion）的區域展望指出，受強烈厄爾尼諾及負相位印度洋副熱帶偶極影響，西南印度洋2026至2027年氣旋季活動預計將低於平均水準。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "強颱艾克凡登陸印度東岸",
-      "dek": "據《Down To Earth》報導，強烈氣旋風暴艾克凡預計於11月20日登陸印度奧里薩邦，是數週內第三個威脅當地沿海的氣旋。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
+      "title": "賽維爾增至五級　重創庫克群島",
+      "dek": "據《1News》報導，熱帶氣旋賽維爾17日至18日增強至最高強度的第五級，以時速315公里陣風襲擊庫克群島北部馬尼希基島。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 2,
-      "title": "孟加拉港口戒備艾克凡",
-      "dek": "據孟加拉《The Financial Express》報導，當局已對四座海港發布3號警戒信號，防範氣旋艾克凡可能帶來的降雨與沿岸暴潮。",
-      "url": "https://thefinancialexpress.com.bd/national/ports-on-alert-as-cyclone-akvan-moves-across-bay-of-bengal"
-    },
-    {
-      "rank": 3,
-      "title": "氣旋哈維爾庫克群島減弱",
-      "dek": "據紐西蘭《1News》報導，一度逼近五級強度的熱帶氣旋哈維爾掃過庫克群島北部後持續減弱，預期將朝薩摩亞方向移動。",
+      "title": "賽維爾減弱至四級　逼近薩摩亞",
+      "dek": "《1News》19日報導指出，賽維爾已緩慢減弱至第四級，持續在馬尼希基與普卡普卡之間移動，多地仍維持強風警報。",
       "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
-      "rank": 4,
-      "title": "哈維爾曾達五級強度",
-      "dek": "據《Watchers.News》報導，氣旋哈維爾在庫克群島北部迅速增強，依斐濟氣象局數據一度達到五級強度，陣風達每小時315公里。",
+      "rank": 3,
+      "title": "賽維爾增強至二級　庫克群島發警報",
+      "dek": "根據Watchers.News報導，賽維爾16日增強至第二級，促使馬尼希基與拉卡漢加發布強風警報，隨後兩天內迅速增強。",
       "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
+      "rank": 4,
+      "title": "厄爾尼諾東移風暴帶　庫克群島受衝擊",
+      "dek": "《Nature World News》報導指出，強烈厄爾尼諾使南太平洋氣旋活動範圍較往年偏東，庫克群島因而更直接暴露於風暴路徑。",
+      "url": "https://www.natureworldnews.com/articles/73887/20261117/cyclone-xavier-strengthens-over-northern-cook-islands-el-nino-shifts-storm-zone-east.htm"
+    },
+    {
       "rank": 5,
-      "title": "軍曹魚創本世紀新高",
-      "dek": "據《Watchers.News》報導，颱風軍曹魚成為今年第32個西北太平洋颱風，超越2013年紀錄，但路徑轉向未威脅台灣。",
+      "title": "圍帕卡創紀錄　成今年第32颱",
+      "dek": "Watchers.News報導，第32號颱風圍帕卡本月7日生成，超越2013年31個颱風的舊紀錄，成為1994年以來最活躍颱風季。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 6,
-      "title": "今年颱風數創本世紀紀錄",
-      "dek": "新華網報導，中國國家氣候中心指出強厄爾尼諾與副熱帶高壓偏北，是今年颱風數異常偏多的主因，7至10月已生成23個颱風。",
-      "url": "https://www.news.cn/20261109/2fece13cac0847a7aac8995b3b65f0dd/c.html"
+      "title": "圍帕卡轉向東行　日本離島受擾",
+      "dek": "日本氣象企業Weathernews報導，圍帕卡預計10日前後達到巔峰強度後轉向東行並逐漸減弱，僅短暫影響日本南方離島海域。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 7,
-      "title": "PAGASA預告年底前再有颱風",
-      "dek": "菲律賓《Tribune.net.ph》報導，氣象局PAGASA預估年底前還可能有一至四個系統進入菲律賓責任區，下一個將命名為「Tomas」。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "薔琵海陸警齊發　台灣上次戒備",
+      "dek": "公視新聞網（PTS）報導，中央氣象署10月下旬為第29號颱風薔琵發布海上警報，翌日再發布陸上警報，為台灣迄今最近一次颱風警戒。",
+      "url": "https://news.pts.org.tw/article/832432"
     },
     {
       "rank": 8,
-      "title": "強颱璨樹致一死逾500傷",
-      "dek": "據《Watchers.News》報導，颱風璨樹掠過台灣，依中央災害應變中心統計造成1人死亡、逾500人受傷，並重創電力與航空運輸。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "title": "PAGASA預估11月再有一兩氣旋",
+      "dek": "《GMA News》報導，菲律賓氣象機構PAGASA預測11月責任區內可能有一到兩個熱帶氣旋生成或進入，部分可能登陸比科爾等地區。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 9,
-      "title": "氣象署曾發陸上颱風警報",
-      "dek": "據《Focus Taiwan》報導，中央氣象署曾為颱風璨樹發布陸上警報，預估東北部降雨量達900毫米，為近期唯一確認的颱風警報。",
-      "url": "https://focustaiwan.tw/society/202610220006"
+      "title": "PAGASA：年底前恐再生颱風",
+      "dek": "《Tribune.net.ph》報導，PAGASA氣候學家索利斯表示，在強烈厄爾尼諾影響下，年底前菲律賓責任區仍可能有系統增強為颱風。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 10,
-      "title": "東北季風主導台灣天氣",
-      "dek": "綜合《Focus Taiwan》與TVBS氣象報導，台灣近期受連續東北季風冷空氣影響，中北部低溫逼近攝氏14度，未見颱風威脅。",
-      "url": "https://focustaiwan.tw/society/202611150011"
+      "title": "厄爾尼諾壓抑西南印度洋氣旋季",
+      "dek": "世界氣象組織（WMO）引述法國氣象局雷尼翁分部展望指出，受強烈厄爾尼諾影響，西南印度洋2026至2027年氣旋季活動預計低於平均。",
+      "url": "https://wmo.int/ar/node/39194"
     }
   ]
 }
