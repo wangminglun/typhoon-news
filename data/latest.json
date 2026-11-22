@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:12:00+08:00",
+  "generated_at": "2026-11-22T08:11:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
   "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣現正受東北季風影響，並無熱帶氣旋威脅。",
@@ -22,75 +22,75 @@
     }
   ],
   "headline": {
-    "title": "印度東岸戒備氣旋艾克凡、庫克群島遭強颶風札維爾重創　台灣目前無颱風警報",
-    "dek": "中央氣象署未發布任何海上或陸上颱風警報，台中僅受東北季風影響；全球氣象焦點則集中在印度東岸的氣旋艾克凡與南太平洋庫克群島的颶風級氣旋札維爾。"
+    "title": "氣旋「阿克凡」登陸印度奧里薩邦，逾十五萬人撤離；台灣本島目前無颱風警報",
+    "dek": "中央氣象署證實台灣目前未發布任何海上或陸上颱風警報，台中亦未受影響，全球熱帶氣旋活動本週轉向印度洋與南太平洋。"
   },
   "headline_body": [
-    "截至台灣時間11月21日深夜彙整的最新報導，並無任何熱帶氣旋直接威脅台灣，中央氣象署（CWA）也未對本島發布海上或陸上颱風警報。這是自10月23日颱風「強比」（Champi）登陸以來，台灣連續近一個月未受颱風直接影響的平靜期；根據半島電視台（Al Jazeera）報導，強比當時造成1人死亡、數百人受傷（各方統計在350人至逾500人之間），至今仍是最近一個直接襲台的颱風。在地方層面，台中目前無任何颱風相關停班停課措施，僅受季節性東北季風影響。",
-    "儘管台灣本島暫無警戒，全球熱帶氣旋活動並未停歇，焦點轉向南亞與南太平洋兩個系統。印度氣象部門（IMD）的預報顯示，強烈氣旋風暴「艾克凡」（Akvan）預計將在減弱後，於11月20日中午左右登陸安得拉邦北部與奧里薩邦南部交界的古帕爾普爾（Gopalpur）附近，登陸時風速約為每小時90至110公里，印度新聞網站NewKerala.com引述預報指出，較早期預測相比，造成嚴重損害的風險已有所降低。印度全球災害預警協調系統（GDACS）11月16日曾發布橙色警示，估計約2080萬人暴露於熱帶風暴等級風力範圍內。環保媒體Down To Earth報導，奧里薩邦當局在登陸前已疏散逾10萬名居民（不同時間點統計數字在7.2萬至12萬人以上不等），並將六個行政區列為紅色警戒。氣象網站Watchers.news指出，各機構對艾克凡登陸地點的預測路徑略有差異，部分修正集中於卡林加帕特南至普里、古帕爾普爾一帶。需特別說明的是，截至本次彙整，尚無艾克凡登陸後最新災情的確認消息，其實際登陸結果目前仍待後續報導證實。",
-    "另一方面，紐西蘭媒體1News報導，颶風級氣旋「札維爾」（Xavier）11月18日在庫克群島北部一度增強至最高強度第五級，陣風據斐濟氣象局數據估計高達每小時315公里，馬尼希基（Manihiki）等島嶼受創最重，電力供應成為當地主要隱憂。該系統隨後緩慢減弱至第四級，1News 11月19日報導其移動於馬尼希基與普卡普卡（Pukapuka）之間，普卡普卡、納蘇（Nassau）與蘇瓦羅（Suwarrow）等地仍維持強風警戒。",
-    "西北太平洋方面，氣象網站Watchers.news指出，颱風「錢帕卡」（Cempaka）於11月初生成，成為2026年第32個命名風暴，超越2013年的31個，創下21世紀以來最活躍紀錄；據日本氣象廳（JMA）路徑預測，該颱風已北轉遠離陸地。中央社（Focus Taiwan）先前報導，當時仍為熱帶風暴等級的錢帕卡距鵝鑾鼻約1690公里，氣象署預報員表示其將轉向東北，對台灣無直接威脅。菲律賓大氣地球物理和天文服務管理局（PAGASA）則預測，11月全月進入菲律賓責任海域的熱帶氣旋僅有一至兩個，顯示該月整體活動偏少，根據GMA News報導。"
+    "強烈氣旋風暴「阿克凡」（Akvan）於11月20日上午登陸印度東部奧里薩邦哥帕浦（Gopalpur）港附近，登陸時間較印度氣象局原先預估提前數小時。根據印度環境新聞網站Down To Earth報導，這是奧里薩邦自1995年以來首次在11月出現颱風登陸紀錄，當地政府已對沿海多個縣發布紅色警戒。印度媒體ETV Bharat報導，風暴引發的強降雨導致貝爾哈姆普爾（Berhampur）市區嚴重積水，逾69班列車取消或改班，甘賈姆縣（Ganjam）單一縣份即撤離約15萬居民。印度官方統計顯示，奧里薩邦全境撤離人數已超過7萬2千人，並啟用約7900處避難收容所應對預估9至14公尺的滔天巨浪與最高1.2公尺的暴潮。",
+    "儘管南亞風災持續擴大，台灣本島目前並未面臨任何颱風威脅。中央氣象署並未對台灣發布海上颱風警報或陸上颱風警報，台中地區也沒有停班停課或任何風雨特報。目前台灣天氣主要受東北季風與鋒面影響，氣溫轉涼，與熱帶氣旋並無關聯。本季唯一直接襲台的颱風「強比」（Champi）已於10月下旬遠離，最終造成1人死亡、634人受傷，農業損失約新台幣1億9332萬元。11月初形成的輕度颱風「錢帕卡」（Cempaka）雖一度在菲律賓海增強，但隨即在日本以南海域轉向東行並減弱，距離鵝鑾鼻南端最遠時仍有約1690公里，未對台灣構成任何威脅。",
+    "全球視角來看，熱帶氣旋活動目前明顯遠離東亞。南太平洋方面，強烈熱帶氣旋「賈維爾」（Xavier）上週一度在庫克群島北部增強至近五級強度，紐西蘭國家廣播機構TVNZ引述斐濟氣象局數據指出，其陣風曾達每小時315公里，重創馬尼希基（Manihiki）與拉卡漢加（Rakahanga）兩島；紐西蘭氣象局MetService隨後表示，賈維爾已逐漸減弱並轉向薩摩亞方向移動，預期不會威脅紐西蘭或斐濟。萬那杜氣象與地質災害部門則在最新公告中指出，其責任海域目前「沒有活躍氣旋」，未來五天內形成新氣旋的機率「偏低」。",
+    "整體而言，本週全球熱帶氣旋焦點集中於印度洋（阿克凡登陸後的災情復原）與南太平洋（賈維爾減弱過程），西太平洋及台灣周邊海域則暫時平靜。氣象專家提醒，阿克凡登陸後的確切傷亡與財損數字尚待印度官方進一步公布。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "颶風級氣旋札維爾增強至最高強度　重創庫克群島北部",
-      "dek": "紐西蘭媒體1News報導，氣旋札維爾達到第五級強度，陣風估計達每小時315公里，馬尼希基等島嶼電力供應受創。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "氣旋阿克凡登陸奧里薩邦哥帕浦　創31年來11月首見紀錄",
+      "dek": "印度氣象局原訂於正午公布登陸，但阿克凡實際提前於當天上午抵達海岸，奧里薩邦沿海多縣已發布紅色警戒。",
+      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-springs-a-surprise-on-odisha"
     },
     {
       "rank": 2,
-      "title": "氣旋札維爾緩慢減弱　庫克群島北部強風警戒持續",
-      "dek": "1News報導，札維爾降為第四級後持續減弱，普卡普卡、納蘇與蘇瓦羅等地仍維持強風警告。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "title": "阿克凡引發貝爾哈姆普爾積水　逾69班列車取消",
+      "dek": "印度鐵路部門因強降雨大規模調整班表，甘賈姆縣單一縣份即疏散約15萬居民。",
+      "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
     },
     {
       "rank": 3,
-      "title": "印度氣象部門預測氣旋艾克凡將於登陸前減弱",
-      "dek": "NewKerala.com報導，印度氣象部門預估艾克凡登陸奧里薩、安得拉邦交界前風力減弱，風速約每小時90至110公里。",
-      "url": "https://www.newkerala.com/news/a/severe-cyclone-akvan-likely-weaken-before-landfall-639.htm"
+      "title": "奧里薩邦登陸前撤離逾7萬2千人",
+      "dek": "當地政府啟用近7900處避難所，應對預估9至14公尺巨浪與暴潮威脅。",
+      "url": "https://www.newkerala.com/news/a/odisha-braces-cyclone-akvan-72000-people-evacuated-so-856.htm"
     },
     {
       "rank": 4,
-      "title": "奧里薩邦疏散逾10萬人應對氣旋艾克凡",
-      "dek": "環保媒體Down To Earth報導，奧里薩邦當局在艾克凡登陸前疏散大量沿海居民，六個行政區列入紅色警戒。",
-      "url": "https://www.downtoearth.org.in/natural-disasters/odisha-braces-for-severe-cyclonic-storm-akvan-evacuates-over-01-million-people"
+      "title": "氣旋賈維爾掠過庫克群島北部後減弱至四級",
+      "dek": "紐西蘭媒體報導，賈維爾在馬尼希基與普卡普卡之間移動時緩慢減弱，當地仍維持強風警戒。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 5,
-      "title": "氣旋艾克凡預計11月20日中午登陸印度東岸",
-      "dek": "氣象網站Watchers.news指出，各機構預測路徑略有差異，登陸點可能落在內洛爾至維沙卡帕特南之間。",
-      "url": "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+      "title": "賈維爾一度增強至五級強度　重創庫克群島北部",
+      "dek": "斐濟氣象局數據顯示陣風一度達每小時315公里，居民憂心重演1997年風災慘況。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 6,
-      "title": "GDACS對熱帶氣旋艾克凡發布橙色警示",
-      "dek": "全球災害預警協調系統估計約2080萬人暴露於熱帶風暴等級風力範圍內，示警等級為橙色。",
-      "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
+      "title": "紐西蘭氣象局：賈維爾將持續減弱並轉向薩摩亞",
+      "dek": "預報顯示風暴對紐西蘭與斐濟均無威脅，但可能為薩摩亞及紐埃帶來降雨。",
+      "url": "https://pmn.co.nz/read/pacific-region/cyclone-xavier-set-to-strengthen-to-category-4-near-cook-islands"
     },
     {
       "rank": 7,
-      "title": "颱風錢帕卡成為2026年第32個命名風暴　創本世紀紀錄",
-      "dek": "Watchers.news報導，西北太平洋今年風暴數量超越2013年的31個紀錄，JMA預測錢帕卡將北轉減弱。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "輕度颱風錢帕卡轉向日本以南海域　未威脅台灣",
+      "dek": "氣象業者報告指出，該系統全程距台灣鵝鑾鼻南端逾1690公里，11月中已減弱為熱帶性低氣壓。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 8,
-      "title": "PAGASA預測11月菲律賓責任海域僅1至2個熱帶氣旋",
-      "dek": "菲律賓氣象機構GMA News引述預測，本月進入菲律賓責任海域的熱帶氣旋活動相對偏少。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "颱風強比襲台最終統計：1死634傷",
+      "dek": "本季唯一直接襲台颱風「強比」（Champi）造成農損逾新台幣1.93億元，目前仍是最近一次襲台紀錄。",
+      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
     },
     {
       "rank": 9,
-      "title": "颱風強比襲台　1人死亡逾500人受傷　為近期最後一次襲台紀錄",
-      "dek": "半島電視台報導，強比10月下旬襲台造成死傷，至今仍是台灣最近一次直接受颱風影響的紀錄。",
-      "url": "https://www.aljazeera.com/amp/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "氣旋阿爾納布重創印度東岸　逾十萬人撤離",
+      "dek": "半島電視台報導，阿爾納布是本季第三個襲擊印度東岸的氣旋，凸顯北印度洋罕見活躍的風季。",
+      "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
     },
     {
       "rank": 10,
-      "title": "熱帶風暴錢帕卡距台約1690公里　氣象署稱無直接威脅",
-      "dek": "中央社報導，氣象署預報員指出錢帕卡將轉向東北遠離台灣，未對本島構成直接威脅。",
-      "url": "https://focustaiwan.tw/society/202611080013"
+      "title": "萬那杜氣象部門：目前無活躍氣旋　形成機率偏低",
+      "dek": "官方最新公告顯示，南太平洋萬那杜海域暫時平靜，印證熱帶氣旋活動集中於庫克群島與孟加拉灣。",
+      "url": "https://www.vmgd.gov.vu/tropical-cyclone-outlook"
     }
   ]
 }
