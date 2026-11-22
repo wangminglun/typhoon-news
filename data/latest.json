@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T14:12:00+08:00",
+  "generated_at": "2026-11-22T15:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣本島暫無颱風或熱帶氣旋威脅，僅因東北季風增強對十縣市發布強風特報，與颱風無關。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；台灣近日天氣主要受東北季風影響，並無任何颱風或熱帶氣旋威脅本島或鄰近海域。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何颱風或熱帶氣旋直接影響台中。中央氣象署已針對臺中市等十縣市發布黃色強風特報，因東北季風增強，11月21日午後至22日夜間風力可達六級以上、瞬間風力八級以上，但此特報與颱風無關，台中無因颱風而停班停課。"
+    "text": "目前無任何颱風或熱帶氣旋直接影響台中。台灣近日天氣主要受東北季風影響，本週末東北季風減弱、氣溫回升，台中白天高溫可回升至29至30度；未發現中央氣象署對台中發布強風或豪雨特報，亦無停班停課公告。下一波東北季風預計下週一（約11月25至27日）影響北部及宜蘭，與颱風無關。"
   },
   "quick_links": [
     {
@@ -22,76 +22,77 @@
     }
   ],
   "headline": {
-    "title": "台灣暫無颱風威脅 僅發東北風特報；孟加拉灣氣旋「阿克凡」登陸印度東岸",
-    "dek": "中央氣象署表示，目前並無海上或陸上颱風警報，台灣僅因東北季風增強發布十縣市強風特報，而同一時間，印度東岸迎來三週內第三個重創當地的強烈氣旋「阿克凡」。"
+    "title": "台灣目前無颱風警報 印度奧迪沙邦遭氣旋艾克文登陸、南太平洋沙維爾曾增強至五級",
+    "dek": "中央氣象署指出台灣近日天氣主要受東北季風影響，而同一時期孟加拉灣與南太平洋各有強烈氣旋系統登陸或達到巔峰強度。"
   },
   "headline_body": [
-    "截至11月22日，台灣沒有任何颱風或熱帶氣旋構成威脅。根據中央氣象署（CWA）網站內容，該署目前「無發布颱風警報」，無論是海上颱風警報或陸上颱風警報均未生效，台灣今年秋季最近一次的颱風威脅——十月下旬相繼掠過的颱風薔琵與燦樹（Champi）——皆已遠離。",
-    "然而，台灣的平靜與亞洲其他地區的天氣動盪形成對比。本週最受關注的熱帶氣旋事件發生在孟加拉灣：強烈氣旋「阿克凡」（Akvan）已於11月20日前後登陸印度安得拉邦與奧迪夏邦交界海岸，目前正逐漸減弱。這是繼10月下旬的氣旋阿爾納布（Arnab）與11月初的氣旋穆拉蘇（Murasu）之後，約三週內第三個襲擊同一段印度東岸的氣旋，顯示當地今年風季異常活躍。",
-    "據印度媒體OneIndia報導，印度氣象局（IMD）曾預測阿克凡在增強後，於11月20日中午前後以強烈氣旋形式橫掃北安得拉邦／亞南至南奧迪夏之間的海岸，隨後迅速減弱；當局已疏散沿海居民並要求漁民返港避風。另據Down To Earth與Karmactive報導，奧迪夏邦政府已疏散約八萬人並發布紅色警戒，部分路徑預測顯示風暴北偏，使奧迪夏南部受影響程度高於原先預估。截至目前，尚未有關於阿克凡造成傷亡或財產損失的確切報告，相關統計仍待當地官方公布。",
-    "台灣本身目前的天氣警示與熱帶氣旋無關。據NOWnews引述中央氣象署資訊，該署已針對桃園市、苗栗縣、臺中市、彰化縣、雲林縣、屏東縣、臺東縣、澎湖縣等十縣市發布黃色強風特報，提醒11月21日午後至22日夜間，受增強的東北季風影響，平均風力可達六級以上、瞬間風力八級以上，但此特報與任何颱風系統無關。",
-    "回顧台灣今年風季，颱風燦樹（Champi）於10月下旬襲台，造成一人死亡、數百人受傷，並一度導致停班停課與航班取消；颱風薔琵（本季第29號風暴）則於同期發布海上警報後掠過台灣，兩者目前均已遠離並不再構成威脅。展望區域整體情勢，菲律賓大氣地球物理與天文服務署（PAGASA）預估11月份進入菲律賓責任海域的熱帶氣旋僅一至兩個，低於歷史平均；氣象機構將持續觀察孟加拉灣阿克凡減弱後的動向，以及東北季風對台灣沿海地區風力的影響。"
+    "截至11月22日，台灣本島及鄰近海域目前未受任何颱風威脅，中央氣象署未發布海上或陸上颱風警報。然而在印度洋與南太平洋，兩個強烈氣旋系統近日相繼登陸或達到巔峰強度，形成與台灣平靜天氣對照的局面。",
+    "根據氣象署相關資訊，台灣近日天氣主要受東北季風影響，而非熱帶氣旋。東北季風預計於本週末（11月22日至23日）減弱，各地氣溫回升，中南部包括台中地區白天高溫可回升至29至30度；下一波東北季風預計於下週一（約11月25日至27日）影響北部及宜蘭地區，但與颱風活動無關。",
+    "在印度，據印度國家廣播公司News on Air報導，奧迪沙邦當局在強烈氣旋風暴艾克文（Akvan）登陸前，已自沿海脆弱地區撤離近7萬2000名居民；據歐里薩郵報（OrissaPOST）報導，隨著預測登陸點由安德拉邦轉向奧迪沙邦，撤離人數後來上修至逾12萬人，並部署300多支救援隊伍。艾克文於11月20日中午前後在戈帕爾布爾（Gopalpur）附近登陸，風速每小時90至100公里，最大陣風每小時110公里，是三週內在孟加拉灣形成的第三個氣旋。據印度環境新聞網站Down To Earth報導，印度氣象局預測艾克文登陸前將減弱為氣旋風暴，截至目前尚無進一步災情或人員傷亡報告。",
+    "在南太平洋，熱帶氣旋沙維爾（Xavier）於11月中旬在北庫克群島海域迅速增強。據法語太平洋新聞網站Outremers 360報導，沙維爾一度增強至五級強度，11月18日測得陣風時速達315公里，當地學校停課，普卡普卡（Pukapuka）及納索（Nassau）環礁居民一度避難。據氣象網站Watchers.news報導，沙維爾最初於11月16日在馬尼希基（Manihiki）及拉卡漢加（Rakahanga）環礁附近達到二級強度，當局隨即發布強風警報；該網站並指出，此次氣旋罕見地在東側海域形成，氣象界將此與厄爾尼諾現象導致南太平洋氣旋活躍帶偏移聯繫起來。預測顯示，沙維爾此後將逐漸減弱。",
+    "在西太平洋，今年最近一個獲命名的風暴颱風Cempaka（在菲律賓責任區內稱為「Samuel」）於11月9日至11日間離開菲律賓責任區後消散，未直接影響台灣或菲律賓。據Watchers.news報導，Cempaka是2026年西太平洋颱風季第32個命名風暴，為1994年以來最多紀錄，超越2013年的31個。台灣上一次遭颱風直接襲擊，是10月下旬的超強颱風Champi，據半島電視台報導，該颱風造成屏東外海一人遭海浪捲走身亡，傷者逾600人，並造成大規模停電與逾千航班取消。",
+    "菲律賓大氣地球物理與天文服務署（PAGASA）本月初表示，不排除今年底前還有至多四個颱風可能進入菲律賓責任區，今年以來已有19個熱帶氣旋進入該責任區，強烈厄爾尼諾現象預期將持續至2027年第一季。氣象界目前關注的焦點，除PAGASA的風暴預測外，還有下週一登陸台灣北部及宜蘭的新一波東北季風；截至目前，尚無任何熱帶氣旋被評估可能影響台灣。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "孟加拉灣氣旋阿克凡登陸印度東岸 成三週內第三個襲擊同一海岸的氣旋",
-      "dek": "據Down To Earth報導，強烈氣旋阿克凡追蹤路徑指向安得拉邦與奧迪夏邦海岸，成為繼阿爾納布與穆拉蘇之後，約一個月內第三個威脅印度同一段東岸的氣旋。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
+      "title": "氣旋艾克文大規模撤離後登陸印度奧迪沙邦海岸",
+      "dek": "據印度國家廣播公司News on Air報導，奧迪沙邦當局在氣旋艾克文登陸前已撤離近7萬2000名沿海居民。",
+      "url": "https://newsonair.gov.in/odisha-evacuates-72000-people-as-severe-cyclone-akvan-approaches-coast/"
     },
     {
       "rank": 2,
-      "title": "氣旋阿克凡來襲 安得拉邦戒備時速逾140公里強風 預計11月20日登陸",
-      "dek": "據OneIndia報導，印度氣象局預測阿克凡在橫掃北安得拉邦與南奧迪夏海岸前將持續增強，當局已疏散沿海居民並要求漁民暫停出海。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "氣旋艾克文路徑轉向奧迪沙邦 撤離人數逾12萬人",
+      "dek": "據歐里薩郵報報導，隨著艾克文預測登陸點由安德拉邦轉向奧迪沙邦，撤離人數上修至12萬人以上，並部署逾300支救援隊伍。",
+      "url": "https://www.orissapost.com/?p=908134"
     },
     {
       "rank": 3,
-      "title": "氣旋阿克凡登陸最新進展 印度氣象局對奧迪夏沿岸發布紅色警戒 近八萬人疏散",
-      "dek": "據Karmactive報導，奧迪夏當局在阿克凡逼近期間疏散約八萬居民，而風暴路徑北偏，使奧迪夏南部受影響程度高於原先對安得拉邦海岸的預估。",
-      "url": "https://www.karmactive.com/?p=285992"
+      "title": "印度氣象局：強烈氣旋艾克文將於普爾巴尼與普里之間登陸奧迪沙南部海岸",
+      "dek": "據印度環境新聞網站Down To Earth報導，印度氣象局預測艾克文登陸前將減弱為氣旋風暴，風速每小時90至110公里，目前尚無災情或傷亡報告。",
+      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
     },
     {
       "rank": 4,
-      "title": "台灣目前無颱風警報 僅因東北季風發布強風特報",
-      "dek": "據NOWnews引述中央氣象署資訊，該署尚未對任何颱風發布海上或陸上警報，僅因東北季風增強對包括臺中、雲林、彰化、屏東、臺東與澎湖等十縣市發布黃色強風特報。",
-      "url": "https://nownews.com/news/6894249"
+      "title": "熱帶氣旋沙維爾增強至五級 重創北庫克群島",
+      "dek": "據法語太平洋新聞網站Outremers 360報導，沙維爾在北庫克群島附近迅速增強至五級，11月18日測得陣風時速達315公里。",
+      "url": "https://outremers360.com/bassin-pacifique-appli/pacifique-le-cyclone-xavier-sest-rapidement-intensifie-en-categorie-5"
     },
     {
       "rank": 5,
-      "title": "颱風燦樹襲台 造成一人死亡、數百人受傷",
-      "dek": "據半島電視台（Al Jazeera）報導，颱風燦樹於10月下旬襲擊台灣，造成一人死亡、逾三百人受傷，並導致學校停課、航班大量取消及部分地區停電。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "氣旋沙維爾於馬尼希基及拉卡漢加附近增強至二級 當局發布強風警報",
+      "dek": "據氣象網站Watchers.news報導，沙維爾在北庫克群島海域罕見地於東側形成，氣象界將此與厄爾尼諾現象導致南太平洋氣旋活躍帶偏移有關。",
+      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
       "rank": 6,
-      "title": "颱風燦樹過後 台灣持續進行災後復原工作",
-      "dek": "據Watchers.news報導，颱風燦樹造成一人死亡、數百人受傷後，台灣各地持續進行道路修復與電力搶修等復原工作。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "title": "颱風Cempaka成為2026年第32個命名風暴 創1994年以來最多紀錄",
+      "dek": "據氣象網站Watchers.news報導，Cempaka於11月7日在西北太平洋生成，超越2013年31個颱風的紀錄，成為本世紀以來最活躍的颱風季。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 7,
-      "title": "中央氣象署對颱風薔琵發布海上颱風警報 陸上警報預計隔日發布",
-      "dek": "據公視新聞網報導，中央氣象署針對本季第29號颱風薔琵連夜發布海上颱風警報，並預計於次日中午前後發布陸上警報，該風暴目前已遠離台灣。",
-      "url": "https://news.pts.org.tw/article/832432"
+      "title": "Cempaka在菲律賓責任區外增強為颱風",
+      "dek": "據菲律賓Inquirer.net報導，Cempaka在呂宋島極北處以東約1630公里增強為颱風，菲律賓大氣地球物理與天文服務署指出其未直接影響菲律賓，東北季風才是當地主要關注焦點。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
     },
     {
       "rank": 8,
-      "title": "PAGASA預估11月菲律賓責任海域僅出現一至兩個熱帶氣旋",
-      "dek": "據GMA Network報導，菲律賓大氣地球物理與天文服務署預估今年11月進入菲律賓責任海域的熱帶氣旋僅一至兩個，低於歷史平均，且全國大部分地區雨量展望偏低。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "颱風「Samuel」（即Cempaka）離開菲律賓責任區",
+      "dek": "據菲律賓GMA Network報導，該風暴以「Samuel」之名於11月9日進入菲律賓責任區後，當日下午即已離開，預料不會直接影響菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008861/typhoon-samuel-exits-par-pagasa/story/"
     },
     {
       "rank": 9,
-      "title": "一週內第二個強烈氣旋穆拉蘇重創安得拉邦沿岸",
-      "dek": "據Down To Earth報導，氣旋穆拉蘇以最高時速120公里的強風橫掃安得拉邦南部海岸，成為繼阿爾納布之後一週內第二個襲擊當地的氣旋，造成嚴重破壞。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-murasu-second-severe-cyclonic-storm-in-a-week-leaves-a-trail-of-destruction-along-andhra-pradesh-coast"
+      "title": "超強颱風Champi掠過台灣 造成1人死亡、數百人受傷",
+      "dek": "據半島電視台報導，Champi造成屏東外海一人遭海浪捲走身亡，傷者初估逾350人（後修正為634人），並造成大規模停電及逾千航班取消。",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
       "rank": 10,
-      "title": "氣旋阿爾納布登陸印度安得拉邦 造成至少三人死亡",
-      "dek": "據Watchers.news報導，氣旋阿爾納布以最高時速150公里的強風登陸安得拉邦，造成至少三人死亡，並促使逾十萬人疏散，農業損失嚴重，是三週內襲擊當地海岸的三個氣旋中的第一個。",
-      "url": "https://watchers.news/2026/10/28/cyclone-arnab-leaves-3-dead-after-landfall-in-andhra-pradesh-india/"
+      "title": "菲律賓氣象署：今年底前仍可能再有颱風",
+      "dek": "據菲律賓Tribune.net.ph報導，PAGASA表示不排除今年底前還有至多四個颱風可能進入菲律賓責任區，今年以來已有19個熱帶氣旋進入該責任區。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     }
   ]
 }
