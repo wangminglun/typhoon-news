@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T04:11:00+08:00",
+  "generated_at": "2026-11-24T05:13:54+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署未對任何熱帶氣旋發布海上或陸上颱風警報，台灣本島自10月下旬颱風薔琵之後已逾一個月未受颱風威脅。",
+  "alert_desc": "中央氣象署目前未對任何熱帶氣旋發布海上或陸上颱風警報，台灣本島暫無颱風威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區未受任何活動中的颱風或熱帶氣旋影響，並無風雨警戒或停班停課相關消息。"
+    "text": "台中目前無任何熱帶系統直接影響，本週天氣主要受東北季風南下的冷空氣影響，而非颱風所致。"
   },
   "quick_links": [
     {
@@ -22,75 +22,75 @@
     }
   ],
   "headline": {
-    "title": "台灣暫無颱風警報，全球熱帶氣旋活動卻異常活躍",
-    "dek": "中央氣象署未發布海上或陸上颱風警報，但南太平洋、南亞與西北太平洋多個系統接連成形，今年西北太平洋颱風數量已創下本世紀新高。"
+    "title": "Akvan減弱、Xavier肆虐 台灣無警戒",
+    "dek": "印度東岸氣旋Akvan減弱為低壓，南太平洋氣旋Xavier肆虐庫克群島，中央氣象署未對台灣發布警報。"
   },
   "headline_body": [
-    "台灣目前未受任何颱風或熱帶氣旋直接威脅。中央氣象署並未發布海上或陸上颱風警報，台灣本島自10月下旬薔琵颱風（Champi）掠過東部以來，已逾一個月未再面臨颱風威脅。根據中央社報導，薔琵颱風的暴風圈曾於10月23日觸及台灣東半部，中央氣象署當時預測宜蘭山區將出現劇烈降雨，但此後再無系統逼近台灣，台中等地也未發布停班停課或風雨警戒。",
-    "然而，台灣的平靜與全球多處的動盪形成對比。南太平洋的強烈熱帶氣旋「Xavier」於11月18日在庫克群島北部曼尼希基島（Manihiki）附近達到最強的五級強度，風速接近每小時220公里，陣風一度達每小時315公里，紐西蘭媒體1News報導。斐濟氣象局證實，由於系統移動緩慢，每小時僅約7公里，對庫克群島北部島嶼的威脅持續延長，當地居民在經歷一年多無電網供電後，目前最大隱憂是停電問題。截至11月19日，Xavier已緩慢減弱至四級，普卡普卡（Pukapuka）、納蘇（Nassau）與蘇瓦羅（Suwarrow）等島嶼仍處於強風警戒中。",
-    "在印度洋，孟加拉灣的氣旋「Akvan」已於11月20日前後在印度東岸奧里薩邦與安得拉邦交界處登陸，登陸時風速達每小時145公里，印度媒體OneIndia與環境媒體Down To Earth報導。這是印度東岸一個月內遭遇的第三個顯著氣旋，此前10月底的「Arnab」與11月初的「Murasu」已相繼登陸，促使當局展開大規模撤離。印度氣象局在Akvan逼近期間多次修正其路徑與強度預測，顯示不同模式間存在分歧。",
-    "與此同時，西北太平洋今年已生成32個颱風，氣象觀測網站Watchers.news指出，這是本世紀以來最多的一年，超越2013年的31個紀錄。最新一個系統「畫眉」（Cempaka，菲律賓當地命名Samuel）於11月9日短暫進入菲律賓責任區後隨即減弱消散，菲律賓大氣地理天文服務署（PAGASA）表示未造成重大影響，據GMA News報導。PAGASA同時預告，年底前菲律賓責任區仍可能迎來另一個熱帶氣旋，暫定命名為「Tomas」，但截至目前尚未正式形成。多家氣象機構，包括日本Weathernews，將今年全球多處熱帶氣旋活動偏多的現象，歸因於持續增強的厄爾尼諾現象。"
+    "根據印度氣象局（IMD）透過印度媒體《Down To Earth》發布的通報，強烈氣旋風暴「Akvan」已於11月20日登陸安德拉邦與奧里薩邦交界地帶，最大風速每小時110至130公里，當局預測其將於20日晚間減弱為深度低壓，21日上午再減弱為低壓區。",
+    "這是過去一個月內第三個威脅印度東岸的氣旋系統，當地已撤離約5萬人，六個行政區學校停課至21日。美聯社報導（由《愛爾蘭新聞報》轉載）指出，Akvan已在印度部分地區造成大規模破壞；巴林媒體《News of Bahrain》的報導同樣提到，這是該地區短短數週內接連遭遇的第三場氣旋。與此同時，台灣目前並未受到任何熱帶系統直接威脅，中央氣象署未發布任何颱風警報。",
+    "在地球另一端，紐西蘭媒體《1News》報導，氣旋「Xavier」11月18日逼近庫克群島北部時一度增強至最高強度的五級，持續風速每小時215至220公里，瞬間風速衝上315公里，當局對馬尼希基、拉卡漢加、普卡普卡與納蘇等島嶼發布最高層級警戒。19日的後續報導指出，Xavier已緩慢減弱至四級，馬尼希基本已脆弱逾一年的電網恐再受衝擊，目前尚無任何人員傷亡報告。",
+    "今年西北太平洋颱風季異常活躍。菲律賓媒體《GMA News》報導，第32號颱風「畫眉」進入菲律賓責任區後被命名為「Samuel」，創下本世紀同期命名颱風數量紀錄；PAGASA氣候學家向《Tribune.net.ph》表示，受強烈聖嬰現象影響，年底前責任區仍可能出現編號「Tomas」的風暴。相較之下，美國《Fox Weather》氣象分析師指出，2026年大西洋颶風季異常平靜，全季僅一個颶風，為1925年以來首見，截至11月23日大西洋、東太平洋與中太平洋均無活躍系統。對台灣而言，上次直接受創是上月造成1死約350傷、28萬戶停電的颱風「薔琵」，卡達半島電視台曾報導其衝擊；本週台灣天氣主要受東北季風南下影響，中部包括台中目前未受任何熱帶系統波及。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "強烈熱帶氣旋Xavier重創庫克群島後緩慢減弱",
-      "dek": "1News報導，Xavier在庫克群島北部達到五級強度後已減弱為四級，當地多個島嶼仍處於強風警戒。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "title": "氣旋Akvan登陸印度東岸 預測逐步減弱",
+      "dek": "根據印度氣象局通報，氣旋Akvan已登陸安德拉邦與奧里薩邦交界，預計21日前減弱為低壓區。",
+      "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-cyclone-akvan-to-make-landfall-between-andhra-pradesh-and-odisha-on-november-20"
     },
     {
       "rank": 2,
-      "title": "氣旋Xavier曾升至五級強度，重創庫克群島北部",
-      "dek": "斐濟氣象局證實，Xavier在庫克群島北部緩慢移動期間一度升至五級強度，曼尼希基島居民表示最嚴重階段已經過去。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "Akvan重創印度 數萬人緊急撤離",
+      "dek": "美聯社報導（《愛爾蘭新聞報》轉載），氣旋Akvan已在印度部分地區造成嚴重破壞，當局展開大規模撤離行動。",
+      "url": "https://www.irishnews.com/news/world/tens-of-thousands-evacuated-as-cyclone-causes-extensive-damage-in-parts-of-india-7VMNXHWSNVPNBMA4TOOD4Z4CUQ/"
     },
     {
       "rank": 3,
-      "title": "氣旋Akvan登陸印度東岸，是一個月內第三個侵襲孟加拉灣的氣旋",
-      "dek": "OneIndia報導，Akvan以每小時145公里風速在安得拉邦與奧里薩邦交界登陸，當局曾展開大規模撤離。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "氣旋Akvan逼近 印度東岸進入戒備",
+      "dek": "《News of Bahrain》報導，Akvan是短短數週內第三個逼近印度東岸的氣旋系統。",
+      "url": "https://www.newsofbahrain.com/en/article/cyclone-akvan-bears-down-on-indias-eastern-coast"
     },
     {
       "rank": 4,
-      "title": "Akvan路徑預測一度分歧，印度氣象局修正強度預估",
-      "dek": "Down To Earth報導，印度氣象局對Akvan登陸地點與強度的預測版本不一，安得拉邦沿岸受衝擊程度預期高於前兩個氣旋。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
+      "title": "Xavier增強至五級 猛襲庫克群島北部",
+      "dek": "紐西蘭《1News》報導，氣旋Xavier達五級強度，持續風速逾每小時215公里，多島發布最高警戒。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 5,
-      "title": "颱風畫眉成為西北太平洋今年第32個颱風，創本世紀紀錄",
-      "dek": "氣象網站Watchers.news指出，畫眉（Cempaka）的生成使今年颱風總數超越2013年的31個，為本世紀最多。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "Xavier緩慢減弱 持續掃過庫克群島",
+      "dek": "《1News》報導，Xavier已減弱至四級，馬尼希基脆弱電網仍面臨風險，暫無人員傷亡報告。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 6,
-      "title": "颱風Samuel（畫眉）已退出菲律賓責任區，未直接影響菲國天氣",
-      "dek": "GMA News報導，PAGASA證實Samuel進入責任區後不久即退出，未對菲律賓造成直接衝擊。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1008861/typhoon-samuel-exits-par-pagasa/story/"
+      "title": "Xavier生成初期 庫克群島北部已發布警戒",
+      "dek": "《Watchers.news》報導，Xavier在增強至五級前，已促使當局對馬尼希基與拉卡漢加發布強風警戒。",
+      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
       "rank": 7,
-      "title": "PAGASA：年底前菲律賓責任區可能再有颱風「Tomas」生成",
-      "dek": "菲律賓媒體Tribune報導，PAGASA表示不排除今年再有一個颱風進入責任區，但截至目前尚未正式確認形成。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "颱風薔琵襲台 一死數百傷",
+      "dek": "卡達半島電視台報導，颱風薔琵上月襲擊台灣，造成1人死亡、約350人受傷，逾28萬戶停電。",
+      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
       "rank": 8,
-      "title": "熱帶風暴Pena逼近國際換日線，能否成為西北太平洋第33號颱風仍不明朗",
-      "dek": "日本Weathernews報導，Pena是1982年以來首個11月在中太平洋生成的熱帶風暴，但後續觀測顯示其強度已轉弱。",
-      "url": "https://weathernews.jp/news/202611/110161/"
+      "title": "颱風畫眉入菲責任區 更名Samuel",
+      "dek": "菲律賓《GMA News》報導，第32號颱風畫眉進入菲國責任區後更名Samuel，創本世紀同期紀錄，惟未確認登陸菲台。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008791/typhoon-cempaka-enters-par-now-called-samuel-pagasa/story"
     },
     {
       "rank": 9,
-      "title": "薔琵颱風掠過台灣東部，為今年以來最後一次颱風直接影響",
-      "dek": "中央社報導，薔琵颱風暴風圈於10月23日觸及台灣東半部，宜蘭山區一度出現劇烈降雨，此後中央氣象署未再發布颱風警報。",
-      "url": "https://cna.com.tw/news/ahel/202610230018.aspx"
+      "title": "PAGASA示警 年底前責任區或再現風暴「Tomas」",
+      "dek": "《Tribune.net.ph》報導，菲律賓氣象機構PAGASA指出，受強烈聖嬰現象影響，年底前仍可能有一個颱風進入責任區。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 10,
-      "title": "氣象機構：強烈厄爾尼諾現象推升今年全球熱帶氣旋活動",
-      "dek": "日本Weathernews東南亞分部指出，增強的厄爾尼諾現象是西北太平洋、中太平洋、南太平洋與北印度洋今年同步活躍的共同背景因素。",
-      "url": "https://sea.weathernews.com/resources/202609/232"
+      "title": "大西洋颶風季罕見平靜落幕",
+      "dek": "美國《Fox Weather》報導，2026年大西洋颶風季全季僅出現一個颶風，為1925年以來首見，目前無任何活躍系統。",
+      "url": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-november-8-2026"
     }
   ]
 }
