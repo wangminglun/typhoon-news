@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T16:14:00+08:00",
+  "generated_at": "2026-11-23T17:12:00+08:00",
   "alert_level": "none",
-  "alert_text": "無颱風警報",
-  "alert_desc": "台灣中央氣象署目前未發布海上或陸上颱風警報；台灣近期天氣主要受東北季風南下影響而轉涼，並無颱風系統接近台灣。",
+  "alert_text": "目前無警報",
+  "alert_desc": "台灣中央氣象署目前未發布海上或陸上颱風警報；上一個警報系統颱風薔琵已於十月下旬解除，近期全球多個熱帶氣旋系統正陸續減弱或遠離陸地。",
   "region_watch": {
     "region": "台中",
-    "text": "台中地區目前無直接影響：並無任何熱帶氣旋威脅台中，天氣以東北季風型態為主，未發布相關停班停課或風雨警報。"
+    "text": "台中地區目前無直接影響：並無任何熱帶氣旋威脅台中，中央氣象署未發布任何颱風警報，當地亦無停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "印度強氣旋艾克文登陸 台灣目前無颱風警報",
-    "dek": "強氣旋艾克文登陸印度奧里薩邦，南太平洋哈維爾漸減弱，台灣仍無颱風警報僅受東北季風影響轉涼。"
+    "title": "西太平洋風季步入尾聲 台灣未受任何颱風警報影響",
+    "dek": "薔琵颱風警報解除近一個月後，中央氣象署目前無任何海上或陸上颱風警報，而全球多個熱帶氣旋系統正陸續減弱或遠離陸地。"
   },
   "headline_body": [
-    "一股強烈氣旋週五逼近印度東部沿海，促使印度奧里薩邦撤離近七萬兩千名居民；同一時間，南太平洋曾達五級強度的氣旋「哈維爾」正緩慢減弱，逐漸遠離庫克群島北部島嶼。相較之下，台灣中央氣象署表示，目前沒有任何颱風直接威脅本島，海上與陸上颱風警報均未發布。",
-    "這兩起熱帶氣旋成為本週全球天氣版面焦點，也凸顯今年太平洋與印度洋颱風季異常活躍——西北太平洋十一月初因颱風「璨樺」（Cempaka）生成，創下本季第32個命名颱風的紀錄，超越2013年的31個，成為本世紀最活躍的一年。儘管如此，根據現有公開資料，台灣近期天氣主要受東北季風南下影響而轉涼，並未出現颱風級系統接近的跡象。",
-    "據印度媒體《New Kerala》報導，印度氣象局預測強烈氣旋艾克文將於週五正午前後，在奧里薩邦甘賈姆縣高帕布林（Gopalpur）附近登陸，當時風速估計每小時90至100公里，陣風可達每小時110公里。奧里薩邦政府已撤離約七萬兩千人，並在六個縣市關閉學校與機關至週六。《The South First》報導指出，艾克文巔峰強度一度預估風速高達每小時145公里，促使安得拉邦沿海地區進入高度警戒；印度氣象局隨後下修強度預測，表示登陸前將先減弱，中南部安得拉邦預期不會受到顯著衝擊，但奧里薩邦南部與安得拉邦北部仍可能出現豪雨。由於登陸時間逼近發稿之際，艾克文登陸後實際造成的災情與是否有人員傷亡，目前尚無法證實。",
-    "在南太平洋，紐西蘭媒體《1News》報導，哈維爾一度升至五級強度，持續風速約每小時220公里，在庫克群島馬尼希基島（Manihiki）附近測得陣風每小時315公里，當地電力供應受影響，但報導中未提及人員傷亡；氣象預報員將其罕見的偏東路徑歸因於強烈厄爾尼諾現象。截至週四最新預報，哈維爾已在馬尼希基與普卡普卡（Pukapuka）之間緩慢減弱，當局對普卡普卡、納蘇島與蘇瓦羅島發布強風警戒，預計週末前後將遠離庫克群島北部並持續減弱，但後續路徑預報信心度仍偏低。",
-    "台灣方面，中央氣象署最近一次就颱風發布說明是在十一月十日，表示璨樺位於台北東方約1,510公里處，不會影響台灣，並提醒東北季風將使全台轉涼，《台北時報》報導了這一說法。此後數日的公開資料顯示，台灣天氣新聞多聚焦於季節性東北季風降溫，並未提及颱風動態。菲律賓大氣地理天文服務署同期預測，在厄爾尼諾影響下，十一、十二月可能再有一至兩個氣旋形成或進入該國責任區。台灣上一次直接受颱風衝擊，是十月下旬的颱風璨帕，造成一人死亡、逾六百人受傷，農業損失達新台幣1.93億元。"
+    "截至11月23日，台灣中央氣象署未發布任何海上或陸上颱風警報，本島及台中地區均未受到颱風直接威脅，亦無停班停課公告。這是今年秋季以來少見的平靜時刻——上一個對台灣構成警戒的系統，是10月下旬發布警報的颱風薔琵，其警報早已解除。",
+    "然而，放眼整個太平洋，今年的風季話題仍未完全平息。據日本氣象新聞網站Weathernews與Watchers.news報導，今年西太平洋已產生32個編號颱風，超越2013年的31個紀錄，成為本世紀活躍度最高的颱風季。其中最新成形的颱風璨巴（Cempaka）於11月上旬在日本以南海域轉向東北，強度維持在約每小時120公里左右，雖未對台灣、中國或菲律賓構成登陸威脅，但小笠原群島一帶仍需留意強風與高浪。",
+    "南半球方面，嚴重熱帶氣旋哈維爾（Xavier）曾在11月17日至18日於庫克群島北部海域增強至五級巔峰，根據紐西蘭媒體《1News》引述斐濟氣象局數據，其陣風一度達每小時315公里，對馬尼希基（Manihiki）與拉卡漢加（Rakahanga）等島嶼造成停電等災情。該報導指出，哈維爾此後逐步減弱，至11月19日已降為四級，並持續朝薩摩亞方向遠離，威力持續下滑。",
+    "印度洋側，氣旋阿克凡（Akvan）的發展軌跡則顯示典型的登陸後消散模式。據土耳其安納多魯通訊社與印度官方媒體DD News報導，阿克凡於11月20日在奧里薩邦與安德拉邦交界的戈帕爾普（Gopalpur）附近登陸，持續風速每小時70至80公里，陣風達90公里。印度政府疏散逾30萬人，部署423支救援隊及逾9000處避難所，官方表示未傳出重大傷亡或災損。印度氣象局隨後證實，阿克凡已於登陸後減弱為低壓區，僅殘留水氣可能為泰米爾那都等地帶來局部強降雨。",
+    "值得留意的是，中太平洋近期出現一個新系統——熱帶風暴佩娜（Pena）。據美聯社經《NY1》報導，佩娜是1982年以來中太平洋11月首個熱帶風暴，目前強度約每小時72公里，對夏威夷不構成威脅，預測將朝國際換日線方向移動。日本Weathernews報導則指出，佩娜若要在跨越換日線後被日本氣象廳重新歸類為西太平洋編號颱風，風速須達到每秒18公尺的門檻，目前其強度仍屬邊緣地帶，對日本影響機率偏低，截稿前尚無正式升格的後續消息。整體而言，全球熱帶氣旋活動正處於降溫階段，台灣民眾短期內無需為颱風議題擔憂。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋艾克文逼近高帕布林 奧里薩撤離逾七萬二千人",
-      "dek": "據《New Kerala》報導，印度氣象局預測艾克文週五正午登陸奧里薩邦高帕布林，風速每小時90至100公里，當局已關閉六縣市學校。",
-      "url": "https://www.newkerala.com/news/a/odisha-braces-cyclone-akvan-72000-people-evacuated-so-856.htm"
+      "title": "西太平洋今年颱風數創本世紀新高 璨巴成第32個編號系統",
+      "dek": "據《Watchers.news》報導，颱風璨巴於11月上旬生成，使今年西太平洋編號颱風數達32個，超越2013年紀錄，成為本世紀最活躍風季。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 2,
-      "title": "印度氣象局下修艾克文強度 登陸前料將先減弱",
-      "dek": "據《New Kerala》報導，印度氣象局表示艾克文登陸奧里薩高帕布林前將減弱，安得拉邦中南部預期影響有限，北部仍有豪雨。",
-      "url": "https://www.newkerala.com/news/a/severe-cyclone-akvan-likely-weaken-before-landfall-639.htm"
+      "title": "颱風璨巴轉向日本以南外海 不構成台灣威脅",
+      "dek": "據日本《Weathernews》報導，颱風璨巴在日本以南海域轉向東北方向，強度維持每秒約65節，未對台灣、中國或菲律賓構成登陸威脅。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 3,
-      "title": "安得拉邦沿海進入高度警戒 迎接艾克文登陸",
-      "dek": "據《The South First》報導，艾克文登陸前巔峰風速估計達每小時145公里，促使尼羅至圖尼一帶沿海地區全面戒備。",
-      "url": "https://thesouthfirst.com/andhrapradesh/cyclone-akvan-to-make-landfall-between-nellore-and-tuni-on-20-november-coastal-andhra-on-high-alert/"
+      "title": "氣旋哈維爾增強至五級巔峰 重創庫克群島北部",
+      "dek": "據紐西蘭《1News》引述斐濟氣象局報導，氣旋哈維爾於11月18日在馬尼希基與拉卡漢加附近增強至五級，陣風高達每小時315公里，造成當地停電。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 4,
-      "title": "氣旋哈維爾緩慢減弱 持續橫越庫克群島北部",
-      "dek": "據《1News》報導，哈維爾在馬尼希基與普卡普卡之間緩慢減弱，當局對三島發布強風警戒，預計週末遠離並持續減弱。",
+      "title": "哈維爾持續減弱 朝薩摩亞方向遠離",
+      "dek": "據紐西蘭《1News》報導，氣旋哈維爾於11月19日降至四級，穿越庫克群島馬尼希基與普卡普卡之間海域，預期將進一步減弱。",
       "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 5,
-      "title": "哈維爾曾升至五級強度 陣風測得每小時315公里",
-      "dek": "據《1News》報導，氣旋哈維爾一度達五級強度，馬尼希基島附近陣風達每小時315公里，氣象專家將異常路徑歸因於厄爾尼諾。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "熱帶氣旋哈維爾初期達二級強度 籲庫克群島居民警戒",
+      "dek": "據《Watchers.news》報導，哈維爾在庫克群島北部馬尼希基與拉卡漢加一帶達到二級強度，當局發布強風警報，其路徑與強度被認為與強烈厄爾尼諾模式有關。",
+      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
       "rank": 6,
-      "title": "颱風璨樺創紀錄 成今年西北太平洋第32個颱風",
-      "dek": "據watchers.news報導，璨樺十一月七日生成後成為本季第32個颱風，超越2013年的31個，寫下本世紀最活躍紀錄。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "氣旋阿克凡登陸印度奧里薩邦沿岸",
+      "dek": "據土耳其《安納多魯通訊社》報導，氣旋阿克凡於11月20日在印度奧里薩邦與安德拉邦交界的戈帕爾普附近登陸，持續風速每小時70至80公里，陣風達90公里。",
+      "url": "https://www.aa.com.tr/en/asia-pacific/cyclone-akvan-makes-landfall-along-indias-coast/4131643"
     },
     {
       "rank": 7,
-      "title": "中央氣象署：璨樺不致威脅台灣 東北季風將轉涼",
-      "dek": "據《台北時報》報導，中央氣象署表示颱風璨樺位於台北東方約1,510公里，不會影響台灣，並提醒東北季風南下降溫。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/10/2003867492"
+      "title": "印度政府疏散逾30萬人應對氣旋阿克凡",
+      "dek": "據印度官方媒體《DD News》報導，氣旋阿克凡登陸奧里薩邦沿岸並帶來強降雨，政府疏散逾30萬人並部署9000餘處避難所，官方稱未傳出重大傷亡。",
+      "url": "https://ddnews.gov.in/en/cyclone-akvan-makes-landfall-along-odisha-coast-brings-in-heavy-rain/"
     },
     {
       "rank": 8,
-      "title": "菲律賓氣象署預警：年底前恐再有一至兩個颱風",
-      "dek": "據GMA Network報導，菲律賓大氣地理天文服務署預測在強厄爾尼諾影響下，十一、十二月可能再有氣旋形成或進入責任區。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "氣旋阿克凡登陸後減弱為低壓區 印度局部仍有強降雨風險",
+      "dek": "據印度媒體《The Open Press》報導，印度氣象局證實阿克凡登陸後已減弱為低壓區，但殘留水氣可能在11月23日至26日為泰米爾那都等地帶來局部強降雨。",
+      "url": "https://theopenpress.in/article/cyclone-akvan-update-imd-rain-alert-india-november-2026"
     },
     {
       "rank": 9,
-      "title": "璨樺短暫進入菲律賓責任區 當地命名為薩穆爾",
-      "dek": "據Tribune.net.ph報導，璨樺以薩穆爾之名短暫進入菲律賓責任區，風速每小時150公里，當日即離開未造成直接影響。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "熱帶風暴佩娜在夏威夷以南太平洋生成",
+      "dek": "據美聯社經《NY1》報導，熱帶風暴佩娜是1982年以來中太平洋11月首個熱帶風暴，風速約每小時72公里，對夏威夷不構成威脅，預測將朝國際換日線移動。",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/06/tropical-storm-pena-forms-in-the-pacific-ocean-south-of-hawaii"
     },
     {
       "rank": 10,
-      "title": "颱風璨帕重創台灣後 復原工作仍在進行",
-      "dek": "據watchers.news報導，十月下旬颱風璨帕造成一人死亡、634人受傷，農業損失達新台幣1.93億元，為本季最後一個直接影響台灣的颱風。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "title": "佩娜持續向西移動 能否升格為西太平洋颱風仍待觀察",
+      "dek": "據日本《Weathernews》報導，日本氣象廳表示唯有風速在跨越換日線時達到每秒18公尺，佩娜才會被重新歸類為編號颱風，目前強度仍屬邊緣地帶，對日本影響機率偏低。",
+      "url": "https://weathernews.jp/news/202611/110161/"
     }
   ]
 }
