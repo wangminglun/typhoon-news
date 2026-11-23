@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T20:12:00+08:00",
+  "generated_at": "2026-11-23T21:17:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署並未對台灣發布海上或陸上颱風警報，本週天氣由東北季風主導；上一次警報（颱風薔琵）已於10月下旬解除。",
+  "alert_desc": "中央氣象署23日表示，目前未對台灣發布海上或陸上颱風警報；近日影響台灣的是東北季風增強，而非颱風環流。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中地區現階段並無任何颱風相關的風雨警戒或停班停課措施，近期天氣受東北季風影響，與熱帶氣旋無關。"
+    "text": "目前無直接影響。中部的台中地區未受任何熱帶系統影響，近期天氣受東北季風影響而氣溫偏低，但天氣平穩，無風雨警戒或停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,75 +22,76 @@
     }
   ],
   "headline": {
-    "title": "西太平洋颱風季創本世紀新高 台灣目前無風暴威脅",
-    "dek": "中央氣象署表示本週天氣由東北季風主導，全球焦點則轉向印度東岸登陸的熱帶氣旋艾克文，以及在庫克群島外海逐漸減弱的氣旋札維爾。"
+    "title": "西太平洋颱風季趨緩 台灣暫無警戒",
+    "dek": "創紀錄的西太平洋颱風季轉趨平靜之際，南太平洋與孟加拉灣的強烈氣旋牽動全球視線。"
   },
   "headline_body": [
-    "台灣目前並未受到任何颱風或熱帶氣旋威脅。中央氣象署並未發布海上或陸上颱風警報，本週主導台灣天氣的是東北季風帶來的一波冷空氣，而非任何熱帶系統。據《Focus Taiwan》報導，東北風自11月17日起增強，帶來明顯降溫，平地低溫一度逼近攝氏11度，冷空氣影響並將持續至下週末。",
-    "台灣上一次遭颱風侵襲，是10月下旬橫掃全島的颱風薔琵（Champi）。據半島電視台與印度《全印廣播電台》報導，薔琵於10月22日至24日間行經台灣，造成1人死亡、逾500人受傷，並一度中斷航班與電力供應，直到警報解除。薔琵之後，西太平洋另兩個系統——「燦都」（In-fa）與「煙花」（Cempaka）——雖先後生成，但路徑均偏東，距台灣遙遠。中央氣象署11月8日表示，煙花當時位於鵝鑾鼻以東約1690公里海面，預測將轉向東北、不會直接影響台灣天氣。",
-    "今年颱風季規模也創下本世紀紀錄。據《Watchers.News》引述中國國家氣候中心報導，煙花11月7日生成時已是西北太平洋今年第32個命名熱帶氣旋，超越2013年締造的31個舊紀錄，部分歸因於今年強烈的聖嬰現象。菲律賓大氣地球物理暨天文服務署（PAGASA）11月10日表示，年底前菲律賓責任區內仍可能再出現一個熱帶氣旋，甚至有機會增強至颱風或超級颱風等級，但也無法排除今年不再生成颱風的可能。",
-    "放眼全球，目前最受矚目的兩個活躍系統均不在西太平洋。在印度洋，熱帶氣旋「艾克文」（Akvan）是一個月內第三個侵襲印度東岸的氣旋，據印度《Down To Earth》與《OneIndia》報導，印度氣象局預測其將於11月20日前後以最高每小時145公里風力登陸安德拉邦沿岸，孟加拉當局已發布3號警戒信號；登陸後的實際災情截至發稿尚待證實。在南太平洋，氣旋「札維爾」（Xavier）上週一度增強至四至五級，掠過庫克群島北部島嶼時陣風高達每小時315公里，據紐西蘭《1News》報導，該系統其後開始緩慢減弱，預計本週末逐漸遠離庫克群島。兩者最新動態仍待確認，持續追蹤中。對台灣而言，近期焦點仍是東北季風降溫，而非熱帶系統的直接威脅。"
+    "台灣中央氣象署（CWA）23日表示，目前未對台灣發布海上或陸上颱風警報，顯示太平洋上雖仍有多個熱帶氣旋活動，但無一對台灣構成直接威脅。氣象署指出，近日影響台灣的是東北季風增強，而非颱風環流；中部的台中地區亦未受任何熱帶系統影響，目前氣溫偏低但天氣平穩。",
+    "這波平靜，是在一個創紀錄的西太平洋颱風季之後出現的。據《Watchers.news》報導，璨帕卡颱風於11月7日生成，成為今年西太平洋第32個命名颱風，是自1967年以來最多，也超過2013年的31個紀錄，顯示今年異常活躍的颱風季與強聖嬰現象有關。不過《Focus Taiwan》報導，璨帕卡生成時即位於鵝鑾鼻東方約1,690公里處，隨後如《Weathernews》所述轉向東方、朝日本南方海域遠離，並於11月中旬減弱為熱帶性低氣壓，始終未對台灣構成威脅。",
+    "全球焦點目前轉向另外兩個海域。在南太平洋，紐西蘭《1News》報導，熱帶氣旋「札維爾」已增強至最高等級的五級，重創庫克群島北部，斐濟氣象局測得馬尼希基與拉卡航加附近陣風一度達每小時315公里，為本季南太平洋最強風暴；截至19日，札維爾已緩步減弱至約四級，持續朝南漂移。",
+    "在孟加拉灣，印度《Down To Earth》與孟加拉《The Financial Express》報導，熱帶氣旋「阿克凡」是一個月內第三個威脅印度東岸的氣旋，印度氣象局預報其於20日中午前後在安德拉邦納爾沙普爾至奧里薩邦普里一帶登陸，風速達每小時90至100公里、陣風可達110公里；奧里薩邦已疏散逾4萬7千人並取消41班列車，孟加拉雖非直接登陸地點，仍於全國四個海港發布三號警報並對外發布豪雨警示。",
+    "菲律賓大氣地球物理暨天文服務署（PAGASA）則預測，今年底前菲律賓責任區內仍可能再出現一至兩個熱帶氣旋，意味西太平洋與台灣周邊目前的平靜未必能持續到年底。氣象署提醒，民眾仍應留意後續氣象更新。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "艾克文氣旋撲向印度東岸 一個月內第三個",
-      "dek": "據印度《Down To Earth》報導，熱帶氣旋艾克文在孟加拉灣增強，預計11月20日登陸安德拉邦沿岸，是一個月內第三個侵襲印度東岸的氣旋，加重先前風災衝擊。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
-    },
-    {
-      "rank": 2,
-      "title": "安德拉邦戒備艾克文 風速估達145公里",
-      "dek": "據《OneIndia》報導，印度氣象局預測艾克文將於11月20日以最高每小時145公里風速登陸安德拉邦沿岸，當局已展開疏散並發布豪雨強風警報。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
-    },
-    {
-      "rank": 3,
-      "title": "印度氣象局：艾克文登陸前恐減弱",
-      "dek": "據《NewKerala》報導，印度氣象局最新公報顯示艾克文截至19日晚仍在孟加拉灣中西部以時速約13公里向北移動，較低海溫與風切預測將使其登陸前強度受限。",
-      "url": "https://www.newkerala.com/news/a/severe-cyclone-akvan-likely-weaken-before-landfall-639.htm"
-    },
-    {
-      "rank": 4,
-      "title": "札維爾增強至五級 重創庫克群島北部",
-      "dek": "據紐西蘭《1News》報導，熱帶氣旋札維爾快速增強至五級強度，掠過庫克群島北部馬尼希基等島嶼，陣風一度達每小時315公里，當地緊急應變單位籲居民提高警戒。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
-    },
-    {
-      "rank": 5,
-      "title": "札維爾緩慢減弱 持續通過庫克群島",
-      "dek": "《1News》報導指出，札維爾已降為四級，預測週末將逐漸遠離庫克群島，並可能在薩摩亞以北進一步減弱，但後續路徑預測信心仍偏低。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
-    },
-    {
-      "rank": 6,
-      "title": "颱風薔琵重創台灣 一死數百傷",
-      "dek": "據半島電視台報導，颱風薔琵10月下旬挾強風豪雨侵襲台灣，造成1人死亡、逾350人受傷，並一度癱瘓航班與電力供應。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
-    },
-    {
-      "rank": 7,
-      "title": "薔琵傷亡再更新 逾500人受傷",
-      "dek": "印度官方媒體《全印廣播電台》報導，颱風薔琵在台灣造成的傷亡人數後續上修至逾500人受傷、1人死亡，台灣中央災害應變中心持續應變。",
-      "url": "https://newsonair.gov.in/typhoon-champi-kills-one-injures-over-500-in-taiwan-disrupts-flights-and-power-supply/"
-    },
-    {
-      "rank": 8,
-      "title": "煙花成今年第32颱 創本世紀紀錄",
-      "dek": "據《Watchers.News》引述中國國家氣候中心報導，颱風煙花11月初生成，成為西北太平洋今年第32個命名風暴，超越2013年的31個紀錄，聖嬰現象是推升生成數量的部分原因。",
+      "title": "璨帕卡颱風創西太平洋新紀錄",
+      "dek": "據《Watchers.news》報導，璨帕卡為今年第32個颱風，數量為1967年以來最多。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
-      "rank": 9,
-      "title": "氣象署：煙花不會直接影響台灣",
-      "dek": "據《中央社》英文網Focus Taiwan報導，中央氣象署表示煙花當時位於鵝鑾鼻以東約1690公里海面，預測將轉向東北，不會直接影響台灣天氣，但需留意外圍海象。",
+      "rank": 2,
+      "title": "璨帕卡轉向日本南方海域",
+      "dek": "《Weathernews》報導，璨帕卡未侵襲台灣或琉球，日本氣象廳預測將於14日前減弱為低氣壓。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
+    },
+    {
+      "rank": 3,
+      "title": "氣象署：璨帕卡遠在鵝鑾鼻東方",
+      "dek": "《Focus Taiwan》報導，璨帕卡位於鵝鑾鼻東方約1,690公里處，對台灣無直接威脅。",
       "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
-      "rank": 10,
-      "title": "菲律賓氣象局：年底前仍可能有颱風",
-      "dek": "據菲律賓《Tribune.net.ph》報導，菲律賓大氣地球物理暨天文服務署（PAGASA）表示今年底前可能再有一個熱帶氣旋進入菲律賓責任區，強度甚至可能達到颱風或超級颱風等級，但「無更多颱風」的情況也不能排除。",
+      "rank": 4,
+      "title": "東北季風增強 北東部轉涼",
+      "dek": "《Focus Taiwan》報導，氣象署預測東北季風增強將為北部、東北部及東部帶來降溫。",
+      "url": "https://focustaiwan.tw/society/202611100005"
+    },
+    {
+      "rank": 5,
+      "title": "鋒面過境 局部低溫探14度",
+      "dek": "《Focus Taiwan》報導，新一波鋒面及東北風將為北部、東部帶來零星降雨與低溫。",
+      "url": "https://focustaiwan.tw/society/202611150011"
+    },
+    {
+      "rank": 6,
+      "title": "PAGASA：11月恐再增一至兩颱",
+      "dek": "《GMA News》報導，菲律賓氣象機構預測11月責任區內可能再形成一至兩個熱帶氣旋。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+    },
+    {
+      "rank": 7,
+      "title": "PAGASA：年底前仍可能生颱風",
+      "dek": "《Tribune.net.ph》報導，菲律賓氣象專家稱年底前至少還可能有一個颱風形成。",
       "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+    },
+    {
+      "rank": 8,
+      "title": "氣旋「札維爾」增強至五級",
+      "dek": "紐西蘭《1News》報導，札維爾重創庫克群島北部，陣風一度達每小時315公里。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+    },
+    {
+      "rank": 9,
+      "title": "「札維爾」緩步減弱 續朝南移",
+      "dek": "《1News》報導，札維爾已減弱至約四級，持續在庫克群島間緩慢南移。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+    },
+    {
+      "rank": 10,
+      "title": "「阿克凡」襲印度 孟加拉示警",
+      "dek": "印度《Down To Earth》與孟加拉《The Financial Express》報導，阿克凡登陸安德拉邦至奧里薩邦沿岸，奧里薩邦疏散逾4萬7千人，孟加拉海港發布三號警報。",
+      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
     }
   ]
 }
