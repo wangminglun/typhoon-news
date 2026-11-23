@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T09:13:00+08:00",
+  "generated_at": "2026-11-23T10:09:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；今日的濕冷與強風來自鋒面與東北季風增強，與颱風無關。",
+  "alert_desc": "中央氣象署目前未對台灣發布海上或陸上颱風警報；今日天氣主要受東北季風與鋒面系統影響，與颱風無關。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台中與全台同受鋒面及東北季風影響，氣溫轉冷、風力增強，但並無任何颱風系統接近，也沒有因颱風而停班停課的情況；台中今年最近一次因颱風停班停課，仍是十月底的颱風Champi來襲時。"
+    "text": "目前無任何颱風或熱帶氣旋直接影響台中；近日天氣主要受東北季風與鋒面影響，氣溫先降後回升，並無颱風相關之停班停課措施。"
   },
   "quick_links": [
     {
@@ -22,76 +22,77 @@
     }
   ],
   "headline": {
-    "title": "全球颱風活動趨緩　台灣無警報僅受冷氣團影響",
-    "dek": "中央氣象署未對任何颱風發布海上或陸上警報，今日的濕冷與強風來自鋒面與東北季風，而西南太平洋熱帶低氣壓Xavier則正在減弱消散"
+    "title": "全球暫無活躍颱風，台灣天氣轉由東北季風主導",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，太平洋与大西洋的颱風季也相繼平靜落幕，但菲律賓氣象機構提醒，今年結束前仍可能再有熱帶氣旋生成。"
   },
   "headline_body": [
-    "隨著十一月步入尾聲，全球熱帶氣旋活動明顯趨緩，台灣目前並未面臨任何颱風威脅。中央氣象署的警報系統顯示，截至二十三日上午，全台未發布任何海上颱風警報或陸上颱風警報；唯一生效的特報，是因鋒面增強、東北季風增強而對新北、屏東部分地區發布的陸上強風特報（黃色燈號）。氣象署說明，近日的低溫與強風是鋒面南下與東北季風共同作用的結果，與熱帶氣旋無關，台中等地同樣只受此鋒面系統影響，並無任何颱風導致的停班停課措施。",
-    "這股「無颱風期」並非異常，而是反映了當前整個太平洋盆地的季節尾聲態勢。今年台灣唯一直接受颱風影響的紀錄，仍是十月底的颱風Champi；當時氣象署先後發布海上與陸上警報，北部與東北部山區曾預測降雨量達六百至九百毫米，部分地區停班停課，但該颱風隨後轉向日本九州，警報已於十月底全數解除。十一月初通過的颱風「烟花」（In-fa）經評估對台灣沒有直接威脅，僅對東部海岸帶來長浪效應。",
-    "在菲律賓方面，《GMA新聞網》報導，菲律賓大氣地球物理與天文服務署（PAGASA）於二十三日凌晨二時表示，目前並未監測到任何可能發展為熱帶氣旋的低壓區，呂宋與民答那峨目前的多雲與局部降雨，是受季風槽、局部雷雨與東北風共同影響所致。不過《菲律賓每日論壇報》報導，PAGASA警告在厄爾尼諾現象影響下，年底前仍可能有一個系統進入菲律賓責任海域，並已預先命名為「Tomas」；本月初，颱風Cempaka（菲律賓當地名Samuel）進入該海域，成為菲國今年第十九個熱帶氣旋，據《菲律賓星報》報導，該颱風雖增強東北季風、為呂宋帶來降雨,但未在菲律賓登陸。",
-    "目前全球唯一仍具實質活動的熱帶系統，是西南太平洋的熱帶低氣壓Xavier。據美國航太總署（NASA）地球觀測站報導，Xavier曾在異常溫暖（約攝氏二十九度）且風切微弱的海域迅速增強，成為該海域數十年來最強的十一月熱帶氣旋之一，估計巔峰風速約每小時二百二十至二百三十公里、中心氣壓約910百帕；隨後因遭遇乾空氣與增強風切而開始減弱。《薩摩亞環球新聞》報導，Xavier已降級為熱帶低氣壓，預計三十六小時內消散，薩摩亞氣象局表示不致直接衝擊薩摩亞本土；斐濟廣播公司（FBC）則指出，其路徑將維持在斐濟主要島群外海。《太平洋媒體網》報導，雖然風暴已減弱遠離，庫克群島北部馬尼希基環礁仍面臨停電與糧食供應壓力。",
-    "此外，印度東岸十一月二十日迎來氣旋Akvan登陸。據印度官方媒體《DD News》報導，印度氣象局證實Akvan已在奧迪沙邦戈帕爾布爾附近完成登陸，風速約每小時七十至九十公里，當地降下大雨但無重大傷亡；《ETV Bharat》報導，風暴過後已有六十九班列車取消或改班，國家災害應變部隊持續進行撤離與救援作業。大西洋颶風季將於十一月三十日結束，目前同樣沒有任何活躍風暴。"
+    "截至今日，全球各大洋面皆無正在活動的颱風或熱帶氣旋，台灣也未受到任何風暴系統威脅。對於一個經歷漫長颱風季的台灣社會而言，這樣的平靜本身即是值得記錄的消息。",
+    "今年稍早肆虐西北太平洋的颱風「獅子山」（Cempaka）已於十一月中旬在日本以南海域轉向東行，中心氣壓降至約980百帕，並於十一月十四日前後減弱為熱帶性低氣壓，全程未對台灣構成直接威脅。據中央社（Focus Taiwan）報導，該颱風十一月八日時仍遠在台灣鵝鑾鼻以東約一千六百九十公里處。然而其存在本身具有氣象史意義：根據Watchers.News引述的統計，Cempaka是今年太平洋颱風季第三十二個命名風暴，使2026年成為本世紀颱風數量最多的一年，超越二○一三年的三十一個。",
+    "與此同時，風暴活動在其他大洋也陸續收尾。印度氣象機構追蹤的強烈氣旋「阿克凡」（Akvan）於十一月二十日前後登陸印度安得拉邦與奧迪沙邦交界海岸，登陸前風速一度達每小時一百四十五公里，為印度數週內第三個氣旋；據Skymet Weather報導，該系統登陸前已明顯減弱，內陸降雨影響隨之降低。大西洋方面，AccuWeather在十一月初即宣布二○二六年大西洋颶風季提前約三週結束，整季僅出現一個颶風「伊薰」（Isaias），是有紀錄以來最平靜的年份之一；氣象專家Bryan Norcross亦在FOX Weather撰文指出，後續不再有熱帶系統發展的可能。",
+    "台灣本地,近日天氣主要受東北季風與鋒面系統影響。上週經歷一輪降溫後，氣溫自本週一（十一月二十三日）起逐漸回升，各地日高溫約在攝氏二十六至二十九度，低溫則在十七至十九度之間，與颱風無關。中央氣象署目前未對台灣任何地區發布海上或陸上颱風警報，各地也沒有因颱風而停班停課的措施。",
+    "最近一次直接衝擊台灣的風暴，是十月下旬的颱風「璋琦」（Champi）。據半島電視台報導，璋琦來襲時中央氣象署曾發布陸上颱風警報，造成一人死亡、約三百五十人受傷，並導致數百航班取消。",
+    "展望未來，菲律賓大氣地理天文服務署（PAGASA）氣候學家索利斯（Ana Liza Solis）表示，今年結束前菲律賓海域仍有可能再出現一至兩個熱帶氣旋，惟目前尚無明確徵兆顯示有風暴即將生成。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "台灣全年無懼颱風　最近一次警報仍是十月底的颱風Champi",
-      "dek": "《台北時報》與中央社報導，颱風Champi十月底曾促使中央氣象署發布海上與陸上颱風警報，北部山區估計降雨六百至九百毫米並一度停班停課，但隨後轉向日本九州，至今是台灣今年最近一次直接受颱風威脅的紀錄。",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866498"
+      "title": "颱風獅子山轉向東行，掠過日本南方海域",
+      "dek": "日本氣象公司Weathernews追蹤顯示，2026年第32號颱風獅子山（Cempaka）在日本以南海域轉向東行，中心氣壓980百帕，預計十一月十四日前減弱為熱帶性低氣壓，未對台灣構成威脅。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 2,
-      "title": "菲律賓目前未監測到低壓區　呂宋、民答那峨降雨來自季風槽非颱風",
-      "dek": "《GMA新聞網》報導，菲律賓氣象署二十三日凌晨表示，目前沒有任何低壓區正被監測是否可能發展為熱帶氣旋，當地多雲降雨是季風槽、局部雷雨與東北風共同造成。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1010444/3-weather-systems-to-bring-cloudy-skies-rains-over-luzon-and-mindanao/story/"
+      "title": "獅子山生成，2026年成為本世紀颱風最活躍的一年",
+      "dek": "氣象媒體Watchers.News報導，颱風獅子山十一月七日在西北太平洋生成，使今年成為颱風數量達三十二個、超越二○一三年紀錄的本世紀最活躍颱風季。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 3,
-      "title": "厄爾尼諾效應下　菲律賓氣象署警告年底前仍可能有颱風「Tomas」形成",
-      "dek": "《菲律賓每日論壇報》報導，菲律賓氣象署表示在強勁厄爾尼諾現象影響下，年底前仍可能有一個熱帶氣旋進入菲律賓責任海域，甚至不排除達到超級颱風強度，並已預先命名為「Tomas」。",
+      "title": "PAGASA：今年結束前菲律賓海域仍可能再現颱風",
+      "dek": "菲律賓大氣地理天文服務署氣候學家索利斯表示，至少還會有一個熱帶氣旋、甚至可能達到颱風強度，於年底前進入菲律賓海域。",
       "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 4,
-      "title": "颱風Cempaka進入菲律賓海域更名Samuel　預計不會登陸",
-      "dek": "《菲律賓星報》報導，颱風Cempaka本月九日進入菲律賓責任海域並更名為Samuel，成為菲國今年第十九個熱帶氣旋，雖增強東北季風、為呂宋帶來降雨，但預計轉向不會登陸菲律賓。",
-      "url": "https://www.philstar.com/headlines/2026/11/09/2568865/typhoon-samuel-enters-par"
+      "title": "PAGASA預測十一月菲律賓海域將有一至兩個熱帶氣旋",
+      "dek": "據GMA News報導，菲律賓氣象機構十一月展望預測將有一至兩個熱帶氣旋生成或進入菲律賓海域，且全國大部分地區降雨量將低於正常值。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 5,
-      "title": "西南太平洋熱帶低氣壓Xavier持續減弱　預計三十六小時內消散",
-      "dek": "《薩摩亞環球新聞》報導，曾創紀錄的五級熱帶氣旋Xavier已降級為熱帶低氣壓，目前位於薩摩亞帕果帕果東北方約三百七十二公里處，預計三十六小時內消散，薩摩亞氣象局表示直接衝擊薩摩亞本土的可能性不高。",
-      "url": "https://samoaglobalnews.com/tropical-cyclone-xavier-downgraded-to-category-4/"
+      "title": "中央社：颱風獅子山遠在台灣鵝鑾鼻以東，無直接威脅",
+      "dek": "中央社英文新聞網Focus Taiwan報導，十一月八日颱風獅子山位於台灣鵝鑾鼻以東約一千六百九十公里處，距離足夠遠而不構成直接威脅。",
+      "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
       "rank": 6,
-      "title": "NASA：Xavier為數十年來西南太平洋最強十一月氣旋之一",
-      "dek": "美國航太總署（NASA）地球觀測站報導，熱帶氣旋Xavier在異常溫暖、風切微弱的海域迅速增強，估計一度達到數十年來該海域最強十一月熱帶氣旋等級，隨後因遭遇乾空氣與增強風切而減弱。",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/"
+      "title": "氣旋阿克凡逼近，印度安得拉邦戒備強風",
+      "dek": "印度媒體OneIndia報導，氣旋阿克凡作為印度數週內第三個氣旋系統，預計十一月二十日登陸安得拉邦與奧迪沙邦交界海岸，風速最高達每小時一百四十五公里。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 7,
-      "title": "斐濟氣象局證實：熱帶氣旋Xavier對斐濟本島群無直接威脅",
-      "dek": "斐濟廣播公司（FBC News）報導，斐濟氣象局確認熱帶氣旋Xavier路徑將維持在斐濟主要島群外海，對當地無直接威脅，斐濟本身天氣展望也維持大致乾燥，未受重大降雨系統影響。",
-      "url": "https://www.fbcnews.com.fj/news/no-direct-threat-from-tc-xavier/"
+      "title": "氣象機構：強烈氣旋阿克凡登陸前將先減弱",
+      "dek": "印度氣象分析機構Skymet Weather報導，氣旋阿克凡不會增強為極強烈氣旋，預計在穿越安得拉邦海岸前已減弱，登陸後內陸降雨影響也將降低。",
+      "url": "https://www.skymetweather.com/content/weather-news-and-analysis/cyclone-akvan-update-akvan-will-not-intensify-into-a-very-severe-cyclone-likely-to-make-landfall-along-the-andhra-pradesh-coast-on-friday"
     },
     {
       "rank": 8,
-      "title": "Xavier減弱遠離　庫克群島馬尼希基環礁仍面臨停電與糧食壓力",
-      "dek": "《太平洋媒體網》（PMN）報導，即使氣旋Xavier已減弱並遠離庫克群島北部，馬尼希基環礁仍因風暴早前襲擊而持續停電並面臨糧食供應壓力，普卡普卡與納蘇島仍處於強風警戒、蘇瓦羅島則發布熱帶氣旋警戒。",
-      "url": "https://pmn.co.nz/read/environment/xavier-weakens-but-manihiki-faces-power-and-food-pressures"
+      "title": "AccuWeather：2026年大西洋颶風季已經結束",
+      "dek": "美國氣象機構AccuWeather宣布，2026年大西洋颶風季已提前約三週結束，全季僅出現一個颶風「伊薰」，是歷史上最平靜的年份之一。",
+      "url": "https://www.accuweather.com/en/hurricane/2026-atlantic-hurricane-season-is-over/1955742"
     },
     {
       "rank": 9,
-      "title": "氣旋Akvan登陸印度奧迪沙邦海岸　帶來強降雨",
-      "dek": "印度官方媒體《DD News》報導，氣旋Akvan二十日上午在奧迪沙邦戈帕爾布爾附近完成登陸，風速約每小時七十至九十公里，甘賈姆地區帕特拉普爾測得二百零九毫米降雨，官方表示未造成重大損害或人員死亡。",
-      "url": "https://ddnews.gov.in/en/cyclone-akvan-makes-landfall-along-odisha-coast-brings-in-heavy-rain/"
+      "title": "氣象專家：大西洋本季不會再有熱帶系統發展",
+      "dek": "據FOX Weather報導，資深氣象預報員Bryan Norcross撰文指出，大西洋颶風季接下來不太可能再有熱帶系統發展，進一步證實今年是創紀錄的平靜颶風季。",
+      "url": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-november-8-2026"
     },
     {
       "rank": 10,
-      "title": "Akvan登陸後減弱　印度六十九班列車取消或改班",
-      "dek": "《ETV Bharat》報導，氣旋Akvan登陸奧迪沙邦後持續減弱，印度氣象局預測當地未來二十四小時仍有強降雨，國家災害應變部隊展開撤離與救援行動，鐵路運輸也受影響，共六十九班列車遭取消或改班。",
-      "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
+      "title": "颱風璋琦襲台，造成一人死亡、數百人受傷",
+      "dek": "半島電視台報導，十月下旬颱風璋琦在中央氣象署發布陸上颱風警報期間襲擊台灣，造成一人死亡、約三百五十人受傷，並使數百航班停飛，是目前最近一次直接衝擊台灣的風暴。",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     }
   ]
 }
