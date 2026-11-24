@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T08:12:00+08:00",
+  "generated_at": "2026-11-24T09:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，近期警報紀錄為10月薔琵颱風。",
+  "alert_desc": "中央氣象署目前未發布海上或陸上颱風警報，近期警報紀錄為10月強颱琵琶。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。截至發稿，未有任何資料顯示台中市有因颱風而發布的停班停課或風雨特報。"
+    "text": "目前無直接影響。截至發稿，並無任何熱帶系統對台中構成風雨威脅，台中市也沒有因颱風而發布的停班停課公告。"
   },
   "quick_links": [
     {
@@ -22,75 +22,76 @@
     }
   ],
   "headline": {
-    "title": "西太平洋颱風季創紀錄　台灣暫無警戒",
-    "dek": "今年西太平洋已產生32個颱風，為本世紀最多，但中央氣象署目前未對台灣發布任何颱風警報。"
+    "title": "無颱風警報籠罩台灣　但2026西北太平洋颱風季已創本世紀最活躍紀錄",
+    "dek": "中央氣象署目前未發布海上或陸上颱風警報，台灣暫時脫離風雨威脅，但今年第32個命名颱風「蔻蔻」（Cempaka）的出現，已讓2026年颱風季超越2013年成為本世紀最活躍的一季。"
   },
   "headline_body": [
-    "截至11月24日，台灣及菲律賓周邊海域目前並無颱風直接構成威脅。中央氣象署最近一次的一週預報顯示，本週天氣系統以冷鋒及增強的東北季風為主，將使氣溫轉涼、高山可能出現降雪或霧淞，預報內容並未提及任何颱風動態。",
-    "儘管台灣本島目前風平浪靜，但2026年西太平洋颱風季卻異常活躍。根據氣象觀測網站Watchers.news報導，11月7日生成的颱風「畫眉」（Cempaka）已是今年第32個編號颱風，超越2013年的31個，成為本世紀以來颱風數量最多的一年。Weathernews的報導則指出，畫眉在生成後轉向日本南方海域外海，與中央氣象署當時的聲明一致——該署表示，當時位於台北以東約1510公里的畫眉「對台灣不構成威脅」。菲律賓大氣地理天文服務署（PAGASA）也曾說明，畫眉於11月9日上午進入菲律賓責任區並被當地命名為「Samuel」，但並未直接影響菲律賓，並於次日下午離開該區，當時距呂宋島最北端約1415公里。",
-    "這波活躍的颱風季之前，台灣確曾在10月底遭受直接衝擊。根據馬來西亞《星報》引述中央氣象署報導，該署在10月22日對強颱「薔琵」（Champi）發布陸上颱風警報，預期其主要影響將落在10月23日至24日，屏東縣及外島同時發布強風特報。卡達半島電視台（Al Jazeera）報導，薔琵掠過台灣東北部，造成至少1人死亡、逾350人受傷，另有超過5000人疏散避難。",
-    "與此同時，全球近期最顯著的熱帶氣旋活動發生在北印度洋。綜合Oneindia、Down To Earth及Swarajya等媒體報導，短短約一個月內，印度東岸的安得拉邦與奧迪夏邦接連遭受三個氣旋侵襲——10月底的「Arnab」、11月3日登陸翁戈萊附近的「Murasu」，以及11月20日登陸、風速一度達每小時145公里的「Akvan」。全球災害預警與協調系統（GDACS）11月16日曾就Akvan發布橙色警示，評估約有2080萬人暴露於颱風強度風場之中，並指出這是過去30天內第三次發布同等級警示。",
-    "展望未來，菲律賓《每日論壇報》引述PAGASA氣候學家說法稱，在預期於年底前達到高峰、並持續至2027年第一季的強至極強厄爾尼諾現象影響下，2026年底前仍可能有至少一個熱帶氣旋進入菲律賓責任區，強度甚至有機會達到颱風或超級颱風等級，值得持續關注。"
+    "截至11月24日，台灣中央氣象署並未發布任何海上颱風警報或陸上颱風警報，目前也沒有任何熱帶氣旋直接威脅台灣。對於上個月才遭受強颱重創的台灣而言，這段平靜期格外令人鬆一口氣。",
+    "這樣的平靜背後，卻是一個不平凡的颱風季。根據Watchers.News旗下Epicenter的報導，11月7日生成的颱風蔻蔻成為本季第32個命名風暴，一舉超越2013年所創下的31個紀錄，使2026年成為本世紀西北太平洋最活躍的颱風季。這項紀錄之所以重要，在於它說明即便蔻蔻本身並未對台灣構成威脅，整個區域的風暴活動頻率仍處於異常高點，為接下來的冬季留下不確定性。",
+    "台灣近來唯一遭受重大衝擊的颱風是10月下旬來襲的強颱琵琶（Champi）。根據半島電視台（Al Jazeera）報導，琵琶於10月下旬掠過台灣東北部海岸，造成一人死亡、約350人受傷；馬來西亞《星報》（The Star）則指出，中央氣象署當時已針對琵琶來襲發布陸上颱風警報，預告強風豪雨。印度全印廣播電台（News on Air）的報導描述，台灣當時停班停課、交通及航班大規模停駛。根據Watchers.News的後續報導，中央災害應變中心最終簡報顯示，琵琶共造成一人死亡、634人受傷，農業損失達新台幣1.93億元。",
+    "至於蔻蔻，據日本氣象新聞（Weathernews）報導，該颱風原向西北移動後轉向東方，在日本以南海域減弱遠離，並未靠近台灣或菲律賓。中央社英文新聞網Focus Taiwan亦報導，蔻蔻當時位於台灣鵜鑾鼻東方約1,690公里處，距離遙遠，不致對台灣構成直接威脅。",
+    "台灣以外，全球近期最受關注的熱帶氣旋新聞來自印度。據OneIndia報導，強烈氣旋風暴「阿克凡」（Akvan）於11月20日前後登陸印度安德拉邦沿岸，風速一度達每小時145公里，為該地區三週內第三個來襲的孟加拉灣氣旋，但與台灣局勢無關。",
+    "展望未來，菲律賓大氣地理天文服務署（PAGASA）仍預期年底前可能再有風暴生成。據GMA Network報導，PAGASA預估11月仍有一至兩個熱帶氣旋形成或進入其責任區；《每日論壇報》（Daily Tribune）則引述該署氣候學家Ana Liza Solis表示，今年底前至少還可能有一個熱帶氣旋進入菲律賓責任區，甚至有機會發展為颱風或超級颱風強度，但她也坦言今年可能不會再有颱風生成。這意味著12月台灣附近再度出現風暴活動的可能性仍無法完全排除，儘管目前並無任何系統正在形成或預測將接近台灣。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋Akvan逼近 安得拉邦戒備",
-      "dek": "Oneindia報導，印度氣象局預測氣旋Akvan將於11月20日登陸安得拉邦，風速達每小時145公里。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "強颱琵琶重創台灣 造成一死數百傷",
+      "dek": "根據半島電視台報導，強颱琵琶10月下旬掠過台灣東北部，造成一人死亡、約350人受傷，強風豪雨並一度癱瘓交通。",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
       "rank": 2,
-      "title": "一個月內第三個氣旋來襲印度",
-      "dek": "Down To Earth報導，Akvan是一個月內第三個襲擊印度東岸的氣旋，此前已有Arnab與Murasu登陸。",
-      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
+      "title": "琵琶來襲前 台灣發布陸上颱風警報",
+      "dek": "馬來西亞《星報》報導，台灣中央氣象署在強颱琵琶逼近之際發布陸上颱風警報，預告強風豪雨將影響東北部沿岸。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     },
     {
       "rank": 3,
-      "title": "Akvan增強為極強氣旋風暴",
-      "dek": "Swarajya報導，Akvan在登陸安得拉邦前增強為極強氣旋風暴，印度氣象局預測登陸後將逐漸減弱但仍有強降雨風險。",
-      "url": "https://swarajyamag.com/news-brief/cyclone-akvan-strengthens-to-very-severe-storm-ahead-of-friday-landfall-in-andhra-pradesh"
+      "title": "琵琶逼近 台灣交通停擺",
+      "dek": "據印度全印廣播電台報導，颱風琵琶來襲期間台灣各地停班停課，交通與航班大規模中斷。",
+      "url": "https://newsonair.gov.in/taiwan-grinds-to-halt-as-typhoon-champi-nears/"
     },
     {
       "rank": 4,
-      "title": "GDACS對氣旋Akvan發橙色警示",
-      "dek": "全球災害預警系統GDACS於11月16日發布橙色警示，評估約2080萬人暴露於Akvan的風場範圍內。",
-      "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
+      "title": "琵琶重創後 台灣進入復原階段",
+      "dek": "Watchers.News報導，中央災害應變中心最終簡報指出，颱風琵琶造成一死634傷，農業損失達新台幣1.93億元，東部地區仍有零星降雨。",
+      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
     },
     {
       "rank": 5,
-      "title": "畫眉颱風成今年第32個 創本世紀紀錄",
-      "dek": "Watchers.news報導，11月7日生成的颱風畫眉是今年第32個編號颱風，超越2013年紀錄成本世紀最多。",
+      "title": "颱風蔻蔻成本季第32個命名風暴 創本世紀紀錄",
+      "dek": "Watchers.News旗下Epicenter報導，11月7日生成的颱風蔻蔻為2026年第32個命名風暴，超越2013年的31個紀錄，使本季成為本世紀最活躍的西北太平洋颱風季。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 6,
-      "title": "畫眉轉向日本南方海域 不威脅台灣",
-      "dek": "Weathernews報導畫眉轉向日本南方海域外海，與中央氣象署指其對台灣不構成威脅的聲明一致。",
+      "title": "蔻蔻轉向日本南方海域 遠離台灣",
+      "dek": "日本氣象新聞（Weathernews）報導，颱風蔻蔻轉向東方並在日本以南海域減弱，預計約11月14日降為熱帶低氣壓。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 7,
-      "title": "畫眉進入菲律賓責任區 旋即離開",
-      "dek": "Inquirer.net報導，PAGASA指畫眉11月9日進入菲律賓責任區並命名「Samuel」，次日即離開未直接影響菲國。",
-      "url": "https://newsinfo.inquirer.net/2338301/typhoon-samuel-enters-par-not-expected-to-affect-philippines/amp"
+      "title": "中央社：蔻蔻距台灣鵜鑾鼻仍遠 不構成威脅",
+      "dek": "Focus Taiwan報導，熱帶風暴蔻蔻當時位於台灣鵜鑾鼻東方約1,690公里處，距離遙遠，並稱其為本季創紀錄的第32個命名風暴。",
+      "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
       "rank": 8,
-      "title": "薔琵來襲前 台灣發布陸上警報",
-      "dek": "《星報》引述中央氣象署報導，該署10月22日對強颱薔琵發布陸上颱風警報，屏東及外島同步發布強風特報。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+      "title": "氣旋阿克凡登陸印度安德拉邦 風速達145公里",
+      "dek": "據OneIndia報導，強烈氣旋風暴阿克凡11月20日前後登陸印度安德拉邦沿岸，風速一度達每小時145公里，為該地區三週內第三個孟加拉灣氣旋。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 9,
-      "title": "薔琵掠台 1死逾350傷",
-      "dek": "半島電視台報導，颱風薔琵掠過台灣東北部，造成1人死亡、逾350人受傷，逾5000人疏散。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "PAGASA預估11月仍有一至兩個熱帶氣旋生成",
+      "dek": "根據GMA Network報導，菲律賓大氣地理天文服務署預估11月仍有一至兩個熱帶氣旋形成或進入其責任區，同時預告降雨量將低於正常值。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 10,
-      "title": "PAGASA：年底前仍可能有颱風",
-      "dek": "《每日論壇報》報導，PAGASA氣候學家稱年底前菲律賓責任區仍可能出現颱風甚至超級颱風。",
+      "title": "PAGASA：今年底前仍可能再有颱風生成",
+      "dek": "《每日論壇報》報導，PAGASA氣候學家Ana Liza Solis表示，年底前至少還可能有一個熱帶氣旋進入菲律賓責任區，甚至發展為颱風或超級颱風強度。",
       "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     }
   ]
