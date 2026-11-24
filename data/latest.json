@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T15:10:00+08:00",
+  "generated_at": "2026-11-24T16:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署24日表示，目前未對任何颱風或熱帶氣旋發布海上或陸上颱風警報，台灣已連續逾一個月未受風暴直接威脅，上一次警報為10月下旬颱風薔琵來襲前。",
+  "alert_desc": "中央氣象署截至11月24日未對台灣發布海上或陸上颱風警報，全島暫時脫離颱風直接威脅，但南太平洋強烈熱帶氣旋哈維爾與印度東岸氣旋阿克凡仍在活躍。",
   "region_watch": {
     "region": "台中",
-    "text": "目前查無任何現行颱風或熱帶氣旋系統直接影響台中，11月未見停班停課公告，上一次台中停班停課紀錄為7月巴威颱風（7月10日晚間至7月11日全天）。結論：目前無直接影響。"
+    "text": "目前無任何活躍颱風系統直接影響台中，查無近期（2026年11月）台中停班停課或風雨特報相關報導，最近一次台中因颱風停班停課為7月颱風巴威（連續停班停課30小時）。結論：目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,77 +22,77 @@
     }
   ],
   "headline": {
-    "title": "暴風圈外的平靜：台灣暫無颱風警報，但太平洋與印度洋風暴接連襲擊",
-    "dek": "中央氣象署表示目前無海上或陸上颱風警報，但南太平洋氣旋哈維爾與孟加拉灣氣旋阿克凡接連重創島嶼與印度沿岸，顯示今年風季尚未落幕。"
+    "title": "台灣暫無颱風警報 全球風暴活躍：強烈氣旋哈維爾重創庫克群島、阿克凡襲印度東岸",
+    "dek": "中央氣象署目前未對台灣發布海上或陸上颱風警報，但南太平洋強烈熱帶氣旋「哈維爾」與印度東岸氣旋「阿克凡」接連發威，今年西北太平洋颱風季也以32個颱風數量，成為自1994年以來最活躍的一年。"
   },
   "headline_body": [
-    "台灣中央氣象署（CWA）24日表示，目前未對任何颱風或熱帶氣旋發布海上或陸上警報，這是自10月下旬颱風「薔琵」警報解除以來，台灣首次連續逾一個月未受任何風暴威脅。",
-    "然而，這份平靜僅限於台灣周邊海域。放眼全球，太平洋與印度洋近期風暴活動依然頻繁，顯示今年異常活躍的風季尚未真正落幕。南太平洋方面，紐西蘭新聞網站1News報導，氣旋哈維爾本月17日至18日在庫克群島北部海域急速增強至五級強度，陣風一度達每小時315公里；紐西蘭國家廣播電台（RNZ）則指出，受惠於島嶼委員會提前部署，當地並未傳出重大傷亡或損失。",
-    "與此同時，印度東岸的災情較為嚴重。據Watchers.news與印度媒體The Federal報導，孟加拉灣氣旋阿克凡於11月20日在安得拉邦內洛爾與圖尼之間登陸，登陸時風速達每小時90至145公里，奧迪沙省已事先疏散約5萬名居民；愛爾蘭通訊社（PA）報導稱，這已是短短一個月內第三個襲擊當地同一海岸的強烈氣旋。",
-    "在西太平洋，中央社英文新聞網Focus Taiwan報導，熱帶風暴森帕卡成為今年第32個被命名的風暴，創下自2013年以來最活躍風季的紀錄，但該系統本月初在台灣鵞鑾鼻東方約1690公里處即轉向北行，最終在日本外海轉化為溫帶氣旋，全程未直接威脅台灣。",
-    "回顧台灣本季唯一一次正面受創，半島電視台與Watchers.news報導，10月下旬颱風錢比來襲，中央災害應變中心最終統計造成一人死亡、634人受傷，是今年對台灣衝擊最大的風暴。",
-    "展望未來，菲律賓大氣地理天文服務署（PAGASA）與中國氣象局（CMA）均指出，在強烈厄爾尼諾現象影響下，預料年底前菲律賓責任海域仍可能有一至兩個熱帶氣旋形成或進入，但截至目前，尚無任何系統被確認正逼近台灣。"
+    "截至11月24日，台灣中央氣象署並未對本島發布任何海上或陸上颱風警報，全島暫時脫離颱風的直接威脅。這是今年入秋以來，台灣少數完全沒有風雨警戒的平靜時刻，但放眼西太平洋與印度洋，多個風暴系統仍在活躍。",
+    "這種「台灣無警、全球多颱」的格局，正是今年颱風季的縮影：西北太平洋今年已生成32個命名颱風，是本世紀最活躍的一季，而南太平洋與印度洋同時出現強烈風暴，顯示全球熱帶氣旋活動並未趨緩。",
+    "中央氣象署的紀錄顯示，台灣最近一次發布颱風警報的對象分別是10月下旬的颱風「薔琵」，以及同月的颱風Champi。其中，颱風Champi仍是目前最近一次直接衝擊台灣的風暴：根據卡達半島電視台（Al Jazeera）報導，Champi於10月下旬襲擊台灣東北部，造成1人死亡、逾350人受傷，台灣中央災害應變中心後續統計的受傷人數更上修至634人，並一度導致班機取消及大規模停電。自該次事件後，尚無其他颱風直接影響台灣。",
+    "在南太平洋，強烈熱帶氣旋「哈維爾」（Xavier）是近期最受矚目的風暴。紐西蘭電視台1News報導，哈維爾於11月18日前後增強至五級強度，肆虐庫克群島北部，根據斐濟氣象局數據，陣風一度達到每小時315公里，當地災害管理機構呼籲馬尼希基（Manihiki）等島嶼居民保持高度警戒，電力供應中斷是首要隱憂。1News另於11月19日報導，哈維爾雖已減弱，但仍以強烈的四級風暴強度，持續在馬尼希基與普卡普卡（Pukapuka）之間移動，普卡普卡、納蘇（Nassau）及蘇瓦羅（Suwarrow）等地的強風警報仍未解除。氣象網站Watchers.news則指出，哈維爾增強的背後，與強烈厄爾尼諾現象將南太平洋風暴活動帶向東側有關。由於哈維爾11月24日當下的最新強度並未見於現有報導，其目前狀態仍有待確認。",
+    "在印度洋，印度媒體Down To Earth報導，氣旋風暴「阿克凡」（Akvan）在孟加拉灣形成後直撲安得拉邦與奧迪沙邦海岸，是該地區一個月內第三個重大風暴，此前已有氣旋「阿爾納布」（10月下旬）與「穆拉蘇」（11月3日）接連登陸。印度媒體OneIndia報導，當局預估阿克凡登陸時風速可達每小時145公里，登陸時間約在11月20日，安得拉邦政府已下令沿海居民撤離。另據印度媒體Swarajya報導，印度氣象局已將阿克凡升級為「極強烈氣旋風暴」，預期其登陸前會略為減弱；印度媒體ThePrint報導，奧迪沙邦則部署74支救援隊，並在8個轄區內鎖定逾20萬人作為疏散對象，儘管該邦受到的衝擊預期將小於鄰邦安得拉邦。阿克凡11月24日的最新狀態同樣未見於現有報導，仍待進一步確認。",
+    "今年西北太平洋颱風季的活躍程度同樣值得關注。氣象網站Watchers.news報導，颱風「森巴卡」（Cempaka）於11月7日在西北太平洋生成，成為今年第32個颱風，超越2013年全年31個的紀錄，是本世紀以來最活躍的一季，科學家將此歸因於強烈厄爾尼諾現象使副熱帶高壓北移，有利颱風生成。日本氣象媒體Weathernews報導，森巴卡預估巔峰強度約為每小時148公里、中心氣壓960百帕，其路徑轉向南日本外海後並未登陸，預計於11月14日減弱為熱帶性低氣壓並轉化為溫帶氣旋。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋哈維爾威力漸減，掠過庫克群島北部島嶼",
-      "dek": "1News報導，氣旋哈維爾在巔峰時期達到五級強度後開始減弱，期間掠過馬尼希基與普卡普卡島之間海域。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
-    },
-    {
-      "rank": 2,
-      "title": "五級強氣旋哈維爾肆虐庫克群島北部，陣風達每小時315公里",
-      "dek": "1News報導，哈維爾在馬尼希基與拉卡漢加島附近增強為五級氣旋，南太平洋氣象中心預估風勢將逐漸減弱。",
+      "title": "強烈熱帶氣旋哈維爾增強至五級 肆虐庫克群島北部",
+      "dek": "紐西蘭電視台1News報導，哈維爾於11月18日前後增強至五級強度襲擊庫克群島北部，陣風一度達每小時315公里，當地電力供應面臨嚴重威脅。",
       "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
+      "rank": 2,
+      "title": "哈維爾減弱為四級風暴 持續橫掃庫克群島",
+      "dek": "1News報導，哈維爾雖從五級降為四級，仍以強風持續影響馬尼希基與普卡普卡之間海域，多個島嶼強風警報未解除。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+    },
+    {
       "rank": 3,
-      "title": "庫克群島躲過哈維爾重創，初步報告未見傷亡",
-      "dek": "紐西蘭國家廣播電台（RNZ）報導，儘管哈維爾一度達到五級強度，當地島嶼委員會的超前部署使北部島嶼未傳出嚴重損害或人員傷亡。",
-      "url": "https://www.rnz.co.nz/international/pacific-news/294515/cooks-escapes-cyclone-unscathed"
+      "title": "哈維爾增強至二級 馬尼希基、拉卡漢加發布強風警報",
+      "dek": "氣象網站Watchers.news報導，哈維爾在厄爾尼諾影響下快速增強，預期24小時內升級為強烈熱帶氣旋。",
+      "url": "https://watchers.news/2026/11/16/tropical-cyclone-xavier-northern-cook-islands-manihiki-rakahanga-november-2026/"
     },
     {
       "rank": 4,
-      "title": "孟加拉灣低壓增強為氣旋阿克凡，預測20日登陸印度安得拉邦",
-      "dek": "Watchers.news報導，這個孟加拉灣低壓系統預計增強為氣旋阿克凡，並於11月20日在內洛爾與圖尼之間登陸，是一個月內襲擊當地海岸的第三個氣旋。",
-      "url": "https://watchers.news/2026/11/16/cyclone-akvan-landfall-forecast-nellore-tuni-andhra-pradesh-november-20-india/"
+      "title": "阿克凡成一個月內第三個威脅印度東岸的氣旋",
+      "dek": "印度媒體Down To Earth報導，阿克凡在孟加拉灣形成並直撲安得拉邦與奧迪沙邦，是繼阿爾納布與穆拉蘇後，一個月內第三個重大風暴。",
+      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
     },
     {
       "rank": 5,
-      "title": "氣旋阿克凡增強為「極強烈風暴」，印度東岸多邦戒備",
-      "dek": "印度媒體The Federal報導，印度氣象局預測阿克凡登陸時風速可達每小時90至145公里、風暴潮高達1.2公尺，奧迪沙省已疏散約5萬人。",
-      "url": "https://thefederal.com/category/news/cyclone-akvan-bay-of-bengal-east-coast-rainfall-weather-forecast-imd-263072"
+      "title": "安得拉邦戒備阿克凡登陸 預估風速達每小時145公里",
+      "dek": "印度媒體OneIndia報導，安得拉邦當局為阿克凡11月20日登陸展開疏散與緊急準備。",
+      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
     },
     {
       "rank": 6,
-      "title": "印度東岸數萬人疏散，氣旋阿克凡登陸造成嚴重破壞",
-      "dek": "愛爾蘭通訊社（PA）報導，阿克凡登陸後為安得拉邦與奧迪沙沿岸帶來強風豪雨，是一個月內第三個重創同一海岸的強烈氣旋。",
-      "url": "https://www.irishnews.com/news/world/tens-of-thousands-evacuated-as-cyclone-causes-extensive-damage-in-parts-of-india-7VMNXHWSNVPNBMA4TOOD4Z4CUQ/"
+      "title": "阿克凡升級為「極強烈氣旋風暴」 週五登陸安得拉邦",
+      "dek": "印度媒體Swarajya報導，印度氣象局已將阿克凡升級，預估登陸前強度會略為減弱。",
+      "url": "https://swarajyamag.com/news-brief/cyclone-akvan-strengthens-to-very-severe-storm-ahead-of-friday-landfall-in-andhra-pradesh"
     },
     {
       "rank": 7,
-      "title": "颱風錢比重創台灣，造成一死數百傷",
-      "dek": "半島電視台報導，颱風錢比以強風豪雨襲台，初步統計一人死亡、約350人受傷，中央氣象署隨即發布海陸颱風警報，多地宣布停班停課。",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "奧迪沙部署74支救援隊 展開疏散應對阿克凡",
+      "dek": "印度媒體ThePrint報導，奧迪沙邦鎖定逾20萬人疏散，儘管衝擊預期將以鄰邦安得拉邦較嚴重。",
+      "url": "https://theprint.in/india/odisha-deploys-74-rescue-teams-starts-evacuation-as-cyclone-akvan-set-to-hit-neighbouring-andhra/3100496/"
     },
     {
       "rank": 8,
-      "title": "颱風錢比最終統計：一死634傷，台灣災後復原持續進行",
-      "dek": "Watchers.news報導，中央災害應變中心公布颱風錢比10月22日至24日造成的最終災情為一人死亡、634人受傷。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "title": "颱風森巴卡成今年第32個颱風 創1994年以來最活躍紀錄",
+      "dek": "氣象網站Watchers.news報導，森巴卡的生成使今年西北太平洋颱風數量超越2013年紀錄，科學家歸因於強烈厄爾尼諾現象。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 9,
-      "title": "熱帶風暴森帕卡遠離台灣東側，東北季風反而帶來降溫",
-      "dek": "中央社英文新聞網Focus Taiwan報導，創紀錄的今年第31、32號風暴森帕卡在台灣鵞鑾鼻東方約1690公里處通過，並未直接威脅台灣，報導重點轉向增強中的東北季風為北部帶來涼意。",
-      "url": "https://focustaiwan.tw/society/202611080013"
+      "title": "颱風森巴卡轉向日本南方海域 未登陸即轉化減弱",
+      "dek": "日本氣象媒體Weathernews報導，森巴卡預估巔峰風速約148公里，未威脅主要陸地，預計轉化為溫帶氣旋。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 10,
-      "title": "PAGASA預測11月菲律賓責任區再增1至2個熱帶氣旋",
-      "dek": "菲律賓GMA新聞網報導，菲律賓大氣地理天文服務署在強烈厄爾尼諾現象下，預估11月仍有一至兩個熱帶氣旋生成或進入菲律賓責任海域。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "颱風Champi襲台釀1死 傷者數上修至634人",
+      "dek": "卡達半島電視台報導，Champi是最近一次直接衝擊台灣的颱風，台灣中央災害應變中心後續將受傷人數上修。",
+      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     }
   ]
 }
