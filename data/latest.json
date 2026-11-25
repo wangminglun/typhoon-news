@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T09:12:00+08:00",
+  "generated_at": "2026-11-25T10:10:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "根據中央氣象署資料，自10月下旬颱風薔琵（Champi）之後，至11月25日止並未再發布任何海上或陸上颱風警報，目前台灣各地均未受颱風系統直接影響。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報。上一次警報為颱風薔琵（Qiangba）海上颱風警報，已於10月24日晚間8時30分解除，此後未再發布新警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響。台灣目前主要受東北季風及鋒面影響，氣溫下降、部分地區有降雨，但沒有颱風系統直接侵襲台中，也沒有停班停課相關報導。"
+    "text": "目前無直接影響。台中目前未受任何颱風系統侵襲，上一次受衝擊是10月下旬颱風薔琵過境，當時台中傷患人數居全台之冠，惟該事件已完全落幕；目前主要天氣因素為東北季風南下，無停班停課相關報導。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "台灣未受颱風威脅 東北季風南下氣溫轉涼",
-    "dek": "中央氣象署未發布任何颱風警報，今年西北太平洋颱風季雖創下21世紀最活躍紀錄，但最新颱風璨帕（Cempaka）已轉向遠離台灣。"
+    "title": "無活躍颱風威脅台灣 氣象署：東北季風主導天氣型態",
+    "dek": "今年太平洋颱風季以32個命名颱風創下本世紀新高，但截至11月25日並無颱風或熱帶風暴直接威脅台灣，目前影響全台的是接連南下的東北季風與鋒面系統。"
   },
   "headline_body": [
-    "根據中央氣象署資料，台灣目前未受任何颱風系統侵襲，氣象署也未發布海上或陸上颱風警報。影響近日天氣的主要因素是一波增強中的東北季風與鋒面系統，帶來氣溫下降與部分地區降雨，與颱風無關。",
-    "自十月下旬颱風薔琵（Champi）侵襲台灣以來，已逾一個月未有颱風直接登陸或逼近本島。根據卡達半島電視台報導，薔琵颱風於10月23日侵襲台灣，造成一人死亡、逾350人受傷（台灣中央災害應變中心後續統計顯示傷者人數增至約634人），並導致超過14萬6千戶停電，航班也受到影響。這仍是近期唯一直接衝擊台灣的颱風。",
-    "根據氣象網站Watchers.news報導，11月7日在西北太平洋生成的颱風璨帕（Cempaka），是今年第32個被命名的颱風，超越2013年的31個紀錄，成為21世紀以來最活躍的颱風季。中國氣象局與台灣、日本媒體證實，該颱風路徑轉向東北，並未對台灣或中國沿岸構成直接威脅。彭博社今年5月曾引述倫敦大學學院「熱帶風暴風險」（Tropical Storm Risk）團隊預測，受強烈聖嬰現象影響，2026年西北太平洋颱風季恐為2015年以來最活躍的一年，如今這項預測已獲證實。",
-    "全球其他地區的熱帶氣旋活動同樣顯著。根據紐西蘭1News報導，五級強烈氣旋哈維爾（Xavier）上週侵襲南太平洋庫克群島北部，最大風速近每小時220公里、陣風達每小時315公里，專家將此異常路徑歸因於強聖嬰現象；該氣旋隨後減弱為四級，暫無死亡案例，但基礎設施受損情況仍在評估。在孟加拉灣，根據印度媒體OneIndia與孟加拉《金融快報》報導，氣旋阿克凡（Akvan）原訂11月20日登陸印度安得拉邦沿岸，預估風速達每小時145公里，是一個月內第三個侵襲該地區的孟加拉灣氣旋；此前氣旋阿爾納布（Arnab）已於10月28日造成當地最多9人死亡並重創14個行政區農作物，氣旋穆拉蘇（Murasu）則於11月3日造成兩人死亡並擾亂鐵路與航空運輸。",
-    "菲律賓大氣地球物理暨天文服務管理局（PAGASA）氣候學家索利斯（Ana Liza Solis）向GMA新聞表示，預期11月仍有一至兩個熱帶氣旋進入菲律賓責任區，年底前不排除再有一個颱風侵襲菲律賓，但今年剩餘時間維持無颱風狀態的可能性同樣存在。對台灣而言，氣象署將持續監控西太平洋動態，但截至目前尚無系統構成威脅。"
+    "截至今（25）日，西太平洋海域並無任何颱風或熱帶風暴對台灣構成威脅，中央氣象署亦未發布海上或陸上颱風警報。目前影響台灣的天氣系統，是一波波南下的東北季風及鋒面，而非熱帶氣旋。",
+    "這是歷來最活躍颱風季之一的尾聲。根據《The Watchers》報導，11月7日生成的颱風天兔（Cempaka）成為今年第32個命名颱風，超越2013年的31個紀錄，寫下本世紀以來最多紀錄。天兔其後北轉，行經日本以南海域，約於11月11日至14日減弱為溫帶氣旋，全程未對台灣造成影響。菲律賓大氣地球物理暨天文服務署（PAGASA）則表示，天兔在進入該國責任海域前便已增強為颱風，是今年11月首個進入菲律賓責任海域的熱帶氣旋。另據美國《檀香山星報》報導，11月初在夏威夷南方生成的熱帶風暴佩娜（Pena）雖一度被預測可能跨越換日線、在西太平洋增強為「今年第33號颱風」，但截至11月10日已呈減弱趨勢，此後未見進一步確認其強度變化。",
+    "台灣今年最近一次直接受颱風衝擊，是10月下旬接連來襲的颱風樺加沙（Champi）與薔琵（Qiangba）。根據卡達半島電視台報導及後續追蹤報導，樺加沙於10月22日至24日侵襲台灣，造成至少1人死亡、超過600人受傷，並導致大量班機取消與多處停電。中央社報導指出，緊接而來的薔琵暴風圈於10月23日觸及台灣東半部，中央災害應變中心統計共造成1死634傷，其中台中市傷患人數居全台之冠，全台並有逾31萬戶一度停電；中央氣象署已於10月24日晚間8時30分解除薔琵海上颱風警報，顯示該波衝擊已全面落幕。",
+    "目前全台天氣已轉由東北季風主導。根據中央社英文新聞網（Focus Taiwan）報導，一波鋒面於11月18日通過台灣，為北部與東部帶來增強東北風及零星降雨，平地氣溫一度降至攝氏14度左右；另一波冷空氣則在11月24日前後南下，部分地區低溫逼近攝氏11度，氣溫持續下探。",
+    "展望後市，PAGASA於11月10日表示，在今年異常活躍的颱風季之後，年底前菲律賓責任海域仍有可能再迎來至少一個熱帶氣旋，但目前尚無具體生成跡象，台灣民眾仍應持續留意氣象署後續發布的天氣資訊。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "颱風璨帕成為今年第32個颱風 創21世紀紀錄",
-      "dek": "這個11月7日在西北太平洋生成的颱風打破2013年保持的紀錄，但未對台灣或中國沿岸構成威脅。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
-    },
-    {
-      "rank": 2,
-      "title": "颱風薔琵侵襲台灣 釀一死數百人受傷",
-      "dek": "這場10月下旬侵襲台灣的颱風造成逾350人受傷、14萬6千多戶停電，是近期唯一直接衝擊台灣的颱風。",
+      "title": "颱風樺加沙重創台灣 釀1死逾600人受傷",
+      "dek": "卡達半島電視台報導，颱風樺加沙10月下旬橫掃台灣，造成至少1人死亡、數百人受傷，並引發大規模班機取消與停電。",
       "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
+      "rank": 2,
+      "title": "樺加沙災後復原持續 基礎設施損害尚待修復",
+      "dek": "《The Watchers》追蹤報導指出，颱風樺加沙過境後，台灣多地仍在進行基礎設施修復與災後重建工作。",
+      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+    },
+    {
       "rank": 3,
-      "title": "五級強烈氣旋哈維爾重創庫克群島北部",
-      "dek": "氣旋挾帶每小時220公里強風侵襲馬尼希基與拉卡航加等島嶼，專家指異常路徑與強聖嬰現象有關。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "颱風薔琵海警解除 25日清晨起降雨漸緩",
+      "dek": "中央社報導，中央氣象署已於10月24日晚間解除薔琵海上颱風警報，全台約87鄉鎮曾測得十級以上陣風。",
+      "url": "https://cna.com.tw/news/ahel/202610240199.aspx"
     },
     {
       "rank": 4,
-      "title": "氣旋哈維爾減弱為四級 持續橫掃庫克群島",
-      "dek": "氣旋移向馬尼希基與普卡普卡之間，當地仍維持強風警報，初步未傳出死亡案例。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "title": "薔琵暴風圈觸及東半部 中央災害中心統計1死634傷",
+      "dek": "中央社報導，颱風薔琵暴風圈於10月23日觸及台灣東部，中央災害應變中心事後統計全台1死634傷，台中市傷患人數最多。",
+      "url": "https://cna.com.tw/news/ahel/202610230018.aspx"
     },
     {
       "rank": 5,
-      "title": "氣旋阿克凡逼近 印度安得拉邦嚴陣以待",
-      "dek": "印度氣象部門預測氣旋將於11月20日登陸，風速估達每小時145公里，為一個月內第三個侵襲當地的孟加拉灣氣旋。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "颱風天兔生成 成本世紀以來最多颱風紀錄第32個",
+      "dek": "《The Watchers》報導，颱風天兔於11月7日形成，超越2013年紀錄，成為本世紀同一年內最多颱風的新紀錄保持者，其後北轉未影響台灣。",
+      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 6,
-      "title": "孟加拉灣氣旋阿克凡逼近 孟加拉港口發布三號警戒",
-      "dek": "孟加拉氣象當局針對沿海地區發布豪雨警報，並在各海港懸掛三號警示信號。",
-      "url": "https://thefinancialexpress.com.bd/environment/severe-cyclone-akvan-triggers-signal-no-3-at-bangladesh-seaports-heavy-rain-alert"
+      "title": "天兔進入菲律賓責任海域前已增強為颱風",
+      "dek": "《菲律賓每日詢問者報》報導，強烈熱帶風暴天兔（菲律賓當地命名Samuel）在進入菲律賓責任海域前已增強為颱風，為該國11月首見。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
     },
     {
       "rank": 7,
-      "title": "氣旋阿爾納布重創印度安得拉邦 最多9人罹難",
-      "dek": "10月28日登陸的氣旋重創14個行政區農作物，損失估計近46億盧比，逾34.5萬農民受影響。",
-      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cyclone-arnab-claims-9-lives-devastates-crops-in-14-ap-dists-1999772"
+      "title": "PAGASA：年底前菲律賓海域恐再現颱風",
+      "dek": "《每日論壇報》報導，菲律賓大氣地球物理暨天文服務署表示，在今年異常活躍的颱風季後，年底前仍可能有熱帶氣旋進入該國責任海域。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 8,
-      "title": "氣旋穆拉蘇釀兩死 擾亂印度安得拉邦交通",
-      "dek": "11月3日登陸翁格勒附近的氣旋造成兩人死亡，並一度中斷當地鐵路與航空運輸。",
-      "url": "https://www.deccanherald.com/india/cyclone-murasu-kills-two-in-andhra-pradesh-disrupts-rail-and-air-services-4206212"
+      "title": "熱帶風暴佩娜遠離夏威夷 後續動向待觀察",
+      "dek": "美國《檀香山星報》報導，熱帶風暴佩娜雖未威脅夏威夷陸地，一度被認為可能跨越換日線增強為西太平洋第33號颱風，但截至報導時已呈減弱趨勢。",
+      "url": "https://www.staradvertiser.com/2026/11/10/breaking-news/tropical-storm-pena-moves-away-from-hawaii/"
     },
     {
       "rank": 9,
-      "title": "預測機構示警：西北太平洋颱風季恐為十年來最活躍",
-      "dek": "彭博社報導，倫敦大學學院團隊早在5月已預警強聖嬰現象恐催生近十年最活躍颱風季，如今已獲印證。",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/typhoon-season-in-northwest-pacific-seen-most-active-in-a-decade"
+      "title": "鋒面週四通過 北東部低溫下探攝氏14度",
+      "dek": "中央社英文新聞網報導，中央氣象署預報一波鋒面11月18日通過台灣，北部與東部氣溫將降至攝氏14度左右，伴隨增強東北風及零星降雨。",
+      "url": "https://focustaiwan.tw/society/202611150011"
     },
     {
       "rank": 10,
-      "title": "PAGASA預估年底前菲律賓周邊恐再有一至兩個颱風",
-      "dek": "菲律賓氣象機構氣候學家表示，11月仍可能有熱帶氣旋進入責任區，但也不排除今年剩餘時間無颱風形成。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "冷氣團南下 氣象署：降雨溫度持續下探",
+      "dek": "中央社英文新聞網報導，中央氣象署表示天氣將轉冷轉乾，低溫恐探攝氏11度，另有系統於11月24日前後再度帶來降雨與氣溫下滑。",
+      "url": "https://focustaiwan.tw/society/202611190005"
     }
   ]
 }
