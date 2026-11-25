@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T01:12:00+08:00",
+  "generated_at": "2026-11-26T02:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "目前未發布任何海上或陸上颱風警報。台灣現受東北季風影響，氣溫偏低、局部有雨，但無颱風直接威脅。",
+  "alert_desc": "目前未發布任何海上或陸上颱風警報。今年西太平洋颱風季已創下本世紀最多颱風生成紀錄，但目前已進入空窗期，台灣本島未受任何颱風直接威脅。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中。當地天候現況為東北季風帶來的降溫與局部降雨，風雨程度與停班停課狀態均維持正常，未受任何熱帶氣旋系統影響。"
+    "text": "目前無颱風直接影響台中。當地未受任何活躍熱帶氣旋系統影響，風雨程度與停班停課狀態維持正常。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "孟加拉灣颱風接連來襲 聖嬰現象牽動全球風暴版圖，台灣暫無威脅",
-    "dek": "印度東岸一個月內三度遭熱帶氣旋侵襲，氣象學者將這波異常活躍的風暴季歸因於聖嬰現象；台灣則持續受東北季風主導，未見颱風蹤影。"
+    "title": "颱風季暫歇但紀錄已創：2026年太平洋颱風數創本世紀新高，台灣目前無活躍颱風警報",
+    "dek": "中央氣象署目前未發布任何海上或陸上颱風警報，但氣象專家提醒，西太平洋今年颱風生成數已超越2013年紀錄，菲律賓氣象機構警告年底前仍可能再有新颱風形成。"
   },
   "headline_body": [
-    "印度東部沿海本月第三度遭受熱帶氣旋侵襲。根據印度氣象局（IMD）預報，強烈氣旋風暴「阿克凡」（Akvan）已於11月20日中午前後在安德拉邦內洛爾至維沙卡帕特南一帶登陸，最大陣風時速估計達145公里，當局已在安德拉邦、坦米爾納杜邦、奧里薩邦及西孟加拉邦發布豪雨與強風警報，沿海地區並展開撤離作業。",
-    "這已是印度東岸三週內遭遇的第三個氣旋。據《每日先鋒報》（The Pioneer）報導，10月28日登陸的氣旋「阿爾納布」（Arnab）造成6至9人死亡，經濟損失估計達46億盧比，逾34.5萬名農民受影響；《德干先驅報》（Deccan Herald）則報導，11月3日登陸的氣旋「穆拉蘇」（Murasu）造成2人死亡，並一度癱瘓當地鐵路與航空運輸。氣象學者指出，這種罕見的密集風暴群與今年持續增強的聖嬰現象密切相關。",
-    "相較之下，台灣目前未受任何颱風直接威脅。中央氣象署並未發布海上或陸上颱風警報，近期影響全台的是東北季風，北部、中部及宜蘭花蓮一帶低溫一度降至攝氏11至15度，迎風面地區並有零星降雨，屬季節轉換的正常現象，與熱帶氣旋無關。台灣今年最近一次遭受颱風直接衝擊，是10月下旬侵襲的颱風珍梅，造成1人死亡、逾500人受傷，距今已逾一個月。",
-    "聖嬰現象同時牽動了南太平洋與西北太平洋的風暴動態。紐西蘭電視台（1News/TVNZ）報導，五級強度的氣旋「沙維爾」（Xavier）11月18日重創庫克群島北部馬尼希基島後，隔日已緩慢減弱為四級，持續朝馬尼希基與普卡普卡之間移動，普卡普卡、納蘇及蘇瓦羅島的強風警報仍未解除；專家將此一異常偏東的路徑同樣歸因於聖嬰現象。另據watchers.news報導，西北太平洋今年已生成32個編號颱風，颱風「森巴」（Cempaka，菲律賓名Samuel）11月7日生成後成為本季第32個風暴，超越2013年的31個紀錄，成為本世紀最活躍的西北太平洋颱風季；森巴其後轉向東北外海減弱，並未侵襲台灣或菲律賓。",
-    "菲律賓大氣地理天文服務署（PAGASA）氣候學家索利斯（Ana Liza Solis）表示，在聖嬰現象持續影響下，年底前菲律賓責任區仍可能再出現一至兩個熱帶氣旋，甚至不排除達到颱風或超級颱風強度，但她也坦言情況仍有不確定性。與此同時，《自然世界新聞》（Nature World News）報導，斐濟內閣11月18日已宣布全國進入乾旱災害狀態，顯示聖嬰現象對南太平洋的影響已不限於風暴路徑，也波及降雨型態。整體而言，今年的異常活躍風暴季仍將持續牽動多個洋域，但截至目前，台灣尚未被捲入其中。"
+    "台灣目前沒有任何颱風警報生效。根據中央氣象署公開資訊，截至11月25日，無論海上或陸上均未發布颱風警報，台灣本島也未受任何活躍系統直接影響，顯示今年颱風季正處於一段罕見的空窗期。",
+    "然而，這段平靜期出現在一個歷史性颱風季的尾聲。根據《路透社》旗下氣象觀測網站Watchers.news與《露斯旅遊新聞》（RUS Tourism News）報導，11月7日生成的颱風「Cempaka」（浣熊）成為2026年第32個被命名的風暴，創下本世紀西太平洋颱風季生成數量的最高紀錄，超越2013年的31個。這項數字凸顯今年太平洋海域異常活躍的氣候條件。",
+    "對台灣而言，今年颱風季最具破壞力的系統是10月下旬的強烈颱風「Champi」（薔琵）。根據Watchers.news報導，Champi在逼近菲律賓與台灣期間一度增強為當年最強的熱帶氣旋，菲律賓當局並在巴丹群島維持二號警戒。《星報》（The Star）報導，中央氣象署隨後發布陸上颱風警報，超過百班航班取消；儘管Champi路徑北偏未直接登陸，仍為北台灣帶來強降雨，屏東與離島則出現強風。《半島電視台》（Al Jazeera）報導，Champi最接近台灣時造成1人死亡、逾350人受傷，全台停班停課、班機停飛。根據中央災害應變中心最終彙整數據，經Watchers.news引述，此次風災最終造成1死、634人受傷，農業損失約1.9332億元新台幣，台東富岡漁港一座大型吊車甚至被吹落海中。",
+    "Champi過後，太平洋風暴活動並未停止。《菲律賓每日詢問者報》（Philippine Daily Inquirer）報導，菲律賓大氣地理天文服務管理局（PAGASA）指出，「Cempaka」在進入菲律賓責任區前已於區外增強為颱風。中央社《Focus Taiwan》報導，當時Cempaka位於台灣最南端鵬鼻角以東約1,690公里處，對台灣並無直接威脅，但東北風仍為北台灣帶來降溫。日本氣象公司Weathernews的報告則顯示，Cempaka強度曾接近每小時80節、中心氣壓960百帕，隨後路徑轉向東北，於11月11日左右掠過日本小笠原群島南方海域並逐漸減弱。",
+    "展望未來，風險並未完全解除。《每日論壇報》（Daily Tribune）報導，PAGASA警告年底前菲律賓責任區內仍可能有至少一個新系統生成，強度甚至可能達到颱風或超級颱風級，屆時將命名為「Tomas」，但截至目前尚未成形。同時，全球災害預警系統GDACS於11月16日對北印度洋的熱帶氣旋「Akvan」發出橙色警示，估計約2,080萬人可能暴露於暴風等級風力範圍內，主要影響印度地區，與台灣並無直接關聯。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋阿克凡登陸安德拉邦，印度東岸一個月內第三度遭風暴侵襲",
-      "dek": "根據watchers.news報導，強烈氣旋風暴阿克凡（Akvan）已增強為強烈氣旋，印度氣象局預報其於11月20日中午前後在內洛爾至維沙卡帕特南一帶登陸，是三週內第三個侵襲同一海岸線的氣旋，安德拉邦、坦米爾納杜邦、奧里薩邦及西孟加拉邦均已發布豪雨強風警報。",
-      "url": "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+      "title": "超級颱風Champi成為2026年最強風暴，菲律賓巴丹群島維持二號警戒",
+      "dek": "Champi逼近菲律賓與台灣期間增強為今年最強烈的熱帶氣旋，菲律賓當局持續對巴丹群島發布二號警戒信號。",
+      "url": "https://watchers.news/2026/10/21/super-typhoon-champi-becomes-the-strongest-tropical-cyclone-of-2026-signal-no-2-remains-over-batanes-philippines/"
     },
     {
       "rank": 2,
-      "title": "安德拉邦嚴陣以待 氣旋阿克凡挾145公里強風逼近",
-      "dek": "OneIndia報導，印度氣象局預測阿克凡登陸風速將達每小時120至130公里，陣風高達145公里，沿海各區已展開撤離與防災整備，豪雨警報並擴及鄰近數邦。",
-      "url": "https://www.oneindia.com/india/cyclone-akvan-andhra-pradesh-braces-for-145-kmph-winds-landfall-expected-on-november-20-8261885.html"
+      "title": "強颱Champi逼近，台灣發布陸上颱風警報",
+      "dek": "中央氣象署在強颱Champi逼近之際發布陸上警報，逾百班航班取消，風暴北偏雖未直接登陸，仍為北台灣帶來強降雨、屏東及離島出現強風。",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
     },
     {
       "rank": 3,
-      "title": "阿克凡增強為強烈氣旋風暴，週五登陸安德拉邦前持續增強",
-      "dek": "據Swarajya報導，印度氣象局在阿克凡預定11月20日登陸前，已將其上修為「強烈氣旋風暴」等級，使其成為這波孟加拉灣風暴潮中最新一個侵襲印度東南岸的系統。",
-      "url": "https://swarajyamag.com/news-brief/cyclone-akvan-strengthens-to-very-severe-storm-ahead-of-friday-landfall-in-andhra-pradesh"
+      "title": "颱風Champi襲台，造成1死逾350人受傷",
+      "dek": "Champi最接近台灣期間造成1人死亡、逾350人受傷，全台學校與機關停班停課，班機大規模停飛。",
+      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
     },
     {
       "rank": 4,
-      "title": "氣旋阿爾納布重創安德拉邦，釀6至9死、損失逾46億盧比",
-      "dek": "《每日先鋒報》報導，10月28日登陸維沙卡帕特南至巴帕特拉一帶的氣旋阿爾納布（Arnab）造成6至9人死亡，經濟損失估計達46億盧比，14個行政區逾34.5萬名農民受影響，道路橋梁及電力設施嚴重受損。",
-      "url": "https://dailypioneer.com/india/cyclone-arnab-leaves-7-dead-causes-rs-4600-crore-loss-in-andhra-pradesh-345-lakh-farmers-affected"
+      "title": "Champi風災善後持續，官方確認1死634傷",
+      "dek": "中央災害應變中心最終彙整顯示，Champi造成1人死亡、634人受傷，農損逾1.93億元新台幣，台東富岡漁港一座大型吊車被吹落海中。",
+      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
     },
     {
       "rank": 5,
-      "title": "氣旋穆拉蘇侵襲安德拉邦釀2死，鐵路航空一度中斷",
-      "dek": "《德干先驅報》報導，氣旋穆拉蘇（Murasu）11月3日登陸印度東岸，造成2人死亡，並一度癱瘓安德拉邦鐵路與航空運輸，是繼阿爾納布後一個月內第二個侵襲同一海岸的氣旋。",
-      "url": "https://www.deccanherald.com/india/cyclone-murasu-kills-two-in-andhra-pradesh-disrupts-rail-and-air-services-4206212"
+      "title": "颱風「Cempaka」生成，成為2026年第32個命名風暴，創本世紀紀錄",
+      "dek": "Cempaka於11月7日生成，使2026年成為本世紀西太平洋颱風生成數最多的一年，超越2013年的31個紀錄。",
+      "url": "https://www.rustourismnews.com/2026/11/07/japans-typhoon-no-32-forms-as-champaka-threatens-pacific-islands/"
     },
     {
       "rank": 6,
-      "title": "氣旋沙維爾增強至五級，重擊庫克群島北部",
-      "dek": "紐西蘭電視台（1News/TVNZ）報導，氣旋沙維爾11月18日增強至五級強度，持續風速近每小時215公里、陣風達295至315公里，重創庫克群島北部馬尼希基島，其異常偏東路徑被歸因於強烈聖嬰現象。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "Cempaka在菲律賓責任區外增強為颱風",
+      "dek": "菲律賓氣象機構PAGASA表示，熱帶風暴Cempaka在尚未進入菲律賓責任區前已增強為颱風，預期隨後將短暫進入該區域。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
     },
     {
       "rank": 7,
-      "title": "沙維爾緩慢減弱，持續掠過庫克群島",
-      "dek": "1News報導，沙維爾已減弱為四級，在馬尼希基與普卡普卡之間移動，普卡普卡、納蘇及蘇瓦羅島的強風警報仍未解除，截至目前尚無更新進一步確認其是否已完全消散。",
-      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
+      "title": "Cempaka距台灣仍遠，東北風為北台灣帶來降溫",
+      "dek": "中央社報導，熱帶風暴Cempaka位於鵬鼻角以東約1,690公里處，對台灣無直接威脅，但伴隨東北風為北部帶來較涼天氣。",
+      "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
       "rank": 8,
-      "title": "颱風森巴成今年西北太平洋第32個編號颱風，刷新本世紀紀錄",
-      "dek": "watchers.news報導，颱風森巴（菲律賓名Samuel）11月7日生成，成為西北太平洋今年第32個編號颱風，超越2013年的31個紀錄，為本世紀最活躍颱風季；該系統其後轉向東北外海減弱，未侵襲台灣或菲律賓。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "颱風Cempaka轉向東北，掠過日本南方海域後減弱",
+      "dek": "日本氣象公司Weathernews指出，Cempaka巔峰強度達每小時約80節、中心氣壓960百帕，隨後路徑轉向東北，預計於11日左右掠過小笠原群島南方並減弱。",
+      "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
       "rank": 9,
-      "title": "PAGASA：年底前菲律賓責任區仍可能再有颱風生成",
-      "dek": "菲律賓《論壇報》報導，PAGASA氣候學家索利斯表示，在聖嬰現象持續影響下，年底前責任區內可能再出現一至兩個熱帶氣旋，甚至有機會達到颱風或超級颱風強度，今年迄今已有19個熱帶氣旋進入該國責任區。",
+      "title": "PAGASA示警：2026年底前可能再有颱風生成",
+      "dek": "菲律賓大氣地理天文服務管理局表示，年底前菲律賓責任區內可能再出現至少一個熱帶氣旋，強度甚至可能達颱風或超級颱風級，屆時將命名為「Tomas」。",
       "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 10,
-      "title": "聖嬰現象釀乾旱危機，斐濟宣布全國進入災害狀態",
-      "dek": "《自然世界新聞》報導，斐濟內閣11月18日核准全國進入災害狀態，以因應聖嬰現象導致的嚴重乾旱；同一聖嬰型態也被認為是南太平洋氣旋路徑異常偏東、侵襲庫克群島而非傳統的萬那杜、斐濟一帶的原因。",
-      "url": "https://www.natureworldnews.com/articles/73934/20261119/fiji-declares-nationwide-state-disaster-el-nino-drought-reaches-crisis-level.htm"
+      "title": "全球災害預警系統對北印度洋氣旋Akvan發出橙色警示",
+      "dek": "GDACS針對北印度洋熱帶氣旋Akvan發布橙色警示，最大風速約每小時93公里，估計約2,080萬人可能暴露於暴風等級風力範圍，預料將影響印度。",
+      "url": "https://www.defconlevel.com/alert/2026-11-16-gdacs-disasters-orange-notification-for-tropical-cyclone-akvan-26-population-affected-by-category-1-120-km-h-wind-speeds-or-higher-is-0-20-826-million-in-tropical-storm"
     }
   ]
 }
