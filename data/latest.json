@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T05:11:00+08:00",
+  "generated_at": "2026-11-26T06:12:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前並未針對台灣發布海上或陸上颱風警報，全球現無任何活躍熱帶氣旋，台灣現階段天氣由東北季風主導。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，近期相關訊息僅涉及東北季風冷氣團，與熱帶氣旋無關。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無颱風直接影響台中，當地近期降溫全因東北季風所致，未發布停班停課、強風或豪雨相關訊息。"
+    "text": "目前無任何熱帶系統影響台中，10月底颱風薔琦曾在西屯區造成局部路樹倒塌，但屬已結束的既往事件，台中目前無直接影響。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "全球颱風活動沉寂　菲國示警年底前仍可能生成",
-    "dek": "全球現無活躍熱帶氣旋，台灣轉由東北季風主導，但菲律賓氣象局估年底前仍可能再有颱風生成。"
+    "title": "西太平洋颱風季暫歇　目前無活躍颱風　台灣轉受東北季風影響",
+    "dek": "據中央氣象署等多國氣象機構觀測，截至11月25日，全球各海域均未有活躍熱帶氣旋，今年創紀錄的西北太平洋颱風季隨颱風「颾帕卡」減弱而暫告平靜。"
   },
   "headline_body": [
-    "西太平洋與南亞地區近兩週捲起今年最密集的風暴潮，但截至11月25日，全球海域已無任何活躍的熱帶氣旋，台灣也未受到任何颱風威脅。",
-    "綜合多方氣象機構報導，過去一個月堪稱今年風季最活躍的階段：西北太平洋今年已生成32個命名颱風，超越2013年的31個紀錄，成為1994年以來最活躍的一季；印度東岸在不到一個月內接連遭受三個熱帶氣旋襲擊；南太平洋北庫克群島也遭五級強烈氣旋重創。然而，這些系統均已在11月19日至20日前後登陸或減弱，此後未再監測到新的熱帶氣旋形成，顯示今年風季可能正進入階段性空窗。",
-    "據印度《Down To Earth》與《德干紀事報》報導，強烈氣旋風暴「阿克凡」（Akvan）是本月第三個襲擊印度東岸的氣旋，印度氣象局預測其於11月20日在奧里薩邦戈帕爾布爾附近登陸，當地已疏散逾10萬人，但目前未見登陸後的災損或死傷報告，顯示該系統登陸後迅速減弱。同一時間，據紐西蘭1News報導，五級強烈氣旋「澤維爾」（Xavier）以接近時速220至315公里的風力重創北庫克群島馬尼希基與拉卡漢加，隨後緩慢減弱，部分外島仍維持強風警告，主要衝擊為停電與碼頭設施損壞。",
-    "據氣象觀測網站Watchers.news引述日本氣象廳與中國氣象局資料，颱風「森巴」（Cempaka）於11月7日生成，成為西北太平洋今年第32個命名颱風，使2026年風季超越2013年紀錄，為1994年以來最活躍的一季；報導並指出，9月1日至11月9日間共有九個系統生成，但多數未在中國大陸登陸。菲律賓方面，據《GMA News》與《Tribune.net.ph》報導，菲律賓大氣地理天文服務管理局（PAGASA）本月初預測，在「強烈」反聖嬰現象影響下，11月仍可能有一至二個熱帶氣旋進入或生成於菲律賓責任海域；該局氣候學家並於11月10日表示，年底前仍可能有至少一個系統增強為颱風強度，顯示風季尚未真正結束。",
-    "就台灣而言，中央氣象署目前未發布任何海上或陸上颱風警報。上一次發布的颱風警報，是針對10月下旬襲台的颱風「薔琵」：海上警報於10月21日發布，造成1人死亡、約350人受傷後，陸上警報於10月24日下午2時30分解除，這仍是近期唯一直接影響台灣的颱風。此後台灣天氣轉由冬季東北季風主導，據《台北時報》報導，近期北部日高溫約攝氏20度，中南部約24至25度，氣溫下降但無颱風相關停班停課公告；以台中為例，當地近期降溫同樣全因東北季風所致，並未受任何活躍熱帶氣旋影響。"
+    "截至11月25日，根據台灣中央氣象署（CWA）、日本氣象廳、菲律賓大氣地球物理及天文服務署（PAGASA）、美國聯合颱風警報中心等機構的最新資料，全球各大洋域目前均無活躍熱帶氣旋。這使得創下史上最活躍紀錄的2026年西北太平洋颱風季，進入了一段罕見的平靜期。",
+    "今年颱風季最後一個獲確認的系統是颱風「颾帕卡」（Cempaka），即該季第31或第32個命名風暴。據中央氣象署10日報導，颾帕卡當時位於台北以東約1510公里海域，朝東北東方向移動，對台灣不構成直接威脅。該風暴隨後持續遠離台灣與菲律賓，並於11日左右減弱為溫帶低壓，自此再無新系統生成。據Watchers.news報導，颾帕卡的出現使今年西北太平洋颱風總數達到32個，超越2013年創下的31個紀錄，成為本世紀最活躍的颱風季。",
+    "目前中央氣象署未發布任何海上或陸上颱風警報。氣象署上一次發布颱風警報是針對10月下旬的颱風「薔琦」（Champi），該警報已於10月底解除；近期與氣象署相關的新聞，僅涉及一股東北季風冷氣團帶來的降溫，與熱帶系統無關。台中市目前亦未受任何熱帶系統直接影響；薔琦過境期間曾在台中西屯區造成局部路樹倒塌，但此屬已結束的既往事件。",
+    "回顧台灣今年受創最深的個案，薔琦於10月下旬掠過台灣東北部，帶來強風豪雨。據半島電視台報導，該颱風造成1人死亡、約350人受傷；據Watchers.news及印度「全印廣播電台」後續報導，中央災害應變中心最終確認的災情為1死、逾500人受傷，並導致班機取消與部分地區停電，農業損失約達新台幣1.93億元。",
+    "展望未來，菲律賓PAGASA尚未排除今年底前再有颱風侵襲菲律賓的可能性。據《每日論壇報》（Daily Tribune）10日報導，該機構氣候預報人員表示，雖然目前沒有系統即將形成，但不排除年底前仍有一個颱風經過菲律賓；據GMA News報導，PAGASA的季節展望更預估，到2026年底前菲律賓責任區內可能再有多達四個熱帶氣旋生成或進入。據亞洲新聞網引述PAGASA氣候監測主管索利斯（Ana Liza Solis）的說法，熱帶太平洋目前已出現「極強」等級的厄爾尼諾現象，預計將於年底達到高峰，其影響可能延續至2027年年中，並引發乾旱隱憂。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "氣旋「阿克凡」襲印度奧里薩邦海岸",
-      "dek": "據《Down To Earth》報導，印度疏散逾10萬人應對本月第三個登陸氣旋。",
-      "url": "https://www.downtoearth.org.in/natural-disasters/odisha-braces-for-severe-cyclonic-storm-akvan-evacuates-over-01-million-people"
+      "title": "中央氣象署：颱風颾帕卡對台灣不構成威脅",
+      "dek": "氣象署表示，颾帕卡當時位於台北以東約1510公里海域，持續朝東北東方向移動，遠離台灣。",
+      "url": "https://focustaiwan.tw/society/202611100005"
     },
     {
       "rank": 2,
-      "title": "五級氣旋「澤維爾」重創北庫克群島",
-      "dek": "據紐西蘭1News報導，澤維爾以時速逾300公里強風襲擊馬尼希基等島嶼。",
-      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+      "title": "熱帶風暴颾帕卡生成　台灣氣象部門密切觀測",
+      "dek": "颾帕卡為2026年太平洋颱風季第31號命名風暴，氣象署稱暫無直接影響台灣之虞。",
+      "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
       "rank": 3,
-      "title": "颱風「森巴」成今年第32個颱風",
-      "dek": "據Watchers.news引述氣象資料，森巴使今年成為1994年來最活躍颱風季。",
-      "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
+      "title": "颾帕卡在菲律賓責任區外增強為颱風",
+      "dek": "據菲律賓《每日詢問者報》報導，強烈熱帶風暴颾帕卡（菲方編號Samuel）在脫離菲律賓責任區前後增強為颱風，持續遠離菲律賓。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
     },
     {
       "rank": 4,
-      "title": "菲律賓氣象局：年底前仍可能有颱風",
-      "dek": "據《GMA News》報導，PAGASA估11月仍有一至二個熱帶氣旋進入菲律賓海域。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
-    },
-    {
-      "rank": 5,
-      "title": "颱風「薔琵」襲台致1死350傷",
-      "dek": "據半島電視台報導，薔琵為近期唯一直接影響台灣的颱風，已於10月24日解除警報。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
-    },
-    {
-      "rank": 6,
-      "title": "氣旋「阿爾納布」襲印度東岸致3死",
-      "dek": "據半島電視台報導，阿爾納布重創安德拉邦與奧里薩邦，損失逾46億盧比。",
-      "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
-    },
-    {
-      "rank": 7,
-      "title": "氣旋「穆拉蘇」登陸印度東岸",
-      "dek": "據半島電視台報導，穆拉蘇是一個月內第二個襲擊印度東岸的氣旋。",
-      "url": "https://aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
-    },
-    {
-      "rank": 8,
-      "title": "2026年成21世紀最活躍颱風季",
-      "dek": "據Watchers.news引述日本及中國氣象機構資料，今年風季超越2013年紀錄。",
+      "title": "颱風颾帕卡成為今年第32個颱風　創本世紀紀錄",
+      "dek": "颾帕卡的生成使2026年西北太平洋颱風總數達32個，超越2013年的31個，成為本世紀最活躍颱風季。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
+      "rank": 5,
+      "title": "PAGASA：不排除年底前再有颱風侵襲菲律賓",
+      "dek": "菲律賓氣候預報人員表示，雖然目前沒有系統即將形成，但年底前仍可能有至少一個颱風經過菲律賓。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+    },
+    {
+      "rank": 6,
+      "title": "菲律賓氣象部門：熱帶太平洋現「極強」等級厄爾尼諾",
+      "dek": "PAGASA氣候監測主管表示，此次厄爾尼諾現象預計年底達到高峰，影響可能持續至2027年年中。",
+      "url": "https://asianews.network/very-strong-el-nino-now-active-in-tropical-pacific-says-philippine-state-weather-bureau/"
+    },
+    {
+      "rank": 7,
+      "title": "PAGASA：年底前至多4個熱帶氣旋可能進入菲律賓責任區",
+      "dek": "菲律賓氣象部門季節展望估計，2026年底前責任區內可能再生成或進入多達四個熱帶氣旋。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1006846/pagasa-up-to-4-tropical-cyclones-may-enter-par-until-end-of-2026/story/"
+    },
+    {
+      "rank": 8,
+      "title": "颱風薔琦襲台　造成1死逾百人受傷",
+      "dek": "薔琦掠過台灣東北部，帶來強風豪雨並促使氣象署發布陸上警報，初報顯示1死約350人受傷。",
+      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+    },
+    {
       "rank": 9,
-      "title": "熱帶風暴「佩納」生成後消散",
-      "dek": "據DefconLevel引述聯合颱風警報中心資料，佩納僅為短暫系統未造成登陸影響。",
-      "url": "https://www.defconlevel.com/alert/2026-11-09-joint-typhoon-warning-center-tropical-storm-pena"
+      "title": "颱風薔琦留下1死逾百傷　台灣持續復原中",
+      "dek": "後續報導詳述薔琦過境後台灣的復原進度、基礎設施中斷情況，以及最終確認的傷亡數字。",
+      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
     },
     {
       "rank": 10,
-      "title": "台灣轉受東北季風主導降溫",
-      "dek": "據《台北時報》報導，台灣目前無颱風警報，氣溫下降主因冬季東北季風。",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/10/2003867492"
+      "title": "颱風薔琦造成台灣1死逾500傷　航班與電力受擾",
+      "dek": "國際通訊社報導指出，薔琦最終確認造成1死逾500人受傷，並導致台灣多地班機取消與停電。",
+      "url": "https://newsonair.gov.in/typhoon-champi-kills-one-injures-over-500-in-taiwan-disrupts-flights-and-power-supply/"
     }
   ]
 }
