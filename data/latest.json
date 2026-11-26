@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T10:11:00+08:00",
+  "generated_at": "2026-11-26T11:13:00+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報，全球海域目前亦無活躍命名颱風或熱帶氣旋，台灣天氣由大陸冷氣團與東北季風主導。",
+  "alert_desc": "目前無警報，中央氣象署尚未發布海上或陸上颱風警報。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無任何熱帶系統影響台中，氣象署亦未發布停班停課訊息；台中近期主要受大陸冷氣團與東北季風影響，與颱風無關，台中目前無直接影響。"
+    "text": "台中目前未受任何熱帶氣旋直接影響，近期唯一造成停班停課的颱風為今年7月的颱風巴威。"
   },
   "quick_links": [
     {
@@ -22,76 +22,76 @@
     }
   ],
   "headline": {
-    "title": "目前無活躍颱風　西北太平洋今年已創下32個颱風新高紀錄",
-    "dek": "全球目前沒有任何命名颱風或熱帶氣旋活動中，但今年西北太平洋生成的颱風數量已超越21世紀紀錄，氣象機構提醒年底前仍可能再有一個系統形成。"
+    "title": "台灣暫無颱風威脅　氣象署：目前天氣由東北季風主導",
+    "dek": "中央氣象署尚未發布任何海上或陸上颱風警報，西北太平洋今年第32個風暴「Cempaka」已轉向遠離台灣與菲律賓，南太平洋與孟加拉灣則分別出現強烈氣旋哈維爾與阿克凡。"
   },
   "headline_body": [
-    "根據多方氣象機構與媒體報導的交叉檢視，截至今日，全球各海域均無活躍的命名颱風或熱帶氣旋，菲律賓大氣地理天文服務管理局（PAGASA）的最新公告也明確顯示「菲律賓責任區內無活躍熱帶氣旋」。對台灣而言,這意味著目前沒有任何颱風系統直接威脅本島，中央氣象署亦未發布海上或陸上颱風警報。",
-    "然而，這個平靜的空窗期，是在一個創紀錄的颱風季之後出現的。本月7日生成的「天琴颱風」（菲律賓命名「薔米爾」）成為今年第32個颱風，超越2013年31個颱風的21世紀紀錄，也是1994年以來最活躍的一年。該颱風一度短暫進入菲律賓責任區，但當天即離開，強度巔峰時中心風速約每小時148公里，隨後轉向東北、遠離陸地，根據日本氣象廳與相關氣象機構預測，約在11月14日前後減弱為熱帶性低氣壓，全程未對台灣或菲律賓造成實質影響。",
-    "台灣本季最近一次直接受颱風影響，是10月下旬的「薔琵颱風」。中央氣象署於10月21日發布海上警報、22日發布陸上警報後，隨著環流遠離，已於10月25日全面解除警報，距今已逾一個月。",
-    "展望未來，PAGASA氣候學家蘇莉絲（Ana Liza Solis）表示，年底前菲律賓責任區仍可能再形成至少一個熱帶氣旋，不排除達到颱風甚至超級颱風強度，下一個預留命名為「湯瑪斯」（Tomas），但截至目前尚無證據顯示該系統已經生成。該局原先對11月的季度展望，也預期本月會有一至二個熱帶氣旋在責任區內形成或進入，歷史上較常登陸菲律賓的比科爾、東維薩亞斯或卡拉加地區。",
-    "至於台灣當前的天氣主導因素，並非颱風,而是大陸冷氣團南下與東北季風增強所帶來的降溫與風力增強，氣象署近期發布的多是大陸冷氣團與強風相關的提醒，而非颱風警報。中部地區包括台中，目前同樣未受任何颱風系統影響,也沒有因颱風而發布的停班停課公告，天氣變化同樣以轉涼為主。簡言之，太平洋這個創紀錄的颱風季正進入少見的空窗期，但觀測機構仍對年底前再生成一個系統保持警覺。"
+    "台灣這幾天的天氣變化，與颱風無關。截至目前，中央氣象署並未發布任何海上或陸上颱風警報，影響全台的仍是東北季風南下與鋒面系統，而非熱帶氣旋。對照西北太平洋海域，上一個成形的風暴——颱風Cempaka（菲律賓大氣地理天文服務管理局PAGASA稱之為「薩姆爾」）已在本月上旬遠離台灣與菲律賓，未對兩地造成直接衝擊。",
+    "根據監測機構Watchers.news報導，Cempaka於11月7日在西北太平洋生成，成為今年該海域第32個颱風，超越2013年的31個紀錄，是自1994年以來最活躍的一年。日本氣象機構Weathernews旗下報導指出，Cempaka生成後並未朝菲律賓、台灣方向前進，而是沿副熱帶高壓邊緣轉向，往日本南方海域東偏移動，預期將逐漸減弱並消散。",
+    "菲律賓《每日詢問者報》報導，Cempaka在進入菲律賓責任區（PAR）前已增強為颱風等級；當地通訊社GMA Network則指出，Cempaka進入責任區後，依菲國命名慣例獲得當地名稱「薩姆爾」，但同一天下午即離開責任區，PAGASA並確認這個風暴不會直接影響菲律賓。PAGASA在11月氣候展望中預估，本月責任區內仍可能有一至兩個熱帶氣旋形成或進入；菲律賓《論壇報》（Tribune.net.ph）報導則稱，年底前仍可能有一個颱風、甚至達到超級颱風等級的系統進入責任區，若成形將被命名為「湯瑪斯」。",
+    "放眼全球其他海域，熱帶氣旋活動並未停歇。紐西蘭媒體1News報導，南太平洋強烈氣旋「哈維爾」一度增強至最高的五級強度，肆虐庫克群島北部多個環礁，當地氣象部門隨即發布警報，風暴隨後緩慢減弱為四級並持續南移。另一方面，印度媒體《Down To Earth》報導，孟加拉灣氣旋「阿克凡」是該海域一個月內第三個生成的氣旋，印度氣象部門預測其將以強烈氣旋強度、接近每小時145公里的風速，登陸安德拉邦與奧迪夏邦沿海，孟加拉也因應發布港口警戒信號。",
+    "整體而言，雖然西太平洋、印度洋與南太平洋仍有多個系統活躍或剛減弱，但目前沒有任何風暴對台灣構成威脅，氣象署的預報重心仍放在東北季風與鋒面帶來的降雨與降溫上。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "天琴颱風生成　成為今年第32個颱風　改寫21世紀紀錄",
-      "dek": "11月7日於西北太平洋生成的天琴颱風，使今年颱風總數超越2013年的31個，創下21世紀以來最活躍紀錄，為1994年來僅見。",
+      "title": "颱風Cempaka成為今年第32個風暴　創下近百年同期紀錄",
+      "dek": "Watchers.news報導，Cempaka於11月7日在西北太平洋生成，超越2013年的31個颱風紀錄，是自1994年以來最活躍的一年。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
       "rank": 2,
-      "title": "天琴颱風進入菲律賓責任區　PAGASA以「薔米爾」命名",
-      "dek": "天琴颱風11月9日上午進入菲律賓責任區並獲在地命名「薔米爾」，當時距呂宋島東北約1370公里，氣象機構判斷不致直接影響菲律賓天氣。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1008791/typhoon-cempaka-enters-par-now-called-samuel-pagasa/story"
-    },
-    {
-      "rank": 3,
-      "title": "「薔米爾」颱風當日即離開菲律賓責任區",
-      "dek": "PAGASA在同日下午的公告中宣布，薔米爾颱風已離開責任區，顯示該系統始終未對菲律賓或台灣構成實質威脅。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1008861/typhoon-samuel-exits-par-pagasa/story/"
-    },
-    {
-      "rank": 4,
-      "title": "天琴颱風轉向東北　預測將於日本南方海域減弱",
-      "dek": "日本氣象廳相關分析顯示，天琴颱風將轉向東北、遠離陸地，巔峰強度後預計於11月14日前後減弱為熱帶性低氣壓。",
+      "title": "Cempaka轉向東行　遠離菲律賓與台灣海域",
+      "dek": "日本Weathernews報導，Cempaka在日本南方海域轉向東行，預期將減弱為強烈熱帶風暴，隨後消散為熱帶性低氣壓。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
+      "rank": 3,
+      "title": "Cempaka在進入菲律賓責任區前已增強為颱風",
+      "dek": "菲律賓《每日詢問者報》報導，Cempaka尚未進入菲律賓責任區（PAR）前，已增強至颱風等級。",
+      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par"
+    },
+    {
+      "rank": 4,
+      "title": "Cempaka進入菲律賓責任區　當地命名「薩姆爾」",
+      "dek": "菲律賓GMA Network報導，PAGASA依命名慣例，將進入責任區的Cempaka命名為「薩姆爾」。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008791/typhoon-cempaka-enters-par-now-called-samuel-pagasa/story"
+    },
+    {
       "rank": 5,
-      "title": "PAGASA示警：年底前菲律賓責任區可能再生成一個颱風「湯瑪斯」",
-      "dek": "菲律賓氣象機構氣候學家表示，不排除年底前再有一個系統進入責任區並達到颱風甚至超級颱風強度，但該系統尚未實際生成。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "「薩姆爾」當日離開責任區　菲國確認無直接影響",
+      "dek": "GMA Network報導，PAGASA證實颱風薩姆爾（Cempaka）進入責任區同一天下午即已離開，不會直接影響菲律賓。",
+      "url": "https://www.gmanetwork.com/news/weather/content/1008861/typhoon-samuel-exits-par-pagasa/story/"
     },
     {
       "rank": 6,
-      "title": "PAGASA十一月展望：預期一至二個熱帶氣旋在責任區內形成或進入",
-      "dek": "菲律賓氣象機構的月度展望指出，歷史上這類系統較常登陸比科爾、東維薩亞斯與卡拉加等地區，並提及今年強烈厄爾尼諾現象將於年底前達到高峰。",
+      "title": "PAGASA：11月責任區內仍可能有一至兩個熱帶氣旋",
+      "dek": "GMA Network報導，菲律賓氣象機構PAGASA在11月氣候展望中預估，當月責任區內可能再形成或進入一至兩個熱帶氣旋，多數地區雨量預期偏少。",
       "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
     },
     {
       "rank": 7,
-      "title": "穆拉蘇氣旋登陸印度東岸　一週內第二個襲擊同一地區的風暴",
-      "dek": "穆拉蘇氣旋重創安得拉邦沿岸，造成樹木傾倒、電線桿倒塌與低地積水，是繼阿納布氣旋後一週內第二度襲擊該地區的風暴。",
-      "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+      "title": "PAGASA：年底前可能再有颱風　下一個系統將命名「湯瑪斯」",
+      "dek": "菲律賓《論壇報》報導，PAGASA表示2026年底前仍可能有一個颱風、甚至超級颱風等級系統進入責任區，若成形將命名為「湯瑪斯」。",
+      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
     },
     {
       "rank": 8,
-      "title": "阿納布氣旋襲擊安得拉邦　近八萬九千人撤離",
-      "dek": "阿納布氣旋登陸印度安得拉邦沿岸前，當局已緊急撤離近八萬九千名居民，印度氣象局並示警當地將持續遭強風豪雨侵襲。",
-      "url": "https://www.click2houston.com/news/world/2026/10/28/cyclone-arnab-hits-indias-andhra-pradesh-state-as-tens-of-thousands-evacuate/"
+      "title": "南太平洋氣旋哈維爾增強至最高五級　重創庫克群島北部",
+      "dek": "紐西蘭媒體1News報導，氣旋哈維爾增強至五級強度，肆虐庫克群島北部的馬尼希基、拉卡漢加、普卡普卡與納蘇等環礁，當局發布警報。",
+      "url": "https://1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
     },
     {
       "rank": 9,
-      "title": "AccuWeather宣告2026大西洋颶風季提前落幕",
-      "dek": "氣象專家指出，受厄爾尼諾現象影響，今年大西洋颶風季活躍度偏低，全季僅出現十個命名風暴與一個颶風，季節提前約三週結束。",
-      "url": "https://www.accuweather.com/en/hurricane/2026-atlantic-hurricane-season-is-over/1955742"
+      "title": "氣旋哈維爾減弱為四級　持續南移",
+      "dek": "1News報導，哈維爾在庫克群島間減弱為四級，當地氣象部門對多個環礁維持警報，風暴預期將持續向南移動並逐漸減弱。",
+      "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/"
     },
     {
       "rank": 10,
-      "title": "台灣最近一次颱風「薔琵」　海上警報已解除逾一個月",
-      "dek": "中央氣象署於10月25日解除薔琵颱風海上警報，這是台灣目前為止本季最近一次直接受颱風影響的紀錄，距今已逾一個月。",
-      "url": "https://cna.com.tw/news/ahel/202610240199.aspx"
+      "title": "孟加拉灣氣旋阿克凡逼近　印度東岸發布警戒",
+      "dek": "印度媒體《Down To Earth》報導，阿克凡是孟加拉灣一個月內第三個氣旋，印度氣象部門預測其將以強烈氣旋強度登陸安德拉邦與奧迪夏邦沿海，孟加拉同步發布港口警戒。",
+      "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-third-cyclone-in-a-month-heads-towards-andhra-pradesh-odisha"
     }
   ]
 }
