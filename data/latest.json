@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-29T04:12:00+08:00",
+  "generated_at": "2026-11-29T05:12:58+08:00",
   "alert_level": "none",
   "alert_text": "目前無警報",
-  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；上一次警報紀錄為10月下旬因應強颱Champi發布的陸上颱風警報。",
+  "alert_desc": "中央氣象署目前未發布任何海上或陸上颱風警報；上一次警報紀錄為10月下旬因應強颱薔琵（Champi）發布的海上颱風警報，已於10月24日晚間解除。",
   "region_watch": {
     "region": "台中",
-    "text": "目前無直接影響台中。目前無任何活躍颱風系統，截至發稿，未有任何資料顯示台中市有因颱風而發布的停班停課或風雨特報。"
+    "text": "目前無直接影響。近期台灣天氣主要受東北季風南下影響，氣溫偏低，但並無任何颱風海上或陸上警報發布，台中地區也沒有停班停課相關消息。"
   },
   "quick_links": [
     {
@@ -22,75 +22,75 @@
     }
   ],
   "headline": {
-    "title": "全球颱風罕見「空窗」：畢琵重創台灣後趨緩，菲律賓氣象署示警年底前恐再添一個",
-    "dek": "在今年太平洋颱風季打破活躍紀錄之後，全球目前無任何活躍熱帶氣旋，但菲律賓氣象機構警告，受強勁的厄爾尼諾現象影響，年底前菲律賓責任海域仍可能再有一個颱風生成或進入。"
+    "title": "西太平洋颱風季刷新世紀紀錄後轉靜 台灣目前無颱風警報",
+    "dek": "在打破本世紀最多颱風紀錄之後，西北太平洋海域暫無活躍風暴，台灣目前僅受東北季風南下影響，氣象署並未發布任何海上或陸上颱風警報。"
   },
   "headline_body": [
-    "截至2026年11月28日，全球目前沒有任何活躍的熱帶氣旋，台灣也未面臨任何颱風威脅。根據美國國家颶風中心（NHC）最新的大西洋與東太平洋展望，目前兩大洋域均無系統活動；西太平洋方面，上一個被追蹤的系統Cempaka（菲律賓當地命名為Samuel）也已在11月中減弱並消散。台灣中央氣象署（CWA）方面，亦無任何海上或陸上颱風警報生效；《中央社》（Focus Taiwan）11月15日的報導顯示，台灣近期天氣僅受東北季風影響轉涼，與颱風無關。",
-    "這波平靜，是在今年異常活躍的颱風季之後出現的短暫喘息。10月下旬，強颱Champi重創台灣東北部，根據《半島電視台》（Al Jazeera）報導，風暴造成至少一人死亡、逾350人受傷，後續統計傷者人數一度接近500至634人。《馬來西亞星報》（The Star）報導，中央氣象署在風暴逼近前發布陸上颱風警報，範圍後擴大至19個縣市；《檀香山星報》（Honolulu Star-Advertiser）則指出，區域內逾千航班取消，原訂的美日軍演也因而受擾。根據《Khaleej Times》報導，Champi風眼最終並未直撲台灣本島，而是從外海掠過，但仍為東北部沿岸帶來破壞性風雨，其外圍環流同時為日本、菲律賓部分地區帶來強降雨。《Watchers.news》10月25日的後續報導指出，復原工作持續進行，最終死亡人數維持一人，傷者達數百人。",
-    "Champi之後，另一個系統Cempaka於11月初登場。根據《Watchers.news》報導，Cempaka於11月7日生成，成為2026年第32個颱風，追平自1994年以來西太平洋最活躍紀錄，超越2013年的31個。據日本氣象廳（JMA）預報並由Weathernews轉述，Cempaka隨後轉向東北，於11月11日左右掠過小笠原群島父島南方海域並持續減弱，未直接衝擊台灣、菲律賓或日本本土，至11月14日已減弱接近熱帶低氣壓強度。該系統進入菲律賓責任海域後被當地命名為Samuel，據《Inquirer.net》與《GMA Network》報導，菲律賓大氣地理天文服務署（PAGASA）一開始便預期其不會直接影響菲律賓天氣，系統約一天後便迅速離開責任海域，未造成登陸或人員傷亡。",
-    "展望未來，《Tribune.net.ph》報導指出，PAGASA氣候學家Ana Liza Solis表示，受海溫創紀錄偏暖及「極強」厄爾尼諾現象影響，年底前菲律賓責任海域仍可能再有至少一個熱帶氣旋生成或進入，強度甚至可能達到颱風或超級颱風級別；今年截至目前已有19個氣旋進入責任海域，下一個若形成將被命名為「Tomas」，但截至目前尚未確認生成。《GMA Network》報導的PAGASA月度展望亦預測，11月責任海域內可能有1至2個熱帶氣旋，歷史上較可能影響比科爾、東維薩亞斯及卡拉加地區，而受「極強」厄爾尼諾影響，全國降雨量預期將低於正常值甚多。"
+    "截至11月28日，西北太平洋海域並無任何颱風或熱帶風暴活動，台灣、菲律賓與日本均未受到任何熱帶氣旋威脅。這波平靜期，出現在一個創下歷史紀錄的風季之後：根據氣象網站watchers.news報導，11月7日形成的颱風「查帕卡」（Cempaka）成為今年第32個被命名的風暴，超越2013年的31個，寫下21世紀以來最活躍的單季紀錄。查帕卡形成之初並未威脅任何主要陸地，而根據日本氣象機構Weathernews wxtech報導，該風暴隨後在日本南方海域轉向東行，遠離人口密集的海岸地區，未曾登陸即減弱消散。",
+    "與此同時，另一熱帶系統「佩娜」（Pena）於11月6日在夏威夷南方的太平洋上生成。據NY1／美聯社報導，當時外界關注佩娜是否會跨越國際換日線，進而被重新編號為西太平洋第33號颱風；光明網／中國天氣報導更指出，氣象機構原評估佩娜可能於11月13日前後越過日期變更線。但《檀香山星報》（Honolulu Star-Advertiser）與《花園島報》（The Garden Island）相繼報導，佩娜在夏威夷南方海域逐漸減弱，預報機構到11月9日至10日已排除其增強為颱風的可能性，相關情境最終未成真。",
+    "台灣方面，根據中央社／Focus Taiwan報導，氣象署（CWA）11月8日確認查帕卡距台灣約1,690公里，不會對台灣天氣造成直接影響；11月15日的報導則顯示，台灣在11月中旬經歷兩波東北季風增強，部分地區氣溫降至攝氏14度以下，但整個降溫過程均與熱帶氣旋無關。換言之，台灣目前所受的，純粹是季節性東北季風南下帶來的低溫，而非任何風暴系統。",
+    "台灣上一次與颱風直接交手，是10月下旬的強烈颱風「薔琵」（Champi）。根據《海灣時報》（Khaleej Times）報導，薔琵雖未直撲台灣，但為日本與菲律賓帶來強降雨；台灣本島因薔琵一死數百傷，氣象署於10月24日晚間解除其海上警報。此後，氣象署未再對任何系統發布海上或陸上颱風警報——目前的「無警報」狀態，正是本次創紀錄風季畫下句點後，區域天氣轉趨平靜的最直接證據。"
   ],
   "items": [
     {
       "rank": 1,
-      "title": "強颱Champi重創台灣東北部 至少一人死亡逾350人受傷",
-      "dek": "《半島電視台》報導，強颱Champi帶來強風、豪雨與高浪，各地緊急撤離並停班停課。",
-      "url": "https://aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+      "title": "颱風查帕卡距台逾1,690公里 氣象署：無直接影響",
+      "dek": "中央社／Focus Taiwan報導，氣象署證實查帕卡雖為區域強烈風暴，但距離台灣遙遠，不致影響本島天氣。",
+      "url": "https://focustaiwan.tw/society/202611080013"
     },
     {
       "rank": 2,
-      "title": "強颱Champi逼近 台灣發布陸上颱風警報",
-      "dek": "《馬來西亞星報》報導，中央氣象署陸上警報範圍後擴大至19縣市，全島展開防颱準備。",
-      "url": "https://www.thestar.com.my/news/world/2026/10/22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
-    },
-    {
-      "rank": 3,
-      "title": "Champi逼近台灣 區域逾千航班取消、美日軍演受擾",
-      "dek": "《檀香山星報》報導，強颱級系統一度被追蹤為可能直撲台灣的大型颱風。",
-      "url": "https://www.staradvertiser.com/2026/10/22/breaking-news/typhoon-champi-nears-taiwan-disrupts-flights-and-u-s-japan-drills/"
-    },
-    {
-      "rank": 4,
-      "title": "超級颱風Champi避開台灣本島 仍為日本、菲律賓帶來豪雨",
-      "dek": "《Khaleej Times》報導，風眼從外海掠過台灣，但外圍環流仍波及周邊國家。",
+      "title": "強颱薔琵掠過台灣未登陸 日菲降下大雨",
+      "dek": "《海灣時報》報導，薔琵雖未直撲台灣，卻造成一死數百傷，並為日本與菲律賓帶來強降雨。",
       "url": "https://www.khaleejtimes.com/world/asia/super-typhoon-champi-spares-taiwan-direct-hit-brings-heavy-rain-to-japan-and-philippines"
     },
     {
-      "rank": 5,
-      "title": "Champi過後台灣持續復原 一死數百傷統計未變",
-      "dek": "《Watchers.news》報導，風災善後與基礎設施修復工作持續進行。",
-      "url": "https://watchers.news/2026/10/25/typhoon-champi-leaves-one-dead-and-hundreds-injured-as-recovery-continues-in-taiwan/"
+      "rank": 3,
+      "title": "東北季風接連南下 台灣多地低溫跌破14度",
+      "dek": "Focus Taiwan報導，11月中旬兩波東北季風增強帶來明顯降溫，惟整個過程與颱風無關。",
+      "url": "https://focustaiwan.tw/society/202611150011"
     },
     {
-      "rank": 6,
-      "title": "Cempaka成2026年第32個颱風 追平逾十年紀錄",
-      "dek": "《Watchers.news》報導，本季西太平洋颱風數量創下自1994年以來最活躍紀錄。",
+      "rank": 4,
+      "title": "颱風查帕卡成今年第32個風暴 創21世紀紀錄",
+      "dek": "氣象網站watchers.news指出，查帕卡的生成使本季命名風暴數超越2013年的31個，創下本世紀新高。",
       "url": "https://watchers.news/epicenter/typhoon-cempaka-spun-up-over-the-western-north-pacific-on-7-november-2026-it-is-now-the-32nd-typhoon-of-the-year-more-than-any-year-this-century-one-past-the-31-counted-in-2013/"
     },
     {
-      "rank": 7,
-      "title": "Cempaka轉向日本以南海域 未直接衝擊台灣與周邊",
-      "dek": "Weathernews引述日本氣象廳預報，系統掠過小笠原群島父島南方後持續減弱。",
+      "rank": 5,
+      "title": "日本編號「32號颱風」生成 太平洋島嶼受關注",
+      "dek": "RUS Tourism News報導，查帕卡在日方編號系統中被稱為第32號颱風，凸顯今年風季異常活躍的步調。",
+      "url": "https://www.rustourismnews.com/2026/11/07/japans-typhoon-no-32-forms-as-champaka-threatens-pacific-islands/"
+    },
+    {
+      "rank": 6,
+      "title": "查帕卡轉向東行 遠離日本南方海岸",
+      "dek": "日本氣象機構Weathernews指出，查帕卡在日本以南海域轉向，未對陸地造成威脅即減弱消散。",
       "url": "https://wxtech.weathernews.com/en/news/sky20261109-01/"
     },
     {
+      "rank": 7,
+      "title": "熱帶風暴佩娜生成於夏威夷南方 曾被視為潛在第33號颱風",
+      "dek": "NY1／美聯社報導，佩娜若跨越國際換日線，可能被重新編號為西太平洋颱風。",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/06/tropical-storm-pena-forms-in-the-pacific-ocean-south-of-hawaii"
+    },
+    {
       "rank": 8,
-      "title": "本地命名Samuel的Cempaka 迅速進入又退出菲律賓責任海域",
-      "dek": "《Inquirer.net》與《GMA Network》報導，PAGASA一開始便預期系統不會直接影響菲律賓。",
-      "url": "https://newsinfo.inquirer.net/2338301/typhoon-samuel-enters-par-not-expected-to-affect-philippines/amp"
+      "title": "陸媒曾預期佩娜越過日期變更線 可能編號颱風33號",
+      "dek": "光明網／中國天氣報導，氣象機構原評估佩娜可能於11月13日前後跨越換日線，惟該情境後未成真。",
+      "url": "https://m.gmw.cn/2026-11/10/content_1304584779.htm"
     },
     {
       "rank": 9,
-      "title": "PAGASA：年底前菲律賓責任海域可能再生成一個颱風",
-      "dek": "《Tribune.net.ph》報導，氣候學家指出極強厄爾尼諾與創紀錄暖海溫是潛在風險因子。",
-      "url": "https://tribune.net.ph/2026/11/10/pagasa-another-typhoon-possible-before-end-of-2026"
+      "title": "佩娜在夏威夷南方海域減弱",
+      "dek": "《檀香山星報》報導，佩娜持續減弱，增強為顯著風暴的可能性降低。",
+      "url": "https://www.staradvertiser.com/2026/11/09/breaking-news/tropical-storm-pena-weakens-far-south-of-hawaii/"
     },
     {
       "rank": 10,
-      "title": "PAGASA 11月展望：極強厄爾尼諾下預期1至2個熱帶氣旋",
-      "dek": "《GMA Network》報導，責任海域活動偏少，但比科爾、東維薩亞斯等地仍須留意。",
-      "url": "https://www.gmanetwork.com/news/weather/content/1007988/pagasa-sees-1-2-tropical-cyclones-in-par-in-november-2026/story/"
+      "title": "預報機構排除佩娜再度增強",
+      "dek": "《花園島報》報導，佩娜在夏威夷南方漂移減弱後，預報機構已不再預期其重新增強。",
+      "url": "https://www.thegardenisland.com/?p=427284"
     }
   ]
 }
