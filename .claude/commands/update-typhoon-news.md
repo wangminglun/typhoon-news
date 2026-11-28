@@ -29,6 +29,8 @@ Keep the design system (masthead, serif NYT-like styling in style.css) intact �
 Rewrite `fb_post.txt`: 2-4 sentence hook based on the new headline, then the page link `https://wangminglun.github.io/typhoon-news/`, a note that it auto-updates hourly, and a few relevant hashtags. This file is for the user to manually copy-paste to Facebook — do NOT attempt to auto-post via any API.
 
 ## Publish
-Commit all changed files (`index.html`, `style.css` if touched, `data/latest.json`, `fb_post.txt`) with a message like `Hourly update: <headline short summary>` and push to `origin main`. Verify the push succeeded.
+Before committing, make sure you are actually on the `main` branch, not detached HEAD — run `git status` / `git branch --show-current` first. If detached (common at container start), run `git checkout main` (or `git switch main`); if `origin/main` has moved ahead of local `main` since the clone (e.g. a previous/concurrent run already pushed), fetch and fast-forward or rebuild your content on top of the current `origin/main` tip rather than force-pushing over it. This matters because `git push origin main` from detached HEAD pushes the unchanged local `main` ref and silently no-ops ("Everything up-to-date") without publishing your new commit — it looks like success but nothing reaches GitHub Pages.
+
+Commit all changed files (`index.html`, `style.css` if touched, `data/latest.json`, `fb_post.txt`) with a message like `Hourly update: <headline short summary>` and push to `origin main`. After pushing, verify with `git log --oneline -1 origin/main` that the remote tip actually matches your new commit (not just that the push command exited 0).
 
 If, after a genuine search, there is truly no active or newsworthy typhoon anywhere in the world, replace the headline with a clear "目前無活躍颱风" (no active typhoon) notice and use the 10 slots for the most recent past storm recap / seasonal outlook instead of fabricating an active storm.
